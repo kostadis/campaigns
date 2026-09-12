@@ -36,7 +36,7 @@ I did not look at him. That was the correct move, and we both knew it.
 
 The redemption arc debate was thornier. The room was split along fairly clear lines: one faction held that Milo's account of Whistler's post-lycanthropy stage was too generous, glossing over a period that the text itself described as morally confused. The other faction — and this was the position I found more interesting — argued that Malfire's framing was the philosophical core of the entire book. *Operational expenses. Cost of living.* The argument being: you cannot assess a person's choices without accounting for the material conditions that structured those choices, and Milo's willingness to let Malfire speak that framing without refutation was itself a kind of authorial statement about the impossibility of uncomplicated heroism.
 
-Grygum, who I sometimes forget has a Sage's background until he deploys it at precisely the right moment, observed that the book also had an unreliable narrator, which was the most useful contribution anyone made to the discussion in the time we were there.
+Gyrgum, who I sometimes forget has a Sage's background until he deploys it at precisely the right moment, observed that the book also had an unreliable narrator, which was the most useful contribution anyone made to the discussion in the time we were there.
 
 "You say the real hero might have been the accountant?" he added, and the Whistlerites — this was the terminology, I gathered — did not know quite what to do with this.
 

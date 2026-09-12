@@ -8,7 +8,7 @@
 - Revealed motivations: Sacrifice and power in service of the Big Baboon Demon
 - Recent actions: Was engaged in combat against the party; her death caused her followers to break psychologically
 
-**Grygum**
+**Gyrgum**
 - Species/Role: Orc-cleric
 - Current state: Present and active during the battle
 - Recent actions: Attempted to talk to Plinki before combat; subject matter involved choice and dragon gods
@@ -83,7 +83,7 @@
 
 ## World Events
 
-- Grygum attempted to negotiate with Plinki before combat, referencing choice and dragon gods; Plinki did not respond positively
+- Gyrgum attempted to negotiate with Plinki before combat, referencing choice and dragon gods; Plinki did not respond positively
 - An unknown attacker(s) struck Eldeth from the darkness at the onset of combat, wounding her
 - Zalthir extinguished light sources, plunging the battlefield into magical darkness
 - Thorin charged into the magical darkness to engage in melee
@@ -113,7 +113,7 @@
 
 - The identity and nature of "the Big Baboon Demon" that Plinki and the derro cult serve is not explained
 - The egg seized by Daz is unidentified — its species of origin, ritual significance, and why the derro were protecting it are unknown
-- The nature of Grygum's message to Plinki about "choice and dragon gods" is not elaborated; his theological framing and its broader relevance are unresolved
+- The nature of Gyrgum's message to Plinki about "choice and dragon gods" is not elaborated; his theological framing and its broader relevance are unresolved
 - The second beholder-type creature's final fate is not confirmed; it was restrained but not described as killed
 - The attacker(s) who struck Eldeth from the darkness are not identified
 - Pelek's ability to possess or enter minds is confirmed but failed here; the limits and potential of this ability remain open

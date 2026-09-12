@@ -76,7 +76,7 @@
 
 ---
 
-**GM as Asha Vandree** — *After Grygum's Guiding Bolt misses her*
+**GM as Asha Vandree** — *After Gyrgum's Guiding Bolt misses her*
 > "I am blessed by Lolth!"
 
 ---
@@ -119,17 +119,17 @@
 
 ---
 
-**Ben Pfaff (as Grygum)** — *Reacting to Asha's condescension*
+**Ben Pfaff (as Gyrgum)** — *Reacting to Asha's condescension*
 > "I certainly don't like condescension, regardless of—oh."
 
 ---
 
-**Ben Pfaff (as Grygum)** — *Quietly, after Asha declares herself in charge*
+**Ben Pfaff (as Gyrgum)** — *Quietly, after Asha declares herself in charge*
 > "Let's put a period after that 'now that I'm in charge' thing."
 
 ---
 
-**Ben Pfaff (as Grygum)** — *Deciding to examine Ilvara's prayer book*
+**Ben Pfaff (as Gyrgum)** — *Deciding to examine Ilvara's prayer book*
 > "You know, I'm the cleric, so I'll examine it gingerly."
 
 ---

@@ -18,7 +18,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - Prefers to communicate uncomfortable institutional positions through intermediaries (used Kalan Strongbranch rather than speaking directly about Candlekeep's prisoner policy)
 
 ## History with the Party
-- **Gate arrival:** Received the party and assigned each member a personal handler — Daz to Sister Yvenne, Zalthir to Khell-Vire, Thorin to Master Archivist Philemon, Grygum to Vareth
+- **Gate arrival:** Received the party and assigned each member a personal handler — Daz to Sister Yvenne, Zalthir to Khell-Vire, Thorin to Master Archivist Philemon, Gyrgum to Vareth
 - **Spy incident:** When the party opened their bag at the gate and revealed the House T'sarran spy, Bookwyrm immediately identified the situation as unacceptable. She informed the spy that because they technically traveled as a guest of the party — not a formal prisoner — custody decisions rested with the party, not Candlekeep. Candlekeep's prisoner policy (hold but do not keep; eventually release at the gate with a warning) was communicated via Kalan Strongbranch rather than stated by her directly
 
 ## Current Status

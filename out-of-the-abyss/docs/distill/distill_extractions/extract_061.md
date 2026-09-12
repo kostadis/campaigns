@@ -1,6 +1,6 @@
 ## NPCs
 
-### Grygum (PC)
+### Gyrgum (PC)
 - Current location: Candlekeep, in Janussi's chambers investigating the murder. [cite: "Somebody go talk to Alkrist... I'm gonna go look into that."]
 - Cleric of Bahamut who takes notes obsessively as a record. [cite: "Whether Bahamut reads them or not, the record now exists"]
 - Gave a popular talk/colloquium on "the quadrangle issue." [cite: "your entire position on the quadrangle issue was, in fact, a brilliant insight"]
@@ -29,7 +29,7 @@
 
 ### Glabbagool
 - Current location: Candlekeep, with the party; present in Alkrist's interrogation. [cite: "Glabbagool was in the room with us, settled near the far wall."]
-- A gelatinous cube serving as Grygum's "secretary." [cite: "I indicated Glabbagool."]
+- A gelatinous cube serving as Gyrgum's "secretary." [cite: "I indicated Glabbagool."]
 - Declared he could eat through the safe and through walls. [cite: "Walls don't stop us. I can eat through walls."]
 - Grieves the absence of cheese. [cite: "I remember when there was cheese. Perhaps if we had some cheese."]
 
@@ -106,7 +106,7 @@
 
 ### Fembris Lancer
 - Current location: Candlekeep; left to find Kalan Strongbranch. [cite: "I'm gonna have to hunt Kalan Strongbranch down"]
-- Enthusiastic about Grygum's talk; wanted to co-author a monograph. [cite: "Grygum, that was fantastic!"]
+- Enthusiastic about Gyrgum's talk; wanted to co-author a monograph. [cite: "Gyrgum, that was fantastic!"]
 - Handed his notes to Glabbagool, who declared them inedible. [cite: "He handed them over."]
 
 ### Elian
@@ -132,7 +132,7 @@
 - Referenced (not present); previously told Daz someone powerful was paying to protect a man. [cite: "since Kaelira Duskryn told me bluntly that someone powerful was paying to protect a man"]
 
 ### Bahamut
-- Referenced deity Grygum serves and reports to. [cite: "as a cleric of Bahamut"]
+- Referenced deity Gyrgum serves and reports to. [cite: "as a cleric of Bahamut"]
 
 ### Jezebel
 - Sylvira Savikas's familiar, directed to arrange seating. [cite: "Jezebel! Organize the chamber's seats in front of me!"]
@@ -153,7 +153,7 @@
 
 ## World Events
 
-- Grygum delivered a well-received colloquium on "the quadrangle issue." [cite: "your entire position on the quadrangle issue was, in fact, a brilliant insight"]
+- Gyrgum delivered a well-received colloquium on "the quadrangle issue." [cite: "your entire position on the quadrangle issue was, in fact, a brilliant insight"]
 - On the murder day at 2:30pm, A'lai Aivenmore came to the Oak Tree Apothecary asking Leuwin for fennel. [cite: "at half past two on the day of the murder, asking Leuwin for fresh fennel"]
 - A dragonborn (Alkrist) entered the Apothecary, stole the poison vial, and spilled peppermint. [cite: "the stolen vial, peppermint spilled on the counter floor"]
 - 11:30pm: Janussi and Sylvira held an end-of-year meeting planning a Great Wheel library, ending in argument. [cite: "The end-of-year meeting had been at 11:30 PM"]
@@ -165,8 +165,8 @@
 - Janussi was killed; his heart was ripped out and his safe looted (attributed to Bookwyrm). [cite: "whatever had happened to Janussi's chest after that had nothing to do with Alkrist"]
 - Daral Yashenti reclaimed the poisoned book and poisoned himself by licking it. [cite: "he had licked his finger, licked the book, then licked his finger again"]
 - A Sylvira lookalike was seen in the kitchens ~1am and descending the stairs between 2–3am. [cite: "seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three."]
-- Grygum restored the wrapping paper with Mending and found a clean deliberate cut. [cite: "A clean cut, straight as a rule, separate from all the ragged tears."]
-- Grygum found Janussi's note revealing he blocked Kalan Strongbranch's proposal as solipsism. [cite: "Janussi had reviewed Kalan Strongbranch Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism"]
+- Gyrgum restored the wrapping paper with Mending and found a clean deliberate cut. [cite: "A clean cut, straight as a rule, separate from all the ragged tears."]
+- Gyrgum found Janussi's note revealing he blocked Kalan Strongbranch's proposal as solipsism. [cite: "Janussi had reviewed Kalan Strongbranch Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism"]
 - Daz interviewed Sylvira, establishing her alibi and a suspect list. [cite: "I marked it down as a verifiable alibi"]
 - Alkrist confessed fully under zone of truth cast by Kalan Strongbranch. [cite: "The confession followed in full."]
 - The party resolved to hand the evidence to Kalan Strongbranch. [cite: "we'd be like, dude, take it from here"]

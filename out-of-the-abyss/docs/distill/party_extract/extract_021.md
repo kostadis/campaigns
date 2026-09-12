@@ -13,10 +13,10 @@
 ## Arc Score Events
 
 - **Daz (Positive):** Successfully deceived Eldgrim, the leader of the Empty Scabbard assassin guild, into handing over a damning contract bearing the Deepking's seal — achieved through flattery (pretending to want Eldgrim's name for a book) and a coordinated distraction with Zalthir's breath weapon.
-- **Daz (Positive):** Identified the demonic possession of the dragon egg, providing critical intelligence to the party and strengthening his alliance with Grygum.
+- **Daz (Positive):** Identified the demonic possession of the dragon egg, providing critical intelligence to the party and strengthening his alliance with Gyrgum.
 - **Thorin (Negative/Reckless):** Repeatedly blurted out sensitive information to the assassins (revealing the party's opposition to Demogorgon, mocking the guild's name), frustrating Zalthir and potentially compromising operational security.
 - **Thorin (Positive):** Applied contract expertise to recognize the evidentiary value of the kill order and helped push for documentation of the deal.
-- **Grygum (Negative):** Saddened by the revelation that the dragon egg is demon-possessed, but resolved to confront the Derro magician responsible.
+- **Gyrgum (Negative):** Saddened by the revelation that the dragon egg is demon-possessed, but resolved to confront the Derro magician responsible.
 
 ## Relationships & Decisions
 

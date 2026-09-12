@@ -3,7 +3,7 @@
 - **Daz**: Demonstrated analytical ability by identifying that crystals provide protection against harmful gaze attacks (like Medusa). Collected protective crystals for future use.
 - **Zalthir**: Engaged a ghost in melee combat with fists, landing powerful blows. Later dealt devastating punches to a gargoyle.
 - **Thorin**: Finished off a gargoyle with thrown darts, overcoming its supernatural resistance to mundane weapons.
-- **Grygum**: Took significant wounds from a gargoyle's bite and claw attacks.
+- **Gyrgum**: Took significant wounds from a gargoyle's bite and claw attacks.
 
 **Items Gained (Party):**
 - Six valuable gems (600 gp each)

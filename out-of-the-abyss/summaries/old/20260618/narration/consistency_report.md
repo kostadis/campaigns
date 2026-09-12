@@ -17,9 +17,9 @@
 ---
 
 **Location:** Scenes (The Academic Distraction) / NPCs (Brother Vareth)
-**Issue:** Two naming concerns: (a) the scholar is called "Brother Vareth," and (b) his breakthrough is the "Grygumite triangle" → "quadrangle." Party.md tracks Grygum's theological contribution under a different label.
-**Evidence:** party.md (Grygum's relationships): "Vareth: New Candlekeep scholar contact... Grygum's '**Stroud's Gambit**' concept is now being integrated into Bahamut conversion scholarship." No "Brother" title and no "Grygumite triangle" on record.
-**Suggested fix:** Confirm whether "Grygumite triangle" is a new, distinct model or a renaming of "Stroud's Gambit," and reconcile so future docs don't carry two competing names for Grygum's theology. Verify the "Brother" honorific.
+**Issue:** Two naming concerns: (a) the scholar is called "Brother Vareth," and (b) his breakthrough is the "Gyrgumite triangle" → "quadrangle." Party.md tracks Gyrgum's theological contribution under a different label.
+**Evidence:** party.md (Gyrgum's relationships): "Vareth: New Candlekeep scholar contact... Gyrgum's '**Stroud's Gambit**' concept is now being integrated into Bahamut conversion scholarship." No "Brother" title and no "Gyrgumite triangle" on record.
+**Suggested fix:** Confirm whether "Gyrgumite triangle" is a new, distinct model or a renaming of "Stroud's Gambit," and reconcile so future docs don't carry two competing names for Gyrgum's theology. Verify the "Brother" honorific.
 
 ---
 

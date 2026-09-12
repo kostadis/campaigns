@@ -19,7 +19,7 @@ Derro, former prisoner at Velkynvelve. Self-proclaimed divine figure who genuine
 - Secretly worshipped a demonic power and maintained a hidden lair with an altar and collected bones
 
 ## History with the Party
-- **Velkynvelve:** Befriended the group during escape planning, proposing himself as the priority survivor. Thorin manipulated him by framing the party as pledged protectors of "the divine plan." Suggested sending Runc as a distraction. Showed interest in Grygum as a fellow follower of gods.
+- **Velkynvelve:** Befriended the group during escape planning, proposing himself as the priority survivor. Thorin manipulated him by framing the party as pledged protectors of "the divine plan." Suggested sending Runc as a distraction. Showed interest in Gyrgum as a fellow follower of gods.
 - **Prison Escape:** Led the other prisoners in rushing the guard chamber during the distraction created by Thorin, Zalthir, and Daz's confrontation with the guards. Participated in the scramble into the armory and fired a crossbow at the guard Imbros (missed).
 - **Escape & Travel:** Warned about giant spiders, fought alongside Sarith against a centipede creature, wagered with Jimjar about survival. Showed interest in Eldeth's trail-obscuring techniques. Consistently advocated traveling to Gracklstugh.
 - **Silken Paths & Beyond:** Asked Sarith to explain things he already knew. Expressed doubt about goblin guides. Helped the party notice a climbable ceiling across a gorge. Argued convincingly for disposing of bodies to avoid trackers. Correctly predicted bandits near Timmask mushrooms.
@@ -36,7 +36,7 @@ Derro, former prisoner at Velkynvelve. Self-proclaimed divine figure who genuine
 - **Daz:** Primary interrogator after Yukyuk's murder; ultimately his executioner. Daz later reflected on Buppido's complaints about the Council of Savants as genuine insight. Uses Buppido's betrayal to justify caution with new allies.
 - **Thorin:** Manipulated Buppido by pledging the party to protect "the divine plan." Delivered his eulogy.
 - **Zalthir:** Complex dynamic — Buppido once suggested Zalthir could be "part of the divine plan" (after overhearing ruthless suggestions); Zalthir said "I like him" after Buppido's truth-compelled insults; forced him to eat Tongue of Madness.
-- **Grygum:** Buppido showed interest in him as a fellow follower of gods. Grygum recognized Buppido's belief in his own divinity was genuine. Fell silent when Buppido was later mentioned.
+- **Gyrgum:** Buppido showed interest in him as a fellow follower of gods. Gyrgum recognized Buppido's belief in his own divinity was genuine. Fell silent when Buppido was later mentioned.
 - **Sarith:** Declared Sarith was sent by the divine plan to rescue him. Fought alongside him.
 - **Shuushar:** Subjected Buppido to lectures on "Kuo-toan-fulness" while he was gagged; Buppido later claimed Shuushar helped him see his madness.
 - **Pelek:** Former business partner; Buppido murdered him and dismembered his body for his shrine.

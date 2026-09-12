@@ -24,7 +24,7 @@ Revealed through the flumph's psychic trauma dump. Plinki is a derro who has fou
 
 ## Buppido
 
-Referenced by the flumph as having been its friend before going "stark raving mad." The party had already killed Buppido earlier in the caves. Grygum fell silent at the mention of his name. The flumph did not appear to know Buppido was dead.
+Referenced by the flumph as having been its friend before going "stark raving mad." The party had already killed Buppido earlier in the caves. Gyrgum fell silent at the mention of his name. The flumph did not appear to know Buppido was dead.
 
 ## Werz
 

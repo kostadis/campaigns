@@ -128,7 +128,7 @@ Two beats the arc assumed were done but the table **skipped** — both live now:
   The arc's *"ally before suspect"* trust bank (the demon-lord-evidence
   handoff) **never happened.** Her interview opens **cold**: a wary, ill,
   defensive suspect. **Consequence:** the rapport she'd otherwise have had
-  must be earned from zero — **Grygum treating her plague (or genuinely
+  must be earned from zero — **Gyrgum treating her plague (or genuinely
   believing her denial) is now the primary path** to the trust that later
   makes her the Session-5/6 battlefield ally. Don't play her as on-side.
 - **Glabbagool's Whispering Dome scene is still owed.** His single-shot

@@ -33,7 +33,7 @@ Scouted southwest cave and found myconids dancing erratically (unusual per Stool
 Served as primary contact for a flumph, receiving telepathic visions of a derro (Plinki) conducting evil rituals at a pyramid/obelisk, and a separate chamber linked to the Gray Ghosts and Council of Savants. Pressed for actionable intelligence but received little. Openly stated his reluctance to expand the mission: *"I was just trying to kill some time before I got some magical equipment."* Participated in negotiations with Gartokkar Xundorn and pushed for compensation.
 
 **Mesa Confrontation with Plinki**
-When Plinki's derro surrounded Grygum for sacrifice, Zalthir intervened immediately — cast magical darkness over the entire upper tier and grappled Plinki within it, restraining her. Grygum had earlier used him as leverage, warning Plinki that "the Drow hates dragons and will destroy the egg."
+When Plinki's derro surrounded Gyrgum for sacrifice, Zalthir intervened immediately — cast magical darkness over the entire upper tier and grappled Plinki within it, restraining her. Gyrgum had earlier used him as leverage, warning Plinki that "the Drow hates dragons and will destroy the egg."
 
 **Egg Dispute / Rump-a-dump**
 Became increasingly vocal about rescuing his friend Rump-a-dump, claiming the friend would never threaten him and referencing zombie creatures harvested from the dead. Ultimately agreed to hand the egg to Gartokkar and escape via the ports.
@@ -53,7 +53,7 @@ Acted as forward scout, reported contacts ahead. Summoned darkness during the de
 - **Shuushar:** Recognized his navigational value; wanted to keep him in the group
 - **Fargas Rumblefoot:** Skeptical; pressed Fargas to honor his bargain about treasure; assessed his claims as desperate or boastful
 - **Sarith:** Watchful; physically intervened when Sarith began walking toward the myconids
-- **Grygum:** Cordial enough that Grygum used Zalthir's reputation as a threat to leverage Plinki
+- **Gyrgum:** Cordial enough that Gyrgum used Zalthir's reputation as a threat to leverage Plinki
 - **Buppido:** Noted Buppido's comment about a "divine plan" involving him; did not act on the suspicion
 - **Yukyuk & Spiderbait (goblin guides):** Inadvertently secured their loyalty through his acrobatic display against the Spectator
 - **Rump-a-dump:** An off-screen friend Zalthir is increasingly insistent about rescuing

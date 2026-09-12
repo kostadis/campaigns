@@ -2787,7 +2787,7 @@ entities:
   type: npc
 - name: Gru Manga
   type: npc
-- name: Grygum
+- name: Gyrgum
   type: npc
 - name: Khaem
   type: npc
@@ -2955,7 +2955,7 @@ entities:
   aliases:
   - Stroudite
   - Stroud School
-  note: Philosophical/religious movement preaching 'mortal agency' (Grygum's 'Stroud's
+  note: Philosophical/religious movement preaching 'mortal agency' (Gyrgum's 'Stroud's
     Gambit'), opposed to Bahamutian orthodoxy; recurring across the Sword Coast arc
     and current Candlekeep play
 - name: the Ember Vanguard
@@ -2982,7 +2982,7 @@ entities:
   - Bahamutian
   note: One of the named positions in the 'Question of the Age' / Great Question philosophical
     debate (dragons/gods rule fate), opposed to the Stroudites' mortal-agency position;
-    a Daggerford priest declared himself 'a pure Bahamutian.' Grygum's own answer
+    a Daggerford priest declared himself 'a pure Bahamutian.' Gyrgum's own answer
     to the Question of the Age was 'the triangle, three options,' later expanded to
     a fourth by Fembris — the full framework of named positions may be worth its own
     note.
@@ -2999,11 +2999,11 @@ entities:
   type: faction
   note: Ancient magical civilization/empire; Dawnbringer sun-sword identified as late
     Netherese-era recovery, ~3000-4000 years old
-- name: the Grygumite triangle
+- name: the Gyrgumite triangle
   type: concept
   note: 'Brother Vareth''s academic framework/theory (now expanded to ''a quadrangle'');
     appears to be the same named-positions framework referenced in the Bahamutians
-    note re: Grygum''s answer to the Question of the Age (''the triangle, three options,''
+    note re: Gyrgum''s answer to the Question of the Age (''the triangle, three options,''
     later a fourth by Fembris)'
 - name: 1001 Tashalian Nights
   type: item
@@ -3050,7 +3050,7 @@ entities:
   note: Candlekeep attendant assigned by Bookwyrm to guard the Sanctum door
 - name: Dust of Suleiman
   type: item
-  note: Grygum's AoE damage effect/spell - 120ft range, 20ft sphere, 20 damage/turn
+  note: Gyrgum's AoE damage effect/spell - 120ft range, 20ft sphere, 20 damage/turn
 - name: Bookwyrm's Brownnosers
   type: faction
   note: Party's own nickname at Candlekeep, per Daral Yashenti - distinct from the
@@ -3144,9 +3144,9 @@ entities:
   aliases:
   - Dreamlands
   note: stone-giant term for the surface world (OotA Ch.4)
-- name: The Grygumite School
+- name: The Gyrgumite School
   type: faction
-  note: school Grygum (PC) claims to have founded as a Candlekeep bluff
+  note: school Gyrgum (PC) claims to have founded as a Candlekeep bluff
 - name: Raucous Mesa
   type: location
   aliases:
@@ -3945,8 +3945,8 @@ distinct:
   - Turvy
 - - Ellen
   - Elian
-- - The Grygumite School
-  - the Grygumite triangle
+- - The Gyrgumite School
+  - the Gyrgumite triangle
 - - Netheril
   - Netherese
 - - Northern Watch Post

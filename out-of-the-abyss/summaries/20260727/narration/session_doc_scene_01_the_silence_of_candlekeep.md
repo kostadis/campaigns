@@ -1,7 +1,7 @@
 ---
 scene: 01
 slug: the_silence_of_candlekeep
-narrator: Grygum
+narrator: Gyrgum
 scene_name: The Silence of Candlekeep
 session: 20260727
 ---

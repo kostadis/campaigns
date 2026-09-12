@@ -1,8 +1,8 @@
 ## Scene 1
-narrator: Grygum
+narrator: Gyrgum
 chunks: 1
 scene: A Recap of Intrigue and Betrayal
-focus: Grygum holds the key and orchestrates the transactional patience-play against Bookwyrm, so the thrice-fold proof and the fateful key handoff to Daz are his to recount.
+focus: Gyrgum holds the key and orchestrates the transactional patience-play against Bookwyrm, so the thrice-fold proof and the fateful key handoff to Daz are his to recount.
 
 ## Scene 2
 narrator: Daz
@@ -23,10 +23,10 @@ scene: The Death of Bookwyrm
 focus: Daz's arcane senses feel the breached wards like a hacked firewall, and only he can connect the torn throat and the "beast" note to Sylvira's abyssal son.
 
 ## Scene 5
-narrator: Grygum
+narrator: Gyrgum
 chunks: 1
 scene: Racing to the Sea Warden's Tower
-focus: Grygum's dismay at their failure to "serve and protect" and his surprise that scholars keep swordsmen colors the frantic run that unravels Kalan's fake-key deception.
+focus: Gyrgum's dismay at their failure to "serve and protect" and his surprise that scholars keep swordsmen colors the frantic run that unravels Kalan's fake-key deception.
 
 ## Scene 6
 narrator: Thorin

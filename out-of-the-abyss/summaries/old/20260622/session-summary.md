@@ -3,19 +3,19 @@
 Date: Jun 22nd, 2026
 
 ## Summary
-Grygum returned from his wildly successful colloquium to rejoin the party, who had been busy piecing together the threads of Janussi's murder. Daral, clearly desperate and believing himself to be dying of poison after licking his finger following contact with the very book he had reclaimed as a gift, laid on flattery so thick it was almost painful — calling Thorin a fantastic investigator and Dawnbringer a stunning, glorious sword. The party suspected Daral had mere hours before midnight claimed him, and they were not inclined to rush his salvation until his cooperation was secured. Meanwhile, the enthusiastic scholar Fembris Lancer arrived, breathless with excitement, pulling out a sheaf of personal notes and theories he desperately wished to share with Grygum, asking for recognition in his upcoming paper. Grygum, with practiced academic dismissiveness, directed him to leave the notes with his secretary — the grey ooze Glabbagool — who examined them carefully, declared them "not nutritious," lamented the absence of cheese, and reluctantly accepted them anyway. Fembris pivoted to proposing they write a monograph together, prompting Grygum to correct him on the meaning of the word — a running gag that recurred later with Elian.
+Gyrgum returned from his wildly successful colloquium to rejoin the party, who had been busy piecing together the threads of Janussi's murder. Daral, clearly desperate and believing himself to be dying of poison after licking his finger following contact with the very book he had reclaimed as a gift, laid on flattery so thick it was almost painful — calling Thorin a fantastic investigator and Dawnbringer a stunning, glorious sword. The party suspected Daral had mere hours before midnight claimed him, and they were not inclined to rush his salvation until his cooperation was secured. Meanwhile, the enthusiastic scholar Fembris Lancer arrived, breathless with excitement, pulling out a sheaf of personal notes and theories he desperately wished to share with Gyrgum, asking for recognition in his upcoming paper. Gyrgum, with practiced academic dismissiveness, directed him to leave the notes with his secretary — the grey ooze Glabbagool — who examined them carefully, declared them "not nutritious," lamented the absence of cheese, and reluctantly accepted them anyway. Fembris pivoted to proposing they write a monograph together, prompting Gyrgum to correct him on the meaning of the word — a running gag that recurred later with Elian.
 
 The party reviewed what they knew. A dragonborn, believed to be Alkrist, had been spotted at the Oak Tree Apothecary on the day of the murder, creating a mess while stealing something from the shelves. The poisoned gift — a book coated in a deadly substance called Midnight Tears — had been delivered to Janussi at the Dead Winter feast, and he had died at the stroke of midnight. Someone had also entered his chambers after his death, removing his heart and stealing both a locket and a sapphire gem. The party theorized that the sapphire and the locket had been taken by different people, since possessing the locket made the sapphire unnecessary — suggesting the theft was not the work of a single, coordinated hand.
 
 A clerk named Elian arrived to praise Thorin's investigative work and delivered a scholarly paper championed by the recently sidelined Kalan Strongbranch. The paper argued that no single magical result proves anything on its own — any one spell can be evaded or weaseled around — so the truth emerges only from combining multiple independent tools and facts. As the DM put it, "magic does not make evidence meaningful. It makes evidence adversarial." Elian hinted darkly that Kalan's passionate advocacy for this methodology was precisely why Janussi had wanted him removed, and that there was something rotten at the heart of Candlekeep worth uncovering. The party absorbed this with interest, particularly the implication that Kalan's firing may not have been entirely unconnected to the murder itself.
 
-The investigators divided their efforts, each working alone. Grygum climbed by himself to the third floor of Janussi's private chambers, discovering it served as a discreet love nest. There, tucked among the personal effects, he found a damning note in which Janussi had dismissed Kalan Strongbranch's investigative proposals as solipsism and a waste of time, making clear he had actively blocked the man's career ambitions. The discovery painted Kalan in a new and troubling light — a man whose life's work had been publicly humiliated and destroyed by the very person who now lay dead.
+The investigators divided their efforts, each working alone. Gyrgum climbed by himself to the third floor of Janussi's private chambers, discovering it served as a discreet love nest. There, tucked among the personal effects, he found a damning note in which Janussi had dismissed Kalan Strongbranch's investigative proposals as solipsism and a waste of time, making clear he had actively blocked the man's career ambitions. The discovery painted Kalan in a new and troubling light — a man whose life's work had been publicly humiliated and destroyed by the very person who now lay dead.
 
-While Grygum searched the chambers alone, Daz went by himself to the quarters of Sylvira, a tiefling researcher with copper-red skin and golden eyes who lay bedridden with a worsening fever. A spectral hand opened the door as he arrived, and Sylvira greeted him from beneath elegant lilac robes, her blue-black hair tangled and damp, a magical fire blazing the room to an uncomfortable heat while she shivered involuntarily. She was shocked to learn that someone had been impersonating her likeness around Candlekeep, and her indignation was genuine and fierce — at first she suspected Daz of trying to trick her, comparing it to a drow trick from Menzoberranzan before a strong roll convinced her of his sincerity. She pointed suspicion toward Daral Yashenti, a bitter and drunken poet, and toward Kazryn Nyantani, a former lover of Janussi's who had never forgiven Sylvira for replacing her in his affections. She also noted that as a tiefling who studied the infernal planes, she was an easy and convenient target — the kind of person people were already inclined to blame.
+While Gyrgum searched the chambers alone, Daz went by himself to the quarters of Sylvira, a tiefling researcher with copper-red skin and golden eyes who lay bedridden with a worsening fever. A spectral hand opened the door as he arrived, and Sylvira greeted him from beneath elegant lilac robes, her blue-black hair tangled and damp, a magical fire blazing the room to an uncomfortable heat while she shivered involuntarily. She was shocked to learn that someone had been impersonating her likeness around Candlekeep, and her indignation was genuine and fierce — at first she suspected Daz of trying to trick her, comparing it to a drow trick from Menzoberranzan before a strong roll convinced her of his sincerity. She pointed suspicion toward Daral Yashenti, a bitter and drunken poet, and toward Kazryn Nyantani, a former lover of Janussi's who had never forgiven Sylvira for replacing her in his affections. She also noted that as a tiefling who studied the infernal planes, she was an easy and convenient target — the kind of person people were already inclined to blame.
 
 Sylvira provided an alibi for the critical hours of the night. She had snuck out to visit her son, who lived within a magical sanctuary she had constructed for his protection, and had returned to her chambers sometime after midnight, after which she saw no one. Her son, born in the abyss, had infected her with an abyssal plague — the source of her worsening illness. She also revealed that it had been Bookwyrm, not Janussi, who had pushed hardest against Kalan Strongbranch's investigative proposals, and she cast further suspicion on Teles Ahvoste, a member of the Avowed who had harbored resentment toward Janussi for nearly twenty years after being passed over for Keeper of Tomes.
 
-Grygum retrieved the discarded wrapping paper from the dining-hall trash and, alone in Janussi's office, carefully reassembled the torn pieces using a mending cantrip. When the paper came back together, it revealed something telling — a precise, deliberate cut through the wrapping, confirming that the gift had been carefully opened, tampered with, and re-wrapped by someone who knew exactly what they were doing. The murder had not been a crime of passion. It had been planned.
+Gyrgum retrieved the discarded wrapping paper from the dining-hall trash and, alone in Janussi's office, carefully reassembled the torn pieces using a mending cantrip. When the paper came back together, it revealed something telling — a precise, deliberate cut through the wrapping, confirming that the gift had been carefully opened, tampered with, and re-wrapped by someone who knew exactly what they were doing. The murder had not been a crime of passion. It had been planned.
 
 Fembris returned with Kalan Strongbranch in tow. Thorin and Zalthir went to Alkrist's chambers to conduct the interrogation, with Kalan concealed just outside the room. Alkrist, a young bronze dragonborn with the polished confidence of someone accustomed to being the smartest person in the room — envisioned by the table as a "Dragonborn TechBro" in jeans and a black turtleneck — greeted them with an elaborate performance of grief and cooperation. Kalan quietly worked his truth-compelling magic, and Alkrist, caught entirely off guard by his sudden inability to deceive, began to unravel almost immediately. He revealed that on the day of the murder, he had first spoken with his aunt Bookwyrm, who was devastated to learn that Janussi intended to name A'lai as his successor rather than her. He had then met with Janussi himself, who had dismissed his research into germ warfare as dangerous and ordered him to abandon it entirely.
 
@@ -31,7 +31,7 @@ With the confession secured and the web of conspiracy laid bare, the party turne
 > "this is not food. I remember when there was cheese, perhaps if we had some cheese."
 > — Glabbagool
 
-*Acting as Grygum's secretary, Glabbagool receives Fembris's excited research notes, declares them "not nutritious," and crushes his academic dreams in the most ooze-like way possible. The DM compared Fembris's reaction to a writer whose script gets dropped straight into "the trash compactor."*
+*Acting as Gyrgum's secretary, Glabbagool receives Fembris's excited research notes, declares them "not nutritious," and crushes his academic dreams in the most ooze-like way possible. The DM compared Fembris's reaction to a writer whose script gets dropped straight into "the trash compactor."*
 
 > "I think Thorin is a fantastic investigator, an absolutely astonishing investigator, and his charming partner, Dawnbringer, is a stunning, absolutely stunning..."
 > — Daral
@@ -53,9 +53,9 @@ With the confession secured and the web of conspiracy laid bare, the party turne
 > "let me get this straight. So you're the great keeper of this library, right? Surrounded by all of these very powerful lizards who have all sorts of extravagant ways to get rid of you."
 > — The DM
 
-*The full picture of the conspiracy emerges: Janussi's extraordinary lack of wisdom on his annual review day — canceling research, denying succession, threatening exile, and humiliating Kalan's work all in one day — created a perfect storm of murderous motive. Grygum observed Janussi "may have high intelligence, but not high wisdom."*
+*The full picture of the conspiracy emerges: Janussi's extraordinary lack of wisdom on his annual review day — canceling research, denying succession, threatening exile, and humiliating Kalan's work all in one day — created a perfect storm of murderous motive. Gyrgum observed Janussi "may have high intelligence, but not high wisdom."*
 
-**When Grygum reassembles the discarded wrapping paper with a mending spell, it reveals a precise cut — confirming the gift was deliberately tampered with and re-wrapped around the poisoned book.**
+**When Gyrgum reassembles the discarded wrapping paper with a mending spell, it reveals a precise cut — confirming the gift was deliberately tampered with and re-wrapped around the poisoned book.**
 
 > "This is the part of the movie where they show what really happened."
 > — The DM
@@ -67,18 +67,18 @@ With the confession secured and the web of conspiracy laid bare, the party turne
 
 *Alkrist, still under the zone of truth, reveals that after the poisoning he brought two bottles of fine wine to Bookwyrm's chambers after midnight to celebrate — only for her to be appalled and storm out on him. He expected to be celebrated as a hero by his aunt; instead, his confession to her triggered a furious argument and implicated Bookwyrm in the cover-up.*
 
-**The party twice compared the case to *Murder on the Orient Express* — "one of those mysteries where everyone has a motive to kill someone" — concluding, as Grygum put it, "It turns out they were all guilty."**
+**The party twice compared the case to *Murder on the Orient Express* — "one of those mysteries where everyone has a motive to kill someone" — concluding, as Gyrgum put it, "It turns out they were all guilty."**
 
 ## Scenes
 ### Reunion and Debriefing
-#### Grygum returns from a popular talk to reunite with the party and discuss the ongoing murder investigation.
-- Grygum returns to the group after his wildly successful presentation, which had taken the audience by storm and been "an extraordinarily popular event."
+#### Gyrgum returns from a popular talk to reunite with the party and discuss the ongoing murder investigation.
+- Gyrgum returns to the group after his wildly successful presentation, which had taken the audience by storm and been "an extraordinarily popular event."
 - Daral praises Thorin's investigative skills and Dawnbringer's charm in an over-the-top fashion, clearly laying it on thick, while pleading for a quick Lesser Restoration: "The clock is ticking."
 - The party explains Daral's condition: as Thorin put it, "he gives a gift, and then decides if the person doesn't appreciate it enough, he should take it back. And in doing so, he actually licked his finger, and then licked the book, and then licked his finger." They suspect he is poisoned and will die at midnight, and want to secure his cooperation before healing him.
-- Fembris Lancer arrives, excited and passionate — "Grygum, that was fantastic!" — pulling out notes and theories he wishes to share with Grygum, asking for recognition in his paper.
-- Grygum dismissively directs Fembris to leave his notes with Glabbagool, his 'secretary.'
+- Fembris Lancer arrives, excited and passionate — "Gyrgum, that was fantastic!" — pulling out notes and theories he wishes to share with Gyrgum, asking for recognition in his paper.
+- Gyrgum dismissively directs Fembris to leave his notes with Glabbagool, his 'secretary.'
 - Glabbagool examines Fembris's notes, declares them 'not nutritious,' and laments the absence of cheese before reluctantly accepting them.
-- Fembris proposes co-writing a monograph; Grygum corrects him: "I think you might misunderstand the term monograph. It's a work that has one author." They negotiate down to a "duograph," then an autograph with acknowledgment, settling on a spot "in the acknowledgement section."
+- Fembris proposes co-writing a monograph; Gyrgum corrects him: "I think you might misunderstand the term monograph. It's a work that has one author." They negotiate down to a "duograph," then an autograph with acknowledgment, settling on a spot "in the acknowledgement section."
 - The party reviews the murder timeline, establishing that at 2:30 PM on the day of the murder, A'lai visited Leuwin at the Oak Tree Apothecary asking for fresh fennel for indigestion; while Orrin helped A'lai in the garden, the dragonborn (believed to be Alkrist) showed up, collected the poison, and made a mess. Nibbles the squirrel witnessed the "lizard-skinned person" that Leuwin missed.
 - The group debates whether the person who stole the sapphire and the person who stole the locket are the same individual, concluding they are likely different people, since the locket cannot be stolen from a living person who possesses it, and the sapphire can only recover the locket from someone else.
 - Zalthir clarifies that "the thief" in the notes refers to the person who made the mess in the apothecary (Alkrist), not the person who later removed the heart and looted the safe.
@@ -88,23 +88,23 @@ With the confession secured and the web of conspiracy laid bare, the party turne
 #### The party discusses why no single spell proves guilt on its own and receives a scholarly paper on combining multiple investigative tools.
 - The party debates the mechanics of polymorph spells (any creature within 60 feet, one-hour duration) and how they might relate to the sighting of a lookalike near the crime scene. Zalthir flags a timeline problem: the Sylvira lookalike was seen in the kitchens around 1 AM and again coming down the stairs between 2 and 3 AM — too far apart for a single one-hour polymorph, suggesting "something more is going on." The DM noted he would have to consult Claude to resolve whether it was an error or a "special spell."
 - A clerk named Elian approaches Thorin to praise his "very thorough, deductive work" in the kitchens and presents a research paper on criminal investigation methodology, sharing it via the "Ember Grapple."
-- The paper was championed by Kalan Strongbranch, who believed that magic makes evidence adversarial rather than reliable, and that facts must be collected and combined. Grygum compared its thesis to real-world magicians' card tricks: "one of the best ways to do something as a trick is to do something that would take so much time and effort that people just assume you couldn't have done it that way."
+- The paper was championed by Kalan Strongbranch, who believed that magic makes evidence adversarial rather than reliable, and that facts must be collected and combined. Gyrgum compared its thesis to real-world magicians' card tricks: "one of the best ways to do something as a trick is to do something that would take so much time and effort that people just assume you couldn't have done it that way."
 - The party learns that Kalan's approach was met with significant pushback, and Elian implies this controversy may be connected to why Kalan was fired — "I'm telling you, there is something rotten here."
-- The group discusses the philosophical nature of truth and the unreliability of speaking with the dead. Thorin asks, "if we were able to actually make Speak to the dead, how do you know that they're a reliable narrator?" Grygum quips, "Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?" — claiming he "made it up myself."
+- The group discusses the philosophical nature of truth and the unreliability of speaking with the dead. Thorin asks, "if we were able to actually make Speak to the dead, how do you know that they're a reliable narrator?" Gyrgum quips, "Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?" — claiming he "made it up myself."
 - Elian, like Fembris, angled for credit on a "monograph," and was similarly corrected, eventually settling for Thorin writing an introduction or preface.
 
 ### Splitting the Leads
 #### The investigators divide their efforts to interview key suspects and search for physical evidence.
 - Fembris Lancer urges the party to move quickly: "My friends, time is a wasting."
-- The party decides to split up: Grygum will investigate Janussi's chambers (specifically a third-story apartment with an open door), Daz will interview Sylvira, and others will prepare to interview Alkrist — with Zalthir noting the value of a "Dragonborn to Dragonborn" approach.
+- The party decides to split up: Gyrgum will investigate Janussi's chambers (specifically a third-story apartment with an open door), Daz will interview Sylvira, and others will prepare to interview Alkrist — with Zalthir noting the value of a "Dragonborn to Dragonborn" approach.
 - Fembris departs to locate Kalan Strongbranch so he can assist with a truth-seeking spell for the upcoming interrogation of Alkrist; Kalan had apparently "disappeared somewhere," forcing Fembris to hunt him down.
-- Grygum reminds the group to ask Alkrist about "what Alkrist burned at the feast," flagged as an open thread.
+- Gyrgum reminds the group to ask Alkrist about "what Alkrist burned at the feast," flagged as an open thread.
 
 ### Investigations in Janussi's Chambers
-#### Grygum, alone, explores the upper floors of Janussi's quarters, discovering evidence of academic rivalry and personal conflict.
-- Grygum investigates the third floor of Janussi's chambers, discovering it served as a private love nest. Grygum: "we kind of heard that Janussi had these habits."
+#### Gyrgum, alone, explores the upper floors of Janussi's quarters, discovering evidence of academic rivalry and personal conflict.
+- Gyrgum investigates the third floor of Janussi's chambers, discovering it served as a private love nest. Gyrgum: "we kind of heard that Janussi had these habits."
 - A note is found — opening with a "real academic insult" — revealing that Janussi actively blocked Kalan Strongbranch's proposal for new criminal investigation methodologies, dismissing them as solipsism and a waste of time, and that he "wasn't interested in creating all these rules and procedures so that Kalan could go detect a murder mystery."
-- The discovery establishes a strong motive for Kalan, as his career ambitions were directly thwarted by the victim. Grygum: "this really points to Kalan, pretty strongly."
+- The discovery establishes a strong motive for Kalan, as his career ambitions were directly thwarted by the victim. Gyrgum: "this really points to Kalan, pretty strongly."
 
 ### Interview with Sylvira
 #### Daz, alone, visits the ailing Sylvira to investigate the possibility that she is being framed for Janussi's murder.
@@ -122,8 +122,8 @@ With the confession secured and the web of conspiracy laid bare, the party turne
 - Daz needed a second persuasion roll (16) to keep the distraught Sylvira focused on the investigation after she broke down recalling her last words with Janussi.
 
 ### The Reassembled Evidence
-#### Grygum is alone in Janussi's office and uses magic to investigate the discarded wrapping paper retrieved from the dining-hall trash.
-- Grygum casts a mending spell to reassemble the torn pieces of wrapping paper found in the dining hall trash bucket.
+#### Gyrgum is alone in Janussi's office and uses magic to investigate the discarded wrapping paper retrieved from the dining-hall trash.
+- Gyrgum casts a mending spell to reassemble the torn pieces of wrapping paper found in the dining hall trash bucket.
 - The reassembled paper reveals a precise cut through the wrapping, separate from the natural tearing, confirming that the gift had been deliberately tampered with and re-wrapped around the poisoned book.
 - The party confirms the paper had been wrapped around the book — "the gift wrap for the deadly book."
 
@@ -150,7 +150,7 @@ With the confession secured and the web of conspiracy laid bare, the party turne
 #### The party weighs their options after uncovering a web of conspiracy involving multiple high-ranking members of Candlekeep.
 - The party discusses turning the evidence over to Kalan Strongbranch, who is present and has heard the whole confession, to allow him to take charge and 'clean house.' Thorin: "dude, take it from here."
 - Daz raises the possibility of blackmailing one or more suspects to extract rare information, particularly from A'lai, who as a drow might have knowledge Daz needs. The DM noted "who killed whom at Candlekeep, that's details. What's going on with Daz is, like, important."
-- Grygum observes that in such murder mysteries "you often find somebody who treats blackmail as a kind of career."
+- Gyrgum observes that in such murder mysteries "you often find somebody who treats blackmail as a kind of career."
 - The group reflects on Janussi's remarkable lack of wisdom in firing and insulting multiple powerful magic users all in a single day, jokingly reframing it as a "layoff" with possible "budgetary pressures on Candlekeep."
 - The party considers demanding significant rewards — including a book per suspect — for solving the complex murder.
 - The DM noted the zone of truth was "a shortcut to the murder mystery," though Thorin maintained "we probably would have gotten there anyways. They all were looking pretty guilty."
@@ -179,10 +179,10 @@ A festive location within Candlekeep where Alkrist placed the re-wrapped poisone
 A man who believes he has been poisoned after licking his finger following contact with a book he had reclaimed as a gift. He is desperately seeking a Lesser Restoration spell and laying on flattery thick to secure the party's help. He is also described as a bitter, drunken poet selling off his work to fund a library, and may possess information Daz needs.
 
 ### Fembris Lancer
-An enthusiastic Great Reader who is eager to collaborate with Grygum on academic work, asking for recognition in his paper. He has his own theories about the murder, repeatedly proposes co-writing a "monograph" (and is corrected), and assists the party by fetching Kalan Strongbranch for the interrogation. He was "crushed" when Glabbagool dismissed his notes.
+An enthusiastic Great Reader who is eager to collaborate with Gyrgum on academic work, asking for recognition in his paper. He has his own theories about the murder, repeatedly proposes co-writing a "monograph" (and is corrected), and assists the party by fetching Kalan Strongbranch for the interrogation. He was "crushed" when Glabbagool dismissed his notes.
 
 ### Glabbagool
-An intelligent grey ooze — Zalthir's shadow apprentice, acting as Grygum's ad-hoc 'secretary' for this scene. He rejected Fembris's notes as 'not nutritious' and lamented the absence of cheese ("I remember when there was cheese"), though he accepted the notes regardless. He noted he could eat through walls or safes if needed, but couldn't fit through the 1-inch crack in Alkrist's safe.
+An intelligent grey ooze — Zalthir's shadow apprentice, acting as Gyrgum's ad-hoc 'secretary' for this scene. He rejected Fembris's notes as 'not nutritious' and lamented the absence of cheese ("I remember when there was cheese"), though he accepted the notes regardless. He noted he could eat through walls or safes if needed, but couldn't fit through the 1-inch crack in Alkrist's safe.
 
 ### Elian
 A clerk at Candlekeep who admires Thorin's deductive work in the kitchens. He delivers a scholarly paper on criminal investigation methodology championed by Kalan Strongbranch, hints that Kalan's firing may be connected to the murder ("there is something rotten here"), and angles for credit on a monograph. He was upset by Janussi's reaction to the methodology.
@@ -246,7 +246,7 @@ A magical container used by the party to store items, including Fembris's notes 
 A scholarly document championed by Kalan Strongbranch, delivered to the party by Elian via the "Ember Grapple." It outlines a rigorous approach to criminal investigations that accounts for the adversarial nature of magical evidence — including a section on the unreliability of speaking with the dead — and was the source of conflict that may have led to Kalan's firing.
 
 ### Wrapping Paper
-Discarded paper from the poisoned gift, found in the dining hall trash bucket. When Grygum reassembled it using a mending spell, it revealed a precise cut separate from the tearing, confirming the gift had been deliberately tampered with and re-wrapped around the poisoned book.
+Discarded paper from the poisoned gift, found in the dining hall trash bucket. When Gyrgum reassembled it using a mending spell, it revealed a precise cut separate from the tearing, confirming the gift had been deliberately tampered with and re-wrapped around the poisoned book.
 
 ### Janussi's Note
 A document found in Janussi's private third-floor quarters, opening with an academic insult, detailing his disdain for Kalan Strongbranch's investigative theories, dismissing them as solipsism and a waste of time, and confirming he blocked Kalan's career proposals.
@@ -268,7 +268,7 @@ The wine Alkrist brought to Bookwyrm's chambers after midnight, with two glasses
 
 ## Spells
 ### Lesser Restoration
-A healing spell desperately requested by Daral to neutralize the poison he believes he contracted by licking his finger after touching the poisoned book he had reclaimed. Both Grygum and others in the party can cast it; the party noted there was "plenty of time to heal him" before midnight.
+A healing spell desperately requested by Daral to neutralize the poison he believes he contracted by licking his finger after touching the poisoned book he had reclaimed. Both Gyrgum and others in the party can cast it; the party noted there was "plenty of time to heal him" before midnight.
 
 ### Polymorph
 A transformation spell discussed by the party as the likely method used to impersonate Sylvira around Candlekeep — any creature within 60 feet, one-hour duration. Its standard one-hour duration created a timeline problem (sightings at 1 AM and 2–3 AM), suggesting either multiple castings or a more powerful variant.
@@ -277,7 +277,7 @@ A transformation spell discussed by the party as the likely method used to imper
 A spectral floating hand conjured by Sylvira's familiar Jezebel to magically open the door to Sylvira's quarters as Daz arrived.
 
 ### Mending
-Cast by Grygum to perfectly reassemble the torn pieces of wrapping paper found in the dining hall trash, revealing that the gift had been precisely cut open and re-wrapped around the poisoned book.
+Cast by Gyrgum to perfectly reassemble the torn pieces of wrapping paper found in the dining hall trash, revealing that the gift had been precisely cut open and re-wrapped around the poisoned book.
 
 ### Zone of Truth
 Cast by Kalan Strongbranch (concealed outside the room) during the interrogation of Alkrist. Alkrist failed his saving throw and was rendered unable to speak deliberate lies, leading to a full confession of his role in the conspiracy to poison Janussi. The DM described it as "a shortcut to the murder mystery."

@@ -39,7 +39,7 @@ Goblin guide of the Silken Paths (paired with Spiderbait). *Also known as: Yukyu
 - **Zalthir:** Earned Yuk-Yuk's genuine admiration through acrobatic combat; this was the key reason Yuk-Yuk stayed with the group.
 - **Topsy:** Friendly — excitedly shared his web-surfing stories with her.
 - **Buppido:** His killer.
-- **Grygum:** Commented on the murder, noting any group member could be guilty (before Buppido's responsibility was revealed).
+- **Gyrgum:** Commented on the murder, noting any group member could be guilty (before Buppido's responsibility was revealed).
 
 ## Arc Score Events
 - Buppido's murder of Yukyuk likely constitutes a significant narrative event tied to Buppido's arc (direction: escalation of Buppido's "divine plan" killings).

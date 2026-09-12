@@ -16,12 +16,12 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 
 ## Personality & Motivations
 - Believes in Phylo's vision for reorganizing Myconid society into specialized circles, viewing it as more efficient than the old communal meld. Dismisses Basidia's warnings as "exaggerated doom and gloom."
-- Patient and good-natured — when Grygum awkwardly asked about mushrooms eating mushrooms, Hepbobe calmly explained that Myconids are sentient herbivorous fungi with individual food preferences and cooking styles.
+- Patient and good-natured — when Gyrgum awkwardly asked about mushrooms eating mushrooms, Hepbobe calmly explained that Myconids are sentient herbivorous fungi with individual food preferences and cooking styles.
 - Pragmatic and productivity-focused; complained that the old communal meld led to people droning on about niche topics no one cared about.
 
 ## History with the Party
 - The party visited the Circle of Growers and met Hepbobe, who gave them a tour of the irrigation tunnels and the various fungi cultivated to feed the community.
-- Hepbobe fielded Grygum's questions about Myconid dietary habits with patience.
+- Hepbobe fielded Gyrgum's questions about Myconid dietary habits with patience.
 - When the party prodded about Phylo, Hepbobe openly defended the new organizational structure and expressed optimism that Phylo's vision could lead to "a better day for Myconid kind."
 - Zalthir later confirmed with Basidia that Hepbobe's food supply was **not contaminated** with evil spores.
 

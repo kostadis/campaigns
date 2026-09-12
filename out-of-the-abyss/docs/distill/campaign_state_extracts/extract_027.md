@@ -14,7 +14,7 @@
 
 ### Derro cultists in Whorlstone Tunnels
 - **Session:** Chapter 22
-- **Outcome:** All derro enemies killed. Multiple killed by Daz's Magic Missiles, Grygum's Tasha's Caustic Brew, and Zalthir's strikes.
+- **Outcome:** All derro enemies killed. Multiple killed by Daz's Magic Missiles, Gyrgum's Tasha's Caustic Brew, and Zalthir's strikes.
 
 ## NPC State Changes
 

@@ -87,7 +87,7 @@
 - Recent actions: Moved closer during the gargoyle battle and threw darts, finishing off the first gargoyle despite its supernatural resistance to mundane weapons
 - Faction: Traveling party
 
-**Grygum**
+**Gyrgum**
 - Current location: Rock blight caverns (in combat)
 - Current state: Wounded; bitten and clawed viciously by the second gargoyle for significant wounds
 - Recent actions: Targeted and attacked by the second gargoyle
@@ -138,7 +138,7 @@
 - The party collected Udhask's bones to fulfill Jadger's quest.
 - The party reached a shallow stream with crystal formations and a stone ledge; they sent Glabbagool to investigate two winged statues.
 - The statues animated as gargoyles and attacked; Zalthir, Daz, and Thorin fought one gargoyle, with Thorin finishing it off.
-- The second gargoyle attacked Grygum, wounding him significantly.
+- The second gargoyle attacked Gyrgum, wounding him significantly.
 - A crazed earth elemental erupted from the ground mid-battle; combat was ongoing at end of session.
 
 ---

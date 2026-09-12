@@ -1,6 +1,6 @@
 ## NPCs
 
-**Grygum**
+**Gyrgum**
 - Current location: Derro cave/ritual chamber
 - Current state: Alive, combat concluded
 - Recent actions: Cast acid spell hitting three Derro; knocked prone by Derro hook sphere attack; concentration broken; regained footing; cast Tasha's Caustic Brew hitting three Derro (one fully affected); cast True Strike; struck a Derro with mace
@@ -17,7 +17,7 @@
 **Daz**
 - Current location: Derro cave/ritual chamber
 - Current state: Alive, combat concluded
-- Recent actions: Cast Magic Missile (two bolts at weaker Derro northeast of Grygum, one bolt at stronger Derro); killed weaker Derro instantly; commanded Maximilian's Earthen Grasp to further squeeze Narrak; examined the two-foot-tall statue; found "The Rituals of the Two-Headed Beast" and other texts among Narrak's belongings; considered tactical next steps; dismissed idea of installing democracy
+- Recent actions: Cast Magic Missile (two bolts at weaker Derro northeast of Gyrgum, one bolt at stronger Derro); killed weaker Derro instantly; commanded Maximilian's Earthen Grasp to further squeeze Narrak; examined the two-foot-tall statue; found "The Rituals of the Two-Headed Beast" and other texts among Narrak's belongings; considered tactical next steps; dismissed idea of installing democracy
 - Faction: Member of party
 - Notes: Has Maximilian's Earthen Grasp spell; tactical, intelligence-focused mindset
 
@@ -31,7 +31,7 @@
 **Narrak**
 - Current location: Derro cave/ritual chamber — deceased
 - Current state: Dead, killed by Thorin
-- Recent actions: Shouted "fools, your sacrifice is but a step toward glory!" (twice, second time with waning conviction); attacked Grygum; attacked Thorin with a short spear; attempted to break free of Maximilian's Earthen Grasp and failed; final words: "No, the ritual cannot be undone!"
+- Recent actions: Shouted "fools, your sacrifice is but a step toward glory!" (twice, second time with waning conviction); attacked Gyrgum; attacked Thorin with a short spear; attempted to break free of Maximilian's Earthen Grasp and failed; final words: "No, the ritual cannot be undone!"
 - Faction: Cultist; follower of a demonic power (implied Demogorgon affiliation); orchestrator of the ritual
 - Motivations: Completing an unspecified ritual involving the two-headed stone giant statue; pursuing "glory" through sacrifice
 - Secrets/Revealed: Was reading "The Rituals of the Two-Headed Beast"; orchestrated the ritual that drove one of Hargaam's giants mad
@@ -40,14 +40,14 @@
 **Gru Manga**
 - Current location: Derro cave/ritual chamber — deceased
 - Current state: Dead, killed by Zalthir
-- Recent actions: Roared/bellowed at Grygum (believed Grygum was source of his pain); fought while blinded and grappled by Zalthir's tentacles; killed by Zalthir's decisive final blow
+- Recent actions: Roared/bellowed at Gyrgum (believed Gyrgum was source of his pain); fought while blinded and grappled by Zalthir's tentacles; killed by Zalthir's decisive final blow
 - Faction: None specified; associated with the Derro/ritual scene
 - Notes: Described as a hulking Ettin (two-headed creature)
 
 **Derro (unnamed, multiple)**
 - Current location: Derro cave/ritual chamber
 - Current state: Most or all dead
-- Recent actions: Chanted "die, die, die"; one burst from Zalthir's darkness and struck Grygum with a hook sphere, knocking him prone and breaking his concentration; multiple killed by Grygum's acid spells, Zalthir's strikes, and Daz's Magic Missile; one affected by Tasha's Caustic Brew (takes damage at start of turns)
+- Recent actions: Chanted "die, die, die"; one burst from Zalthir's darkness and struck Gyrgum with a hook sphere, knocking him prone and breaking his concentration; multiple killed by Gyrgum's acid spells, Zalthir's strikes, and Daz's Magic Missile; one affected by Tasha's Caustic Brew (takes damage at start of turns)
 - Faction: Derro; supporters of Demogorgon
 - Notes: One Derro referenced as still unnoticed in the background post-combat (noted by Daz as "a detail for later consideration")
 
@@ -61,14 +61,14 @@
 **Stool**
 - Current location: Derro cave/ritual chamber (present post-combat)
 - Current state: Alive
-- Recent actions: Pleaded with Zalthir and Grygum to go save "Rump-a-dump" immediately after combat ended
+- Recent actions: Pleaded with Zalthir and Gyrgum to go save "Rump-a-dump" immediately after combat ended
 - Faction: Unknown; traveling with party
 - Notes: Appears to be a non-humanoid creature (name and speech pattern suggest a myconid or similar); "Rump-a-dump" is a person Stool wishes to rescue
 
 **Rump-a-dump**
 - Current location: Unknown; not present in this session
 - Current state: Unknown; implied to be in need of rescue
-- Notes: Does not appear in this chunk; referenced only by Stool in an urgent plea to Zalthir and Grygum; identity and circumstances unknown
+- Notes: Does not appear in this chunk; referenced only by Stool in an urgent plea to Zalthir and Gyrgum; identity and circumstances unknown
 
 **Hargaam**
 - Current location: Not present in this chunk
@@ -79,7 +79,7 @@
 
 ## Factions
 
-**Party (Grygum, Zalthir, Daz, Thorin)**
+**Party (Gyrgum, Zalthir, Daz, Thorin)**
 - Current goals: Survive; gather intelligence and evidence; determine next steps after defeating Narrak
 - Recent actions: Defeated Gru Manga, Narrak, and all Derro combatants; recovered evidence items from Narrak's body and chest
 - Relationships: Were previously prisoners; now described as "a formidable force"; were sent into these caves by four different factions
@@ -126,12 +126,12 @@
 
 ## World Events
 
-- Gru Manga the Ettin roared at Grygum, believing him the source of his pain, and charged
-- A Derro burst from Zalthir's sphere of darkness and struck Grygum with a hook sphere, knocking him prone and breaking his concentration on his acid spell
+- Gru Manga the Ettin roared at Gyrgum, believing him the source of his pain, and charged
+- A Derro burst from Zalthir's sphere of darkness and struck Gyrgum with a hook sphere, knocking him prone and breaking his concentration on his acid spell
 - Zalthir activated his Eldritch Maul, moved the sphere of darkness over Gru Manga, grappled Gru Manga with his tentacles, and eventually delivered the killing blow
 - Daz killed a weaker Derro instantly with Magic Missile
-- Grygum cast Tasha's Caustic Brew, coating three Derro in acid; one was fully affected
-- Narrak, restrained by Maximilian's Earthen Grasp, attacked Grygum and then Thorin with a short spear; he failed to break free of the grasp
+- Gyrgum cast Tasha's Caustic Brew, coating three Derro in acid; one was fully affected
+- Narrak, restrained by Maximilian's Earthen Grasp, attacked Gyrgum and then Thorin with a short spear; he failed to break free of the grasp
 - Daz commanded Maximilian's Earthen Grasp to squeeze Narrak further
 - Thorin healed himself and then delivered the killing blow to Narrak
 - Narrak's final words were "No, the ritual cannot be undone!"
@@ -141,7 +141,7 @@
 - The party looted Narrak's body and chest, recovering gold, Keoghtom's Ointment, "The Rituals of the Two-Headed Beast," and other strange texts
 - JimJar advised the party to hold onto the recovered evidence for future leverage
 - Daz dismissed the idea of installing democracy due to Duergar paranoia and invisibility
-- Stool pleaded with Zalthir and Grygum to go rescue "Rump-a-dump"
+- Stool pleaded with Zalthir and Gyrgum to go rescue "Rump-a-dump"
 
 ---
 

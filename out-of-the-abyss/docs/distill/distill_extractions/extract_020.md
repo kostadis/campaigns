@@ -49,17 +49,17 @@
 **The Flumph** (also referred to as "Buppido" in prior context, operating as The Flumph)
 - Current location: Ghohlbrorn's Lair / travelling with group
 - Current state: Active; expresses desire for more "trauma" to dump
-- Recent actions: Performed a trauma dump on Errde at Daz's encouragement; received a gem from Werz, played with it, then dropped it (turned light blue, then green, then magenta); gem subsequently pocketed by Grygum
+- Recent actions: Performed a trauma dump on Errde at Daz's encouragement; received a gem from Werz, played with it, then dropped it (turned light blue, then green, then magenta); gem subsequently pocketed by Gyrgum
 - Faction: Travelling group
-- Motivations/Secrets: Has psychic/telepathic ability used to communicate (Daz used the Flumph to speak directly into Grygum's mind); previously complained (as Buppido) that the Council of Savants was more interested in self-preservation than freeing the Derro
+- Motivations/Secrets: Has psychic/telepathic ability used to communicate (Daz used the Flumph to speak directly into Gyrgum's mind); previously complained (as Buppido) that the Council of Savants was more interested in self-preservation than freeing the Derro
 
 **The Ghost** (unnamed phantasm)
 - Current location: Travelling with group
-- Current state: Present; received gem via Grygum on Werz's behalf
+- Current state: Present; received gem via Gyrgum on Werz's behalf
 - Recent actions: Used as a threat in NDA negotiations (Daz noted the group could only promise "the haunting of a ghost"); Werz shuddered at the sight of it
 - Faction: Travelling group
 
-**Grygum**
+**Gyrgum**
 - Current location: Shattered Spire, then Ghohlbrorn's Lair, then Clan Ironhead area
 - Current state: Active
 - Recent actions: Crossed the bridge to the Shattered Spire; met with Werz; pocketed the Flumph's dropped gem; questioned Werz about enemies; suggested using Werz as bait; noted Werz's mention of Stone Guard bribe timing in relation to the Faerzess; accompanied group to Clan Ironhead; reminded the group about freeing Thermbachaude
@@ -122,9 +122,9 @@
 
 **Thermbachaude**
 - Current location: Unknown; imprisoned or otherwise in need of rescue
-- Current state: Unknown; referenced by Grygum
+- Current state: Unknown; referenced by Gyrgum
 - Faction: Unknown
-- Notes: Grygum reminded the group that freeing Thermbachaude remains an obligation; does not appear in this session
+- Notes: Gyrgum reminded the group that freeing Thermbachaude remains an obligation; does not appear in this session
 
 **Buppido** (referenced in backstory context; identity overlaps with The Flumph per prior sessions)
 - Notes: Referenced as having complained, before going mad, that the Council of Savants was more interested in staying in power than freeing the Derro people; Daz uses this as evidence the Council is not a controlling power but rather a constrained one
@@ -234,7 +234,7 @@
 - Daz reflected on Drow history: Lolth created an avatar and convinced elves to follow her ambitions; her followers attempted to kill Correlon's priests; Correlon banished Lolth; the elves banished her followers (the Drow); the banishment occurred in the Feywild; Drow fled from the Feywild's Underdark across the multiverse.
 - Daz reflected on a story (possibly personal memory) of a Drow noble house destroyed by all other houses because one child of an enemy house survived.
 - The group debated their options: run and fake their deaths, or continue gathering intelligence for the factions.
-- The group decided to continue, honouring their commitments, per Grygum's insistence.
+- The group decided to continue, honouring their commitments, per Gyrgum's insistence.
 - Daz and the group met with Errde at Overlake Hold; the Flumph performed a trauma dump on Errde.
 - Errde declared the Grey Ghosts and Council of Savants are working together based on the Flumph's visions.
 - Daz argued that proximity does not equal cooperation, successfully destabilising Errde's certainty.
@@ -243,7 +243,7 @@
 - Errde directed the group to use Clan Ironhead and Clan Xardelva as cover contacts to disguise their true allegiance to her.
 - Errde agreed to arm the group's NPC companions (Jimjar, Spiderbait, Sarith, Eldeth).
 - The group met Werz at the Shattered Spire tavern; Werz paid each party member and the Flumph a 10 gold piece gemstone.
-- Grygum pocketed the Flumph's dropped gemstone without being observed.
+- Gyrgum pocketed the Flumph's dropped gemstone without being observed.
 - Werz revealed he had been brokering illegal inter-clan weapons deals (including gnome deals), violating the Deepking's monopoly, and that this is likely why assassins were hired against him.
 - Werz attempted to bribe the assassins sent after him; they refused.
 - Werz offered to facilitate a gnome-Duergar weapons deal in exchange for eliminating his assassin problem.
@@ -260,7 +260,7 @@
 - The entire group travelled to Clan Ironhead and requested an audience.
 - Thangus Ironhead gave the group an audience and stated Clan Ironhead supports the Deepking and Clan Steelshadow's pre-eminence; Daz assessed this as a lie for survival.
 - As the group left Clan Ironhead's stronghold, Grinta Ironhead approached covertly; revealed awareness of the group's plans; proposed that deposing the Deepking would free Clan Ironhead to trade with the Deep Gnomes at discounted rates; departed immediately.
-- Grygum reminded the group that freeing Thermbachaude remains an outstanding obligation.
+- Gyrgum reminded the group that freeing Thermbachaude remains an outstanding obligation.
 
 ---
 
@@ -314,15 +314,15 @@
 - **Werz's assassin problem**: Unknown parties hired professional assassins to kill Werz, likely because he brokered illegal inter-clan and gnome weapons deals. The assassins refused a bribe. The group has accepted payment to eliminate the assassins but has not yet acted.
 - **Who hired the assassins against Werz?**: Daz suspects Werz may himself have ordered an assassination against someone, and now that party is retaliating. This is unconfirmed. Werz claims not to know who put him on the list.
 - **Empty spell gems**: Werz paid the group in empty spell gems. Jimjar states Kazook Pickshine in Blingdenstone can convert them into gems of immense magical power and will pay highly for them. Their origin and how Werz came to have them is unexplained.
-- **The Deepking's madness**: Multiple factions and individuals reference the Deepking's growing madness or instability. Werz states the Stone Guard began taking bribes "a few months ago when the madness of the Deepking took over." Grygum mentally noted this timing in relation to the Faerzess (suggesting a possible connection between the Faerzess and the Deepking's deterioration). The true cause of the Deepking's madness is unresolved.
-- **Grygum's Faerzess observation**: Grygum silently connected the timing of the Stone Guard's corruption to the Faerzess but kept this to himself. The significance of this connection has not been explored.
+- **The Deepking's madness**: Multiple factions and individuals reference the Deepking's growing madness or instability. Werz states the Stone Guard began taking bribes "a few months ago when the madness of the Deepking took over." Gyrgum mentally noted this timing in relation to the Faerzess (suggesting a possible connection between the Faerzess and the Deepking's deterioration). The true cause of the Deepking's madness is unresolved.
+- **Gyrgum's Faerzess observation**: Gyrgum silently connected the timing of the Stone Guard's corruption to the Faerzess but kept this to himself. The significance of this connection has not been explored.
 - **Deposing the Deepking**: Both Daz (as a strategy to cause the Duergar to destroy each other) and Grinta Ironhead (as a means to free trade) have independently raised the possibility of removing the Deepking. No plan exists yet; the idea is floated as an option.
 - **The Council of Savants' true role**: Errde is convinced the Council controls the Deepking. Daz believes this is false and that the Council is innocent or itself a victim. The actual relationship between the Council of Savants and the Deepking is unresolved.
 - **The Grey Ghosts' true activities**: Their alliance (or lack thereof) with the Council of Savants is the central intelligence question Errde needs answered. Their actual goals and activities remain unknown.
 - **Drow pursuit of the group**: Thorin referenced "some Drow after us" as a reason not to acquire additional enemies. The identity and status of these pursuing Drow is not elaborated in this session.
 - **Rescuing Rumpadump**: Stool identified a distressed myconid sprout outside as Rumpadump, from his circle. The group agreed to rescue him after dealing with the assassins. Why Rumpadump is distressed and separated from his circle is unknown.
 - **Dancing myconids**: Stool stated myconids do not dance and expressed concern about the behaviour. The cause of this abnormal behaviour is unresolved. Stool suggested they may be from his circle.
-- **Thermbachaude**: Grygum reminded the group that freeing Thermbachaude remains an obligation. Thermbachaude's location, condition, and captors are not described in this session.
+- **Thermbachaude**: Gyrgum reminded the group that freeing Thermbachaude remains an obligation. Thermbachaude's location, condition, and captors are not described in this session.
 - **Clan Xardelva contact**: Errde directed the group to also speak to Clan Xardelva as cover. The group visited Clan Ironhead but has not yet contacted Clan Xardelva.
 - **The gnome-Duergar weapons deal**: Werz offered to facilitate a deal between the Deep Gnomes and Duergar clans if the group eliminates his assassin problem. Grinta Ironhead separately indicated Clan Ironhead wants to trade with gnomes post-Deepking. The feasibility and terms of such a deal are unresolved.
 - **Milo Goodbarrel's book**: Daz carries and reads from this book, using it for negotiating leverage. The book's full contents, its author's identity and significance, and why Daz carries it are not explained.

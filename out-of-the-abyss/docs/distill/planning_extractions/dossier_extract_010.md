@@ -18,7 +18,7 @@ She explains that Sloobludop has been split into two factions. Her daughter, Blo
 
 Ploopploopeen proposes using the party as bait—offering them as a "token of peace and reconciliation" to the Deep Father faction so they can get close to Bloppblippodd. The party would act as infiltrators to disrupt the upstart faction's rituals while Ploopploopeen's Sea Mother faithful strike.
 
-She is offended when Grygum calls her faith a "weird religion," insisting, "The Seamother is not a weird religion. It is the traditional faith of the Kuo-toans! It is Leemooggoogoon the Deep Father that is the real evil!"
+She is offended when Gyrgum calls her faith a "weird religion," insisting, "The Seamother is not a weird religion. It is the traditional faith of the Kuo-toans! It is Leemooggoogoon the Deep Father that is the real evil!"
 
 She offers 500 gold and two potions of healing as a reward, and when the party seems unimpressed, she sweetens the deal with two boats and guides to navigate the Darklake. When asked about the opposing faction's numbers, she dismisses the concern: "Do not worry yourself about that. All you have to do is distract Bloppblippodd enough. I will take care of her, and my followers will take care of the followers of this false god."
 

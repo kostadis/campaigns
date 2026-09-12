@@ -4,7 +4,7 @@ Zalthir cut one of the web strands in the Silken Paths, initiating the encounter
 
 ## Fargas Rumblefoot
 
-Fargas Rumblefoot, the halfling adventurer, was pressed by Zalthir to reveal the treasure he had previously mentioned. He was tempted to deny his earlier words but was dissuaded by Zalthir's expression—and by Grygum producing notes of what Fargas had said. He revealed the existence of the floating tomb of Brysis of Khaem, a half-elf sorcerer interred during the height of Faerûn's great empires of magic. He explained that when Netheril fell, the tomb plummeted into the Underdark. Critically, he shared that he knows about a false tomb: most treasure hunters find a fake sarcophagus and burial chamber, but the real treasure is hidden in another chamber accessible via a secret passageway from the servants' tomb. He admitted he doesn't know the precise location but said it's on the eastern edge of the Darklake. Grygum assessed that Fargas was not lying. He was very miffed when Zalthir touched his belly to check for gnoll spawn.
+Fargas Rumblefoot, the halfling adventurer, was pressed by Zalthir to reveal the treasure he had previously mentioned. He was tempted to deny his earlier words but was dissuaded by Zalthir's expression—and by Gyrgum producing notes of what Fargas had said. He revealed the existence of the floating tomb of Brysis of Khaem, a half-elf sorcerer interred during the height of Faerûn's great empires of magic. He explained that when Netheril fell, the tomb plummeted into the Underdark. Critically, he shared that he knows about a false tomb: most treasure hunters find a fake sarcophagus and burial chamber, but the real treasure is hidden in another chamber accessible via a secret passageway from the servants' tomb. He admitted he doesn't know the precise location but said it's on the eastern edge of the Darklake. Gyrgum assessed that Fargas was not lying. He was very miffed when Zalthir touched his belly to check for gnoll spawn.
 
 ## Sethir (Serith)
 
@@ -18,13 +18,13 @@ Yukyuk, one of the two goblin guides, offered critique after the spider encounte
 
 Spiderbait, the other goblin guide, offered critique after the spider fight, suggesting that using magic was "kind of a cheat" and the group should stick to their skills next time. He explained that whether the Drow pursuers would be slowed by the spider encounter depended on the quality of their guides, noting there are hundreds of routes through the Silken Paths and that he and Yukyuk know the best way. Like Yukyuk, he was tempted to leave when payment wasn't forthcoming but stayed due to being impressed by Zalthir.
 
-## Grygum
+## Gyrgum
 
-Grygum pulled out notes he had taken of Fargas's earlier statements and repeated them back, pressuring Fargas to honor his bargain. He asked if the tomb was full of treasure. He assessed Fargas's truthfulness and declared "Fargas wasn't lying and he isn't lying." He bet Jimjar that the deep gnome couldn't convince the Spectator they weren't demons. During the Spectator fight, he muttered about needing better ranged spells and fired his handheld crossbow at the creature.
+Gyrgum pulled out notes he had taken of Fargas's earlier statements and repeated them back, pressuring Fargas to honor his bargain. He asked if the tomb was full of treasure. He assessed Fargas's truthfulness and declared "Fargas wasn't lying and he isn't lying." He bet Jimjar that the deep gnome couldn't convince the Spectator they weren't demons. During the Spectator fight, he muttered about needing better ranged spells and fired his handheld crossbow at the creature.
 
 ## Jimjar
 
-Jimjar took Grygum's bet that he couldn't convince the Spectator the group wasn't demons—and failed. When Yukyuk asked for payment after the Silken Paths, Jimjar promised the goblins they'd get their money "the minute I get it," keeping them strung along. He wanted to make a bet about whether the chest was a mimic, but no one would take it.
+Jimjar took Gyrgum's bet that he couldn't convince the Spectator the group wasn't demons—and failed. When Yukyuk asked for payment after the Silken Paths, Jimjar promised the goblins they'd get their money "the minute I get it," keeping them strung along. He wanted to make a bet about whether the chest was a mimic, but no one would take it.
 
 ## Buppido
 

@@ -71,7 +71,7 @@
 
 ### [10] mechanical-em-dash
 
-> Grygum was already moving for the stairs. He stopped, turned back — the deliberate pause of someone who has just remembered the one thing that shouldn't be forgotten.
+> Gyrgum was already moving for the stairs. He stopped, turned back — the deliberate pause of someone who has just remembered the one thing that shouldn't be forgotten.
 
 **Why:** Narration-level em-dash before an explanatory clause.
 **Suggested rewrite:** "He stopped, turned back. The pause of someone who just remembered the one thing that shouldn't be forgotten."

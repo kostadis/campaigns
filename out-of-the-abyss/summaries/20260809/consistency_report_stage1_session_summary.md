@@ -25,7 +25,7 @@ would have pushed every error here back down into scene files that were already 
 | 1 | Critical | Simulacrum ruling absent at 7 of 10 Manshoon mentions (L34, 106, 112, 114, 155, 184, 205) | **approved** |
 | 2 | Critical | L108 `"sticking in the middle of Zalthir"` — ruled → Glabbagool 08-19, logged in the glossary, never applied here | **approved** |
 | 3 | Critical | Root cause: the cleaned VTT's `Gabriel → Zalthir` player-scrub eats ASR garbles of Glabbagool (3 hits) | **approved** — filed as `notes/issues/20260829_gabriel_scrub_eats_glabbagool.md` |
-| 4 | Moderate | L67 scrape-it-off ruling credited to "The DM"; tape `:787` is **Grygum** | **approved** |
+| 4 | Moderate | L67 scrape-it-off ruling credited to "The DM"; tape `:787` is **Gyrgum** | **approved** |
 | 5 | Moderate | L25 "before he could escape with the sapphire" — he searched and found nothing | **rejected** — GM keeps it as dramatic framing |
 | 6 | Moderate | L88 Street Justice / Sturdy Knot stated backwards | **approved** |
 | 7 | Moderate | L91 "his documented build lands at 18–19" is wrong; passive Investigation is 24 | **approved** — closes an 08-19 open item |

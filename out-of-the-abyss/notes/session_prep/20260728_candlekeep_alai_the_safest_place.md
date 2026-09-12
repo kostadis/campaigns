@@ -10,7 +10,7 @@ Everything else there still stands (the board at the cut, BEAT 1, the Sylvira
 re-key, the statblock mismatch, the clock).
 
 **Board state is unchanged.** A'lai 62/99, every slot burned, `dimension door`
-scroll unused. Zalthir down (Glabbagool positioned to stabilise). Grygum holds
+scroll unused. Zalthir down (Glabbagool positioned to stabilise). Gyrgum holds
 **real key #2 AND the sapphire**. Daz carrying nothing. Thug 1 dead, Thug 2
 alive and acid-covered. Tadric present, death still on the board. Sylvira never
 told, not present.
@@ -90,7 +90,7 @@ and that reason is uninformative. He does not learn the key is elsewhere. He
 does not learn it's in the room. **He is left with zero information and falls
 back on eyewitness memory — the exact faculty a Sleight of Hand 19 exists to
 beat.** He watched Daz's hand take the stone. He never saw the handoff to
-Grygum.
+Gyrgum.
 
 ---
 
@@ -117,7 +117,7 @@ he has, and the currency is counterfeit.**
 > drow — the one who ran. **Did you kill him?** He has the stone, he has the
 > key, he went down the stair—"
 
-⭐ **He is wrong.** Grygum has both. And he'd know what he'd just done roughly
+⭐ **He is wrong.** Gyrgum has both. And he'd know what he'd just done roughly
 one heartbeat after saying it: he sicced a professional on the party in front of
 the party — the same people whose custody was his entire plan. **The first
 imprecise thing he has done all night, and it's the one that counts.**
@@ -180,7 +180,7 @@ door open in front of them.**
 | **Daz's patron — third erasure piece** | ⛔ **Genuinely lost.** Failsafes remain per the arc file: Yvenne's fourth tick, Vizeran's Stage 4. Expensive, not fatal. |
 | **Manshoon named** | ✅ Already banked this session. The death costs nothing here. |
 | **What Manshoon wants (the Book)** | ✅ Already delivered in the monologue, before any of this. |
-| **The third pillar (the sapphire)** | ✅ In Grygum's pocket. Evidentiary value untouched — still the star-cut stone missing from Janussi's safe, still taken from A'lai's hand before four deputised Watchers. |
+| **The third pillar (the sapphire)** | ✅ In Gyrgum's pocket. Evidentiary value untouched — still the star-cut stone missing from Janussi's safe, still taken from A'lai's hand before four deputised Watchers. |
 
 ---
 
@@ -189,7 +189,7 @@ door open in front of them.**
 1. **Does A'lai get the sentence out?** Killed mid-blurt is crueller and faster.
    Letting him finish means the party hears the whole wrong accusation and *then*
    watches him die for it. Either works; the second gives Daz something to carry.
-2. **Does anyone try to save him?** Grygum has the range and the theology for it.
+2. **Does anyone try to save him?** Gyrgum has the range and the theology for it.
    Whether anyone spends a reaction on the man who murdered Janussi — after he
    just pointed a knife at Daz — is a real character question. Don't prompt it.
 3. **Does the party understand what they watched?** A'lai's whole calculation is

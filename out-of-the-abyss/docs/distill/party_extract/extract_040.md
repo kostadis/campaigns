@@ -7,14 +7,14 @@
 - **Daz**: Took decisive command of the grand moot, cutting through bureaucratic noise and presenting the party's battle plan to all Blingdenstone leaders. Accepted full personal accountability for casualties resulting from his plan, offering himself as the target of vengeance if things go wrong. (+positive: leadership, conviction, directness)
 - **Daz**: Successfully negotiated with Chief Chipgrin by being blunt and refusing to facilitate political maneuvering, earning the wererat chief's respect. (+positive: authenticity, diplomacy on his own terms)
 - **Daz**: Saw through the gnome leaders' attempts to use the party as errand-runners, calling out the obvious simpler alternative of attacking from the north. (+positive: perceptiveness, assertiveness)
-- **Grygum**: Expressed genuine, non-judgmental curiosity about wererats, earning the Gold Whisker guards' trust and goodwill—a contrast to the hostility the clan usually faces. (+positive: empathy, open-mindedness)
+- **Gyrgum**: Expressed genuine, non-judgmental curiosity about wererats, earning the Gold Whisker guards' trust and goodwill—a contrast to the hostility the clan usually faces. (+positive: empathy, open-mindedness)
 - **Thorin**: Intruded into Chief Dorbo's private kitchen out of curiosity, causing mild diplomatic friction. (-negative: impulsiveness/boundary issues, though minor)
 
 ## Relationships & Decisions
 
 - **Daz**: Formed a working alliance with **Chief Chipgrin** and the Gold Whisker wererats, built on mutual respect and Daz's personal guarantee of accountability. Chipgrin will not serve under Dorbo but will cooperate under the party's leadership.
 - **Daz**: Maintained a direct but strained relationship with **Chief Dorbo** and the Blingdenstone leadership—useful allies, but Daz openly distrusts their political motives.
-- **Grygum**: Built positive rapport with the Gold Whisker clan guards through genuine interest in their culture and philosophy.
+- **Gyrgum**: Built positive rapport with the Gold Whisker clan guards through genuine interest in their culture and philosophy.
 - **Party decision**: Chose to cleanse the Rock Blight / Temple of the Steadfast Stone to gain Earth Elemental allies for the Pudding King assault.
 - **Party decision**: Chose to travel to **Neverlight Grove** to collect ingredients for acid-resistance potions.
 - **Party decision**: Sent **Glabbagool, Eldev, and Jimjar** on a separate mission to assist the Barrow Warden ghosts with their quest.

@@ -1,6 +1,6 @@
 ## Hgraam
 
-Referenced as a Stone Giant leader who can reverse the effects of the two-headed transformation ritual being performed on Stone Giants. The party relies on this knowledge (provided by Grygum) to justify not intervening in the ritual immediately and instead focusing on destroying the cult. Thorin is reassured by Grygum that Hgraam will take care of the afflicted giants.
+Referenced as a Stone Giant leader who can reverse the effects of the two-headed transformation ritual being performed on Stone Giants. The party relies on this knowledge (provided by Gyrgum) to justify not intervening in the ritual immediately and instead focusing on destroying the cult. Thorin is reassured by Gyrgum that Hgraam will take care of the afflicted giants.
 
 ## Bupido
 
@@ -12,13 +12,13 @@ Pelek, a ghost possessing the body of a Derro, asks the party to tie him up befo
 
 ## JimJar
 
-JimJar offers one of his characteristic bets to Grygum, wagering that the knots used to tie up Pelek/Derro won't hold. He loses the bet — the knots hold through the night — and Grygum collects his winnings the next morning.
+JimJar offers one of his characteristic bets to Gyrgum, wagering that the knots used to tie up Pelek/Derro won't hold. He loses the bet — the knots hold through the night — and Gyrgum collects his winnings the next morning.
 
 ## Narrak
 
 Narrak is the head cultist of a Derro group performing a ritual to Demogorgon in the Whorlstone Tunnels, aimed at grafting second heads onto Stone Giants to create Ettin-like monsters that will lay waste to Gracklstugh. He carries a ritual book and leads his Derro followers in chanting invocations to Demogorgon. He is shown to be an imperious, short-tempered leader — furiously berating his followers for lack of vigor in their chanting, much like an exasperated choir director: "Silence, you blithering half-wits! More vigor! This city's doom needs a ritual. Dig it!"
 
-He announces that they have already successfully converted one of Hgraam's giants into a two-headed monster and plans to convert another. During the battle, Narrak casts a Fear spell using a white feather, terrifying Thorin, Grygum, and Zalthir. He shouts, "Beyond you creatures!" and "Demogorgon's madness flows through me! You will embrace it or *break* trying!" Zalthir counters the Fear by moving his magical darkness over Narrak, breaking line of sight. Daz then traps him with Maximilian's Earthen Grasp, and Narrak screams, "You cannot stop the inevitable... the curse spreads!" His last known status is restrained in darkness, still fighting.
+He announces that they have already successfully converted one of Hgraam's giants into a two-headed monster and plans to convert another. During the battle, Narrak casts a Fear spell using a white feather, terrifying Thorin, Gyrgum, and Zalthir. He shouts, "Beyond you creatures!" and "Demogorgon's madness flows through me! You will embrace it or *break* trying!" Zalthir counters the Fear by moving his magical darkness over Narrak, breaking line of sight. Daz then traps him with Maximilian's Earthen Grasp, and Narrak screams, "You cannot stop the inevitable... the curse spreads!" His last known status is restrained in darkness, still fighting.
 
 ## Rump-a-dump
 

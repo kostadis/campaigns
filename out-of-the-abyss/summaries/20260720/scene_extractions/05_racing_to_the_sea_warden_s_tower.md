@@ -9,9 +9,9 @@ source: gmassist
 
 #### The party realizes they need to find the missing key and that Kalan knows where it is. After considering the Gatehouse, Daz remembers Kalan's hint about his location, and Fembris deduces he is in the Sea Warden's Tower. The party rushes there and uncovers the full scope of the conspiracy.
 - Daz rolls Investigation (16) and recalls Kalan's line: "if I don't see you tomorrow, do not look for me at my post." Daral suggests he is most likely in the Sea Warden's Tower, "lost among the other watchers," rallying the troops with drink.
-- Grygum is surprised there are troops at all, having assumed Candlekeep was purely an academic tower; Daral confirms "we have some swordsmen. It's always important to have one."
+- Gyrgum is surprised there are troops at all, having assumed Candlekeep was purely an academic tower; Daral confirms "we have some swordsmen. It's always important to have one."
 - The party travels from the Great Library to the Sea Warden's Tower, moving at magical speed across a stretched, high-resolution map (the DM blaming lag on "AI").
-- Kalan is found frantically buckling on his armor upon hearing the alarm bell, rushing toward them: "Grygum, Daz, I heard the bell. Is everything okay?"
+- Kalan is found frantically buckling on his armor upon hearing the alarm bell, rushing toward them: "Gyrgum, Daz, I heard the bell. Is everything okay?"
 - The party informs Kalan that Bookwyrm is dead and that the key was not found on her body. Kalan's first question is "Does she have the key?"
 - Kalan initially takes comfort — "that's fortunate. They only have one of the two keys" — and blames "a maddening attack by Sylvira's son," recalling, "I told Bookwyrm that that creature would be the death of us."
 - When told the party was attacked by creatures seeking the key, Kalan reverses course: "Someone is definitely after the keys."
@@ -26,19 +26,19 @@ source: gmassist
 > "Daz, you remember that he said, if I don't see you tomorrow, do not look for me at my post. He's not in the gatehouse. You turn to Fembris Lancer, I presume, or Daral Yashenti. Daral Yashenti says the most likely place for him to be is in the Sea Warden's Tower, lost among the other watchers."
 > "Rather than in the gatehouse, hanging out, he's probably hanging out with the troops, trying to rally them and having a beers and alcohol as he celebrates."
 
-**[Grygum]** — *surprised there are troops*
+**[Gyrgum]** — *surprised there are troops*
 > "There's troops here? I thought we were in some sort of like academic tower or something."
 
 **[GM]**
 > "Well,  there's some."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Okay."
 
 **[GM] as Daral **
 > "We have some. We are not completely defenseless."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Well, you have plenty of magic, but I guess swords still have their place, huh?"
 
 **[GM] as Daral **
@@ -50,7 +50,7 @@ source: gmassist
 **[GM]**
 > "Who Knows?"
 
-**[Grygum]**
+**[Gyrgum]**
 > "I still have the fake key, right?"
 
 **[GM]** — *reminding them the key was stolen*
@@ -78,9 +78,9 @@ source: gmassist
 - Kalan is discovered buckling on his armor, rushing toward the party after hearing the alarm bell.
 
 **[GM]**
-> "Where you discover that Kalan Strongbranch is looking very frantic. He goes, as he sees you arrive, he says, as you're heading towards him, he's heading towards you. He's kind of belting himself up, putting on his armor, rushing towards you. He goes, Grygum, Daz, I heard the bell. Is everything okay?"
+> "Where you discover that Kalan Strongbranch is looking very frantic. He goes, as he sees you arrive, he says, as you're heading towards him, he's heading towards you. He's kind of belting himself up, putting on his armor, rushing towards you. He goes, Gyrgum, Daz, I heard the bell. Is everything okay?"
 
-**[Grygum]**
+**[Gyrgum]**
 > "Uh, no, Bookwyrm is dead."
 
 **[GM]** — *Kalan's first question*
@@ -92,13 +92,13 @@ source: gmassist
 **[Thorin]**
 > "Wait, did we investigate Bookwyrm's site of death and see the body and all that?"
 
-**[Grygum]**
+**[Gyrgum]**
 > "Yeah, we did."
 
 **[Thorin]**
 > "We can't say with confidence that we couldn't find the key."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Oh, we did not find a key."
 
 **[GM]** — *Kalan takes false comfort*
@@ -132,7 +132,7 @@ source: gmassist
 **[GM] as Kalan**
 > " This is an important, urgent matter. He looks at the four of you and says, You are adventurers."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Aye, aye."
 
 **[GM] as Kalan **
@@ -141,7 +141,7 @@ source: gmassist
 **[Daz]**
 > "What does that mean? Does that give us any privileges and/or change our ability to do the investigation?"
 
-**[Grygum]**
+**[Gyrgum]**
 > "So far we've done badly."
 
 **[Daz]**
@@ -160,7 +160,7 @@ source: gmassist
 **[GM]**
 > "Tadric, he's the guy who you guys met at the Janussi's room. He was the gun guarding the room from people coming in and out."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Okay, I'm confused now about who thinks where all the keys are because don't people think that one of them was given to us?"
 
 **[Daz]**
@@ -176,18 +176,18 @@ source: gmassist
 > "Wait, wait, so how did we get the key in the first place? I'm trying to remember."
 
 **[GM]**
-> "Kalan Strongbranch gave the key to Grygum."
+> "Kalan Strongbranch gave the key to Gyrgum."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Right."
 
 **[Daz]**
-> "Right? And then Grygum gave it to me, and then we realized that it's fake."
+> "Right? And then Gyrgum gave it to me, and then we realized that it's fake."
 
 **[GM]**
 > "Yes."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Okay."
 
 **[GM]**
@@ -244,19 +244,19 @@ source: gmassist
 **[Thorin]**
 > "And so they have one of the keys from Bookwyrm, the other one. If they had succeeded against us, they thought they would have had both the keys, but they really wouldn't have because Kalan Strongbranch pulled an old switcheroo and didn't give us the key, gave us a Faco key."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Did... but we just..."
 
 **[Thorin]**
 > "So he could have done something to, like, imbue some magic on that key so that it glowed with the tech magic, because the tech magic doesn't tell you what the magic is; it's just there's some magic there, and then it would have been a lot harder for us to figure this shit out, but okay."
 
-**[Grygum]**
+**[Gyrgum]**
 > "I mean, does Kalan Strongbranch know that we know that it was fake?"
 
 **[GM]**
 > "He doesn't, at this point in time; he doesn't care. He's basically telling you the real keys held by Tadric."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Okay, he's basically admitting he gave us a fake."
 
 **[Thorin]**
@@ -277,7 +277,7 @@ source: gmassist
 **[Thorin]**
 > "I don't know, I'm just, I'm reading the notes and it just says short human young Tadric is, you know, his role, according to the notes. His role is Tadric."
 
-**[Grygum]**
+**[Gyrgum]**
 > "My job is beach."
 
 **[Thorin]**
@@ -322,7 +322,7 @@ source: gmassist
 **[Thorin]**
 > "Brains for the whole thing, right so now this is a second piece of data against A'lai Aivenmore that like, hey, look, A'lai Aivenmore had knowledge that nobody else had, you know, and it clearly, you know, wasn't Bookwyrm that you know started this whole thing because, it was  likely the same person trying to recover both keys, so that's the second piece of information against A'lai Aivenmore"
 
-**[Grygum]**
+**[Gyrgum]**
 > "I mean, there's other theories you could come up with, but that seems like a good start for sure."
 
 **[GM]** — *Kalan praises their deductions*

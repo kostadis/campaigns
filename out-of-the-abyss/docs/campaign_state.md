@@ -12,7 +12,7 @@
 
 *Done. Do not re-suggest or replay.*
 
-- **Velkynvelve escape (Ch1–3)** — Prisoners (Daz, Thorin, Zalthir, Grygum + others) broke out of Ilvara Mizzrym's drow outpost. Prince Derendil, Imbros, and Ront died. Consequence: Ilvara Mizzrym began her long pursuit.
+- **Velkynvelve escape (Ch1–3)** — Prisoners (Daz, Thorin, Zalthir, Gyrgum + others) broke out of Ilvara Mizzrym's drow outpost. Prince Derendil, Imbros, and Ront died. Consequence: Ilvara Mizzrym began her long pursuit.
 - **Silken Paths crossing (Ch5–8)** — Traversed the giant-spider webs. Yuk Yuk murdered (killer unconfirmed; Spiderbait accused Shuushar). Zalthir began studying Jimjar's gambling.
 - **Sloobludop / Darklake (Ch9–12)** — Kuo-toan cult schism. Ploopploopeen and Bloppblippodd died summoning **Demogorgon**, who razed Sloobludop. Consequence: Demogorgon now loose on the Prime Material. Shuushar departed to reform the Kuo-Toa.
 - **Lost Tomb of Khaem (Ch30–32)** — Side thread resolved; Brysis of Khaem's prison dealt with. Fuurm Coppernose's missing sister never found.
@@ -22,7 +22,7 @@
 - **Ilvara Mizzrym's ritual site (Ch49–54)** — Destroyed Ilvara (Zuggtmoy's vessel; detonated into spores); killed Asha Vandree; slew House Mizzrym/T'sarran agents; captured a House T'sarran spy (held inside Glabbagool). Party emerged to the surface with Dawnbringer.
 - **The Janussi Murder investigation (Ch53–61)** — Officially resolved: Alkrist publicly blamed. Reconstructed truth: A'lai Aivenmore engineered it and framed Daral Yashenti; Alkrist struck the blow; Bookwyrm concealed it to protect family. Consequence: leadership crisis, naming ceremony pending, Kalan Strongbranch reinstated as Head of the Avowed.
 - **Helmed horror ambush, Deneir's Sanctum (Ch61)** — Party destroyed the helmed horrors (drawn by the inert High Tower key Daz carries), then confined overnight under guard. Dawnbringer healed Daral Yashenti during confinement.
-- **The High Tower and the two keys (Ch62–63)** — Kalan Strongbranch was exposed as having handed the party a **fake, non-magical key** to use them as a decoy; the real key was on **Tadric**, who surrendered it to Grygum voluntarily. **Moziqodo murdered Bookwyrm**, took her key, and **delivered it to A'lai** before the party **killed Moziqodo in a single round**. The party later stripped that key from A'lai and hid it inside Glabbagool. In the High Tower itself the party defeated A'lai's Zhentarim thugs and a Zhentarim assassin (all dead), and **captured A'lai Aivenmore alive**. Daz's fireball detonating on the walkway publicly proved **Candlekeep's wards had failed**. **Manshoon's simulacrum then breached the keep**, shattering the security-control-room door with a `wall of force` — alone, and magically depleted from the effort.
+- **The High Tower and the two keys (Ch62–63)** — Kalan Strongbranch was exposed as having handed the party a **fake, non-magical key** to use them as a decoy; the real key was on **Tadric**, who surrendered it to Gyrgum voluntarily. **Moziqodo murdered Bookwyrm**, took her key, and **delivered it to A'lai** before the party **killed Moziqodo in a single round**. The party later stripped that key from A'lai and hid it inside Glabbagool. In the High Tower itself the party defeated A'lai's Zhentarim thugs and a Zhentarim assassin (all dead), and **captured A'lai Aivenmore alive**. Daz's fireball detonating on the walkway publicly proved **Candlekeep's wards had failed**. **Manshoon's simulacrum then breached the keep**, shattering the security-control-room door with a `wall of force` — alone, and magically depleted from the effort.
 
 ---
 
@@ -53,10 +53,10 @@
 | Kalan Strongbranch | Alive — **fled, "to the wind"** | Whereabouts unknown | Gave the party a **fake key** to use them as a decoy; admitted it when confronted |
 | Sylvira Savikas | Alive, dying of abyssal plague | Bedridden, Candlekeep | Cooperative. ⚠️ **Does not know her son Moziqodo is dead, or that the party killed him** |
 | Teles Ahvoste | Alive | Candlekeep | Suspect; grudge against Janussi |
-| Vareth | Alive | Candlekeep | Grygum's handler; appropriated his theology |
+| Vareth | Alive | Candlekeep | Gyrgum's handler; appropriated his theology |
 | Fheminor Scrivenbark | Alive | Last seen leaving the Apothecary | Suspect; record erased |
 | Sister Yvenne | Alive | Candlekeep | Daz's handler; knows sealed truths |
-| Tadric | Alive | Candlekeep — holding the ward lattice by hand | **Dealt straight**: surrendered the real key to Grygum voluntarily. Knows Moziqodo was Sylvira's son |
+| Tadric | Alive | Candlekeep — holding the ward lattice by hand | **Dealt straight**: surrendered the real key to Gyrgum voluntarily. Knows Moziqodo was Sylvira's son |
 | Queenie | Alive (the tower cat) | Candlekeep | Observer; cooperates only if tickled |
 | Kaelira Duskryn | Alive | Chasing a compromised drow scholar | Contracted protector of Daz |
 | Nym Duskryn | Alive | Last fought beside Daz vs. Ilvara | Contracted protector of Daz |
@@ -82,7 +82,7 @@
 | Plinki | Dead | Gracklstugh | — |
 | Sarith Kzekarit | Dead | Neverlight Grove | — |
 | Moziqodo | **Dead — killed by the party in one round (Ch62–63)** | Approach to the High Tower | Sylvira's son. Murdered Bookwyrm, took her key, and delivered it to A'lai before the party killed him |
-| Zhentarim assassin + 2 thugs | Dead | High Tower | Assassin killed by Thorin; one thug melted by Grygum's acid, one killed by A'lai himself |
+| Zhentarim assassin + 2 thugs | Dead | High Tower | Assassin killed by Thorin; one thug melted by Gyrgum's acid, one killed by A'lai himself |
 | Alkrist | **Alive — neutralized** | Candlekeep | Publicly blamed for Janussi's murder; disgraced and no longer capable of defending the keep (GM ruling 2026-08-19) |
 | Janussi | Dead | Candlekeep | Murdered; heart removed to block resurrection |
 | Ploopploopeen & Bloppblippodd | Dead | Sloobludop | — |
@@ -94,7 +94,7 @@
 *Only genuinely unresolved items.*
 
 - **Manshoon's simulacrum is inside Candlekeep (most urgent):** It breached the keep, shattered the security-control-room door with a `wall of force`, and is working toward the **Book of Vile Darkness** in the Vault beneath the House of Alaundo. He arrived **alone and magically depleted** — that depletion is the party's only real advantage, and it is temporary.
-- **The keys are spent currency:** The party holds **both** real keys (Grygum has one plus the fake and the sapphire; A'lai's is hidden inside Glabbagool, deliberately kept apart). Manshoon did not need them — he broke the door. What the key race actually bought was his depletion.
+- **The keys are spent currency:** The party holds **both** real keys (Gyrgum has one plus the fake and the sapphire; A'lai's is hidden inside Glabbagool, deliberately kept apart). Manshoon did not need them — he broke the door. What the key race actually bought was his depletion.
 - **A'lai's bargain:** He offers the location of a secret room beneath the keep, the two cryptogram lines that matter, and an **intuition** about a Menzoberranzan house paying to keep a drow breathing. He is withholding what is really in the depository — the one thing Manshoon does not know.
 - **Kalan Strongbranch's fate:** Alive, fled after admitting the fake-key decoy. Unresolved.
 - **The naming ceremony:** Bookwyrm is dead, so the succession is now open rather than contested; the concealed heart of Janussi may yet surface.
@@ -123,12 +123,12 @@
 - Owe answers on: the patron/Daz's history, Jimjar's disappearance, the false Sylvira, Entémoch's Boon, and the Barrow Wardens' quest.
 
 **Key resources & assets held:**
-- **Grygum: the real High Tower key, the fake key, and the stolen sapphire** — smashing the sapphire recalls a key to the holder's hand, which is why the Zhentarim assassin went for Daz and found nothing.
+- **Gyrgum: the real High Tower key, the fake key, and the stolen sapphire** — smashing the sapphire recalls a key to the holder's hand, which is why the Zhentarim assassin went for Daz and found nothing.
 - **Glabbagool: A'lai's second real High Tower key**, hidden inside him. The two real keys are deliberately kept apart.
 - Daz: inert High Tower key (helmed-horror beacon), Stonespeaker Crystal, journal.
 - Zalthir: Glabbagool (fused to forearm, holds a Potion of Flying and the captured spy), Eldritch Claw Tattoo, Asha's spider-silk cloak.
 - Thorin: Dawnbringer + Vaultmaster Locking Scabbard, necromantic pearl, reclaimed tooth.
-- Grygum: magical short sword, Asha's wax pouch, Bahamut pamphlets, full deal/event records.
+- Gyrgum: magical short sword, Asha's wax pouch, Bahamut pamphlets, full deal/event records.
 - The "Ember Vanguard" identity — now legend; misattributed for crimes across Gracklstugh.
 
 **Recent developments shaping next session:**

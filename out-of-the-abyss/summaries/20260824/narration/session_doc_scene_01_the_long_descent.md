@@ -10,7 +10,7 @@ Thorin was falling.
 
 The stairs had done exactly what Thorin suspected they would. A ten-foot section hinged open under everyone standing between the ninety-third and the hundred-and-second step. Daz, safely above, threw Telekinesis at the problem and arrested the fall; the rest of us got a hand on stone and scrambled clear. Thorin didn't. He lost his footing entirely and went down into the well, and the dark took him whole.
 
-Grygum went through his prayers, looking for one that reached that far down.
+Gyrgum went through his prayers, looking for one that reached that far down.
 
 "Nothing."
 
@@ -18,7 +18,7 @@ I was already at the edge. The plan, such as it was, was to grab him. I have win
 
 I stepped off.
 
-Grygum's voice came after me: "Are… are you trying to say you can fall faster than him?"
+Gyrgum's voice came after me: "Are… are you trying to say you can fall faster than him?"
 
 A fair question.
 
@@ -44,11 +44,11 @@ Below us the well kept going. Another five hundred feet, at least.
 
 "I mean, I think the point was to go down, wasn't it?" I said. "How about we go gracefully down and just see what's there?"
 
-From far above, Grygum: "Hey, you guys okay down there?"
+From far above, Gyrgum: "Hey, you guys okay down there?"
 
 "So far."
 
-Thorin shouted up that he was still kicking. The scholar we'd dragged along called "Come back!" down the shaft, and Grygum shouted something the well ate half of.
+Thorin shouted up that he was still kicking. The scholar we'd dragged along called "Come back!" down the shaft, and Gyrgum shouted something the well ate half of.
 
 "We could at least go scout a bit," I said.
 
@@ -62,7 +62,7 @@ The well did not apologize.
 
 We shouted the news up, and then came the jumping.
 
-"Oh, God, that's gonna be hard for me," Grygum said.
+"Oh, God, that's gonna be hard for me," Gyrgum said.
 
 "Literally? Like, should someone push you, or…"
 
@@ -72,7 +72,7 @@ He jumped on faith. It has not failed him yet.
 
 Daz went next, reasoning it out loud on the way over the edge. "Yeah, I mean, I don't want to get split from the party. My whole, like, trying to hold the thing up and save us all didn't work, so…"
 
-"If all your friends jumped off the stairs, would you?" Grygum asked.
+"If all your friends jumped off the stairs, would you?" Gyrgum asked.
 
 "Yeah," Daz said.
 

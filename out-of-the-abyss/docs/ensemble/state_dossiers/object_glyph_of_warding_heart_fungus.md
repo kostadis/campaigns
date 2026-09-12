@@ -12,11 +12,11 @@ chapters: 50-50
 - **Current condition:** Active and armed  
 - **Current holder/location:** Fixed to the bridge surface; no mobile carrier  
 - **Key properties:**  
-  - A 4th-level *Glyph of Warding* spell, inscribed as a rune by Grygum  
+  - A 4th-level *Glyph of Warding* spell, inscribed as a rune by Gyrgum  
   - Triggered by movement across the bridge from Jorlan’s side  
   - Detonates upon approach from the direction Jorlan occupies — no distinction between friend or foe, drow or non-drow  
   - Functions as an emotional-keyed trap, keyed to Jorlan’s historical presence rather than factional alignment  
-- **Recent action:** Activated and armed by Grygum as a tactical ambush to disrupt Ilvara’s reinforcement strategy  
+- **Recent action:** Activated and armed by Gyrgum as a tactical ambush to disrupt Ilvara’s reinforcement strategy  
 
 ## Uncertainty
 - The phrase “Heart Fungus” in the entity name has no supporting context or explanation in any fact — it is not referenced in quotes or descriptions. Is this a nickname, a misattribution, or an unrelated tag?  

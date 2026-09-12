@@ -10,20 +10,20 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 
 #### The party interrogates A'lai Aivenmore, who trades secrets about a hidden vault and the forces pursuing Daz in exchange for protection in Candlekeep's null magic prison.
 - A'lai Aivenmore, trembling and broken, requests to be placed in Candlekeep's null magic prison — the one place he believes he might survive what is coming. "I want you to take me and put me in the null magic prison of Candlekeep. It's the only thing that'll keep me alive."
-- Grygum reasons the prison would protect him because "nobody else can use the magic there either" — and privately decides this is "the wrong time to mention" that Candlekeep's wards already failed today.
+- Gyrgum reasons the prison would protect him because "nobody else can use the magic there either" — and privately decides this is "the wrong time to mention" that Candlekeep's wards already failed today.
 - A'lai's offer, as the GM reminds the table: he claims to know who is really after Daz and why Daz is still alive ("who paid for these very expensive people to keep you alive?"), and the real reason Manshoon came to Candlekeep.
-- The party negotiates with A'lai, demanding information on Manshoon's true purpose and the forces surrounding Daz. Grygum: "Well, the one thing might be important to Daz, but I think knowing what Manshoon is up to is more important for the goal of the adventure here." Daz asks for anything on "the folks that are trying to keep me alive, and the folks that are trying to keep me unalive."
+- The party negotiates with A'lai, demanding information on Manshoon's true purpose and the forces surrounding Daz. Gyrgum: "Well, the one thing might be important to Daz, but I think knowing what Manshoon is up to is more important for the goal of the adventure here." Daz asks for anything on "the folks that are trying to keep me alive, and the folks that are trying to keep me unalive."
 - A'lai demands assurance: "What guarantees will I have that I will be placed in the Null so?" Thorin notes he is "not in the position to negotiate."
-- Grygum appeals to Tadric, invoking the party's deputization by Kalan Strongbranch and their record of service, convincing him to agree to the arrangement: "Tadric, this is how this has gotta be. We need to defeat Manshoon, or the entire tower is at risk... we're in a hurry here, and we've got to make compromises that we otherwise might not want to make."
+- Gyrgum appeals to Tadric, invoking the party's deputization by Kalan Strongbranch and their record of service, convincing him to agree to the arrangement: "Tadric, this is how this has gotta be. We need to defeat Manshoon, or the entire tower is at risk... we're in a hurry here, and we've got to make compromises that we otherwise might not want to make."
 - Tadric's price: "Will we write a monograph together?" — answered with the promise of a two-person paper ("It seems like I've got enough prestige here that it'll likely be accepted... but you never know with the whole anonymous submission thing").
-- A'lai reveals that a secret room beneath Candlekeep holds artifacts of extraordinary power, guarded by a cryptogram, and that he knows the answers to two of its questions. The questions themselves are "secret, but not secret" in the Candlekeep way — Grygum: "The levels of classification are extremely vague."
-- Grygum asks whether any riddle concerns "the airspeed velocity of a laden swallow." A'lai, confused and unamused: "Just because I'm your prisoner does not mean I am a fool."
+- A'lai reveals that a secret room beneath Candlekeep holds artifacts of extraordinary power, guarded by a cryptogram, and that he knows the answers to two of its questions. The questions themselves are "secret, but not secret" in the Candlekeep way — Gyrgum: "The levels of classification are extremely vague."
+- Gyrgum asks whether any riddle concerns "the airspeed velocity of a laden swallow." A'lai, confused and unamused: "Just because I'm your prisoner does not mean I am a fool."
 - A'lai provides the answers to two riddles: 'Fustilugs' — the base insult of a Black Knight — and 'Bow' — the reply of Batbayar when given a hand.
 - On Fustilugs, smugly: he found it "in one of the books that I was told to extract," referring to a word "the creator magically enched centuries ago under the base of one of the oversized black marble chess pieces, which see plenty of use on the Philosopher's Court," and noticed "that successive keepers of Tomes had ensured that the knight is never replaced."
 - On Bow: "Batbayar is a legendary halfling bard whose statue dominates the entry hall of the School of the Drama Library... late at night, I applauded the statue... and it came to life, and bowed deeply from the waist in acknowledgement of my applause." *(cleaned VTT garbles this as "It came to loud, and Dao bowed"; the second transcription reads "It came to life, and bowed" — "Dao" is not a name)* "This is what you acquire after a lifetime of serving the institution of Candlekeep."
 - Regarding Daz, A'lai states he could not trace the payments but deduces that only one house in Menzoberranzan could afford to be patient for eleven years: House Baenre. "I could not trace the payments. I could only trace the patience... never once a demand, nobody is that patient who is not that safe."
 - A'lai: "I have nothing but my relationship to this institution." Tadric: "Are we done, A'lai?" A'lai: "I suppose."
-- Tadric takes A'lai Aivenmore into custody and marches him off toward the null magic prison. Grygum: "He only has 2? Oh, well, send him off to the jail then. I'm done with it."
+- Tadric takes A'lai Aivenmore into custody and marches him off toward the null magic prison. Gyrgum: "He only has 2? Oh, well, send him off to the jail then. I'm done with it."
 
 ## Verbatim moments
 
@@ -33,13 +33,13 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM** — *as A'lai*
 > "I want… I want you to take me and put me in the null magic prison of Candlekeep. It's the only thing that'll keep me alive."
 
-**Grygum**
+**Gyrgum**
 > "Well, before we can do that, we're going to need your help with Manshoon and how we can find him and stop him."
 
 **GM**
 > "Right, just to remind you — what was his offer last week? I just gotta remember myself."
 
-**Grygum**
+**Gyrgum**
 > "Because without some help, I have no fucking clue."
 
 **GM**
@@ -57,7 +57,7 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "…is that he claims to know who Daz is related to, the secret… you have the suspicion that he knows about who Daz is really after, right?"
 
-**Grygum**
+**Gyrgum**
 > "Who's really after Daz?"
 
 **GM**
@@ -81,22 +81,22 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "He's willing to trade."
 
-**Grygum**
+**Gyrgum**
 > "Well, the one—"
 
 **GM**
 > "But just to be clear, Tadric's there, so if you want to hand him over to Tadric, Tadric can take him into custody. If you tie his hands up and shove a sock in his mouth, he can't cast any spells anyway."
 
-**Grygum**
+**Gyrgum**
 > "Well, the one thing might be important to Daz, but I think knowing what Manshoon is up to is more important for the goal of the adventure here."
 
-**Grygum**
+**Gyrgum**
 > "He wants this in exchange for basically not being tortured and killed."
 
 **GM**
 > "Very specifically, he…"
 
-**Grygum**
+**Gyrgum**
 > "And he wants to be put into the prison."
 
 **GM**
@@ -117,19 +117,19 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "So, A'lai Aivenmore thinks the safest place on Toril, and in the north, is inside one of those null magic prisons."
 
-**Grygum**
+**Gyrgum**
 > "Because nobody else can use the magic there either, and so he'd be safe from it."
 
 **GM**
 > "Yes, and so if you're trying to protect yourself against a powerful wizard, that feels like the safest place in all of creation."
 
-**Grygum**
+**Gyrgum**
 > "I won't mention to him that that failed here."
 
 **GM**
 > "No, this is… this is not the time… you can, I'm just saying."
 
-**Grygum**
+**Gyrgum**
 > "Right, it's just the wrong time to mention it."
 
 **GM**
@@ -141,13 +141,13 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "Tadric…"
 
-**Grygum**
+**Gyrgum**
 > "I'm… I'm willing to say that. There's no skin off—"
 
 **GM**
 > "Right."
 
-**Grygum**
+**Gyrgum**
 > "—me."
 
 **GM**
@@ -156,7 +156,7 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "Now, do you want to give that to him? By the way — what do you want to give it in exchange for?"
 
-**Grygum**
+**Gyrgum**
 > "Well, we definitely need to know everything that he knows about Manshoon. Daz, do you want to ask for your—"
 
 **Daz**
@@ -174,16 +174,16 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "I see."
 
-**Grygum**
+**Gyrgum**
 > "What do we have to offer—"
 
-**Grygum**
+**Gyrgum**
 > "—besides what he's already asked for."
 
 **GM** — *as A'lai*
 > "He looks at you and says: What guarantees will I have that I will be placed in the null cell?"
 
-**Grygum**
+**Gyrgum**
 > "Can — can we just, I don't know, take them there and—"
 
 **Thorin**
@@ -201,31 +201,31 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "No, he's not, but he's an academic, so there's another officer there. You could talk to Tadric, encourage Tadric to do it. You don't have to take him there, you can…"
 
-**Grygum** — *to Tadric*
+**Gyrgum** — *to Tadric*
 > "Alright, Tadric, this is how this has gotta be. We need to defeat Manshoon, or the entire tower is at risk."
 
-**Grygum**
+**Gyrgum**
 > "We're in a hurry here, and we've got to make compromises that we otherwise might not want to make."
 
 **GM**
 > "Tadric realizes that you have been deputized by Kalan Strongbranch, and you have defeated Moziqodo, saved his life—"
 
-**Grygum**
+**Gyrgum**
 > "—and I founded an entire new philosophy."
 
 **GM**
 > "He pauses."
 
-**Grygum**
+**Gyrgum**
 > "…or something."
 
 **GM** — *as Tadric*
 > "Do… do I… will we write a monograph — do a monograph together?"
 
-**Grygum**
+**Gyrgum**
 > "Yes, yes, we can do a two-person paper. It seems like I've got enough prestige here that it'll likely be accepted, so…"
 
-**Grygum**
+**Gyrgum**
 > "But you never know with the whole anonymous submission thing — but I've got a pretty good track record."
 
 **GM**
@@ -234,13 +234,13 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "I think I could have poked you in the middle of the night, and you would have delivered that."
 
-**Grygum**
+**Gyrgum**
 > "I've been on program committees before."
 
 **GM**
 > "That was very well delivered. Tadric signs off… Tadric is relieved — very pleased, sorry. He then… so Manshoon… sorry. A'lai is finally relieved. He's like, this is…"
 
-**Grygum**
+**Gyrgum**
 > "And yeah, that is something I could mumble into my pillow, it's…"
 
 **GM**
@@ -321,13 +321,13 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "And so he marches him off."
 
-**Grygum**
+**Gyrgum**
 > "Alright, everyone got what they wanted."
 
 **GM**
 > "Yes, everybody did get what they wanted."
 
-**Grygum**
+**Gyrgum**
 > "What did we learn?"
 
 **GM**
@@ -342,13 +342,13 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "That held things that nobody knew about."
 
-**Grygum**
+**Gyrgum**
 > "Boy, he could have totally gotten away with it, since nobody knew it was there, so they wouldn't have missed it."
 
 **GM**
 > "Yes, the problem was that to get there, you needed—"
 
-**Grygum**
+**Gyrgum**
 > "If it hadn't been for us damn kids."
 
 **GM**
@@ -381,7 +381,7 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "Right? Secret, but not secret — that kind of thing."
 
-**Grygum**
+**Gyrgum**
 > "The levels of classification are extremely vague."
 
 **GM**
@@ -399,7 +399,7 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "Right? And so the idea was that nobody would ever be able to do that."
 
-**Grygum**
+**Gyrgum**
 > "Does it have anything to do with the airspeed velocity of a laden swallow?"
 
 **GM**
@@ -408,7 +408,7 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "I'm prepared."
 
-**Grygum**
+**Gyrgum**
 > "I'm prepared for those."
 
 **GM**
@@ -417,7 +417,7 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "It's very odd… he's very confused."
 
-**Grygum**
+**Gyrgum**
 > "It's an old folk tale."
 
 **GM**
@@ -426,13 +426,13 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "The whole purpose of this… Okay, hold on."
 
-**Grygum**
+**Gyrgum**
 > "Don't worry about it, it's magic."
 
 **GM**
 > "He's a very powerful wizard. He does not find your humor funny."
 
-**Grygum**
+**Gyrgum**
 > "Some of these academics, you know."
 
 **GM** — *as A'lai*
@@ -447,16 +447,16 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "—you can find the entrance to the Vault of Secrets."
 
-**Grygum**
+**Gyrgum**
 > "Oh."
 
-**Grygum**
+**Gyrgum**
 > "It popped up."
 
 **Thorin**
 > "Okay."
 
-**Grygum**
+**Gyrgum**
 > "No."
 
 **Thorin**
@@ -465,7 +465,7 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **Thorin**
 > "Do we want to steal—"
 
-**Grygum**
+**Gyrgum**
 > "—it before Manshoon does."
 
 **Thorin**
@@ -498,7 +498,7 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **Thorin**
 > "Oh, okay, so it's a matter of — we don't know where he's at, he's escaped, so everybody's racing to get to this thing. And so, okay."
 
-**Grygum**
+**Gyrgum**
 > "Yep. So—"
 
 **Thorin**
@@ -507,19 +507,19 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "Right, yeah, so…"
 
-**Grygum**
+**Gyrgum**
 > "A'lai said that he'd solved 3 of them, right?"
 
 **GM**
 > "Two of them, two of them."
 
-**Grygum**
+**Gyrgum**
 > "Two of them."
 
 **GM**
 > "Yep."
 
-**Grygum**
+**Gyrgum**
 > "The solutions would probably help."
 
 **GM**
@@ -546,13 +546,13 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "…then feed into a document. If you're familiar with these puzzles, this should not be a surprise. If you're not—"
 
-**Grygum**
+**Gyrgum**
 > "Is this a letter substitution cipher?"
 
 **GM**
 > "Yeah, it's a letter substitution cipher."
 
-**Grygum**
+**Gyrgum**
 > "Like the ones that you used to find in newspapers, when news—"
 
 **GM**
@@ -570,7 +570,7 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "I have done these things with people like you, and they've insisted on spending hours solving this, and I've done it with people like you who've said, no, I will not solve this right now. That is too much like my day job."
 
-**Grygum**
+**Gyrgum**
 > "You know, that's me on different days, honestly."
 
 **GM**
@@ -597,7 +597,7 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **Thorin**
 > "But that's a different symbol from the other J."
 
-**Grygum**
+**Gyrgum**
 > "Yeah, it is."
 
 **Thorin**
@@ -606,7 +606,7 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "Yeah, we can call that an I. That's probably…"
 
-**Grygum**
+**Gyrgum**
 > "I guess it doesn't matter as long as you're consistent."
 
 **GM**
@@ -642,13 +642,13 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "Yeah, okay. So, Fusti… okay, so here we are. Let me just say this is the first one. He goes… the answer to number… I'm putting it in the Roll20 chat."
 
-**Grygum**
+**Gyrgum**
 > "This is the base insult of a black knight?"
 
 **GM**
 > "Yes."
 
-**Grygum**
+**Gyrgum**
 > "That doesn't mean anything more to me than what we'd started with."
 
 **GM**
@@ -663,19 +663,19 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM** — *as A'lai (raw capture said "keepers of Tobed"; the canonical title is Keeper of Tomes — cf. the `Keeper of Toads → Keeper of Tomes` row in `vtt_transcription_corrections.md`)*
 > "What I noticed was that successive Keepers of Tomes had ensured that the knight is never replaced."
 
-**Grygum**
+**Gyrgum**
 > "Okay."
 
 **GM**
 > "Right, so he goes, this is how I was… he's very smug about his achievement here."
 
-**Grygum**
+**Gyrgum**
 > "Congratulations!"
 
 **GM** — *as A'lai*
 > "Thank you, thank you, I… I'm… I feel—"
 
-**Grygum**
+**Gyrgum**
 > "Party popper emoji?"
 
 **GM**
@@ -690,7 +690,7 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "Here goes…"
 
-**Grygum**
+**Gyrgum**
 > "We all have our habits. This is for the Eastern Light of Mystra's Mantle?"
 
 **GM**
@@ -705,7 +705,7 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "And he goes — what is that? Does he explain this when he goes…"
 
-**Grygum**
+**Gyrgum**
 > "I hope it's a word I know this time."
 
 **GM** — *as A'lai*
@@ -714,19 +714,19 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM**
 > "KBM — yes, Bow. He goes, well, this, of course, is—"
 
-**Grygum**
+**Gyrgum**
 > "B-O-W? Yeah."
 
 **GM**
 > "Yes."
 
-**Grygum**
+**Gyrgum**
 > "So, okay, he… he bows to you?"
 
 **GM**
 > "Yes — exactly! Sorry, he is… he goes, exactly!"
 
-**Grygum**
+**Gyrgum**
 > "Oh, is he a performer, and you're…"
 
 **GM**
@@ -741,13 +741,13 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM** — *as A'lai*
 > "And I felt compelled to congratulate him in that moment. It came to life, and bowed deeply from the waist in acknowledgement of my applause."
 
-**Grygum**
+**Gyrgum**
 > "Oh, so you've actually… tested this."
 
 **GM** — *as A'lai*
 > "Yes, yes, yes. I was very pleased with myself. He goes, see, this demonstrates — he pauses and goes — this is what you acquire after a lifetime of serving the institution of Candlekeep."
 
-**Grygum**
+**Gyrgum**
 > "Well, congratulations!"
 
 **GM** — *as A'lai, then Tadric*
@@ -756,7 +756,7 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **GM** — *as A'lai*
 > "I suppose."
 
-**Grygum**
+**Gyrgum**
 > "One more."
 
 **Thorin**
@@ -771,19 +771,19 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **Thorin**
 > "Oh, okay."
 
-**Grygum**
+**Gyrgum**
 > "Fustilugs."
 
 **GM**
 > "Fustilugs works."
 
-**Grygum**
+**Gyrgum**
 > "He only has 2?"
 
 **GM**
 > "Yes."
 
-**Grygum**
+**Gyrgum**
 > "Oh, well, send him off to the jail then. I'm done with it."
 
 **GM**
@@ -792,13 +792,13 @@ from: ../scene_extractions/02_the_prisoner_s_bargain.md
 **[The Bargain Struck]**
 - A'lai asks to be placed in Candlekeep's null magic prison as the only thing that will keep him alive.
 - The GM reminds the table of A'lai's offer: who is really after Daz and why he is still alive, and Manshoon's true reason for coming.
-- Grygum prioritizes Manshoon's purpose; Daz asks for anything on both those keeping him alive and those trying to kill him.
+- Gyrgum prioritizes Manshoon's purpose; Daz asks for anything on both those keeping him alive and those trying to kill him.
 - A'lai demands guarantees; Thorin notes he is in no position to negotiate; the GM points to Tadric as the officer who can make the promise.
-- Grygum persuades Tadric, who agrees in exchange for a co-authored monograph.
+- Gyrgum persuades Tadric, who agrees in exchange for a co-authored monograph.
 - A'lai reveals the secret room beneath the keep, its artifacts, and the cryptogram guarding it, of which he has two answers.
 - On Daz's question, A'lai says he could not trace the payments, only the patience — it must be House Baenre.
 - Tadric marches A'lai toward the prison; the GM explains the question set guarding the Vault of Secrets.
-- Grygum's laden-swallow joke leaves A'lai confused and unamused.
+- Gyrgum's laden-swallow joke leaves A'lai confused and unamused.
 - The party debates whether to race to the vault or hunt Manshoon, settling on the race since nobody knows where he is.
 - A'lai gives the two answers: Fustilugs (the base insult of a Black Knight, from the Philosopher's Court chess piece) and Bow (Batbayar's statue bowing to applause).
-- Grygum, hearing A'lai has only two answers, sends him off to jail.
+- Gyrgum, hearing A'lai has only two answers, sends him off to jail.

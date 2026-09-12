@@ -1,7 +1,7 @@
 ---
 scene: 01
 slug: the_immortal_chambers_and_the_question_of_the_age
-narrator: Grygum
+narrator: Gyrgum
 scene_name: The Immortal Chambers And The Question Of The Age
 session: 20260518
 ---
@@ -87,4 +87,4 @@ I sit in the office with his papers and Pizwog's research tract and the thought 
 
 "I feel like I handled that competently," I say, to no one in particular.
 
-The Grygum school of thought. Filed under: things that started as offhand remarks. Bahamut may or may not have been watching. I took notes either way.
+The Gyrgum school of thought. Filed under: things that started as offhand remarks. Bahamut may or may not have been watching. I took notes either way.

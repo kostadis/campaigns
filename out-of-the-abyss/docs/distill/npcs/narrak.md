@@ -16,8 +16,8 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 
 ## History with the Party
 1. **Discovery:** The party found Narrak in his ritual chamber in the Whorlstone Tunnels, leading Derro apprentices in chanting invocations to Demogorgon. He was reading from Trillimac-bound books on madness and ritual spawn creation.
-2. **Confrontation:** Narrak announced he had already converted one of Hgraam's Stone Giants into a two-headed monster and planned to convert another. He cast *Fear* (using a white feather), terrifying Thorin, Grygum, and Zalthir.
-3. **Counter & Defeat:** Zalthir broke the Fear by moving magical darkness over Narrak. Daz trapped him with *Maximilian's Earthen Grasp*. Narrak failed to break free, attacked Grygum and Thorin with a short spear while restrained, but **Thorin delivered the killing blow**. His last words: *"No, the ritual cannot be undone!"*
+2. **Confrontation:** Narrak announced he had already converted one of Hgraam's Stone Giants into a two-headed monster and planned to convert another. He cast *Fear* (using a white feather), terrifying Thorin, Gyrgum, and Zalthir.
+3. **Counter & Defeat:** Zalthir broke the Fear by moving magical darkness over Narrak. Daz trapped him with *Maximilian's Earthen Grasp*. Narrak failed to break free, attacked Gyrgum and Thorin with a short spear while restrained, but **Thorin delivered the killing blow**. His last words: *"No, the ritual cannot be undone!"*
 4. **Loot:** The party recovered gold, Keoghtom's Ointment, and texts including *"The Rituals of the Two-Headed Beast."*
 
 ## Current Status

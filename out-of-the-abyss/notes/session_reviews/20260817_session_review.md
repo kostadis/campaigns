@@ -30,7 +30,7 @@
 - **The cryptogram was handed over as a real puzzle and the table took it.** You offered to just give
   them the answer — *"I have done these things with people like you who've said, no, I will not solve
   this right now, that is too much like my day job"* — and they solved it anyway, in parallel, with
-  Thorin driving a solver site and Grygum working it independently. Then you converted the table
+  Thorin driving a solver site and Gyrgum working it independently. Then you converted the table
   achievement into in-fiction consequence: the Avowed treating it as fresh evidence in "the great
   question of our age."
 

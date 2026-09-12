@@ -41,7 +41,7 @@ The fear cleared at the end of his turn, the way it had been promised to. He not
 
 Ilvara was still on the far side of the cavern, still howling, her voice ragged with the particular desperation of someone who has run out of futures but not yet run out of throat. *Vengeance. Zuggtmoy. The bride.* All of it tumbling out between strikes and retreats. Even cornered, she filled the space with prophecy rather than offers. He could respect the discipline of that, abstractly. She wasn't going to beg.
 
-The mage's body settled on the cavern floor. Behind Zalthir, someone — Grygum, probably — was already moving forward. Someone else was dealing with the insect swarm at the entrance. The fight was contracting toward its end the way fights do, the radius shrinking as each threat resolved.
+The mage's body settled on the cavern floor. Behind Zalthir, someone — Gyrgum, probably — was already moving forward. Someone else was dealing with the insect swarm at the entrance. The fight was contracting toward its end the way fights do, the radius shrinking as each threat resolved.
 
 *We barely knew you, man.* He didn't say this aloud. Just noted it, and turned toward where the remaining work was being done.
 

@@ -38,7 +38,7 @@
 
 **Rumpadump** — Identified by Stool as a friend from his circle. Observed looking upset and not dancing among the strange myconids. Location unclear but associated with the dancing myconids encountered previously.
 
-**The Flumph (Buppido)** — Continuing to serve as telepathic communication conduit for Daz. Mentioned needing "more trauma" — his trauma dump ability used on Errde. Received a gem from Werz but lost interest; Grygum pocketed it.
+**The Flumph (Buppido)** — Continuing to serve as telepathic communication conduit for Daz. Mentioned needing "more trauma" — his trauma dump ability used on Errde. Received a gem from Werz but lost interest; Gyrgum pocketed it.
 
 ## Party Accomplishments & Acquisitions
 
@@ -113,7 +113,7 @@
 - Not directly referenced but context of Stone Guard corruption noted (guards now taking bribes).
 
 **Themberchaud — red dragon Wyrmsmith, alliance offer**
-- Grygum reminded the group they must "free Themberchaud" — this objective remains outstanding.
+- Gyrgum reminded the group they must "free Themberchaud" — this objective remains outstanding.
 
 **Reach Blingdenstone — deep gnome settlement**
 - Party's intended next destination after Gracklstugh. Werz and Clan Ironhead both connected to facilitating this journey. Not yet departed.

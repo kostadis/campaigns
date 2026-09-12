@@ -11,10 +11,10 @@ scene: The Fate of Asha Vandree
 focus: Zalthir is the one who ends Asha when no one else will act decisively, stepping in with the same quiet finality that defines him — "I'm making a call" — and bearing the weight of that choice alone.
 
 ## Scene 3
-narrator: Grygum
+narrator: Gyrgum
 chunks: 1–2
 scene: Looting the Drow Outpost
-focus: As the party's cleric and the one who examines Ilvara's prayer book, Asha's wax pouch, and the ceremonial bundle, Grygum is best positioned to read the theological corruption written across every object they recover.
+focus: As the party's cleric and the one who examines Ilvara's prayer book, Asha's wax pouch, and the ceremonial bundle, Gyrgum is best positioned to read the theological corruption written across every object they recover.
 
 ## Scene 4
 narrator: Thorin

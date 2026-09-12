@@ -14,7 +14,7 @@ Focus: Daz is in his element — a room full of rare books and someone who wants
 
 - A group of those fans is audible at the back of the shop, arguing animatedly about a passage in Volume 2 — specifically whether Whistler could have flown from Triboar to a given location in two days, citing the Weber Report's account of wind conditions over ten days. Daz engages with the debate.
 
-- The fans are also split on Whistler's redemption arc: half believe Milo's account of his morally confused post-lycanthropy stage is too generous; the other half believe Malfire's "operational expenses, cost of living" framing is a philosophical breakthrough about the impossibility of pure heroism. Grygum observes that the book also has an unreliable narrator.
+- The fans are also split on Whistler's redemption arc: half believe Milo's account of his morally confused post-lycanthropy stage is too generous; the other half believe Malfire's "operational expenses, cost of living" framing is a philosophical breakthrough about the impossibility of pure heroism. Gyrgum observes that the book also has an unreliable narrator.
 
 - The party discovers a sign on the wall: *Whistler, Kenku of the First Faction, fallen at Glaziel's lair, the year of the Alliance, redeemed in life and death. May his silence speak.* Some factions have decided it is convenient to believe Whistler died at the end of the war. Daz absorbs this in silence.
 
@@ -38,7 +38,7 @@ GM: "Fat painting saved the print run! Milo finished it two days before the sign
 GM: "There's also a bunch of real-world fiction fans at the back of the sharp arguing animatedly about a passage in Volume 2."
 
 <!-- choosing not to engage -->
-Grygum: "I'm just looking around for things related to Bahamut, that this is, this is related."
+Gyrgum: "I'm just looking around for things related to Bahamut, that this is, this is related."
 
 ### [The fan debate — Whistler's flight speed]
 
@@ -53,8 +53,8 @@ Thorin: "If only we had a primary source."
 <!-- describing the second controversy among the fans -->
 GM: "Then there's… there's another, running argument about Whistler's redemption arc. The fans are split. Half think Myla's account of Whistler's morally confused post-lycanthropy stage is too generous. thinks, that Milo's operational expense, cost of living, and then the other think it's, no, Milo's operational expenses, cost of living framing is a philosophical breakthrough about the impossibility of pure good heroism. Apparently that's, like, what the fans are debating."
 
-<!-- observing as Grygum -->
-Grygum: "Well, and the book has an unreliable narrator as well."
+<!-- observing as Gyrgum -->
+Gyrgum: "Well, and the book has an unreliable narrator as well."
 
 <!-- stumbling, then clarifying the core fan question -->
 GM: "Was Hitler… was, was, sorry, was Whistler…"
@@ -66,13 +66,13 @@ Zalthir: "Well done! Alright."
 GM: "Oh, that was… sorry, that was very terrible. Was Whistler redeemed, or, you know, was my… did… or did… was it Whistler redeemed because, you know. a good guy, or was it… was it Mildfire's, you know, brilliant phrasing of operational expenses, cost of leaving, that created a philosophical breakthrough that allowed Whistler to see a different way of taking money?"
 
 <!-- wryly -->
-Grygum: "You say the real hero might have been the accountant?"
+Gyrgum: "You say the real hero might have been the accountant?"
 
 <!-- on fan factionalism -->
 GM: "Yes, I mean, you know, like, there's the pro-Milo faction, there's a pro-Whistler faction, you know, there's the Whistlerites and the Miloites, I mean, we're talking fanboyism to its."
 
 <!-- appreciating the terminology -->
-Grygum: "Whistlerites. That's… I like that."
+Gyrgum: "Whistlerites. That's… I like that."
 
 ### [The sign on the wall — Whistler declared dead]
 

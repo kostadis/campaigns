@@ -6,7 +6,7 @@
 
 **Location:** Spells — *Locate Object*
 
-**Issue:** The recap states *Locate Object* was used to search for the chipped piece of Janussi's front tooth. *Locate Object* is a concentration spell requiring the caster to have seen the object before or to describe it. A tooth fragment that the party did not know existed beforehand cannot be the target of *Locate Object*. More importantly, no character on the party sheet has *Locate Object* listed as a known or prepared spell. Grygum (Life Cleric 8) could prepare it, but it isn't noted. Daz (Evoker 8) does not have it in his documented spellbook.
+**Issue:** The recap states *Locate Object* was used to search for the chipped piece of Janussi's front tooth. *Locate Object* is a concentration spell requiring the caster to have seen the object before or to describe it. A tooth fragment that the party did not know existed beforehand cannot be the target of *Locate Object*. More importantly, no character on the party sheet has *Locate Object* listed as a known or prepared spell. Gyrgum (Life Cleric 8) could prepare it, but it isn't noted. Daz (Evoker 8) does not have it in his documented spellbook.
 
 **Evidence:** Party document lists all character sheets; *Locate Object* appears nowhere. The tooth was an unknown object, making the spell's use mechanically questionable regardless.
 

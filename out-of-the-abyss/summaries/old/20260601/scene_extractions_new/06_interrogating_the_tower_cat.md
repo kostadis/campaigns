@@ -21,7 +21,7 @@ source: gmassist
 ## Verbatim moments
 
 **[Daz Reveals Speak With Animals Ability]**
-- Zalthir suggests finding a way to speak with the cat; Grygum admits he cannot afford a potion.
+- Zalthir suggests finding a way to speak with the cat; Gyrgum admits he cannot afford a potion.
 - Daz reveals his Stonespeaker Crystal grants him the ability to speak with animals.
 - The GM confirms the ability works and that he had prepared for this possibility.
 
@@ -40,7 +40,7 @@ source: gmassist
 **[GM]** — *aside, candid*
 > "No, I believe it was, like, okay, this was… this was unexpected. Good that, good that I had prepared for that."
 
-**[Grygum]** — *relieved*
+**[Gyrgum]** — *relieved*
 > "Well, that saves me money on potions."
 
 ---
@@ -162,13 +162,13 @@ source: gmassist
 
 **[The Locket — Hollypocket Consulted, Fembris Interjects]**
 - The party realises they never asked about the item missing from Janussi's neck.
-- Grygum suggests asking the cat anyway; the cat knows it as a locket he always wore.
+- Gyrgum suggests asking the cat anyway; the cat knows it as a locket he always wore.
 - Fembris provides the critical context about the Hightower Library keys.
 
-**[Grygum]** — *prompting*
+**[Gyrgum]** — *prompting*
 > "We should have asked the housekeeper about that."
 
-**[Grygum]** — *suggesting an alternative*
+**[Gyrgum]** — *suggesting an alternative*
 > "The… well, let… Daz, why don't you ask the cat anyway? It's gonna be a weird description from a cat, but…"
 
 **[GM as Queenie]** — *on the locket*

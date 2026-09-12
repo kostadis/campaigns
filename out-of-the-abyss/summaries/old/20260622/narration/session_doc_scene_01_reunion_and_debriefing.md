@@ -1,7 +1,7 @@
 ---
 scene: 01
 slug: reunion_and_debriefing
-narrator: Grygum
+narrator: Gyrgum
 scene_name: Reunion and Debriefing
 session: 20260622
 ---
@@ -18,7 +18,7 @@ I have met Daral. He is not a man who distributes superlatives casually. What I 
 
 "Yeah, guys," I said, cutting across the praise before it could build momentum, "what did you find out while I was out?"
 
-The flattery adjusted its angle of approach. "Well, Mr. Grygum — as a cleric of Bahamut, might I say that your entire position on the quadrangle issue was, in fact, a brilliant insight that has dramatically transformed the—"
+The flattery adjusted its angle of approach. "Well, Mr. Gyrgum — as a cleric of Bahamut, might I say that your entire position on the quadrangle issue was, in fact, a brilliant insight that has dramatically transformed the—"
 
 "No, no," I said. "What am I restoring?"
 
@@ -42,7 +42,7 @@ And then Fembris Lancer arrived.
 
 He came in the way people do when they've been waiting in the corridor working themselves up — that quality of entrance that's trying not to be a dramatic entrance while being entirely a dramatic entrance. He had notes.
 
-"Grygum, that was fantastic!"
+"Gyrgum, that was fantastic!"
 
 "Why, thank you," I said. "I do my best."
 

@@ -174,7 +174,7 @@ back to onnxruntime embeddings without re-mining).
   214 NPC-only files before. `docs/npcs/` still lives in git as GM
   working reference; it just doesn't feed search. Two things follow:
   (a) the four PC exclusions had to be **restated** against
-  `merged_dossiers/`, since `npc_daz.md`, `npc_grygum.md`,
+  `merged_dossiers/`, since `npc_daz.md`, `npc_gyrgum.md`,
   `npc_thorin.md`, `npc_zalthir.md` and `npc_daz_issin.md`
   (Daz'issin = Daz's full drow name) all reappear there — moving a
   source silently readmits whatever the old path was filtering;

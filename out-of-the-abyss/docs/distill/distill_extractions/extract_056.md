@@ -14,7 +14,7 @@
 - Faction: Party
 - Motivations/Secrets: Does not know his own identity or history; believes he may be associated with an "expensive striking" of a noble house record; has pressure/headache symptoms possibly connected to Underdark madness spreading to the surface; the name "Daz'issin" (lit. "small shadow," a diminutive mothers used for boys they wanted to live) may be his full or birth name; Sister Yvenne appeared to know more than the public record allowed her to say
 
-**Grygum**
+**Gyrgum**
 - Location: Candlekeep (arrived this session); previously Daggerford
 - State: Active
 - Recent actions: Examined the Tarvis Ulain monument; purchased a pewter hand cast from the village priest; questioned the priest about the Stroudite inscription; paid a silver piece to the bard at the Burning Wizard Inn for a song about Stroud's chess game; assigned to handler Vareth at Candlekeep; observed Zalthir's trial
@@ -51,8 +51,8 @@
 
 **Maerith of the Ford**
 - Location: Daggerford
-- State: Distressed mother; had already been turned away by multiple temples before approaching Grygum
-- Recent actions: Approached Grygum after spotting his holy symbol; described Elin's symptoms; allowed the party to examine Elin
+- State: Distressed mother; had already been turned away by multiple temples before approaching Gyrgum
+- Recent actions: Approached Gyrgum after spotting his holy symbol; described Elin's symptoms; allowed the party to examine Elin
 - Faction: None noted
 - Notes: Does not appear in person beyond the initial consultation scene
 
@@ -84,7 +84,7 @@
 **Bard (unnamed)**
 - Location: Burning Wizard Inn, Daggerford
 - State: Active performer
-- Recent actions: Performed closing number "The Kenku Could Not Fly"; performed a love song about Stroud's chess game after Grygum paid a silver piece; invited requests from the audience
+- Recent actions: Performed closing number "The Kenku Could Not Fly"; performed a love song about Stroud's chess game after Gyrgum paid a silver piece; invited requests from the audience
 - Faction: None noted
 - Notes: Traveling bard; the Stroud love song reduced the theological stakes of the chess game to romantic metaphor
 
@@ -117,7 +117,7 @@
 - State: Active; efficient
 - Recent actions: Accepted the party's books at the gate; assigned each party member to a handler without ceremony; noticed the bag's contents and summoned Kalan Strongbranch
 - Faction: Candlekeep (Avowed)
-- Notes: Dragonborn sage; long-tenured; assigned: Daz to Sister Yvenne, Zalthir to Brother Khell-Vire, Thorin to Master Archivist Philemon, Grygum to Vareth
+- Notes: Dragonborn sage; long-tenured; assigned: Daz to Sister Yvenne, Zalthir to Brother Khell-Vire, Thorin to Master Archivist Philemon, Gyrgum to Vareth
 
 **Kalan Strongbranch**
 - Location: Candlekeep gate
@@ -156,8 +156,8 @@
 
 **Vareth**
 - Location: Candlekeep
-- State: Referenced as Grygum's assigned handler
-- Notes: Does not appear in this chunk beyond the assignment; described by implication as someone Grygum would be filing theological puzzles with
+- State: Referenced as Gyrgum's assigned handler
+- Notes: Does not appear in this chunk beyond the assignment; described by implication as someone Gyrgum would be filing theological puzzles with
 
 **Xenobiologist (unnamed)**
 - Location: Candlekeep
@@ -168,12 +168,12 @@
 **Whistler**
 - Location: Not present; referenced via the bard's song
 - State: Historical figure; not present this chunk
-- Notes: A Kenku thief referenced in the song "The Kenku Could Not Fly"; presented with the complete hoard of Tiamat, took only what was needed for legitimate expenses, operating goals, and day-to-day funds; Grygum noted the song's principle mapped onto Whistler
+- Notes: A Kenku thief referenced in the song "The Kenku Could Not Fly"; presented with the complete hoard of Tiamat, took only what was needed for legitimate expenses, operating goals, and day-to-day funds; Gyrgum noted the song's principle mapped onto Whistler
 
 **Stroud**
 - Location: Not present; referenced throughout
 - State: Historical figure; not present this chunk
-- Notes: Associated with the inscription "The move is yours" found on both the Castle Ward statue in Waterdeep and the Tarvis Ulain monument in Daggerford; associated with a famous chess game referenced in multiple songs and monuments; the village priest identified Stroudite members as possibly belonging to the Metalworkers Guild that funded the Tarvis monument; Grygum holds scholarly interest in Stroud; Grygum has "sentimentality" for the Stroudite tradition while identifying as Bahamutian
+- Notes: Associated with the inscription "The move is yours" found on both the Castle Ward statue in Waterdeep and the Tarvis Ulain monument in Daggerford; associated with a famous chess game referenced in multiple songs and monuments; the village priest identified Stroudite members as possibly belonging to the Metalworkers Guild that funded the Tarvis monument; Gyrgum holds scholarly interest in Stroud; Gyrgum has "sentimentality" for the Stroudite tradition while identifying as Bahamutian
 
 ---
 
@@ -189,7 +189,7 @@
 - Current goals: Not explicitly stated this chunk
 - Recent actions: Tarvis Ulain died breaking up a Cult of the Dragon recruitment operation in Daggerford; village priest sells memorial items and identifies as "pure Bahamutian"
 - Relationships: Aligned with Order of the Gauntlet; in tension with Stroudite heresy (priest was anxious about Stroudite association with the monument)
-- Key members: Tarvis Ulain (deceased paladin); village priest (unnamed); Grygum
+- Key members: Tarvis Ulain (deceased paladin); village priest (unnamed); Gyrgum
 
 **Stroudites**
 - Current goals: Not explicitly stated this chunk
@@ -242,19 +242,19 @@
 - A third inscription on the monument's back confirmed it was witnessed and recorded by Milo Goodbarrel for the Order of the Gauntlet, and funded by the Metalworkers Guild two years after the war.
 - The party entered the River Shining Tavern, where a village priest was selling pewter miniature hand casts of the Tarvis monument for Order of the Gauntlet donations.
 - The village priest confirmed that the Metalworkers Guild possibly had Stroudite members and that the Stroudite inscription was kept because the monument was a gift.
-- Maerith of the Ford approached Grygum in the tavern and reported her daughter Elin, age 7, had been silent for six days, drawing a six-pointed star on every flat surface and speaking in her sleep.
-- Grygum and Daz examined Elin medically and found nothing definitive; Dawnbringer applied lesser restoration.
+- Maerith of the Ford approached Gyrgum in the tavern and reported her daughter Elin, age 7, had been silent for six days, drawing a six-pointed star on every flat surface and speaking in her sleep.
+- Gyrgum and Daz examined Elin medically and found nothing definitive; Dawnbringer applied lesser restoration.
 - After lesser restoration, Elin spoke one sentence — "The wells are not wells anymore" — then returned to silence.
 - The party concluded Elin's condition was not a conventional disease or fungal infection; she was experiencing audio hallucinations arising from something more profound than lesser restoration could address.
 - A tenuous connection was identified between Elin's hallucinations and Daz's persistent headache, both potentially linked to Underdark madness bleeding upward to the surface.
 - The party moved to the Burning Wizard Inn in Daggerford, where Festrum the gnome innkeeper explained the inn's name: a wizard was burned alive by the Cult of the Dragon at that location decades prior; the south wall soot mark is preserved.
 - A bard performed "The Kenku Could Not Fly" at the Burning Wizard Inn, referencing a Kenku thief called Whistler who took only what was needed from Tiamat's complete hoard.
-- Grygum paid a silver piece for a song about Stroud's chess game; the bard performed a romantic love song in which the chess game served as metaphor.
+- Gyrgum paid a silver piece for a song about Stroud's chess game; the bard performed a romantic love song in which the chess game served as metaphor.
 - Daz observed a young human scholar at the Burning Wizard Inn reciting a chant with a specific wrongness matching patterns previously observed in Eldred (who went insane) and the Field Ward Preacher; Daz recorded the exact cadence.
 - Zalthir meditated on the inn's roof and returned settled.
 - Thorin spent the evening outside with Dawnbringer, who lit up the surroundings; Thorin found this peaceful.
 - The party traveled the Way of the Lion to Candlekeep.
-- On approach to Candlekeep, Daz's headache worsened, and Grygum identified a possible connection between this and the spreading Underdark madness.
+- On approach to Candlekeep, Daz's headache worsened, and Gyrgum identified a possible connection between this and the spreading Underdark madness.
 - At Candlekeep's gate, the party gave books as entry fee; Bookwyrm (First Reader) discovered the party's bag contained both Glabbagool and the miniaturized House T'sarran spy.
 - Kalan Strongbranch (Gate Warden) explained Candlekeep would not take long-term custody of the spy; the party chose to retain her.
 - The House T'sarran spy formally requested imprisonment by Candlekeep guards; this was denied; the decision remained with the party.
@@ -293,7 +293,7 @@
 
 **River Shining Tavern (Daggerford)**
 - What it is: An inn/tavern in Daggerford
-- What happened there: Party noted it on arrival; village priest was selling pewter hand casts; Maerith of the Ford approached Grygum; Elin was examined; village priest was questioned
+- What happened there: Party noted it on arrival; village priest was selling pewter hand casts; Maerith of the Ford approached Gyrgum; Elin was examined; village priest was questioned
 - Current state: Operational
 
 **Burning Wizard Inn (Daggerford)**
@@ -303,7 +303,7 @@
 
 **Way of the Lion**
 - What it is: A road running along cliff edges above the Sea of Swords leading to Candlekeep
-- What happened there: Party traveled it; Daz's headache worsened on approach; Grygum noted the possible connection to Underdark madness
+- What happened there: Party traveled it; Daz's headache worsened on approach; Gyrgum noted the possible connection to Underdark madness
 - Current state: Road; Candlekeep visible from miles out along it
 
 **Candlekeep**

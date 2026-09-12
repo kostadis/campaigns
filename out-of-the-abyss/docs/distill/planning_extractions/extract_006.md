@@ -1,6 +1,6 @@
 ## NPC Activity
 
-**Jimjar** – Served as botanical expert, explaining the properties of Barrelstalk and Trillimac mushrooms to the group. Engaged in extended banter with Zalthir over gambling bets. Arranged a bet with goblin guides Yukyuk and Spiderbait (20 gold to navigate the webs), which the goblins won; admitted he lacks the funds to pay. Agreed to allow the goblins to accompany the group as guides until the debt is settled. Revealed to Grygum with a wink that the goblins did not know which side of the bet they had taken.
+**Jimjar** – Served as botanical expert, explaining the properties of Barrelstalk and Trillimac mushrooms to the group. Engaged in extended banter with Zalthir over gambling bets. Arranged a bet with goblin guides Yukyuk and Spiderbait (20 gold to navigate the webs), which the goblins won; admitted he lacks the funds to pay. Agreed to allow the goblins to accompany the group as guides until the debt is settled. Revealed to Gyrgum with a wink that the goblins did not know which side of the bet they had taken.
 
 **Eldeth Feldrun** – Covered the rear of the group while traveling, working to obscure evidence of the caravan's passage. Noted that Buppido was watching her concealment techniques with particular interest. Proposed the innovation of tying silk rope between party members to arrest falls on the Silken Paths; explained the logic to the goblin guides.
 
@@ -12,7 +12,7 @@
 
 **Topsy and Turvy** – Observed speaking privately to each other at night, too far away for Daz to overhear. Topsy appeared confused and unresponsive when Yukyuk enthusiastically addressed her about his web-surfing run.
 
-**Stool** – Eagerly deployed spores to establish communication with the cocoon containing Fargas Rumblefoot. Expressed enthusiasm about being helpful; responded warmly to Grygum's affirmation.
+**Stool** – Eagerly deployed spores to establish communication with the cocoon containing Fargas Rumblefoot. Expressed enthusiasm about being helpful; responded warmly to Gyrgum's affirmation.
 
 **Yukyuk** – Goblin guide, orange color motif, tattoos written in Draconic script spelling out goblin words phonetically. Introduced himself and offered guide services at 2 gold per day. Accepted Jimjar's bet and demonstrated web navigation successfully. Became angry when Jimjar could not pay, throwing his beanie on the ground, but deferred when Spiderbait proposed the deferred-payment arrangement. Described his own web-surfing route as the easier of the two paths taken.
 

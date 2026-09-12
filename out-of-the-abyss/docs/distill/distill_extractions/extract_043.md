@@ -13,7 +13,7 @@
 - Recent actions: Delivered the killing blow to the Medusa with magical missiles; incapacitated the first Earth Elemental with a color pattern spell; used magical missiles to break the enchantment on the first elemental; deployed necrotic magic and fiery rays/explosion against subsequent elementals
 - Faction: Not specified
 
-**Grygum**
+**Gyrgum**
 - Current location: Ancient temple, Underdark (approximate)
 - Current state: Active; startled and retreated when a third Earth Elemental materialized behind him
 - Recent actions: Volunteered to place the Ruby spell gem into the menhir's socket; delivered radiant divine light to finish the first Earth Elemental; fired radiant bolts and channeled divine energy through his crossbow to destroy the second Earth Elemental; provided ranged support in the third battle
@@ -40,7 +40,7 @@
 
 **Gerdig Katfinger** (absent — referenced)
 - Not present in this session
-- Referenced as the provider of the Ruby spell gem used by Grygum to initiate the hallowing of the temple
+- Referenced as the provider of the Ruby spell gem used by Gyrgum to initiate the hallowing of the temple
 
 **Galeb Duhr (First)**
 - Current location: Ancient temple
@@ -59,22 +59,22 @@
 - Recent actions: Materialized after the third Earth Elemental was destroyed
 
 **Earth Elemental (First)** (destroyed)
-- Final state: Reduced to rubble by Grygum's divine flash
-- Notes: Detached from the wall of the temple after Grygum placed the Ruby gem in the menhir
+- Final state: Reduced to rubble by Gyrgum's divine flash
+- Notes: Detached from the wall of the temple after Gyrgum placed the Ruby gem in the menhir
 
 **Earth Elemental (Second)** (destroyed)
-- Final state: Destroyed by Grygum channeling divine energy through his crossbow
+- Final state: Destroyed by Gyrgum channeling divine energy through his crossbow
 - Notes: Emerged from the northern wall; focused attacks on Zalthir
 
 **Earth Elemental (Third)** (destroyed)
 - Final state: Shattered by Zalthir's enhanced strike
-- Notes: Materialized behind Grygum, startling him; was engaged primarily by Thorin
+- Notes: Materialized behind Gyrgum, startling him; was engaged primarily by Thorin
 
 ---
 
 ## Factions
 
-**The Party (Zalthir, Daz, Grygum, Thorin, Glabbagool)**
+**The Party (Zalthir, Daz, Gyrgum, Thorin, Glabbagool)**
 - Current goals: Hallow the ancient temple to cleanse it of Ogremoch's Bane; defeat all Earth Elementals within the temple to free the Galeb Duhr guardians
 - Recent actions: Defeated the Medusa; initiated the hallowing ritual by placing the Ruby spell gem in the menhir; destroyed three Earth Elementals; freed three Galeb Duhr
 - Relationships: Working toward a goal connected to Gerdig Katfinger (gem provider); allied with Glabbagool
@@ -96,15 +96,15 @@
 - The party defeated the Medusa; her petrifying gaze was reflected back at her using an ice mirror by Zalthir, restraining her; Daz delivered the killing blow with magical missiles.
 - The party searched the Medusa's lair and discovered five exquisite spider-silk dresses shaped by drow magic, of significant value in Underdark markets.
 - Glabbagool consumed the Medusa's remains.
-- Grygum placed the Ruby spell gem (provided by Gerdig Katfinger) into a socket in the central menhir of the ancient temple to begin hallowing it.
+- Gyrgum placed the Ruby spell gem (provided by Gerdig Katfinger) into a socket in the central menhir of the ancient temple to begin hallowing it.
 - The temple walls rumbled upon insertion of the gem; the first Earth Elemental detached from the wall and attacked.
-- Daz incapacitated the first Earth Elemental with a color pattern spell; the party coordinated a simultaneous strike; Grygum's divine flash destroyed it.
+- Daz incapacitated the first Earth Elemental with a color pattern spell; the party coordinated a simultaneous strike; Gyrgum's divine flash destroyed it.
 - The first Galeb Duhr materialized after the first elemental's destruction and communicated with the party, revealing Ogremoch's corruption of the temple and the condition for the guardians' freedom.
 - A second Earth Elemental emerged from the northern wall; it focused attacks on Zalthir, dealing heavy damage to him.
 - Thorin intercepted one of the second elemental's attacks meant for Zalthir.
-- Grygum channeled divine energy through his crossbow to destroy the second Earth Elemental.
+- Gyrgum channeled divine energy through his crossbow to destroy the second Earth Elemental.
 - A second Galeb Duhr materialized after the second elemental's destruction.
-- A third Earth Elemental materialized behind Grygum, startling him; Grygum retreated to safety.
+- A third Earth Elemental materialized behind Gyrgum, startling him; Gyrgum retreated to safety.
 - Daz unleashed a large fire explosion against the third elemental; Zalthir drank a healing potion to recover from wounds.
 - Thorin struck the third elemental twice as it charged, then launched a flurry of additional attacks; Zalthir delivered an enhanced finishing strike, shattering it.
 - A third Galeb Duhr materialized after the third elemental's destruction.

@@ -24,8 +24,8 @@
 
 > I heard his voice land somewhere between inquiry and bracing for bad news.
 
-**Why:** Cute but reaches for the same "X land[s] somewhere between Y and Z" construction that turns up across scenes. Daz's voice would either name the tone or note the specific thing about Grygum's voice that gave it away. Flagged as light because it's the only instance in this scene.
-**Suggested rewrite:** "I heard Grygum at the door. The voice he uses when he's already deciding what to bring."
+**Why:** Cute but reaches for the same "X land[s] somewhere between Y and Z" construction that turns up across scenes. Daz's voice would either name the tone or note the specific thing about Gyrgum's voice that gave it away. Flagged as light because it's the only instance in this scene.
+**Suggested rewrite:** "I heard Gyrgum at the door. The voice he uses when he's already deciding what to bring."
 
 ## Verdict
 

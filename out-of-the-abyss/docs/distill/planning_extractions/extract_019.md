@@ -48,7 +48,7 @@
 
 **Buppido**
 - Referenced by the Flumph as a former friend who "went stark raving mad."
-- Implied to be deceased or otherwise removed (Grygum goes silent at the mention, suggesting the party was involved in Buppido's fate).
+- Implied to be deceased or otherwise removed (Gyrgum goes silent at the mention, suggesting the party was involved in Buppido's fate).
 - Not physically present this session.
 
 **Prince Derendil**
@@ -133,7 +133,7 @@
 - **The Keepers of the Flame's constraint:** They cannot enter the Whorlestone Caves without revealing the loss of the egg (a key power asset) and triggering open war, explaining why they need outside agents.
 - **Errde's constraint:** She cannot enter the Whorlestone Caves without exposing her failure as city guardian.
 - **Mind flayer confirmed present** in the Whorlestone Caves complex, down a specific hallway, in proximity to the Empty Scabbard Killers.
-- **Buppido connection:** The Flumph identifies Buppido as a former friend who went mad — Grygum's silence implies the party has prior knowledge of or involvement in Buppido's fate.
+- **Buppido connection:** The Flumph identifies Buppido as a former friend who went mad — Gyrgum's silence implies the party has prior knowledge of or involvement in Buppido's fate.
 - **Flumph intelligence method:** The Flumph does not read minds; it absorbs ambient psychic residue. It cannot report on written documents or specific thoughts, only on emotional and psychic impressions and memories it has absorbed.
 
 ---

@@ -27,7 +27,7 @@ in Act 2. Brief, formal, faintly amused at the volume of donations.
 A dragonborn First Reader is the right person to take possession
 of the Velkynvelve prisoner journal *("It will go great with my
 other editions in drow prison journals")* and to be later quietly
-delighted that Vareth has dragged Grygum off — Bookwyrm has been
+delighted that Vareth has dragged Gyrgum off — Bookwyrm has been
 watching the Stroud Wake controversy as Drakonoikos' curator.
 
 **Recurrence:** the natural face of "Candlekeep itself" if the
@@ -79,9 +79,9 @@ hand-off to the Bell Tower happens, Kalan signs for her.
 **Race / role:** Avowed; Lorekeeper.
 **Where:** Oratory pulpit, addressing the Avowed on spiritual
 matters.
-**Use at table:** Bahamut/Oghma cross-referent for Grygum if he
+**Use at table:** Bahamut/Oghma cross-referent for Gyrgum if he
 wants a second theological voice that is *not* Vareth's. Sermon
-on the morning of Day Two is a clean way to seed Grygum's faith
+on the morning of Day Two is a clean way to seed Gyrgum's faith
 beats outside the Stroud frame.
 
 ### Sylvira Savikas — Curator, Infernal Fortress
@@ -136,7 +136,7 @@ theology/religion library.
 **Texture:** will help anyone with anything — *at 1 mph.* Moves,
 talks, and acts at exactly that pace.
 
-**Use at table:** Grygum's first stop when he steps from Vareth's
+**Use at table:** Gyrgum's first stop when he steps from Vareth's
 office into the *theology* library proper to handle the Asha
 Vandree manuscript. Pizwog's pacing is the comic counterweight to
 Vareth's frantic energy. Ben will love it.
@@ -147,9 +147,9 @@ Vareth's frantic energy. Ben will love it.
 **Texture:** **secretly worships Alaundo as a deity.** Reverential.
 
 **Use at table:** another half-orc Bahamut-adjacent figure for
-Grygum's eye to land on — the contrast point is "what does
+Gyrgum's eye to land on — the contrast point is "what does
 half-orc devotion look like when the object is a *seer*, not a
-god?" Ties Grygum's faith reflection to Ilvara's dying prophecy
+god?" Ties Gyrgum's faith reflection to Ilvara's dying prophecy
 and Jimjar's warnings if he wants to consult Alaundo's late
 prophecies (the *Echoes of Alaundo* in the Vault of Secrets are
 sealed; copies in the gallery are accessible).
@@ -161,7 +161,7 @@ scholar."
 **Where:** Drakonoikos (the dragon-anatomy library built inside
 Fyrentennimar's hollowed-out carcass).
 
-**Use at table:** Vareth drags Grygum here for Station 9
+**Use at table:** Vareth drags Gyrgum here for Station 9
 (Protanther's 400 years and his speech). Thava is the closest
 living authority on Protanther-as-character and on the
 Stroud-Protanther-Ortho lineage — she has read the Tyranny of
@@ -341,7 +341,7 @@ curator A'lai Aivenmore; librarian Pizwog-the-tortle). Vareth's
 office is one of the side-rooms there. The Stroud Wake stations
 run here, with two off-site detours: **Drakonoikos** (Station 9 —
 Protanther's speech, hosted by Thava Norixius) and **House of
-Alaundo** (optional — for Grygum to consult Alaundo's prophecies
+Alaundo** (optional — for Gyrgum to consult Alaundo's prophecies
 through Inda the half-orc librarian).
 
 **Backstory:** spent decades as a quiet half-orc-Bahamut scholar
@@ -355,8 +355,8 @@ become the Stroud archivist. The work found him.
 has read about. Apologizes when he runs too eagerly. Honest about
 not knowing.
 
-**For Grygum specifically:** docent of the **Stroud Wake** —
-walks Grygum through the panoramic view of what Stroud
+**For Gyrgum specifically:** docent of the **Stroud Wake** —
+walks Gyrgum through the panoramic view of what Stroud
 accidentally built across the Realms in three years. Holds **all
 three schools** open (Stroud / Dragon / Bahamut, organized by
 worldview). Never picks. Has the unsigned sting and has been
@@ -382,11 +382,11 @@ to the three other living Stroudite half-orc clerics. Holds the
   Refectory.
 - **Sylvira Savikas (Infernal Fortress) and Vareth** have
   collaborated on Tiamat-cultist misappropriations of Stroud.
-  Vareth will introduce Grygum to her if the demon-lord evidence
+  Vareth will introduce Gyrgum to her if the demon-lord evidence
   comes up — see "Demon-lord evidence handoff" beat in
   `notes/sessions/candlekeep_day_one.md`.
 - **Bookwyrm (First Reader)** is also curator of Drakonoikos.
-  When Vareth takes Grygum to Drakonoikos for Station 9, the First
+  When Vareth takes Gyrgum to Drakonoikos for Station 9, the First
   Reader may briefly appear — she has been watching the Stroud
   Wake controversy from the inside.
 - **Kalan Strongbranch (Gatewarden)** is a regular face in the

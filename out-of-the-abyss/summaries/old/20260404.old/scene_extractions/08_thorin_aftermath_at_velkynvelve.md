@@ -32,7 +32,7 @@ Thorin turns from the corpse of the fungus and strikes the bridge beneath Ilvara
 
 **[Ilvara Detonates]**
 
-Grygum's Guiding Bolt finds Ilvara. Her vulnerability to radiant energy does not simply kill her — it unmakes her, her body erupting outward in a billowing cloud of poisonous spores that floods the cavern. Zalthir and Thorin, still nearby, are caught in the toxic bloom. Both endure.
+Gyrgum's Guiding Bolt finds Ilvara. Her vulnerability to radiant energy does not simply kill her — it unmakes her, her body erupting outward in a billowing cloud of poisonous spores that floods the cavern. Zalthir and Thorin, still nearby, are caught in the toxic bloom. Both endure.
 *The killing blow poisoned the air for everyone still standing near it.*
 
 ---

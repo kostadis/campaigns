@@ -43,13 +43,13 @@ Here, may you two-headed fools! *
 *Where did they get this ritual? Ah, the book in the chief cultist's hands. *
 
 
-Grygum turns to me, “I know we want to stop this ritual, but my spells are almost finished.” 
+Gyrgum turns to me, “I know we want to stop this ritual, but my spells are almost finished.” 
 
 
 Thorin growls, “We need to protect the giants.” 
 
 
-Fortunately, Grygum notices something, or has a divine inspiration, or lies like so many of Lolth’s priests. We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.  
+Fortunately, Gyrgum notices something, or has a divine inspiration, or lies like so many of Lolth’s priests. We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.  
 
 
 Thorin is displeased, but understands. 
@@ -115,7 +115,7 @@ And the creature falls asleep.
 I look at sleeping and shrug, wondering why parents complain so bitterly about their children. 
 
 
-### Grygum
+### Gyrgum
 
 
 I prepare to say my prayers when the Pelek, who now possesses the body of Derro, asks if we would tie him up. He’s concerned that he might lose control of the Derro, who might try to kill us. 
@@ -133,7 +133,7 @@ As we tie Pelek/Derro up, JimJar again offers one of his silly bets. He bets me 
 ## 2nd day of the 2nd tenday of Myrtul
 
 
-### Grygum
+### Gyrgum
 
 
 And when we wake up, Pelek/Derro is still tied up. And I collect my winnings. 
@@ -252,7 +252,7 @@ He seems disappointed with the outcome.
 And of course, Narrak has to provide a running commentary, “Fire is nothing compared to the awesome power of Demogorgon!” 
 
 
-One of the Derro rushes out of Zalthir’s darkness, notices Grygum, and strikes him while chanting, “You shall die! You shall die!” 
+One of the Derro rushes out of Zalthir’s darkness, notices Gyrgum, and strikes him while chanting, “You shall die! You shall die!” 
 
 
 The Derro misses. 
@@ -264,7 +264,7 @@ Another creature attacks Zalthir in the darkness. It took shrieks something inte
 And then I hear Zalthir shout, “There’s some kind of effect that the circle has on those who enter it. Some kind of madness gripped my mind, but my monk training allowed me to stop it. Be careful!” 
 
 
-And then I hear Grygum moaning in pain, then in incantation. There is a violent heaving. I look at him as he straightens and vomits forth a wave of acid.
+And then I hear Gyrgum moaning in pain, then in incantation. There is a violent heaving. I look at him as he straightens and vomits forth a wave of acid.
 
 
 This is not a spell I wish to cast. 
@@ -279,8 +279,8 @@ Narrak shouts, “What’s going on here!”
 The Ettin  points at the three of us outside of the darkness, but Narrak can’t see anything. 
 
 
-Another Derro rushes out of the darkness and attacks Grygum, missing. 
-Finally, Narrak emerges and shouts, “I will use fear!” He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified. 
+Another Derro rushes out of the darkness and attacks Gyrgum, missing. 
+Finally, Narrak emerges and shouts, “I will use fear!” He takes a white feather and points at Thorin, Gyrgum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified. 
 
 
 As the fear takes over, he shouts - “Beyond you creatures!” 
@@ -298,7 +298,7 @@ If I am left alone, this will not be good.
 And then Zalthir has a brilliant ploy. He moves the darkness over Narrak. As the source of the Ember Vanguard’s fear is no longer visible, they are no longer affected by it.  
 
 
-A guiding bolt from Grygum strikes the Ettin , and it groans and then smiles. I don’t think the spell hurt him as badly as we need. 
+A guiding bolt from Gyrgum strikes the Ettin , and it groans and then smiles. I don’t think the spell hurt him as badly as we need. 
 
 
 But Thorin has a better chance to strike the creature, and he does. 

@@ -8,12 +8,12 @@ source: gmassist
 ## Scene summary (from gm-assist, verbatim)
 
 #### The party secures A'lai Aivenmore and hides his High Tower key, just as Manshoon's simulacrum forces its way into Candlekeep.
-- The party takes A'lai Aivenmore's High Tower key to prevent the two keys from being brought together. Daz: "Don't bring them together." Grygum retains the other real key.
+- The party takes A'lai Aivenmore's High Tower key to prevent the two keys from being brought together. Daz: "Don't bring them together." Gyrgum retains the other real key.
 - Thorin takes the key off A'lai and uses sleight of hand to secretly pass it to Zalthir, and the key is ultimately hidden inside Glabbagool for safekeeping — with someone instructed to swear Glabbagool to the "Law of Silence." Daz: "I think sticking in the middle of [Glabbagool] is probably not a bad idea." *(transcript: "Zalthir")*
 - Glabbagool appears visibly proud of his new responsibility, standing slightly taller — "he gained a centimeter… a half a centimeter of height… A little less pancake-y" — now that he's "taking on important adventuring missions."
 - The room the party is guarding is confirmed as the security control room: the door "opens into a room, which has some kind of magical artifact… that controls the security of the systems." Zalthir notes the party already knows it's been tampered with, "because the security controls are partially deactivated."
 - The party decides to move A'lai Aivenmore out of the High Tower lobby before questioning him further, correctly sensing that remaining in the room would be dangerous. The DM's offer — "Do you want to stay in the room while he explains it to you, or do you want to leave the room?" — reads to Thorin as "a very loaded question… roll for initiative type of question." Thorin: "I say we get him out of the damn room before we start asking him questions." As they exit: "you made the right choice."
-- Manshoon's simulacrum magically forces its way into the building — conjuring a wall of force and shattering the magical door that the High Tower keys were meant to protect. Asked what would have happened had they stayed: "the ultra-powerful wizard shows up and breaks the door." Grygum: "Well, I'm glad we didn't do that."
+- Manshoon's simulacrum magically forces its way into the building — conjuring a wall of force and shattering the magical door that the High Tower keys were meant to protect. Asked what would have happened had they stayed: "the ultra-powerful wizard shows up and breaks the door." Gyrgum: "Well, I'm glad we didn't do that."
 - Thorin points out the keys now seem moot; the DM counters that Manshoon "would have showed up with a lot bigger power" — in the original plan "Manshoon shows up with all of his goons fully powered," but the party's campaign of attrition (Janussi dead, Alkrist neutralized, Bookwyrm dead, A'lai captured, Kalan to the wind — "5 of these wizards are out" of the Avowed's final line of defense) forced him into "a desperate gamble," arriving alone and drained. Thorin: "Spreadsheet involved, GM?" DM: "Yes, there was."
 - The party realizes that while the simulacrum has breached the keep, it has expended massive amounts of magical power to do so and arrived alone, without his usual retinue of goons — "Manshoon probably burned a lot of magical artifacts to get here. It was a one-time trip kind of thing."
 - A'lai Aivenmore reveals that he withheld specific information from Manshoon regarding the depository's contents — "that was the detail he didn't tell Manshoon, which is why… good that you didn't kill him" — information he intends to use as leverage: "A'lai is going to want something in exchange for that information."
@@ -40,7 +40,7 @@ source: gmassist
 **[Thorin]**
 > "That feels like a very loaded question."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Yeah, it does."
 
 **[Thorin]**
@@ -49,8 +49,8 @@ source: gmassist
 **[Zalthir]** — OOC while the GM is briefly away on a call, re-establishing why they're in this room at all
 > "while we wait on the GM, were we doing something in this room? Like, why were we here to begin with?"
 
-**[Grygum]**
-> "I think we were going to**[Grygum]** — (truncated)
+**[Gyrgum]**
+> "I think we were going to**[Gyrgum]** — (truncated)
 > "I think we were going to go into the tower with,"
 
 **[Thorin]**
@@ -102,7 +102,7 @@ source: gmassist
 > "Don't bring them together."
 
 **[GM]**
-> "Okay, and Grygum has one who has the other key, just want to know."
+> "Okay, and Gyrgum has one who has the other key, just want to know."
 
 **[Thorin]** — the sleight-of-hand handoff
 > "So I'm the one who takes it off him, but I slip it to, Zalthir when nobody's looking."
@@ -110,7 +110,7 @@ source: gmassist
 **[Daz]** — the tape appears to garble the ooze's name here
 > "Yeah. I think sticking in the middle of [Glabbagool] is probably not a bad idea." *(transcript: "Zalthir")*
 
-**[Grygum]** — the tape garbles what is evidently a call for a roll
+**[Gyrgum]** — the tape garbles what is evidently a call for a roll
 > "You want to roll for [sleight of hand]?" *(transcript: "a sweatyman")*
 
 **[GM]** — swearing Glabbagool to secrecy
@@ -158,7 +158,7 @@ source: gmassist
 **[GM]**
 > "Yeah, I mean, the ultra-powerful wizard shows up and breaks the door."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Well, I'm glad we didn't do that."
 
 **[Manshoon Breaches Candlekeep]**
@@ -231,7 +231,7 @@ source: gmassist
 > "Yes, you guys manage… now, he… all of his goons can't show up, only he can show up."
 > "Secondly, you manage to capture [A'lai], who knows what Manshoon is after, precisely." *(transcript: "a lay")*
 
-**[Grygum]**
+**[Gyrgum]**
 > "So, Manshoon is, like… this is like the boss fight."
 
 **[GM]**
@@ -241,7 +241,7 @@ source: gmassist
 > "Good. Which is why A'lai is so freaked out, because A'lai was, like, now realized… A'lai was thinking, there's no way Manshoon shows up."
 > "Now, A'lai realizes that if Manshoon can show up in Candlekeep, Manshoon can find a way to show up in a cell inside of Candlekeep."
 
-**[Grygum]** — the tape garbles A'lai's name here
+**[Gyrgum]** — the tape garbles A'lai's name here
 > "And so we have to figure out what can we offer [A'lai]." *(transcript: "offer LA")*
 
 **[Daz]** — (truncated at the start)

@@ -2,28 +2,28 @@
   {
     "type": "npc",
     "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch holds the second key to the High Tower, which he secretly transferred to Grygum; he believes he may be targeted for the key and has instructed that if he is killed, the key must not be found.",
+    "fact": "Kalan Strongbranch holds the second key to the High Tower, which he secretly transferred to Gyrgum; he believes he may be targeted for the key and has instructed that if he is killed, the key must not be found.",
     "source_quote": "It is best that if I am killed, the key not be found.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum received the second High Tower key from Kalan Strongbranch in a covert handoff; he is now responsible for investigating poison, sapphires, and the tower's security, and is considered by Kalan to be a trustworthy recipient.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum received the second High Tower key from Kalan Strongbranch in a covert handoff; he is now responsible for investigating poison, sapphires, and the tower's security, and is considered by Kalan to be a trustworthy recipient.",
     "source_quote": "Kalan stepped out of a doorway we hadn't clocked... pressed a small brass key specifically into the cleric's palm.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Bookwyrm",
-    "fact": "Bookwyrm is under suspicion as a potential killer; Kalan Strongbranch warned Grygum to listen for what she isn't saying, implying she holds hidden knowledge about the High Tower or the murder.",
+    "fact": "Bookwyrm is under suspicion as a potential killer; Kalan Strongbranch warned Gyrgum to listen for what she isn't saying, implying she holds hidden knowledge about the High Tower or the murder.",
     "source_quote": "Whatever Bookwyrm is telling you, listen for what she isn't.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Janussi",
-    "fact": "Janussi holds one of the two keys to the High Tower; the other was held by Kalan Strongbranch and has now been transferred to Grygum.",
+    "fact": "Janussi holds one of the two keys to the High Tower; the other was held by Kalan Strongbranch and has now been transferred to Gyrgum.",
     "source_quote": "The High Tower has two keys. Janussi wore one, I held the other.",
     "quote_verified": true
   },
@@ -37,7 +37,7 @@
   {
     "type": "object",
     "subject": "Second High Tower Key",
-    "fact": "The second key to the High Tower, previously held by Kalan Strongbranch, was secretly given to Grygum; its current location is unknown to all but Grygum and Kalan.",
+    "fact": "The second key to the High Tower, previously held by Kalan Strongbranch, was secretly given to Gyrgum; its current location is unknown to all but Gyrgum and Kalan.",
     "source_quote": "I have given it now to someone who is not me.",
     "quote_verified": true
   },
@@ -64,8 +64,8 @@
   },
   {
     "type": "event",
-    "subject": "Key Transfer to Grygum",
-    "fact": "Kalan Strongbranch covertly transferred the second High Tower key to Grygum in a hidden corridor, bypassing all other investigators; this act suggests he distrusts the group and anticipates his own death.",
+    "subject": "Key Transfer to Gyrgum",
+    "fact": "Kalan Strongbranch covertly transferred the second High Tower key to Gyrgum in a hidden corridor, bypassing all other investigators; this act suggests he distrusts the group and anticipates his own death.",
     "source_quote": "Kalan stepped out of a doorway we hadn't clocked... pressed a small brass key specifically into the cleric's palm.",
     "quote_verified": false
   },

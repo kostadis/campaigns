@@ -12,7 +12,7 @@ chapters: 31-31
 **Allegiance/faction:** Undead entity, no known allegiance  
 **Current possessions / notable items, spells, feats, wounds:** None; slain by cumulative magical damage  
 **Current assignment / role and key relationships:** None; was an ambush predator lurking in the swamp  
-**Defining recent actions:** Lurked camouflaged in moss and swamp terrain; attempted to grapple and engulf Thorin; was stunned by Zalthir, trapped within Grygum’s Spirit Guardians, and destroyed by persistent magical damage. Its presence was detected by Daz using a grid-based spell technique derived from K’tharr-li.  
+**Defining recent actions:** Lurked camouflaged in moss and swamp terrain; attempted to grapple and engulf Thorin; was stunned by Zalthir, trapped within Gyrgum’s Spirit Guardians, and destroyed by persistent magical damage. Its presence was detected by Daz using a grid-based spell technique derived from K’tharr-li.  
 
 ## Uncertainty
 - Contradiction in attribution of detection: One quote attributes the warning about the mound to Loobamub, another implies Daz detected it — but both occur in the same chapter with no clear temporal sequence to determine which came first or if both are accurate.  

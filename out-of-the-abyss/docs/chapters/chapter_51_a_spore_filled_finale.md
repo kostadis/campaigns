@@ -46,7 +46,7 @@ I've been in enough fights now to know the shape of a bottleneck. The cavern was
 So I descended from the elevated walkway and pushed through the terrain toward the heart fungus, and I did the sensible thing first: I asked if there was anything I needed to know about it.
 "Is there anything I need to... anything I know about the fungus in terms of, like, is it, like, resistant to stuff or whatever?"
 "It's resistant to the usual stuff that funguses are resistant to, but if you hit it hard enough, it should die."
-Grygum, from somewhere behind me, helpful as always: "It's not resistant to swords."
+Gyrgum, from somewhere behind me, helpful as always: "It's not resistant to swords."
 And then the DM, with the particular cadence of a man setting up something he was proud of: "It actually is doubly not resistant to radiant damage."
 Dawnbringer was already in my hand. She'd been in my hand since we walked in. She's not the sort of sword that waits politely in a scabbard when there's something this obviously in need of being hit with radiant light.
 The answer I was looking for had been at the end of my arm the entire time.
@@ -56,12 +56,12 @@ One round. That was all it got.
 "I do what I can."
 There was a pause — the particular pause of a dungeon master looking at a carefully prepared battle map and making peace with what just happened.
 "I spent so much time creating this icon."
-"I know, it was beautiful," Grygum said.
+"I know, it was beautiful," Gyrgum said.
 "It was pretty," Zalthir agreed.
 "I liked it very much, Gustatus."
 The party offered their condolences, and I accepted them on the fungus's behalf. It had been a fine-looking icon. Big. Pulsing. Lovingly rendered. It deserved a longer fight than it got. These things happen. Dawnbringer doesn't negotiate, and she doesn't do gradual.
 Then Ilvara cast Insect Plague.
-The swarm hit the cavern entrance like a wall of sound and motion — a biblical chittering that shredded the fungal minions instantly, all thirteen hit points of them, gone before they could do anything useful. And then Grygum said what we were all thinking:
+The swarm hit the cavern entrance like a wall of sound and motion — a biblical chittering that shredded the fungal minions instantly, all thirteen hit points of them, gone before they could do anything useful. And then Gyrgum said what we were all thinking:
 "Oh, how about Glabbagool?"
 Twenty-six points of damage. The grey ooze took twenty-six points of damage from a spell he had nothing to do with, while he was hovering at the edge of the chaos doing his best to look like he was following the conversation. He'd been trying to participate. He had eyes extended toward us and everything. He survived, which is the important thing, but still — twenty-six points for a sentient ooze who just wanted to belong. The Underdark is not kind to bystanders.
 I filed that away. I would be checking on Glabbagool when this was over.
@@ -83,7 +83,7 @@ I'm just sitting here watching them trade blows like a tennis match.
 Sometimes the most useful thing a fighter can do is stay out of someone else's reckoning.
 
 
-## Grygum — Chaos in the Fungal Cavern
+## Gyrgum — Chaos in the Fungal Cavern
 The insect plague hit like a wave breaking through a cracked hull — one moment the cavern was loud with shouting and the clatter of steel, and the next it was *screaming*. Not from us. From everything between us and Ilvara.
 I felt the swarm before I saw it. A wall of noise, of biting, chittering fury, the kind of sound that bypasses the thinking part of the brain and goes straight to the older, smaller part that just says *run*. I did not run. I want to note that. But I was also very, very aware of exactly how many insects were currently conducting a theological inquiry into the structural integrity of my skin.
 Ilvara had conjured it at the cave entrance, a sphere of plague large enough to catch the whole middle ground between us — me, Daz, and, as I registered with a cold sinking feeling, Glabbagool. Our faithful, wobbling, occasionally conversational gelatinous cube companion, who had been attempting to participate in the fight with the earnest commitment of someone who was very new to fighting and very sincere about it.
@@ -141,13 +141,13 @@ Asha saw them at almost the same moment I registered where we'd ended up. Her ha
 There was a window of perhaps two seconds before this became catastrophic.
 "No, these are friends of Lolth, and they're here to help."
 The words came out smooth. No hesitation, no announcement, no explanation. I have been maintaining a Lolth-follower identity with Asha Vandree for long enough that the fiction has its own momentum — you learn to stop thinking of it as lying and start thinking of it as consistent characterization. Asha is a Lolth-devotee; she has a ready-made slot in her worldview for "Lolth-aligned drow who are here to help." I put the Duskryn sisters in that slot and moved on. The lie barely costs anything when you're already committed to the architecture.
-Grygum, at some point in this sequence, observed that the situation was "accurately described" by Asha's characterization of me as an insane mage who had converted to Lolthism. He meant it kindly. Or as kindly as Grygum observes anything, which is with the steady, clear-eyed precision of a man keeping accurate records.
+Gyrgum, at some point in this sequence, observed that the situation was "accurately described" by Asha's characterization of me as an insane mage who had converted to Lolthism. He meant it kindly. Or as kindly as Gyrgum observes anything, which is with the steady, clear-eyed precision of a man keeping accurate records.
 *What's important? That she thinks it, or that it's real?*
 I know what's real. I know what I've left behind and what I haven't and what Menzoberranzan made me and what the Underdark has cost me and what I believe now, privately, about slavery and free people and the basis of any society. I know all of that. But right now, in this cavern, Asha thinks I serve Lolth, and that belief is load-bearing.
 So we let it stand.
 Nym Duskryn had been watching all of this with the particular expression of someone who is calculating whether their contract is still viable. She had been sent — she and Kaelira both — to extract me. Deliver the package intact. Get paid. It is a simple arrangement and I had been making it complicated since the moment she arrived.
 "Can you please keep your head down and out of combat? We only get paid if you live."
-I find transactional arguments interesting when they're offered as though they should be persuasive to the person whose life is being treated as currency. The logic runs: *Daz, you should hide, because we get paid when you live.* The invisible premise is that I should care about whether Nym gets paid. I don't, particularly. What I care about is that Thorin and Grygum and Zalthir are in active combat with a corrupted high priestess and a field of biting insects and what appears to be an inexhaustible supply of Drow reinforcements, and the idea of standing in a shadow while that happens is — I want to find a precise word — *unacceptable.*
+I find transactional arguments interesting when they're offered as though they should be persuasive to the person whose life is being treated as currency. The logic runs: *Daz, you should hide, because we get paid when you live.* The invisible premise is that I should care about whether Nym gets paid. I don't, particularly. What I care about is that Thorin and Gyrgum and Zalthir are in active combat with a corrupted high priestess and a field of biting insects and what appears to be an inexhaustible supply of Drow reinforcements, and the idea of standing in a shadow while that happens is — I want to find a precise word — *unacceptable.*
 "I am not gonna leave. Everyone here... to fight for me without me also participating. I don't give a damn if you get paid. The best way for you to get paid, then, is to continue the fight and prevent all of us from dying."
 There it was. Said. Not eloquent — I am capable of elegance, and that was not it. But it was accurate, and it was what I meant, and Nym heard it correctly because her expression shifted from exasperated professionalism to something more pointed.
 She turned away from me.
@@ -193,11 +193,11 @@ The T'sarran mage was still standing. Barely. Daz had already run an empowered f
 Zalthir said this without particular enthusiasm. He teleported across the battlefield — shadow-step, the distance closing in the space between one breath and the next — and hit the mage once, and that was enough. The man went down. Zalthir straightened.
 The fear cleared at the end of his turn, the way it had been promised to. He noted this without celebration.
 Ilvara was still on the far side of the cavern, still howling, her voice ragged with the particular desperation of someone who has run out of futures but not yet run out of throat. *Vengeance. Zuggtmoy. The bride.* All of it tumbling out between strikes and retreats. Even cornered, she filled the space with prophecy rather than offers. He could respect the discipline of that, abstractly. She wasn't going to beg.
-The mage's body settled on the cavern floor. Behind Zalthir, someone — Grygum, probably — was already moving forward. Someone else was dealing with the insect swarm at the entrance. The fight was contracting toward its end the way fights do, the radius shrinking as each threat resolved.
+The mage's body settled on the cavern floor. Behind Zalthir, someone — Gyrgum, probably — was already moving forward. Someone else was dealing with the insect swarm at the entrance. The fight was contracting toward its end the way fights do, the radius shrinking as each threat resolved.
 *We barely knew you, man.* He didn't say this aloud. Just noted it, and turned toward where the remaining work was being done.
 
 
-## Grygum — The Fall of Ilvara
+## Gyrgum — The Fall of Ilvara
 The bolt was already building in my hand when I made the decision.
 Let me back up. For most of this fight I had been in observation mode — which is a polite way of saying I was watching Jorlan Duskryn and Ilvara Mizzrym tear at each other like competing bad ideas, and finding it genuinely entertaining. You don't often get to watch your primary antagonist and a lover's grudge collide in real time. There's a whole drama there — she discarded him when he got the scar, he's been carrying that wound ever since, and now here they both are at the bottom of a ruined bridge with Zuggtmoy's rot flowering through everything she touches. I took mental notes. It's what I do.
 I'm amused by the Jorlan-Ilvara drama, I thought. But I think I'm still going to go ahead and attack them.
@@ -221,12 +221,12 @@ My first real question, once the cloud was thin enough to breathe through, was a
 ## Thorin — Aftermath at Velkynvelve
 The bridge going down was my idea, technically, but I can't take full credit for it feeling satisfying. You swing at a bridge long enough, the bridge falls. That's not strategy. That's physics.
 Ilvara and Jorlan both cleared the drop. I watched them hit the cavern floor and thought: *still breathing*. Then I thought about how much tunnel I'd crossed to reach that bridge, how many times the fight had relocated while I was still arriving at wherever it used to be, and I stopped tallying. Some battles you just chase until they end without you.
-The fungus, at least, was mine. Clean and total. Dawnbringer lit the thing up from the first swing and it never got a second chance — big pulsating horror that must have taken the DM weeks to stat out, and it folded before anyone else could touch it. I said *I do what I can* because what else do you say when you've just ruined someone's evening in two rounds of radiant damage. Grygum said it was beautiful. Zalthir said it was pretty. I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.
+The fungus, at least, was mine. Clean and total. Dawnbringer lit the thing up from the first swing and it never got a second chance — big pulsating horror that must have taken the DM weeks to stat out, and it folded before anyone else could touch it. I said *I do what I can* because what else do you say when you've just ruined someone's evening in two rounds of radiant damage. Gyrgum said it was beautiful. Zalthir said it was pretty. I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.
 After that I was mostly running.
 That's the honest accounting of the rest of the battle: I was running. The map spread out across half the cavern and the fight kept happening somewhere I wasn't. Drow fighting drow. Ilvara dropping, recovering, dropping again. Lightning hitting things I couldn't see from wherever I was standing. There's a version of this where I say I was *holding the center* or *covering the approach*, but the real version is that I'm a dwarf with a glowing sword in a sprawling cavern fight and at some point you stop pretending you've got angles on all of it and just pick a direction and go.
-Grygum's bolt found her. Spores everywhere — the kind of death that punishes you for being nearby. I caught some of it. Zalthir caught some of it.
+Gyrgum's bolt found her. Spores everywhere — the kind of death that punishes you for being nearby. I caught some of it. Zalthir caught some of it.
 Dawnbringer pulsed once, steady warmth against my palm.
-The spores drifted. The T'sarrans were already gone. Somewhere behind me, Grygum was probably checking on Glabbagool. Daz was probably explaining to someone why exactly this was all fine.
+The spores drifted. The T'sarrans were already gone. Somewhere behind me, Gyrgum was probably checking on Glabbagool. Daz was probably explaining to someone why exactly this was all fine.
 I stood there and let the quiet be quiet.
 We'd won. I couldn't tell you yet what winning this one cost, or what it opened up ahead of us — that kind of math takes time, and the Underdark has a way of correcting your optimism before you even finish the equation. But right now the fungus was dead and the bridge was down and Ilvara Mizzrym was a cloud of dissipating spores, and Asha was still praying in the dark like she expected to be answered.
 Maybe she would be. I've seen stranger things answered.

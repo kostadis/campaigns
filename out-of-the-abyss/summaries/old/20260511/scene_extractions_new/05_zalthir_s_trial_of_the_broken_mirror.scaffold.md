@@ -1,6 +1,6 @@
 [Scene 5] Zalthir's Trial of the Broken Mirror
-Narrator: Grygum
-Focus: Grygum watches from the outside as Zalthir is tested, reading the trial's spiritual architecture the way he reads theology — looking for what the mirror is really asking, and what it reveals about a man who leaves no tracks.
+Narrator: Gyrgum
+Focus: Gyrgum watches from the outside as Zalthir is tested, reading the trial's spiritual architecture the way he reads theology — looking for what the mirror is really asking, and what it reveals about a man who leaves no tracks.
 
 - Zalthir is taken to the Echoing Hall in the north inner ward of the history library, to Calvier's lower gallery office where the Shadow Discipline Lineage Records are kept.
 

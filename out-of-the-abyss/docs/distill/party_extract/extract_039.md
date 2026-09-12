@@ -1,6 +1,6 @@
 ## Character Progression
 
-- **Grygum**: Gained a magical short sword found in the aftermath of the gelatinous cube battle.
+- **Gyrgum**: Gained a magical short sword found in the aftermath of the gelatinous cube battle.
 - **Party (collective)**: Received a 10% discount coupon from the Chamber of Commerce merchant as a reward for heroism.
 
 ## Arc Score Events
@@ -9,12 +9,12 @@
 - **Zalthir**: Detected a pit trap, keeping the party safe — positive (competence, vigilance).
 - **Zalthir**: Demonstrated shadow movement abilities to the deep gnome leadership to win their confidence in the plan — positive (proving himself, earning trust).
 - **Daz**: Seized control of the negotiation with Chief Dorbo, declaring the party would lead the operation and demanding cooperation — positive (assertiveness, leadership).
-- **Grygum**: Proposed using Glabbagool to clear rubble and devised the core battle plan (motivational speech to the army + Zalthir's infiltration) — positive (tactical thinking, initiative).
+- **Gyrgum**: Proposed using Glabbagool to clear rubble and devised the core battle plan (motivational speech to the army + Zalthir's infiltration) — positive (tactical thinking, initiative).
 
 ## Relationships & Decisions
 
 - **Zalthir**: Deepened his bond with Glabbagool by promising friendship and protection from corrupting demonic forces. Glabbagool now looks to Zalthir as a trusted friend.
-- **Grygum**: Volunteered to deliver a motivational speech to the gnome army, taking on a visible leadership/rallying role.
+- **Gyrgum**: Volunteered to deliver a motivational speech to the gnome army, taking on a visible leadership/rallying role.
 - **Daz**: Asserted dominance over the political discussion with Chief Dorbo, effectively positioning the party as the commanders of the upcoming operation rather than hired help. This shifted the power dynamic with Blingdenstone's leadership.
 - **Party (collective)**: Accepted the task from Senni Diggermattock to recruit the Gold Whisker Clan (wererat gnomes) to join the fight against the oozes — an active obligation.
 - **Party (collective)**: Made an implicit alliance with Senni Diggermattock, who supported them against Chief Dorbo's skepticism.

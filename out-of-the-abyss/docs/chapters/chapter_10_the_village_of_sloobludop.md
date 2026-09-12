@@ -14,19 +14,19 @@ Ploopploopeen realizes that the Tongues spell didn’t translate his intent as w
 “No, this is wrong. You will arrive in Sloobludop and stay in my quarters. I will send message to the followers of Leemooggoogoon that I have an offering for him. In the morning, my daughter, Bloppblippodd, the high priestess of the Deep Father, will demand to see the offering. I will present you to her, and I will insist that I come with you. She will accept. And then all of my followers will attack. Your role in this will be over.” 
 
 
-Grygum finally understands, “This is like a flag of parley. Have you considered a white flag?” 
+Gyrgum finally understands, “This is like a flag of parley. Have you considered a white flag?” 
 
 
 “I tried that, but she didn’t bite. She needs sacrifices for her false god.”
 
 
-Grygum tries to probe if the sacrifice must be willing. 
+Gyrgum tries to probe if the sacrifice must be willing. 
 
 
 “I am not certain how your rituals work, but in the rituals of Leemooggoogoon, the sacrifice is essential, not the provenance.” 
 
 
-Grygum nods, “Yes, our rituals are different.” 
+Gyrgum nods, “Yes, our rituals are different.” 
 
 
 Thorin probes, “But willing sacrifices are sweeter?” 
@@ -35,7 +35,7 @@ Thorin probes, “But willing sacrifices are sweeter?”
 “No. An unwilling sacrifice is better. This is an evil god.” 
 
 
-Grygum looks at Ploopploopeen and wonders what he has heard. He and his daughter have problems with their relationship, and it’s also unclear if a god named Leemooggoogoon even exists. 
+Gyrgum looks at Ploopploopeen and wonders what he has heard. He and his daughter have problems with their relationship, and it’s also unclear if a god named Leemooggoogoon even exists. 
 
 
 Topsy and Turvy, on the other hand, realize that a free-for-all is an excellent opportunity to steal. 
@@ -74,10 +74,10 @@ Ploop stops in front of the sizeable nine-foot-tall statue. The statue is roughl
 Four stern kuo-toa slowly circle the statue, alert and on guard, while a few others move about, gazing up at the statue and bowing repeatedly while chanting.
 
 
-Grygum recalls from somewhere that the Deep Sea Mother is a scavenger goddess and that regurgitating and spitting on her altar is perhaps the perfect form of offering. 
+Gyrgum recalls from somewhere that the Deep Sea Mother is a scavenger goddess and that regurgitating and spitting on her altar is perhaps the perfect form of offering. 
 
 
-Ploop is delighted when Grygum and Thorin both spit on the altar. 
+Ploop is delighted when Gyrgum and Thorin both spit on the altar. 
 
 
 Meanwhile, Daz, overcome by the rank smell, has his hand over his mouth and tries to rub the smell out of his nose with his thumb. Ploop looks at him, and he smiles weakly as he pretends his nose is itchy. 

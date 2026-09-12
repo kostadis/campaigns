@@ -139,7 +139,7 @@ silence is permanent and mechanical. Philemon books the salon for
 Phase 3 when the work requires Dawnbringer to *not* be able to
 argue. Use the silence; don't let her bargain out of it.
 
-### Immortal Chambers — *Grygum, with Vareth*
+### Immortal Chambers — *Gyrgum, with Vareth*
 
 **Where:** West Inner Ward, between the Towers of Wonder and the
 House of Mechanus. Series of green-roofed rectangular buildings.
@@ -153,7 +153,7 @@ of the side rooms.
   moves / talks / acts at **1 mph.** Recurring sight gag while
   Stations 1–8 of the Stroud Wake run.
 
-### Drakonoikos — *Grygum, Station 9 (Protanther)*
+### Drakonoikos — *Gyrgum, Station 9 (Protanther)*
 
 **Where:** North Inner Ward.
 
@@ -171,9 +171,9 @@ wyrm's hollowed-out carcass.
 taxidermied chromatic dragon heads above the entrance; call out a
 color in Draconic, take an *illusory* breath weapon, suffer a
 real Constitution save (psychic damage if reduced to 0; one level
-of exhaustion either way). Grygum can or can't.
+of exhaustion either way). Gyrgum can or can't.
 
-### House of Alaundo — *Grygum, optional detour*
+### House of Alaundo — *Gyrgum, optional detour*
 
 **Where:** West Inner Ward, center of Founders Court. Brass
 statue of Alaundo bearing quill and inkpot on a dais.
@@ -183,7 +183,7 @@ plus original fragments behind protective glass.
 
 - Curator: **Janussi.**
 - Librarian: **Inda** — half-orc sage who **secretly worships
-  Alaundo as a deity.** Useful Grygum mirror.
+  Alaundo as a deity.** Useful Gyrgum mirror.
 
 **Locked behind plot:** the **Echoes of Alaundo** — the Seer's
 final, most foreboding prophecies, recorded into prismatic
@@ -315,7 +315,7 @@ want to invent.
 - **Philosopher's Court** (South Inner Ward): triangular
   courtyard with stoas; oversized chessboard with 3-foot marble
   pieces in the center. Most social spot in Candlekeep. *Use if
-  Vareth wants to show Grygum where Stroud's Tessarra's Lock has
+  Vareth wants to show Gyrgum where Stroud's Tessarra's Lock has
   been actually played out for fun by Avowed.*
 - **The Refectory** (Exaltation): communal dining hall; trestle
   tables; lower-ranked Avowed take turns serving; high table for

@@ -41,7 +41,7 @@
 - Current state: Alert, standing to attention
 - Recent actions: Was woken from sleep; confirmed readiness to fight; received Daz's summary of group members' notable traits; remarked that he had never heard torture referred to as "motivation" and considered revising his prohibition against it
 
-**Grygum**
+**Gyrgum**
 - Current location: Among the prisoner group
 - Current state: Active
 - Recent actions: Made a dismissive comment about knowing Yukyuk for only a day; argued for using intelligence and deduction rather than travelling to Sloopbludop; dismissed Buppido's "divine plan" excuse as a common deflection

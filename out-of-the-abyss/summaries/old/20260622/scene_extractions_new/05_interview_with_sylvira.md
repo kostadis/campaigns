@@ -105,7 +105,7 @@ source: gmassist
 > "big research..."
 > "proposal, or some big outcome that's about to come out, or have you uncovered anything recently that you haven't published yet, but that somebody may know about?"
 
-**[Grygum]** — *clarifying the question*
+**[Gyrgum]** — *clarifying the question*
 > "Is there a motive here?"
 
 **[Daz]** — *on time in the Overbright*
@@ -161,7 +161,7 @@ source: gmassist
 **[GM / Sylvira]** — *on the dead winter feast*
 > "It was the same drab affair, right down to the dishes as every year. At any rate, I didn't stay until the end as I started feeling the flu coming down."
 
-**[Grygum]** — *prompts about Alkrist burning something at the feast*
+**[Gyrgum]** — *prompts about Alkrist burning something at the feast*
 > "So this is, there was something about Alkrist burning something at the feast. Does she know anything about that? Somebody should ask about it."
 
 **[GM / Sylvira]** — *recalls the question about being seen, reveals visiting her son*
@@ -203,7 +203,7 @@ source: gmassist
 > "And there are... sadly, my flu has worsened, and if anyone claims to have seen me after that, there are members of the avowed, great readers included, who foster hatred against me."
 > "You should be looking at Teles Ahvoste, not at me."
 
-**[Grygum]** — *asks about motives*
+**[Gyrgum]** — *asks about motives*
 > "Why don't you ask what Kalan Strongbranch's model, motto is, or motive is?"
 
 **[Daz]**

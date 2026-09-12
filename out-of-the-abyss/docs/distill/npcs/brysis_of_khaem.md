@@ -21,7 +21,7 @@ Wraith, ancient undead entity; originally a half-elf sorcerer of Netherese nobil
 - **Pre-encounter:** Fargas Rumblefoot warned the party about a false tomb with a magical trap—a decoy set up by Brysis
 - **Tomb Entry:** Upon entering, the party encountered a stone diorama depicting Brysis as a Netherese noble with her retinue, and murals of Netheril's floating cities. A soft feminine voice telepathically contacted the party, pleading for help
 - **Sarcophagus Chamber:** In the deepest chamber, the party found her gilded sarcophagus. A **Wraith** rose from it, declaring: *"Your deaths will free me from this prison, and how my victims will serve me even in death!"* The telepathic feminine voice spoke again — *"In the sarcophagus! I can help you!"* — as Zalthir moved the sarcophagus lid aside
-- **Encounter:** When Thorin activated Dawnbringer, Brysis screamed "Not Dawnbringer!" revealing her fear of the weapon. She declared she had waited millennia to be free and would not be denied. Daz struck her with spells, and the party fought her as a group. Grygum delivered the killing blow with an acid breath attack (described memorably by Zalthir as "killed by barf")
+- **Encounter:** When Thorin activated Dawnbringer, Brysis screamed "Not Dawnbringer!" revealing her fear of the weapon. She declared she had waited millennia to be free and would not be denied. Daz struck her with spells, and the party fought her as a group. Gyrgum delivered the killing blow with an acid breath attack (described memorably by Zalthir as "killed by barf")
 - **Aftermath:** With Brysis's destruction, the magical trap in her false/decoy tomb dissipated. The party looted her real tomb, recovering a **necklace of fireballs**, a **potion of greater healing**, and **gold**
 
 ## Current Status
@@ -33,7 +33,7 @@ Wraith, ancient undead entity; originally a half-elf sorcerer of Netherese nobil
 - **Zalthir:** The party member who moved the sarcophagus lid and provided colorful commentary about her demise
 - **Thorin:** Activated Dawnbringer during the encounter
 - **Daz:** Struck her with spells during combat
-- **Grygum:** Delivered the killing blow with an acid breath attack
+- **Gyrgum:** Delivered the killing blow with an acid breath attack
 
 ## Arc Score Events
 No arc score events noted in the source material.

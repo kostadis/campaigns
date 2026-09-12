@@ -20,7 +20,7 @@ chapters: 22-25
 - One Derro serves as a vessel for Pelek’s ghost, restrained and unaware (ch25).  
 - Collective mind is in psychic turmoil over the loss of “the Egg” (ch22).  
 **Defining recent actions:**  
-- Failed Demogorgon ritual under Narrak’s coercion; attacked Grygum and Zalthir blindly, overwhelmed by Ember Vanguard (ch25).  
+- Failed Demogorgon ritual under Narrak’s coercion; attacked Gyrgum and Zalthir blindly, overwhelmed by Ember Vanguard (ch25).  
 - One Derro, possessed by Pelek, was preoccupied with a death dog and failed to notice party infiltration (ch25).  
 - Psychic shockwave of panic erupted across all Derro upon loss of “the Egg” (ch22).  
 **Revealed motivations or secrets:**  

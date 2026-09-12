@@ -40,7 +40,7 @@ Ront refuses to flee with the other prisoners when an injured vrock lands on the
 
 ## Stool
 
-Stool, a myconid whom the party met as a fellow prisoner in Velkynvelve, curls up against Grygum during the long rest. When Grygum tries to push him away, Stool cries. He explains that he is lonely, scared, and terrified, and that he remembers Grygum's inspirational speech. He tells Grygum he knows the orc will bring him home and wants to be his best friend. Grygum agrees to be friends, and Stool extends his hand, which Grygum takes. They march together. Grygum also notes the tactical advantage of Stool's telepathic powers, which can be used to communicate silently and surprise enemies.
+Stool, a myconid whom the party met as a fellow prisoner in Velkynvelve, curls up against Gyrgum during the long rest. When Gyrgum tries to push him away, Stool cries. He explains that he is lonely, scared, and terrified, and that he remembers Gyrgum's inspirational speech. He tells Gyrgum he knows the orc will bring him home and wants to be his best friend. Gyrgum agrees to be friends, and Stool extends his hand, which Gyrgum takes. They march together. Gyrgum also notes the tactical advantage of Stool's telepathic powers, which can be used to communicate silently and surprise enemies.
 
 ## Eldeth
 

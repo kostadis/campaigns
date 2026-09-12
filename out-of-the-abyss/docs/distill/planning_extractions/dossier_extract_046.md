@@ -12,7 +12,7 @@ Chipgrin was one of Blingdenstone's leaders present at the meeting about the use
 
 ## Starlace
 
-A traveling merchant who arrived in Blingdenstone as the city prepared for battle against the Pudding King and his oozes. Starlace carried a shop full of magical wares, selling Zalthir spectacles crafted from glowing crystal that allowed the wearer to see invisible creatures and peer through magical darkness, and enchanting Grygum's mace and shield with protective magic. Starlace also purchased excess armor from the party, with both sides feeling satisfied with the negotiations.
+A traveling merchant who arrived in Blingdenstone as the city prepared for battle against the Pudding King and his oozes. Starlace carried a shop full of magical wares, selling Zalthir spectacles crafted from glowing crystal that allowed the wearer to see invisible creatures and peer through magical darkness, and enchanting Gyrgum's mace and shield with protective magic. Starlace also purchased excess armor from the party, with both sides feeling satisfied with the negotiations.
 
 ## Valimor Brightgem
 

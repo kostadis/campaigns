@@ -74,4 +74,4 @@
 - **In-game date:** 4th day of the first tenday of Kythorn 1495.
 - **Destination:** Blingdenstone (deep gnome settlement), seeking a way to the surface.
 - **Immediate unresolved situation:** Trapped by a tunnel collapse, now exploring alternative caves found by Jimjar. Ilvara Mizzrym is still pursuing them. The party is traveling without a reliable guide.
-- **Party composition traveling:** Grygum, Thorin, Zalthir, Daz, Jimjar, Pelek (ghost), Dawnbringer (sentient weapon). Stool and Rumpadump have departed with the myconids.
+- **Party composition traveling:** Gyrgum, Thorin, Zalthir, Daz, Jimjar, Pelek (ghost), Dawnbringer (sentient weapon). Stool and Rumpadump have departed with the myconids.

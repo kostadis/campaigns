@@ -6,14 +6,14 @@ Six scenes critiqued (narration for scenes 01–02 doesn't exist yet, so they're
 |---|---|---|---|
 | 03 — The Aftermath of the Sanctum Attack | Zalthir | 3 | "filed" used twice, spending a rare verb's rarity |
 | 04 — The Death of Bookwyrm | Daz | 3 | bookkeeping noun "account" repeats 3× in one section |
-| 05 — Racing to the Sea Warden's Tower | Grygum | 2 | generic "something clicked behind his eyes" |
+| 05 — Racing to the Sea Warden's Tower | Gyrgum | 2 | generic "something clicked behind his eyes" |
 | 06 — The Shortcut to the North Gallery | Thorin | 1 | (cleanest scene in the batch) |
 | 07 — Battle in the Domed Rotunda | Zalthir | 2 | "geometry" (Thorin's register, not his) used twice |
 | 08 — Aftermath and Strategy | Thorin | 1 | (also very clean) |
 
 ## Strongest recurring issue: em-dash overuse, in every single scene
 
-52 narration-level em-dash instances across the six scenes (38 lines), ranging from 3 (scene 08) to 13 (scene 04). This is the one finding that appears in 100% of the scenes regardless of narrator, which makes it a textbook case of the critique's "convergence with house style" category — the em-dash habit is uniform across Zalthir, Daz, Grygum, and Thorin sections alike, which means it isn't any one character's voice, it's the narration pass's default connective tic. Most instances convert cleanly to a colon (explanatory aside), comma (participial clause), or period (simple split); a handful are worth keeping as-is because they do real work — enacted hesitation (scene 06, line 47: "He just — stopped"), emphatic repetition (scene 07, line 45: "one attack in it — one —"), or the genre spec's own sanctioned "em-dash for interrupted speech or thought" (several instances introducing an italicized remembered line).
+52 narration-level em-dash instances across the six scenes (38 lines), ranging from 3 (scene 08) to 13 (scene 04). This is the one finding that appears in 100% of the scenes regardless of narrator, which makes it a textbook case of the critique's "convergence with house style" category — the em-dash habit is uniform across Zalthir, Daz, Gyrgum, and Thorin sections alike, which means it isn't any one character's voice, it's the narration pass's default connective tic. Most instances convert cleanly to a colon (explanatory aside), comma (participial clause), or period (simple split); a handful are worth keeping as-is because they do real work — enacted hesitation (scene 06, line 47: "He just — stopped"), emphatic repetition (scene 07, line 45: "one attack in it — one —"), or the genre spec's own sanctioned "em-dash for interrupted speech or thought" (several instances introducing an italicized remembered line).
 
 Given the volume and the uniformity across narrators, this is the one item worth fixing systemically rather than sentence-by-sentence — a single pass across all six `.md` files converting the connective (non-load-bearing) instances would clear the great majority of the 52 flags in one sitting.
 

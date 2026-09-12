@@ -1,6 +1,6 @@
 # Chapter 26 Journey to and into the Lost Tomb of Khaem. 
 ## 7th day of 1st tenday of Myrkhul, 1495 
-### Grygum 
+### Gyrgum 
 
 
 The boat is sunk. My mending skills are in high demand. And if I want to not end up on a ship, it's best to keep it secret from myself. 
@@ -65,7 +65,7 @@ Before we leave the cave, we take as many crystals as we can. To hide our tracks
 ## 2nd day of the 2nd tenday of Myrkhul, 1495
 
 
-### Grygum 
+### Gyrgum 
 
 
 Three more days in the dark. Was it three more days? I think it was. And finally, the winding passageway opened, and the air grew heavy with the subtle, earthy scent of the damp loam and something indescribably sweeter. 
@@ -84,7 +84,7 @@ But no. The crystal sailed through the air, a small, glowing arc, and clattered 
 
 
 ## 3rd day of the 2nd tenday of Myrkhul 
-### Grygum 
+### Gyrgum 
 
 
 Another cave full of crystals. And we collect more. Eldeth is worried; she’s reasonably convinced we have thrown the Drow off our tracks, but every time we mess with the environment, we make it easier for them. 
@@ -127,7 +127,7 @@ We arrive at a large double door. The stone is ancient, hinting at a lost era, a
 I know the lore of the Netheril Empire – a civilization of immensely powerful magic users, whose cities defied gravity, only to fall catastrophically when one of their leaders tried to seize all magical power, tearing the very fabric of reality. It's a stark reminder of unchecked ambition, a cautionary tale against hubris. My monastic training emphasizes balance and inner peace, not the dangerous pursuit of absolute external power. It makes me wonder what kind of sorceress Brysis was to be buried here. 
 
 
-We descend a dusty staircase. Grygum, with his keen perception, takes the lead, carefully testing each step. On one landing, I note a Netherese Calendar Stone, a relic of a time long gone, its purpose unclear. The stairs finally give way to a shrine, its floor littered with shreds of dusty tapestries.
+We descend a dusty staircase. Gyrgum, with his keen perception, takes the lead, carefully testing each step. On one landing, I note a Netherese Calendar Stone, a relic of a time long gone, its purpose unclear. The stairs finally give way to a shrine, its floor littered with shreds of dusty tapestries.
 
 
 I focus, drawing on my monk's discipline, seeking patterns, anomalies in the dust, and then I speak, "Proof here of a lower power." 
@@ -136,13 +136,13 @@ I focus, drawing on my monk's discipline, seeking patterns, anomalies in the dus
 What an absurd conclusion that immediately grates on my own rational mind. How dangerous to be so easily misled by my own mind, in a place where observation is key to survival.
 
 
-Grygum, thankfully, is more successful. He notes recent damage but no tracks in the thick layer of dust. He then recalls old tales of “floating undead creatures that typically rest in tombs”.
+Gyrgum, thankfully, is more successful. He notes recent damage but no tracks in the thick layer of dust. He then recalls old tales of “floating undead creatures that typically rest in tombs”.
 
 
-Yes, I agree, a "lost tomb" implies something more than just undisturbed dust and cobwebs. It implies guardians, dangers, and perhaps, the very undead Grygum speaks of. I remember Fargas Rumblefoot's warning about a "secret room" or "false tomb" here, adding another layer of treachery to this place. Daz checks an altar, finding nothing of arcane significance, another dead end for now.
+Yes, I agree, a "lost tomb" implies something more than just undisturbed dust and cobwebs. It implies guardians, dangers, and perhaps, the very undead Gyrgum speaks of. I remember Fargas Rumblefoot's warning about a "secret room" or "false tomb" here, adding another layer of treachery to this place. Daz checks an altar, finding nothing of arcane significance, another dead end for now.
 
 
-There is a passageway south and one going east, so we proceed East. The room we enter contains four stone sarcophagi. Markings of robed human figures in repose adorn their lids. We inspect them, looking for traps, for anything unusual. And then, Grygum points it out: the northeast sarcophagus rests on hidden stone rollers. A possible secret, a hidden passage. This is it.
+There is a passageway south and one going east, so we proceed East. The room we enter contains four stone sarcophagi. Markings of robed human figures in repose adorn their lids. We inspect them, looking for traps, for anything unusual. And then, Gyrgum points it out: the northeast sarcophagus rests on hidden stone rollers. A possible secret, a hidden passage. This is it.
 
 
 I move into position, my hands forming the familiar gestures. I call forth the shadows, plunging the area around the sarcophagus into a sphere of magical darkness. Daz won't be able to cast Magic Missile within it, but that's a calculated risk. Thorin, strong as an ox, leverages the darkness, pushing the heavy sarcophagus aside. The stone grinds, revealing... a hole. The true tomb, perhaps. We are finally here. My instincts prickle.
@@ -164,7 +164,7 @@ It's my turn. I assess the swirling forms, their spectral claws already reaching
 Then, their icy touch. One Spectre lunges at me, its chilling form passing through my defenses. A jolt of cold, raw energy courses through me, necrotic damage, and I feel my very life force diminish. Before I can fully process it, another Spectre attacks, a more potent drain this time, twice as much necrotic damage, and my strength wanes further. My body screams for respite. "I'm gonna need a long rest here pretty soon," I mutter, the words barely audible, a desperate plea for recovery. This is not the clean, surgical combat I prefer. This is a battle of attrition, and my life force is the price I pay.
 
 
-Grygum, in his devotion, tries to turn them, his holy symbol raised, but the Spectres resist, their wills too strong, or perhaps their existence too ancient to be swayed. Zalthir, ever the whirlwind, moves his sphere of darkness, then his fists become blurs in the gloom, punching and pummeling. He kills one, then another. "I will punch the ghost!" he declares. I can almost hear Pelek, our ghost, correcting him. 
+Gyrgum, in his devotion, tries to turn them, his holy symbol raised, but the Spectres resist, their wills too strong, or perhaps their existence too ancient to be swayed. Zalthir, ever the whirlwind, moves his sphere of darkness, then his fists become blurs in the gloom, punching and pummeling. He kills one, then another. "I will punch the ghost!" he declares. I can almost hear Pelek, our ghost, correcting him. 
 
 
 With the last Spectre vanquished by Zalthir's relentless strikes, a momentary quiet descends, broken only by our heavy breathing. My mind is already racing, calculating. "Is this, would this be a good time for us to take a… Long rest. By chance?" I inquire, hopefully.
@@ -185,7 +185,7 @@ Before we go down the dark passageway, we open the sarcophagi. Each sarcophagus 
 They are worth a great deal as gold, and perhaps even more to the right collector. 
 
 
-### Grygum
+### Gyrgum
 
 
 We descend, Thorin taking the lead, his broad shoulders easily pushing through the confined space. The air grows heavier, thick with an ancient stillness. We enter a new chamber, and the faint light catches murals on the walls, depicting grand scenes, probably of the Netherese sorceress Brysis of Khaem and her lost cities. A gilded sarcophagus gleams against one wall, clearly the focal point, and I notice the subtle shimmer of an invisible stone chest near its foot. Predictable. An actual tomb wouldn't be without its grand pronouncements and its hidden treasures.

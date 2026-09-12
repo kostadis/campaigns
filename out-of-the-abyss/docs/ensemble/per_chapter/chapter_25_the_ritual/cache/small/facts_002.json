@@ -15,9 +15,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a cleric or divine caster who channels acid through violent ritual vomiting after being attacked; he survives lethal trauma and responds with potent, unorthodox magic, suggesting deep ties to chaotic or necrotic forces.",
-    "source_quote": "Grygum moaning in pain, then in incantation. There is a violent heaving. I look at him as he straightens and vomits forth a wave of acid.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a cleric or divine caster who channels acid through violent ritual vomiting after being attacked; he survives lethal trauma and responds with potent, unorthodox magic, suggesting deep ties to chaotic or necrotic forces.",
+    "source_quote": "Gyrgum moaning in pain, then in incantation. There is a violent heaving. I look at him as he straightens and vomits forth a wave of acid.",
     "quote_verified": true
   },
   {
@@ -31,7 +31,7 @@
     "type": "npc",
     "subject": "The Ettin",
     "fact": "The Ettin is a two-headed monstrosity serving as a frontline combatant for the Derro cult; it is resistant to magical damage, capable of wielding dual weapons, and is the primary target of the party\u2019s assault.",
-    "source_quote": "The Ettin points at the three of us outside of the darkness...\", \"The Ettin raises his battle axe and strikes the frightened Thorin...\", \"A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "source_quote": "The Ettin points at the three of us outside of the darkness...\", \"The Ettin raises his battle axe and strikes the frightened Thorin...\", \"A guiding bolt from Gyrgum strikes the Ettin, and it groans and then smiles.",
     "quote_verified": false
   },
   {
@@ -73,14 +73,14 @@
     "type": "event",
     "subject": "Fear Spell Activation",
     "fact": "Narrak casts a fear spell using a white feather, inducing paralyzing terror in the Ember Vanguard; the spell\u2019s effect is broken when the caster is obscured by darkness, demonstrating dependency on line of sight.",
-    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "source_quote": "He takes a white feather and points at Thorin, Gyrgum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Acid Vomiting Ritual",
-    "fact": "Grygum undergoes a violent physical transformation after being struck, vomiting a wave of acid\u2014a non-spell, ritualistic manifestation of inner corruption or divine perversity tied to the cult\u2019s influence.",
-    "source_quote": "Grygum moaning in pain, then in incantation. There is a violent heaving. I look at him as he straightens and vomits forth a wave of acid.",
+    "fact": "Gyrgum undergoes a violent physical transformation after being struck, vomiting a wave of acid\u2014a non-spell, ritualistic manifestation of inner corruption or divine perversity tied to the cult\u2019s influence.",
+    "source_quote": "Gyrgum moaning in pain, then in incantation. There is a violent heaving. I look at him as he straightens and vomits forth a wave of acid.",
     "quote_verified": true
   },
   {
@@ -108,7 +108,7 @@
     "type": "object",
     "subject": "White Feather",
     "fact": "The white feather is a ritual focus used by Narrak to cast fear magic; it is a symbolic tool of control, linking the caster\u2019s will to the emotional state of the Ember Vanguard.",
-    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir...",
+    "source_quote": "He takes a white feather and points at Thorin, Gyrgum, and Zalthir...",
     "quote_verified": false
   },
   {

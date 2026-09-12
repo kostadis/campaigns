@@ -15,13 +15,13 @@ chapters: 56-61
 **Key relationships:**  
 - Trusted by no one, but tolerated for his non-threatening appetite  
 - Previously served as guide, adjutant, and liaison for investigators  
-- Was assigned to monitor the party as an Avowed minder (abandoned post to attend Grygum’s debate)  
+- Was assigned to monitor the party as an Avowed minder (abandoned post to attend Gyrgum’s debate)  
 - Recognized by Kalan as the likely next head of the Avowed  
 - Observed the key transfer to Daz and is the only known witness to its prior state  
 
 **Defining recent actions:**  
 - Hunted down Kalan Strongbranch with monastic urgency, intending to return with him  
-- Witnessed Grygum hand the Hightower Library key to Daz — the only person present who saw it before the ambush  
+- Witnessed Gyrgum hand the Hightower Library key to Daz — the only person present who saw it before the ambush  
 - Stood in shock during the helmed horrors’ ambush, rendering him inert and treated as terrain  
 - Now serves as the group’s food taster in Deneir’s Sanctum, consuming meals without suspicion  
 

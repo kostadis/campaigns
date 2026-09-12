@@ -12,19 +12,19 @@ Janussi is the dead scholar and great reader at the center of the investigation 
 
 ## Kalan Strongbranch
 
-Strongbranch does not act in this chunk but his belongings and caution are central. A key that once hung around his neck came into Grygum's possession; Grygum handed it to Daz to make it his problem. The reason for Strongbranch's nerves became clear: the stolen sapphire carried a summoning working that could pull an item to you, but only an item not in anyone's possession — and a dead man possesses nothing, while an undead can. So the cleanest way to free a man's key from his possession was to make him a corpse. Strongbranch, having carried the key for years, handed it off rather than wear it — paranoid, but the caution of a man who understood the danger.
+Strongbranch does not act in this chunk but his belongings and caution are central. A key that once hung around his neck came into Gyrgum's possession; Gyrgum handed it to Daz to make it his problem. The reason for Strongbranch's nerves became clear: the stolen sapphire carried a summoning working that could pull an item to you, but only an item not in anyone's possession — and a dead man possesses nothing, while an undead can. So the cleanest way to free a man's key from his possession was to make him a corpse. Strongbranch, having carried the key for years, handed it off rather than wear it — paranoid, but the caution of a man who understood the danger.
 
 ## Brother Vareth
 
-Vareth found Grygum and, with "the look of a man with a paper to publish," took Grygum's answer to the Question of the Age (the triangle, three options built half out of Stroud's Gambit) and turned it into a fourth corner — a new theology — telling everyone. He triggered the entire Avowed community's desire to drop everything and debate it in the Grand Hall, effectively emptying the keep of watchful eyes despite an active murder investigation.
+Vareth found Gyrgum and, with "the look of a man with a paper to publish," took Gyrgum's answer to the Question of the Age (the triangle, three options built half out of Stroud's Gambit) and turned it into a fourth corner — a new theology — telling everyone. He triggered the entire Avowed community's desire to drop everything and debate it in the Grand Hall, effectively emptying the keep of watchful eyes despite an active murder investigation.
 
 ## Fembris Lancer
 
-Fembris is the avowed minder assigned to ensure the four armed strangers didn't help themselves to the library's contents. He asked to leave in order to attend Grygum's debate in the Oval Theater — a disputation on Grygum's new theology. Daz did not stop him, silently noting that his departure handed the party an unsupervised hour.
+Fembris is the avowed minder assigned to ensure the four armed strangers didn't help themselves to the library's contents. He asked to leave in order to attend Gyrgum's debate in the Oval Theater — a disputation on Gyrgum's new theology. Daz did not stop him, silently noting that his departure handed the party an unsupervised hour.
 
 ## Bookwyrm (First Reader)
 
-Bookwyrm is referenced but does not directly act. She was politically unable to afford missing Grygum's debate. She had told the avowed to take the Deadwinter leftovers to their dorms. Zalthir lists her among the eight suspects: eager to fire the old boss and seat a new one. Her chambers took half the top floor of the Readers' Tower — comfortable, neatly arranged, no extravagance; Zalthir searched them and found nothing, and Glabbagool detected no poison. A clean room.
+Bookwyrm is referenced but does not directly act. She was politically unable to afford missing Gyrgum's debate. She had told the avowed to take the Deadwinter leftovers to their dorms. Zalthir lists her among the eight suspects: eager to fire the old boss and seat a new one. Her chambers took half the top floor of the Readers' Tower — comfortable, neatly arranged, no extravagance; Zalthir searched them and found nothing, and Glabbagool detected no poison. A clean room.
 
 ## Leuwin
 
@@ -88,15 +88,15 @@ Kelemvor does not appear but is discussed regarding the summoning mechanic: the 
 
 ## Bahamut
 
-Bahamut does not appear but is referenced by Grygum, who mused "Bahamut may or may not have been watching. I took notes either way" as the keep emptied for the theological debate.
+Bahamut does not appear but is referenced by Gyrgum, who mused "Bahamut may or may not have been watching. I took notes either way" as the keep emptied for the theological debate.
 
 ## Shar
 
-Shar, goddess of darkness, is named in the footnotes of the Midnight Tears poison treatise (*On the Punctual Tears*), alongside Selûne. Her presence in the text helped Grygum grasp the "Underdark conundrum" — that in the Underdark no one can see either the moon or the dark, complicating when "midnight" occurs.
+Shar, goddess of darkness, is named in the footnotes of the Midnight Tears poison treatise (*On the Punctual Tears*), alongside Selûne. Her presence in the text helped Gyrgum grasp the "Underdark conundrum" — that in the Underdark no one can see either the moon or the dark, complicating when "midnight" occurs.
 
 ## Selûne
 
-Selûne, the goddess of the moon, is named alongside Shar in the footnotes of the Midnight Tears poison treatise. The pairing of the moon-goddess and the darkness-goddess in a poison's documentation explained to Grygum why the poison's midnight trigger is a place (the far side of the globe from the sun) rather than a clock.
+Selûne, the goddess of the moon, is named alongside Shar in the footnotes of the Midnight Tears poison treatise. The pairing of the moon-goddess and the darkness-goddess in a poison's documentation explained to Gyrgum why the poison's midnight trigger is a place (the far side of the globe from the sun) rather than a clock.
 
 ## Brother Heslin
 

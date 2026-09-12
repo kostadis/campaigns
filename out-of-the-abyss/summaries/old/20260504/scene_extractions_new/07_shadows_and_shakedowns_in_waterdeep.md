@@ -11,12 +11,12 @@ source: gmassist
 - Zalthir seeks out shadow monk training in Waterdeep and learns that the best place to pursue it is Candlekeep — specifically, a master there named Khell-Vire, described as "the best of the best."
 - A local monastery offers to provide a letter of introduction to Khell-Vire, but pauses and mentions that the monastery has a leaky roof — a transparent shakedown. Zalthir asks whether 140 gold worth of his time fixing the roof would do instead; the monks explain that donation money and operational money are different things.
 - Zalthir rolls a persuasion check of 4 against the monastery's 18; the price lands at 140 gold pieces.
-- Zalthir pulls Daz over to argue. Grygum notes that if it were Whistler, he would have stolen the roof tiles. Daz resolves the situation by using the Mending spell to repair the leaky roof outright, bypassing the monetary demand. The monks, somewhat sheepishly, provide the letter.
+- Zalthir pulls Daz over to argue. Gyrgum notes that if it were Whistler, he would have stolen the roof tiles. Daz resolves the situation by using the Mending spell to repair the leaky roof outright, bypassing the monetary demand. The monks, somewhat sheepishly, provide the letter.
 - In the Field Ward, the party encounters a ragged street preacher addressing any crowd that passes, chanting: "The kraken under the keep! The kraken under the keep! The chant will break, and the kraken will rise!"
 - Thorin rolls a 16 on insight and gets the distinct impression the preacher is right about something he cannot name.
 - The preacher spots Daz as a drow and breaks his chant: "You came up! You came up, you will go again. You will go down again. Do not—" before cycling back into the repeating chant.
 - Thorin notices the preacher's broken, looping speech rhythm matches that of the dual-voiced man in Triboar. The pattern is becoming harder to ignore.
-- Grygum notes that Candlekeep may be a place to seek answers about the kraken reference, since the word "keep" is suggestive.
+- Gyrgum notes that Candlekeep may be a place to seek answers about the kraken reference, since the word "keep" is suggestive.
 
 ## Verbatim moments
 
@@ -61,7 +61,7 @@ source: gmassist
 **Zalthir** — *announcing his result*
 > "Persuasion. Of zero."
 
-**Grygum** — *OOC, reading the situation*
+**Gyrgum** — *OOC, reading the situation*
 > "You're about to be persuaded into donating."
 
 **Zalthir** — *rolling; result lands*
@@ -83,7 +83,7 @@ source: gmassist
 **Zalthir** — *calling in backup*
 > "I pull Daz over and have him argue."
 
-**Grygum** — *on what Whistler would have done*
+**Gyrgum** — *on what Whistler would have done*
 > "You know, if it was Whistler, he'd steal the roof tiles?"
 
 **GM** — *the monks' reaction to Daz*
@@ -114,17 +114,17 @@ source: gmassist
 **GM** — *the preacher spots Daz*
 > "As Daz is looking at him, he suddenly recognizes Daz as a drow and says. phased. You came up! You came up, you will go again. You will go down again. Do not. And then keeps repeating the cycle. The kraken under the keep, the kraken under the keep, the chant will break, and the kraken will rise."
 
-**Grygum** — *asking about the word "keep"*
+**Gyrgum** — *asking about the word "keep"*
 > "Do we have any idea what… keep…"
 
 **GM** — *pointing toward Candlekeep as the place for answers*
 > "No. But when you're going to Candlekeep, so you could always ask there, so it might be something we want to… Right?"
 
-**Grygum** — *reasoning about the kraken threat*
+**Gyrgum** — *reasoning about the kraken threat*
 > "Candlekeep? I mean, is it above water? Yes."
 
 **GM** — *confirming, making the kraken more plausible*
 > "water."
 
-**Grygum** — *landing the implication*
+**Gyrgum** — *landing the implication*
 > "Oh, okay, well, that makes the Kraken more likely."

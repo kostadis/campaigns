@@ -17,11 +17,11 @@
 **Hemath**
 - Last known location: Sloobludop, present among the prisoners/escapees at the altar
 - Current state: Alive but injured (noted to spit blood); freed during the chaos
-- Recent actions: Made contact with Grygum during the ritual; agreed to act when signaled; fled with the group
+- Recent actions: Made contact with Gyrgum during the ritual; agreed to act when signaled; fled with the group
 - Faction: Independent arms dealer (duergar)
-- Revealed motivations/secrets: Sold weapons to the Archpriest of the Deep Father (Bloppblippodd); was subsequently condemned by her as a sacrifice rather than compensated; desire to survive overcame cultural cynicism; told Grygum to find him in Gracklstugh if they survive
+- Revealed motivations/secrets: Sold weapons to the Archpriest of the Deep Father (Bloppblippodd); was subsequently condemned by her as a sacrifice rather than compensated; desire to survive overcame cultural cynicism; told Gyrgum to find him in Gracklstugh if they survive
 
-**Grygum**
+**Gyrgum**
 - Last known location: Sloobludop, fleeing toward the eastern docks
 - Current state: Alive, carrying looted treasure from Ploopploopeen's hut
 - Recent actions: Spoke to Hemath and offered cryptic reassurance; moved behind Ploop's warriors to provide healing support; entered Ploopploopeen's thatched hut and looted it; identified the emerging creature as Demogorgon; urged the group to flee
@@ -43,7 +43,7 @@
 **Daz**
 - Last known location: Sloobludop, leading the group toward the eastern docks
 - Current state: Alive
-- Recent actions: Declared all escapees would survive; ran after Grygum when the cleric fled; suggested the group search for supplies; led the group toward the boat with a confident, intimidating swagger; other escapees mimicked his walk
+- Recent actions: Declared all escapees would survive; ran after Gyrgum when the cleric fled; suggested the group search for supplies; led the group toward the boat with a confident, intimidating swagger; other escapees mimicked his walk
 - Faction: Not specified
 
 **Jimjar**
@@ -60,7 +60,7 @@
 **Buppido**
 - Last known location: Sloobludop, with the escapee group
 - Current state: Alive; fled during the melee
-- Recent actions: Muttered "ahd m" in response to Daz's declaration; fled toward Grygum
+- Recent actions: Muttered "ahd m" in response to Daz's declaration; fled toward Gyrgum
 - Faction: Not specified
 
 **Spiderbait**
@@ -101,9 +101,9 @@
 - Relevant information: Previously warned Thorin about duergar/deep dwarves
 
 **Gorg'Bahamut / Grog'Bahamut** (name rendered both ways in text)
-- Does not appear in this session; referenced in Grygum's memory
-- Described as Grygum's mentor
-- Relevant information: Delivered teachings to Grygum about duergar and about Demogorgon; described Demogorgon in detail as the Prince of Demons, antithesis of Bahamut; stated that "a hoard is always a valuable thing and a blessing from Bahamut"
+- Does not appear in this session; referenced in Gyrgum's memory
+- Described as Gyrgum's mentor
+- Relevant information: Delivered teachings to Gyrgum about duergar and about Demogorgon; described Demogorgon in detail as the Prince of Demons, antithesis of Bahamut; stated that "a hoard is always a valuable thing and a blessing from Bahamut"
 
 **Demogorgon (summoned entity; also called Leemoogoogoon by the kuo-toa)**
 - Last known location: Emerging from the Darklake at Sloobludop
@@ -140,21 +140,21 @@
 - Ploopploopeen offered the escapees as sacrificial gifts to Bloppblippodd at the altar of the Deep Father in Sloobludop
 - Bloppblippodd accepted the offering and called for the sacrificial knife to be brought forward
 - Thorin identified Hemath among the prisoners as a duergar
-- Grygum spoke quietly with Hemath; Hemath agreed to act on Grygum's signal and asked to be found in Gracklstugh if they survived; revealed he was an arms dealer who had been betrayed by Bloppblippodd
+- Gyrgum spoke quietly with Hemath; Hemath agreed to act on Gyrgum's signal and asked to be found in Gracklstugh if they survived; revealed he was an arms dealer who had been betrayed by Bloppblippodd
 - The kuo-toa began a ritual procession, chanting and wading through the Darklake shallows
 - The escapees were herded by kuo-toa guards into a sacrificial depression twenty feet from the altar, centered on a blood-stained grate
 - Bloppblippodd called for the knife as Thorin was brought forward
 - Ploopploopeen attacked Bloppblippodd and her followers, revealing his alliance with the escapees was genuine and his "betrayal" of them was a deception aimed at his daughter
 - A full melee erupted between Sea Mother and Deep Father kuo-toa factions
-- The escapees were ignored and ran toward Ploopploopeen's position; Grygum moved behind Ploop's warriors to provide healing
+- The escapees were ignored and ran toward Ploopploopeen's position; Gyrgum moved behind Ploop's warriors to provide healing
 - Bloppblippodd's second in command advanced to block one escape route
-- Jimjar, Eldeth, Buppido, Spiderbait, Shuushar, Serith, Topsy, and Turvy fled toward Grygum during the melee chaos
-- Grygum observed docks, boats, and kuo-toa monitors guarding the eastern boats; identified a boat in the far eastern cave guarded by an isolated group
-- Grygum looted Ploopploopeen's thatched hut, taking gold and magical items
+- Jimjar, Eldeth, Buppido, Spiderbait, Shuushar, Serith, Topsy, and Turvy fled toward Gyrgum during the melee chaos
+- Gyrgum observed docks, boats, and kuo-toa monitors guarding the eastern boats; identified a boat in the far eastern cave guarded by an isolated group
+- Gyrgum looted Ploopploopeen's thatched hut, taking gold and magical items
 - Kuo-toa fishermen in the Darklake began screaming; their screams stopped and the water foamed with blood — all were killed by an unseen underwater enemy; multiple blood patches appeared across the Darklake
 - Bloppblippodd was struck a fatal blow by her father Ploopploopeen and died before the altar, shouting "Leemooggoogoon" as she fell
 - Demogorgon manifested from the Darklake: tentacles emerged first, then two baboon-like heads on a single torso broke the surface; the entity rose to thirty feet and roared
-- Grygum identified the entity as Demogorgon, Prince of Demons, and urged immediate flight
+- Gyrgum identified the entity as Demogorgon, Prince of Demons, and urged immediate flight
 - Daz led the escapees toward the eastern boat using a display of confident swagger; the other escapees mimicked him; the battling kuo-toa ignored them
 
 ---
@@ -172,7 +172,7 @@
 
 **Gracklstugh**
 - Referenced location; not visited in this session
-- A city or settlement known to Hemath; he instructed Grygum to find him there if they survive
+- A city or settlement known to Hemath; he instructed Gyrgum to find him there if they survive
 - Implied to be a duergar location or at least a place where Hemath operates
 
 ---
@@ -183,6 +183,6 @@
 - **The name discrepancy — Leemoogoogoon vs. Demogorgon**: Thorin noted that Bloppblippodd called the entity "Leemoogoogoon," not Demogorgon; Shuushar previously stated kuo-toa can create gods through collective faith — open question whether the kuo-toa inadvertently summoned/created a manifestation of Demogorgon, or called upon an entity they perceived differently, or whether Demogorgon exploited their ritual
 - **The unknown underwater killer**: Something in the Darklake killed multiple kuo-toa fishermen before Demogorgon fully surfaced — whether this was Demogorgon's tentacles, associated demons, or a separate entity is unresolved
 - **Hemath and Gracklstugh**: Hemath asked to be found in Gracklstugh; the party now has an established contact there; his usefulness as an arms dealer and his knowledge of the region are unexplored
-- **Ploopploopeen's promised payment**: Grygum looted Ploop's hut in lieu of a formal payment; whether Ploop survives the melee and whether any formal debt is settled or disputed remains open
+- **Ploopploopeen's promised payment**: Gyrgum looted Ploop's hut in lieu of a formal payment; whether Ploop survives the melee and whether any formal debt is settled or disputed remains open
 - **The escapees' destination and route**: The group is heading toward a boat on the eastern docks but has not yet secured it; the kuo-toa monitors guarding the boats are still present
-- **Demogorgon's presence in the Underdark more broadly**: Whether his manifestation at Sloobludop is the beginning of a wider incursion is unresolved; Grygum's alarm suggests this is an event of catastrophic significance beyond a single encounter
+- **Demogorgon's presence in the Underdark more broadly**: Whether his manifestation at Sloobludop is the beginning of a wider incursion is unresolved; Gyrgum's alarm suggests this is an event of catastrophic significance beyond a single encounter

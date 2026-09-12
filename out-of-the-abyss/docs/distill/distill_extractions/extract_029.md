@@ -1,6 +1,6 @@
 ## NPCs
 
-**Grygum**
+**Gyrgum**
 - Current location: Gracklstugh, moving toward the Darklake
 - Current state: Active, uninjured
 - Recent actions: Performed the Stone Guard ritual salute correctly; invoked Commander Errde's name to intimidate Grogluk; paid Grogluk a 20 gold bribe; told Gartokkar the egg is chromatic and will become evil; fought and killed Derro ambushers
@@ -29,9 +29,9 @@
 - Notes: Reflects that Duergar conflate scale color with morality; notes Themberchaude is not helping dragonkind's reputation
 
 **Zugtomy**
-- Current location: Unknown; appeared to Grygum and Thoring in the Whorlestone caves (not present in this chunk)
+- Current location: Unknown; appeared to Gyrgum and Thoring in the Whorlestone caves (not present in this chunk)
 - Current state: Unknown
-- Recent actions: Made an offer to Grygum and Thorin in the Whorlestone caves; the offer was refused by Thorin
+- Recent actions: Made an offer to Gyrgum and Thorin in the Whorlestone caves; the offer was refused by Thorin
 - Faction: Demon (type implied)
 - Motivations: Unknown; sought to make a deal with party members
 
@@ -57,7 +57,7 @@
 **Grogluk**
 - Current location: Guardhouse at the entrance to the West Cleft District, Gracklstugh
 - Current state: Active; on duty
-- Recent actions: Challenged the party at the gate; scrutinized passes; demanded proof of identity or surrender of weapons; accepted a 20 gold bribe from Grygum; allowed the party to pass after Grygum performed the Stone Guard ritual salute and invoked Errde's name
+- Recent actions: Challenged the party at the gate; scrutinized passes; demanded proof of identity or surrender of weapons; accepted a 20 gold bribe from Gyrgum; allowed the party to pass after Gyrgum performed the Stone Guard ritual salute and invoked Errde's name
 - Faction: Stone Guard; loyal to the Deepking
 - Motivations: Enforces the Deepking's will; susceptible to bribes; wears a clenched fist pendant signifying loyalty to the ruler
 - Secrets: Accompanied by at least five invisible guards in the passageway; his confident demeanor is an act
@@ -72,7 +72,7 @@
 **Gartokkar**
 - Current location: His house, Gracklstugh
 - Current state: Worried but relieved; has received the egg
-- Recent actions: Received the dragon egg from the party; noticed the occult markings on it; questioned Grygum as a cleric of Bahamut about the egg; paid the party a bag full of coins; warned the party about the Deepking's agents hunting the Ember Vanguard; warned that the city is on the verge of explosion
+- Recent actions: Received the dragon egg from the party; noticed the occult markings on it; questioned Gyrgum as a cleric of Bahamut about the egg; paid the party a bag full of coins; warned the party about the Deepking's agents hunting the Ember Vanguard; warned that the city is on the verge of explosion
 - Faction: Unclear; had a prior deal with the party involving the egg
 - Motivations: Wanted the dragon egg; pleased to hear it is chromatic and will become evil; appears afraid of the current political situation
 - Secrets: His warning to the party implies he fears a citywide conflict; his reasons for wanting a chromatic dragon egg are not stated
@@ -85,7 +85,7 @@
 **Errde (referenced, not present)**
 - Current location: Not present in this chunk
 - Current state: Unknown
-- Notes: Grygum invoked her name and their mission from her to intimidate Grogluk; her name carries enough authority to make Grogluk sweat. Presumably a commander in the Stone Guard.
+- Notes: Gyrgum invoked her name and their mission from her to intimidate Grogluk; her name carries enough authority to make Grogluk sweat. Presumably a commander in the Stone Guard.
 
 **Unknown Duergar Informant**
 - Current location: Alley or street in Gracklstugh
@@ -101,12 +101,12 @@
 - Current goals: Escape Gracklstugh; navigate the political crisis they have inadvertently deepened
 - Recent actions: Killed multiple members of the Derro High Council (framed as the Ember Vanguard's actions); delivered the dragon egg to Gartokkar; killed five Derro Grey Ghost ambushers
 - Relationships: Hunted by the Stone Guard, the Grey Ghosts, and the Deepking's agents; the wanted poster describes them as a Drow wizard, a golden dragonborn, and two others; the poster's likenesses do not match the party closely
-- Key members (as depicted on poster): An ancient Drow wizard; a golden dragonborn named Zalthir (poster shows red); Thorin (flattering likeness); Grygum (depicted as more fierce than he is)
+- Key members (as depicted on poster): An ancient Drow wizard; a golden dragonborn named Zalthir (poster shows red); Thorin (flattering likeness); Gyrgum (depicted as more fierce than he is)
 
 **Stone Guard / The Deepking's Forces**
 - Current goals: Apprehend or neutralize the Ember Vanguard; maintain order in Gracklstugh
 - Recent actions: Established a manned checkpoint at the West Cleft District entrance (previously abandoned); deployed invisible guards in the gate passageway; issued wanted posters for the Ember Vanguard
-- Relationships: Serve the Deepking; Grogluk wears the clenched fist pendant of loyalty to the ruler; Errde is a named commander whose authority Grygum invoked
+- Relationships: Serve the Deepking; Grogluk wears the clenched fist pendant of loyalty to the ruler; Errde is a named commander whose authority Gyrgum invoked
 - Key members: Grogluk (gate commander)
 
 **The Deepking**
@@ -135,20 +135,20 @@
 
 ## World Events
 
-- Grygum and Thorin recovered their senses after an encounter with Zugtomy in the Whorlestone caves; Zugtomy made them an offer that Thorin refused
+- Gyrgum and Thorin recovered their senses after an encounter with Zugtomy in the Whorlestone caves; Zugtomy made them an offer that Thorin refused
 - The party left the Whorlestone caves and passed through the Derro slums, which were in a state of pre-revolutionary tension
 - The party approached the West Cleft District gate of Gracklstugh; the previously abandoned guardhouse was now manned
-- A wanted poster for the Ember Vanguard was visible at the gate, depicting an ancient Drow wizard, a red dragonborn named Zalthir, Thorin, and a fierce-looking Grygum
+- A wanted poster for the Ember Vanguard was visible at the gate, depicting an ancient Drow wizard, a red dragonborn named Zalthir, Thorin, and a fierce-looking Gyrgum
 - Grogluk challenged the party, scrutinized Stone Guard passes, and demanded proof of identity or surrender of weapons
-- Grygum performed the Stone Guard ritual salute correctly and invoked Errde's name and mission, causing Grogluk to sweat
-- Grygum paid Grogluk 20 gold as a bribe; Grogluk allowed the party to pass into Ladueger's Furrow
+- Gyrgum performed the Stone Guard ritual salute correctly and invoked Errde's name and mission, causing Grogluk to sweat
+- Gyrgum paid Grogluk 20 gold as a bribe; Grogluk allowed the party to pass into Ladueger's Furrow
 - Jimjar proposed a wager that Thorin would do something embarrassing; Thorin accidentally dropped his pants, and the party laughed
 - The party traveled to Craingorm's Cavern and informed Hgraam that a secret Derro ritual had been transforming his giants into two-headed monsters
 - Hgraam accepted that the ritual was the work of madmen; gave the party a small pile of coins; asked them to leave; closed the cavern entrance
 - Thorin asked Hgraam about a route to the surface; Hgraam said he knew of none and could not conceive of such a place
 - Zalthir used a sphere of darkness to conceal the group while moving through Gracklstugh
 - The party arrived at Gartokkar's house and delivered the dragon egg with its occult markings
-- Grygum told Gartokkar the egg is chromatic and would become evil; Gartokkar was pleased
+- Gyrgum told Gartokkar the egg is chromatic and would become evil; Gartokkar was pleased
 - Gartokkar paid the party a bag full of coins in exchange for the egg and per their agreement
 - Gartokkar warned the party that the Deepking's agents are hunting the Ember Vanguard throughout the city, and that the city is on the verge of explosion
 - Thorin internally noted that the party never actually made a deal with Themberchaude, though Themberchaude believes otherwise
@@ -164,7 +164,7 @@
 
 **Whorlestone Caves**
 - What: A cave system in or adjacent to the Derro slums
-- What happened: Site of the party's prior adventure; Zugtomy appeared here and made an offer to Grygum and Thorin; the party recovered their senses here before departing
+- What happened: Site of the party's prior adventure; Zugtomy appeared here and made an offer to Gyrgum and Thorin; the party recovered their senses here before departing
 - Current state: Left behind; the party exited
 
 **Derro Slums**
@@ -206,7 +206,7 @@
 
 ## Threads & Mysteries
 
-- **Zugtomy's offer**: Zugtomy appeared in the Whorlestone caves and made an offer to Grygum and Thorin; the content of the offer is not stated; Thorin refused it; the consequences of refusal are unknown
+- **Zugtomy's offer**: Zugtomy appeared in the Whorlestone caves and made an offer to Gyrgum and Thorin; the content of the offer is not stated; Thorin refused it; the consequences of refusal are unknown
 - **Themberchaude's presumed deal**: Themberchaude believes he has an agreement with the party; Thorin internally notes the party never actually agreed to anything; this unresolved misunderstanding has not yet come to a head
 - **The dragon egg's fate**: Gartokkar now possesses the egg with its occult markings; he was pleased to learn it is chromatic and will become evil; his intentions for the egg are unstated
 - **Gartokkar's motivations**: It is unclear why Gartokkar wanted a chromatic dragon egg or what he plans to do with it; his fear suggests he is aware of larger forces at play
@@ -214,6 +214,6 @@
 - **The Derro civil unrest**: The Derro are on the verge of open revolt against the Duergar; the deaths of High Council members have accelerated this; the party's actions as the Ember Vanguard have contributed to this instability
 - **The Deepking's agents**: The Deepking has deployed agents throughout Gracklstugh hunting the Ember Vanguard; the scope and capabilities of these agents are unknown
 - **Route to the surface**: Thorin asked Hgraam about a route to the surface world; Hgraam knew of none; this goal remains unachieved
-- **Errde's mission**: The party has a mission from Errde (Stone Guard commander) that Grygum invoked; the nature and current status of this mission is not detailed in this chunk
+- **Errde's mission**: The party has a mission from Errde (Stone Guard commander) that Gyrgum invoked; the nature and current status of this mission is not detailed in this chunk
 - **The Keepers of the Flame and Themberchaude**: Themberchaude's connection to the Keepers of the Flame and his presumed deal with the party remain unresolved threads
 - **The two-headed giants**: The Derro ritual was transforming stone giants into two-headed monsters; the ritual has apparently been stopped, but the fate of any giants already transformed is not addressed

@@ -13,7 +13,7 @@ source: gmassist
 - Thorin confronts Daral with brutal honesty about whether they will even bother to save him: "if we solve the murder, we get any book in the place. We get shit."
 - Daral suggests visiting the Oak Tree Apothecary — "between the Sea Warden's Tower and the House of Mechanus" — to identify the specific poison, naming Leuwin the satyr druid as the one who could "identify the poison definitively from the book."
 - Fembris Lancer requests to leave the party's side to attend the academic disputation in the Oval Theater, noting that "half the avowed are already there. Bookwyrm will be there. It's a political statement, she can't afford not to be there." The party recognizes that his abandoning his post grants "a whole hour where you could go look at things without your minder."
-- Daz casts Identify as a divination ritual on the key given to him by Grygum to determine if it is under the influence of any ongoing spells; the DM confirms the key is **not** linked to the summon spell.
+- Daz casts Identify as a divination ritual on the key given to him by Gyrgum to determine if it is under the influence of any ongoing spells; the DM confirms the key is **not** linked to the summon spell.
 - The party clarifies the sapphire mechanic: the same sapphire must be used both to cast and to retrieve, making it "as good as having the item" — likened by a player to "AirTags before AirTags."
 
 ## Verbatim moments
@@ -100,8 +100,8 @@ source: gmassist
 > "Wait, what is this that you're going to?"
 
 **[GM as Fembris]**
-> "Grygum's talk."
-> "Grygum is currently in the middle of a dispute about"
+> "Gyrgum's talk."
+> "Gyrgum is currently in the middle of a dispute about"
 > "the gam… the… around his new theory that there's a…"
 
 **[Thorin]**

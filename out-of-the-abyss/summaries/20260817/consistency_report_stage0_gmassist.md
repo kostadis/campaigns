@@ -75,14 +75,14 @@
 - **Suggested fix**: "the Orrery, in the Astronomicon" — a minor phrasing fix, but keeps the containment relationship legible.
 
 **15. Location: Items → Sapphire Gem**
-- **Issue**: The recap says the sapphire "had long since passed to Grygum's possession." Campaign state confirms Grygum holds it — but the recap describes this as though it were established *this session*, when it is prior-session state (Ch.62–63), and the sentence attributes the assassin's search to "A'lai's assassin" in past tense within a Memorable Moment that appears to be recapping *last* session's events, not this one.
-- **Evidence**: `campaign_state.md` Key resources: "**Grygum: the real High Tower key, the fake key, and the stolen sapphire** — smashing the sapphire recalls a key to the holder's hand, which is why the Zhentarim assassin went for Daz and found nothing." The assassin is dead (killed by Thorin, Ch.63).
+- **Issue**: The recap says the sapphire "had long since passed to Gyrgum's possession." Campaign state confirms Gyrgum holds it — but the recap describes this as though it were established *this session*, when it is prior-session state (Ch.62–63), and the sentence attributes the assassin's search to "A'lai's assassin" in past tense within a Memorable Moment that appears to be recapping *last* session's events, not this one.
+- **Evidence**: `campaign_state.md` Key resources: "**Gyrgum: the real High Tower key, the fake key, and the stolen sapphire** — smashing the sapphire recalls a key to the holder's hand, which is why the Zhentarim assassin went for Daz and found nothing." The assassin is dead (killed by Thorin, Ch.63).
 - **Suggested fix**: The fact is correct; the *placement* is the problem. The first Memorable Moment quote ("Took your time. I've been in the room…") and its context both describe the **previous** session's assassin encounter, not this one. Move or remove — a future reader will think an assassin attacked this session.
 
 ## LOW CONFIDENCE / VERIFY
 
 **16. Location: Scenes → "The Descent into the Vault"**
-- **Issue**: Two contradictory accounts of who caught themselves. The Summary says "Zalthir seized the stable stone and scrambled to safety, and Grygum managed to hold on." The Scene bullets say "Zalthir uses his strength to hold on and scrambles to safety" and separately "Grygum manages to scramble to safety." Minor, but the verbs are swapped between the two passes.
+- **Issue**: Two contradictory accounts of who caught themselves. The Summary says "Zalthir seized the stable stone and scrambled to safety, and Gyrgum managed to hold on." The Scene bullets say "Zalthir uses his strength to hold on and scrambles to safety" and separately "Gyrgum manages to scramble to safety." Minor, but the verbs are swapped between the two passes.
 - **Suggested fix**: Pick one rendering and use it in both places.
 
 **17. Location: Scenes → "The Descent into the Vault"**
@@ -110,5 +110,5 @@
 - **House Baenre** as A'lai's deduction is correctly recorded as *his* inference, not established fact. Good. (Prep doc: he is **wrong** — the patron is Vizeran DeVir — and the DeVir name must not surface at Candlekeep.) The recap's framing ("concluded with quiet certainty") preserves this correctly.
 - **A'lai's request for the null magic prison**, the withheld depository contents, and the Glabbagool key-storage are all consistent with campaign_state.
 - **"Fustilugs"** spelling matches the VTT glossary correction (`Fustelugs → Fustilugs`).
-- **A'lai Aivenmore**, **Zalthir**, **Grygum**, **Thorin**, **Daz**, **Glabbagool**, **Manshoon**, **Alaundo** all spelled per canon.
+- **A'lai Aivenmore**, **Zalthir**, **Gyrgum**, **Thorin**, **Daz**, **Glabbagool**, **Manshoon**, **Alaundo** all spelled per canon.
 - **Thirteen modrons** matches the registry note on Spanner ("directs the 13 modrons").

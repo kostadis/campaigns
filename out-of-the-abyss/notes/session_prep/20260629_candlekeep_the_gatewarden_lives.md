@@ -54,7 +54,7 @@ A'lai (**Manshoon's inside man**) is after the **two keys to the High Tower Libr
 ## Scene 1 — "You Have Nothing" (and tonight you can't fix it)
 
 ### Setup
-- Deadwinter Day, late morning/afternoon. Deneir's Sanctum or a quiet gallery. **Kalan** (sidelined, watched) or **Elian** as his proxy. The party + **Grygum (GM-run — supportive, on the edges).**
+- Deadwinter Day, late morning/afternoon. Deneir's Sanctum or a quiet gallery. **Kalan** (sidelined, watched) or **Elian** as his proxy. The party + **Gyrgum (GM-run — supportive, on the edges).**
 
 ### Approach — the honest wall
 Kalan doesn't soften it. Lift verbatim if it lands:
@@ -67,11 +67,11 @@ Kalan doesn't soften it. Lift verbatim if it lands:
 They pivot to "then what *do* we do?" → leave them restless and on-site for the night. Good.
 
 ### Branch — they refuse to accept it
-Let them try (Scene 2 is the wall). Don't railroad — let the failure teach. **Grygum (GM)** can quietly agree with Kalan (a cleric who respects evidence), reinforcing without lecturing.
+Let them try (Scene 2 is the wall). Don't railroad — let the failure teach. **Gyrgum (GM)** can quietly agree with Kalan (a cleric who respects evidence), reinforcing without lecturing.
 
 ### NPC notes
 - **Kalan Strongbranch** — *wants:* the truth proven *right*, and to survive being sidelined. *Voice:* precise, professorial, allergic to sloppiness. *GM secret:* he's already offloaded both keys (real→Tadric, decoy→party) — his redundancy doctrine is, unknowingly, what will save *him.*
-- **Grygum (GM-run)** — quiet corroborator, healer-in-reserve, bag-carrier. No monologues; bounce questions back to the players.
+- **Gyrgum (GM-run)** — quiet corroborator, healer-in-reserve, bag-carrier. No monologues; bounce questions back to the players.
 
 ---
 
@@ -217,7 +217,7 @@ They win the decoy fight; Tadric dies offstage; they learn after that their key 
 - **The decoy realization is theirs to make.** Don't announce "your key is fake" — put the inert key back in their hands and *wait* for a player to say it. Then the room tilts.
 - **Once both fronts are live, cut between them** — a line of the party's fight, a line of the Beast closing on Tadric — back and forth. The crosscut *is* the clock; it makes "do we break off?" a felt decision.
 - **When Bookwyrm's death is discovered, don't editorialize.** Let the party supply the irony.
-- **Keep Grygum (GM-run) in the wings** — a heal, a nod to Kalan, the evidence bag. No spotlight.
+- **Keep Gyrgum (GM-run) in the wings** — a heal, a nod to Kalan, the evidence bag. No spotlight.
 
 ## Open decisions (for you)
 

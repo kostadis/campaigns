@@ -11,7 +11,7 @@
 - Appeared in her tomb and was engaged in combat by the party
 - Screamed "Not Dawnbringer!" upon recognizing the sword, indicating prior history or vulnerability
 - Declared she had "been waiting for millennia to be free" before being destroyed
-- Killed by Grygum's acid breath attack
+- Killed by Gyrgum's acid breath attack
 - Her tomb contained a hidden invisible chest with a necklace of fireballs, a potion of greater healing, and gold
 
 **Fargas Rumblefoot (referenced, absent)**
@@ -22,7 +22,7 @@
 - Reported to the party that their pursuers had been lost and were no longer on their trail
 
 **Jimjar (NPC companion)**
-- Smiled at Grygum upon entering Neverlight Grove and reminded him of an outstanding bet before racing into the cavern
+- Smiled at Gyrgum upon entering Neverlight Grove and reminded him of an outstanding bet before racing into the cavern
 
 **Sarith (drow NPC companion)**
 - Appeared unhappy but composed upon entering Neverlight Grove
@@ -54,7 +54,7 @@
 - Expressed concern that Phylo has contracted a diseased spore; described how their formerly effective co-governance has broken down
 - Provided the party with a scroll of protection against fiends as payment, with promises of potions and further treasure if the party investigates the Garden of Welcome and helps restore Phylo
 - Accepted the Grick corpse for animation (minus the harvested head); confirmed animation would be successful despite the condition
-- Assured Grygum that Stool and Rump-a-dump were content among their own kind
+- Assured Gyrgum that Stool and Rump-a-dump were content among their own kind
 
 **Loobamub (Myconid, Circle of Hunters leader)**
 - A follower of Basidia; introduced the party to the hunting task

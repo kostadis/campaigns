@@ -18,7 +18,7 @@ Focus: Zalthir's habit of watching what others overlook — and his quiet, unres
 
 - Glabbagool does not understand why they wouldn't simply donate every book they have ever seen and ask questions for eternity.
 
-- Thorin proposes giving all five books so that Glabbagool gets one question of his own, wanting him to feel like a full member of the party. Everyone agrees; Grygum notes he is curious what Glabbagool will ask.
+- Thorin proposes giving all five books so that Glabbagool gets one question of his own, wanting him to feel like a full member of the party. Everyone agrees; Gyrgum notes he is curious what Glabbagool will ask.
 
 - Thorin, aware of the metagame: "I just want to know, GM, playing the metagame — was that on your map of things I do?" GM confirms it was not.
 
@@ -57,7 +57,7 @@ Thorin: "Yeah, what does happen, like, when you're in the bag of holding with so
 Daz: "It looks like the holiday."
 
 <!-- raising air supply concern -->
-Grygum: "I thought bags of holding could on… supply."
+Gyrgum: "I thought bags of holding could on… supply."
 
 <!-- on Glabbagool's placement -->
 GM: "Yes, but Glabbagool doesn't stay in the bag of a holding hiding. He's always got… he's looked perched outside with his eyes, looking."
@@ -85,14 +85,14 @@ GM: "And so you shove her in the bag of holding next to Glabbagool?"
 GM: "So, so she's, like, so Glabbagool's now walking like this, with one eye permanently looking at…"
 GM: "Permanently looking at, at this, at this assassin, at this, spy, who's really annoyed."
 
-Grygum: "Excellent."
+Gyrgum: "Excellent."
 
 ### [The Road to Candlekeep — Psychological Warfare Continues]
 
 <!-- feeding misinformation to the prisoner -->
 Thorin: "So, I mean, I make sure she overhears me saying, like, so those prayer beads are at full power, even though they're shrunken, right?"
 
-Grygum: "I, I… yes, yes, in fact, I, I believe they may be more deadly."
+Gyrgum: "I, I… yes, yes, in fact, I, I believe they may be more deadly."
 
 Thorin: "They're more potent, okay, good to know."
 
@@ -143,12 +143,12 @@ GM: "Globul is very confused about the idea of a library that has infinite amoun
 <!-- insisting on Glabbagool's inclusion -->
 Thorin: "Question also, even if it's going to be mundane, because we want him to feel like he's a full member of the."
 
-Grygum: "the party here."
+Gyrgum: "the party here."
 
 <!-- proposing all five books -->
 Thorin: "We give all full 5 books, and we say, Glabbagool, you get one question, make a count, and I'm really interested to see what he asks."
 
-Grygum: "Oh, it's worth, it's worth a shot. I'm curious, too."
+Gyrgum: "Oh, it's worth, it's worth a shot. I'm curious, too."
 
 <!-- metagame check -->
 Thorin: "I just want to know, Kostat, playing the metagame, was that on your map of things I do."

@@ -11,10 +11,10 @@ scene: The Deception of Asha Vandry
 focus: Zalthir watches Daz's deception unfold while enduring Asha's contempt — called a "servant," spoken about rather than to — giving him the most revealing outsider perspective on drow power dynamics.
 
 ## Scene 3
-narrator: Grygum
+narrator: Gyrgum
 chunks: 3
 scene: Planning the Assassination of Ilvara
-focus: Grygum is the tactical engine of the planning phase — weighing Glyph of Warding, Dust of Suleiman, and Phantasmal Killer against his single 4th-level slot — making the weight of every decision land through his perspective.
+focus: Gyrgum is the tactical engine of the planning phase — weighing Glyph of Warding, Dust of Suleiman, and Phantasmal Killer against his single 4th-level slot — making the weight of every decision land through his perspective.
 
 ## Scene 4
 narrator: Thorin

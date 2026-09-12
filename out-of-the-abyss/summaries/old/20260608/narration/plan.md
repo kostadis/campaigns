@@ -14,13 +14,13 @@ focus: Throin's blunt preference for radical transparency and physical evidence 
 narrator: Zalthir
 chunks: 2
 scene: A Secret Meeting with Kalan
-focus: Zalthir notices  Kalan pressing the brass key specifically into Grygum's hand, making him the one who carries the weight of Kalan's clandestine trust and dire warning. Zalthir pursues Kalan to learn more.
+focus: Zalthir notices  Kalan pressing the brass key specifically into Gyrgum's hand, making him the one who carries the weight of Kalan's clandestine trust and dire warning. Zalthir pursues Kalan to learn more.
 
 ## Scene 4
-narrator: Grygum
+narrator: Gyrgum
 chunks: 2
 scene: Research in the Flora Theca
-focus: Grygum's scholar background and lone investigation roll make the botanical hunt for midnight tears his quiet triumph of deduction.
+focus: Gyrgum's scholar background and lone investigation roll make the botanical hunt for midnight tears his quiet triumph of deduction.
 
 ## Scene 5
 narrator: Daz

@@ -28,5 +28,5 @@ them as unresolved.
 - Drow Material Culture handout (Daz)
 - Watcher's Stillness / Severed Path technique handout (Zalthir)
 - Therapy ritual handout (Thorin — Path C)
-- Stroud-Wake school choice letters (Grygum)
+- Stroud-Wake school choice letters (Gyrgum)
 - Glabbagool Way-of-Shadow monk sidekick stat block (L8)

@@ -21,7 +21,7 @@ source_extracts: [63]
 - The party interrupted before it could execute any part of its plan and took its entire turn away:
   - Thorin engaged first with Dawnbringer (radiant, not fire), landing three strikes and **frightening** it.
   - Zalthir crossed forty-five feet, struck, and **stunned** it with a precise monk strike ("Even better than frightened").
-  - Grygum's saved lightning javelin missed.
+  - Gyrgum's saved lightning javelin missed.
   - Daz finished with three darts of plain force (declining fire, to which the fiend is immune).
   - Thorin delivered the killing blows.
 - Went down without ever landing an attack.
@@ -35,7 +35,7 @@ source_extracts: [63]
 - **Tadric** — his intended victim; source of the identity reveal.
 - **Bookwyrm** — the "beast" of Bookwyrm's dying note.
 - Unnamed party controlling it — the one "using the beast."
-- **The party** — killed it before it could act; Thorin (frightened + killing blows), Zalthir (stunned it), Grygum (missed), Daz (force damage).
+- **The party** — killed it before it could act; Thorin (frightened + killing blows), Zalthir (stunned it), Gyrgum (missed), Daz (force damage).
 
 ## Arc Score Events
 - None recorded in source notes.

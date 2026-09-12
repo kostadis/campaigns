@@ -38,7 +38,7 @@ chapters: 1-61
 - **Key Relationships:**  
   - **Glabbagool:** Bonded companion; Zalthir considers him a student of monastic discipline and an extension of his own tactical capacity.  
   - **Daz:** Tactical partner; Zalthir has developed the “Ember Grapple” synergy with Daz’s area-of-effect spells.  
-  - **Grygum:** Mutual respect; Zalthir recognizes Grygum’s insight and moral clarity, silently approving his decisions.  
+  - **Gyrgum:** Mutual respect; Zalthir recognizes Gyrgum’s insight and moral clarity, silently approving his decisions.  
   - **Kalan:** Under investigation; Zalthir suspects Kalan is acting out of self-preservation, not principle.  
   - **Jimjar:** Subject of ongoing investigation; Zalthir confirmed Jimjar’s divine-level immunities and resistances, recognizing him as non-human.  
   - **Bookwyrm:** Officially under her authority at Candlekeep; Zalthir is skeptical of her impartiality.  

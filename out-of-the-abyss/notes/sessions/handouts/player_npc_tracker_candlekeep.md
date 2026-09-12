@@ -26,7 +26,7 @@ with the gist of where you stand with each.*
 | **Sister Yvenne** | **Daz** | Drow exile communities; Eilistraee diaspora; drow material culture and political genealogy. Half-drow, ~60s. | Hall of Divination (Arcanium). | First sitting: a list of Menzoberranzan house seats. One is marked **"struck"** — not eliminated. The heraldry book *Geography and Cities, Menzoberranzan, Pillars of Woe* has a footnote pointing to **"Daz'issin"** — *small shadow,* a softening name mothers used for boys they wanted to live. The appendix it points to was **razored out** decades ago. Yvenne redirected when you asked if you were that survivor. She knows more than the public record lets her say. |
 | **Brother Khell-Vire** | **Zalthir** | Shadow-discipline lineage records. Half-elf, ~200s. Retired Garden of Shadow monk. | Echoing Hall, lower gallery office (Atheneum complex). | Ran your trial alongside Master Kenshi. Awarded you a specialized shadow technique (Option C). Has a note on his desk none of you can place: ***"Zalthir, the Underdark, until the Bone King sings."*** |
 | **Master Archivist Philemon** | **Thorin** (and Dawnbringer) | Sentient-artifact psychology. Avowed monk. | Towers of Wonder, upper-shelf study. | Diagnosed Dawnbringer with a **two-stage recovery**: Stage 1, remember daylight without fighting; Stage 2, grieve her previous wielder. Said the bond is "better than feared." |
-| **Brother Vareth** | **Grygum** | Half-orc Bahamut converts; the Stroud Wake. Half-elf, elderly. | Immortal Chambers (theology library). | Holds all three schools (Stroud / Dragon / Bahamut) open at once. Walking you through the Stroud Wake stations. Reacted strongly when you coined *Stroud's Gambit*. |
+| **Brother Vareth** | **Gyrgum** | Half-orc Bahamut converts; the Stroud Wake. Half-elf, elderly. | Immortal Chambers (theology library). | Holds all three schools (Stroud / Dragon / Bahamut) open at once. Walking you through the Stroud Wake stations. Reacted strongly when you coined *Stroud's Gambit*. |
 
 ---
 
@@ -63,7 +63,7 @@ You saw them at the Refectory dinner last night and again this morning around th
 | Name | Where | What |
 |---|---|---|
 | **Master Kenshi** | Sparring rooms (Zalthir's trial). | Blind half-elf monk. Ran the Trial of the Broken Mirror. *"The results do speak for themselves."* |
-| **Pizwog** | Outside the Immortal Chambers. | Ancient tortle librarian. Moves at glacial pace. Pressed a personal research tract on Grygum — a syncretic analysis of Sword Coast religions, internally inconsistent in ways that feel meaningful. |
+| **Pizwog** | Outside the Immortal Chambers. | Ancient tortle librarian. Moves at glacial pace. Pressed a personal research tract on Gyrgum — a syncretic analysis of Sword Coast religions, internally inconsistent in ways that feel meaningful. |
 | **The xenobiology sage** *(name not yet given)* | After Zalthir's trial. | Wandered over to ask whether a gelatinous cube could truly achieve enlightenment. Zalthir defended Glabbagool's progress. Sage gave Glabbagool a vial of **Resonant Slime.** |
 
 ---
@@ -85,7 +85,7 @@ Not at Candlekeep, but threads still active:
 
 | Name / thing | Where | Why it might still matter |
 |---|---|---|
-| **Elin** (silent child) and **Maerith of the Ford** | Daggerford. | Dawnbringer's *lesser restoration* got Elin to speak one sentence: ***"The wells are not wells anymore."*** Not a disease, not fungal. Connected to Daz's headache (Grygum and Zalthir agreed). |
+| **Elin** (silent child) and **Maerith of the Ford** | Daggerford. | Dawnbringer's *lesser restoration* got Elin to speak one sentence: ***"The wells are not wells anymore."*** Not a disease, not fungal. Connected to Daz's headache (Gyrgum and Zalthir agreed). |
 | **Eldred the two-voiced courier**, **the Field Ward Preacher**, and the **young scholar at the Burning Wizard Inn** | Triboar, Waterdeep, Beregost. | The same **false-syncopation chant pattern** in three unconnected people. Daz wrote the cadence down. Brought to Candlekeep for comparison against the Endless Chant — comparison not yet performed. |
 | **Kestler** | Triboar (Mountain's Mouth Inn). | Half-orc lay brother. The Gorg'Bahamut breadcrumb. |
 | **Milo Goodbarrel** | Daggerford monument; Waterdeep chapter house. | Halfling author, Order of the Gauntlet. Personally signs monument witness inscriptions across the North. |

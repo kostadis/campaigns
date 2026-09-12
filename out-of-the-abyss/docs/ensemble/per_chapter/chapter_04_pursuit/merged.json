@@ -68,7 +68,7 @@
   {
     "type": "event",
     "subject": "Creature Attack and Death",
-    "fact": "A ghastly insect creature attacks the group, knocks out Grygum, and is targeted by crossbows and Thorin\u2019s sword. It exposes its flesh, is burned by Zalthir (ineffectively), bites Thorin (unsuccessfully), and is finally killed by Sarith and Buppido.",
+    "fact": "A ghastly insect creature attacks the group, knocks out Gyrgum, and is targeted by crossbows and Thorin\u2019s sword. It exposes its flesh, is burned by Zalthir (ineffectively), bites Thorin (unsuccessfully), and is finally killed by Sarith and Buppido.",
     "source_quote": "",
     "quote_verified": false,
     "passes": [
@@ -133,9 +133,9 @@
   },
   {
     "type": "event",
-    "subject": "creature wraps around Grygum",
-    "fact": "The creature wraps its tentacle around Grygum, knocking him out.",
-    "source_quote": "So, the creature wraps its tentacle around Grygum, knocking him out.",
+    "subject": "creature wraps around Gyrgum",
+    "fact": "The creature wraps its tentacle around Gyrgum, knocking him out.",
+    "source_quote": "So, the creature wraps its tentacle around Gyrgum, knocking him out.",
     "quote_verified": true,
     "passes": [
       "large"
@@ -189,7 +189,7 @@
   {
     "type": "event",
     "subject": "Drow Pursuit and Misdirection",
-    "fact": "Drow scouts pursue the group, hear their running, nearly fall into a drop, arrive at the stalagmites, hear a thump from Zalthir\u2019s fall, feel a tremor from Grygum\u2019s magic, and retreat, believing the prisoners are gone \u2014 unaware they are hidden.",
+    "fact": "Drow scouts pursue the group, hear their running, nearly fall into a drop, arrive at the stalagmites, hear a thump from Zalthir\u2019s fall, feel a tremor from Gyrgum\u2019s magic, and retreat, believing the prisoners are gone \u2014 unaware they are hidden.",
     "source_quote": "",
     "quote_verified": false,
     "passes": [
@@ -266,8 +266,8 @@
   {
     "type": "event",
     "subject": "group reaches hiding space",
-    "fact": "Thorin, Daz, Grygum, and the remaining prisoners run to the hiding space.",
-    "source_quote": "Thorin, Daz,  Grygum, and the remaining prisoners run to the hiding space.",
+    "fact": "Thorin, Daz, Gyrgum, and the remaining prisoners run to the hiding space.",
+    "source_quote": "Thorin, Daz,  Gyrgum, and the remaining prisoners run to the hiding space.",
     "quote_verified": true,
     "passes": [
       "large"
@@ -277,8 +277,8 @@
   {
     "type": "event",
     "subject": "group running to hiding space",
-    "fact": "Thorin, Daz, Grygum, and the remaining prisoners run to the hiding space.",
-    "source_quote": "Thorin, Daz,  Grygum, and the remaining prisoners run to the hiding space.",
+    "fact": "Thorin, Daz, Gyrgum, and the remaining prisoners run to the hiding space.",
+    "source_quote": "Thorin, Daz,  Gyrgum, and the remaining prisoners run to the hiding space.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -298,9 +298,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum finds tunnel",
-    "fact": "Grygum shouts, 'Is this what you are looking for?'",
-    "source_quote": "Grygum shouts, \u201cIs this what you are looking for?\u201d",
+    "subject": "Gyrgum finds tunnel",
+    "fact": "Gyrgum shouts, 'Is this what you are looking for?'",
+    "source_quote": "Gyrgum shouts, \u201cIs this what you are looking for?\u201d",
     "quote_verified": true,
     "passes": [
       "large"
@@ -309,9 +309,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s guidance",
-    "fact": "Grygum identifies the correct tunnel, prompting Sathir to rush forward despite annoyance.",
-    "source_quote": "Grygum shouts, \u201cIs this what you are looking for?\u201d Sathir mutters, \u201cYes, I saw that.\u201d He looks annoyed, \u201cI didn\u2019t need your help. But it\u2019s good that you can help.\u201d",
+    "subject": "Gyrgum\u2019s guidance",
+    "fact": "Gyrgum identifies the correct tunnel, prompting Sathir to rush forward despite annoyance.",
+    "source_quote": "Gyrgum shouts, \u201cIs this what you are looking for?\u201d Sathir mutters, \u201cYes, I saw that.\u201d He looks annoyed, \u201cI didn\u2019t need your help. But it\u2019s good that you can help.\u201d",
     "quote_verified": true,
     "passes": [
       "temporal"
@@ -320,9 +320,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s Thaumaturgy causing tremor",
-    "fact": "Grygum\u2019s Thaumaturgy was the source of the tremor Nym felt.",
-    "source_quote": "What Nym didn\u2019t know was that Grygum\u2019s Thaumaturgy was the source of the tremor.",
+    "subject": "Gyrgum\u2019s Thaumaturgy causing tremor",
+    "fact": "Gyrgum\u2019s Thaumaturgy was the source of the tremor Nym felt.",
+    "source_quote": "What Nym didn\u2019t know was that Gyrgum\u2019s Thaumaturgy was the source of the tremor.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -331,9 +331,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum uses Thaumaturgy",
-    "fact": "Grygum\u2019s Thaumaturgy was the source of the tremor.",
-    "source_quote": "What Nym didn\u2019t know was that Grygum\u2019s Thaumaturgy was the source of the tremor.",
+    "subject": "Gyrgum uses Thaumaturgy",
+    "fact": "Gyrgum\u2019s Thaumaturgy was the source of the tremor.",
+    "source_quote": "What Nym didn\u2019t know was that Gyrgum\u2019s Thaumaturgy was the source of the tremor.",
     "quote_verified": true,
     "passes": [
       "large"
@@ -343,7 +343,7 @@
   {
     "type": "event",
     "subject": "Hiding at Stalagmites",
-    "fact": "Zalthir discovers a hiding space behind stalagmites and uses Stool\u2019s mind link to alert the group. Thorin, Daz, Grygum, and prisoners run to it. The Drow arrive, misinterpret the tremor, and leave, thinking the prisoners escaped.",
+    "fact": "Zalthir discovers a hiding space behind stalagmites and uses Stool\u2019s mind link to alert the group. Thorin, Daz, Gyrgum, and prisoners run to it. The Drow arrive, misinterpret the tremor, and leave, thinking the prisoners escaped.",
     "source_quote": "",
     "quote_verified": false,
     "passes": [
@@ -420,7 +420,7 @@
   {
     "type": "event",
     "subject": "Sathir rushes down tunnel",
-    "fact": "Sathir rushes down towards the tunnel that Grygum saw.",
+    "fact": "Sathir rushes down towards the tunnel that Gyrgum saw.",
     "source_quote": "And then rushes down towards the tunnel that Gyrgum saw.",
     "quote_verified": true,
     "passes": [
@@ -475,7 +475,7 @@
   {
     "type": "event",
     "subject": "Thaumaturgy Tremor",
-    "fact": "Grygum unknowingly creates a tremor using Thaumaturgy while hidden. The Drow interpret it as a cave collapse, prompting them to retreat. This saves the group from discovery.",
+    "fact": "Gyrgum unknowingly creates a tremor using Thaumaturgy while hidden. The Drow interpret it as a cave collapse, prompting them to retreat. This saves the group from discovery.",
     "source_quote": "",
     "quote_verified": false,
     "passes": [
@@ -552,8 +552,8 @@
   {
     "type": "event",
     "subject": "tremor source",
-    "fact": "Grygum\u2019s Thaumaturgy caused the tremor that misled Nym into thinking the cave was collapsing.",
-    "source_quote": "What Nym didn\u2019t know was that Grygum\u2019s Thaumaturgy was the source of the tremor.",
+    "fact": "Gyrgum\u2019s Thaumaturgy caused the tremor that misled Nym into thinking the cave was collapsing.",
+    "source_quote": "What Nym didn\u2019t know was that Gyrgum\u2019s Thaumaturgy was the source of the tremor.",
     "quote_verified": true,
     "passes": [
       "temporal"
@@ -585,8 +585,8 @@
   {
     "type": "event",
     "subject": "Zalthir burns creature",
-    "fact": "Zalthir breathes fire at the creature and runs behind Thorin and Grygum.",
-    "source_quote": "he breathes fire and runs behind Thorin and Grygum.",
+    "fact": "Zalthir breathes fire at the creature and runs behind Thorin and Gyrgum.",
+    "source_quote": "he breathes fire and runs behind Thorin and Gyrgum.",
     "quote_verified": true,
     "passes": [
       "large"
@@ -683,9 +683,9 @@
   },
   {
     "type": "event",
-    "subject": "Zalthir wakes Daz and Grygum",
-    "fact": "Zalthir wakes up Daz and Grygum.",
-    "source_quote": "Zalthir wakes up Daz and Grygum.",
+    "subject": "Zalthir wakes Daz and Gyrgum",
+    "fact": "Zalthir wakes up Daz and Gyrgum.",
+    "source_quote": "Zalthir wakes up Daz and Gyrgum.",
     "quote_verified": true,
     "passes": [
       "large"
@@ -694,9 +694,9 @@
   },
   {
     "type": "event",
-    "subject": "Zalthir waking Daz and Grygum",
-    "fact": "Zalthir wakes up Daz and Grygum.",
-    "source_quote": "Zalthir wakes up Daz and Grygum.",
+    "subject": "Zalthir waking Daz and Gyrgum",
+    "fact": "Zalthir wakes up Daz and Gyrgum.",
+    "source_quote": "Zalthir wakes up Daz and Gyrgum.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -883,8 +883,8 @@
   {
     "type": "monster",
     "subject": "centipede-like creature",
-    "fact": "The centipede-like creature wraps its tentacle around Grygum, knocking him out.",
-    "source_quote": "So, the creature wraps its tentacle around Grygum, knocking him out.",
+    "fact": "The centipede-like creature wraps its tentacle around Gyrgum, knocking him out.",
+    "source_quote": "So, the creature wraps its tentacle around Gyrgum, knocking him out.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -916,7 +916,7 @@
   {
     "type": "monster",
     "subject": "Ghastly Insect Creature",
-    "fact": "A massive, centipede-like monstrous insect with feather-like feelers and mandibles, it feeds on exhumed remains. It attacks Grygum, is shot multiple times, has its carapace breached by Thorin, and is ultimately killed by Sarith and Buppido\u2019s bolts. It sensed Zalthir\u2019s fire and twisted away.",
+    "fact": "A massive, centipede-like monstrous insect with feather-like feelers and mandibles, it feeds on exhumed remains. It attacks Gyrgum, is shot multiple times, has its carapace breached by Thorin, and is ultimately killed by Sarith and Buppido\u2019s bolts. It sensed Zalthir\u2019s fire and twisted away.",
     "source_quote": "",
     "quote_verified": false,
     "passes": [
@@ -1139,7 +1139,7 @@
   {
     "type": "npc",
     "subject": "Drow soldier",
-    "fact": "The Drow soldier nods in response to Grygum\u2019s thought.",
+    "fact": "The Drow soldier nods in response to Gyrgum\u2019s thought.",
     "source_quote": "The Drow soldier nods.",
     "quote_verified": true,
     "passes": [
@@ -1182,9 +1182,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum asks where the drow are \u2014 ahead or behind.",
-    "source_quote": "Grygum asks, \u201cWhere are the drow? Are they ahead of us? Behind us?\u201d",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum asks where the drow are \u2014 ahead or behind.",
+    "source_quote": "Gyrgum asks, \u201cWhere are the drow? Are they ahead of us? Behind us?\u201d",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -1193,9 +1193,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum asks, 'Where are the drow? Are they ahead of us? Behind us?'",
-    "source_quote": "Grygum asks, \u201cWhere are the drow? Are they ahead of us? Behind us?\u201d",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum asks, 'Where are the drow? Are they ahead of us? Behind us?'",
+    "source_quote": "Gyrgum asks, \u201cWhere are the drow? Are they ahead of us? Behind us?\u201d",
     "quote_verified": true,
     "passes": [
       "large"
@@ -1204,8 +1204,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a healer who is knocked out by the creature\u2019s tentacle, later recovers, and uses Thaumaturgy to create a tremor that fools the Drow. He identifies a tunnel path for the group and asks questions about Drow positioning, comparing the Underdark to a maze.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a healer who is knocked out by the creature\u2019s tentacle, later recovers, and uses Thaumaturgy to create a tremor that fools the Drow. He identifies a tunnel path for the group and asks questions about Drow positioning, comparing the Underdark to a maze.",
     "source_quote": "",
     "quote_verified": false,
     "passes": [
@@ -1215,8 +1215,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum tells the frightened Myconid child, 'Go help Shuushar.'",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum tells the frightened Myconid child, 'Go help Shuushar.'",
     "source_quote": "Gyrgum tells the frightened Myconid child, \u201cGo help Shuushar.\u201d",
     "quote_verified": true,
     "passes": [
@@ -1227,9 +1227,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum thinks the Underdark is like a maze.",
-    "source_quote": "Grygum thinks, \u201cLike a Maze?\u201d",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum thinks the Underdark is like a maze.",
+    "source_quote": "Gyrgum thinks, \u201cLike a Maze?\u201d",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -1238,9 +1238,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum thinks, 'Like a Maze?'",
-    "source_quote": "Grygum thinks, \u201cLike a Maze?\u201d",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum thinks, 'Like a Maze?'",
+    "source_quote": "Gyrgum thinks, \u201cLike a Maze?\u201d",
     "quote_verified": true,
     "passes": [
       "interiority",
@@ -1449,7 +1449,7 @@
   {
     "type": "npc",
     "subject": "Nym",
-    "fact": "Nym is a Drow scout familiar to Zalthir from Velkynvelve. He leads the pursuit, misidentifies the tunnel the prisoners took, feels a tremor from Grygum\u2019s magic, and concludes the prisoners are gone. He mutters that he warned about the other tunnel.",
+    "fact": "Nym is a Drow scout familiar to Zalthir from Velkynvelve. He leads the pursuit, misidentifies the tunnel the prisoners took, feels a tremor from Gyrgum\u2019s magic, and concludes the prisoners are gone. He mutters that he warned about the other tunnel.",
     "source_quote": "",
     "quote_verified": false,
     "passes": [
@@ -1808,7 +1808,7 @@
   {
     "type": "npc",
     "subject": "Stool",
-    "fact": "Stool is relieved to see that Grygum is alive.",
+    "fact": "Stool is relieved to see that Gyrgum is alive.",
     "source_quote": "Stool is relieved to see that Gyrgum is alive.",
     "quote_verified": true,
     "passes": [
@@ -1875,8 +1875,8 @@
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin reaches for Grygum, prompting Zalthir to think they need the healer.",
-    "source_quote": "He sees Thorin reach for Grygum and thinks, \u201cWe need the healer.\u201d",
+    "fact": "Thorin reaches for Gyrgum, prompting Zalthir to think they need the healer.",
+    "source_quote": "He sees Thorin reach for Gyrgum and thinks, \u201cWe need the healer.\u201d",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -1966,8 +1966,8 @@
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir sees Thorin reach for Grygum and thinks, 'We need the healer.'",
-    "source_quote": "He sees Thorin reach for Grygum and thinks, \u201cWe need the healer.\u201d",
+    "fact": "Zalthir sees Thorin reach for Gyrgum and thinks, 'We need the healer.'",
+    "source_quote": "He sees Thorin reach for Gyrgum and thinks, \u201cWe need the healer.\u201d",
     "quote_verified": true,
     "passes": [
       "large"
@@ -2012,7 +2012,7 @@
     "type": "npc",
     "subject": "Zalthir",
     "fact": "Zalthir thinks, 'We need the healer.'",
-    "source_quote": "He sees Thorin reach for Grygum and thinks, \u201cWe need the healer.\u201d",
+    "source_quote": "He sees Thorin reach for Gyrgum and thinks, \u201cWe need the healer.\u201d",
     "quote_verified": true,
     "passes": [
       "interiority"
@@ -2078,7 +2078,7 @@
     "type": "thread",
     "subject": "Sathir's path through the cave",
     "fact": "Sathir is about to give up on finding a path through the cave to the next tunnel.",
-    "source_quote": "Sathir mutters about the need to find a path through the cave to the next tunnel and is about to give up when Grygum shouts, \u201cIs this what you are looking for?\u201d",
+    "source_quote": "Sathir mutters about the need to find a path through the cave to the next tunnel and is about to give up when Gyrgum shouts, \u201cIs this what you are looking for?\u201d",
     "quote_verified": true,
     "passes": [
       "interiority"

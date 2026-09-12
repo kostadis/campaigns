@@ -36,7 +36,7 @@ source: gmassist
 
 **[Insight Rolls — Reading the Room]**
 - Zalthir rolls an 11 ("a critical fill for me").
-- Grygum rolls a 9.
+- Gyrgum rolls a 9.
 - Daz rolls (after initially rolling Perception, then re-rolling Insight).
 - Thorin re-rolls Insight, scoring 20.
 
@@ -70,13 +70,13 @@ source: gmassist
 **GM** — *explaining Alaundo's prophecies*
 > "At some point in time, you probably asked what the prophecies are, and it turns out there was a guy named Alaundo who had prophecies that turned out remarkably accurately, and so the folks at Candlekeep keep reciting them."
 
-**Grygum** — *asking about the prophecies*
+**Gyrgum** — *asking about the prophecies*
 > "Have they… are there some that have not…"
 
 **GM** — *explaining the system*
 > "Oh yeah, those are the ones that are not… the ones that have not yet come true. So apparently, whenever a prophecy comes true, it gets removed, and the prophecies shrink over time. Nobody knows what happens when you run out of prophecies."
 
-**Grygum** — *pressing further*
+**Gyrgum** — *pressing further*
 > "Are there any that, you know, could no longer come true, or are they all vague enough that they still could?"
 
 **GM** — *responding*

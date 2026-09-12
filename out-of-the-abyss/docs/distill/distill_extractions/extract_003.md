@@ -15,14 +15,14 @@
 
 **Thorin**
 - Current location: Armory (upstairs from guard chamber)
-- Current state: Active; was knocked unconscious and bleeding, then fully healed by Grygum; subsequently armored
-- Recent actions: Rushed into the chamber; attempted to overpower Imbros (failed); was struck unconscious by Imbros; healed by Grygum; withdrew to armory to don armor
+- Current state: Active; was knocked unconscious and bleeding, then fully healed by Gyrgum; subsequently armored
+- Recent actions: Rushed into the chamber; attempted to overpower Imbros (failed); was struck unconscious by Imbros; healed by Gyrgum; withdrew to armory to don armor
 - Faction: Prisoner group
 
 **Imbros**
 - Current location: Guard chamber — deceased
 - Current state: Dead; killed by Serith
-- Recent actions: Was present playing Sava with two Drow guards; amused by the initial failed attack; chose to subdue rather than kill prisoners initially; struck Thorin unconscious; dodged Zalthir's shove; fought Prince Derendil; used Drow Poison on Prince Derendil; killed Prince Derendil; resisted Grygum's toll-the-dead spell; was brought low by accumulated missile fire and magic; cut down by Serith
+- Recent actions: Was present playing Sava with two Drow guards; amused by the initial failed attack; chose to subdue rather than kill prisoners initially; struck Thorin unconscious; dodged Zalthir's shove; fought Prince Derendil; used Drow Poison on Prince Derendil; killed Prince Derendil; resisted Gyrgum's toll-the-dead spell; was brought low by accumulated missile fire and magic; cut down by Serith
 - Faction: Drow (guard/elite warrior)
 - Revealed motivations: Feared that failing to suppress the revolt would result in Ilvara deciding his fate as she had decided Serith's; chose not to call for help to avoid the stigma of failure
 - Notes: Identified earlier by Serith; trained in Menzoberranzan from a very young age
@@ -30,7 +30,7 @@
 **Serith**
 - Current location: Guard chamber
 - Current state: Active; emotionally destabilized then calmed; delivered killing blow to Imbros
-- Recent actions: Came down from above and attacked a Drow guard alongside Zalthir, using a curse that caused Drow to curse each other; was deeply affected by Prince Derendil's death and nearly began screaming; was calmed by Grygum's mental intervention; killed Imbros
+- Recent actions: Came down from above and attacked a Drow guard alongside Zalthir, using a curse that caused Drow to curse each other; was deeply affected by Prince Derendil's death and nearly began screaming; was calmed by Gyrgum's mental intervention; killed Imbros
 - Faction: Formerly Drow (defector/prisoner ally)
 - Notes: Previously identified Imbros by name; his reaction to Derendil's death was intense and unexplained
 
@@ -41,7 +41,7 @@
 - Faction: Prisoner group
 - Notes: Described himself as "already armed in this hideous form"; his death deeply affected Serith
 
-**Grygum (also spelled Gyrgum)**
+**Gyrgum (also spelled Gyrgum)**
 - Current location: Guard chamber
 - Current state: Active
 - Recent actions: Followed fellow prisoners to the armory to arm himself; descended from the armory; healed Thorin (unconscious → fully restored); attempted Toll the Dead on Imbros (Imbros resisted); used mental/spiritual manipulation via rapport spores to calm Serith; reflected that his cult's lessons served him well
@@ -124,7 +124,7 @@
 - Current goals: Escape captivity; arm themselves
 - Recent actions: Executed a raid on the Drow guard chamber and armory; successfully seized weapons and armor; killed two Drow guards and Imbros; lost Prince Derendil in the fight
 - Relationships: Opposed by Drow captors; Serith is a Drow defector fighting alongside them
-- Key members: Zalthir, Daz, Thorin, Grygum, Serith, Stool, Prince Derendil (deceased), Bupido, Eldeth, Shuushar, Jimjar, Topsy, Turvy, Ront
+- Key members: Zalthir, Daz, Thorin, Gyrgum, Serith, Stool, Prince Derendil (deceased), Bupido, Eldeth, Shuushar, Jimjar, Topsy, Turvy, Ront
 
 **Drow (Captors)**
 - Current goals: Maintain control of prisoners; suppress revolts
@@ -132,10 +132,10 @@
 - Relationships: Opposed by prisoner group; Serith is a defector from this faction; Ilvara is a figure of authority
 - Key members: Ilvara (absent, authority figure), Imbros (deceased), two unnamed guards (deceased), Serith (defected)
 
-**Unnamed Cult (Grygum's)**
+**Unnamed Cult (Gyrgum's)**
 - Current goals: Unknown
-- Recent actions: No direct actions; Grygum applied cult teachings to manipulate Serith's emotional state
-- Key members: Grygum
+- Recent actions: No direct actions; Gyrgum applied cult teachings to manipulate Serith's emotional state
+- Key members: Gyrgum
 
 ---
 
@@ -151,16 +151,16 @@
 - Daz attempted Mind Sliver on Imbros; Imbros resisted.
 - Serith descended and attacked a Drow guard alongside Zalthir, using a curse that caused Drow to curse each other.
 - Armed prisoners (Eldeth, Bupido, Shuushar, Jimjar, Topsy, Turvy) fired hand crossbows from the armory opening; Eldeth and Topsy hit the remaining Drow guard; Ront killed that guard.
-- Grygum descended and healed Thorin, restoring him from unconsciousness to full vigor.
+- Gyrgum descended and healed Thorin, restoring him from unconsciousness to full vigor.
 - Daz struck Imbros with three Magic Missiles.
 - Thorin withdrew to the armory and donned armor.
 - Imbros, fighting for his life, struck Prince Derendil twice with Drow Poison, killing him.
 - The prisoners continued firing on Imbros; he was struck three more times by crossbow bolts.
-- Grygum cast Toll the Dead on Imbros; Imbros resisted the necrotic effect.
+- Gyrgum cast Toll the Dead on Imbros; Imbros resisted the necrotic effect.
 - Daz struck Imbros with a second round of three Magic Missiles, leaving Imbros battered but still standing.
 - Imbros killed Prince Derendil.
 - Serith was overwhelmed by grief/rage at Derendil's death and nearly began screaming.
-- Grygum reached into Serith's mind via the telepathic link and redirected his emotion toward the spiritual/divine.
+- Gyrgum reached into Serith's mind via the telepathic link and redirected his emotion toward the spiritual/divine.
 - Serith killed Imbros with his sword.
 - The prisoners are now armed; they hold the guard chamber and armory.
 
@@ -188,7 +188,7 @@
 
 - **Ilvara's response**: Ilvara has not yet discovered that Imbros and the two guards are dead and that the prisoners are now armed. Her reaction and response are unknown and pending.
 - **Serith's emotional reaction to Derendil's death**: Serith was deeply and inexplicably affected by Prince Derendil's death, nearly losing control. The nature of their relationship or Serith's psychological state is unresolved.
-- **Grygum's cult**: The name and nature of Grygum's cult are unrevealed; he considers its lessons on redirecting emotion toward the divine to be practically useful. Its goals and membership remain unknown.
+- **Gyrgum's cult**: The name and nature of Gyrgum's cult are unrevealed; he considers its lessons on redirecting emotion toward the divine to be practically useful. Its goals and membership remain unknown.
 - **Prince Derendil's "hideous form"**: Derendil referred to himself as being in a hideous form and already armed because of it. The nature of this form is not explained in this session.
 - **Escape route**: The prisoners are now armed but their plan to escape the Drow captivity beyond this room has not been established.
 - **Drow Poison effects on Prince Derendil**: Derendil was poisoned with Drow Poison before being killed; whether the poison has any ongoing relevance (e.g., to his corpse or to others) is not addressed.

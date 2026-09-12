@@ -14,13 +14,13 @@ source: gmassist
 - The party presents their shrunken drow captive. She declares: "This is highly irregular, and House T'sarran will have its vengeance!" Daz replies: "Tiny, tiny vengeance."
 - Glabbagool is tasked with keeping the spy under control. He informs her that his googly eyes are affectations — "I can actually see different ways, this is how ooze work, but I discovered that if you have these cute eyes, people take you more friendly" — and then demonstrates his authority by manifesting a large number of eyes at once. The effect is described as "very creepy very quickly."
 - The spy demands to know about the prayer beads. Thorin informs her: "You don't get a question. You did not donate a book."
-- The First Reader assigns scholars: Zalthir to learn about Jimjar, noting that the avowed Khell-Vire wishes to learn about Grygum in return; Thorin and Dawnbringer to Philemon, "an avowed monk specializing in psychological preservation and historical cataloging of ancient sentient artifacts" with a "tremendous track record of success." Thorin is enthusiastic: "I'm all up for couples counseling with Dawnbringer."
+- The First Reader assigns scholars: Zalthir to learn about Jimjar, noting that the avowed Khell-Vire wishes to learn about Gyrgum in return; Thorin and Dawnbringer to Philemon, "an avowed monk specializing in psychological preservation and historical cataloging of ancient sentient artifacts" with a "tremendous track record of success." Thorin is enthusiastic: "I'm all up for couples counseling with Dawnbringer."
 - Before the party fully settles, a frantic elderly half-elf scholar rushes in, furious that the First Reader did not immediately summon him upon the arrival of a cleric of Bahamut.
 - This is Vareth. He introduces himself as having "a decades-long specialty in half-orc Bahamut converts" — previously a "quiet, small area" of study, but "ever since these Stroud-Protanther events, it's become a flood."
-- He grabs Grygum's hand and practically drags him toward his office, describing him as "a real living half-orc cleric of Bahamut" and a "living data point."
-- Grygum mentions "Stroud's Gambit." Vareth nearly loses his composure: "Oh! This is all novel news! I can't wait to take advantage of it! The field of Bahamut half-orc conversions will benefit tremendously from your interview."
+- He grabs Gyrgum's hand and practically drags him toward his office, describing him as "a real living half-orc cleric of Bahamut" and a "living data point."
+- Gyrgum mentions "Stroud's Gambit." Vareth nearly loses his composure: "Oh! This is all novel news! I can't wait to take advantage of it! The field of Bahamut half-orc conversions will benefit tremendously from your interview."
 - The DM explains the context: Vareth's previously obscure research has exploded in relevance because of the controversy Stroud's actions created throughout the realms — what does the sudden half-orc interest in Bahamut mean for the orc pantheon, was it part of Bahamut's plan to recruit a new worshipping group? Vareth is now being invited to the right conferences and receiving funding requests.
-- Grygum: "Oh, it's all part of the plan." Vareth: "This is all fascinating!"
+- Gyrgum: "Oh, it's all part of the plan." Vareth: "This is all fascinating!"
 - The party reflects on their shared exhaustion with Daz's habit of citing Malfire's multi-volume history at every available opportunity. Daz notes privately that part of him wants to write his own account — one designed to distract from the real story so that the real story can remain larger than what is published.
 - The session ends with each party member pointed toward their relevant scholar and the promise that next session will cover the research findings.
 
@@ -36,7 +36,7 @@ source: gmassist
 **GM** — *elaborating on the benefit of multiple books*
 > "donating more books to the library… the Candlekeep Library will always make it more easier for people, will make you always more interesting."
 
-**Grygum** — *summarising the goal*
+**Gyrgum** — *summarising the goal*
 > "Okay, well, we have a few books, and really the question we want to get answered is, who's, who's following, Daz, right?"
 
 **GM** — *listing the questions each party member has*
@@ -45,7 +45,7 @@ source: gmassist
 **Thorin** — *on therapy not being a one-question matter*
 > "Okay, but I mean, like, I'm looking for a therapist, this is not a one-question type of thing, this is, like… There are no shortcuts when it comes to therapy."
 
-**Grygum** — *on that point*
+**Gyrgum** — *on that point*
 > "It's a process, not a product."
 
 **Thorin** — *proposing Glabbagool gets a question too*
@@ -62,7 +62,7 @@ source: gmassist
 **GM** — *the First Reader's reaction to the Velkynvelve Prisoner Journal*
 > "yes, this journal of the Velcan-developed Prisoners is a masterpiece of interest… of interesting value. I can't wait to study it carefully. It will go great with my other editions in drow prison journals."
 
-**Grygum** — *noting the genre apparently exists*
+**Gyrgum** — *noting the genre apparently exists*
 > "Oh, there's a whole, whole shelf of those, isn't there?"
 
 **Thorin** — *offering the party as primary sources*
@@ -89,7 +89,7 @@ source: gmassist
 ---
 
 **[Glabbagool Minds the Prisoner]**
-- Grygum assigns Glabbagool to keep the spy under control.
+- Gyrgum assigns Glabbagool to keep the spy under control.
 
 **GM** — *Glabbagool threatens the spy with his eyes*
 > "And he goes, I can poke your eyes out! And then he explains, oh, these are just affectations, and they don't actually are my eyes. I can actually see different ways, this is how ooze work, but I discovered that if you have these cute eyes, people take you more friendly."
@@ -103,7 +103,7 @@ source: gmassist
 **Thorin** — *shutting her down*
 > "You don't get a question. You did not donate a book."
 
-**Grygum** — *on keeping her in line*
+**Gyrgum** — *on keeping her in line*
 > "We'll have a goal, keep her under control."
 
 ---
@@ -129,7 +129,7 @@ source: gmassist
 **GM** — *the First Reader's endorsement*
 > "Wonderful, Philemon will be delighted, delighted to work with you. He's had a tremendous track record of success."
 
-**Grygum** — *dryly*
+**Gyrgum** — *dryly*
 > "I almost feel like they should be giving us books."
 
 ---
@@ -140,7 +140,7 @@ source: gmassist
 **GM** — *Vareth's entrance*
 > "And then all of a sudden, this, like, half-elf, certainly, elderly half-elf, walks up and says, First Reader, I cannot believe you did not tell me about the arrival of a cleric of Bahamut."
 
-**Grygum** — *feeling in demand*
+**Gyrgum** — *feeling in demand*
 > "I'm feeling, in demand here."
 
 **GM** — *Vareth introduces himself and his field*
@@ -152,10 +152,10 @@ source: gmassist
 **GM** — *Vareth explains the change in his research's relevance*
 > "And you will not… my decades-long study was a quiet, small area, but ever since these Stroud Protanther events, it's become a flood. I am frantically cataloging all sorts of information, and I'm just thrilled to meet you as a living data point. Would you be willing to chat with us offline? He grabs your hand and practically drags you."
 
-**GM** — *Vareth describes Grygum*
+**GM** — *Vareth describes Gyrgum*
 > "this is a real living half-orc cleric of Muhammad."
 
-**Grygum** — *testing Vareth's theological stance*
+**Gyrgum** — *testing Vareth's theological stance*
 > "Well, you have to understand that it is traditional for clerics of Bahamut to want to try to take over the world, but I haven't moved into that phase yet."
 
 **GM** — *Vareth's reaction*
@@ -164,16 +164,16 @@ source: gmassist
 **GM** — *Vareth on Stroud and the conversion phenomenon*
 > "I… ever since Stroud, defeated Protanther in chess, and impacted the, the process… the conversion of half-orcs into the cult of Bahamut…"
 
-**Grygum** — *completing the thought*
+**Gyrgum** — *completing the thought*
 > "It truly was legendary."
 
-**Grygum** — *dropping the term*
+**Gyrgum** — *dropping the term*
 > "Stroud's Gambit."
 
 **GM** — *Vareth's reaction to the term*
 > "Oh, oh, well, that's not how… this is all novel news! I can't wait to take advantage of it! I'm… the field of Bahamut half-orc conversions will benefit tremendously from your interview."
 
-**Grygum** — *playing along*
+**Gyrgum** — *playing along*
 > "Oh, it's all part of the plan."
 
 **GM** — *Vareth's response*
@@ -190,13 +190,13 @@ source: gmassist
 **GM** — *on Vareth's professional ascent*
 > "And now he's being invited to all the right conferences, people want to talk to him, he's getting funding requests."
 
-**Grygum** — *on Vareth's previously ignored research*
+**Gyrgum** — *on Vareth's previously ignored research*
 > "These research proposals are finally getting funded."
 
 **GM** — *confirming*
 > "Exactly. And you walked in, and, like, a living half-orc clerical vomit. He pauses. You converted, of course, after Stroud did his events, not before."
 
-**Grygum** — *confirming*
+**Gyrgum** — *confirming*
 > "Oh, of course."
 
 ---
@@ -210,10 +210,10 @@ source: gmassist
 **Daz** — *on his time with the party*
 > "We were stuck in a jail cell together for a while, and I thought…"
 
-**Grygum** — *cutting in*
+**Gyrgum** — *cutting in*
 > "Yeah, it's like we're kind of sick of each other, but somehow still together, yeah."
 
-**Grygum** — *performing the habit*
+**Gyrgum** — *performing the habit*
 > "As Melfire said in Volume 3."
 
 **Daz** — *on his private reservations about Malfire's book*

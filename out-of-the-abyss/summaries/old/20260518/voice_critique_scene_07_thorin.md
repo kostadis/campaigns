@@ -10,7 +10,7 @@
 
 > That was worth noting. Determined is different from satisfied. Determined means he found something and hadn't decided what to do with it yet. I filed it.
 
-**Why:** *Filed it* is Grygum's verb (and Daz's). Thorin's spec uses **I noted, worth noting, kept it, I clocked that** — see the very next paragraph in this same scene, *"I clocked that and kept moving,"* which is exactly the right register. The two appear two paragraphs apart and the *filed* one breaks. Cheap fix.
+**Why:** *Filed it* is Gyrgum's verb (and Daz's). Thorin's spec uses **I noted, worth noting, kept it, I clocked that** — see the very next paragraph in this same scene, *"I clocked that and kept moving,"* which is exactly the right register. The two appear two paragraphs apart and the *filed* one breaks. Cheap fix.
 **Suggested rewrite:** "That was worth noting. Determined is different from satisfied. Determined means he found something and hadn't decided what to do with it yet. I noted it."
 
 ### [2] Slightly awkward observational construction

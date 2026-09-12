@@ -42,7 +42,7 @@ Source companion files:
 | 7 | CM Ch. 5a — Cryptogram race | Six-clue chase; House of Alaundo; cliffhanger at the Vault doors | 9 |
 | 8 | CM Ch. 5b — The Vault | Manshoon escape; Echoes of Alaundo; Eldeth's letter | 9 |
 
-Players: Mike (Daz) / Gabe (Zalthir) / Joe (Thorin) / Ben (Grygum).
+Players: Mike (Daz) / Gabe (Zalthir) / Joe (Thorin) / Ben (Gyrgum).
 
 ---
 
@@ -110,7 +110,7 @@ session and say what each PC is doing on *both* tracks.
 | **1** afternoon | S1 | Party arrives. **Five Books, Five Questions.** Refectory dinner — Janussi alive (only time). Endless Chant + hooded corridor plants. **Janussi dies just after midnight.** | **First sittings — all four scholar pairings.** Yvenne 1–2 ticks. Khell-Vire opens the notebook. Philemon Phase 1 (clinical). Vareth Stations 1–2 of the Stroud Wake. **Glabbagool's question lands.** | **Demon-lord-evidence ally** — accepts the books, names the Harpers, vouches for the party. **Locked in before suspicion arrives.** |
 | **2** pre-dawn → afternoon | S2 | Fembris cliffhanger fires. Chapter House. Crime scene. Hollypocket + Tadric. Investigators' Office. Kalan's key. **No formal scholar scenes on screen.** | **Active offstage.** Scholars are still researching. PCs can mention *"I checked in with Yvenne / Vareth / Philemon / Khell-Vire this afternoon"* — give a one-line update. **Scholars themselves are reacting to Janussi's death:** Philemon is rattled (his superior); Vareth gossips; Yvenne is steady; Khell-Vire is unmoved. | **Visibly ill.** Stays in the Infernal Fortress; the Beast has bitten her. *Off-screen, the prime suspect.* |
 | **2** evening | S3 | Search Southern Dining Hall → heart in lead chalice. Reader interviews #1 (Sylvira, Daral, Fheminor). | **Scholar interleaves resume on screen.** Thorin/Philemon Phase 2 (pivot). Daz/Yvenne — Vaelissa name lands; Bell Tower deadline for Polly. Other PCs' scholars continue offstage. | **Now the prime suspect *and* the demon-lord ally.** This is the dual role the scholar handoff earned — the suspect believed them. **Player loyalty is now load-bearing.** |
-| **3** morning + afternoon | S4 | Reader interviews #2 (A'lai, Alkrist, Teles, Kazryn, Bookwyrm). Physical evidence (Apothecary, Kitchens, Outfitters). Fembris breaks. **Milestone level-up to 9.** | **Peak interleave.** Trial of the Broken Mirror at the Sea Warden's Tower. Stations 5–8 of the Stroud Wake (+ Drakonoikos detour). Phase 3 Quiet Hour in the Reading Salon (Path C only). Yvenne's third sitting → bloodline-pattern observation. | **Plague worsens.** If Grygum has been treating her, she may surface as a witness for Bookwyrm's behavior; if not, she is bedridden. |
+| **3** morning + afternoon | S4 | Reader interviews #2 (A'lai, Alkrist, Teles, Kazryn, Bookwyrm). Physical evidence (Apothecary, Kitchens, Outfitters). Fembris breaks. **Milestone level-up to 9.** | **Peak interleave.** Trial of the Broken Mirror at the Sea Warden's Tower. Stations 5–8 of the Stroud Wake (+ Drakonoikos detour). Phase 3 Quiet Hour in the Reading Salon (Path C only). Yvenne's third sitting → bloodline-pattern observation. | **Plague worsens.** If Gyrgum has been treating her, she may surface as a witness for Bookwyrm's behavior; if not, she is bedridden. |
 | **3** evening | S5 | Day Two of mystery: Daral status, Kalan missing, three converging paths, **Bookwyrm dies.** | **Closing windows.** Yvenne final sitting (Fourth-Seat synthesis Investigation DC 20 available). Khell-Vire closing letter. Vareth Stations 9–10 + unsigned sting. Philemon prescription delivered + sealed letter (Path C). | **Path B: recruited as battlefield ally.** Walks to the Cursed Tower with the party. Or Paths A/C: bedridden / unaccounted for. |
 | **3** night | S6 | High Tower fight, wards drop, A'lai escapes, Manshoon arrives. | **Closed.** No new scholar content. | **Path B:** archmage in the field, dispels Moziqodo's binding (DC 19). Other paths: absent. |
 | **4** morning | S7 | Cryptogram race across the keep. **Planning-phase allies arrive:** Sylvira, Yvenne, Thava (via Vareth), Inda. Each ally appears *because of trust earned during scholar work.* | **The scholar work is now load-bearing for the climax.** Yvenne's planar-residue trace. Sylvira's two-clues-known shortcut. Vareth's F-A-D-E knowledge. Daral's Fustilugs etymology (if alive). | **Path B: still in field.** Returns to the Investigators' Office for the planning phase, having subdued Moziqodo. |
@@ -121,7 +121,7 @@ session and say what each PC is doing on *both* tracks.
 - **Don't try to answer a question in one scene.** Yvenne, Vareth, Khell-Vire, and Philemon all canonically work in *multiple sittings.* A single sitting moves the needle (one tick, one station, one tier, one phase) but does not close the question.
 - **Allow offstage scholar progress.** Between on-screen scenes, PCs can say *"I spent the afternoon with Yvenne"* — give them the next-tier reveal as narration without forcing a full scene. **Use this in Session 2** especially, where the murder consumes screen time but the scholars are still working.
 - **The mystery affects the scholars; the scholars affect the mystery.** Philemon is rattled because Janussi was his superior. Sylvira is suspected because the cover-up framed her. Vareth gossips loudly about who he thinks did it. Yvenne quietly compares Daz's posture to a grief reaction (it isn't). **Let these reactions surface during scholar scenes** — they earn double duty.
-- **A PC who never makes time for their scholar leaves with partial answers.** The big four (Daz, Zalthir, Thorin, Grygum) need *multiple* sittings to reach full payoff. **Glabbagool's question is single-shot;** it resolves in Session 1. Track each PC's scholar ticks/stations/phases per the ledger.
+- **A PC who never makes time for their scholar leaves with partial answers.** The big four (Daz, Zalthir, Thorin, Gyrgum) need *multiple* sittings to reach full payoff. **Glabbagool's question is single-shot;** it resolves in Session 1. Track each PC's scholar ticks/stations/phases per the ledger.
 - **The climax depends on what the scholars gave the party.** Session 7's cryptogram race uses the good-choice ledger — every shortcut there is a *cash-in* of multi-day scholar trust. A party who ignored scholars in favor of the mystery has the worst-case ledger and runs Session 7 long.
 
 ---
@@ -206,7 +206,7 @@ arc.
   - Daz: Vaelissa T'sarran's face in a mirror that isn't there.
   - Zalthir: Jimjar's voice — *"I am sorry I had to leave you."*
   - Thorin: Brysis's hand on the back of his neck.
-  - Grygum: **Bahamut absent.** Negative space where the god has
+  - Gyrgum: **Bahamut absent.** Negative space where the god has
     always been. **The single most frightening thing he has ever
     experienced.** Returns when the wave passes.
   - Glabbagool, through the crystal: *"Mother. Mother. Mother."*
@@ -233,7 +233,7 @@ vibes-based.**
 |---|---|
 | **Sylvira recruited (Path B, Session 5)** | She joins the Session 6 fight as an archmage ally; dispels Moziqodo's binding (DC 19 Arcana, +9, succeeds on 10). Returns to Session 7 with two free cryptogram clues — **Vydykyq** + **Limniz** — known from her own Abyss-research arcana training. |
 | **Yvenne trust ≥ 4 ticks (Daz earned)** | She offers a small ritual in Session 7: traces A'lai's `dimension door` planar residue down to the lava chamber. Party gets the destination without needing the full riddle (still need the Alaundo statue to enter). |
-| **Vareth / Drakonoikos goodwill (Grygum)** | **Thava Norixius** gives **Vydykyq** for free in Session 7. Vareth knows **Stars at Dawn** opens with F and ends F-A-D-E. |
+| **Vareth / Drakonoikos goodwill (Gyrgum)** | **Thava Norixius** gives **Vydykyq** for free in Session 7. Vareth knows **Stars at Dawn** opens with F and ends F-A-D-E. |
 | **Daral saved (Session 3)** | Daral as a witness in Session 5: *"I had that book in my hands before he died. I saw the lizardskin at the Evergreen Tree at four."* Provides Alkrist ID through a non-Bookwyrm channel. In Session 7: *"Fustilugs. Black Knight chess satire. Marble piece, Philosopher's Court."* One clue cut. |
 | **Khell-Vire's Watcher's Stillness (Zalthir earned the Severed Path)** | One free skirmish skip in Session 7 (passes through a raider position unseen). Advantage on the Vault `glyph of warding` Wis save in Session 8. |
 | **Glabbagool went to the Whispering Dome (Session 1)** | Banked Words-of-Inspiration boon — available for one cash-in in Session 8 (re-coax a partial Echo, or a one-PC mechanical buff per the locations supplement table). |
@@ -421,7 +421,7 @@ has **Abyssal Plague.** *"I did not kill him. I loved him."*
 **She believed the party yesterday about the demon lords.** The
 party owes her — and she's the prime suspect.
 
-**Optional Grygum beat:** DC 18 Medicine or `lesser restoration`
+**Optional Gyrgum beat:** DC 18 Medicine or `lesser restoration`
 to diagnose/treat the plague. Sylvira: *"You are not what I
 expected of a half-orc cleric."*
 
@@ -588,7 +588,7 @@ made it. I would know."*
   around us is learning the wrong things at speed."* Then
   shared-silence at the **Pont de Paramours** in the Grove.
   Most peaceful 10 minutes the party has had in months. Earned.
-- **Grygum / Vareth.** **Stations 5–8 of the Stroud Wake.**
+- **Gyrgum / Vareth.** **Stations 5–8 of the Stroud Wake.**
   Pizwog at 1 mph offering a religious tract that takes the
   whole scene to arrive. Optional **Drakonoikos detour for
   Station 9** — *and Alkrist works at Drakonoikos.* Vareth
@@ -754,7 +754,7 @@ Through the crystal: *"The mother voice came back. Pudding King.
 It said my name."* Pudding King is dead — **Juiblex is reaching.**
 Zalthir's protect-Glabbagool oath load-bearing. Options:
 Watcher's Stillness practice (Khell-Vire's discipline literally
-designed to refuse external voices), Grygum's Bahamut ward, both.
+designed to refuse external voices), Gyrgum's Bahamut ward, both.
 
 ### Beat 6: The Casketball Tournament (~20 min — optional)
 
@@ -789,7 +789,7 @@ crisis.
   `candlekeep_day_one.md` Lane 1/2/Half 2 sections.
 - **Zalthir / Khell-Vire — closing letter.** Standing
   correspondence sealed in front of Zalthir.
-- **Grygum / Vareth — Stations 9–10 + the unsigned sting.**
+- **Gyrgum / Vareth — Stations 9–10 + the unsigned sting.**
   *"He let you win, old friend."*
 - **Thorin / Philemon — prescription delivered.** Sealed letter
   banked if Path C.
@@ -1205,7 +1205,7 @@ OOTA load-bearing.** Run them one at a time. Don't pile-on.
 > lit in an age."*
 
 *Giant-raised dwarf* = Thorin. *Shadow-walker* = Zalthir. *His
-crow* = Daz. *His bright-blade* = Grygum / Dawnbringer.
+crow* = Daz. *His bright-blade* = Gyrgum / Dawnbringer.
 *Forge that has not lit in an age* = Gauntlgrym's primordial
 fire-forge.
 
@@ -1228,7 +1228,7 @@ Touching as non-evil = 8d6 necrotic.
 
 **If Manshoon didn't escape with it:** party choice — take it
 (Manshoon-pursuit thread), leave it (Avowed reseal), destroy it
-(Grygum arc available: `dispel evil and good` → `holy aura` →
+(Gyrgum arc available: `dispel evil and good` → `holy aura` →
 holy fire). **Don't push.**
 
 **If he did:** pedestal empty. Manshoon-pursuit thread active.
@@ -1301,7 +1301,7 @@ dwarf courier — not Eldeth herself — arrives.**
 | **Iron Bands of Bilarro** | with Sylvira / with party / abandoned in Vault |
 | **Polly Pocket** | kept in bag / Bell Tower cells / released as messenger to Vaelissa |
 | **Trophies claimed** | Iron Owlbear beak; Manshoon focus / metal-fingered glove (if dropped); Bookwyrm First Reader pendant; Janussi lead locket; A'lai vestment; Iron Bands fragment; Kalan Gatewarden pin; Alaundo gemstones (some / all) |
-| **OOTA scholar handouts confirmed** | Drow Material Culture (Daz); Watcher's Stillness + Severed Path technique (Zalthir); therapy ritual handout (Thorin — ⭐ Path C locked from Waterdeep ooze-rights stand + Dock Ward orphan-healing run); Stroud-Wake school choice + letters (Grygum); ⭐ **Glabbagool Way-of-Shadow monk sidekick stat block at L8** (`handouts/glabbagool_shadow_monk_sidekick.md`) |
+| **OOTA scholar handouts confirmed** | Drow Material Culture (Daz); Watcher's Stillness + Severed Path technique (Zalthir); therapy ritual handout (Thorin — ⭐ Path C locked from Waterdeep ooze-rights stand + Dock Ward orphan-healing run); Stroud-Wake school choice + letters (Gyrgum); ⭐ **Glabbagool Way-of-Shadow monk sidekick stat block at L8** (`handouts/glabbagool_shadow_monk_sidekick.md`) |
 | ⭐ **Glabbagool — Shadow Apprentice sidekick (L8, Zalthir's sidekick)** | Locked at the Whispering Dome, Day One. Tasha's Warrior chassis with Artificial Chakra. **Headline:** Corrosive Embrace (Zalthir-grapple synergy, 4d6 acid + armor strip, master takes no damage); Corrosive Surge (per-hit acid rider). Plus Shadow Arts, Shadow Step 60 ft, Flurry of Blows. Blindsight 60 ft, telepathy 60 ft, no speech. Gabe controls in combat. Permanent party composition change. Juiblex's reach mitigated by explicit non-ooze identity training. |
 | **Sealed letters banked** | Yvenne's Eilistraee circle introduction; Khell-Vire's lineage correspondence; Philemon's sealed letter (Path C only); Vareth's three Stroudite-cleric introduction letters; Sylvira's standing offer of Infernal Fortress consultation; **Fheminor's signed acknowledgment of debt as Keeper of Tomes** |
 | **Echoes heard** | Echo 1 (surface contamination); Echo 2 (wedding); Echo 3 (Gauntlgrym call); Echo 4 (Jimjar/Callarduran); GM-picked others |

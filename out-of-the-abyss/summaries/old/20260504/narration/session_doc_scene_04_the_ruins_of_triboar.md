@@ -1,7 +1,7 @@
 ---
 scene: 04
 slug: the_ruins_of_triboar
-narrator: Grygum
+narrator: Gyrgum
 scene_name: The Ruins of Triboar
 session: 20260504
 ---

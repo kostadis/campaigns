@@ -20,12 +20,12 @@
 
 ---
 
-## Issue 3: Grygum's Holmes quotation — recap says he "claims he made it up myself"
+## Issue 3: Gyrgum's Holmes quotation — recap says he "claims he made it up myself"
 
-- **Location:** Scene Summary (bullet 5); Verbatim Moments — Grygum quip
-- **Issue:** This is a real-world Sherlock Holmes quote ("Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth" — Arthur Conan Doyle). The recap records Grygum claiming authorship as an in-character gag. This is not a factual error about campaign canon per se, but it is an **ambiguous claim** that could confuse future sessions: if the quote is logged without context, a future editor might read it as Grygum's in-world original aphorism (which Elian then wanted to use). The recap should flag it as an out-of-universe reference played as in-character humor.
-- **Evidence:** No campaign document attributes this quote to Grygum or any in-world figure. It is a well-known real-world literary quotation.
-- **Suggested fix:** Add a bracketed editor note: *[OOC: this is the Sherlock Holmes aphorism; played as Grygum's in-character joke claiming original authorship. Not canon as Grygum's coinage in-world unless the table adopts it as such.]*
+- **Location:** Scene Summary (bullet 5); Verbatim Moments — Gyrgum quip
+- **Issue:** This is a real-world Sherlock Holmes quote ("Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth" — Arthur Conan Doyle). The recap records Gyrgum claiming authorship as an in-character gag. This is not a factual error about campaign canon per se, but it is an **ambiguous claim** that could confuse future sessions: if the quote is logged without context, a future editor might read it as Gyrgum's in-world original aphorism (which Elian then wanted to use). The recap should flag it as an out-of-universe reference played as in-character humor.
+- **Evidence:** No campaign document attributes this quote to Gyrgum or any in-world figure. It is a well-known real-world literary quotation.
+- **Suggested fix:** Add a bracketed editor note: *[OOC: this is the Sherlock Holmes aphorism; played as Gyrgum's in-character joke claiming original authorship. Not canon as Gyrgum's coinage in-world unless the table adopts it as such.]*
 
 ---
 
@@ -78,7 +78,7 @@
 |---|---|---|---|
 | 1 | Moderate | Summary bullet 2; Verbatim GM-as-Elian | Kalan's authorship of the paper obscured — described as a paper he "read" not wrote |
 | 2 | Minor | Summary bullets 2–3; Verbatim | Document called "scholarly paper" / "research paper" — should be "memorandum" |
-| 3 | Minor (ambiguity) | Summary bullet 5; Verbatim Grygum | Holmes quotation logged without flagging it as OOC humor / real-world quote |
+| 3 | Minor (ambiguity) | Summary bullet 5; Verbatim Gyrgum | Holmes quotation logged without flagging it as OOC humor / real-world quote |
 | 4 | Moderate | Summary bullets 3–4; Verbatim Thorin | Kalan described as "boss" without title; "fired" is factually wrong (sidelined/resignation-requested) |
 | 5 | Moderate | Summary bullet 4 | "Why Kalan was fired" as a plot thread — Kalan was not fired |
 | 6 | Minor (continuity) | Summary bullet 1; Verbatim polymorph tag | Polymorph timeline presented as newly discovered; it is an existing open thread |

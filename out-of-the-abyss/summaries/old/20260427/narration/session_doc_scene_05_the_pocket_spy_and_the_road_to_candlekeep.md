@@ -34,7 +34,7 @@ It was the most honest description of our mercy I could have asked for. She was 
 
 On the road, Thorin made sure she overheard him: "Those prayer beads are at full power, even though they're shrunken, right?"
 
-Grygum picked it up without missing a beat: "Yes, yes, in fact — I believe they may be more deadly."
+Gyrgum picked it up without missing a beat: "Yes, yes, in fact — I believe they may be more deadly."
 
 "They're more potent. Okay. Good to know."
 
@@ -42,7 +42,7 @@ I watched him say it with the mild interest I reserve for things that are techni
 
 ---
 
-Candlekeep required a book. This was not a problem for us. The problem, as Daz identified it, was which book — because we had, after months in the Underdark acquiring things from people who no longer needed them, accumulated more books than most surface libraries see in a decade. The list, when assembled: Princess Ebonmire's spellbook. Ilvara's prayer book with its Zuggtmoy marginalia, those careful notes documenting the corruption timeline she'd watched unfolding and apparently found worth recording. Asha Vandree's theological argument about Lolth and Zuggtmoy as equivalents — the document I'd watched her press into Grygum's hands. The Velkynvelve prisoner journal. Pliinki's journal from the Whirlstone Caverns, the one where a man had written carefully about helping birth a demonic monster and apparently thought this was worth documenting.
+Candlekeep required a book. This was not a problem for us. The problem, as Daz identified it, was which book — because we had, after months in the Underdark acquiring things from people who no longer needed them, accumulated more books than most surface libraries see in a decade. The list, when assembled: Princess Ebonmire's spellbook. Ilvara's prayer book with its Zuggtmoy marginalia, those careful notes documenting the corruption timeline she'd watched unfolding and apparently found worth recording. Asha Vandree's theological argument about Lolth and Zuggtmoy as equivalents — the document I'd watched her press into Gyrgum's hands. The Velkynvelve prisoner journal. Pliinki's journal from the Whirlstone Caverns, the one where a man had written carefully about helping birth a demonic monster and apparently thought this was worth documenting.
 
 I thought about Asha Vandree, briefly. The way she had looked through me the entire time we were in that room. I had been furniture; I had noticed the quality of her erasure without taking it personally, because it wasn't personal — it was structural, the way the Underdark is cold. You don't take the cold personally. The theological document she'd written would now unlock questions in one of the greatest libraries in the world. She would have hated that.
 
@@ -54,7 +54,7 @@ The ooze, apparently, was deeply confused by the concept of a library with finit
 
 Thorin pressed it anyway: "We give all five books, and we say — Glabbagool, you get one question. Make it count. And I'm really interested to see what he asks."
 
-Grygum said he was curious too.
+Gyrgum said he was curious too.
 
 Five books. Four of us and one ooze who had been in the dark of a bag for most of his conscious existence, watching a shrunken spy with one eye and trusting that the world above ground was worth seeing.
 

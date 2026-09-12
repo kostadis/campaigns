@@ -1,7 +1,7 @@
 ---
 scene: 04
 slug: investigations_in_janussi_s_chambers
-narrator: Grygum
+narrator: Gyrgum
 scene_name: Investigations in Janussi's Chambers
 session: 20260622
 ---

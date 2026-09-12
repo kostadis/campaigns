@@ -144,22 +144,22 @@ She wasn't wrong.
 
 
 ## Thorin — Tactical Preparations
-The mushroom thing — I want to be clear about the mushroom thing — the fates looked at Grygum and looked at me specifically. Both of us. The artifact sitting there like a dare, and the warning coming down with actual gravity: *do not touch it*. Grygum and I had both been where that road goes. I didn't need the long version. Neither did he. We both just said nothing, which for us was the equivalent of a blood oath.
+The mushroom thing — I want to be clear about the mushroom thing — the fates looked at Gyrgum and looked at me specifically. Both of us. The artifact sitting there like a dare, and the warning coming down with actual gravity: *do not touch it*. Gyrgum and I had both been where that road goes. I didn't need the long version. Neither did he. We both just said nothing, which for us was the equivalent of a blood oath.
 
 
 So I watched the others work through the plan instead.
 
 
-The crossbow came first, because I'm not going into something like this with nothing that reaches past ten feet. Grygum had a light crossbow. I asked him for it. Simple transaction, no drama — he handed it over and I checked the mechanism the way you check anything borrowed before a fight: pull the string, sight down it, make sure the person who owned it before you wasn't sloppy. He wasn't. That dwarf is okay.
+The crossbow came first, because I'm not going into something like this with nothing that reaches past ten feet. Gyrgum had a light crossbow. I asked him for it. Simple transaction, no drama — he handed it over and I checked the mechanism the way you check anything borrowed before a fight: pull the string, sight down it, make sure the person who owned it before you wasn't sloppy. He wasn't. That dwarf is okay.
 
 
-Then the party spread out the options on the table, or whatever the Underdark equivalent of a table is when you're crouched in the dark with a drow informant and a borrowed crossbow. Glyph of Warding. Dust of Suleiman. Phantasmal Killer. Fireball. Grygum had one 4th-level slot. Daz had one 4th-level slot. Those are not renewable resources in the next twenty minutes, so every piece of this had to land somewhere it mattered. I listened. I watched who spoke with certainty and who spoke with hedging. Zalthir said he could teleport directly to Ilvara — or grab her and move her somewhere unpleasant. I stored that. Teleportation as a weapon. Thorin files that away in the part of his brain labeled *useful people.*
+Then the party spread out the options on the table, or whatever the Underdark equivalent of a table is when you're crouched in the dark with a drow informant and a borrowed crossbow. Glyph of Warding. Dust of Suleiman. Phantasmal Killer. Fireball. Gyrgum had one 4th-level slot. Daz had one 4th-level slot. Those are not renewable resources in the next twenty minutes, so every piece of this had to land somewhere it mattered. I listened. I watched who spoke with certainty and who spoke with hedging. Zalthir said he could teleport directly to Ilvara — or grab her and move her somewhere unpleasant. I stored that. Teleportation as a weapon. Thorin files that away in the part of his brain labeled *useful people.*
 
 
 Asha laid out her terms, and I heard them clearly. She would not come in at the start. Once we initiated, she would hold the perimeter — anything coming from outside, she handles it. Which is fine. It's useful. But I know what it is. She's drow. She's going to fight this fight on her own schedule, at the angle that suits her. I don't hold that against her. I'd be lying if I said it didn't register.
 
 
-Then Grygum took the bridge.
+Then Gyrgum took the bridge.
 
 
 Jorlan's side. He moved to the crossing and started inscribing the Glyph of Warding into the stone itself, and I watched the whole process with the specific attention of someone who needs to *not step in that spot* when things start moving fast. The trigger: any hostile creature crossing. Invisible once finished. Patient in the way only traps can be patient, because they don't get tired. It went down into the rock and disappeared, and the bridge looked like a bridge again.
@@ -226,7 +226,7 @@ Below me, the battlefield was still happening. People were still fighting, or dy
 *She's angry at herself,* I noted, and filed it away, and watched.
 
 
-## Grygum — The Heart Fungus Retaliates
+## Gyrgum — The Heart Fungus Retaliates
 The cloud didn't drift. That was the first thing I noticed. Normal smoke drifts. Normal gas disperses. This hung in the cavern air like it had decided to stay — twenty feet of spore-thick poison, sitting in the middle of the battlefield as if it belonged there, as if it had always belonged there, as if *we* were the interlopers in its home.
 
 
@@ -303,10 +303,10 @@ Bahamut may or may not have been watching. I took notes either way.
 
 
 ## Thorin — The Glyph Detonates
-The Glyph was Grygum's idea, or at least Grygum's mouth. The placement was all of us. We'd laid it on the bridge like a welcome mat, and then the whole job was just: don't stand on it yourself, and wait.
+The Glyph was Gyrgum's idea, or at least Gyrgum's mouth. The placement was all of us. We'd laid it on the bridge like a welcome mat, and then the whole job was just: don't stand on it yourself, and wait.
 
 
-Grygum called out. "Come get it, idiot."
+Gyrgum called out. "Come get it, idiot."
 
 
 I will say this for Jorlan: he committed. The drow didn't hesitate, didn't slow — he came across that bridge like a man who had already decided the outcome. You have to respect that, a little, even when the outcome is about to be wrong for him. There's something almost giant-brained about that kind of certainty. Giants move like that. Big, direct, total confidence in the thing they've already decided. The problem is, giants are usually right about the terrain.
@@ -321,7 +321,7 @@ The Glyph fired.
 Force and light erupted outward in a sphere, the kind of detonation that doesn't care who's in the way. Twenty-one damage blooming through the cluster all at once — through the spore servants he'd brought across with him, through Jorlan himself. One servant came apart completely. Just gone. The others staggered; I watched one barely hold together, listing like a wall with one stone pulled from its base. And Jorlan took the full force. He hadn't cleared it in time, hadn't been fast enough, hadn't seen it coming the way you can't see it coming when you're already running at what you think is your prize.
 
 
-Grygum said, "Kaboom!" And then, with something like genuine surprise underneath it: "I didn't expect it to work."
+Gyrgum said, "Kaboom!" And then, with something like genuine surprise underneath it: "I didn't expect it to work."
 
 
 That's the thing about a plan that comes together. You stop expecting it, almost. You get tactical, you do the work, you lay the trap in exactly the right place — and then somewhere between placing it and watching it detonate, you forget to believe in yourself. Or maybe you just don't want to be disappointed. I understood it. I felt the same flicker of it, the half-second of *oh. Oh, that worked.*
@@ -376,7 +376,7 @@ I have found purpose. I am the feared mage of the Ember Vanguard.
 The irony is almost invisible, even to me.
 
 
-Grygum's voice cuts through the settling heat: *"That worked better than I had any right to expect."*
+Gyrgum's voice cuts through the settling heat: *"That worked better than I had any right to expect."*
 
 
 It's an honest assessment, and I appreciate honesty in tactical partners. Two spells, two priority targets hit, the fight still live but the math changed in our favour. Not a perfect outcome. The icon is still standing. Ilvara is still standing. But twelve points is twelve points and the board looks different than it did thirty seconds ago, and that is the only metric that has ever mattered.

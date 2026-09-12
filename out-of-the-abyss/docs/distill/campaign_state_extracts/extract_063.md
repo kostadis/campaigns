@@ -2,9 +2,9 @@
 
 **Sanctum Attack Aftermath (Chapter 59)** — Resolved. Three suits of animated armor (helmed horrors) that attacked the party in Gromph's-style sanctum lay destroyed in pieces. Confirmed to have come through a compromised ward, hunting the key in Daz's hand.
 
-**Detect Magic on the key — false key confirmed (Chapter 59)** — The key handed from Kalan Strongbranch → Grygum → Daz was proven to be a non-magical decoy. Daral Yashenti verified via Divine Sense/detect magic scroll that it reads as dead metal amid genuinely magical objects. Outcome: the party had never held a real key.
+**Detect Magic on the key — false key confirmed (Chapter 59)** — The key handed from Kalan Strongbranch → Gyrgum → Daz was proven to be a non-magical decoy. Daral Yashenti verified via Divine Sense/detect magic scroll that it reads as dead metal amid genuinely magical objects. Outcome: the party had never held a real key.
 
-**Battle in the Domed Rotunda / North Gallery (Chapter 59)** — Success. The pit fiend Moziqodo had grappled and was tearing apart Tadric when the party arrived. Thorin frightened the pit fiend with Dawnbringer (radiant), Zalthir stunned it with a stunning strike, and Thorin killed it before it could take a turn. Tadric was saved and healed by Grygum. Outcome: the beast slain, the boy alive, the real second key preserved.
+**Battle in the Domed Rotunda / North Gallery (Chapter 59)** — Success. The pit fiend Moziqodo had grappled and was tearing apart Tadric when the party arrived. Thorin frightened the pit fiend with Dawnbringer (radiant), Zalthir stunned it with a stunning strike, and Thorin killed it before it could take a turn. Tadric was saved and healed by Gyrgum. Outcome: the beast slain, the boy alive, the real second key preserved.
 
 ## Resolved Plot Threads
 

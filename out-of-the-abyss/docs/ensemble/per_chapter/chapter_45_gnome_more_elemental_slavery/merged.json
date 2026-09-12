@@ -47,7 +47,7 @@
     "type": "event",
     "subject": "arrival of Starlace with magical wares",
     "fact": "Starlace arrived with a shop full of magical wares, enabling the party to upgrade equipment and sell excess armor in a mutually satisfying negotiation.",
-    "source_quote": "a traveling merchant named Starlace arrived with a shop full of magical wares. The party took the opportunity to upgrade their equipment before the coming conflict. Zalthir purchased spectacles crafted from glowing crystal... Grygum had both his mace and shield enchanted... The party also sold some excess armor to Starlace, with both sides feeling satisfied with the negotiation.",
+    "source_quote": "a traveling merchant named Starlace arrived with a shop full of magical wares. The party took the opportunity to upgrade their equipment before the coming conflict. Zalthir purchased spectacles crafted from glowing crystal... Gyrgum had both his mace and shield enchanted... The party also sold some excess armor to Starlace, with both sides feeling satisfied with the negotiation.",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -200,7 +200,7 @@
   {
     "type": "event",
     "subject": "Equipment Upgrade at Starlace's Shop",
-    "fact": "The party upgraded their gear by purchasing magical items from Starlace, including spectacles for Zalthir and enchanted armor for Grygum, while selling excess equipment, with both sides satisfied with the trade.",
+    "fact": "The party upgraded their gear by purchasing magical items from Starlace, including spectacles for Zalthir and enchanted armor for Gyrgum, while selling excess equipment, with both sides satisfied with the trade.",
     "source_quote": "Both sides feeling satisfied with the negotiation.",
     "quote_verified": false,
     "passes": [
@@ -221,9 +221,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum had both his mace and shield enchanted with protective magic, significantly improving his defensive capabilities.",
-    "source_quote": "Grygum had both his mace and shield enchanted with protective magic, significantly improving his defensive capabilities.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum had both his mace and shield enchanted with protective magic, significantly improving his defensive capabilities.",
+    "source_quote": "Gyrgum had both his mace and shield enchanted with protective magic, significantly improving his defensive capabilities.",
     "quote_verified": true,
     "passes": [
       "interiority"
@@ -232,9 +232,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum supported this position from a religious perspective, invoking the will of the Gnomish gods.",
-    "source_quote": "Grygum supported this position from a religious perspective, invoking the will of the Gnomish gods.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum supported this position from a religious perspective, invoking the will of the Gnomish gods.",
+    "source_quote": "Gyrgum supported this position from a religious perspective, invoking the will of the Gnomish gods.",
     "quote_verified": false,
     "passes": [
       "interiority"
@@ -243,9 +243,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum's religious support",
-    "fact": "Grygum supported the opposition to elemental labor from a religious perspective, invoking the will of the Gnomish gods.",
-    "source_quote": "Grygum supported this position from a religious perspective, invoking the will of the Gnomish gods.",
+    "subject": "Gyrgum's religious support",
+    "fact": "Gyrgum supported the opposition to elemental labor from a religious perspective, invoking the will of the Gnomish gods.",
+    "source_quote": "Gyrgum supported this position from a religious perspective, invoking the will of the Gnomish gods.",
     "quote_verified": false,
     "passes": [
       "temporal"
@@ -705,8 +705,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum supported Thorin\u2019s position from a religious perspective, invoking the will of the Gnomish gods against enslaving summoned creatures, and had both his mace and shield enchanted with protective magic by Starlace.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum supported Thorin\u2019s position from a religious perspective, invoking the will of the Gnomish gods against enslaving summoned creatures, and had both his mace and shield enchanted with protective magic by Starlace.",
     "source_quote": "The Gnomish gods do not bless chains, even when forged from earth and will.",
     "quote_verified": false,
     "passes": [
@@ -716,8 +716,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum supported the opposition to elemental labor from a religious perspective, invoking the will of the Gnomish gods, and had both his mace and shield enchanted with protective magic by Starlace.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum supported the opposition to elemental labor from a religious perspective, invoking the will of the Gnomish gods, and had both his mace and shield enchanted with protective magic by Starlace.",
     "source_quote": "Invoking the will of the Gnomish gods.",
     "quote_verified": false,
     "passes": [
@@ -727,9 +727,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum supported this position from a religious perspective, invoking the will of the Gnomish gods.",
-    "source_quote": "Grygum supported this position from a religious perspective, invoking the will of the Gnomish gods.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum supported this position from a religious perspective, invoking the will of the Gnomish gods.",
+    "source_quote": "Gyrgum supported this position from a religious perspective, invoking the will of the Gnomish gods.",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -773,7 +773,7 @@
     "type": "npc",
     "subject": "Starlace",
     "fact": "Starlace arrived with a shop full of magical wares and sold excess armor to the party while purchasing spectacles and enchanted gear from them.",
-    "source_quote": "a traveling merchant named Starlace arrived with a shop full of magical wares. The party took the opportunity to upgrade their equipment before the coming conflict. Zalthir purchased spectacles crafted from glowing crystal... Grygum had both his mace and shield enchanted... The party also sold some excess armor to Starlace, with both sides feeling satisfied with the negotiation.",
+    "source_quote": "a traveling merchant named Starlace arrived with a shop full of magical wares. The party took the opportunity to upgrade their equipment before the coming conflict. Zalthir purchased spectacles crafted from glowing crystal... Gyrgum had both his mace and shield enchanted... The party also sold some excess armor to Starlace, with both sides feeling satisfied with the negotiation.",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -783,7 +783,7 @@
   {
     "type": "npc",
     "subject": "Starlace",
-    "fact": "Starlace, a traveling merchant, arrived with a shop full of magical wares and sold enchanted items to the party, including glowing crystal spectacles for Zalthir and protective enchantments for Grygum\u2019s mace and shield, while also purchasing excess armor from them.",
+    "fact": "Starlace, a traveling merchant, arrived with a shop full of magical wares and sold enchanted items to the party, including glowing crystal spectacles for Zalthir and protective enchantments for Gyrgum\u2019s mace and shield, while also purchasing excess armor from them.",
     "source_quote": "Both sides feeling satisfied with the negotiation.",
     "quote_verified": false,
     "passes": [
@@ -794,7 +794,7 @@
   {
     "type": "npc",
     "subject": "Starlace",
-    "fact": "Starlace, a traveling merchant, arrived with magical wares and sold glowing crystal spectacles to Zalthir and enchanted Grygum\u2019s mace and shield, while buying excess armor from the party in a mutually satisfying negotiation.",
+    "fact": "Starlace, a traveling merchant, arrived with magical wares and sold glowing crystal spectacles to Zalthir and enchanted Gyrgum\u2019s mace and shield, while buying excess armor from the party in a mutually satisfying negotiation.",
     "source_quote": "Fair trade \u2014 no magic, no lies.",
     "quote_verified": false,
     "passes": [
@@ -961,7 +961,7 @@
   {
     "type": "object",
     "subject": "Enchanted Mace and Shield",
-    "fact": "Grygum\u2019s mace and shield were enchanted with protective magic by Starlace, significantly improving his defensive capabilities in the coming battle against the Pudding King.",
+    "fact": "Gyrgum\u2019s mace and shield were enchanted with protective magic by Starlace, significantly improving his defensive capabilities in the coming battle against the Pudding King.",
     "source_quote": "Let the oozes come \u2014 they\u2019ll find stone where they expected flesh.",
     "quote_verified": false,
     "passes": [
@@ -972,8 +972,8 @@
   {
     "type": "object",
     "subject": "Enchanted Mace and Shield",
-    "fact": "Grygum\u2019s mace and shield were enchanted with protective magic by Starlace, significantly improving his defensive capabilities.",
-    "source_quote": "Grygum had both his mace and shield enchanted with protective magic, significantly improving his defensive capabilities.",
+    "fact": "Gyrgum\u2019s mace and shield were enchanted with protective magic by Starlace, significantly improving his defensive capabilities.",
+    "source_quote": "Gyrgum had both his mace and shield enchanted with protective magic, significantly improving his defensive capabilities.",
     "quote_verified": true,
     "passes": [
       "large",

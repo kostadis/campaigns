@@ -21,7 +21,7 @@
 - Faction: Party
 - Motivations/secrets: Seeking to free Entemoch and claim his boon
 
-**Grygum**
+**Gyrgum**
 - Current location: Summoning circle cavern (beyond White Shell Mine breach)
 - Current state: Active
 - Recent actions: Sensed the Galeb Duhr were waiting for divine authority; provided a blessing to aid Zalthir during the shadow maneuver
@@ -67,11 +67,11 @@
 
 ## Factions
 
-**The Party (Daz, Zalthir, Thorin, Grygum)**
+**The Party (Daz, Zalthir, Thorin, Gyrgum)**
 - Current goals: Complete the summoning ritual to free Entemoch and claim his boon; had previously sought rare lichen for anti-acid armor
 - Recent actions: Defeated a Shambling Mound; harvested rare lichen; unlocked Pickshine Mine by completing a Galeb Duhr resonance protocol; breached an impassable time-snagged wall in White Shell Mine; engaged two basilisks and began the three-part sacrifice ritual
 - Relationships: Received grudging reward from Dasco Pickshine; assisted gnomes of White Shell Mine
-- Key members: Daz, Zalthir (Shadow Monk), Thorin, Grygum
+- Key members: Daz, Zalthir (Shadow Monk), Thorin, Gyrgum
 
 **Zuggtmoy's Faction**
 - Current goals: Use oozes to "soften the shell" so her "garden" can "take root in the flesh beneath"
@@ -100,7 +100,7 @@
 - Zuggtmoy's voice echoed in the party's minds, communicating to the Pudding King her plan to use oozes to "soften the shell" so her garden could "take root in the flesh beneath."
 - The party arrived at Pickshine Mine and found four massive Galeb Duhr blocking the path, vibrating rhythmically.
 - Dasco Pickshine informed the party he had tried everything, including striking the Galeb Duhr with his pickaxe, to no avail.
-- Grygum sensed the Galeb Duhr were waiting for divine authority; Daz identified their vibrations as a linguistic pattern awaiting an echo.
+- Gyrgum sensed the Galeb Duhr were waiting for divine authority; Daz identified their vibrations as a linguistic pattern awaiting an echo.
 - Daz discovered resonant geodes, arranged them, and hummed to complete the ancient handshake protocol; the Galeb Duhr relaxed and opened the way.
 - Dasco Pickshine grudgingly rewarded the party with two ruby gems worth 500 gp.
 - The party followed the geode beacon deeper into the earth to the White Shell Mine.
@@ -108,7 +108,7 @@
 - Zalthir identified the phenomenon as magical pressure causing time to snag; recalled that breaking it directly would cause a catastrophic explosion.
 - The solution was identified: create a hole for the backlog of reality to pass through safely, achievable only by a Shadow Monk.
 - White Shell Mine gnomes provided specialized explosives for the operation.
-- Zalthir meditated, channeling frustration into the void; Grygum provided a blessing.
+- Zalthir meditated, channeling frustration into the void; Gyrgum provided a blessing.
 - Zalthir executed a perfect maneuver to redirect the magical blast through shadow space as the explosives detonated; the crystallite wall shattered without collapsing the tunnels.
 - The gnomes celebrated the success.
 - The party discovered a large cavern beyond the breach containing a summoning circle inscribed with runes in giant script.

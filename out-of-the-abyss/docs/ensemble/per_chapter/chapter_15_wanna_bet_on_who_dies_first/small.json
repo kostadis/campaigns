@@ -1,9 +1,9 @@
 [
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum witnessed the death of a two-headed stone giant at the hands of Duergar using a magical flame device, observed Thorin\u2019s attempt to subdue it, noted Daz\u2019s deliberate weakening of his spells, and heard Zalthir\u2019s fists and Thorin\u2019s blade striking the giant \u2014 ultimately rushing in to strike with his mace. He watched Thorin mourn the giant and saw the Duergar shrink to standard size after the giant\u2019s death.",
-    "source_quote": "Grygum looks at Daz, and then looks at the giant, and thinks, \u201cWell, I guess Daz chose to weaken his spell purposely.\u201d",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum witnessed the death of a two-headed stone giant at the hands of Duergar using a magical flame device, observed Thorin\u2019s attempt to subdue it, noted Daz\u2019s deliberate weakening of his spells, and heard Zalthir\u2019s fists and Thorin\u2019s blade striking the giant \u2014 ultimately rushing in to strike with his mace. He watched Thorin mourn the giant and saw the Duergar shrink to standard size after the giant\u2019s death.",
+    "source_quote": "Gyrgum looks at Daz, and then looks at the giant, and thinks, \u201cWell, I guess Daz chose to weaken his spell purposely.\u201d",
     "quote_verified": true
   },
   {
@@ -16,14 +16,14 @@
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir was focused on survival against being burned, crushed, or arrested. He encountered Gartokkar Xundorn, Custodian of the Flame and chief of the Keepers of the Flame, who offered him safe passage through Gracklstugh in exchange for a service. Gartokkar revealed the city\u2019s use of a fire dragon to fuel furnaces, misunderstood sarcasm about being a \u2018lighter,\u2019 and laughed at Grygum\u2019s joke about kindling. Zalthir was warned the offer expires tomorrow and that future encounters may not be friendly.",
+    "fact": "Zalthir was focused on survival against being burned, crushed, or arrested. He encountered Gartokkar Xundorn, Custodian of the Flame and chief of the Keepers of the Flame, who offered him safe passage through Gracklstugh in exchange for a service. Gartokkar revealed the city\u2019s use of a fire dragon to fuel furnaces, misunderstood sarcasm about being a \u2018lighter,\u2019 and laughed at Gyrgum\u2019s joke about kindling. Zalthir was warned the offer expires tomorrow and that future encounters may not be friendly.",
     "source_quote": "\u201cI am the Custodian of the Flame, the chief of the Keepers of the Flame, who tend to Themberchaud\u2019s needs.\u201d",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz cast magic that deliberately weakened the stone giant\u2019s defenses, as observed by Grygum. He expressed amusement at Gartokkar\u2019s description of the fire dragon as a \u2018lighter,\u2019 suppressing a snigger. He was intrigued by the mechanics of the dragon-fueled furnaces and the role of the Keepers of the Flame in Gracklstugh.",
+    "fact": "Daz cast magic that deliberately weakened the stone giant\u2019s defenses, as observed by Gyrgum. He expressed amusement at Gartokkar\u2019s description of the fire dragon as a \u2018lighter,\u2019 suppressing a snigger. He was intrigued by the mechanics of the dragon-fueled furnaces and the role of the Keepers of the Flame in Gracklstugh.",
     "source_quote": "Daz ask while holding down a snigger, \u201cSo he\u2019s a lighter?\u201d",
     "quote_verified": true
   },
@@ -100,15 +100,15 @@
   {
     "type": "event",
     "subject": "death of the two-headed stone giant",
-    "fact": "The two-headed stone giant was subdued by Thorin\u2019s attempts and Daz\u2019s weakening spells, struck by Zalthir and Grygum, and ultimately killed by a Duergar flame device. The event triggered Thorin\u2019s mourning, Grygum\u2019s intervention, and the Duergar\u2019s subsequent shrinking to standard size, indicating the completion of their ritual or magical transformation.",
+    "fact": "The two-headed stone giant was subdued by Thorin\u2019s attempts and Daz\u2019s weakening spells, struck by Zalthir and Gyrgum, and ultimately killed by a Duergar flame device. The event triggered Thorin\u2019s mourning, Gyrgum\u2019s intervention, and the Duergar\u2019s subsequent shrinking to standard size, indicating the completion of their ritual or magical transformation.",
     "source_quote": "The Duergar, unconvinced by Thorin\u2019s entreaties, kill the giant.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "shrinking of the Duergar",
-    "fact": "After the death of the stone giant, the Duergar who used the flame device shrank to their standard size, suggesting their enlarged forms were magically sustained during the confrontation and were temporary. This shift was observed by Grygum and marked the end of the immediate threat.",
-    "source_quote": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "fact": "After the death of the stone giant, the Duergar who used the flame device shrank to their standard size, suggesting their enlarged forms were magically sustained during the confrontation and were temporary. This shift was observed by Gyrgum and marked the end of the immediate threat.",
+    "source_quote": "Gyrgum looks up, and the enlarged Duergars have shrunk to their standard size.",
     "quote_verified": true
   },
   {
@@ -148,9 +148,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is an orc who sneaks peeks to gather intelligence, speaks with pragmatic humor, and is perceived as non-threatening despite his appearance. He is trusted by Daz as a companion in navigating dangerous social terrain.",
-    "source_quote": "Grygum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is an orc who sneaks peeks to gather intelligence, speaks with pragmatic humor, and is perceived as non-threatening despite his appearance. He is trusted by Daz as a companion in navigating dangerous social terrain.",
+    "source_quote": "Gyrgum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers.",
     "quote_verified": true
   },
   {
@@ -248,7 +248,7 @@
     "type": "location",
     "subject": "Darklake Brewery",
     "fact": "The Darklake Brewery is a closed establishment, accessible only to Duergar. It is a place of hushed conversations and covert information exchange, located just outside the Blade Bazaar. It is the site of key encounters with the halfling, Drow, and the Stone Guards.",
-    "source_quote": "The Brewery is closed to non-Duergar, and Daz is disappointed until Grygum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers.",
+    "source_quote": "The Brewery is closed to non-Duergar, and Daz is disappointed until Gyrgum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers.",
     "quote_verified": true
   },
   {

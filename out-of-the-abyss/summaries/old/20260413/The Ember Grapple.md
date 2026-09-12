@@ -150,7 +150,7 @@ That was a full turn spent on setup. The next turn, I would be free — and what
 
 It was not lost on me that "Zalthir ties things to the ground for Daz to cook" is not exactly the heroic narrative I had constructed for myself. I have killed an ettin with my hands. I dragged the Pudding King through his own throne room. And now here I am, discussing the correct knot.
 
-Grygum made a sound. Thorin said something about "the Ember Grapple." Someone — possibly Thorin again, possibly Grygum, it is hard to tell when they are both making noise — found this very funny.
+Gyrgum made a sound. Thorin said something about "the Ember Grapple." Someone — possibly Thorin again, possibly Gyrgum, it is hard to tell when they are both making noise — found this very funny.
 
 I did not correct it. The name was not wrong.
 

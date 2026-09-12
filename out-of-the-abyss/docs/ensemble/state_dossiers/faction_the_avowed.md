@@ -30,7 +30,7 @@ chapters: 56-61
 - Prematurely concluded investigation into the Alkrist safe, accepted a confession without evidence, and sealed the safe.  
 - Assigned Kalan to guard the sealed safe, unaware the contents were stolen.  
 - Accepted the Alkrist confession as conclusive, revealing systemic complacency.  
-- Mobilized members to monitor the Grygum debate, enforcing library security against strangers.  
+- Mobilized members to monitor the Gyrgum debate, enforcing library security against strangers.  
 - Manipulated the naming ceremony’s timing and procedure to elevate Bookwyrm’s authority under the guise of justice.  
 
 **Revealed motivations or secrets:**  

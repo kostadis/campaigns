@@ -12,7 +12,7 @@ First catalogued during the cleanup of
 | Wrong | Right |
 |---|---|
 | Zaltir, Zalter, Zaltier, Zeltar, Azaltier, Salter, Zaltura, Zoltir, Zoltier, Saltyr, Xalter, Altier, Zaltiera, Zalty, Zeltir, Zoltur, Zolt, Dissolt, Xeltier, Zaltzir, Dazaltir | **Zalthir** |
-| Gergam, Gregam, Greg, Grigam, Gergummy, Gregorum, Grygram, Grugum, Gurgum, Grigament, Graham, Gurgham, Girgam, Girgum, Graghum, Greggum, Jorgum, Gargram, Ragum, Gergen, Grigum, Gargan, Greibung, Gargum, Grigham | **Grygum** |
+| Grygum, Gergam, Gregam, Greg, Grigam, Gergummy, Gregorum, Grygram, Grugum, Gurgum, Grigament, Graham, Gurgham, Girgam, Girgum, Graghum, Greggum, Jorgum, Gargram, Ragum, Gergen, Grigum, Gargan, Greibung, Gargum, Grigham | **Gyrgum** |
 | Thorne, Thornton, Thurren, Or Torin, Thorian, Thorn, Farron | **Thorin** |
 | Adaz, Das, Dez, Dazz, Jazz, Doug, Raz, Gaz | **Daz** |
 | Dazes | **Daz's** |
@@ -96,7 +96,7 @@ First catalogued during the cleanup of
 | Strongbench, Stormbranch, Strong Branch | **Strongbranch** |
 | Firoon | **Faerûn** |
 | Menzo Baranzin | **Menzoberranzan** |
-| Gregor, Dragum | **Grygum** |
+| Gregor, Dragum | **Gyrgum** |
 | Eliana | **Elian** |
 | Helm Horror, Helm Torror, Helton Horror, Home Horror, Behound Horror, Hounded Horror, Caleb Sheet | **Helmed Horror** |
 | Helm Horrors, Helmed Aurors | **Helmed Horrors** |
@@ -140,8 +140,8 @@ First catalogued during the cleanup of
 | Blatwork | **Black Network** |
 | Zantarum, Zentarim, Centaurum, Zhantarum | **Zhentarim** |
 | Uthgart, Utgartian, Othgaritian | **Uthgardt** |
-| Grigumi School | **Grygumite School** |
-| Gurgumite | **Grygumite** |
+| Grygumite School, Grigumi School | **Gyrgumite School** |
+| Grygumite, Gurgumite | **Gyrgumite** |
 | Stradite School | **Stroudite School** |
 | Bahamitun School | **Bahamutian School** |
 | Gabe Warden, Gate Warden | **Gatewarden** |
@@ -235,7 +235,7 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 | Thorin (Joe), Joe Beda, Joe | **Thorin** |
 | Gabriel Tarasuk-Levin, Gabriel, Gabe | **Zalthir** |
 | Mike, Mike Hall | **Daz** |
-| Ben Pfaff, Ben Fath, Ben | **Grygum** |
+| Ben Pfaff, Ben Fath, Ben | **Gyrgum** |
 | Kostadis Roussos, Kostadis | **GM** |
 
 ## Non-name fixes (recorded for context, not a glossary entry)
@@ -244,10 +244,10 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 - "Melba" in "the Kostadis is Melba" — corrected to "mellow" (table-chatter mishearing).
 - "taught San to think" — corrected to "taught sand to think" (the "we taught sand to think" meme; not a campaign name).
 - "Moshiv" in "Zalthir's, Moshiv, is a 16" (20260720 session) — corrected to "initiative" (ASR mishearing during an initiative-order callout; confirmed by GM, not a campaign name).
-- 20260803 session, ordinary-speech garbles corrected as targeted edits (GM-confirmed, none are names): "the ultimate bad Benny" → "bad penny" (idiom, re Manshoon resurfacing); "Falked out" → "Freaked out"; "Sorry, is Moo" → "Sorry, it's moot"; "Rosie Finger Dawn" → "rosy-fingered Dawn" (Homer chatter re Dawnbringer's gender); "the corrosive Bluru" → "the corrosive brew" and "caustic burr"/"caustic Acid Brew" → "Caustic Brew" (Tasha's Caustic Brew, Grygum's Magic Initiate spell); "Blab of the World" → "Glabbagool"; "Global Goals Initiative" → "Glabbagool's initiative" (initiative callout); "clergy of Candle Keeper, the event" → "clergy of Candlekeep, the Avowed"; "Two Bonsai Candlekeep" → "The Avowed of Candlekeep" (GM-approved guess, no sibling coverage). "Alegos over here and he kills the thug" left as-is (identical garble in both transcriptions, phrase unrecovered).
+- 20260803 session, ordinary-speech garbles corrected as targeted edits (GM-confirmed, none are names): "the ultimate bad Benny" → "bad penny" (idiom, re Manshoon resurfacing); "Falked out" → "Freaked out"; "Sorry, is Moo" → "Sorry, it's moot"; "Rosie Finger Dawn" → "rosy-fingered Dawn" (Homer chatter re Dawnbringer's gender); "the corrosive Bluru" → "the corrosive brew" and "caustic burr"/"caustic Acid Brew" → "Caustic Brew" (Tasha's Caustic Brew, Gyrgum's Magic Initiate spell); "Blab of the World" → "Glabbagool"; "Global Goals Initiative" → "Glabbagool's initiative" (initiative callout); "clergy of Candle Keeper, the event" → "clergy of Candlekeep, the Avowed"; "Two Bonsai Candlekeep" → "The Avowed of Candlekeep" (GM-approved guess, no sibling coverage). "Alegos over here and he kills the thug" left as-is (identical garble in both transcriptions, phrase unrecovered).
 - **"the four of you look at her" (20260727 session, awkward-silence beat) — "her" is Dawnbringer. LEAVE IT.** GM-confirmed. Thorin establishes it on tape earlier the same session ("Dawnbringer is a she") and again later ("Dawnbringer herself"). The party deflects the job of telling Sylvira her son is dead by all looking at the sword — the GM's next line is "Passing the buck." **General rule: a sentient item with a gendered pronoun produces referent-less "her"/"she" that reads exactly like a transcription error.** The independent second transcription of this session "corrected" it to "at it", flattening the character into an object; a quote pass proposed "him". Both are wrong. Check whether a sentient item is in play before touching an orphan pronoun.
 
-- 20260824 session, `/staged-consistency` **stage 2** (scene extractions, 2026-08-27) — ordinary-word garbles corrected as targeted edits, all GM-confirmed or transcript-evident: `Rip-top A-plus` → **Tip-top A-plus** (Thorin complimenting the riddle scene); `Accrid` → **acrid**; `candyard` → **cavern**; `archaic conmen` → **archaic Common** (the language, on the vault's desk note); `okay, chorale moment` → **okay, corral moment**; `if Lala was going through me` → **if lava was going through me** (Grygum to the spectral dragon). Promoted to Phrase-fix rows in multi-word form so no single common word is ever the match target.
+- 20260824 session, `/staged-consistency` **stage 2** (scene extractions, 2026-08-27) — ordinary-word garbles corrected as targeted edits, all GM-confirmed or transcript-evident: `Rip-top A-plus` → **Tip-top A-plus** (Thorin complimenting the riddle scene); `Accrid` → **acrid**; `candyard` → **cavern**; `archaic conmen` → **archaic Common** (the language, on the vault's desk note); `okay, chorale moment` → **okay, corral moment**; `if Lala was going through me` → **if lava was going through me** (Gyrgum to the spectral dragon). Promoted to Phrase-fix rows in multi-word form so no single common word is ever the match target.
 
 ## Notes for future passes
 
@@ -259,7 +259,7 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 - **Common-word wrong-forms are case-insensitive landmines.** `apply_replacements.py` matches `\bwrong\b` with `re.IGNORECASE`, so single-word entries that double as English words will over-replace if they ever appear lowercase. Current risk rows added during the 20260618 pass: `Char`→**Shar**, `Gal`→**Daral**, `Katherine`→**Kazryn Nyantani**, `Logan`/`Levin`/`Lobin`/`Saloon`→**Leuwin**, `Oren`→**Orrin**. In the 20260618 transcript these appeared only capitalized, so it was safe — but grep for lowercase occurrences before applying the glossary to any future VTT. Added during the 20260622 pass: `Cal`/`Colin`→**Kalan**, `Oven`→**Orrin**, `Of`-style stray leaders excluded. The 20260622 transcript had no lowercase `cal`/`colin`/`oven`, so it was safe — re-check before future applies.
 - **20260720 pass — deliberately kept OUT of the glossary as common-word landmines** (applied as targeted edits to that one transcript instead, not blanket rows): `Mosquito` → **Moziqodo** (the insect meaning is a live risk in an Underdark-heavy campaign); `Ale` → **A'lai** (drink name). If either resurfaces as a genuine NPC/PC mis-hearing in a future transcript, re-grep for lowercase collisions before deciding whether to promote it to a real row.
 - **20260727 pass — `Dawn` → Dawnbringer was REMOVED from its row as a confirmed live landmine.** In the 20260728 transcript it fired on *"I had a girlfriend in high school named Dawn"* — a real person, not the sword. The independent second transcription of that session confirmed the reading. `Don Bringer`/`Don Brigger`/`Donbringer` etc. still catch the real cases; bare `Dawn` meaning the weapon is rare enough not to be worth the blast radius. Do not re-add it.
-- **20260727 pass — the `Ben` → Grygum row was rewritten to `Ben Pfaff, Ben Fath, Ben`.** As previously written (`Ben, Ben Pfaff (mis-transcribed *Ben Fath*)`) the parenthetical broke the wrong-form parse, so only bare `Ben` fired and every `Ben Pfaff:` speaker label became `Grygum Pfaff:` — 176 times in one transcript. `apply_replacements.py` sorts wrong-forms longest-first, so listing the full name explicitly makes it win. The standalone `Ben Fath` → **Ben Pfaff** row in *Real-world / table* was dropped at the same time: it recreated a `Ben Pfaff` that the later, shorter `Ben` rule then re-broke. **General rule: when a bare first name maps to a character, list the full "First Last" form in the same row — otherwise any rule that produces the full form gets re-broken by the bare one.** This is the mirror image of the never-map-a-bare-first-name-to-a-full-canonical rule, and the linter catches neither.
+- **20260727 pass — the `Ben` → Gyrgum row was rewritten to `Ben Pfaff, Ben Fath, Ben`.** As previously written (`Ben, Ben Pfaff (mis-transcribed *Ben Fath*)`) the parenthetical broke the wrong-form parse, so only bare `Ben` fired and every `Ben Pfaff:` speaker label became `Gyrgum Pfaff:` — 176 times in one transcript. `apply_replacements.py` sorts wrong-forms longest-first, so listing the full name explicitly makes it win. The standalone `Ben Fath` → **Ben Pfaff** row in *Real-world / table* was dropped at the same time: it recreated a `Ben Pfaff` that the later, shorter `Ben` rule then re-broke. **General rule: when a bare first name maps to a character, list the full "First Last" form in the same row — otherwise any rule that produces the full form gets re-broken by the bare one.** This is the mirror image of the never-map-a-bare-first-name-to-a-full-canonical rule, and the linter catches neither.
 - **20260803 pass — the `L.A.` wrong-form in the A'lai row was inert for months and is now FIXED at the applier level.** `apply_replacements.py` used to wrap every wrong-form in `\b…\b`, and a word boundary can never match after a trailing period followed by a space, so `L.A.` (and any other punctuation-edged form, e.g. `Glabagul-`) never fired. The script now uses edge-aware boundaries (2026-08-09), so the `L.A.` row is live from the next apply onward. Two cautions: (a) it is a Los Angeles landmine — if the table ever chats about the city as "L.A."/"l.a." the row will rewrite it, so keep greping before applies; (b) bare `LA` (no periods) is deliberately NOT a row (lowercase "la" in speech/Spanish/song is too common) — this session's bare-`LA` occurrences were fixed as targeted edits.
 - **`Bookworm`/`workworm` → Bookwyrm is a confirmed live landmine, not just a theoretical risk.** In the 20260721 transcript (`summaries/20260720/`), one instance of lowercase "bookworm" genuinely meant the common noun — describing Daral (bookish, freshly cured by Dawnbringer) glowing under Detect Magic, not the NPC Bookwyrm (who was dead and not in the room). The `/consistency-check` and `/session-summary-consistency` passes both had to catch and reverse this via context (Daral was present; Bookwyrm wasn't), not via the glossary. Keep the row for the many correct cases, but do not assume every "bookworm"/"workworm" hit is the NPC — check who's actually in the scene before accepting the glossary's replacement.
 
@@ -371,7 +371,7 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
   **The general lesson:** when the GM reads a *written* recap aloud, the wrong-form is a collapsed
   phrase rather than a mangled word, and it comes out looking like a name. Check any unfamiliar
   proper noun in a read-aloud passage against the prior session's summary text before believing it.
-  (d) `Evaldo` → *not corrected.* Grygum addresses the scholar as "Evaldo" one line after the GM first
+  (d) `Evaldo` → *not corrected.* Gyrgum addresses the scholar as "Evaldo" one line after the GM first
   says "Edvaldo Sedanur". Most likely a player repeating a name he had heard once, i.e. genuine speech,
   not an ASR error — so it stays as spoken. Do not add it to the `Edvaldo Sedanur` row.
 
@@ -467,7 +467,7 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 
 - 20260803 session, second pass (staged-consistency run, 2026-08-19). Name garbles resolved as
   targeted edits, all GM-confirmed: "Gogbugo" → **Glabbagool**; "Cisco" → **A'lai** (GM ruling —
-  "I don't trust Cisco anymore" is Grygum on the prisoner); bare "LA" / "a lay" → **A'lai**;
+  "I don't trust Cisco anymore" is Gyrgum on the prisoner); bare "LA" / "a lay" → **A'lai**;
   "a vowed wizard" → **Avowed** wizard; "half the about" → **the Avowed**; "You mean Zalthir?" →
   **Glabbagool** (the GM's own correction that follows only parses this way); "sticking in the
   middle of Zalthir" → **Glabbagool**. Ordinary-speech garbles: "KAK that thing away from me" →
@@ -510,7 +510,7 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
   **DO-NOT-CORRECT (GM rulings, 2026-08-25):**
   (c) scene 01, Thorin's one-word **"blue."** stands. A 0.5-second utterance the sibling transcript missed entirely, spoken
   the moment the GM finished describing the wall of force — the map token for it is blue. Plausible as captured; do not bracket it.
-  (d) scene 04, Zalthir's **"Great question."** stands. It answers Grygum's exclamation rather than a question, which is why it
+  (d) scene 04, Zalthir's **"Great question."** stands. It answers Gyrgum's exclamation rather than a question, which is why it
   reads oddly, but `voice/zalthir_voice.md` documents exactly this register ("dry enough to go unnoticed"). The sibling captures
   the lines on *both sides* of it and not this one, so nothing corroborates or contradicts it. Do not "fix" it to `[inaudible]`.
   **The lesson of this pass:** a third sweep finds almost nothing a glossary can hold. The first two passes take the recurring

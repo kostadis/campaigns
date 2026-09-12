@@ -7,13 +7,13 @@
 
 The battlefield had become a taxonomy problem.
 
-I run them through the list while ducking a crossbow bolt that misses me by what feels like courtesy: Ilvara, wounded and venomous, holding the center. Glabbagool surging forward, which I appreciate in a general sense. Grygum angling toward Asha. Jorlan — Jorlan, who we'd watched barrel through our lines screaming his former lover's name — apparently now someone else's problem. The Big Heart Fungus: already gone, carved apart by Thorin in the time it takes most people to decide whether to act. And the insects. Always the insects. Ilvara's plague fills the middle distance with biting, stinging, churning noise, a wall of biological interference that had begun to feel personal.
+I run them through the list while ducking a crossbow bolt that misses me by what feels like courtesy: Ilvara, wounded and venomous, holding the center. Glabbagool surging forward, which I appreciate in a general sense. Gyrgum angling toward Asha. Jorlan — Jorlan, who we'd watched barrel through our lines screaming his former lover's name — apparently now someone else's problem. The Big Heart Fungus: already gone, carved apart by Thorin in the time it takes most people to decide whether to act. And the insects. Always the insects. Ilvara's plague fills the middle distance with biting, stinging, churning noise, a wall of biological interference that had begun to feel personal.
 
 Five new drow stepped out of the shadows.
 
 Zalthir's voice, dry and somewhat delighted: "Five dark elves. That's awesome."
 
-Grygum, quieter: "This is turning into the twelve days of Christmas."
+Gyrgum, quieter: "This is turning into the twelve days of Christmas."
 
 I agreed, privately. House T'sarran markings — I clocked that before the first bolt cleared the bowstring. A rival house, then. Not Vandree, not Mizzrym. Someone who had apparently decided the chaos of this particular cavern represented an opportunity worth pursuing. The tactical reasoning was not without merit. The execution, however.
 
@@ -27,7 +27,7 @@ I should have felt threatened. Instead I felt something closer to embarrassment 
 
 They looked a little too smug, too sure of themselves — the posture of people who had planned an ambush and not yet updated their confidence to reflect that the ambush was actively being digested by magical insects. They would update. The insects were thorough. But in that moment they still had the bearing of professionals arriving to collect, and the shots went wide, and I noted it the way you note a poorly shuffled deck: the tell is in the hands.
 
-Grygum was already offering healing. Thorin somewhere behind me, navigating what he'd called the worst map in the Underdark. Asha Vandree praying to Lolth or preparing to pray or preparing to accuse someone of not praying — the volatility of her devotion made her difficult to predict on a round-by-round basis, which was the primary management problem I had been handling since before the fight started.
+Gyrgum was already offering healing. Thorin somewhere behind me, navigating what he'd called the worst map in the Underdark. Asha Vandree praying to Lolth or preparing to pray or preparing to accuse someone of not praying — the volatility of her devotion made her difficult to predict on a round-by-round basis, which was the primary management problem I had been handling since before the fight started.
 
 Then Kaelira stepped out of nowhere and walked directly into the insect cloud.
 

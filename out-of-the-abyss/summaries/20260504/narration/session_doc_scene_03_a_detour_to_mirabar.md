@@ -24,15 +24,15 @@ Stroud was everywhere.
 
 That was the other thing. A bronze bust of him at the Smiths Guildhall, catching the forge-light at a flattering angle. A tavern called The Knight Beneath the Knight, which I found either clever or insufferable depending on how charitable I was feeling. And in the corner of the market, a polemicist — a traveling one, the kind who carries his convictions in a satchel and deploys them wherever he finds an audience — preaching mortal agency to anyone within earshot.
 
-He found Grygum immediately. They always do.
+He found Gyrgum immediately. They always do.
 
 "Brother, have you heard the witness call? Are you walking the road for Stroud?"
 
-I watched Grygum's face do the thing it does when he is weighing whether an entity is useful or merely sincere. He is better at concealing this than most people. He is not as good at it as he thinks.
+I watched Gyrgum's face do the thing it does when he is weighing whether an entity is useful or merely sincere. He is better at concealing this than most people. He is not as good at it as he thinks.
 
-The polemicist was Stroudite in the specific sense — mortal agency as the decisive force, Protanther's neutrality a myth, the Bahamutian framework a comfortable fiction. He was organized and committed and had clearly had this argument many times before. When Grygum replied that he stood for "strength and luck," the man did not flinch. He just identified this as the Bahamutian hypothesis in another hat and kept moving.
+The polemicist was Stroudite in the specific sense — mortal agency as the decisive force, Protanther's neutrality a myth, the Bahamutian framework a comfortable fiction. He was organized and committed and had clearly had this argument many times before. When Gyrgum replied that he stood for "strength and luck," the man did not flinch. He just identified this as the Bahamutian hypothesis in another hat and kept moving.
 
-When Grygum pressed him — *but who really won in the end? The dragons* — the polemicist wasn't moved. He handed over a pamphlet instead. *Stroud and the Human Agency Hypothesis: A Critique — Dragons and Gods Do Not Rule.* Grygum accepted it. I watched him verify that it was divided into paragraphs before he committed to keeping it. He is, in his own way, methodical.
+When Gyrgum pressed him — *but who really won in the end? The dragons* — the polemicist wasn't moved. He handed over a pamphlet instead. *Stroud and the Human Agency Hypothesis: A Critique — Dragons and Gods Do Not Rule.* Gyrgum accepted it. I watched him verify that it was divided into paragraphs before he committed to keeping it. He is, in his own way, methodical.
 
 I noticed the texture of this without fully processing it until later. The factionalism wasn't about whether Stroud mattered. Everyone in Mirabar had clearly already decided Stroud mattered. The argument was about *why* — about the mechanism. Bahamut's hand or mortal will. Protanther's strategy or Stroud's choice. The distinction felt important to people who had very strong feelings about where credit was due.
 
@@ -48,11 +48,11 @@ I stood in front of it longer than I intended to.
 
 I had thought of him as a chronicler. A writer who was also, incidentally, an adventurer who had done significant things. Looking at that painting — the competence of it, the restraint of it, the fact that it had survived this long — I recalibrated. He was a chronicler the way I am a mage: the label is accurate and also substantially incomplete.
 
-Grygum, to his credit, asked the useful question. "What does it mean to vindicate nature?"
+Gyrgum, to his credit, asked the useful question. "What does it mean to vindicate nature?"
 
 Thorin told him, with great confidence, that this question revealed an insufficient connection to nature.
 
-Grygum buried himself in his pamphlet. I made a note.
+Gyrgum buried himself in his pamphlet. I made a note.
 
 Thorin circled back to something practical — he'd been looking at the armor vendors since we arrived, and Mirabar was, if you were going to acquire dwarven-made equipment, precisely the city in which to do it. He had chainmail. He had a shield. He began asking, in the methodical way he approaches resource acquisition, what the appropriate upgrade path was for a dwarf of his build in a city that had clearly been thinking about this question for generations.
 

@@ -8,9 +8,9 @@ The party pressed their advantage from the previous session, completing Daz's el
 
 Daz's initial gambit — presenting himself as a divine vessel of Lolth — began to unravel under Asha's sharp theological scrutiny. A drow cleric of Lolth, she knew that the Spider Queen does not speak directly through male magic users. Daz pivoted instantly, recasting himself as a delusional wizard who merely believes he communes with Lolth, and presenting his companions as followers who indulge his madness. The adjustment worked. Asha, more interested in useful allies than theological purity, accepted the party and laid out what she knew: Ilvara had been fully corrupted by Zuggtmoy's influence through a mushroom artifact brought back from Neverlight Grove, and the Big Heart Fungus at the center of the cavern was her primary weapon. Asha had survived only by maintaining twenty feet of distance from Ilvara and eating her own food. She wanted Ilvara dead and the mushroom destroyed, and offered the matron's magical items as payment. Glabbagool, introduced as Daz's unusual ooze familiar, drew a moment of surprised admiration from the priestess before the party moved on to planning.
 
-The party used the hour before combat to lay a Glyph of Warding on the bridge on Jorlan's side of the cavern. When combat began, Zalthir teleported directly to Ilvara, struck her twice for thirty-one damage, and locked her in a grapple — intending to carry her into Grygum's Dust of Suleiman. Ilvara used a legendary action to melt into the fungal matter beneath her feet and reappear out of reach, screaming in fury. The Big Heart Fungus responded by erupting a cloud of poison spores that caught Zalthir in its radius; he failed the Constitution save and flew upward ten feet to clear the cloud, poisoned and hovering.
+The party used the hour before combat to lay a Glyph of Warding on the bridge on Jorlan's side of the cavern. When combat began, Zalthir teleported directly to Ilvara, struck her twice for thirty-one damage, and locked her in a grapple — intending to carry her into Gyrgum's Dust of Suleiman. Ilvara used a legendary action to melt into the fungal matter beneath her feet and reappear out of reach, screaming in fury. The Big Heart Fungus responded by erupting a cloud of poison spores that caught Zalthir in its radius; he failed the Constitution save and flew upward ten feet to clear the cloud, poisoned and hovering.
 
-Ilvara summoned four drow spore servants from the cavern floor — former Velkynvelve guards, now mindless fungal automatons. Thorin called out to Jorlan, luring the bitter warrior across the bridge; the Glyph detonated for twenty-one damage, destroying one servant outright and badly wounding Jorlan and two others. Thorin pressed forward and struck Jorlan with Dawnbringer, landing a critical hit, before applying his Sap maneuver to leave Jorlan at disadvantage. Grygum centered Dust of Suleiman on the Big Heart Fungus for twenty force damage. Daz shaped a fourth-level Fireball to land between Ilvara and the Zuggtmoy icon — Ilvara saved but still took twelve damage, and the icon took the same. The session ended mid-combat, the battlefield reshaped but the fight far from over.
+Ilvara summoned four drow spore servants from the cavern floor — former Velkynvelve guards, now mindless fungal automatons. Thorin called out to Jorlan, luring the bitter warrior across the bridge; the Glyph detonated for twenty-one damage, destroying one servant outright and badly wounding Jorlan and two others. Thorin pressed forward and struck Jorlan with Dawnbringer, landing a critical hit, before applying his Sap maneuver to leave Jorlan at disadvantage. Gyrgum centered Dust of Suleiman on the Big Heart Fungus for twenty force damage. Daz shaped a fourth-level Fireball to land between Ilvara and the Zuggtmoy icon — Ilvara saved but still took twelve damage, and the icon took the same. The session ended mid-combat, the battlefield reshaped but the fight far from over.
 
 ## Memorable Moments
 
@@ -46,11 +46,11 @@ Ilvara summoned four drow spore servants from the cavern floor — former Velkyn
 
 ### Tactical Preparations
 #### The party plans the assault and places a Glyph of Warding on the bridge.
-- Party discusses options: Glyph of Warding, Dust of Suleiman, Phantasmal Killer, Fireball — all 4th-level slots, only one available for Grygum and Daz each.
+- Party discusses options: Glyph of Warding, Dust of Suleiman, Phantasmal Killer, Fireball — all 4th-level slots, only one available for Gyrgum and Daz each.
 - Zalthir notes he can teleport directly to Ilvara or grab her and drop her into a hazard.
-- Grygum and Thorin are warned by the GM not to touch the mushroom artifact — both previously encountered Zuggtmoy.
-- Thorin borrows Grygum's light crossbow as a ranged backup.
-- Grygum inscribes a Glyph of Warding on the bridge on Jorlan's side, triggered to detonate on a hostile creature crossing it.
+- Gyrgum and Thorin are warned by the GM not to touch the mushroom artifact — both previously encountered Zuggtmoy.
+- Thorin borrows Gyrgum's light crossbow as a ranged backup.
+- Gyrgum inscribes a Glyph of Warding on the bridge on Jorlan's side, triggered to detonate on a hostile creature crossing it.
 - Asha confirms she will wait to enter combat until after the party initiates, then defend against outside threats.
 
 ### Zalthir Opens the Fight
@@ -78,8 +78,8 @@ Ilvara summoned four drow spore servants from the cavern floor — former Velkyn
 - A spore servant uses a legendary action to attack Thorin: natural 1 on the first swing, hits for 5 on the second.
 
 ### Concentrated Fire
-#### Grygum hits the Big Heart Fungus; Daz shapes a Fireball onto Ilvara and the Zuggtmoy icon.
-- Grygum casts Dust of Suleiman centered on the Big Heart Fungus: 20 force damage, no save.
+#### Gyrgum hits the Big Heart Fungus; Daz shapes a Fireball onto Ilvara and the Zuggtmoy icon.
+- Gyrgum casts Dust of Suleiman centered on the Big Heart Fungus: 20 force damage, no save.
 - Daz casts Fireball at 4th level (8d6), using Sculpt Spells to exclude Zalthir and Thorin.
 - Centered between Ilvara and the Zuggtmoy icon on her platform.
 - Ilvara saves (rolled 19 vs DC 15) and takes 12 damage. The Zuggtmoy icon takes 12 damage.
@@ -107,13 +107,13 @@ Ilvara summoned four drow spore servants from the cavern floor — former Velkyn
 
 **Zuggtmoy Mushroom Icon** — Small green mushroom token carried by Ilvara, source of the fungal corruption spreading through her followers. Took 12 fire damage from Daz's Fireball. Must be destroyed to prevent another from picking it up.
 
-**Glyph of Warding** — Inscribed by Grygum on the bridge leading from Jorlan's side; detonated for 21 damage in a 20-foot sphere.
+**Glyph of Warding** — Inscribed by Gyrgum on the bridge leading from Jorlan's side; detonated for 21 damage in a 20-foot sphere.
 
 **Dawnbringer** — Thorin's radiant longsword; used to strike Jorlan (critical hit, 14 damage).
 
 ## Spells
 
 - **Dancing Lights** (Daz) — Used to simulate a Lolth visitation for Asha; light column absorbed into Daz's body as part of the deception.
-- **Glyph of Warding** (Grygum) — 3rd-level; inscribed on bridge; detonated for 21 damage.
-- **Dust of Suleiman** (Grygum) — 4th-level; 20-foot sphere centered on Big Heart Fungus; 20 force damage per turn, concentration.
+- **Glyph of Warding** (Gyrgum) — 3rd-level; inscribed on bridge; detonated for 21 damage.
+- **Dust of Suleiman** (Gyrgum) — 4th-level; 20-foot sphere centered on Big Heart Fungus; 20 force damage per turn, concentration.
 - **Fireball** (Daz) — 4th-level (8d6); Sculpt Spells used to exclude allies; 12 damage to Ilvara (saved) and Zuggtmoy icon.

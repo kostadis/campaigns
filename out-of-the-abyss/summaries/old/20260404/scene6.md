@@ -3,7 +3,7 @@
 
 ---
 
-## Grygum — The Fall of Ilvara
+## Gyrgum — The Fall of Ilvara
 
 The bolt left my hand like a prayer I meant.
 

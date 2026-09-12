@@ -2,7 +2,7 @@
 
 **Alkrist's confession extracted (Chapter 58)** — Alkrist confessed, under Kalan Strongbranch's Zone of Truth, to killing Janussi (poison). Outcome: success. The party obtained a compelled confession plus physical evidence (the extracted heart, the cleaver/poison, the stolen book). Consequence: Alkrist is finished — implicated as the poisoner and murderer.
 
-**Ambush of the Helmed Horrors (Chapter 58)** — Three helmed horrors crashed through the windows of Deneir's Sanctum and attacked the party, targeting Daz and then Grygum. Outcome: success — all three destroyed, reduced to piles of rust and plate. They were hunting a specific inert key (magically undetectable) that Daz carried; the assassins tracked the key itself, not a person. Consequence: someone deliberately chose mouthless, mindless assassins so no one could be interrogated afterward.
+**Ambush of the Helmed Horrors (Chapter 58)** — Three helmed horrors crashed through the windows of Deneir's Sanctum and attacked the party, targeting Daz and then Gyrgum. Outcome: success — all three destroyed, reduced to piles of rust and plate. They were hunting a specific inert key (magically undetectable) that Daz carried; the assassins tracked the key itself, not a person. Consequence: someone deliberately chose mouthless, mindless assassins so no one could be interrogated afterward.
 
 **Opening of Alkrist's safe (Chapter 58)** — The Avowed forced open Alkrist's safe. Contents: a potion of flying, a potion of superior healing, a purse of gold, and a joke "red herring" coin. Outcome: nothing further implicating Alkrist; the safe was declared of no interest and re-sealed. Zalthir covertly stole the potion of flying using Glabbagool's arm while the room was distracted.
 

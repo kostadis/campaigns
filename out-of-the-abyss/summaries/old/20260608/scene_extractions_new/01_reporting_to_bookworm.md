@@ -28,20 +28,20 @@ source: gmassist
 **[Fembris Lancer]** — *via GM, on the obligation to report*
 > "well, I think it's important that we need to go, we need to go back to the great, the chapter house and talk to a Bookwyrm, to give her a summary of what happens. After all, don't forget, that is exactly what she asked us to do, to provide a summary of the events."
 
-**Grygum** — *questioning the mandate*
+**Gyrgum** — *questioning the mandate*
 > "true? I thought we were asked to find out what…"
 > "Well, I guess summarizing the events is pretty much the same as finding out who did it from one."
 
 **Daz**
 > "I thought, yeah, we had to find out who…"
 
-**Grygum** — *self-deprecating detective banter*
+**Gyrgum** — *self-deprecating detective banter*
 > "I would make a bad detective, because I don't have a perfect memory. All the fictional detectives have perfect memories."
 
 **Thorin**
 > "I don't know if they do, I think real detectives just write everything down."
 
-**Grygum**
+**Gyrgum**
 > "Poirot never does."
 
 **Thorin**
@@ -50,7 +50,7 @@ source: gmassist
 **GM** — *recalling Bookwyrm's standing instruction*
 > "She asks you to… asks you to report back to her as soon as you are done investigating Janussi's room."
 
-**Grygum**
+**Gyrgum**
 > "Alright, then let's go back. We've talked to the cat, and we've investigated the room, and it's…"
 
 **[Who do we work for — clarifying the chain of command]**
@@ -58,7 +58,7 @@ source: gmassist
 **Thorin**
 > "Claire, who are we working for, exactly?"
 
-**Grygum**
+**Gyrgum**
 > "justice."
 
 **GM**
@@ -71,7 +71,7 @@ source: gmassist
 **GM**
 > "Bookwyrm."
 
-**Grygum**
+**Gyrgum**
 > "Then we're working for Bookwyrm."
 
 **Thorin** — *flagging Bookwyrm is not above suspicion*
@@ -94,7 +94,7 @@ source: gmassist
 
 **[The eavesdrop attempt — perception rolls]**
 - The GM asks the party to roll perception to overhear the conference.
-- Grygum's die plugin misfires; he rolls an 11.
+- Gyrgum's die plugin misfires; he rolls an 11.
 - Thorin's roll comes up twice after a reload; he takes the first roll of 19 ("Let's go with the 19, I like that one better, and it was first").
 - The GM rules they go with the first roll.
 
@@ -110,7 +110,7 @@ source: gmassist
 **Bookwyrm** — *via GM*
 > "so, very serious, have you concluded your investigation of the crime scene?"
 
-**Grygum**
+**Gyrgum**
 > "Yes, we did investigate. We examined the body, we examined the room, we spoke to, the occupants."
 
 **Thorin**
@@ -151,19 +151,19 @@ source: gmassist
 > "I mean, it's nice and all to offer up that, like, we can use the office, and that they'll go fetch people, and all of those sorts of things, but it's also a little suspect."
 > "Like, maybe they're involved, and somehow…"
 
-**Grygum**
+**Gyrgum**
 > "It doesn't seem just friendly."
 
 **Daz**
 > "What's that, Ben?"
 
-**Grygum**
+**Gyrgum**
 > "It doesn't seem just friendly."
 
 **Daz**
 > "It could be just friendly."
 
-**Grygum**
+**Gyrgum**
 > "I mean, it could be that they genuinely want to get to the bottom of this."
 
 **Daz**
@@ -215,7 +215,7 @@ source: gmassist
 > "One of the things that, one of the vibes that you did get from Bookwyrm, was that…"
 > "She definitely wanted you guys to go talk to Sylvira Savikas."
 
-**Grygum**
+**Gyrgum**
 > "I think it makes a lot of sense. Somebody was impersonating her, and she might have an idea who…"
 
 **[Deciding whether to split the party]**
@@ -226,13 +226,13 @@ source: gmassist
 **Thorin** — *preferring to stay together for intimidation value*
 > "I like us sticking together, I just think it's more imposing to have all, like, you know, 4, 5, 7, 8, 10 of us show up in a room."
 
-**Grygum**
+**Gyrgum**
 > "Well, I feel like at this point, we should start out the investigation together. Maybe at some point, we'll, you know, there'll be two people we want to go see at once."
 
 **GM** — *offering the split*
 > "Now, you can split up, in which case, you know, we will… you can have more interviews, but, you know, splitting the party has its positives and minuses."
 
-**Grygum** — *proposing the split into work streams*
+**Gyrgum** — *proposing the split into work streams*
 > "Okay, well, what if, what if a couple of us go look up the poison, and the others go to interview Sylvira Savikas?"
 
 **GM**

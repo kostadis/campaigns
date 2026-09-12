@@ -6,9 +6,9 @@ Focus: Daz documents everything and processes threat through pattern recognition
 
 - Fembris is described as a commoner — enthusiastic and boyish — visibly out of breath.
 
-- Grygum opens the door, privately relieved that he is not being asked to become the new Keeper of Tomes himself.
+- Gyrgum opens the door, privately relieved that he is not being asked to become the new Keeper of Tomes himself.
 
-- The party had a long rest and is fully refreshed. Grygum notes he has not quite thought through what orcs wear to bed.
+- The party had a long rest and is fully refreshed. Gyrgum notes he has not quite thought through what orcs wear to bed.
 
 - Glabbagool takes stock of the situation and tucks himself into the bag of holding, eyeballs peering out, as the party sets off.
 
@@ -23,7 +23,7 @@ Focus: Daz documents everything and processes threat through pattern recognition
 GM: "you wake up in the morning, and somebody's banging at the door."
 
 <!-- reacting -->
-Grygum: "Banging at the door."
+Gyrgum: "Banging at the door."
 
 <!-- confirming -->
 GM: "Yes."
@@ -37,26 +37,26 @@ GM: "he, he, he, he says, he says... And he says... That you must head… we mus
 GM: "Quick! He's a, he's a, he's, a commoner, he's enthusiastic… no, yeah, commoner, enthusiastic, boyish, He looks very, you know, excited. And he says... The first reader sent me! The Keeper of Tomes is dead! She wants you! Now, through the emerald door, before the avowed awake!"
 
 <!-- reacting to the news -->
-Grygum: "The Keeper of Tomes?"
+Gyrgum: "The Keeper of Tomes?"
 
 <!-- clarifying -->
 GM: "Tomes, tomes. It's one of the chief readers."
 
 <!-- processing -->
-Grygum: "Oh."
+Gyrgum: "Oh."
 
-### [Grygum's Private Relief]
+### [Gyrgum's Private Relief]
 
 <!-- aside, OOC -->
-Grygum: "Gergamum has this lurking suspicion that he's going to be asked to become the new Keeper of Tomes, and he's preparing to decline politely."
+Gyrgum: "Gergamum has this lurking suspicion that he's going to be asked to become the new Keeper of Tomes, and he's preparing to decline politely."
 
 ### [The Party Stirs]
 
 <!-- confirming they follow -->
-Grygum: "Let's… let's go. Alright. I, I… I don't know. put on my clothes, or whatever it is, I have not… Thought about what to… orcs were to bed, so…"
+Gyrgum: "Let's… let's go. Alright. I, I… I don't know. put on my clothes, or whatever it is, I have not… Thought about what to… orcs were to bed, so…"
 
 <!-- checking rest status -->
-Grygum: "I'm going to guess that we had a long rest."
+Gyrgum: "I'm going to guess that we had a long rest."
 
 <!-- confirming -->
 GM: "Yes, everybody had a long rest."

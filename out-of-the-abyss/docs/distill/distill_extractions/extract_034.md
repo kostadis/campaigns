@@ -1,6 +1,6 @@
 ## NPCs
 
-**Grygum**
+**Gyrgum**
 - Current location: Underdark, travelling toward Blingdenstone
 - Current state: Active, unafflicted by spore madness
 - Recent actions: Watched the mock wedding procession, received a vision of Zuggtmoy being prepared for her wedding, retreated from Yggmorgus, attempted to convince Basidia to flee, convinced Rump-a-dump and Stool to leave the Neverlight Grove, took part in the escape
@@ -17,7 +17,7 @@
 **Zalthir**
 - Current location: Underdark, travelling toward Blingdenstone
 - Current state: Active; recovered from temporary spore-induced madness
-- Recent actions: Looted the entirety of Xinaya's corpse including scrolls before others could act; refused to share scrolls with Grygum; was cured by Dawnbringer's lesser restoration; grappled Basidia and dragged them away from Phylo to safety; worried about infection in Stool and Rump-a-dump; received a fifty-point critique from Rump-a-dump before parting
+- Recent actions: Looted the entirety of Xinaya's corpse including scrolls before others could act; refused to share scrolls with Gyrgum; was cured by Dawnbringer's lesser restoration; grappled Basidia and dragged them away from Phylo to safety; worried about infection in Stool and Rump-a-dump; received a fifty-point critique from Rump-a-dump before parting
 - Faction: Player party
 - Notes: Was deeply worried about losing his mind; ironically was the one afflicted
 
@@ -43,7 +43,7 @@
 **Pelek**
 - Current location: Neverlight Grove (last seen); status unclear after escape
 - Current state: Ghost
-- Recent actions: Confirmed to Grygum that Zalthir was not possessed; noted he is a ghost, not a fungi expert; asked Grygum pointedly whether he was a cleric, prompting Dawnbringer's restoration of Zalthir
+- Recent actions: Confirmed to Gyrgum that Zalthir was not possessed; noted he is a ghost, not a fungi expert; asked Gyrgum pointedly whether he was a cleric, prompting Dawnbringer's restoration of Zalthir
 - Faction: Unknown
 
 **Basidia**
@@ -75,13 +75,13 @@
 **Rump-a-dump**
 - Current location: Departed with Myconid people after the escape
 - Current state: Alive; now with their people
-- Recent actions: Was convinced by Grygum to leave the Neverlight Grove; approached Zalthir before parting and delivered a list of approximately fifty specific ways Zalthir could improve himself (including "listen to Stool," "don't assume you know everything," and "eat more Zurkhwood"); said goodbye to Daz with apparent sadness
+- Recent actions: Was convinced by Gyrgum to leave the Neverlight Grove; approached Zalthir before parting and delivered a list of approximately fifty specific ways Zalthir could improve himself (including "listen to Stool," "don't assume you know everything," and "eat more Zurkhwood"); said goodbye to Daz with apparent sadness
 - Faction: Myconid; travelling with Rusharoo's circle
 
 **Stool**
 - Current location: Departed with Myconid people after the escape
 - Current state: Alive; now with their people
-- Recent actions: Was convinced by Grygum to leave; said goodbye alongside Rump-a-dump; mentioned by Rump-a-dump as someone Zalthir should listen to
+- Recent actions: Was convinced by Gyrgum to leave; said goodbye alongside Rump-a-dump; mentioned by Rump-a-dump as someone Zalthir should listen to
 - Faction: Myconid
 
 **Yestabrod**
@@ -93,13 +93,13 @@
 **Xinaya**
 - Current location: Corpse in the Neverlight Grove
 - Current state: Dead
-- Recent actions (postmortem): Corpse looted entirely by Zalthir, who took all items including scrolls; Grygum requested the scrolls and was refused
+- Recent actions (postmortem): Corpse looted entirely by Zalthir, who took all items including scrolls; Gyrgum requested the scrolls and was refused
 - Faction: Unknown (previously encountered by party)
 
 **Zuggtmoy**
 - Current location: Not physically present in this session; seen in vision inside a great tower
 - Current state: Active; preparing for her wedding to Araumycos
-- Recent actions: Observed in a vision by Grygum — floating in humanoid-but-fungal form inside a tower, three times the height of fungal bridesmaids, being adorned with lichen veils and a mycelium bridal gown while bridesmaids croon to her
+- Recent actions: Observed in a vision by Gyrgum — floating in humanoid-but-fungal form inside a tower, three times the height of fungal bridesmaids, being adorned with lichen veils and a mycelium bridal gown while bridesmaids croon to her
 - Faction: Demon lords; Queen of Fungi
 - Motivations: Intends to marry Araumycos to gain untold power over decay and death; referred to as "the Great Seeder" by Phylo
 
@@ -145,13 +145,13 @@
 
 - The party observed a mock wedding rehearsal procession in the Neverlight Grove, identifying it as a rehearsal for Zuggtmoy's wedding to Araumycos.
 - Yestabrod's corpse was animated by three spore servants and used as a puppet-priest to preside over the mock wedding rehearsal.
-- Grygum received a vision of Zuggtmoy inside a great tower being dressed in a lichen veil and mycelium bridal gown by fungal bridesmaids.
+- Gyrgum received a vision of Zuggtmoy inside a great tower being dressed in a lichen veil and mycelium bridal gown by fungal bridesmaids.
 - Daz suffered a madness episode near Yggmorgus, experiencing hallucinations of a drow city with no spiders, drow and elves living together, and drow keeping dogs as pets.
 - The party resolved to flee the Neverlight Grove and seek help from the surface world.
 - Zalthir was afflicted by spore-induced madness and refused to share Xinaya's scrolls; Dawnbringer cast lesser restoration and cured him.
 - The party informed Basidia and Rusharoo of everything they had witnessed.
 - Basidia insisted on confronting Phylo immediately; Rusharoo followed reluctantly.
-- In the Inner Circle, Grygum (as Gyrgum) began shouting "DANGER," alerting Phylo and breaking the pretense of calm.
+- In the Inner Circle, Gyrgum (as Gyrgum) began shouting "DANGER," alerting Phylo and breaking the pretense of calm.
 - Basidia openly accused Phylo of betraying the Circle and allying with Zuggtmoy.
 - Sentient Zurkhwood trees began to move, threatening violence.
 - Zalthir physically grappled Basidia and dragged them away from the confrontation.
@@ -184,13 +184,13 @@
 - Current state: Controlled by Phylo and Zuggtmoy's forces
 
 **Yggmorgus**
-- What it is: A massive, towering central mushroom in the Neverlight Grove; assumed by Grygum to be a creature called Yggmorgus; possibly a manifestation or seat of Zuggtmoy's power
+- What it is: A massive, towering central mushroom in the Neverlight Grove; assumed by Gyrgum to be a creature called Yggmorgus; possibly a manifestation or seat of Zuggtmoy's power
 - What happened there: Daz suffered a madness episode nearby; party decided not to advance further and retreated
 - Current state: Active; emits eerie luminescence, atonal music, and a stench of rot and decay; surrounded by a carpet of fungi
 
 **The Great Tower (Vision)**
-- What it is: A tower seen only in Grygum's vision; interior lit by phosphorescent mold; spiraling stairs and balconies carved into walls
-- What happened there: Grygum saw Zuggtmoy floating in the centre, being dressed for her wedding by fungal bridesmaids who sang to her
+- What it is: A tower seen only in Gyrgum's vision; interior lit by phosphorescent mold; spiraling stairs and balconies carved into walls
+- What happened there: Gyrgum saw Zuggtmoy floating in the centre, being dressed for her wedding by fungal bridesmaids who sang to her
 - Current state: Exists only as a vision; physical location unknown
 
 **Circle of Explorers (Neverlight Grove)**
@@ -231,9 +231,9 @@
 - **Ilvara's pursuit**: Ilvara and her drow forces are actively hunting the party. She will not stop until the party is captured or she is dead, due to the destruction of Velkynvelve and fear of becoming a Drider.
 - **Xinaya's scrolls**: Zalthir took scrolls from Xinaya's corpse and refused to share them. Their contents are unknown. Zalthir said he would "figure it out later."
 - **Daz's madness vision**: Daz hallucinated a drow city with no spiders, drow and elves living together, and drow keeping dogs. The meaning or source of this vision is unexplained. It is unclear whether this was random madness or a meaningful glimpse of something real.
-- **Grygum's vision of Zuggtmoy**: The vision was unprompted. It is unclear whether Zuggtmoy sent it, whether proximity to Yggmorgus caused it, or whether it has other significance.
+- **Gyrgum's vision of Zuggtmoy**: The vision was unprompted. It is unclear whether Zuggtmoy sent it, whether proximity to Yggmorgus caused it, or whether it has other significance.
 - **Escape from the Underdark**: The party is heading to Blingdenstone with Jimjar as guide. Jimjar's reliability as a guide has already proven questionable. The alternate passageway found after the tremor leads to unknown caves.
 - **Seeking help against the demon lords**: The party's stated plan is to reach the surface and find help. No specific allies or plan have been identified beyond reaching Blingdenstone.
 - **Fate of Basidia and the Circle of Explorers**: After parting ways, their fate is unresolved. They no longer have a home grove.
 - **Jimjar's inscrutable bet**: "The next emotion Zalthir shows will be as if it was made of a chipped black obsidian." Jimjar admitted he was just trying to distract the party; the meaning remains unexplained and may be a foreshadowing or simply nonsense.
-- **Demogorgon**: Referenced by Grygum as having been previously seen. The significance of two demon lords being active simultaneously is noted but unresolved.
+- **Demogorgon**: Referenced by Gyrgum as having been previously seen. The significance of two demon lords being active simultaneously is noted but unresolved.

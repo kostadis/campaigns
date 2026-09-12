@@ -117,7 +117,7 @@ Daz looks at him and is about to answer when Jimjar whispers, "Buy equipment so 
 Sethir mutters, "We plan to get equipment and then go to the Lost Tomb of Khem, where we will find treasure!" 
 
 
-Daz notices that Grygum is satisfied. 
+Daz notices that Gyrgum is satisfied. 
 
 
 Daz remembers what Hemeth had said about the Blade Bazaar: 
@@ -150,13 +150,13 @@ His friends look at him, and he looks back.
 And so, from just outside the Blade Bazaar, Daz and his odd collection of travelers arrive at the Darklake Brewery.
 
 
-The Brewery is closed to non-Duergar, and Daz is disappointed until Grygum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers. 
+The Brewery is closed to non-Duergar, and Daz is disappointed until Gyrgum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers. 
 
 
-Just outside is a Drow and Halfing, and they are drinking beer. Daz and Grygum approach them. 
+Just outside is a Drow and Halfing, and they are drinking beer. Daz and Gyrgum approach them. 
 
 
-The halfling looks at Grygum, "You must be new."
+The halfling looks at Gyrgum, "You must be new."
 
 
 "I'm just glad you see an orc and don't run off scared.'

@@ -5,7 +5,7 @@
 - Outcome: Success. The heart fungus is destroyed.
 
 **Ilvara Mizzrym Killed**
-- Zalthir grappled Ilvara with Eldritch Claw Tattoo, flew her 40 feet up, scored two critical hits, then dropped her. Ilvara used a legendary reaction to frighten Zalthir (DC-14 Wisdom save, failed), removing him from melee temporarily. Thorin collapsed the bridge she was on. Grygum delivered the killing blow with Guiding Bolt (radiant damage). Ilvara's body erupted into a cloud of poisonous spores upon death — her corruption by Zuggtmoy was total.
+- Zalthir grappled Ilvara with Eldritch Claw Tattoo, flew her 40 feet up, scored two critical hits, then dropped her. Ilvara used a legendary reaction to frighten Zalthir (DC-14 Wisdom save, failed), removing him from melee temporarily. Thorin collapsed the bridge she was on. Gyrgum delivered the killing blow with Guiding Bolt (radiant damage). Ilvara's body erupted into a cloud of poisonous spores upon death — her corruption by Zuggtmoy was total.
 - Outcome: Success. Ilvara Mizzrym is dead. Her body is gone, replaced by dissipating toxic spores.
 
 **Jorlan's Charge Against Ilvara**
@@ -21,7 +21,7 @@
 ## NPC State Changes
 
 **Ilvara Mizzrym — Dead**
-- Killed by Grygum's Guiding Bolt. Body erupted into poisonous spores upon death, confirming total corruption by Zuggtmoy. She died still prophesying about Zuggtmoy, "the bride," and chaos to come. She did not beg or surrender.
+- Killed by Gyrgum's Guiding Bolt. Body erupted into poisonous spores upon death, confirming total corruption by Zuggtmoy. She died still prophesying about Zuggtmoy, "the bride," and chaos to come. She did not beg or surrender.
 
 **Jorlan Duskryn — Alive, charged Ilvara**
 - Broke ranks to attack Ilvara directly, driven by personal grudge (she discarded him after his scarring). Survived the battle. Was struck by lightning bolt from Nym Duskryn.
@@ -52,7 +52,7 @@
 
 **The Fungal Cavern — final Ilvara confrontation site (several days from Blingdenstone)**: The party fought a major battle in the Fungal Cavern (chapter 52). The Heart Fungus at the center of the cavern was destroyed. The bridge collapsed. Ilvara Mizzrym is dead. (Note: this is *not* Velkynvelve — Velkynvelve was the original capture/escape outpost in chapters 1–4 and was destroyed earlier; this is a separate fungal cavern Ilvara had relocated to under Zuggtmoy's corruption.)
 
-**Ilvara Mizzrym — drow commander, first contact in Velkynvelve**: Dead. Killed by Grygum's Guiding Bolt after sustained damage from Zalthir (grapple, aerial crits, 40-foot drop) and Thorin (bridge collapse). Her body erupted into poisonous spores, confirming total corruption by Zuggtmoy. She died prophesying about Zuggtmoy's bride and coming chaos.
+**Ilvara Mizzrym — drow commander, first contact in Velkynvelve**: Dead. Killed by Gyrgum's Guiding Bolt after sustained damage from Zalthir (grapple, aerial crits, 40-foot drop) and Thorin (bridge collapse). Her body erupted into poisonous spores, confirming total corruption by Zuggtmoy. She died prophesying about Zuggtmoy's bride and coming chaos.
 
 **Jorlan Duskryn — drow elite warrior, potential aid to escaping prisoners**: Alive. Charged Ilvara during the battle driven by personal vendetta. Thorin deliberately let him pass without attacking. Survived the fight.
 
@@ -64,10 +64,10 @@
 
 **Shoor Vandree — Ilvara's lieutenant, antagonist**: Not referenced in this chapter. (Earlier extracts incorrectly inferred a Shoor reference from Nym's "Can I kill your brother?" line; that line was Nym addressing Kaelira about their estranged brother Jorlan.) His current fate is not resolved in this chapter.
 
-**Glabbagool — sentient gelatinous cube, first contact**: Alive but damaged. Took 26 points from Ilvara's Insect Plague. Protected from Daz's Fireball via Sculpt Spells. Grygum's first priority after the battle was checking on Glabbagool.
+**Glabbagool — sentient gelatinous cube, first contact**: Alive but damaged. Took 26 points from Ilvara's Insect Plague. Protected from Daz's Fireball via Sculpt Spells. Gyrgum's first priority after the battle was checking on Glabbagool.
 
-**Encounter with the Pudding King — Blingdenstone**: Referenced by Grygum as one of the corrupted things seen during the Underdark journey ("the egg, the grove, the Pudding King's kingdom of rot").
+**Encounter with the Pudding King — Blingdenstone**: Referenced by Gyrgum as one of the corrupted things seen during the Underdark journey ("the egg, the grove, the Pudding King's kingdom of rot").
 
-**Neverlight Grove — myconid colony**: Referenced by Grygum as one of the corrupted sites witnessed.
+**Neverlight Grove — myconid colony**: Referenced by Gyrgum as one of the corrupted sites witnessed.
 
 **The Fungal Cavern — battle aftermath**: Major battle occurred. Heart Fungus destroyed. Bridge collapsed. Ilvara killed. Spore cloud dissipating. Fungal corruption was extensive (Heart Fungus, corrupted Ilvara, fungal servants — former Velkynvelve guards converted by Zuggtmoy).

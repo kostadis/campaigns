@@ -13,9 +13,9 @@ source: gmassist
 - The party observes a large refugee population sleeping in shifts at the Smith's Gate. The Smith's Quarter never sleeps — hammer rings all night from the inns above, with half the orders for armor for refugee militia.
 - The city held during the Uthgardt raids; the outer farmsteads did not.
 - Stroud is ubiquitous in the city: a bronze Stroud bust at the Smiths Guildhall, a tavern named The Knight Beneath the Knight, and a traveling Stroud School polemicist preaching mortal agency in the corner of the market.
-- The polemicist immediately spots Grygum and attempts to recruit him: "Brother, have you heard the witness call? Are you walking the road for Stroud?" He identifies himself as of the Stroudite school, rejecting both the Bahamutian hypothesis and the idea that Protanther let events unfold, insisting on mortal agency as the decisive force.
-- Grygum replies that he stands for "strength and luck," triggering a debate. He rolls a 6 on his persuasion attempt to win the preacher over; the preacher instead hands him a pamphlet titled *Stroud and the Human Agency Hypothesis: A Critique — Dragons and Gods Do Not Rule*. The pamphlet is well-formed and divided into paragraphs. Grygum keeps it for later, noting at least it is not a wall of text.
-- Grygum gets the sense that there is some kind of factionalism in the Bahamutian religious culture surrounding the person of Stroud and the events around Protanther.
+- The polemicist immediately spots Gyrgum and attempts to recruit him: "Brother, have you heard the witness call? Are you walking the road for Stroud?" He identifies himself as of the Stroudite school, rejecting both the Bahamutian hypothesis and the idea that Protanther let events unfold, insisting on mortal agency as the decisive force.
+- Gyrgum replies that he stands for "strength and luck," triggering a debate. He rolls a 6 on his persuasion attempt to win the preacher over; the preacher instead hands him a pamphlet titled *Stroud and the Human Agency Hypothesis: A Critique — Dragons and Gods Do Not Rule*. The pamphlet is well-formed and divided into paragraphs. Gyrgum keeps it for later, noting at least it is not a wall of text.
+- Gyrgum gets the sense that there is some kind of factionalism in the Bahamutian religious culture surrounding the person of Stroud and the events around Protanther.
 - The party visits an Order of the Gauntlet shrine featuring a skulled bronze frontispiece reproduction of Milo Goodbarrel's Account, Volume 1. Two half-orcs tend the shrine in shifts.
 - On the back wall of the shrine hangs a large painting, nearly full height, titled *Malfire, the Vindicator of Nature*: a figure in weathered green at the edge of a forest, longbow lowered, an enormous gray wolf at his side, stars rising over his shoulder. The painting is by Milo Goodbarrel.
 - Thorin considers upgrading his equipment; the DM notes that as a dwarf in a dwarven city, this is the place to do it, and suggests he research what armor would be appropriate for his build.
@@ -44,25 +44,25 @@ source: gmassist
 **GM** — *listing Stroud's presence throughout the city*
 > "One of the things you do notice is Stroud is everywhere. There's a bronze Stroud-bust at the Smiths Guildhall, a tavern named The Knight Beneath the Knight, a traveling Stroud School polemicist preaching human agency in the corner of the market."
 
-**[The Polemicist Approaches Grygum]**
-- The polemicist spots Grygum and immediately moves to recruit him.
+**[The Polemicist Approaches Gyrgum]**
+- The polemicist spots Gyrgum and immediately moves to recruit him.
 
 **GM** — *the polemicist's opening pitch*
 > "The minute he sees you, he tries to recou on the spot, saying, Brother, have you heard the witness call? Are you walking the road for Stroud?"
 
-**Ben Pfaff** — *Grygum's hesitation*
+**Ben Pfaff** — *Gyrgum's hesitation*
 > "I… I… I… My interest is piqued, but I'm worried that this guy is just a nut."
 
 **GM** — *the polemicist explains his school*
 > "Well, he explains that the Stroud… that he is of the Stroudite school, that it was human agency that produced the outcome, and rejects the hypothesis that it was done by, that this was a… Protanther, decided to not, you know, engage, or… or, like, Protanther let him win, or that Bahamut was behind everything, that this was all about human agency, not… mortal agency, and it asks you, are you… do you stand for mortal agency?"
 
-**Ben Pfaff** — *Grygum's reply*
+**Ben Pfaff** — *Gyrgum's reply*
 > "Oh, I, I, I stand for, for strength and luck."
 
 **GM** — *the debate continues; the polemicist is not persuaded*
 > "He, he said… he rejects that, because he says that that is the cult of the Bahamutian hypothesis."
 
-**Ben Pfaff** — *Grygum's counter*
+**Ben Pfaff** — *Gyrgum's counter*
 > "But, but… Who, who, who really won in the end? The dragons."
 
 **GM** — *setting up the dice roll*
@@ -92,14 +92,14 @@ source: gmassist
 **GM**
 > "No, it's divided into paragraphs, it's a well-formed pamphlet."
 
-**Ben Pfaff** — *Grygum keeps it*
+**Ben Pfaff** — *Gyrgum keeps it*
 > "Okay, I keep it for later."
 
 **Ben Pfaff** — *OOC, on wall-of-text as a marker of the unhinged*
 > "I wasn't just gonna read a wall of text."
 > "One of the marks of the crazies? Wall of text, probably, you know, lots of random capitalization, things like that."
 
-**GM** — *confirming Grygum's read of the religious factionalism*
+**GM** — *confirming Gyrgum's read of the religious factionalism*
 > "You get the incense that there's some kind of, like, factionalism in the Bahamut religious cult surrounding the person of Stroud and the events around Protanther that you've just discovered."
 
 **[Order of the Gauntlet Shrine]**
@@ -126,7 +126,7 @@ source: gmassist
 **Ben Pfaff** — *genuinely puzzled*
 > "What does it mean to vindicate nature?"
 
-**Joe Beda** — *teasing Grygum*
+**Joe Beda** — *teasing Gyrgum*
 > "Clearly, you're not connected to nature, if you're even asking that."
 
 **Ben Pfaff** — *conceding*
@@ -136,7 +136,7 @@ source: gmassist
 - The GM pivots to flag the shopping opportunity for Thorin specifically.
 
 **GM** — *prompting Thorin to shop*
-> "So, here, Grygum… is it… so you can, like, so one of the things you could do, Joe, is if you wanted to buy any specific dwarven armor, you know. maybe get a new, a new Vaultmaster Pro 2005."
+> "So, here, Gyrgum… is it… so you can, like, so one of the things you could do, Joe, is if you wanted to buy any specific dwarven armor, you know. maybe get a new, a new Vaultmaster Pro 2005."
 
 **Joe Beda** — *considering his options*
 > "Well, I mean, okay, so I have a shield plus 1, I have some chainmail. If I could get some fancy-ass chainmail, that would be amazing."

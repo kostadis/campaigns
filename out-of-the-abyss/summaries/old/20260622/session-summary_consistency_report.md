@@ -20,21 +20,21 @@
 
 **Issue:** The entry reads *"used a mage hand to open the door for the party."* Only Daz went alone to Sylvira's quarters; the party did not accompany him.
 
-**Evidence:** Summary: *"Daz went by himself to the quarters of Sylvira."* Scenes (Interview with Sylvira): *"Daz enters Sylvira's quarters."* The Splitting the Leads scene confirms the split: Grygum to Janussi's chambers, Daz to Sylvira, others to Alkrist prep.
+**Evidence:** Summary: *"Daz went by himself to the quarters of Sylvira."* Scenes (Interview with Sylvira): *"Daz enters Sylvira's quarters."* The Splitting the Leads scene confirms the split: Gyrgum to Janussi's chambers, Daz to Sylvira, others to Alkrist prep.
 
 **Suggested fix:** Change to *"used a mage hand to open the door for Daz."*
 
 ---
 
-## 3. Spells Section — Polymorph: Grygum cannot cast this spell
+## 3. Spells Section — Polymorph: Gyrgum cannot cast this spell
 
 **Location:** Spells / Polymorph
 
-**Issue:** The entry states *"Grygum noted he can cast Polymorph himself and considered using it to interview someone in disguise."* Polymorph (4th-level Transmutation) is not on the Cleric spell list and is not in the Life Domain's bonus spells. No context document lists it among Grygum's spells.
+**Issue:** The entry states *"Gyrgum noted he can cast Polymorph himself and considered using it to interview someone in disguise."* Polymorph (4th-level Transmutation) is not on the Cleric spell list and is not in the Life Domain's bonus spells. No context document lists it among Gyrgum's spells.
 
-**Evidence:** world_state.md lists Grygum's notable spells as *"Revivify, Mending, acid breath, Spirit Guardians."* party.md: *"Cleric 8 (Life Domain)."* Polymorph appears nowhere.
+**Evidence:** world_state.md lists Gyrgum's notable spells as *"Revivify, Mending, acid breath, Spirit Guardians."* party.md: *"Cleric 8 (Life Domain)."* Polymorph appears nowhere.
 
-**Suggested fix:** Verify whether Grygum has a scroll of Polymorph, a magic item, or whether this was a misclaim at the table. If neither, remove the claim and note a different character (Daz as Wizard 8 / Evoker — Polymorph is on the Wizard list) or remove it entirely.
+**Suggested fix:** Verify whether Gyrgum has a scroll of Polymorph, a magic item, or whether this was a misclaim at the table. If neither, remove the claim and note a different character (Daz as Wizard 8 / Evoker — Polymorph is on the Wizard list) or remove it entirely.
 
 ---
 
@@ -86,13 +86,13 @@
 
 ---
 
-## 8. Summary & Title — Inconsistent terminology for Grygum's academic event
+## 8. Summary & Title — Inconsistent terminology for Gyrgum's academic event
 
 **Location:** Session title, Summary (opening sentence), and campaign_state.md Ch. 56 reference
 
 **Issue:** The session is titled *"The Colloquium was well received"*; the Summary calls it *"his wildly successful public lecture"*; campaign_state.md (Ch. 56 reference for Kalan's key handoff) calls it *"the disputation."* Three different terms for what appears to be the same event.
 
-**Evidence:** campaign_state.md Key resources: *"Kalan's — held by Daz, passed from Grygum before he left for the disputation, Ch. 56."*
+**Evidence:** campaign_state.md Key resources: *"Kalan's — held by Daz, passed from Gyrgum before he left for the disputation, Ch. 56."*
 
 **Suggested fix:** Standardize on one term (the title uses "Colloquium"; academic context suggests this is the most formal and probably correct). Update the Summary's "public lecture" to "colloquium" for consistency, and verify whether the Ch. 56 campaign_state reference should also be updated to "colloquium."
 

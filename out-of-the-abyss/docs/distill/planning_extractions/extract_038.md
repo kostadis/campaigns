@@ -12,11 +12,11 @@
 - Appeared more open than Dorbo to reconciliation with the Gold Whisker clan.
 
 **Pelek** (ghost, deceased)
-- Ghost who had been traveling with the party; his bones were carried by Grygum.
+- Ghost who had been traveling with the party; his bones were carried by Gyrgum.
 - Materialized before Glyphic Shroomlight in the Temple of the Ruby in the Rough, prompting the priest to allow interment.
 - Expressed profound relief and gratitude upon having his bones properly interred in the catacombs below the temple.
 - Confirmed his fear of being lost forever and tormenting people for eternity.
-- Spirit faded away peacefully following the burial ritual performed by Grygum.
+- Spirit faded away peacefully following the burial ritual performed by Gyrgum.
 - Previously killed by Buppido (referenced, not present this session).
 
 **Buppido** (referenced, absent)

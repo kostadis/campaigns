@@ -15,14 +15,14 @@ chapters: 15-29
 **Key relationships:**  
 - Manipulates Themberchaud, who believes he is in control  
 - Reports to and serves the Deepking of Gracklstugh (though the Deepking is unaware of Gartokkar’s true autonomy)  
-- Engaged in a non-disclosure agreement with Grygum regarding the egg  
+- Engaged in a non-disclosure agreement with Gyrgum regarding the egg  
 - Warns the party of the Deepking’s shadow assassins from Menzoberranzan  
 - Seeks the statue of Demogorgon as proof to justify genocide against the Derro  
-- Has recently accepted the dragon egg from the party and consulted Grygum (cleric of Bahamut) regarding its occult markings  
+- Has recently accepted the dragon egg from the party and consulted Gyrgum (cleric of Bahamut) regarding its occult markings  
 
 **Defining recent actions:**  
 - Accepted delivery of the dragon egg from the party (ch28)  
-- Expressed fear over the egg’s occult markings and sought clerical insight from Grygum  
+- Expressed fear over the egg’s occult markings and sought clerical insight from Gyrgum  
 - Warned the party that Gracklstugh is on high alert, with the Stone Guard, Grey Ghosts, and Deepking all searching for the “Ember Vanguard” (ch29)  
 - Maintained a mercantile approach to power, demanding payment (2000 gp) and proof (Demogorgon statue) for services, with threats of retaliation for betrayal (ch18)  
 - Continues to enforce city ordinances with discretionary severity, using the threat of Stone Guards to coerce compliance (ch16)  

@@ -58,8 +58,8 @@ On a boat with kuo-toan refugees on the Darklake, building a movement among disp
 - **Zalthir:** Confided in about Yukyuk's murder
 - **Spiderbait:** Tense; accused Shuushar of murdering Yukyuk
 - **Buppido:** Attempted to rehabilitate using mindfulness techniques; had calming influence that helped Buppido recognize his own instability
-- **Grygum:** Showed concern for Shuushar's well-being after rockfall; light comedic rapport over name pronunciation
-- **Stool:** Received aid from Stool when directed by Grygum
+- **Gyrgum:** Showed concern for Shuushar's well-being after rockfall; light comedic rapport over name pronunciation
+- **Stool:** Received aid from Stool when directed by Gyrgum
 - **Ploopploopeen:** Known to her; she views him with suspicion as a disruptive visionary
 - **Bloppblippodd:** Knows of her and trusts her enough to recommend the party speak with her
 - **Sethir:** Responds to prompts and seems to accept him as a decision-maker

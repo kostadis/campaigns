@@ -9,7 +9,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 ## Identity
 - **Demon Queen of Fungi**, Lady of Rot and Decay, the Great Seeder
 - Demon lord from the Abyss, now present on the Prime Material Plane in the Underdark
-- First encountered as a spectral figure in a psychedelic vision when Thorin and Grygum took Voosbur's hand
+- First encountered as a spectral figure in a psychedelic vision when Thorin and Gyrgum took Voosbur's hand
 
 *Also known as: (none).*
 
@@ -18,8 +18,8 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - She is seductive, patient, and insidious — speaking in soft, haunting melodic tones and framing corruption as transcendence ("bloom beyond the bounds of flesh and time"). She describes herself as "the pulse beneath the stone" and "the breath within the spore." When refused, she expresses disappointment rather than rage, suggesting a long-game predator confident in eventual victory.
 
 ## History with the Party
-1. **Psychedelic Vision:** Appeared on a throne of fungal growths, bones, and decaying wood when Thorin and Grygum took Voosbur's hand. Attempted to tempt Thorin into joining her mycelial network. Thorin declined.
-2. **Neverlight Grove:** Her influence drove the grove to madness through Phylo's faction. A chaotic, evil symphony associated with her was heard through Yrberop's singing and a wedding procession. Grygum witnessed a vision of her true form inside a great tower — a humanoid figure made entirely of fungi and mold, three times the height of fungal bridesmaids, being dressed in lichen veils and a mycelium bridal train.
+1. **Psychedelic Vision:** Appeared on a throne of fungal growths, bones, and decaying wood when Thorin and Gyrgum took Voosbur's hand. Attempted to tempt Thorin into joining her mycelial network. Thorin declined.
+2. **Neverlight Grove:** Her influence drove the grove to madness through Phylo's faction. A chaotic, evil symphony associated with her was heard through Yrberop's singing and a wedding procession. Gyrgum witnessed a vision of her true form inside a great tower — a humanoid figure made entirely of fungi and mold, three times the height of fungal bridesmaids, being dressed in lichen veils and a mycelium bridal train.
 3. **Festering Fissure (Blingdenstone):** Her voice echoed in the party's minds after they harvested lichen, speaking to the Pudding King about using oozes to "soften the shell" so her garden could "take root in the flesh beneath." Fungi in the fissure had grown into disturbing shapes resembling deep gnome children.
 4. **Post–Pudding King's Defeat:** Fungi throughout the cavern became more twisted and malevolent, suggesting she was moving to fill the power vacuum left by Juiblex's diminished hold.
 5. **Final Battle with Ilvara:** Did not appear directly, but Ilvara Mizzrym was described as Zuggtmoy's "beloved instrument" — fully transformed into her corrupted vessel. A heart fungus at the center of the cavern was connected to Zuggtmoy's influence. Ilvara muttered sincere prophecy about "the bride" and coming chaos. Upon death, Ilvara's body erupted into poisonous spores.
@@ -39,7 +39,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Sarith:** His compulsion was caused by her influence.
 - **Juiblex:** Rival demon lord. Juiblex referred to her as "the queen of the fungi" whose banquet he intended to consume upon his rebirth.
 - **Thorin:** Attempted to seduce/possess him during the psychedelic vision; he refused. Nearly possessed him at Neverlight Grove.
-- **Grygum:** Identified her from *The Platinum Chronicle: Discourses on the Abyssal Blight*; has witnessed her in vision twice.
+- **Gyrgum:** Identified her from *The Platinum Chronicle: Discourses on the Abyssal Blight*; has witnessed her in vision twice.
 
 ## Arc Score Events
 - No explicit arc score changes noted in the source material.

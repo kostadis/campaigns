@@ -18,7 +18,7 @@ As Zalthir passed through the body, he thought that Glabbagool should have the m
 As the battle continued, something strange occurred that threw the party into confusion. When Thorin struck what he thought was the Pudding King with his darts, a familiar voice cried out asking why they were hurting him. The party quickly realized that somehow, impossibly, Glabbagool and the Pudding King had swapped positions or bodies. Thorin tested this by asking where they first met, and the ooze near him responded that they had met in a cave—confirming it was indeed their friendly gelatinous cube ally. The real Pudding King was now a Gelatinous Cube and Glabbagool's was an ooze.
 
 
-Once the confusion was sorted out, the party coordinated a devastating assault. Daz channeled powerful magical energy into missiles that unerringly struck the Pudding King, while Grygum called upon dark powers to inflict necrotic wounds that caused the ooze to writhe in pain. The Pudding King fought back desperately, unleashing more slime waves and trying to use his lair's green slime against them, but he had been separated from his throne room, and his power was waning. Thorin struck with his radiant sword Dawnbringer, its holy light searing through the corrupted ooze.
+Once the confusion was sorted out, the party coordinated a devastating assault. Daz channeled powerful magical energy into missiles that unerringly struck the Pudding King, while Gyrgum called upon dark powers to inflict necrotic wounds that caused the ooze to writhe in pain. The Pudding King fought back desperately, unleashing more slime waves and trying to use his lair's green slime against them, but he had been separated from his throne room, and his power was waning. Thorin struck with his radiant sword Dawnbringer, its holy light searing through the corrupted ooze.
 
 
 Zalthir delivered the final assault, teleporting through shadows to close the distance and unleashing a flurry of strikes enhanced by eldritch energy channeling through his tentacles. Each blow caused the Pudding King's form to destabilize further, his ooze body unable to maintain cohesion under the relentless assault. With a final telepathic scream—"Behold the true feast, the soul's final blend!"—the Pudding King dissolved completely, his consciousness dissipating as his physical form melted into inert puddles.
@@ -77,14 +77,14 @@ Searching the aftermath of the battle, the party discovered treasure that had be
 - Prince Livid attacks Zalthir with a psychic blast, dealing fourteen points of damage reduced to seven by a successful intelligence saving throw.
 - Thorin dashes forward, carefully avoiding the green slime hazards in the lair.
 - Princess Ebonmire throws a blob at Thorin, but it misses.
-- Grygum casts Guiding Bolt at the Pudding King, but it misses.
+- Gyrgum casts Guiding Bolt at the Pudding King, but it misses.
 ### The Pudding King's Slime Wave
 #### The Pudding King retaliates with a devastating slime wave attack, affecting multiple party members.
-- The Pudding King unleashes a slime wave, forcing Zalthir, Thorin, Daz, and Grygum to make dexterity saving throws.
+- The Pudding King unleashes a slime wave, forcing Zalthir, Thorin, Daz, and Gyrgum to make dexterity saving throws.
 - Zalthir takes eleven points of acid damage, using Stone Skin to reduce it to five.
-- Daz and Grygum fail their saves and are knocked prone, taking damage.
-- The Pudding King uses his lair action to drop green slime on Grygum.
-- Grygum makes his dexterity saving throw against the green slime and avoids damage.
+- Daz and Gyrgum fail their saves and are knocked prone, taking damage.
+- The Pudding King uses his lair action to drop green slime on Gyrgum.
+- Gyrgum makes his dexterity saving throw against the green slime and avoids damage.
 ### Dragging the Ooze King
 #### Zalthir successfully grapples the Pudding King and drags him out of his lair to neutralize his lair actions.
 - Zalthir uses Steps of the Wind to dash, moving a significant distance while grappling the Pudding King.
@@ -105,9 +105,9 @@ Searching the aftermath of the battle, the party discovered treasure that had be
 #### The party coordinates their attacks against the Pudding King and his remaining allies.
 - Daz casts a third-level Magic Missile at the Pudding King, dealing twenty points of damage.
 - Prince Livid and Princess Ebonmire charge toward the party.
-- Grygum casts Inflict Wounds on the Pudding King, dealing twenty-three points of damage.
-- The Pudding King unleashes another slime wave, affecting Thorin, Daz, and Grygum.
-- Thorin makes his save and takes reduced damage; Daz and Grygum use Stone Skin to resist the damage.
+- Gyrgum casts Inflict Wounds on the Pudding King, dealing twenty-three points of damage.
+- The Pudding King unleashes another slime wave, affecting Thorin, Daz, and Gyrgum.
+- Thorin makes his save and takes reduced damage; Daz and Gyrgum use Stone Skin to resist the damage.
 - Daz is covered in green slime but avoids immediate damage.
 ### Defeating the Pudding King
 #### Zalthir delivers the final blows to the Pudding King, causing him to dissolve and die.
@@ -125,7 +125,7 @@ Searching the aftermath of the battle, the party discovered treasure that had be
 - Princess Ebonmire takes full damage from the Fireball.
 - Princess Ebonmire charges at Thorin.
 - Prince Livid uses a psychic attack on Daz, dealing five points of damage.
-- Grygum stands up from prone and casts Inflict Wounds on Princess Ebonmire, dealing eighteen points of damage.
+- Gyrgum stands up from prone and casts Inflict Wounds on Princess Ebonmire, dealing eighteen points of damage.
 - Zalthir uses Shadow Step to teleport and attacks Princess Ebonmire, grappling her and dealing damage.
 - Thorin attacks and kills Princess Ebonmire.
 - Daz casts Magic Missile at Prince Livid, killing him.
@@ -166,11 +166,11 @@ A spellbook containing many spells, found in Princess Ebonmire's stomach after h
 ### Magic Missile
 A reliable force damage spell cast by Daz multiple times during the battle. It does not require a roll to hit and has a range of 120 feet. Daz used it at both first and third level, with the third-level version dealing twenty points of damage to the Pudding King. The final Magic Missile killed Prince Livid.
 ### Guiding Bolt
-A spell cast by Grygum early in the battle that missed its target.
+A spell cast by Gyrgum early in the battle that missed its target.
 ### Stone Skin
 A temporary magical effect that grants resistance to a chosen damage type for one round, usable once per long rest. Multiple party members used it to resist acid damage from the Pudding King's slime wave attacks.
 ### Inflict Wounds
-A necrotic damage spell cast by Grygum that requires the target to make a constitution saving throw. It was used successfully against the Pudding King for twenty-three points of damage and against Princess Ebonmire for eighteen points of damage.
+A necrotic damage spell cast by Gyrgum that requires the target to make a constitution saving throw. It was used successfully against the Pudding King for twenty-three points of damage and against Princess Ebonmire for eighteen points of damage.
 ### Fireball
 A powerful area-of-effect spell cast by Daz that deals fire damage in a large area. It dealt twenty-nine points of damage to both Prince Livid and Princess Ebonmire, though Prince Livid's fire resistance reduced his damage to fourteen points.
 ### Shadow Step

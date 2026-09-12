@@ -21,7 +21,7 @@
 - Faction: Party (member of a monastic order)
 - Notes: Reflects on returning to surface to share lessons of stone giant patience with his monastic order; order teaches methods to cause blindness but apparently not silence
 
-**Grygum**
+**Gyrgum**
 - Current location: Whorlstone Tunnels fungal thicket
 - Current state: Active; shrunken from Pygmywort mushroom (Reduce effect); fighting centipedes
 - Recent actions: Insisted on retrieving Buppido; cut Buppido loose; led follow of Droki into Derro slums; followed Droki to entrance of Whorlstone Tunnels; prayed for Buppido's soul; questioned Pelek about the Faerzess blinking event timing; asked Pelek to scout through the crack; impulsively ate a Pygmywort mushroom (shrank but could not fit through crack); cast Tasha's Caustic Brew against centipede swarms (failed to affect them)
@@ -147,22 +147,22 @@
 - Hgraam revealed that the Deep King has a new advisor named Shal who has made the Deep King paranoid and unwilling to take advice; Hgraam has been refused a meeting with Shal.
 - Hgraam gifted the party the Stonespeaker Crystal (allows Speak with Animals, Speak with Dead, Speak with Plants, and aids divinations).
 - Zalthir connected demon sightings at Valkenvylve, the Spidersilk caves, the demonic manta rays, and the Demogorgon appearance as non-coincidental manifestations of a broader evil.
-- Grygum (referencing events from his knowledge) noted the end of the great Sundering ended the era when gods could walk freely in Faerûn; the presence of so many demons walking freely is abnormal and suggests powerful magic enabling it.
+- Gyrgum (referencing events from his knowledge) noted the end of the great Sundering ended the era when gods could walk freely in Faerûn; the presence of so many demons walking freely is abnormal and suggests powerful magic enabling it.
 - The party retrieved Buppido from Ghohlbrorn's Lair and released him; he led them to the western gate of Laduguer's Furrow and to the Whorlstone Tunnel entrance.
 - Buppido led the party to the hidden fissure entrance to the Whorlstone Tunnels in the West Cleft.
 - The party followed Droki through the Derro slums into the Whorlstone Tunnels.
 - Buppido reappeared separately in a southwest cave of the Whorlstone Tunnels, having constructed a shrine of humanoid remains arranged in a spiral pattern; he declared himself a divine figure and attacked the party with skeletons.
-- The party defeated Buppido's skeletons (Grygum's Turn Undead was decisive) and Daz killed Buppido with Magic Missile.
+- The party defeated Buppido's skeletons (Gyrgum's Turn Undead was decisive) and Daz killed Buppido with Magic Missile.
 - Pelek's ghost emerged from his bones after Buppido's death and identified himself; he explained he was a Svirfneblin merchant murdered by Buppido.
 - Pelek revealed that a notable Faerzess blinking event (went dark then came back brighter) occurred a few months ago, after which Buppido's temperament changed dramatically.
 - Daz theorized that the Faerzess blinking event may have broken the walls between the planes, allowing demonic entities through.
 - Pelek agreed to scout through a wall crack and identified Pygmywort (shrink/Reduce) and Bigwig (grow/Enlarge) mushrooms on the other side.
-- Grygum ate a Pygmywort mushroom and shrank but could not fit through the crack.
+- Gyrgum ate a Pygmywort mushroom and shrank but could not fit through the crack.
 - Daz froze the underground thermal lake in stepping-stone blocks, allowing the party to cross to the other side.
 - The party discovered additional Pygmywort and Bigwig mushrooms and Droki's trail continuing east on the far side of the lake.
 - Daz harvested multiple types of fungi (barrelstalk, bluecap, ripplebark, trillimac, waterorb, zurkwood) in the fungal thicket.
 - Daz identified nightlights (stop glowing when touched/cut), timmask (devil's mushroom; uprooting causes madness), and torchstalks (combustible cap; burns 24 hours) in the thicket.
-- The party was attacked by multiple swarms of centipedes in the fungal thicket; Daz's Toll the Dead and Grygum's Tasha's Caustic Brew both failed to affect the centipedes; Thorin successfully struck a swarm; Zalthir attacked with unarmed strikes.
+- The party was attacked by multiple swarms of centipedes in the fungal thicket; Daz's Toll the Dead and Gyrgum's Tasha's Caustic Brew both failed to affect the centipedes; Thorin successfully struck a swarm; Zalthir attacked with unarmed strikes.
 
 ---
 
@@ -215,7 +215,7 @@
 
 **The Crack / Narrow Fissure (Whorlstone Tunnels)**
 - What it is: A narrow crack in a cavern wall, too small for normal-sized creatures; flanked by Pygmywort and Bigwig mushrooms; Droki's trail passes through it; a wisp of eerie fog floats out from it
-- What happened there: Party discovered they could not pass through without shrinking; Pelek scouted through as a ghost; Grygum shrank via Pygmywort but still could not fit
+- What happened there: Party discovered they could not pass through without shrinking; Pelek scouted through as a ghost; Gyrgum shrank via Pygmywort but still could not fit
 - Current state: Impassable for party at current sizes; Droki has already passed through
 
 **Fungal Thicket (Whorlstone Tunnels, east of lake)**
@@ -243,14 +243,14 @@
 
 - **Identity and nature of Shal**: The Deep King's new advisor Shal has caused the Deep King to become paranoid and refuse sage advice; Hgraam has been refused a meeting with Shal; Shal's species, faction, and true motivations are entirely unknown.
 - **The Faerzess blinking event**: Approximately a few months ago, the Faerzess went dark and then returned brighter than before; this coincided with the onset of Buppido's madness and potentially with the broader demonic incursion; the cause and full implications are unknown.
-- **Source of demonic incursion**: Multiple demon sightings (Valkenvylve, Spidersilk caves, demonic manta rays, Demogorgon) have been identified as non-coincidental; Grygum references that post-Sundering, demons should not be able to walk freely; a powerful and unknown magic appears to be enabling this; possibly connected to the Faerzess blinking event.
+- **Source of demonic incursion**: Multiple demon sightings (Valkenvylve, Spidersilk caves, demonic manta rays, Demogorgon) have been identified as non-coincidental; Gyrgum references that post-Sundering, demons should not be able to walk freely; a powerful and unknown magic appears to be enabling this; possibly connected to the Faerzess blinking event.
 - **Droki's destinations and cargo**: Droki is a courier for the Council of Savants and possibly other factions; his destination(s) in the Whorlstone Tunnels and what he is carrying are unknown; the party is tracking him.
 - **The Council of Savants' operations in the Whorlstone Tunnels**: The Council of Savants is operating in the Whorlstone Tunnels; their current plans, goals, and key members are unknown.
 - **The Grey Ghosts**: Referenced by Thorin; described by Hgraam only as one of the Deep King's many enemies; their identity, goals, and activities are unknown.
 - **What goes on beneath Gracklstugh**: Hgraam warned that what happens beneath the city affects what happens in the city; Thorin theorizes the underground factions have moved beneath the city to evade the Deep King's secret police; the full scope of what operates below is unknown.
 - **Pelek's missing hand and obsidian ring**: Pelek's severed hand is missing somewhere in the Whorlstone Tunnels; it bears a family obsidian ring; Pelek says the hand has "gone off scurrying about," implying it may be animated; the party is not obligated to retrieve it but would receive the ring as reward.
 - **Pelek's remains and delivery to Blingdenstone**: The party has been asked to collect Pelek's bones and deliver them to Blingdenstone; this is an open commitment; the bones are currently in the shrine cave.
-- **Passing through the crack**: The narrow fissure Droki used requires the Pygmywort shrink effect to pass through; even shrunken, Grygum could not fit; the party has not yet solved how to follow Droki through this passage.
+- **Passing through the crack**: The narrow fissure Droki used requires the Pygmywort shrink effect to pass through; even shrunken, Gyrgum could not fit; the party has not yet solved how to follow Droki through this passage.
 - **The Faerzess and Thorin's sanity**: Thorin wonders if the Faerzess has affected his sanity; not yet resolved.
 - **Cryptic prophecy of Hgraam**: "A cave with two faces. Rock devoured, and the land overgrown. The pebble believes itself flesh. The earth rejects its wards, and the tunnels shake in fury." — None of these portents have been fully identified or resolved.
 - **Route to the Dreamlands**: Confirmed to pass through Blingdenstone; the party has not yet reached Blingdenstone or the Dreamlands.

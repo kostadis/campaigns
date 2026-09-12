@@ -1,7 +1,7 @@
 # Session — 2026-04-18
 
 ## Overview
-The Ember Vanguard leveled up to 8, then executed a two-phase plan against Ilvara at Velkynvelve. First, Daz ran an elaborate deception to recruit Asha Vandree as an ally — faking a Lolth visitation before pivoting to a more believable cover as a delusional but useful mage. Asha revealed that Ilvara has been corrupted by Zuggtmoy, is converting her forces into spore servants via a mushroom artifact from Neverlight Grove, and must be killed along with the artifact. The party spent time planning their assault, placed a Glyph of Warding trap, and launched a coordinated attack. Zalthir teleported to Ilvara and grappled her but she escaped via a legendary fungal-meld ability. The Big Heart Fungus poisoned Zalthir with a spore cloud. Ilvara summoned four drow spore servants, Jorlan was lured into the Glyph of Warding for heavy damage, Grygum dropped Dust of Suleiman on the Heart Fungus, and Daz hit Ilvara and the Zuggtmoy icon with a 4th-level Fireball. The session ended mid-combat with Ilvara wounded but dangerous and the Heart Fungus still active.
+The Ember Vanguard leveled up to 8, then executed a two-phase plan against Ilvara at Velkynvelve. First, Daz ran an elaborate deception to recruit Asha Vandree as an ally — faking a Lolth visitation before pivoting to a more believable cover as a delusional but useful mage. Asha revealed that Ilvara has been corrupted by Zuggtmoy, is converting her forces into spore servants via a mushroom artifact from Neverlight Grove, and must be killed along with the artifact. The party spent time planning their assault, placed a Glyph of Warding trap, and launched a coordinated attack. Zalthir teleported to Ilvara and grappled her but she escaped via a legendary fungal-meld ability. The Big Heart Fungus poisoned Zalthir with a spore cloud. Ilvara summoned four drow spore servants, Jorlan was lured into the Glyph of Warding for heavy damage, Gyrgum dropped Dust of Suleiman on the Heart Fungus, and Daz hit Ilvara and the Zuggtmoy icon with a 4th-level Fireball. The session ended mid-combat with Ilvara wounded but dangerous and the Heart Fungus still active.
 
 ## Session Events
 - **Level 8 milestone reached.** The party leveled up before the session's main action:
@@ -20,7 +20,7 @@ The Ember Vanguard leveled up to 8, then executed a two-phase plan against Ilvar
 - Thorin called out to Jorlan, luring him and servants into the Glyph of Warding — 21 damage explosion. One servant destroyed outright; Jorlan failed his save and took full damage.
 - Thorin attacked Jorlan with Dawnbringer: hit for 14 (natural 20), missed second attack (rolled 2, Precision Attack insufficient). Applied Sap maneuver giving Jorlan disadvantage on next attack.
 - A spore servant attacked Thorin for 5 damage.
-- Grygum cast Dust of Suleiman (4th level) on the Big Heart Fungus for 20 force damage.
+- Gyrgum cast Dust of Suleiman (4th level) on the Big Heart Fungus for 20 force damage.
 - Daz cast Fireball at 4th level (Sculpt Spells active) centered between Ilvara and the Zuggtmoy icon. Ilvara saved (rolled 19 vs DC 15) — took 12 damage. The Zuggtmoy icon also took 12 damage.
 - **Session ended mid-combat.**
 
@@ -34,7 +34,7 @@ The Ember Vanguard leveled up to 8, then executed a two-phase plan against Ilvar
 
 ## Open Threads
 - **Combat unresolved:** Ilvara is wounded but has legendary actions remaining. Heart Fungus still active. Remaining spore servants on the field. Jorlan's status unclear (damaged but alive, potentially persuadable?).
-- **Zuggtmoy icon/artifact:** Took 12 damage from Fireball but status unknown. Asha wants it destroyed. Thorin and Grygum warned not to touch it due to their Whorlstone Caverns contamination markers.
+- **Zuggtmoy icon/artifact:** Took 12 damage from Fireball but status unknown. Asha wants it destroyed. Thorin and Gyrgum warned not to touch it due to their Whorlstone Caverns contamination markers.
 - **Heart Fungus destruction implications:** GM hinted destroying it has consequences beyond the immediate fight — left unresolved.
 - **Asha Vandree's long-term alignment:** Currently an ally of convenience. Still believes Daz is a delusional mage who thinks he communes with Lolth. This deception layer sits atop the existing "Daz serves Lolth" narrative — increasingly fragile.
 - **Jorlan Duskryn:** Possibly Daz's brother. Currently hostile (fighting on Ilvara's side of the map) but motivated by hatred of Ilvara, not loyalty. Could potentially be turned.
@@ -54,4 +54,4 @@ The Ember Vanguard leveled up to 8, then executed a two-phase plan against Ilvar
 - **GM note:** A long rest would trigger unspecified other events, creating time pressure.
 
 ## Next Session Setup
-Combat resumes mid-fight in Ilvara's cavern at Velkynvelve. Ilvara has taken roughly 43 damage and retains legendary actions (fungal meld teleport, directing spore servants). The Big Heart Fungus is active and took 20 damage from Dust of Suleiman, with its spore cloud potentially regenerating. Two-to-three spore servants remain. Jorlan is heavily wounded (35 damage total) with disadvantage on his next attack. The Zuggtmoy artifact/icon has taken 12 fire damage but its destruction status is unknown. Asha Vandree should be entering the fight. Zalthir is airborne and was poisoned (status may clear). The party needs to finish Ilvara, destroy the mushroom artifact, and deal with the Heart Fungus — while Thorin and Grygum must avoid touching the Zuggtmoy artifact due to their contamination vulnerability. The GM has hinted that destroying the Heart Fungus carries additional implications.
+Combat resumes mid-fight in Ilvara's cavern at Velkynvelve. Ilvara has taken roughly 43 damage and retains legendary actions (fungal meld teleport, directing spore servants). The Big Heart Fungus is active and took 20 damage from Dust of Suleiman, with its spore cloud potentially regenerating. Two-to-three spore servants remain. Jorlan is heavily wounded (35 damage total) with disadvantage on his next attack. The Zuggtmoy artifact/icon has taken 12 fire damage but its destruction status is unknown. Asha Vandree should be entering the fight. Zalthir is airborne and was poisoned (status may clear). The party needs to finish Ilvara, destroy the mushroom artifact, and deal with the Heart Fungus — while Thorin and Gyrgum must avoid touching the Zuggtmoy artifact due to their contamination vulnerability. The GM has hinted that destroying the Heart Fungus carries additional implications.

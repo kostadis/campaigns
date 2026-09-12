@@ -61,7 +61,7 @@ Protanther's public concession committed the metallic dragons
 to the alliance. **Stroud is *folkloric*** — taverns, songs,
 fashion, *"Stroud's Gambit"* chess problems on inn walls. **A
 small half-orc Bahamut-cleric tradition has been emerging** in
-his wake; Grygum is one of only four documented Stroudite
+his wake; Gyrgum is one of only four documented Stroudite
 half-orcs (per Vareth's Stroud Wake canon).
 
 **Milo Goodbarrel, halfling cleric of Bahamut.** Renowned member
@@ -271,7 +271,7 @@ these four days. Specific texture (use 2–3 of these, not all):
 - **A refugee family** with a hand-cart heading south — three
   generations, one ox, no grandfather. They share the road for
   a day, then peel off west toward Mirabar. **Optional Joe / Ben
-  beat:** Thorin or Grygum can offer them coin, food, escort to
+  beat:** Thorin or Gyrgum can offer them coin, food, escort to
   the next way-station. Land it small. The world has many of
   these.
 - **Dwarven outriders** from Mithral Hall pass the party in the
@@ -292,7 +292,7 @@ distinguish it from war-trauma quiet until later.
 **Interview prompts (light — most of this is bridge):**
 - *Joe — does Thorin offer the refugee family anything? Ride
   with them an extra hour?*
-- *Ben — does Grygum perform any rite for the burned hamlet, or
+- *Ben — does Gyrgum perform any rite for the burned hamlet, or
   the defaced Tempus shrine?*
 - *Mike — does Daz, who has only known the Underdark, ask
   Eldeth what happened? Or read the country in silence?*
@@ -327,15 +327,15 @@ shifts.
   league three years ago). A tavern named *The Knight Beneath
   the Knight* (the position Stroud played, plus a pun). A
   travelling Stroud-school polemicist preaching humanoid agency
-  in a corner of the market. **Ben/Grygum is a Stroudite half-
+  in a corner of the market. **Ben/Gyrgum is a Stroudite half-
   orc.** The polemicist sees his holy symbol and tries to recruit
   him on the spot. *"Brother. Have you heard the Witness call?
-  Are you walking the road for Stroud?"* Grygum may engage or
+  Are you walking the road for Stroud?"* Gyrgum may engage or
   decline; Vareth's fuller account waits at Candlekeep. ⭐ **At
-  the table in Ch. 51, the polemicist handed Grygum a pamphlet:**
+  the table in Ch. 51, the polemicist handed Gyrgum a pamphlet:**
   *Stroud and the Human Agency Hypothesis: A Critique — Dragons
   and Gods Do Not Rule.* **Hand Ben the physical handout** at
-  `handouts/grygum_stroudite_pamphlet.md` — pre-revolutionary
+  `handouts/gyrgum_stroudite_pamphlet.md` — pre-revolutionary
   18th-century broadside register, *"is there anything more
   clear?"* climax. Vareth will identify the Borrim Pickwhistle
   imprint at the Stroud Wake.
@@ -383,7 +383,7 @@ shifts.
   blade.
 - **Daz** can find a stationer; first sustained access to ink,
   vellum, paper, scroll-blanks, sealing wax in months.
-- **Grygum** finds a small Bahamut shrine in the temples'
+- **Gyrgum** finds a small Bahamut shrine in the temples'
   quarter (the dwarves keep room for half a dozen lawful gods).
   Quiet beat available; he can rest, pray, or tithe.
 - **Zalthir** finds a sparring hall. Watches; doesn't engage.
@@ -396,7 +396,7 @@ shifts.
   courier?*
 - *Mike — first stationer's shop in eight months. What's the
   first thing Daz reaches for?*
-- *Ben — Grygum at the shrine. Does he tithe? Does he pray for
+- *Ben — Gyrgum at the shrine. Does he tithe? Does he pray for
   anything specific?*
 - *Gabe — where does Zalthir actually sleep?*
 
@@ -451,7 +451,7 @@ refugees** from the cities that did burn.
 **No combat. No shopping.**
 
 **Interview prompts:**
-- *Ben — Grygum is a cleric. Does he stay overnight in the
+- *Ben — Gyrgum is a cleric. Does he stay overnight in the
   temple? Does he ask Sister Ellune what guidance she has prayed
   for? Does he offer any of his own?*
 - *Mike — Daz felt something. Does he say so? To whom?*
@@ -541,7 +541,7 @@ pre-war price.
 - **The Bahamut hook.** A **half-orc lay brother** named
   **Kestler** is overnighting at the Mountain's Mouth — he keeps
   a small Bahamut shrine three days' ride east, on the
-  Evermoor Way. He sees Grygum's holy symbol, his face lights.
+  Evermoor Way. He sees Gyrgum's holy symbol, his face lights.
   *"You're going south? You ought to know there's a temple. The
   brother who keeps it stopped writing five years ago. I keep
   a small house down the road from him; I have not seen him in
@@ -563,7 +563,7 @@ pre-war price.
   gives him as a curiosity. Free.
 
 **Interview prompts:**
-- *Ben — does Grygum follow up with Kestler? Take a written
+- *Ben — does Gyrgum follow up with Kestler? Take a written
   note? Promise to visit on the way back?*
 - *Mike — Daz hears Eldred's two voices. What does he think?
   Does he ask Eldred a question?*
@@ -673,9 +673,9 @@ Waterdeep met here, the metallic alliance was sealed here, and
   companion in the books) stands in the chapter foyer —
   longbow strung, wolf at heel, eyes on the threshold. Joe
   will want a rubbing of the inscription. The chapter sergeant
-  recognizes Grygum's holy symbol; the Order has been quietly
+  recognizes Gyrgum's holy symbol; the Order has been quietly
   watching the half-orc Bahamut conversion phenomenon and is
-  *very* polite to Grygum. **Banked thread:** a possible Order
+  *very* polite to Gyrgum. **Banked thread:** a possible Order
   of the Gauntlet ally at Gauntlgrym in the OOTA endgame.
 - ⭐ **The Whistler memorial plaque** in the chapter house's
   side aisle. The institutional version of the Glazhael
@@ -702,9 +702,9 @@ Waterdeep met here, the metallic alliance was sealed here, and
   letter, and you wait."*
 - **Stroudite pilgrims** in grey robes pass through Castle
   Ward. Half-orc clerics carrying single books to donate at
-  Candlekeep. **Three of them recognize Grygum's holy symbol**
+  Candlekeep. **Three of them recognize Gyrgum's holy symbol**
   — the half-orc Bahamut traditional. They greet him as a
-  brother. Ben/Grygum may engage; the pilgrims are walking the
+  brother. Ben/Gyrgum may engage; the pilgrims are walking the
   same road and will reappear at Candlekeep's gates in
   Episode 8.
 - **The Concordant Order chapter house** in the Sea Ward —
@@ -765,7 +765,7 @@ shops, all canonical:
   Philemon hand-on-lock dynamic begin to soften here, *very
   faintly* — earned by Joe's practical care.)
 - **A Cleric's Shop** in the Castle Ward (Bahamut chapter) —
-  Grygum buys a *Hagiography of the Dragon-Born Faithful,*
+  Gyrgum buys a *Hagiography of the Dragon-Born Faithful,*
   Volume III. Mentions Stroud in two paragraphs — author is
   unconvinced by the chess-game story. Vareth will find this
   *delicious* later.
@@ -792,7 +792,7 @@ delivered the political argument out loud, in front of the
 crowd that had begun to gather: *"sentience is more than mere
 existence,"* and *"one day they're going to ban oozes, the
 next day they'll ban sentient swords!"* Daz fed the rhetoric
-*("Low blow"* — affirming, not undercutting); Grygum offered
+*("Low blow"* — affirming, not undercutting); Gyrgum offered
 to help (*"I'm a cleric"*); Zalthir slipped sideways out of
 the moment and walked off with the bag. The Watch officer was
 **outmatched by the situation** and let them go — not because
@@ -827,7 +827,7 @@ accordingly.
 - *Joe — what does Thorin do in Waterdeep that has nothing to
   do with the mission? Does he visit a tavern? A shrine? A
   carnival?*
-- *Ben — Grygum at the Castle Ward Bahamut chapter. Does he
+- *Ben — Gyrgum at the Castle Ward Bahamut chapter. Does he
   attend a service? Speak to the chapter master?*
 - *Gabe — Zalthir's stage-prop shadow-puppet hand. What does it
   mean?*
@@ -869,7 +869,7 @@ for a night.
   not at all by the giant war.* The quiet is something else.
 - **Acute surface-madness incident:** at the inn a young mother
   approaches the party — **Maerith of the Ford,** weaver by
-  trade — when she sees Grygum's holy symbol. Her daughter,
+  trade — when she sees Gyrgum's holy symbol. Her daughter,
   **Elin, seven years old, has been silent for six days.**
   Elin draws **the same shape** on every flat surface. Charcoal
   on the table. Finger in flour on the kitchen floor. Quill on
@@ -886,11 +886,11 @@ for a night.
     Eldeth's letter via the Lords' Alliance may eventually
     surface a Daggerford complaint about *"foreign clerics who
     declined a child."* Plant the consequence; don't moralize.)
-  - **If Grygum tries:** DC 18 Medicine to diagnose, or
+  - **If Gyrgum tries:** DC 18 Medicine to diagnose, or
     `lesser restoration` for *temporary relief.* On success,
     Elin speaks once before slipping back: *"The wells are not
     wells anymore."* Then silent. The relief lasts a few hours.
-    Grygum knows: this is not a disease. It is *something
+    Gyrgum knows: this is not a disease. It is *something
     structurally wrong with the world reaching her ears.*
   - **The shape.** This is **the same six-pointed star Marin
     will arrange with quills, and Brevin with bedclothes, at
@@ -899,10 +899,10 @@ for a night.
     of the table.** *Trophy plant.* Let him.
 
 **Shopping:** minimal. The inn sells healing potions at a
-markup. Grygum can leave a small donation with Maerith.
+markup. Gyrgum can leave a small donation with Maerith.
 
 **Interview prompts:**
-- *Ben — does Grygum stay an extra night? Pay for a healer in
+- *Ben — does Gyrgum stay an extra night? Pay for a healer in
   the next town to come by? Pray over Elin?*
 - *Joe — does Thorin take the rubbing? What does he say to
   Maerith on the way out?*
@@ -966,9 +966,9 @@ The party walks away unsettled.
     can't say why he noticed. The pilgrim's pattern of breath
     is *almost right and is wrong by a hair.* The same pattern
     Eldred had. Same pattern the Field Ward preacher had.
-  - **Grygum / Vareth payoff** — when Vareth surfaces the
+  - **Gyrgum / Vareth payoff** — when Vareth surfaces the
     Endless Chant fragmentation in Session 5 of the murder arc,
-    Grygum will be able to say *"I noticed it on the road."*
+    Gyrgum will be able to say *"I noticed it on the road."*
     Earned credit.
 - **Daz's pressure-headache begins.** Faint. Below the
   threshold of conversation, but present. He has not had this
@@ -986,7 +986,7 @@ The party walks away unsettled.
 
 **Interview prompts:**
 - *Mike — Daz speaks to the pilgrim or doesn't?*
-- *Ben — does Grygum recognize the verse error? Does he
+- *Ben — does Gyrgum recognize the verse error? Does he
   correct the pilgrim?*
 - *Joe — Beregost at night. The sea wind. Anything Thorin
   contemplates?*
@@ -1016,7 +1016,7 @@ when they arrive — *and the party is one of the five.*
    travelling together; one carries a copy of Stroud's earliest
    post-match letter (a polemic-shelf donation), the other a
    copy of the Concordant Order's founding charter. They walk
-   the road quietly. **They look at Grygum.** Ben's call whether
+   the road quietly. **They look at Gyrgum.** Ben's call whether
    he walks with them or apart. As the keep comes into view,
    one of them murmurs the four names — *"Stroud, Milo,
    Malfire, Whistler"* — the way one might murmur a prayer.
@@ -1121,23 +1121,23 @@ Things to track from the travelogue:
 | Daz's fitted Calishite cloak | Waterdeep | **5-mile social-cover item**; reduces drow-recognition rolls in surface settings. Wears it until something specific changes. |
 | **Milo Goodbarrel — Volume 3** (and possibly Volumes 1 & 2 if Daz didn't have all three) | Waterdeep — Rishaal the Pageturner's | ⭐ **Daz reads from these throughout the campaign.** Mike's quiet character beat — Daz cites Malfire from Volume 3 as a running gag (chapter 54 canon). Multimedia: also includes a small print of the First-Faction painting Milo signed at the last signing event. |
 | **Order of the Gauntlet pewter Tarvis-hand medallion** | Daggerford | Joe trophy. Quiet Order-of-the-Gauntlet calling card the party can present at the OOTA endgame Gauntlgrym contact. **Banked thread.** |
-| **Order of the Gauntlet Sea Ward chapter — knowing about Grygum** | Waterdeep | The chapter has noted Grygum politely. Banked: possible institutional ally at Gauntlgrym. |
+| **Order of the Gauntlet Sea Ward chapter — knowing about Gyrgum** | Waterdeep | The chapter has noted Gyrgum politely. Banked: possible institutional ally at Gauntlgrym. |
 | **Joe-recognition: Malfire iconography** | Mirabar Order shrine wall + Waterdeep First-Faction painting + Sea Ward bronze sculpture + High-Forest passing references | Joe's prior PC. Plant warmly. *"He spoke for the trees, and the trees spoke back."* **Banked OOTA hook: the Emerald Enclave is reachable as an ally because of Malfire's diplomatic legacy.** |
 | **Gabe-recognition: Whistler legend** | Triboar trade-route whispers (Shadow Werebear / flying kenku) + Waterdeep Glazhael memorial plaque + Sleeping Snake Ardragon whisper + Beregost *"The Kenku Could Not Fly"* bardic song + First-Faction painting at Rishaal's | Gabe's prior PC. **The flying kenku in the black hoodie** is the consistent visual; preserve it in every reference. Three competing legends — common-folk Glazhael death (fabricated), Black Network Ardragon (retired with the hoard), Shadow Werebear lycanthrope myth (haunts the trade routes). All true at once. |
 | Dawnbringer scabbard finishing-work | Waterdeep | Smith was kind. Dawnbringer warmed slightly. **First soft beat in the Philemon hand-on-lock dynamic.** |
-| ⭐ **Glabbagool ooze-rights stand at the Watch (Trades Ward)** | Waterdeep — Ch. 51 canon | Thorin and Dawnbringer publicly faced down a Watch officer over ooze personhood; Dawnbringer delivered the slippery-slope-to-sentient-swords argument in front of a crowd. Daz fed the rhetoric; Grygum offered as cleric backup; Zalthir slipped sideways with the bag. **Banked civic-stakes ammunition** if Glabbagool is ever challenged at Candlekeep, Gauntlgrym, or any city — *the party has rehearsed the speech.* Crowd-as-witness texture. |
+| ⭐ **Glabbagool ooze-rights stand at the Watch (Trades Ward)** | Waterdeep — Ch. 51 canon | Thorin and Dawnbringer publicly faced down a Watch officer over ooze personhood; Dawnbringer delivered the slippery-slope-to-sentient-swords argument in front of a crowd. Daz fed the rhetoric; Gyrgum offered as cleric backup; Zalthir slipped sideways with the bag. **Banked civic-stakes ammunition** if Glabbagool is ever challenged at Candlekeep, Gauntlgrym, or any city — *the party has rehearsed the speech.* Crowd-as-witness texture. |
 | ⭐ **Thorin + Dawnbringer orphan-healing run (Dock Ward)** | Waterdeep — Ch. 51 canon | After the Watch left, Thorin took Dawnbringer into Dock Ward and channeled her restorative light into children. Dawnbringer was *"very happy."* Zalthir went with him; Daz took notes. **Critical Philemon evidence** — partnership work was already done in the streets, not in the Reading Salon. Path C (Equal Partner) is *achieved*, not pending. **See `candlekeep_day_one.md` Philemon section for the post-Waterdeep pivot.** |
-| Grygum's *Hagiography of the Dragon-Born Faithful, Vol III* | Waterdeep | Mentions Stroud unconvinced. **Vareth finds this delicious in Session 4 Stroud Wake.** |
+| Gyrgum's *Hagiography of the Dragon-Born Faithful, Vol III* | Waterdeep | Mentions Stroud unconvinced. **Vareth finds this delicious in Session 4 Stroud Wake.** |
 | Zalthir's brass shadow-puppet hand | Waterdeep | GM-banked. Gabe's choice when to deploy. |
 | Drow refugee in Waterdeep | Waterdeep | **Banked thread.** May surface later. May not. |
 | Kestler's Bahamut temple lead (Gorg'Bahamut) | Triboar | Now the party-side priming for Vareth's Session 4 reveal of the Gorg'Bahamut folio. *Ben heard it on the road first.* |
 | The six-pointed star (charcoal rubbing from Daggerford) | Daggerford | **Trophy plant.** Joe will take this. The same shape will recur at Candlekeep with Marin and Brevin. **The party will be the first to recognize the pattern.** |
 | Daz's somatic field-perception | All episodes | **Calibrated by gradient.** Mike has felt it grow. Yvenne can name it on Day One because Daz arrives *already pattern-matching.* |
-| Endless Chant errors | Beregost | Grygum noticed a verse substitution. **Earned credit at Session 5.** |
+| Endless Chant errors | Beregost | Gyrgum noticed a verse substitution. **Earned credit at Session 5.** |
 | Eldeth's promised letter | Mithral Hall (Episode 1) | Already promised at the tunnel mouth in chapter 54; now formally *en route.* Letter arrives **post-Candlekeep arc** (per murders-arc Beat 8). |
 | **The Triboar carpenter's journal** | Way of the Lion (Episode 8) | *Names of the Triboar dead.* Donated to Candlekeep alongside the party's five. **Lives in the Atheneum's Echoing Hall going forward.** Available as an emotional anchor if the party returns to Triboar later in the campaign. |
-| **Stroudite pilgrims at the gate** | Way of the Lion (Episode 8) | The two half-orcs walk into Candlekeep with Grygum. **Vareth's letters of introduction** (per Stroud Wake canon, three other living half-orc Stroudite clerics) include these two by name once they're delivered. *Grygum has met two of his three correspondents before the letters arrive.* |
-| **The Hand of Tarvis Stroud-school sponsorship** | Daggerford (Episode 6) | Iconographic clue — Stroud school is *deliberately* monument-funding Bahamut paladins' memorials. Ben/Grygum spotted it on the road. Vareth will surface this in Session 4 of the Candlekeep arc as evidence the schools-of-thought are no longer purely theological. |
+| **Stroudite pilgrims at the gate** | Way of the Lion (Episode 8) | The two half-orcs walk into Candlekeep with Gyrgum. **Vareth's letters of introduction** (per Stroud Wake canon, three other living half-orc Stroudite clerics) include these two by name once they're delivered. *Gyrgum has met two of his three correspondents before the letters arrive.* |
+| **The Hand of Tarvis Stroud-school sponsorship** | Daggerford (Episode 6) | Iconographic clue — Stroud school is *deliberately* monument-funding Bahamut paladins' memorials. Ben/Gyrgum spotted it on the road. Vareth will surface this in Session 4 of the Candlekeep arc as evidence the schools-of-thought are no longer purely theological. |
 | **The Black-Banner Five trial-site marker** | Waterdeep (Episode 5) | Six-pointed Bahamut sun *or* Demogorgon-pattern echo. Mike's call which reading Daz takes. **Available as an ambiguous data-point for the Candlekeep arc** — when Marin and Brevin's six-pointed-stars surface, Mike has a Waterdeep precedent to compare against. |
 | **Eldred's Sundabar story** | Triboar (Episode 4) | The Sundabar fall is canon. Eldred's two-voiced madness is *probably* both field-leakage and trauma — overdetermined, irreducible. Useful later as a mirror to Brevin (whose madness is *not* overdetermined; Brevin is purely field-leak). |
 | **Refugee family from Episode 1** | Road North | If the party gave them coin/escort, plant in `notes/threads/post_candlekeep_open_threads.md` for possible future cash-in. |

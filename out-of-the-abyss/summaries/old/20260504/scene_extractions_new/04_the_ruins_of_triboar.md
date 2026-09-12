@@ -14,15 +14,15 @@ source: gmassist
 - The party overhears every trade route rumor for the last 200 miles. Drovers, teamsters, and outriders speak of a shadow figure haunting the caravan trails north of Yartar: a Kenku hooded in black, hovering a foot off the ground, appearing at a distance and gone before anyone can approach. The image is described as consistent across all accounts.
 - One drover provides context: the figure is the Ardragon, formerly a Zhentarim route-flyer who used to steal anything not nailed down — then something happened out east, and now he stops banditry, takes nothing, doesn't speak, mimics a hawk, and rides the next thermal.
 - Another voice adds: "We don't pay him. We leave a coin on a rock, and he never picks it up."
-- At the Mountain's Mouth inn, a half-orc named Kessler who keeps a small Bahamut shrine sees the party and his face lights up: "You're going south! You oughta know, there's a temple! The brother who keeps it stopped writing five years ago. I keep a small house down the road from him. I have not seen him in three years. The temple fire still burns. I don't know what that means. I would very much like to know." He asks them to carry a written note to the brother. Grygum immediately agrees, calling it an omen.
+- At the Mountain's Mouth inn, a half-orc named Kessler who keeps a small Bahamut shrine sees the party and his face lights up: "You're going south! You oughta know, there's a temple! The brother who keeps it stopped writing five years ago. I keep a small house down the road from him. I have not seen him in three years. The temple fire still burns. I don't know what that means. I would very much like to know." He asks them to carry a written note to the brother. Gyrgum immediately agrees, calling it an omen.
 - Thorin buys a drink for a local man at the inn who is talking to himself in two voices — his own and a younger voice that answers questions the first voice never asks. Another patron sitting nearby watches the man with a strange expression.
 - A neighbor at the bar explains: "That's Eldred. He ran courier, Triboar to Sundabar in the war, came back from his last run two summers past, and he was both of them. We feed him, and we don't ask."
-- Grygum and Zalthir, both rolling above 14 on insight, notice that the second voice sounds like Eldred's but doesn't — something is his and not him, a quality of madness that is familiar. Grygum recognizes it as the same kind of madness the party witnessed throughout the Underdark, and realizes that whatever was festering below is bleeding through into the surface world.
-- Grygum considers using magic to investigate further but decides instead to simply observe from the sidelines, noting that Eldred seems to be having quite a successful conversation with himself.
+- Gyrgum and Zalthir, both rolling above 14 on insight, notice that the second voice sounds like Eldred's but doesn't — something is his and not him, a quality of madness that is familiar. Gyrgum recognizes it as the same kind of madness the party witnessed throughout the Underdark, and realizes that whatever was festering below is bleeding through into the surface world.
+- Gyrgum considers using magic to investigate further but decides instead to simply observe from the sidelines, noting that Eldred seems to be having quite a successful conversation with himself.
 - Glabbagool is gifted an entire wheel of cheese by the innkeeper as a curiosity. The ooze takes the wheel, dissolves it entirely, and declares: "This is very good." He then pauses and asks with genuine curiosity whether dairy is bad for people. This is his first encounter with cheese. Throughout the stay, he continues pestering Zalthir about shadow monk training and periodically attempts to demonstrate walking — painful to watch, but enthusiastic.
-- Grygum performs a ceremonial mass healing word for the many injured refugees in Triboar, drawing the attention of local Bahamutian clerics who immediately want to know his position on the only question of the age.
-- Grygum's response — "Are we not all the playthings of fate?" — causes the Bahamutian faction to erupt with enthusiasm ("Exactly! That's exactly what we believe!"), while a third of the audience leaves frustrated and another third cries "Deist!" The remaining third clusters around him warmly and wants to continue the conversation.
-- Grygum engages the enthusiastic faction further, noting that the absence of a gigantic chessboard makes one wonder whether the gods play games with mortals. One of them warns that this is "heretically close to the Protanther Doctrine," but Grygum deflects: "But the differences between Bahamut and Protanther are Legion."
+- Gyrgum performs a ceremonial mass healing word for the many injured refugees in Triboar, drawing the attention of local Bahamutian clerics who immediately want to know his position on the only question of the age.
+- Gyrgum's response — "Are we not all the playthings of fate?" — causes the Bahamutian faction to erupt with enthusiasm ("Exactly! That's exactly what we believe!"), while a third of the audience leaves frustrated and another third cries "Deist!" The remaining third clusters around him warmly and wants to continue the conversation.
+- Gyrgum engages the enthusiastic faction further, noting that the absence of a gigantic chessboard makes one wonder whether the gods play games with mortals. One of them warns that this is "heretically close to the Protanther Doctrine," but Gyrgum deflects: "But the differences between Bahamut and Protanther are Legion."
 
 ## Verbatim moments
 
@@ -52,7 +52,7 @@ source: gmassist
 **[GM]** — *continuing as Kessler*
 > "Would you promise to take a written note to him?"
 
-**[Ben Pfaff]** — *as Grygum, immediately agreeing*
+**[Ben Pfaff]** — *as Gyrgum, immediately agreeing*
 > "Oh, tis an omen! I shall certainly visit the temple, and I will bring your note."
 
 ---
@@ -75,9 +75,9 @@ source: gmassist
 > "Yeah, that's Eldred. He ran courier, Triboar to Sundabar in the war, came back from his last run two summers past, and he was both of them. We feed him, and we don't ask."
 
 **[GM]** — *revealing what those who rolled above 14 notice*
-> "Alright, so, Zalthir and Grygum noticed that the voice sounds like Elred's, but… doesn't. It's kind of his and not him, sort of… Something… there's some kind of madness about him."
+> "Alright, so, Zalthir and Gyrgum noticed that the voice sounds like Elred's, but… doesn't. It's kind of his and not him, sort of… Something… there's some kind of madness about him."
 
-**[Ben Pfaff]** — *as Grygum, forming a theory*
+**[Ben Pfaff]** — *as Gyrgum, forming a theory*
 > "Let's see, I'm concerned that there might be some kind of a magical possession or something of those lines going on here."
 
 **[GM]** — *connecting it to the Underdark*
@@ -98,7 +98,7 @@ source: gmassist
 **[Ben Pfaff]** — *relieved*
 > "Okay, that was going to be my next question."
 
-**[Ben Pfaff]** — *as Grygum, taking a broader look*
+**[Ben Pfaff]** — *as Gyrgum, taking a broader look*
 > "Is anybody else acting odd? I take a broader look around."
 
 **[GM]** — *responding*
@@ -120,7 +120,7 @@ source: gmassist
 **[Ben Pfaff]** — *asking*
 > "Has he ever had cheese?"
 
-**[Ben Pfaff]** — *as Grygum, to Glabbagool*
+**[Ben Pfaff]** — *as Gyrgum, to Glabbagool*
 > "Glabbagool, have you had cheese before?"
 
 **[Ben Pfaff]** — *worrying aloud*
@@ -146,46 +146,46 @@ source: gmassist
 
 ---
 
-**[Grygum Heals the Refugees — The Question of the Age]**
+**[Gyrgum Heals the Refugees — The Question of the Age]**
 
 **[Ben Pfaff]** — *asking the GM*
 > "Oh, go on, I have something afterward on here."
 
-**[Ben Pfaff]** — *as Grygum, after noticing the injured*
+**[Ben Pfaff]** — *as Gyrgum, after noticing the injured*
 > "So you said there's a lot of, a lot of injured. Are, are these, are there people I, I could usefully heal?"
 
 **[GM]** — *confirming*
 > "Yes, you could use fully heal for a few days."
 
-**[Ben Pfaff]** — *as Grygum, acting*
+**[Ben Pfaff]** — *as Gyrgum, acting*
 > "Oh, okay, so, I, I, I, I do, you know, a ser… ceremonial, mass healing word, and, et cetera."
 
 **[GM]** — *describing the reaction*
 > "Right, the clerics of Bahamut… the local Bahamutian clerics are very pleased and want to know where you stand on the only question of the age. The fact that you don't know it is actually… is actually to be expected."
 
-**[Ben Pfaff]** — *as Grygum, stalling diplomatically*
+**[Ben Pfaff]** — *as Gyrgum, stalling diplomatically*
 > "Well, I'm, I'm, I'm in favor of our great Lord Bahamut, and, and, apple pie, and I would like to know what the question is."
 
 **[GM]** — *describing the crowd's split reaction*
 > "A third of the audience is frustrated and leaves, another third of the audience goes, deist! And another third of the audience is really happy and wants to hang out with you."
 
-**[Ben Pfaff]** — *as Grygum, turning to the friendly third*
+**[Ben Pfaff]** — *as Gyrgum, turning to the friendly third*
 > "I asked the third who wants to hang out with me what the question."
 
 **[GM]** — *as the enthusiastic Bahamutian cleric*
 > "You understand what is the critical question. At the game of chess, what happened? Was it Bahamut? Was it Protanther? Or was it human agency? And you clearly, you clearly understood what it is. It was the great and glorious power of Bahamut that directed everything. Protanther and Stroud were merely agents."
 
-**[Ben Pfaff]** — *as Grygum*
+**[Ben Pfaff]** — *as Gyrgum*
 > "Are we not all the playthings of fate?"
 
 **[GM]** — *as the cleric, delighted*
 > "Exactly! That's exactly what we believe! And it's the Stroudites and the Protanthians who wish to disagree!"
 
-**[Ben Pfaff]** — *as Grygum, musing further*
+**[Ben Pfaff]** — *as Gyrgum, musing further*
 > "Yes, and the fact that there is no gigantic chessboard, may, may lead one to wonder whether there should be a giant die with which the gods may, play, play games with, we mortals."
 
 **[GM]** — *as the cleric, concerned*
 > "That is heretically close to the Protanther Doctrine."
 
-**[Ben Pfaff]** — *as Grygum, deflecting*
+**[Ben Pfaff]** — *as Gyrgum, deflecting*
 > "But, but the differences between Bahamut and Protanther are Legion."

@@ -6,7 +6,7 @@
 - Recent actions: Was traveling with the escapee group as a hired guide alongside Spiderbait
 - Faction: None (hired goblin guide)
 - Motivations/Secrets: Promised 20 gold to guide the group; convinced by Jimjar to follow into dangerous tunnels
-- Notes: Corpse examined by Grygum; cause of death confirmed as a blade wound to the throat consistent with a shortsword
+- Notes: Corpse examined by Gyrgum; cause of death confirmed as a blade wound to the throat consistent with a shortsword
 
 **Spiderbait**
 - Current location: Group's campsite in the Underdark
@@ -18,7 +18,7 @@
 **Jimjar**
 - Current location: Traveling with the escapee group
 - Current state: Alive
-- Recent actions: Convinced Yuk-Yuk and Spiderbait to join the group; made a bet with Grygum over whether Thorin would cross the gorge; expressed excitement about a tinderbox; engaged in late-night banter with Grygum about what monsters inhabit the lost tomb; sided with Topsy and Turvy on the corpse disposal debate (leave them for monsters)
+- Recent actions: Convinced Yuk-Yuk and Spiderbait to join the group; made a bet with Gyrgum over whether Thorin would cross the gorge; expressed excitement about a tinderbox; engaged in late-night banter with Gyrgum about what monsters inhabit the lost tomb; sided with Topsy and Turvy on the corpse disposal debate (leave them for monsters)
 - Faction: Unknown
 - Motivations/Secrets: Habitual gambler; holds the group's debt over them ("we don't owe you any more money" per Thorin's comment)
 
@@ -43,7 +43,7 @@
 - Faction: Unknown
 - Motivations/Secrets: None revealed
 
-**Grygum / Grygym**
+**Gyrgum / Grygym**
 - Current location: Traveling with the escapee group
 - Current state: Alive
 - Recent actions: Made a bet with Jimjar over Thorin's gorge crossing; asked about Jimjar's betting habits; noted the name "Ploopploopeen" was a tongue twister; spotted the fabrication in the bandit leader's story; engaged in late-night betting discussion with Jimjar about tomb monsters; examined Yuk-Yuk's corpse and identified the weapon as a shortsword
@@ -96,7 +96,7 @@
 - Current state: Alive (left after sharing information)
 - Recent actions: Approached the group under a flag of truce; offered information about escape routes in exchange for food; claimed the group accidentally went too deep while exploring a dungeon; named Blingdenstone as the best escape route
 - Faction: Underdark bandits (unnamed group)
-- Motivations/Secrets: His stated reason for being in the Underdark was identified as fabrication by Grygum, Eldeth, and Zalthir; true motivations unknown
+- Motivations/Secrets: His stated reason for being in the Underdark was identified as fabrication by Gyrgum, Eldeth, and Zalthir; true motivations unknown
 
 **Unnamed Escaped Bandit**
 - Current location: Dead in a Timmask mushroom field
@@ -120,7 +120,7 @@
 - Current goals: Escape the Underdark; route currently under debate (Blingdenstone via Gracklstugh, or the lost temple, or along the Darklake via Sloopbludop)
 - Recent actions: Crossed a gorge using a climbing/rope technique; defeated an ambush; debated corpse disposal; were approached under a flag of truce by bandits; woke to find Yuk-Yuk murdered
 - Relationships: Hired Yuk-Yuk and Spiderbait as guides; loosely aligned with Suushar, Stool, Buppido, Topsy, Turvy, Jimjar, and Eldeth
-- Key members: Thorin, Zalthir, Grygum, Sethir, Eldeth, Jimjar, Buppido, Suushar, Stool, Topsy, Turvy, Yuk-Yuk (deceased), Spiderbait
+- Key members: Thorin, Zalthir, Gyrgum, Sethir, Eldeth, Jimjar, Buppido, Suushar, Stool, Topsy, Turvy, Yuk-Yuk (deceased), Spiderbait
 
 **Underdark Bandits**
 - Current goals: Survival and escape from the Underdark; true goals unclear
@@ -157,11 +157,11 @@
 - The group identified a corpse in the Timmask field as the bandit who escaped the gorge ambush; the corpse was looted
 - Buppido warned the dead bandits' companions would come; that evening, the surviving bandits arrived under a flag of truce
 - The bandit leader offered escape route information in exchange for food; the deal was agreed upon
-- The bandit leader named Blingdenstone as the best escape route; his story about how the bandits became lost was identified as fabrication by Grygum, Eldeth, and Zalthir
+- The bandit leader named Blingdenstone as the best escape route; his story about how the bandits became lost was identified as fabrication by Gyrgum, Eldeth, and Zalthir
 - A group debate ensued over whether to go to the lost temple, Gracklstugh, Blingdenstone, or Sloopbludop first; no resolution was reached before everyone fell asleep
-- Grygum and Jimjar made a late-night bet about whether the lost tomb would contain undead (specifically skeletons and zombies vs. other monsters) before being told to be quiet
+- Gyrgum and Jimjar made a late-night bet about whether the lost tomb would contain undead (specifically skeletons and zombies vs. other monsters) before being told to be quiet
 - On the 1st day of the 3rd Tenday of Taraskh 1493, the group woke to screaming; Yuk-Yuk was found dead with his throat cut
-- Grygum examined the wound and identified it as consistent with a shortsword; noted any member of the group could be responsible
+- Gyrgum examined the wound and identified it as consistent with a shortsword; noted any member of the group could be responsible
 
 ---
 
@@ -208,7 +208,7 @@
 **The Lost Temple / Tomb**
 - What it is: A lost temple or tomb referenced as a potential destination with treasure
 - Current state: Not yet visited; location not specified
-- Notes: Advocated for by Sethir; Grygum and Jimjar bet on the presence of undead (specifically skeletons and zombies) within it
+- Notes: Advocated for by Sethir; Gyrgum and Jimjar bet on the presence of undead (specifically skeletons and zombies) within it
 
 **Velkynvelve**
 - What it is: A Drow location (presumably the site of the group's prior imprisonment)
@@ -219,11 +219,11 @@
 
 ## Threads & Mysteries
 
-- **Yuk-Yuk's murder**: Yuk-Yuk was killed with a shortsword in the night; Grygum noted any member of the group could be responsible; the killer is unknown and unidentified
+- **Yuk-Yuk's murder**: Yuk-Yuk was killed with a shortsword in the night; Gyrgum noted any member of the group could be responsible; the killer is unknown and unidentified
 - **Thorin's madness**: Thorin experienced a violent, unexplained episode in the Faerzress-rich tunnels; he has no memory of it; cause is unresolved (PTSD, Underdark stress, Faerzress effect, or something else); Suushar suggested Ploopploopeen might help
 - **The bandit leader's true story**: The bandit leader's account of how his group ended up in the Underdark was identified as fabrication; his real reason for being there is unknown
 - **Route debate unresolved**: The group has not agreed on a route — Blingdenstone (via Gracklstugh), the lost temple, or Sloopbludop/Darklake route remain in contention
-- **The lost temple/tomb**: Sethir insists on visiting it for treasure; the nature of its contents is unknown (Grygum and Jimjar bet specifically on skeletons and zombies being present)
+- **The lost temple/tomb**: Sethir insists on visiting it for treasure; the nature of its contents is unknown (Gyrgum and Jimjar bet specifically on skeletons and zombies being present)
 - **Suushar's "awakening"**: The nature and significance of Suushar's self-described awakening is unexplained; he believes it signals the end of his people's madness and that Ploopploopeen will recognize its importance
 - **Drow pursuit**: The group fled Velkynvelve; Eldeth's track-hiding skills are credited with keeping them alive; it is unconfirmed whether the Drow are still in pursuit
 - **Eldeth's distrust of Thorin**: Eldeth's distrust due to Thorin's connection to giants remains unresolved; the War of the Giants' ongoing civil war and its effect on surface peoples is noted as context

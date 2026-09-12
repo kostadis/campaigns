@@ -1,7 +1,7 @@
 ---
 scene: 06
 slug: entry_into_candlekeep
-narrator: Grygum
+narrator: Gyrgum
 scene_name: Entry into Candlekeep
 session: 20260427
 ---
@@ -118,7 +118,7 @@ Vareth stopped. His expression went through several stages very quickly — surp
 
 "This is all fascinating!"
 
-Somewhere in the background, the rest of the party had begun debating Daz's habit of citing Malfire at every available opportunity. I heard Grygum's name pulled into the discussion — *Grygum*, not me, which is how I know the sentence was reconstructed after the fact — but the content was accurate. We had been through enough together that the citations had become a kind of ambient weather condition, something you adapted to rather than fought.
+Somewhere in the background, the rest of the party had begun debating Daz's habit of citing Malfire at every available opportunity. I heard Gyrgum's name pulled into the discussion — *Gyrgum*, not me, which is how I know the sentence was reconstructed after the fact — but the content was accurate. We had been through enough together that the citations had become a kind of ambient weather condition, something you adapted to rather than fought.
 
 "Yeah," I said, when someone turned to me for confirmation, "it's like we're kind of sick of each other, but somehow still together, yeah."
 

@@ -4,7 +4,7 @@
 
 **Daz** — Investigator using a Stonespeaker crystal to speak with beasts. Led examination of the body and interrogated the tower cat. Recently educated by "Milo's murder mystery."
 
-**Grygum** — Cleric of Bahamut with a healer's eye for forensics. Determined the bruising occurred pre-death. Catalogued the chamber, the missing locket, the safe contents, and the chip. Took notes. Interviewed Hollypocket.
+**Gyrgum** — Cleric of Bahamut with a healer's eye for forensics. Determined the bruising occurred pre-death. Catalogued the chamber, the missing locket, the safe contents, and the chip. Took notes. Interviewed Hollypocket.
 
 **Zalthir** — Monk; auditor of others' competence. Worked the ink-and-parchment evidence; deduced tobacco smoke could mask poison smell. Suggested Glabbagool taste-test the black substance.
 
@@ -40,7 +40,7 @@
 
 **Candlekeep / The Great Readers** — Scholarly order; members keep long grudges. Janussi (Keeper of the Tome, deceased), A'lai Aivenmore, Daral Yashenti, Teles Ahvoste, Sylvira Savikas (Curator of the Infernal Fortress), Kalan Strongbranch (gate warden). Two keys to the Hightower Library held separately (Janussi + Kalan). Deadwinter Day approaching; Janussi held pre-holiday meetings, half ending in shouting.
 
-**The party / "sellswords"** — Daz, Grygum, Zalthir, Thorin (and Tadric, Glabbagool associated). Called sellswords by Daral; now investigating Janussi's murder.
+**The party / "sellswords"** — Daz, Gyrgum, Zalthir, Thorin (and Tadric, Glabbagool associated). Called sellswords by Daral; now investigating Janussi's murder.
 
 **Garden Shadow** — Referenced as a source of a saying Zalthir half-recalled. Not detailed.
 

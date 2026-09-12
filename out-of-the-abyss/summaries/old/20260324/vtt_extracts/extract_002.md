@@ -12,7 +12,7 @@
 - Jorlan is lured into the Glyph of Warding trap by Thorin calling out to him; the glyph explodes (21 damage). One spore servant is destroyed outright; Jorlan and two others take 21 damage (one fails save, two pass and take ~10); one servant survives at 3 HP.
 - Thorin attacks Jorlan with Dawnbringer: first attack hits for 14 damage (natural 20); second attack misses (rolled 2, precision attack insufficient). Thorin uses the Sap maneuver, giving Jorlan disadvantage on his next attack.
 - Ilvara uses a legendary action to direct a spore servant to attack Thorin; the servant rolls a natural 1 on its first attack, then hits on its second for 5 damage to Thorin.
-- Grygum casts Dust of Suleiman centered on the Big Heart Fungus for 20 force damage (no saving throw noted).
+- Gyrgum casts Dust of Suleiman centered on the Big Heart Fungus for 20 force damage (no saving throw noted).
 - Daz casts a 4th-level Fireball (with Sculpt Spells shaping) centered between Ilvara and the Zuggtmoy icon/token. Ilvara rolls 19 on her Dexterity save (DC 15), passes, and takes 12 damage. The Zuggtmoy icon also takes 12 damage.
 - Session ends mid-combat at this point.
 
@@ -32,10 +32,10 @@
 
 - **Zalthir:** Placed magical Darkness off to the side/behind the party (not in Ilvara's line of sight). Teleported adjacent to Ilvara; struck for 16 damage and established a grapple; struck again for 15 damage (advantage from grapple); attempted to fly-carry Ilvara into Dust of Suleiman range — foiled by Ilvara's legendary action. Failed DC 15 CON save against spore cloud; poisoned for one round. Used movement to fly 10 feet up out of the spore area.
 - **Thorin:** Positioned adjacent to Jorlan. Attacked Jorlan with Dawnbringer — hit for 14 damage (natural 20), missed second attack (rolled 2, attempted Precision Attack but insufficient). Used Sap maneuver (Superiority Die spent); Jorlan has disadvantage on next attack. Was struck by a spore servant for 5 damage. Has Blind Fighting style confirmed active (Blindsight within 10 feet; not affected by the blindness effect from spore clouds within that range).
-- **Grygum:** Cast Dust of Suleiman (4th-level spell) centered on the Big Heart Fungus; dealt 20 force damage with no saving throw.
+- **Gyrgum:** Cast Dust of Suleiman (4th-level spell) centered on the Big Heart Fungus; dealt 20 force damage with no saving throw.
 - **Daz:** Cast Fireball at 4th level (8d6 = 24 damage) using Sculpt Spells to exclude chosen targets; centered between Ilvara and the Zuggtmoy icon; Ilvara saved (DC 15, rolled 19) for 12 damage; Zuggtmoy icon took 12 damage.
 - **Party decision:** Agreed to introduce Glabbagool to Asha as Daz's "ooze familiar" as a cover story. Agreed to place the Glyph of Warding on the bridge on Jorlan's side (not Asha's side) as a defensive measure against unknown threats from outside the cave. Decided not to immediately send Thorin/Zalthir into the Big Heart Fungus melee until ranged options are exhausted.
-- **Thorin borrowed Ben's (Grygum's) light crossbow:** Thorin (Joe) confirmed borrowing Grygum's light crossbow as a backup ranged option due to low DEX.
+- **Thorin borrowed Ben's (Gyrgum's) light crossbow:** Thorin (Joe) confirmed borrowing Gyrgum's light crossbow as a backup ranged option due to low DEX.
 
 ---
 

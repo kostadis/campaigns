@@ -17,7 +17,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - Materialized at the intersection with Grimgrim and introduced himself, giving the name "Rust" in lieu of his unpronounceable Derro name.
 - Expressed approval upon learning the party opposed Demogorgon.
 - Explained the guild's identity as the "empty scabbard killers," then left to confer with his leadership about the party's proposal to cooperate against the Demogorgon cult.
-- Returned and escorted four party members (Daz, Thorin, Zalthir, Grygum) to Eldgrim, ordering the remaining party members to wait outside.
+- Returned and escorted four party members (Daz, Thorin, Zalthir, Gyrgum) to Eldgrim, ordering the remaining party members to wait outside.
 - Was distracted by Thorin (who asked about the empty scabbard moniker) along with Grimgrim, allowing Daz to steal the contract unnoticed.
 
 ## Current Status

@@ -11,10 +11,10 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - First encountered during the battle against Narrak and his Derro forces
 
 ## Personality & Motivations
-- A brute driven by rage and instinct rather than strategy. When hit by Grygum's acid spell, he immediately fixated on Grygum as the source of his pain, roaring in fury. He demonstrated remarkable stubbornness and tenacity, clinging to life even while blinded and grappled.
+- A brute driven by rage and instinct rather than strategy. When hit by Gyrgum's acid spell, he immediately fixated on Gyrgum as the source of his pain, roaring in fury. He demonstrated remarkable stubbornness and tenacity, clinging to life even while blinded and grappled.
 
 ## History with the Party
-- **Battle against Narrak and the Derro:** Gru Manga served as a heavy combatant on the enemy side. After Grygum's acid spell caught several Derro, Gru Manga turned his rage on Grygum. Zalthir responded by enveloping the Ettin in a sphere of darkness, blinding him, then used Eldritch Maul tentacles to strike and grapple him. Despite being blinded and restrained, Gru Manga refused to go down easily. Zalthir ultimately delivered the killing blow. Narrak screeched about "sacrifice and glory" as Gru Manga fell.
+- **Battle against Narrak and the Derro:** Gru Manga served as a heavy combatant on the enemy side. After Gyrgum's acid spell caught several Derro, Gru Manga turned his rage on Gyrgum. Zalthir responded by enveloping the Ettin in a sphere of darkness, blinding him, then used Eldritch Maul tentacles to strike and grapple him. Despite being blinded and restrained, Gru Manga refused to go down easily. Zalthir ultimately delivered the killing blow. Narrak screeched about "sacrifice and glory" as Gru Manga fell.
 
 ## Current Status
 - **Dead.** Killed by Zalthir during the battle against Narrak and the Derro.
@@ -22,5 +22,5 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 ## Relationships
 - **Narrak:** Served under or alongside Narrak. Narrak reacted to his death with fervent cries of sacrifice and glory, suggesting Gru Manga held some value — whether as a loyal soldier or expendable asset.
 - **The Derro:** Fought alongside them in battle.
-- **Grygum:** Targeted him in a rage after being hit by acid.
+- **Gyrgum:** Targeted him in a rage after being hit by acid.
 - **Zalthir:** Blinded, grappled, and ultimately slain by Zalthir.

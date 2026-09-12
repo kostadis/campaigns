@@ -36,7 +36,7 @@ chapters: 54-54
 - **Current location:** Unknown (no location specified; presence is textual/cultural)
 - **Allegiance/faction:** None specified
 - **Current possessions / notable items, spells, feats, wounds:** None specified
-- **Current assignment / role and key relationships:** Authority figure whose writings are cited as canonical; referenced by Daz and Grygum as a source of wisdom or aphorism
+- **Current assignment / role and key relationships:** Authority figure whose writings are cited as canonical; referenced by Daz and Gyrgum as a source of wisdom or aphorism
 - **Defining recent actions:** None recorded as direct action; cultural influence persists through repeated citation in party dialogue
 - **Revealed motivations or secrets:** None specified
 

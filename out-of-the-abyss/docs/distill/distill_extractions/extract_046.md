@@ -21,7 +21,7 @@
 - Faction: Party; monastic tradition
 - Motivations: Values peace and harmony
 
-**Grygum**
+**Gyrgum**
 - Current location: Blingdenstone
 - Current state: Active; mace and shield now enchanted with protective magic
 - Recent actions: Supported Thorin's argument against elemental labor from a religious perspective, invoking the will of the Gnomish gods; had his mace and shield enchanted; sold excess armor to Starlace
@@ -52,7 +52,7 @@
 **Starlace**
 - Current location: Blingdenstone (traveling merchant)
 - Current state: Active; conducting business
-- Recent actions: Arrived with a shop full of magical wares; sold Zalthir glowing crystal spectacles; enchanted Grygum's mace and shield; purchased excess armor from the party
+- Recent actions: Arrived with a shop full of magical wares; sold Zalthir glowing crystal spectacles; enchanted Gyrgum's mace and shield; purchased excess armor from the party
 - Faction: Independent traveling merchant
 - Motivations: Commerce; both sides felt satisfied with negotiation
 
@@ -113,13 +113,13 @@
 - The ritual released Entemoch's boon: the party gained the ability to summon Earth Elementals and received a protective blessing allowing them to turn their skin to stone once per day when struck in battle.
 - An ancient wrongness in the stone was set right upon ritual completion.
 - The party met with Senni Diggermattock, Chief Dorbo, and Chipgrin to argue against using Earth Elementals as mining/construction labor.
-- Thorin argued on moral grounds; Grygum invoked the Gnomish gods; Zalthir argued from monastic principles of peace; Daz compared the proposed system to Menzoberranzan's slave society.
+- Thorin argued on moral grounds; Gyrgum invoked the Gnomish gods; Zalthir argued from monastic principles of peace; Daz compared the proposed system to Menzoberranzan's slave society.
 - Senni Diggermattock seized control of the meeting and declared "Gnome Labor, not Summoned Labor!"
 - Blingdenstone's leadership agreed: Earth Elementals may be summoned for defense and warfare but not for labor in building or mining.
 - The party's stance earned the gratitude and admiration of Blingdenstone's working gnomes while fundamentally disrupting the city's economic plans.
 - Traveling merchant Starlace arrived in Blingdenstone with magical wares; the party purchased and sold equipment.
 - Zalthir purchased glowing crystal spectacles (see invisible creatures, see through magical darkness).
-- Grygum had his mace and shield enchanted with protective magic.
+- Gyrgum had his mace and shield enchanted with protective magic.
 - The party sold excess armor to Starlace.
 - The party visited Valimor Brightgem at The Gilded Sheath to commission a scabbard for Dawnbringer.
 - Thorin proposed product naming and tiered model concepts to Valimor, who became excited and offered a practical locking scabbard at a reduced price.

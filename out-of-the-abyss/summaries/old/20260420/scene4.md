@@ -11,9 +11,9 @@ The fungal mass sat at the center of the chamber the way a problem sits at the c
 
 Smooth. Dense. Fist-sized. The weight of it was wrong for something grown — too even, too finished, like a stone that had been worked by a hand that knew what it was doing. And the sensation coming off it wasn't heat or cold exactly. More like standing next to a door that opens into a room you don't want to know about. Necromantic, I decided, the same way you decide the smell coming from the back of a giant's larder means something died in there a while ago. I didn't need a name for it. It was worth something to the right buyer, and I was not going to leave anything useful in this cavern, so I pocketed it.
 
-Behind me, Grygum was dealing with the platform.
+Behind me, Gyrgum was dealing with the platform.
 
-Ilvara had built herself something elevated, which made a certain kind of sense — High Priestesses don't stand at floor level, they stand at the level where everyone has to look up at them. But the fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach, slow and rhythmic like breathing, and Grygum was not the sort to leave corruption breathing. He opened his mouth, and the acid came out clean and decisive, and the fungal matter that had spent months becoming something wrong collapsed into ash in the time it takes to exhale. The smell that followed was scorched rot, which is not pleasant, but it was still better than the alternative. Better burned than spreading.
+Ilvara had built herself something elevated, which made a certain kind of sense — High Priestesses don't stand at floor level, they stand at the level where everyone has to look up at them. But the fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach, slow and rhythmic like breathing, and Gyrgum was not the sort to leave corruption breathing. He opened his mouth, and the acid came out clean and decisive, and the fungal matter that had spent months becoming something wrong collapsed into ash in the time it takes to exhale. The smell that followed was scorched rot, which is not pleasant, but it was still better than the alternative. Better burned than spreading.
 
 The bundle was underneath.
 

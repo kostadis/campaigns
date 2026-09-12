@@ -22,7 +22,7 @@ Use this table when the party negotiates support in Gauntlgrym.
 | Braeryn Dissident Cell ("Lantern Thread") | Crowd Drift | Trigger a civilian distraction that repositions patrols in one district for a short window. | Civilian risk: if ignored, fallout becomes raids/curfews against the poor quarter. | Ready |
 | Arcane Dissidents (Runebreakers) | Null Veil Window | Disable one ward/glyph/scry lane for 10 minutes of operation time. | Arcane trace remains; Orthodoxy gains one clue toward your methods. | Ready |
 | Merchant Compact | Quiet Purse | Convert treasure into deniable logistics fast: bribes, forged passes, emergency transport. | Pay now: 25% cut in coin/goods from the current objective plus one smuggling slot reserved for Compact cargo. | Ready |
-| Stroud Legacy Circle | Seventh Move Counsel | Once per session, after Grygum declares a strategic call, grant advantage to one allied roll that follows it. | Mark public expectation; failure after using this increases rumor pressure in Gauntlgrym. | Ready |
+| Stroud Legacy Circle | Seventh Move Counsel | Once per session, after Gyrgum declares a strategic call, grant advantage to one allied roll that follows it. | Mark public expectation; failure after using this increases rumor pressure in Gauntlgrym. | Ready |
 
 ## Status Tracker (DM)
 

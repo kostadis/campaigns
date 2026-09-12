@@ -4,12 +4,12 @@
 
 ## NPC State Changes
 
-- **Plinki (female derro)**: Revealed as the one who brought the stolen dragon egg from the Grey Ghosts to this cavern. She has been using the black obelisk to infuse the egg with a demon spirit in Demogorgon's honor. She attempted to sacrifice Grygum (a cleric of Bahamut) to seal the ritual. She was grappled by Zalthir in magical darkness and is currently being attacked. Six other derro accompany her.
+- **Plinki (female derro)**: Revealed as the one who brought the stolen dragon egg from the Grey Ghosts to this cavern. She has been using the black obelisk to infuse the egg with a demon spirit in Demogorgon's honor. She attempted to sacrifice Gyrgum (a cleric of Bahamut) to seal the ritual. She was grappled by Zalthir in magical darkness and is currently being attacked. Six other derro accompany her.
 
 ## Party Current Situation
 
 - **Current location**: A large cavern in the Underdark featuring a rocky mesa with tiered levels, ramps, and a bridge. The cavern is illuminated by faerzress, bioluminescent fungi, and shafts of white light from above. A black obelisk (fifty feet tall, smooth jet-black metal with chipped imperfections) stands on one of the mesa's top tiers.
-- **Immediate unresolved situation**: Combat is actively underway on the mesa's top tier, enveloped in Zalthir's magical darkness. Zalthir has grappled Plinki. Grygum is attacking Plinki with necromantic magic (inflict wounds or similar). Six additional derro surround the party. The corrupted dragon egg and the black obelisk are both present. Thorin and Daz are also present, having followed at a distance.
+- **Immediate unresolved situation**: Combat is actively underway on the mesa's top tier, enveloped in Zalthir's magical darkness. Zalthir has grappled Plinki. Gyrgum is attacking Plinki with necromantic magic (inflict wounds or similar). Six additional derro surround the party. The corrupted dragon egg and the black obelisk are both present. Thorin and Daz are also present, having followed at a distance.
 
 ## Tracked Items
 

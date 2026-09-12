@@ -23,7 +23,7 @@
 - Explained the function of Themberchaud as a fire source for Gracklstugh's furnaces
 - Offered the party safe passage and protection from prison in exchange for performing a service at Keepers of the Flame headquarters
 - Issued a deadline of the following day; warned that failure to accept would result in a less friendly future encounter
-- Disappeared after delivering his offer; described as literal-minded and responding positively to Grygum's joke
+- Disappeared after delivering his offer; described as literal-minded and responding positively to Gyrgum's joke
 
 **Themberchaud (Red Dragon, referenced)**
 - Not physically present; discussed extensively

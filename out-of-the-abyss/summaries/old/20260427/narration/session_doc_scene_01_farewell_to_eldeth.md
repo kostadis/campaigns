@@ -12,7 +12,7 @@ I keep coming back to that first moment of it — the way it hit the stone aroun
 
 Dawnbringer, to her credit, said nothing. She'd been waiting longer than any of us.
 
-The others were finding their own ways into it. Grygum turned his face up like he was receiving a blessing, which I suppose he was. Daz squinted and pushed his spectacles up and looked like a man calculating the precise angle of the light source. Zalthir went still in the particular way he goes still when something has moved him and he doesn't want anyone to notice.
+The others were finding their own ways into it. Gyrgum turned his face up like he was receiving a blessing, which I suppose he was. Daz squinted and pushed his spectacles up and looked like a man calculating the precise angle of the light source. Zalthir went still in the particular way he goes still when something has moved him and he doesn't want anyone to notice.
 
 And Glabbagool — Glabbagool just looked up.
 
@@ -112,7 +112,7 @@ Spiderbait was having a complicated moment with the concept of goblins on the su
 
 "I don't think so," I said.
 
-Daz agreed, in his careful way. Grygum was more specific.
+Daz agreed, in his careful way. Gyrgum was more specific.
 
 "The state of goblin equality and inclusion is rough at the moment."
 
@@ -120,7 +120,7 @@ Spiderbait absorbed this. Recalibrated. Pivoted.
 
 "Well, you know, I'm just a small goblin, and you're four big, powerful people. Do you mind if I just sort of hang out with you guys? Maybe find a nice place? This Candlekeep place seems like the kind of place someone like me could find a job doing something innocuous."
 
-Grygum endorsed the plan. He endorses most plans that keep small things alive.
+Gyrgum endorsed the plan. He endorses most plans that keep small things alive.
 
 I looked back at the tunnel mouth — the last dark edge of where we'd been, the rock framing the light we'd come out into. Eldeth was already gathering herself, the set of her shoulders that meant moving, that meant west to Mithril Hall and the obligations that waited there.
 

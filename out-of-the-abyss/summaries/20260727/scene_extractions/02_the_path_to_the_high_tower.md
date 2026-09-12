@@ -9,10 +9,10 @@ source: gmassist
 
 *The party heads toward the High Tower to confront A'lai Aivenmore, discovering signs of violence along the way.*
 
-- Grygum casts Bless on the three party members who are present.
+- Gyrgum casts Bless on the three party members who are present.
 - While traversing an indoor walkway, the party discovers the body of a Watcher killed by a crossbow bolt.
 - Daz uses his Passive Investigation of 24 — the DM rules he's "Sherlock Holmes at this point" — and determines the bolt's fletching is foreign to Candlekeep and inconsistent with Watcher-issue bolts, indicating the attackers came from outside.
-- Grygum, with +5 Medicine, estimates the guard was killed within the last half hour.
+- Gyrgum, with +5 Medicine, estimates the guard was killed within the last half hour.
 - The DM clarifies the body is on an indoor walkway, and the bolt was fired from the direction the party is approaching — meaning the attackers went up the same stairs.
 - The party proceeds with caution.
 
@@ -21,7 +21,7 @@ source: gmassist
 **[Tadric hands over the key / the party decides to move on]**
 - Tadric hands over the second key, refusing to stay behind and insisting on coming along.
 
-**Grygum** — deciding what to prepare on the approach
+**Gyrgum** — deciding what to prepare on the approach
 > "I was going to… I was going to see if I wanted to prepare any… spells…"
 > "Yeah, I will, I will cast…"
 > "I'll cast Bless on, the…"
@@ -87,7 +87,7 @@ source: gmassist
 **GM**
 > "Yes."
 
-**Grygum** — asking where the shot came from
+**Gyrgum** — asking where the shot came from
 > "How old… It was fired from outside? Are we on a wall? Was it fired from below?"
 
 **GM**
@@ -98,14 +98,14 @@ source: gmassist
 - The GM draws a gray line to represent the indoor walkway and the party's approach.
 - Confirms the party is indoors, having climbed up some stairs.
 
-**Grygum**
+**Gyrgum**
 > "Okay, are we indoors?"
 
 **GM**
 > "Yes, you're indoors, so there's a…"
 > "Right, so you came up some stairs."
 
-**Grygum**
+**Gyrgum**
 > "It's quite unusual for someone to be killed with an arrow indoors."
 
 **GM** — the attackers took the same stairs
@@ -113,25 +113,25 @@ source: gmassist
 > "The bad guys went up the same stairs."
 > "Killed him, and kept advancing forward."
 
-**Grygum** — confirming the firing direction
+**Gyrgum** — confirming the firing direction
 > "The arrow was shot from the direction that we're coming from? Yep. Yes. Okay."
 
 **GM**
 > "Right, so I'll… just to make this, totally obvious, this party over here."
 
-**[Grygum's Medicine check on time of death]**
+**[Gyrgum's Medicine check on time of death]**
 
-**Grygum**
+**Gyrgum**
 > "Got it. So, I'm not, like, a medical expert or anything, but… oh, well, actually, I am. I have plus 5 medicine. How long ago do I think he was shot?"
 
 **GM**
 > "Not very long. Like, within the last half hour."
 
-**Grygum** — proceeding with caution
+**Gyrgum** — proceeding with caution
 > "Okay, so, let's, let's look out for somebody with a bow."
 
 **GM**
 > "Yes, you, you can, alright. So, you, I presume you're now going to be walking a little bit more cautiously, and not, you know, trying to make sure that… preparing for… preparing for anything is kind of the situation, right?"
 
-**Grygum**
+**Gyrgum**
 > "Cautiously, yeah."

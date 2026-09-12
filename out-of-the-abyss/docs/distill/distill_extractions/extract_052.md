@@ -27,7 +27,7 @@
 - Current state: Alive; kneeling in prayer after the battle
 - Recent actions: Initially moved to attack the Duskryn sisters, identifying them as traitors to Lolth; was calmed by Daz's claim that they were friends of Lolth; resumed praying to Lolth among the wreckage after the battle ended
 - Faction: Lolth-devotee; traveling with the party
-- Revealed motivations/secrets: Actively reshaping witnessed events into theology useful to Lolth; Grygum notes she should be watched
+- Revealed motivations/secrets: Actively reshaping witnessed events into theology useful to Lolth; Gyrgum notes she should be watched
 
 **Nym Duskryn**
 - Current location: Velkynvelve cavern
@@ -59,7 +59,7 @@
 
 **Matron Mother of House T'sarran** (referenced, not present)
 - Does not appear in this session
-- Referenced: The T'sarran mage warned before dying that the matron mother of House T'sarran would hear about the party's actions; Grygum notes he wants to learn her identity before she learns theirs
+- Referenced: The T'sarran mage warned before dying that the matron mother of House T'sarran would hear about the party's actions; Gyrgum notes he wants to learn her identity before she learns theirs
 
 **Zuggtmoy** (referenced, not present)
 - Does not appear in this session
@@ -108,14 +108,14 @@
 - Nym and Kaelira hauled Daz through the insect plague to a safer position northeast; Nym asked Daz for permission to kill Jorlan
 - Daz falsely identified the Duskryn sisters to Asha as friends of Lolth, defusing Asha's near-attack on them
 - Jorlan Duskryn broke from position and charged through the active Insect Plague toward Ilvara; Thorin chose not to use his opportunity attack and let him pass
-- Grygum's first Guiding Bolt at Ilvara missed
+- Gyrgum's first Guiding Bolt at Ilvara missed
 - Thorin destroyed the bridge, sending Ilvara and Jorlan crashing to the cavern floor; both cleared the drop and survived
 - Daz cast a shaped Fireball (using Sculpt Spells to exclude Glabbagool and allies) against the T'sarran forces; the Drow warriors were incinerated; the T'sarran mage survived barely
 - The T'sarran mage warned that the matron mother of House T'sarran would hear about this
 - Zalthir shadow-stepped across the battlefield and killed the T'sarran mage with a single strike
 - Zalthir's Frightened condition cleared after one turn
 - The surviving T'sarran warrior retreated into the tunnels with a calm threat: "We will meet again. Enjoy your victory for the moment"
-- Grygum cast Guiding Bolt at Ilvara a second time; the bolt struck her
+- Gyrgum cast Guiding Bolt at Ilvara a second time; the bolt struck her
 - Ilvara died and detonated into a cloud of poisonous spores; Zalthir and Thorin were caught in the blast
 - Nym apparently struck Jorlan Duskryn with a lightning bolt following the battle's conclusion
 - Asha Vandree knelt among the wreckage and began praying to Lolth
@@ -133,11 +133,11 @@
 
 ## Threads & Mysteries
 
-- **House T'sarran reprisal**: The matron mother of House T'sarran has been warned about the party's actions; Grygum explicitly flags that he wants to identify her before she identifies them; the surviving T'sarran warrior's parting words were a credible, unhurried threat
+- **House T'sarran reprisal**: The matron mother of House T'sarran has been warned about the party's actions; Gyrgum explicitly flags that he wants to identify her before she identifies them; the surviving T'sarran warrior's parting words were a credible, unhurried threat
 - **"The bride" and Zuggtmoy's plans**: Ilvara muttered about "the bride," chaos, and Zuggtmoy's mayhem to come before dying; this prophecy has not been explained or resolved; the party has now heard it twice (referenced as ongoing)
 - **Jorlan Duskryn's fate and allegiance**: Jorlan charged Ilvara through the Insect Plague out of old grievance; was apparently struck by Nym's lightning bolt; his current condition, loyalty, and intentions after Ilvara's death are unresolved
 - **Nym and Kaelira's contract**: Who hired the Duskryn sisters to extract Daz, and to whom is he being delivered, remain unspecified
 - **Daz's Lolth identity with Asha**: Daz is actively maintaining a fiction with Asha Vandree that he is a Lolth-follower; this deception is described as "load-bearing" and has not been resolved
-- **Asha Vandree's prayers and theology**: Asha is actively reshaping the events she witnessed into something Lolth can use; Grygum files this under "watch this space"
-- **Glabbagool's wellbeing**: Both Grygum and Thorin independently noted they would check on Glabbagool after the fight; his condition beyond survival of the 26-point hit is unconfirmed
+- **Asha Vandree's prayers and theology**: Asha is actively reshaping the events she witnessed into something Lolth can use; Gyrgum files this under "watch this space"
+- **Glabbagool's wellbeing**: Both Gyrgum and Thorin independently noted they would check on Glabbagool after the fight; his condition beyond survival of the 26-point hit is unconfirmed
 - **What Zalthir came to the monastery for**: Zalthir reflects obliquely that the monastery taught him something he is "still working through the implications of"; the nature of his background and training is partially characterized but not fully revealed

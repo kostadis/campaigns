@@ -99,7 +99,7 @@ source: gmassist
 > "Feminoor came to visit Janussi at 9pm. She didn't stay long, leaving some 15 to 20 minutes… later."
 > "Then he came back at 10.30pm, drunk as a skunk, he pounded on Janussi's door until the keeper admitted him, and then they had another loud argument. Shortly after that, I heard him slam the door and saw the great reader rushing back down the stairs. I'd never seen him run away so fast."
 
-**Grygum** — *noting Daral's significance*
+**Gyrgum** — *noting Daral's significance*
 > "Well, this definitely sounds like somebody we need to talk to."
 
 ---
@@ -153,7 +153,7 @@ source: gmassist
 
 - Daz rolls a Natural 20 on the insight check.
 - Zalthir rolls a 15 on the insight check.
-- Grygum rolls a 15 on the insight check.
+- Gyrgum rolls a 15 on the insight check.
 - The GM notes Daz is paying no attention to the crying woman, while the other three manage to calm her down.
 
 ---

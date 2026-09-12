@@ -1,7 +1,7 @@
 ---
 scene: 02
 slug: the_academic_s_dilemma
-narrator: Grygum
+narrator: Gyrgum
 scene_name: The Academic's Dilemma
 session: 20260629
 ---

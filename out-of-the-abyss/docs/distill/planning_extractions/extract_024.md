@@ -19,7 +19,7 @@ Named in a letter to Pliinki as the broader orchestrator of destabilization effo
 Referenced in Pliinki's journal and Narrak's letter as paranoid and unaware the egg was stolen and mutated. His desire for a "genocidal war" against the derro is noted by Narrak as a useful first step in the coming cleansing. The party plans to return the egg to him and use him as leverage for escape.
 
 **Themberchaude (Dragon — referenced, not present)**
-Referenced by Grygum as the dragon who will seek revenge when the mutated egg hatches and is returned to the Keepers of the Flame.
+Referenced by Gyrgum as the dragon who will seek revenge when the mutated egg hatches and is returned to the Keepers of the Flame.
 
 **Errde Blackskull / Captain Blackskull (Stone Guard Captain — referenced, not present)**
 Referenced in Aliinka's letter as "consumed by conspiracy theories" and actively hunting for corruption, which the cult regards as inadvertently aiding their efforts. Also referenced as a threat to the party, who fear imprisonment and torture at her hands.

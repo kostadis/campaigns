@@ -24,7 +24,7 @@ chapters: 18-54
 
 **Defining recent actions:**  
 - Conducted ritual to infuse the Red Dragon Egg with a demon’s spirit using the Obelisk of Diirinka.  
-- Attempted to seal the ritual with the beating heart of a cleric of Bahamut (Grygum).  
+- Attempted to seal the ritual with the beating heart of a cleric of Bahamut (Gyrgum).  
 - Reacted with ecstatic glee when the obelisk activated, then attempted to summon followers to complete the ritual.  
 - Was psychically obliterated by Zalthir’s roar, causing her cultist followers to collapse into panic.  
 - Left behind a detailed journal documenting her work — not as confession, but as proud record — later recovered and delivered to Candlekeep.  
@@ -32,7 +32,7 @@ chapters: 18-54
 **Revealed motivations or secrets:**  
 - Sought to create a perfect dual-headed wyrmling as a divine gift for Demogorgon, believing it would elevate her status and fulfill her devotion.  
 - Viewed the Obelisk of Diirinka as a weapon to conquer Gracklstugh.  
-- Mistakenly believed Grygum, a cleric of Bahamut, was a fellow cultist — a delusion rooted in her fanaticism.  
+- Mistakenly believed Gyrgum, a cleric of Bahamut, was a fellow cultist — a delusion rooted in her fanaticism.  
 - Her journal reveals she saw her actions as noble, not evil — a profound moral inversion.  
 
 ## Uncertainty
@@ -40,4 +40,4 @@ chapters: 18-54
 - Name spelling: “Plinki” (chs 18–22) vs. “Pliinki” (chs 23, 24, 54). Likely typographical, but unconfirmed whether intentional or error.  
 - Exact location of body: Plinki was killed in ch22, but her physical remains were never described post-death; only her journal was recovered.  
 - Status of the egg and obelisk: Last seen active in ch21; no later confirmation of their current state or location after Plinki’s death.  
-- Whether the dual-headed wyrmling was successfully born: Ritual was interrupted by Grygum’s intervention and Zalthir’s psychic attack; no evidence confirms completion.
+- Whether the dual-headed wyrmling was successfully born: Ritual was interrupted by Gyrgum’s intervention and Zalthir’s psychic attack; no evidence confirms completion.

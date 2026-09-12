@@ -38,7 +38,7 @@ The inscription told it straight. Travis Houlin, paladin, dead three years, kill
 
 He turned to us. "The move… oh, it's like, the chess… a reference to the chess thing."
 
-I didn't know the chess thing. That's Daz's territory — the theological geometry of Stroud versus Bahamut, the inscriptions under Waterdeep statues, the whole distributed argument conducted through stonework across the length and breadth of the North. I knew enough to know it mattered to Grygum. I watched him go still in the way he goes still when something is clicking into place and he isn't ready to name it yet.
+I didn't know the chess thing. That's Daz's territory — the theological geometry of Stroud versus Bahamut, the inscriptions under Waterdeep statues, the whole distributed argument conducted through stonework across the length and breadth of the North. I knew enough to know it mattered to Gyrgum. I watched him go still in the way he goes still when something is clicking into place and he isn't ready to name it yet.
 
 Travis Houlin had been a paladin of Bahamut. Killed fighting the Cult of the Dragon. Commemorated with Stroudite language in Dwarven on the base, and witnessed by Milo Goodbarrel — Order of the Gauntlet, head of his publisher — whose name was on the back in Common. The War of the Dragon had reached every community in the North in one form or another. Daggerford had taken the cult version rather than the barbarian version. Different flavor, same ash.
 
@@ -52,17 +52,17 @@ A half-orc cleric of Bahamut. A dragonborn. A dwarf. A drow.
 
 He stared at us for a moment with the expression of a man doing arithmetic that isn't coming out to a recognizable number.
 
-Grygum, who has the best timing in the party and knows it, delivered the line before the priest could recover. "And they all walk into the inn."
+Gyrgum, who has the best timing in the party and knows it, delivered the line before the priest could recover. "And they all walk into the inn."
 
-The priest absorbed this. Rallied. Went back to his pitch. Grygum donated a gold piece and got a pewter medallion. Then he started asking questions, because Grygum always starts asking questions once he's established goodwill through currency.
+The priest absorbed this. Rallied. Went back to his pitch. Gyrgum donated a gold piece and got a pewter medallion. Then he started asking questions, because Gyrgum always starts asking questions once he's established goodwill through currency.
 
 The priest was happy to explain. The casting was Metalworkers Guild money. Possibly Stroud-school sponsored, he thought, though he was very clear on where he stood personally: "I am a pure Bahamutian." He said it with the comfortable conviction of a man who has said it many times and found it satisfying each time.
 
-Grygum, also a pure Bahamutian as of this conversation, pressed the obvious point. The inscription. The Dwarven text. The chess language. Why was it there?
+Gyrgum, also a pure Bahamutian as of this conversation, pressed the obvious point. The inscription. The Dwarven text. The chess language. Why was it there?
 
 The priest looked left. Looked right. Arrived at his answer: the mining guild may have had Stroudites in it. And it had been a gift. And since it was a gift — he spread his hands with the pragmatism of a man who has made his peace with theological compromise — the inscription could remain. "After all, wasn't Travis trying to save us all, regardless of what actually happened in that game of chess?"
 
-Grygum examined the statue further, looking for anything unusual. There wasn't much else to find. It was, as far as these things go, a fairly standard monument to a fairly specific grief — the mark of a war that had touched every community in the North, one way or another, regardless of whether the barbarians had reached them or the cults had or the dragons themselves. Daggerford had drawn the cults. The pillar was what they'd put up after.
+Gyrgum examined the statue further, looking for anything unusual. There wasn't much else to find. It was, as far as these things go, a fairly standard monument to a fairly specific grief — the mark of a war that had touched every community in the North, one way or another, regardless of whether the barbarians had reached them or the cults had or the dragons themselves. Daggerford had drawn the cults. The pillar was what they'd put up after.
 
 I looked at it one more time before we went inside properly.
 

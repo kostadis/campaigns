@@ -8,11 +8,11 @@ session: 20260601
 
 We came out of the murder chamber and the air in the hall was better — not good, but better. Fembris was hovering the way assistants hover when they've decided you're the people who fix things, which is its own kind of pressure. He wanted to be helpful. Fine. Helpful I can work with.
 
-Grygum and I both opened our mouths at the same time. We've been doing that a lot lately — months in a tunnel will teach two people to think along the same line whether they want to or not.
+Gyrgum and I both opened our mouths at the same time. We've been doing that a lot lately — months in a tunnel will teach two people to think along the same line whether they want to or not.
 
-"have any enemies, right?" I said, and then caught that Grygum had started too. "I'm sorry, but I didn't mean to stomp on you."
+"have any enemies, right?" I said, and then caught that Gyrgum had started too. "I'm sorry, but I didn't mean to stomp on you."
 
-"Oh, I was gonna say, does he have any rivals?" Grygum said. Then, dry: "Same question."
+"Oh, I was gonna say, does he have any rivals?" Gyrgum said. Then, dry: "Same question."
 
 Same question. That's the thing about the two of us. He gets there with compassion and I get there with a hammer, but we get to the same door.
 
@@ -22,7 +22,7 @@ And there it was. The satisfying click of a thing dropping into place.
 
 I knew the name the second he said it. Sell swords. Said it like he was wiping something off his shoe. I despise this whole place a little — not Candlekeep, Candlekeep's fine, the books are fine — but the *culture* of it, the scholars who keep grudges the way a dragon keeps gold, sitting on them for years, polishing them. In the Underdark everyone runs six angles at once and at least there it's honest about being a knife fight. Up here they smile and they file the grievance and they wait. Daral had been at Janussi's throat for *years*. Whatever was rotting in that man, it had gone all the way through by now. I've learned to read that. Rage that's had time to set is a vector. It points somewhere.
 
-"Hmm, well, I already don't like him," Grygum said.
+"Hmm, well, I already don't like him," Gyrgum said.
 
 "Right?" Fembris agreed. "He's the one who was very, you know, that not seemed, very impressed with you."
 
@@ -40,11 +40,11 @@ Daz's head came up. You can always tell when Daz has fit two stones together —
 
 Two keys. One around a dead man's neck, gone. One with a gate warden. I filed it. That's the terrain now — not bridges and pits, just keys and grudges, but it works the same. You find out who can stand where, and then you find out who shouldn't have been standing there.
 
-Grygum, meanwhile, was already three steps down the practical road, which is where he lives. "One thing we need is somebody who knows what should be here, so they can tell us if anything's missing."
+Gyrgum, meanwhile, was already three steps down the practical road, which is where he lives. "One thing we need is somebody who knows what should be here, so they can tell us if anything's missing."
 
 Right. Because Daz could guess at the locket and I could guess at Daral, but a guess isn't a wall. You need someone who knows the room cold.
 
-"Let me go over that one more time," Grygum said, slow, lining it up the way he does. "go find, say, the housekeeper, and ask her, what is missing or out of place."
+"Let me go over that one more time," Gyrgum said, slow, lining it up the way he does. "go find, say, the housekeeper, and ask her, what is missing or out of place."
 
 That's the move. I'm not interested in the politics of who hated whom and how long — that's noise, that's the part of this place I can't deal with. But *what's missing from the room* — that I can stand on. That's ground.
 

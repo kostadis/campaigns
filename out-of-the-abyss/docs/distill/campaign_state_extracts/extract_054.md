@@ -17,7 +17,7 @@
 
 **Destruction of the Zuggtmoy Fungal Mass/Ritual Platform**
 - Session: Chapter 49
-- Outcome: Success — Grygum destroyed the fungal corruption with acid
+- Outcome: Success — Gyrgum destroyed the fungal corruption with acid
 - Consequences: Corruption burned out; necromantic pearl-like object recovered from the heart of the fungal mass; Ilvara's ritual bundle (incense, silver bowl, dual-sigil cloth) recovered
 
 **Escape from the Underdark / Return to the Surface**
@@ -47,7 +47,7 @@ Ilvara's prayer book with Zuggtmoy marginalia and Asha's sealed theological docu
 
 **Ilvara Mizzrym** — Dead. Body looted. Prayer book, serpent scourge, and personal effects recovered.
 
-**Asha Vandree** — Dead. Killed by Zalthir. Drow cloak taken by Zalthir; holy symbol, chain mail, prayer beads, and sealed theological document recovered by Grygum.
+**Asha Vandree** — Dead. Killed by Zalthir. Drow cloak taken by Zalthir; holy symbol, chain mail, prayer beads, and sealed theological document recovered by Gyrgum.
 
 **T'sarran mage** — Dead. T'sarran signet ring and obsidian wand (with captive amber spider) recovered; partially burned extraction contract documents recovered.
 
@@ -64,7 +64,7 @@ Ilvara's prayer book with Zuggtmoy marginalia and Asha's sealed theological docu
 - Velkynvelve payroll chest (gold and silver)
 - Confiscated prisoner belongings chest — including Thorin's tooth (recovered)
 - Water-damaged journal from an unknown prisoner
-- Flask of Overbright brandy (Grygum)
+- Flask of Overbright brandy (Gyrgum)
 - Asha Vandree: holy symbol of Lolth, chain mail, prayer beads, sealed wax pouch containing Lolth-Zuggtmoy theological document; drow cloak (taken by Zalthir)
 - Ilvara Mizzrym: prayer book with Zuggtmoy marginalia documenting corruption timeline; Living Serpent Head Scourge; sealed orders from House Mizzrym (frantic correspondence requesting contact); letter from Neverlight Grove (missed meeting)
 - T'sarran mage: House T'sarran signet ring; obsidian wand with captive amber spider; partially burned extraction contract documents naming Daz as target
@@ -92,7 +92,7 @@ Ilvara's prayer book with Zuggtmoy marginalia and Asha's sealed theological docu
 **Immediate plans (agreed upon):**
 - Travel to Candlekeep (the Great Library) to research House T'sarran, investigate the mystery of who paid for Daz's protection, and follow up on Jimjar's disappearance
 - Thorin intends to locate a "sword whisperer" — a specialist for Dawnbringer's post-Underdark condition
-- Grygum intends to research Bahamut lore and collect pamphlets at Candlekeep
+- Gyrgum intends to research Bahamut lore and collect pamphlets at Candlekeep
 - Party agreed to spend recovered gold on adventuring gear rather than business ventures
 
 **Unresolved situation carried forward:**

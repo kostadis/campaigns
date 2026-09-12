@@ -1,6 +1,6 @@
 ## NPCs
 
-**Gyrgum (Grygum)**
+**Gyrgum (Gyrgum)**
 - Current location: Prison cell, Velkynvelve
 - Current state: Prisoner, unarmed and unarmored
 - Recent actions: Fell down a chute during an adventure; captured unconscious by Drow; interacted with fellow prisoners to gather information
@@ -17,7 +17,7 @@
 **Thorin Giantfriend**
 - Current location: Prison cell, Velkynvelve
 - Current state: Prisoner, unarmed and unarmored
-- Recent actions: Spoke with Eldeth; attempted to plan a charge at the door; dissuaded by Grygum
+- Recent actions: Spoke with Eldeth; attempted to plan a charge at the door; dissuaded by Gyrgum
 - Faction: Adventuring party
 - Notes: Dwarf; speaks with an unmistakable Giant accent; has unusual peaceable history with giants compared to other dwarves
 
@@ -68,7 +68,7 @@
 - Current state: Prisoner; mentally unstable
 - Recent actions: Reacted defensively to Topsy's comment about his murder conviction; oscillated between denial and confession; expressed fear of being turned into a Drider
 - Faction: None current; formerly Drow society
-- Notes: Drow; convicted of murdering a fellow Drow; covered in some kind of fungal rot; Grygum assessed him as not a spy; Daz and Zalthir assessed him as not sane
+- Notes: Drow; convicted of murdering a fellow Drow; covered in some kind of fungal rot; Gyrgum assessed him as not a spy; Daz and Zalthir assessed him as not sane
 
 **Topsy**
 - Current location: Prison cell, Velkynvelve
@@ -94,14 +94,14 @@
 **Buppido**
 - Current location: Prison cell, Velkynvelve
 - Current state: Prisoner; gregarious and talkative
-- Recent actions: Introduced himself; advocated for escape as part of a "divine plan"; suggested using Runc as a distraction for escape; refused to elaborate on his own power; explained Myconid spore communication to Grygum; dismissed Shuushar
+- Recent actions: Introduced himself; advocated for escape as part of a "divine plan"; suggested using Runc as a distraction for escape; refused to elaborate on his own power; explained Myconid spore communication to Gyrgum; dismissed Shuushar
 - Faction: Derro; claims divine mandate
 - Notes: Derro; described as a "dwarven perversion" by Eldeth; speaks of a divine plan and hints at hidden power; declined to reveal said power; Eldeth and Thorin are skeptical of him
 
 **Eldeth**
 - Current location: Prison cell, Velkynvelve
 - Current state: Prisoner
-- Recent actions: Warned the group about the outpost's defenses (nine Drow, Quaggoths, giant spiders, three guards at the door); discouraged the charge attempt; identified the Myconid for Grygum; expressed hostility toward Runc; expressed skepticism about Giant-dwarf peace; noted the magic-suppressing properties of the cell
+- Recent actions: Warned the group about the outpost's defenses (nine Drow, Quaggoths, giant spiders, three guards at the door); discouraged the charge attempt; identified the Myconid for Gyrgum; expressed hostility toward Runc; expressed skepticism about Giant-dwarf peace; noted the magic-suppressing properties of the cell
 - Faction: Shield Dwarves; associated with Gauntlygrym
 - Notes: Dwarf; references the Shield Dwarves' recapture of Gauntlygrym from orcs; skeptical of Giant-dwarf peace but acknowledges Thorin as evidence of its possibility; dismissive of Buppido and hostile to Runc
 
@@ -129,7 +129,7 @@
 **Runc (Ronc)**
 - Current location: Prison cell, Velkynvelve
 - Current state: Prisoner; spiritually troubled
-- Recent actions: Introduced himself; expressed disappointment that Grygum follows Bahamut rather than Gruumsh; Buppido suggested using him as a distraction for escape
+- Recent actions: Introduced himself; expressed disappointment that Gyrgum follows Bahamut rather than Gruumsh; Buppido suggested using him as a distraction for escape
 - Faction: Orc; follower of Gruumsh
 - Notes: Orc; fought poorly and seeks absolution from Gruumsh; Eldeth references his kind's defeat at Gauntlygrym; Buppido is willing to sacrifice him as a distraction
 
@@ -227,7 +227,7 @@
 
 **Gauntlygrym**
 - What it is: A dwarven stronghold; recaptured by Shield Dwarves from orcs
-- Current state: Held by Shield Dwarves; Eldeth advocates it as an escape destination; Grygum agrees it may be a good option
+- Current state: Held by Shield Dwarves; Eldeth advocates it as an escape destination; Gyrgum agrees it may be a good option
 
 **Blingdenstone**
 - What it is: A Svirfneblin (deep gnome) town; home of Topsy, Turvy, and Jimjar
@@ -259,7 +259,7 @@
 
 - **The original mission**: The party was sent to retrieve an unspecified "gadget" from a cave; this mission is unresolved and the gadget's nature, owner, and purpose are unknown.
 - **Escape from Velkynvelve**: The group has roughly a tenday before the next caravan arrives to transport them to Menzoberranzan; no escape plan has been settled on.
-- **Escape destination**: Multiple competing destinations have been proposed — Gauntlygrym (Eldeth/Grygum), Blingdenstone (Topsy/Turvy), Sloobludop/Darklake (Shuushar), Neverlight Grove (Stool) — no consensus reached.
+- **Escape destination**: Multiple competing destinations have been proposed — Gauntlygrym (Eldeth/Gyrgum), Blingdenstone (Topsy/Turvy), Sloobludop/Darklake (Shuushar), Neverlight Grove (Stool) — no consensus reached.
 - **The gray ooze**: Sarith warned of a gray ooze in the pools at the bottom of the cave; its danger level and relevance to any escape route are unresolved.
 - **The outpost's defenses**: Full extent of guards, spiders, and Quaggoth numbers is not yet known; Eldeth gave a partial count of nine Drow, unspecified Quaggoths, and unknown spiders.
 - **Buppido's "divine plan" and hidden power**: Buppido hinted at hidden power he is unwilling to reveal and claimed everything is part of a divine plan; his god, plan, and true capabilities are unknown.

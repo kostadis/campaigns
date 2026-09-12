@@ -1,12 +1,12 @@
 ## Character Progression
 
-- **All PCs (Thorin, Grygum, Daz, Zalthir):** Received gold badges featuring Themberchaud's profile and a holy symbol of Laduguer from Gartokkar, granting them travel privileges within Gracklstugh (with limits).
+- **All PCs (Thorin, Gyrgum, Daz, Zalthir):** Received gold badges featuring Themberchaud's profile and a holy symbol of Laduguer from Gartokkar, granting them travel privileges within Gracklstugh (with limits).
 - **All PCs:** Previously received passes from Errde Blackskull (Stone Guards) allowing passage through gates restricting non-Duergar.
 
 ## Arc Score Events
 
-- **Grygum (Positive):** Rushed into combat to defend the Duergar merchant Werz Saltbaron from assassins, and healed the unconscious merchant—demonstrating his protective instincts and devotion to aiding others.
-- **Grygum (Positive):** Expressed moral outrage at Themberchaud's captive treatment, declaring "As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let's do it," affirming his devotion to dragon welfare and Bahamut's principles.
+- **Gyrgum (Positive):** Rushed into combat to defend the Duergar merchant Werz Saltbaron from assassins, and healed the unconscious merchant—demonstrating his protective instincts and devotion to aiding others.
+- **Gyrgum (Positive):** Expressed moral outrage at Themberchaud's captive treatment, declaring "As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let's do it," affirming his devotion to dragon welfare and Bahamut's principles.
 - **Daz (Positive):** Used his knowledge of Milo Goodbarrel's memoirs to identify the psychic blade attacks, demonstrating his scholarly value to the party.
 - **Daz (Negative/Ambiguous):** When Themberchaud asked if Daz was from Menzoberranzan, Daz said yes—but Zalthir wasn't convinced it was the truth. A moment of possible deception about his origins.
 - **Daz (Positive):** Skillfully navigated political pressure from both Themberchaud and Gartokkar, reframing the "accepted offer" as still open to negotiation.
@@ -21,7 +21,7 @@
 - **Party → Themberchaud:** Became agents of the red dragon (involuntarily). Themberchaud ordered them to do whatever the Keepers of the Flame ask but report to him first.
 - **Party → Keepers of the Flame (Gartokkar):** Became agents tasked with recovering a stolen red dragon egg and finding proof of the Gray Ghosts' involvement. Gartokkar revealed the egg is meant for Themberchaud's *replacement*—information the dragon doesn't know.
 - **Party → Errde Blackskull (Stone Guards):** Still operating under her mandate to find Droki—who is also the Gray Ghosts agent the Keepers want found. Also tasked with investigating the "empty scabbard killers."
-- **Thorin & Grygum:** Formed a pact to potentially liberate Themberchaud and use him as an escape vehicle, a plan that would betray both the Keepers of the Flame and the Stone Guards.
+- **Thorin & Gyrgum:** Formed a pact to potentially liberate Themberchaud and use him as an escape vehicle, a plan that would betray both the Keepers of the Flame and the Stone Guards.
 - **Daz → Jimjar:** Dismissed Jimjar's reasonable suggestion to leave Gracklstugh now that they have supplies, prioritizing intelligence gathering over the NPC companions' desire to move on.
 - **Thorin → Gartokkar:** Adversarial relationship. Thorin openly challenged and threatened Gartokkar with exposure, and Gartokkar responded with an enumerated list of legal charges he could fabricate. Mutual distrust established.
 - **Party — Enemies Made:** Disposed of two assassin bodies by pushing them into the Darklake, potentially attracting future attention if discovered.

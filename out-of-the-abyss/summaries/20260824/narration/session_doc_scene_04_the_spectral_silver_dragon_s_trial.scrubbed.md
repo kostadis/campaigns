@@ -1,7 +1,7 @@
 ---
 scene: 04
 slug: the_spectral_silver_dragon_s_trial
-narrator: Grygum
+narrator: Gyrgum
 scene_name: The Spectral Silver Dragon's Trial
 session: 20260824
 ---

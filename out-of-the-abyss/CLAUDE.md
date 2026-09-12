@@ -21,7 +21,7 @@ three-wing **mempalace** for semantic search.
 | `docs/campaign_state.md`, `world_state.md`, `planning.md`, `party.md` | Grounding docs |
 | `docs/canon_guardrails.md`, `decision_ladders.md`, `risk_levers.md`, `campaign_master_plan.md`, `campaign_design_frame.md` | High-signal canon set — re-mine first when these change |
 | `docs/gauntlgrym/` | Faction-asset packets and scene scripts (active-play set) |
-| `docs/npcs/` | NPC dossiers. PC files for Daz / Grygum / Thorin / Zalthir live here but are excluded from mining |
+| `docs/npcs/` | NPC dossiers. PC files for Daz / Gyrgum / Thorin / Zalthir live here but are excluded from mining |
 | `voice/`, `examples/`, `summaries/`, `notes/` | Excluded from palace by `.mempalaceignore` |
 | `mempalace.yaml`, `docs/chapters/mempalace.yaml`, `docs/distill_extractions/mempalace.yaml` | Per-wing palace configs — **do not delete** |
 | `.mempalaceignore` | Mining exclusions. Has a fragile filename rule — see gotcha |

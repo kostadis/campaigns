@@ -130,7 +130,7 @@ Focus: Thorin's complicated bond with Eldeth — built across shared hardship an
 
   
 
-- The party gently corrects him; Grygum notes "the state of goblin equality and inclusion is rough at the moment."
+- The party gently corrects him; Gyrgum notes "the state of goblin equality and inclusion is rough at the moment."
 
   <!-- gently correcting him -->
   Thorin: "I don't think so."
@@ -139,18 +139,18 @@ Focus: Thorin's complicated bond with Eldeth — built across shared hardship an
   Daz: "I, like, I'd be a little more careful."
 
   <!-- on the state of goblin civil rights -->
-  Grygum: "The, the state of goblin equality and inclusion is, rough at the moment."
+  Gyrgum: "The, the state of goblin equality and inclusion is, rough at the moment."
 
   e's terrible at making food."
   GM: "He's trying to, he's trying to hang on."
 
-- Spiderbait asks if he can just stick with the party and find work at Candlekeep doing something innocuous, like making food. Grygum endorses this plan. The DM notes that Spiderbait is, in fact, terrible at making food.
+- Spiderbait asks if he can just stick with the party and find work at Candlekeep doing something innocuous, like making food. Gyrgum endorses this plan. The DM notes that Spiderbait is, in fact, terrible at making food.
 
   <!-- as Spiderbait, pivoting to staying with the party -->
   GM: "Well, you know, I'm just a small goblin, and you're four big, powerful people. Do you mind if I just sort of hang out with you guys, maybe find a nice place? This candle key place seems like the kind of place that somebody like me could find a job doing something innocuous."
 
   <!-- endorsing the plan -->
-  Grygum: "That sounds like a better idea for you."
+  Gyrgum: "That sounds like a better idea for you."
 
   <!-- on Spiderbait's cooking offer and actual abilities -->
   GM: "I'll make food! I'm good at making food. H

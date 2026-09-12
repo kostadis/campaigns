@@ -24,7 +24,7 @@
 
 **Grogluk gate checkpoint — West Cleft District**
 - Status: COMPLETED (Success)
-- Grygum performed the Stone Guard salute correctly, proving they were not the Ember Vanguard. A 20 gold bribe was paid to pass through.
+- Gyrgum performed the Stone Guard salute correctly, proving they were not the Ember Vanguard. A 20 gold bribe was paid to pass through.
 
 ## Resolved Plot Threads
 
@@ -74,7 +74,7 @@
 - **Stool — myconid sprout prisoner, first contact**: Still with the party, chatting with Rumpadump.
 - **Rumpadump — return to Neverlight Grove**: Still with the party.
 - **Gorglak — corrupt duergar gate guard, bribe encounter**: Parallel to Grogluk encounter this session (different guard, same dynamic — 20 gold bribe paid).
-- **Zuggtmoy — Demon Queen of Fungi, presence at Neverlight Grove**: Referenced — Grygum and Thorin reported seeing Zuggtmoy in the Whorlstone Tunnels who made them an offer that Thorin refused.
+- **Zuggtmoy — Demon Queen of Fungi, presence at Neverlight Grove**: Referenced — Gyrgum and Thorin reported seeing Zuggtmoy in the Whorlstone Tunnels who made them an offer that Thorin refused.
 - **Drow pursuit level tracked — ongoing**: The party is using stealth (Zalthir's sphere of darkness) to move through Gracklstugh, suggesting ongoing concern about pursuit.
 - **Gray Ghosts dragon egg — recovered or returned**: Delivered to Gartokkar. Grey Ghosts are now seeking to recover it per their vendetta note.
 - **Stone giant curse at Whorlstone Tunnels — ritual disruption**: Completed and reported to Hgraam.

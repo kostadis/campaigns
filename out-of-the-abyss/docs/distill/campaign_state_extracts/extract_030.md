@@ -4,10 +4,10 @@
 - **Outcome:** Completed. The Grey Ghosts were killed ("The dead grey ghosts litter the street"). The party carried away secrets about the Deep King's plots, the corrupted dragon egg, and lurking demonic plots rather than revealing them.
 
 ### Themberchaud Dragon Ride — Gracklstugh
-- **Outcome:** Completed successfully. The party used Themberchaud's offer of "express service" to bypass checkpoints and patrols, flying from their location to the Darklake District docks. During the flight, several party members fell off (Grygum, Thorin, Daz) but were saved via Misty Step, Zalthir's wings, and Jimjar's rope throw.
+- **Outcome:** Completed successfully. The party used Themberchaud's offer of "express service" to bypass checkpoints and patrols, flying from their location to the Darklake District docks. During the flight, several party members fell off (Gyrgum, Thorin, Daz) but were saved via Misty Step, Zalthir's wings, and Jimjar's rope throw.
 
 ### Stone Guard Encounter at the Docks — Gracklstugh
-- **Outcome:** Resolved without violence. A lone Stone Guard recognized the party as the "Ember Vanguard" from a wanted poster. Grygum deceived him into believing they were impersonators on a secret mission to flush out the real Ember Vanguard, gave him a caltrop as a fake "symbol of their mission," and the guard ran off. The party then escaped on a large boat.
+- **Outcome:** Resolved without violence. A lone Stone Guard recognized the party as the "Ember Vanguard" from a wanted poster. Gyrgum deceived him into believing they were impersonators on a secret mission to flush out the real Ember Vanguard, gave him a caltrop as a fake "symbol of their mission," and the guard ran off. The party then escaped on a large boat.
 
 ### Departure from Gracklstugh — Darklake
 - **Outcome:** Completed. The party successfully escaped Gracklstugh by boat onto the Darklake, taking with them secrets about the Deep King's plots, the corrupted dragon egg, and demonic corruption. They avoided revealing dangerous information that could have provoked mass death.
@@ -33,7 +33,7 @@
 - **Status:** Likely aware of the party's passage through Gracklstugh. Zalthir notes she will probably inform the Drow, meaning drow pursuit may resume.
 
 ### Jimjar — Deep Gnome
-- **Status:** Now described as a ghoul (undead state confirmed). Still traveling with the party. Made a bet with Grygum that "this circle of joy will reveal itself to be a circle of unwilling vows" regarding Neverlight Grove — essentially predicting a demonic wedding. Grygum accepted the bet.
+- **Status:** Now described as a ghoul (undead state confirmed). Still traveling with the party. Made a bet with Gyrgum that "this circle of joy will reveal itself to be a circle of unwilling vows" regarding Neverlight Grove — essentially predicting a demonic wedding. Gyrgum accepted the bet.
 
 ### Sarith Kzekarit — Drow Prisoner
 - **Status:** Still traveling with the party. Experiencing a strange compulsion drawing him toward Neverlight Grove, connected to the dancing Myconids encountered in the Whorlstone Tunnels. Insists the party must go there.
@@ -66,7 +66,7 @@
 
 - **Current Location:** On foot in the Underdark, having left the Darklake on the 7th day of the 2nd tenday of Myrtul 1493. They beached their boat and are heading deeper on foot.
 - **Immediate Plan:** Travel to the Lost Tomb of Khaem first to secure a weapon, then proceed to Neverlight Grove.
-- **Boat Status:** Left on a beach; Grygum offered to scuttle it and later repair it with Mending, but no decision was recorded.
+- **Boat Status:** Left on a beach; Gyrgum offered to scuttle it and later repair it with Mending, but no decision was recorded.
 - **Drow Pursuit:** Expected to resume, as Errde Blackskull likely informed the drow of the party's passage through Gracklstugh.
 
 ---

@@ -39,9 +39,9 @@
 - **Ch. 57:** In the room for the interrogation; had earlier found **1001 Tashalian Nights** in Alkrist's chambers and dramatically revealed the bookmarked midnight-tears passage. Pressed Alkrist through the "mind control" dodge. Glabbagool (his sidekick) played secretary.
 
 ### Thorin — Fighter 8 (Battle Master), Dwarf, Player: Joe Beda
-- **Ch. 57:** Ran the interrogation as "Inspector Thorin"; flattered by Daral and by Elian. Proposed handing the evidence to Kalan to "clean house." *(Note: Thorin is a Battle Master — he has no spells; the Mending of the wrapping paper was **Grygum's**, not his.)*
+- **Ch. 57:** Ran the interrogation as "Inspector Thorin"; flattered by Daral and by Elian. Proposed handing the evidence to Kalan to "clean house." *(Note: Thorin is a Battle Master — he has no spells; the Mending of the wrapping paper was **Gyrgum's**, not his.)*
 
-### Grygum — Cleric 8 (Life Domain), Orc, Player: Ben Pfaff, Faith: Bahamut
+### Gyrgum — Cleric 8 (Life Domain), Orc, Player: Ben Pfaff, Faith: Bahamut
 - **Ch. 57:** Explored Janussi's third-floor chambers (alone), finding the damning note on Kalan; cast **Mending** to reassemble the wrapping paper (proving premeditation); fielded Fembris and deflected him to Glabbagool. *(Life cleric — does **not** have Polymorph; an earlier summary draft erred.)*
 
 ### Daz — Wizard 8 (Evoker), Drow, Player: Mike Hall
@@ -51,6 +51,6 @@
 
 ## Party Dynamics
 
-*(Carried over unchanged from live `docs/party.md`:* core bonds; active tensions — Thorin's Zhentarim drift, Zalthir's unilateral lethality, Daz's expanding deceptions, Grygum's faith-performance doubt; shared goals; the "Ember Vanguard" identity.*)*
+*(Carried over unchanged from live `docs/party.md`:* core bonds; active tensions — Thorin's Zhentarim drift, Zalthir's unilateral lethality, Daz's expanding deceptions, Gyrgum's faith-performance doubt; shared goals; the "Ember Vanguard" identity.*)*
 
 **Ch. 57 note to watch:** the party's collective over-confidence in the *zone of truth* result is itself a dynamic — nobody applied Kalan's "no single spell is proof" standard to their own conclusion. That blind spot is the seam Bookwyrm can split.

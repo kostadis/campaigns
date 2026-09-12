@@ -20,7 +20,7 @@
 **The Spectres (four, unnamed, Brysis's retainers)**
 - Emerged from the northeast sarcophagus passage when Thorin shoved the lid aside.
 - Identified as Brysis's bound retainers.
-- Attacked Daz twice with necrotic drain; Grygum's attempt to turn them failed.
+- Attacked Daz twice with necrotic drain; Gyrgum's attempt to turn them failed.
 - Two were destroyed by Zalthir through unarmed strikes; remaining two also destroyed by Zalthir.
 - Noted by Daz: if the central evil force persists, the Spectres may reconstitute.
 
@@ -50,7 +50,7 @@
 - Status: Traveling with the party.
 
 **Jimjar**
-- Offered to make a bet when Grygum mentioned not worrying about the crystals; smiled and accepted Grygum's counter-bet that the crystals would prove useful.
+- Offered to make a bet when Gyrgum mentioned not worrying about the crystals; smiled and accepted Gyrgum's counter-bet that the crystals would prove useful.
 - Referenced as starting new betting rounds during travel.
 - Status: Traveling with the party.
 

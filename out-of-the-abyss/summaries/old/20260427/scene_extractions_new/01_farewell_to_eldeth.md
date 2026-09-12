@@ -21,8 +21,8 @@ source: gmassist
 - Dawnbringer throws a hissy fit at being described as "a really cool sword who's kind of annoying sometimes"; Thorin acknowledges her, saying "I'm annoying also, Dawnbringer, look, you know, we got each other."
 - The DM notes that Eldeth also wanted to go first so that Thorin does not become the topic of conversation rather than the danger in the Underdark — she gives Zalthir a knowing look at this, aware that a drow traveling with a dwarf raised by giants could easily derail the briefing.
 - Spiderbait cheerfully announces that he hasn't been on the surface in his whole life and intends to explore, confident goblins are "totally integrated into society" and that nobody would attack a goblin for being a goblin.
-- The party gently corrects him; Grygum notes "the state of goblin equality and inclusion is rough at the moment."
-- Spiderbait asks if he can just stick with the party and find work at Candlekeep doing something innocuous, like making food. Grygum endorses this plan. The DM notes that Spiderbait is, in fact, terrible at making food.
+- The party gently corrects him; Gyrgum notes "the state of goblin equality and inclusion is rough at the moment."
+- Spiderbait asks if he can just stick with the party and find work at Candlekeep doing something innocuous, like making food. Gyrgum endorses this plan. The DM notes that Spiderbait is, in fact, terrible at making food.
 - Glabbagool is happy to stay with the party and continue west.
 
 ## Verbatim moments
@@ -157,13 +157,13 @@ source: gmassist
 **Daz** — *also correcting him*
 > "I, like, I'd be a little more careful."
 
-**Grygum** — *on the state of goblin civil rights*
+**Gyrgum** — *on the state of goblin civil rights*
 > "The, the state of goblin equality and inclusion is, rough at the moment."
 
 **GM** — *as Spiderbait, pivoting to staying with the party*
 > "Well, you know, I'm just a small goblin, and you're four big, powerful people. Do you mind if I just sort of hang out with you guys, maybe find a nice place? This candle key place seems like the kind of place that somebody like me could find a job doing something innocuous."
 
-**Grygum** — *endorsing the plan*
+**Gyrgum** — *endorsing the plan*
 > "That sounds like a better idea for you."
 
 **GM** — *on Spiderbait's cooking offer and actual abilities*

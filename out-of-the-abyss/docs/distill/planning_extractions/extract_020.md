@@ -41,8 +41,8 @@
 **Buppido / The Flumph** (Derro-turned-Flumph, traveling with the party)
 - Used by Daz to conduct a "trauma dump" on Errde, conveying psychic impressions of Grey Ghost and Council of Savants proximity
 - Expressed dissatisfaction with trauma dumps, saying they are no longer satisfying; told more trauma is coming
-- Received a gemstone from Werz, played with it, then dropped it (gem subsequently pocketed by Grygum)
-- Used by Daz as a telepathic relay to communicate privately with Grygum during the Werz meeting
+- Received a gemstone from Werz, played with it, then dropped it (gem subsequently pocketed by Gyrgum)
+- Used by Daz as a telepathic relay to communicate privately with Gyrgum during the Werz meeting
 
 **Stool** (Myconid sprout, traveling with the party)
 - Informed the party that myconids do not dance and expressed concern about the dancing myconids encountered previously
@@ -126,7 +126,7 @@
 
 **Deepking's Madness Arc**
 - Werz placed the onset of Stone Guard corruption "a few months ago when the madness of the Deepking took over," providing a timeline anchor
-- Daz noted a possible connection between the Faerzess disturbances and the timing (Grygum's internal observation, not shared)
+- Daz noted a possible connection between the Faerzess disturbances and the timing (Gyrgum's internal observation, not shared)
 - Clan Ironshadow's leadership is explicitly in a "wait out the madness" posture, suggesting the madness is widely recognized but unaddressed
 
 ---

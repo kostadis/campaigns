@@ -20,7 +20,7 @@
 - Current state: Active; relieved of duty by Bookwyrm; described as having a troubled relationship with the Keeper of Tomes
 - Recent actions: Arrived at the crime scene with Tadric around eight in the morning; returned alone at eleven for a full inspection; emerged looking "more determined" than when he entered; previously attempted (or was present when someone attempted) Speak with Dead on Janussi's corpse; had attempted to put Daz in irons upon the party's arrival at Candlekeep; received the council's decision with a correct bow and unreadable eyes
 - Faction: Candlekeep / Avowed
-- Revealed motivations/secrets: Janussi had asked him to resign the morning before his death; Bookwyrm stated he had a troubled relationship with the Keeper; his post-inspection demeanor suggests he found something in the room; Grygum identified him as the first person to be questioned
+- Revealed motivations/secrets: Janussi had asked him to resign the morning before his death; Bookwyrm stated he had a troubled relationship with the Keeper; his post-inspection demeanor suggests he found something in the room; Gyrgum identified him as the first person to be questioned
 
 **A'lai Aivenmore (Great Reader)**
 - Current location: Candlekeep, Chapter House and environs
@@ -38,7 +38,7 @@
 
 **Sylvira Savikas**
 - Does not appear in this session; referenced in the council chamber by Daral, who asked why she was not present
-- Current state: Absent from the council; Grygum noted she was "feeling sick, still"
+- Current state: Absent from the council; Gyrgum noted she was "feeling sick, still"
 - Faction: Candlekeep (implied)
 
 **The Bronze Dragonborn Great Reader (unnamed)**
@@ -63,16 +63,16 @@
 **Brother Vareth**
 - Current location: Candlekeep, West Inner Ward, his side office
 - Current state: Active; deeply excited; has begun his own research
-- Recent actions: Met with Grygum; delivered a prepared speech on the three schools of the Grygum debate (Stroudite, Bahamutian, Draconic); engaged seriously with Grygum's proposed fourth school; named it the "strong-weak hypothesis"; handed Grygum a stack of Stroudite papers; rushed off to begin his own research
+- Recent actions: Met with Gyrgum; delivered a prepared speech on the three schools of the Gyrgum debate (Stroudite, Bahamutian, Draconic); engaged seriously with Gyrgum's proposed fourth school; named it the "strong-weak hypothesis"; handed Gyrgum a stack of Stroudite papers; rushed off to begin his own research
 - Faction: Candlekeep / Avowed; forty-one years in the West Inner Ward
-- Revealed motivations/secrets: Has observed the Grygum debate for long enough to have prepared a structured account of it; found Grygum's fourth-school proposal genuinely destabilizing in an intellectually exciting way; coined the term "strong-weak hypothesis" and "Grygumite school"
+- Revealed motivations/secrets: Has observed the Gyrgum debate for long enough to have prepared a structured account of it; found Gyrgum's fourth-school proposal genuinely destabilizing in an intellectually exciting way; coined the term "strong-weak hypothesis" and "Gyrgumite school"
 
 **Pizwog**
 - Current location: Candlekeep, West Inner Ward
 - Current state: Active; moving slowly
-- Recent actions: Interrupted Grygum and Vareth's meeting to distribute a personal research paper — a syncretic analysis of religions across the Sword Coast
+- Recent actions: Interrupted Gyrgum and Vareth's meeting to distribute a personal research paper — a syncretic analysis of religions across the Sword Coast
 - Faction: Candlekeep / Avowed (implied)
-- Revealed motivations/secrets: The paper is deeply theoretical, internally inconsistent in meaningful ways, and written with strong opinions about the word *however*; Grygum intends to read it sincerely
+- Revealed motivations/secrets: The paper is deeply theoretical, internally inconsistent in meaningful ways, and written with strong opinions about the word *however*; Gyrgum intends to read it sincerely
 
 **Fembris**
 - Current location: Candlekeep; last seen outside the Keeper's tower after vomiting from the window
@@ -132,7 +132,7 @@
 
 **Sister Yvenne**
 - Does not appear in this session; referenced by Vareth
-- Current state: Not present; threatening to confiscate everyone's bookplates over the Grygum debate
+- Current state: Not present; threatening to confiscate everyone's bookplates over the Gyrgum debate
 - Faction: Candlekeep / Avowed (implied)
 
 **The Candlekeep Cat (unnamed)**
@@ -155,11 +155,11 @@
 - Faction: Party companion; described internally as containing a spy
 
 **Stroud**
-- Does not appear in this session; central figure in the Grygum theological debate
+- Does not appear in this session; central figure in the Gyrgum theological debate
 - Revealed: A philosopher/figure who made a decisive chess move against the dragon Protanther, described as a perfect throw in an unrepeatable instant; the Stroudite school holds that his mortal choice was sovereign and not divinely ordained; the Bahamutian school holds he was an instrument of Bahamut's providence
 
 **Protanther**
-- Does not appear in this session; referenced in the Grygum debate
+- Does not appear in this session; referenced in the Gyrgum debate
 - Revealed: An ancient dragon who spent four hundred years studying a chess position; was defeated by Stroud; the Draconic school holds that Protanther honored Stroud's move because Protanther is honorable, not because Bahamut compelled him
 
 **Alaundo**
@@ -171,12 +171,12 @@
 - Revealed: Had mentioned to a council member that Zalthir possessed a unique skill
 
 **Asha Vandree**
-- Does not appear in this session; referenced by Grygum in internal reflection
-- Revealed: A theological document from her chain mail contained a Lolth/Zuggtmoy equivalence written in a hand that wanted to seem incidental; Grygum has retained this document and considers it significant
+- Does not appear in this session; referenced by Gyrgum in internal reflection
+- Revealed: A theological document from her chain mail contained a Lolth/Zuggtmoy equivalence written in a hand that wanted to seem incidental; Gyrgum has retained this document and considers it significant
 
 **Ilvara**
-- Does not appear in this session; referenced by Grygum in internal reflection
-- Revealed: Grygum has Ilvara's prayer book; referenced alongside the Zuggtmoy marginalia and Asha Vandree's theological document as part of a pattern Grygum is tracking
+- Does not appear in this session; referenced by Gyrgum in internal reflection
+- Revealed: Gyrgum has Ilvara's prayer book; referenced alongside the Zuggtmoy marginalia and Asha Vandree's theological document as part of a pattern Gyrgum is tracking
 
 ---
 
@@ -194,11 +194,11 @@
 - Relationships: Subordinate to the Great Readers; Gate Warden now relieved; junior members (Tadric, Fembris) caught in the gap between their assignments and the actual demands of the situation
 - Key members: Kalan Strongbranch (Gate Warden, relieved), Brother Vareth, Pizwog, Fembris, Tadric, Sister Yvenne (referenced only)
 
-**The Grygumite School**
+**The Gyrgumite School**
 - Current goals: Not yet formally stated; exists as a newly proposed theological framework
-- Recent actions: Grygum proposed the strong-weak hypothesis in conversation with Vareth; Vareth named it, began his own research, and is preparing a marked-up response; the school now exists in institutional awareness at Candlekeep
+- Recent actions: Gyrgum proposed the strong-weak hypothesis in conversation with Vareth; Vareth named it, began his own research, and is preparing a marked-up response; the school now exists in institutional awareness at Candlekeep
 - Relationships: Positioned as a compromise between and challenge to the Stroudite and Bahamutian schools; distinct from the Draconic school
-- Key members: Grygum (founder), Vareth (first researcher)
+- Key members: Gyrgum (founder), Vareth (first researcher)
 
 **The Stroudite School**
 - Current goals: Defend the doctrine of sovereign mortal choice; no fixed points
@@ -219,10 +219,10 @@
 
 ## World Events
 
-- Brother Vareth briefed Grygum on the three-school theological debate (Stroudite, Bahamutian, Draconic) consuming Candlekeep and beyond; three duels have been fought at Candlekeep over the debate; courts of two cities have requested written opinions
-- Grygum proposed a fourth school — the strong-weak hypothesis — to Vareth during their meeting in his office
-- Vareth named the school the Grygumite school, coined the term strong-weak hypothesis, and immediately departed to begin his own research
-- Pizwog distributed his syncretic religious analysis paper to Grygum during the meeting with Vareth
+- Brother Vareth briefed Gyrgum on the three-school theological debate (Stroudite, Bahamutian, Draconic) consuming Candlekeep and beyond; three duels have been fought at Candlekeep over the debate; courts of two cities have requested written opinions
+- Gyrgum proposed a fourth school — the strong-weak hypothesis — to Vareth during their meeting in his office
+- Vareth named the school the Gyrgumite school, coined the term strong-weak hypothesis, and immediately departed to begin his own research
+- Pizwog distributed his syncretic religious analysis paper to Gyrgum during the meeting with Vareth
 - The party had dinner at the Refectory; prophecies were recited from the gallery above throughout
 - The prophecy *"On the longest night of winter's deepest cold, the keeper falls, the heart is sold"* was recited during dinner; Thorin noted it and retained it
 - A hooded Avowed figure was observed moving past the Refectory at a half-run with something tucked under their robe
@@ -230,7 +230,7 @@
 - A messenger from the First Reader arrived at the party's rooms before dawn with news of the Keeper of Tomes' death and a summons through the emerald door
 - The party was escorted through the emerald door and to the Chapter House before the Avowed awoke
 - The Council of Twelve convened in emergency session; debate broke out over whether to vote for new leadership, find a successor, or find the murderer
-- Grygum announced himself as founder of the Grygumite School to the council; several members became immediately interested
+- Gyrgum announced himself as founder of the Gyrgumite School to the council; several members became immediately interested
 - The party was auditioned by the council; Daz summarised their investigative history; the council agreed to delegate the investigation
 - Bookwyrm relieved Kalan Strongbranch of duty in the council chamber before he could speak
 - Bookwyrm disclosed on the staircase that Janussi had asked Kalan to resign the morning before his death, citing concerns about mental faculties and negligence; declined to elaborate further
@@ -257,12 +257,12 @@
 
 **West Inner Ward**
 - What it is: A ward within Candlekeep smelling of old paper; location of Brother Vareth's side office
-- What happened here: Grygum met with Vareth; the Grygumite school was proposed and named; Pizwog distributed his research paper
+- What happened here: Gyrgum met with Vareth; the Gyrgumite school was proposed and named; Pizwog distributed his research paper
 - Current state: Ongoing academic activity; Vareth now pursuing his own research on the strong-weak hypothesis
 
 **The Immortal Chambers**
 - What it is: A space within the West Inner Ward with a tile floor bearing one deity symbol per tile
-- What happened here: Grygum and Vareth passed through; Grygum attempted to follow Vareth's path across the tiles
+- What happened here: Gyrgum and Vareth passed through; Gyrgum attempted to follow Vareth's path across the tiles
 - Current state: Unchanged
 
 **The Refectory**
@@ -288,7 +288,7 @@
 **The Drakonoikos**
 - What it is: A building within Candlekeep constructed from the scales and bones of the dragon Fyrentennimar; contains the Dragon Breath Simulation Chamber
 - What happened here: Pointed out to the party by Fembris during the tour; Fembris warned that one Avowed died in the simulation chamber, after which the Keeper's permission became required
-- Current state: Unchanged; Grygum expressed interest in visiting the simulation chamber later
+- Current state: Unchanged; Gyrgum expressed interest in visiting the simulation chamber later
 
 **The Chapter House**
 - What it is: A twelve-sided chamber with twelve chairs, a rose window, and western gables; the meeting space of the Council of Twelve
@@ -332,8 +332,8 @@
 - **What were the two Great Readers in the Refectory whispering about?** Observed by Thorin at dinner; content unknown; timing (the night before the discovery of the body) may be significant
 - **The prophecy: "On the longest night of winter's deepest cold, the keeper falls, the heart is sold."** Recited during the party's dinner; appears directly relevant to Janussi's death (keeper fallen, heart literally removed); raises the question of whether the murder was prophesied, planned around the prophecy, or coincidental; the phrase "the heart is sold" implies a transaction — who sold it, and to whom?
 - **What happens when Alaundo's prophecy inventory runs out?** Referenced as an open question at Candlekeep; no answer established
-- **What is the significance of the Lolth/Zuggtmoy equivalence document from Asha Vandree's chain mail?** Grygum is tracking this alongside Ilvara's prayer book and the Zuggtmoy marginalia as part of a pattern; the pattern's nature and implications remain unspecified
-- **The Grygumite strong-weak hypothesis: is it correct?** Grygum proposed it by accident; Vareth has accepted it as a serious framework; its relationship to actual events in the campaign (fixed points, constrained choices) remains to be tested
-- **What is Pizwog's research paper actually arguing?** Described as internally inconsistent in meaningful ways; Grygum intends to read it and has flagged the inconsistencies as significant
+- **What is the significance of the Lolth/Zuggtmoy equivalence document from Asha Vandree's chain mail?** Gyrgum is tracking this alongside Ilvara's prayer book and the Zuggtmoy marginalia as part of a pattern; the pattern's nature and implications remain unspecified
+- **The Gyrgumite strong-weak hypothesis: is it correct?** Gyrgum proposed it by accident; Vareth has accepted it as a serious framework; its relationship to actual events in the campaign (fixed points, constrained choices) remains to be tested
+- **What is Pizwog's research paper actually arguing?** Described as internally inconsistent in meaningful ways; Gyrgum intends to read it and has flagged the inconsistencies as significant
 - **What is the Candlekeep cat?** Bookwyrm cannot confirm or deny that it is something more than a cat; it stays where it wishes; the question is institutionally unresolved
 - **What unique skill does Zalthir possess that Brother Khell-Vire mentioned to the council?** Referenced but not elaborated upon; the council member asked about it directly

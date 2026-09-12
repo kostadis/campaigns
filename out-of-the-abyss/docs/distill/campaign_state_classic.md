@@ -2,7 +2,7 @@
 
 **Campaign horizon:** Party has escaped the Underdark, reached the surface, and is currently at Candlekeep resolving the murder of Keeper of Tomes Janussi. **This campaign diverged sharply from the published module** — the party never undertook a second Underdark expedition, never reached Gravenhollow/Menzoberranzan/Mantol-Derith, never met Vizeran, and never performed the demon-lord summoning ritual or fought the demon lords. Do not suggest those beats as active content.
 
-**Current PCs:** Grygum (half-orc cleric of Bahamut), Daz (drow apostate evoker), Thorin (dwarf, wields Dawnbringer), Zalthir (dragonborn shadow monk, vow of silence). Companion: Glabbagool (sentient ooze, Zalthir's Shadow Apprentice sidekick).
+**Current PCs:** Gyrgum (half-orc cleric of Bahamut), Daz (drow apostate evoker), Thorin (dwarf, wields Dawnbringer), Zalthir (dragonborn shadow monk, vow of silence). Companion: Glabbagool (sentient ooze, Zalthir's Shadow Apprentice sidekick).
 
 ---
 
@@ -14,7 +14,7 @@
 - **Jorlan's Gambit** — Jorlan Duskryn left the prison door unlocked and created a distraction out of spite toward Ilvara/Shoor. Executed successfully.
 - **Guard-chamber revolt & armory raid (Velkynvelve)** — Prisoners killed Imbros and two guards; armed themselves. Prince Derendil killed by Imbros.
 - **Escape from Velkynvelve** — Fled during a demon attack (chasme/vrock) via the waterfall into the pool and out to the Darklake tunnels. Ront killed by a vrock. Ilvara left honor-bound to pursue.
-- **Flight/pursuit through Underdark tunnels** — Evaded Nym Duskryn's scouts via Grygum's Thaumaturgy; survived cave-ins and a giant centipede.
+- **Flight/pursuit through Underdark tunnels** — Evaded Nym Duskryn's scouts via Gyrgum's Thaumaturgy; survived cave-ins and a giant centipede.
 - **Silken Paths traversal** — Crossed the spider-web chasm with goblin guides Yuk Yuk & Spiderbait; rescued Fargas Rumblefoot; killed a mad spectator; learned the location/secret of the Lost Tomb of Khaem.
 - **Gorge bandit ambush & truce** — Killed bandits, traded food for intel confirming Blingdenstone as the surface route.
 - **Yuk Yuk's murder resolved** — Buppido exposed as the killer; bound and gagged.
@@ -133,7 +133,7 @@
 | Sister Yvenne | Alive | Candlekeep | Daz's handler (knows more than she says) |
 | Philemon | Alive | Candlekeep | Thorin/Dawnbringer handler |
 | Khell-Vire | Alive | Candlekeep | Zalthir's handler |
-| Vareth | Alive | Candlekeep | Grygum's collaborator |
+| Vareth | Alive | Candlekeep | Gyrgum's collaborator |
 | Kei Tigersteel | Alive | Candlekeep (Temple of Oghma) | Neutral |
 | Dawnbringer | Active (sentient sword) | Wielded by Thorin | Loyal but resists "religious use" |
 
@@ -386,9 +386,9 @@
 **Daz fitted Calishite cloak (Open Lord's Bazaar)** — NOT FOUND IN SUMMARIES.
 **Milo Goodbarrel Volume 3 (Rishaal's)** — NOT FOUND IN SUMMARIES (Milo Goodbarrel referenced only as Order of the Gauntlet publisher on the Tarvis monument).
 **Order of the Gauntlet pewter medallion (Daggerford)** — NOT FOUND IN SUMMARIES.
-**Grygum Hagiography Vol III / Zalthir shadow-puppet hand (Waterdeep)** — NOT FOUND IN SUMMARIES.
+**Gyrgum Hagiography Vol III / Zalthir shadow-puppet hand (Waterdeep)** — NOT FOUND IN SUMMARIES.
 **Dawnbringer scabbard finishing (Steelwoods of Mistshore)** — NOT FOUND IN SUMMARIES (a locking scabbard was instead made by Valimor Brightgem in Blingdenstone).
-**Elin the silent child — Grygum healing attempt (Daggerford)** — DONE (Lesser Restoration gave one sentence; condition non-magical, tied to Underdark madness).
+**Elin the silent child — Gyrgum healing attempt (Daggerford)** — DONE (Lesser Restoration gave one sentence; condition non-magical, tied to Underdark madness).
 **Charcoal rubbing of six-pointed star** — NOT FOUND IN SUMMARIES.
 **Kestler meeting (Triboar)** — NOT FOUND IN SUMMARIES.
 **Triboar carpenter's journal donated at gate** — NOT FOUND IN SUMMARIES.
@@ -417,7 +417,7 @@
 **Daz / Yvenne scholar arc (Drow Material Culture)** — DONE/ongoing: Daz's identity investigation ("Daz'issin," sealed Menzoberranzan records, fourth-seat archive holder); Yvenne knows more than she can say. Fourth-seat synthesis / Vaelissa T'sarran name / Bell Tower deadline — NOT FOUND (specific beats not reached).
 **Zalthir / Khell-Vire scholar arc** — DONE/ongoing: shadow-monk trial passed (new technique gained); unresolved desk note "until the Bone King sings." Watcher's Stillness / Severed Path specifics — NOT FOUND.
 **Thorin / Philemon scholar arc (Dawnbringer therapy)** — DONE/ongoing: two-stage light-then-grief therapy enrolled. Path A/B/C phases and Layer 2 Brysis reveal — NOT FOUND.
-**Grygum / Vareth scholar arc (Stroud Wake)** — DONE/ongoing: founded the "Grygumite School" (fourth-corner synthesis / Stroud's Gambit); public colloquium a success. Stations 1–10 / unsigned sting — NOT FOUND as discrete beats.
+**Gyrgum / Vareth scholar arc (Stroud Wake)** — DONE/ongoing: founded the "Gyrgumite School" (fourth-corner synthesis / Stroud's Gambit); public colloquium a success. Stations 1–10 / unsigned sting — NOT FOUND as discrete beats.
 **Glabbagool's question (Whispering Dome)** — DONE (answered; unlocked Shadow Apprentice sidekick).
 **Polly Pocket disposition** — NOT FOUND IN SUMMARIES.
 **Sylvira recruitment (Path A/B/C)** — NOT FOUND IN SUMMARIES as a battlefield-ally recruitment (Sylvira was framed, interviewed, cleared; revealed as Moziqodo's mother).
@@ -443,7 +443,7 @@
 **Bell Tower — Polly Pocket cells** — NOT FOUND IN SUMMARIES.
 **Cursed Tower — Moziqodo and rooftop incidents** — NOT FOUND IN SUMMARIES (Moziqodo killed in the rotunda instead).
 **Pont de Paramours — Kalan disappearance / forged note** — NOT FOUND IN SUMMARIES.
-**Oval Theatre — Casketball Tournament** — PARTIAL: Oval Theatre used for Grygum's theological colloquium; no Casketball Tournament found.
+**Oval Theatre — Casketball Tournament** — PARTIAL: Oval Theatre used for Gyrgum's theological colloquium; no Casketball Tournament found.
 **House of Alaundo — riddle / inkpot / first prophecy** — NOT FOUND IN SUMMARIES.
 **Astronomicon Orrery — Limniz clue / Manshoon raiders** — NOT FOUND IN SUMMARIES.
 **Philosopher's Court — Fustilugs clue** — NOT FOUND IN SUMMARIES.
@@ -473,7 +473,7 @@
 **Kazryn Nyantani** — PARTIAL (present, weeping; A'lai alibi-break interview NOT completed on-page).
 **Khell-Vire** — DONE (Zalthir's handler; closing letter NOT FOUND).
 **Philemon** — DONE (Thorin's handler; sealed-letter delivery NOT FOUND).
-**Vareth** — DONE (Grygum's collaborator; final stations/unsigned sting NOT FOUND).
+**Vareth** — DONE (Gyrgum's collaborator; final stations/unsigned sting NOT FOUND).
 **Yvenne** — DONE/ongoing (Daz's handler; Vaelissa name / Fourth-Seat synthesis scene NOT FOUND).
 **Inda / Spanner** — NOT FOUND IN SUMMARIES.
 **Moziqodo** — first encounter PARTIAL (killed in rotunda, not a rooftop/Cursed Tower encounter); binding break NOT FOUND; fate DONE (killed).

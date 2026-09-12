@@ -28,7 +28,7 @@ When we cleared the last one, no one said anything for a moment. Thorin hit me o
 
 *The path through this is not to pick a side. The path through this is to give each faction exactly what they need to believe they have won, and to be three tunnels east of here when they compare notes.*
 
-I put away the journal. Grygum was walking toward me with the expression he wears when he has had what he calls a divine inspiration and what I call a plan that will require me to improvise.
+I put away the journal. Gyrgum was walking toward me with the expression he wears when he has had what he calls a divine inspiration and what I call a plan that will require me to improvise.
 
 "I have been taking notes," he said.
 

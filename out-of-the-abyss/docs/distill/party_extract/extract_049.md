@@ -6,7 +6,7 @@
 **Daz**
 - Received the **Voucher of the Varmint** (braided rat's foot) from Chief Chipgrin — a token of friendship recognized by wererats and outcasts from Blingdenstone to Menzoberranzan.
 
-**Grygum**
+**Gyrgum**
 - Lost **10 platinum pieces** (party funds) paid to Jimjar for the ooze-pacification wager. (Later returned by Jimjar before departure.)
 
 **Party (collective)**
@@ -19,9 +19,9 @@
 
 **Thorin** — Physically winched a critical support beam into place, earning the Diggermattock Miners Patch and honorary crew status. *(Positive — recognition and community integration.)*
 
-**Grygum** — Healed the Earth Elemental with magic, saving the throne room passage and earning a geode token of favor from the elemental (and by extension, favor from Entemoch, Prince of Good Elementals). *(Positive — divine/elemental goodwill.)*
+**Gyrgum** — Healed the Earth Elemental with magic, saving the throne room passage and earning a geode token of favor from the elemental (and by extension, favor from Entemoch, Prince of Good Elementals). *(Positive — divine/elemental goodwill.)*
 
-**Grygum** — Healed burned Gnomish miners at the support beams. *(Positive — community service, reputation.)*
+**Gyrgum** — Healed burned Gnomish miners at the support beams. *(Positive — community service, reputation.)*
 
 **Daz** — Delivered a passionate unity speech at the Blingdenstone council, successfully brokering peace between multiple factions (miners, wererats, ghosts, labor). *(Positive — major political influence and diplomatic achievement.)*
 
@@ -41,7 +41,7 @@
 - Earned honorary membership with the **Diggermattock Miners**, strengthening ties to Blingdenstone's labor community.
 - Attempted (initially unsuccessfully) to redirect Diggermattock and Chipgrin away from territorial argument toward the ooze threat — showing leadership instinct.
 
-**Grygum**
+**Gyrgum**
 - Earned the favor of **Entemoch** (Prince of Good Elementals) through healing the Earth Elemental.
 - Willingly paid Jimjar's wager without complaint, demonstrating trust and good faith.
 

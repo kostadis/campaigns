@@ -2,11 +2,11 @@
 
 **Plinki (derro leader)**
 - Confronted the party at the start of the encounter; her mental state was described as focused on sacrifice and devotion to a demon lord referred to as "the Big Baboon Demon"
-- Attempted to resist or dismiss Grygum's appeal to choice and dragon gods
+- Attempted to resist or dismiss Gyrgum's appeal to choice and dragon gods
 - Was targeted and killed by Zalthir with fire-based magic; her mind went silent abruptly, described as a candle going out
 - Her death immediately broke the morale and cohesion of her derro followers
 
-**Grygum (orc-cleric)**
+**Gyrgum (orc-cleric)**
 - Attempted to open a dialogue with Plinki before combat escalated, appealing to themes of choice and dragon gods
 - Did not succeed in persuading her; combat broke out
 

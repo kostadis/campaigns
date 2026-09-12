@@ -68,11 +68,11 @@
 - Fought the helmed horrors with Dawnbringer, killing one mid-motion. [cite: "killed it mid-motion, before its second swing ever landed"]
 - Proposed using a destroyed helmed horror as a divining rod for the key. [cite: "use it to detect who else has the key"]
 
-### Grygum (PC)
+### Gyrgum (PC)
 - Takes notes and records the group's deliberations. [cite: "I record them, and I watch who's pretending"]
 - Has abundant heal spells, Lesser Restoration, and Revivify. [cite: "I also have Revivify, so we're covered either way"]
 - Cast a burst of light striking two helmed horrors. [cite: "a burst of clean light that caught two of them at once"]
-- Held the key after Daz passed it to him. [cite: "Daz passed the key to Grygum"]
+- Held the key after Daz passed it to him. [cite: "Daz passed the key to Gyrgum"]
 
 ### Glabbagool
 - Ooze fused to Zalthir's arm; obeyed instruction to stay quiet during tea. [cite: "He stayed still because I asked him to"]
@@ -84,7 +84,7 @@
 - Faction: The Avowed.
 - Predicted to be elected the new head of the Avowed. [cite: "Fembris Lancer will probably get elected the new The Avowed"]
 - Ate the party's food unbidden, serving as their taster. [cite: "he had just been promoted"]
-- Witnessed the key change hands from Grygum to Daz. [cite: "who saw it? Fembris Lancer. Standing right there"]
+- Witnessed the key change hands from Gyrgum to Daz. [cite: "who saw it? Fembris Lancer. Standing right there"]
 
 ### Daral Yashenti
 - Current location: Deneir's Sanctum with the party, door locked. [cite: "found the door still locked. He was not going anywhere"]
@@ -150,7 +150,7 @@
 - The inert key the helmed horrors sought reads as nothing under all detection spells — its purpose unknown. [cite: "A key that read as nothing under every spell we'd thrown at it. Dead. Inert."]
 - Who sent the helmed horrors — they cannot talk, chosen so no one could be interrogated. [cite: "whoever built these chose them precisely so there'd be nobody to squeeze afterward"]
 - The helmed horrors tracked the key itself, not a face. [cite: "They were following the key itself, sniffing it out through plate and pocket both"]
-- Fembris Lancer saw the key change hands, raising suspicion of his involvement. [cite: "the suits had gone straight for Daz, then straight for Grygum the second the key changed hands"]
+- Fembris Lancer saw the key change hands, raising suspicion of his involvement. [cite: "the suits had gone straight for Daz, then straight for Gyrgum the second the key changed hands"]
 - The missing sapphire Zalthir searched for — Bookwyrm did not have it. [cite: "I'm hoping she has one on her — that would be interesting"]
 - Who performed the polymorphing remains unknown. [cite: "we don't know who did the poly… I mean, she may or may not have done the polymorphing"]
 - The naming ceremony's outcome — predicted to pass over both Bookwyrm and A'lai Aivenmore. [cite: "I suspect the vote will go elsewhere"]

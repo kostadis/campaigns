@@ -17,7 +17,7 @@ Archpriest of the Sea Mother, leader of the traditionalist kuo-toa faction in Sl
 - Restless and constantly in motion, walking around while speaking. Stares unblinkingly and is deeply proud of the Sea Mother faith, taking offense when it is called a "weird religion."
 - Cunning and manipulative — willing to use the party as bait and orchestrated an elaborate ruse, pretending to cooperate with the Deep Father cult while secretly planning to betray his daughter.
 - Pragmatic but also genuinely hospitable, feeding and housing the party. Shows cultural openness to outsiders' gestures of respect.
-- Was delighted when Grygum and Thorin spat on the Sea Mother's altar as an offering.
+- Was delighted when Gyrgum and Thorin spat on the Sea Mother's altar as an offering.
 
 ## History with the Party
 1. **Suushar's recommendation:** Before meeting Ploopploopeen, Suushar suggested the archpriest could help Thorin with a bout of madness and would welcome Suushar's spiritual awakening.
@@ -29,7 +29,7 @@ Archpriest of the Sea Mother, leader of the traditionalist kuo-toa faction in Sl
 7. **The Altar Ruse:** Ploop presented the escapees as offerings to Bloppblippodd at the altar, appearing to cooperate with the Deep Father cult. This was a calculated deception.
 8. **Betrayal Revealed:** Instead of sacrificing the escapees, Ploop turned on his daughter, attacking Bloppblippodd alongside his allies and triggering an all-out civil war among the kuo-toa.
 9. **Killing Blow:** Ploop personally struck the final, fatal blow against Bloppblippodd before the altar.
-10. **Aftermath:** Grygum looted Ploop's thatched hut, justifying it by noting that Ploop had previously promised to pay the party.
+10. **Aftermath:** Gyrgum looted Ploop's thatched hut, justifying it by noting that Ploop had previously promised to pay the party.
 
 ## Current Status
 - **Last known location:** Sloobludop, at or near the altar where the battle took place
@@ -41,7 +41,7 @@ Archpriest of the Sea Mother, leader of the traditionalist kuo-toa faction in Sl
 - **Glooglugogg (son):** Believes Ploopploopeen was too lenient with Bloppblippodd, contributing to the current crisis.
 - **Suushar:** Fellow Sea Mother faithful; Suushar spoke highly of Ploopploopeen and expected a warm welcome.
 - **The Party:** Complex relationship — used them as pawns in his scheme and had promised them payment, but also protected them through his ruse and was genuinely hospitable. Thorin recognized the sophistication of Ploop's deception.
-- **Grygum & Thorin:** Specifically pleased by their altar offering; assured Thorin about kuo-toan eating habits. Grygum later looted Ploop's home, citing the unpaid promise of compensation.
+- **Gyrgum & Thorin:** Specifically pleased by their altar offering; assured Thorin about kuo-toan eating habits. Gyrgum later looted Ploop's home, citing the unpaid promise of compensation.
 
 ## Arc Score Events
 None explicitly noted.

@@ -27,13 +27,13 @@ orders to track the party's destination and contacts.
 
 ### What happened
 
-- **The intimidation beat.** Grygum placed prayer beads on the
+- **The intimidation beat.** Gyrgum placed prayer beads on the
   scout's head. Two factors compounded her terror:
   - Her trained understanding of *what Lolth clerics do to
     prisoners* (drow-canon: ritualized, aimed at breaking devotion
-    before death). She projected that template onto Grygum at the
+    before death). She projected that template onto Gyrgum at the
     moment of capture.
-  - Grygum's combination of **half-orc heritage and Bahamut
+  - Gyrgum's combination of **half-orc heritage and Bahamut
     devotion** broke her threat-assessment frame. The half-orc
     presented as physical threat; the prayer beads said *cleric*
     but of *the dragon god of justice* — her training had no clean
@@ -46,7 +46,7 @@ orders to track the party's destination and contacts.
   with the magical mushrooms recovered from the Underdark.*
 
 - **The custody.** She was shrunk. She is now **tied up, inside
-  the bag of holding the party uses (where Grygum's gear is also
+  the bag of holding the party uses (where Gyrgum's gear is also
   kept), watched by Glabbagool** — the talkative grey ooze, who
   is in the bag with her.
 
@@ -54,7 +54,7 @@ orders to track the party's destination and contacts.
 
 - Doll-sized (mushroom-shrunk).
 - Bound.
-- Inside the bag of holding alongside Grygum's stored gear.
+- Inside the bag of holding alongside Gyrgum's stored gear.
 - **The bag is held open** so the air stays fresh. Air-rule is
   resolved at the table — she breathes fine.
 - **Glabbagool has positioned himself at the opening** —
@@ -66,7 +66,7 @@ orders to track the party's destination and contacts.
   day impressions to a captive audience while keeping watch
   outward at the same time. He is multitasking.
 - Her trained drow categories don't fit Glabbagool any better
-  than they fit Grygum. Two destabilizers in a row.
+  than they fit Gyrgum. Two destabilizers in a row.
 
 ### Implications carrying forward
 
@@ -75,7 +75,7 @@ prep doc — she is an excellent listener and *her Matron pays for
 excellent listening.* From the bag, she has been hearing party
 conversation. Assume she has clocked: the destination (Candlekeep),
 Daz's investigation interests, Thorin's plans for Dawnbringer,
-Grygum's Bahamut research, and any operational discussion conducted
+Gyrgum's Bahamut research, and any operational discussion conducted
 within hearing range. **Releasing her without a binding vow is now
 an active leak.**
 
@@ -112,11 +112,11 @@ This is a **free tick on the disclosure trade** — Daz has *acted,*
 the action was significant, Yvenne's read of Vaelissa lands sharper
 as a result. Apply at the Yvenne sitting.
 
-**Grygum's terror profile.** Grygum is now a *known terror profile*
+**Gyrgum's terror profile.** Gyrgum is now a *known terror profile*
 among House-aligned drow scouts: a half-orc Bahamut cleric who
 intimidates with prayer beads. Word will spread within T'sarran's
 operatives first, then more broadly. Future drow encounters with
-Grygum should reflect *calibrated caution* — the scouts'
+Gyrgum should reflect *calibrated caution* — the scouts'
 training-frame still has no clean answer for him.
 
 **The "talkative grey ooze guard"** — a memorable cell concept the
@@ -168,7 +168,7 @@ visible** to anyone the party passes. Implications:
 - `notes/threads/post_candlekeep_open_threads.md`: replace the
   generic *"T'sarran scout active"* line with the shrunk-and-pouched
   specific state; add Vaelissa-personal-affront escalation; add
-  Grygum-as-terror-profile note for future drow encounters; flag
+  Gyrgum-as-terror-profile note for future drow encounters; flag
   the Daz-Yvenne free-tick credit.
 - `notes/sessions/candlekeep_day_one.md` Act 1 section: append a
   cross-reference to this play-log entry so the prep doc reflects

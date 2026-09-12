@@ -5,11 +5,11 @@ narrator: Zalthir
 scene_name: A Secret Meeting with Kalan
 session: 20260608
 ---
-The key went to Grygum. I marked that before anything else — not into Daz's hand, not into Thorin's, not into the open air for whoever was closest. Kalan stepped out of a doorway we hadn't clocked, swept the corridor left, then right, and pressed a small brass key specifically into the cleric's palm. He chose the orc. I don't think it was chance.
+The key went to Gyrgum. I marked that before anything else — not into Daz's hand, not into Thorin's, not into the open air for whoever was closest. Kalan stepped out of a doorway we hadn't clocked, swept the corridor left, then right, and pressed a small brass key specifically into the cleric's palm. He chose the orc. I don't think it was chance.
 
 "Whatever Bookwyrm is telling you, listen for what she isn't," he said, low. "The High Tower has two keys. Janussi wore one, I held the other. I have given it now to someone who is not me. If I and I do not see you tomorrow, do not look for me at my post."
 
-"You're worried that you'll be killed for the key?" Grygum asked.
+"You're worried that you'll be killed for the key?" Gyrgum asked.
 
 Kalan looked left. Looked right. "It is best that if I am killed, the key not be found."
 
@@ -21,7 +21,7 @@ You don't need the key for that, came the answer. The tower is watched. Always. 
 
 I went after him. The rest of them had their questions, but most of those would dissolve into noise. I had a few that wouldn't.
 
-"You need both," I said, when Grygum circled back to why a second key mattered. "Power with two." Thorin called it a war-game swapper, two officers turning keys to launch the missile. The metaphor was loud and it was also correct.
+"You need both," I said, when Gyrgum circled back to why a second key mattered. "Power with two." Thorin called it a war-game swapper, two officers turning keys to launch the missile. The metaphor was loud and it was also correct.
 
 "Before you go," I said. "Did you find anything? Any idea who's behind this?"
 
@@ -29,7 +29,7 @@ He staged it — reminded us, twice, that he had been wanted off the case. Then 
 
 "Purely accidental," I told him. "We have no particular involvement here. Someone put us up to this. We are happy to not get involved." True enough. Filed under things that are also true.
 
-He decided the nature of fate had brought disinterested outsiders to exactly this place, and that this meant something. I offered the simple version: we had the job, he could simply come with us. No. Bookwyrm had made it official that he was to be nowhere near it. "Officially," I said. "See, there you go." Grygum asked whether we could rely on him unofficially, and the ego did the rest of the work for us.
+He decided the nature of fate had brought disinterested outsiders to exactly this place, and that this meant something. I offered the simple version: we had the job, he could simply come with us. No. Bookwyrm had made it official that he was to be nowhere near it. "Officially," I said. "See, there you go." Gyrgum asked whether we could rely on him unofficially, and the ego did the rest of the work for us.
 
 He had picked up a few things. He liked to juxtapose mundane observation with lofty rumination on order, chaos, fate, and futility — and in that rumination he had noticed the poison in the left hand, the saliva. "The black stuff, yes, we saw that." He noticed the heart hacked out — after death, to spoil resurrection. "Yeah, we got that." He noticed the murderer was a magic user who could circumvent arcane and mundane locks. Magic that could talk any lock open, arcane or iron, the very highest order of that art.
 

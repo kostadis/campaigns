@@ -12,8 +12,8 @@ chapters: 56-60
 - **Allegiance/faction:** Acting on behalf of Zalthir; aligned with Zalthir’s methods  
 - **Current possessions / notable items, spells, feats, wounds:** None specified  
 - **Current assignment / role:** Interrogator; conducting inquiries using Zalthir’s techniques  
-- **Key relationships:** Reports to or follows the methods of Zalthir; recently interrogated Sylvira and pressed Grygum’s questions in his place  
-- **Defining recent actions:** Conducted the interrogation of Sylvira, specifically pressing questions about a figure seen near the kitchen, acting as Grygum’s proxy.  
+- **Key relationships:** Reports to or follows the methods of Zalthir; recently interrogated Sylvira and pressed Gyrgum’s questions in his place  
+- **Defining recent actions:** Conducted the interrogation of Sylvira, specifically pressing questions about a figure seen near the kitchen, acting as Gyrgum’s proxy.  
 - **Revealed motivations or secrets:** Has developed self-awareness regarding their own capacity for abstract thought about the nature of the universe — a realization that emerged after previously being unaware of such internal cognition.
 
 ## Uncertainty

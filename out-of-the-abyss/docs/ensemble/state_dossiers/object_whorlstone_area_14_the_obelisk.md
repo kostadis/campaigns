@@ -12,7 +12,7 @@ chapters: 20-21
 - **Current location:** Standing sentinel on the second tier of the mesa in the Whorlstone Area.  
 - **Current behavior:** Emits pulses of light that react to the presence and glow of faerzress.  
 - **Current significance:** Revered by Plinki, who pats it reverently.  
-- **Notable designation:** Known colloquially as "The obelix" by Grygum.
+- **Notable designation:** Known colloquially as "The obelix" by Gyrgum.
 
 ## Uncertainty
 None.

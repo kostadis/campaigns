@@ -17,12 +17,12 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 ## History with the Party
 1. **Buppido's Shrine Cave:** Appeared after Buppido's death. Shared his backstory — named after an actor, aspired to acting but self-sabotaged, became a merchant. Explained Buppido murdered him and arranged his bones as a shrine, trapping him within 30 feet of them.
 2. **Faerzress Intelligence:** Provided key lore — months ago the Faerzress glowed brightly, went dark as if "sucked out," then returned brighter. After this event, Buppido became convinced he was divine. Dismissed Daz's planar-breach theory as a "ghost story."
-3. **Whorlstone Caverns:** Scouted through a crack too small for the party, identifying Pygmywort and Bigwig mushrooms on the other side. Traveled with the party, carried via one of his bones by Grygum.
+3. **Whorlstone Caverns:** Scouted through a crack too small for the party, identifying Pygmywort and Bigwig mushrooms on the other side. Traveled with the party, carried via one of his bones by Gyrgum.
 4. **Battle with Thief-Derro:** Attempted to possess a thief-derro during combat but was psychically repelled — the derro's mind resisted "like a fortress."
 5. **Mesa Battle:** Successfully possessed a dead Derro body after the fight. Announced himself awkwardly: "My goodness, this body is uncomfortable."
 6. **Camp Rest:** Asked the party to tie him up before sleep, worried the Derro body might regain control and attack them. Mused about whether death is a form of sleep.
-7. **Zalthir's Madness:** When consulted about Zalthir's compulsive hoarding, confirmed it wasn't ghost possession and pointedly asked Grygum "Aren't you a cleric?" — prompting Dawnbringer to cast lesser restoration.
-8. **Blingdenstone — Final Rest:** At the catacombs beneath the Temple of the Ruby in the Rough, Grygum interred his bones with a dragon-themed ritual and gold coin. Pelek first materialized before Glyphic Shroomlight to convince the reluctant priest to allow the interment. Expressed profound relief and gratitude, then faded away peacefully, leaving the party with a warm, comforting feeling.
+7. **Zalthir's Madness:** When consulted about Zalthir's compulsive hoarding, confirmed it wasn't ghost possession and pointedly asked Gyrgum "Aren't you a cleric?" — prompting Dawnbringer to cast lesser restoration.
+8. **Blingdenstone — Final Rest:** At the catacombs beneath the Temple of the Ruby in the Rough, Gyrgum interred his bones with a dragon-themed ritual and gold coin. Pelek first materialized before Glyphic Shroomlight to convince the reluctant priest to allow the interment. Expressed profound relief and gratitude, then faded away peacefully, leaving the party with a warm, comforting feeling.
 
 ## Current Status
 - **Laid to rest.** Pelek's spirit departed peacefully after his bones were interred in Blingdenstone's catacombs.
@@ -30,7 +30,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 
 ## Relationships
 - **Buppido:** Former business partner who murdered him and used his bones for a shrine. Buppido had promised to move product out of Gracklstugh without Duergar taxes, working with the Council of Savants.
-- **Grygum:** Carried Pelek's bones throughout the journey; performed the final interment ritual. Closest bond among the party.
+- **Gyrgum:** Carried Pelek's bones throughout the journey; performed the final interment ritual. Closest bond among the party.
 - **Daz:** Friendly — exchanged pleasantries after the mesa battle; Pelek dismissed Daz's Faerzress theory but without hostility.
 - **Zalthir:** Tangential — referenced by association when Zalthir threatened to "punch the ghost" during a Spectre fight.
 - **Glyphic Shroomlight:** Priest at the Temple of the Ruby in the Rough whom Pelek personally convinced to allow his interment.

@@ -46,7 +46,7 @@
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The events described occur during the current expedition into the Underdark, following the party\u2019s encounter with the Myconid and the initiation of Thorin and Grygum into the Fungal Dreamscape.",
+    "fact": "The events described occur during the current expedition into the Underdark, following the party\u2019s encounter with the Myconid and the initiation of Thorin and Gyrgum into the Fungal Dreamscape.",
     "source_quote": "We approach the Myconid, and it stops its frantic dance for a moment.",
     "quote_verified": true,
     "passes": [
@@ -233,8 +233,8 @@
   {
     "type": "event",
     "subject": "Daz",
-    "fact": "Daz held onto Thorin and Grygum, worried that they would follow, but they didn\u2019t.",
-    "source_quote": "I hold onto Thorin and Grygum, worried that they will follow. But they don\u2019t.",
+    "fact": "Daz held onto Thorin and Gyrgum, worried that they would follow, but they didn\u2019t.",
+    "source_quote": "I hold onto Thorin and Gyrgum, worried that they will follow. But they don\u2019t.",
     "quote_verified": true,
     "passes": [
       "interiority"
@@ -255,8 +255,8 @@
   {
     "type": "event",
     "subject": "Daz",
-    "fact": "Daz noticed Grygum and Thorin wake up and not appear to be covered in rotting mycelium.",
-    "source_quote": "Grygum and Thorin wake up. And they don\u2019t appear to be covered in some kind of rotting mycelium, so that\u2019s good.",
+    "fact": "Daz noticed Gyrgum and Thorin wake up and not appear to be covered in rotting mycelium.",
+    "source_quote": "Gyrgum and Thorin wake up. And they don\u2019t appear to be covered in some kind of rotting mycelium, so that\u2019s good.",
     "quote_verified": true,
     "passes": [
       "interiority"
@@ -398,7 +398,7 @@
   {
     "type": "event",
     "subject": "Dream Realm Incursion",
-    "fact": "Thorin and Grygum were pulled into a series of shifting, hallucinatory caverns created by Zuggtmoy\u2019s magic, each representing a stage of fungal corruption\u2014from serene glow to festering rot. These realms are not illusions but semi-realized psychic extensions of the Demon Queen\u2019s will.",
+    "fact": "Thorin and Gyrgum were pulled into a series of shifting, hallucinatory caverns created by Zuggtmoy\u2019s magic, each representing a stage of fungal corruption\u2014from serene glow to festering rot. These realms are not illusions but semi-realized psychic extensions of the Demon Queen\u2019s will.",
     "source_quote": "I open my eyes and realize I am in a different cavern... This ain't natural, not by a long shot.",
     "quote_verified": false,
     "passes": [
@@ -419,9 +419,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum holds Voosbur\u2019s hand and is transported into the fungal dreamscapes.",
-    "source_quote": "Grygum mutters, 'This reminds me of that time. Well, I\u2019ll be going around to make sure it isn\u2019t a bad trip.' And he too is holding onto Voosbur\u2019s hand.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum holds Voosbur\u2019s hand and is transported into the fungal dreamscapes.",
+    "source_quote": "Gyrgum mutters, 'This reminds me of that time. Well, I\u2019ll be going around to make sure it isn\u2019t a bad trip.' And he too is holding onto Voosbur\u2019s hand.",
     "quote_verified": false,
     "passes": [
       "interiority"
@@ -430,9 +430,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum looks at the Myconids and at Thorin, still confused by their behavior.",
-    "source_quote": "Grygum looks at the Myconids and looks at me, and is still confused.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum looks at the Myconids and at Thorin, still confused by their behavior.",
+    "source_quote": "Gyrgum looks at the Myconids and looks at me, and is still confused.",
     "quote_verified": true,
     "passes": [
       "interiority"
@@ -441,8 +441,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum recalls that others ate the mushrooms after arriving and became changed, but he did not.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum recalls that others ate the mushrooms after arriving and became changed, but he did not.",
     "source_quote": "The others... I think they ate the silly mushrooms after we arrived.",
     "quote_verified": false,
     "passes": [
@@ -452,8 +452,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum says he did not eat the mushrooms and thus remains uncorrupted.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum says he did not eat the mushrooms and thus remains uncorrupted.",
     "source_quote": "I did not eat them. That is why I am not... like this.",
     "quote_verified": true,
     "passes": [
@@ -463,8 +463,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum says the Myconids\u2019 dances and speech are unnatural and forced, unlike true Myconid behavior.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum says the Myconids\u2019 dances and speech are unnatural and forced, unlike true Myconid behavior.",
     "source_quote": "These are not our old dances. And the way they speak... about 'the Lady's dream,' it is confusing. Stool does not understand it either. It is not the way of myconids. We do not dance like this. This is... forced.",
     "quote_verified": true,
     "passes": [
@@ -474,8 +474,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum says the Myconids\u2019 transformation was sudden and unnatural.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum says the Myconids\u2019 transformation was sudden and unnatural.",
     "source_quote": "Then Voosbur's spores came, and the next thing we knew, we were *here*. It was... a sudden jump.",
     "quote_verified": false,
     "passes": [
@@ -485,9 +485,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum takes Voosbur\u2019s hand and becomes affected by the spores.",
-    "source_quote": "Grygum mutters, 'This reminds me of that time. Well, I\u2019ll be going around to make sure it isn\u2019t a bad trip.' And he too is holding onto Voosbur\u2019s hand.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum takes Voosbur\u2019s hand and becomes affected by the spores.",
+    "source_quote": "Gyrgum mutters, 'This reminds me of that time. Well, I\u2019ll be going around to make sure it isn\u2019t a bad trip.' And he too is holding onto Voosbur\u2019s hand.",
     "quote_verified": false,
     "passes": [
       "interiority"
@@ -496,8 +496,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s memory of the transition",
-    "fact": "Grygum recalls the sudden, unexplained transition from Neverlight Grove to the corrupted cavern \u2014 a key indicator that Zuggtmoy\u2019s influence operates through spatial and perceptual distortion, not mere physical movement.",
+    "subject": "Gyrgum\u2019s memory of the transition",
+    "fact": "Gyrgum recalls the sudden, unexplained transition from Neverlight Grove to the corrupted cavern \u2014 a key indicator that Zuggtmoy\u2019s influence operates through spatial and perceptual distortion, not mere physical movement.",
     "source_quote": "Then Voosbur's spores came, and the next thing we knew, we were *here*. It was... a sudden jump.",
     "quote_verified": false,
     "passes": [
@@ -508,8 +508,8 @@
   {
     "type": "event",
     "subject": "Initiation into the Fungal Dreamscape",
-    "fact": "Thorin and Grygum have been initiated into Zuggtmoy\u2019s sentient fungal dreamscape via hand contact with the Myconid, resulting in their physical displacement and psychological absorption into a hallucinatory, pulsing cavern of glowing fungi.",
-    "source_quote": "And then both Grygum and Thorin stop moving... I am not sure.",
+    "fact": "Thorin and Gyrgum have been initiated into Zuggtmoy\u2019s sentient fungal dreamscape via hand contact with the Myconid, resulting in their physical displacement and psychological absorption into a hallucinatory, pulsing cavern of glowing fungi.",
+    "source_quote": "And then both Gyrgum and Thorin stop moving... I am not sure.",
     "quote_verified": false,
     "passes": [
       "small"
@@ -519,7 +519,7 @@
   {
     "type": "event",
     "subject": "Refusal of the Dream",
-    "fact": "Thorin and Grygum refuse the Dark Lady\u2019s offer of eternal entwinement with the mycelium, breaking the spell of her dream. Their resistance triggers a shift: the dancers dissolve into the moss, the vision fades, and they awaken in the real world, uncorrupted but haunted by the memory of infinite, mindless eternity.",
+    "fact": "Thorin and Gyrgum refuse the Dark Lady\u2019s offer of eternal entwinement with the mycelium, breaking the spell of her dream. Their resistance triggers a shift: the dancers dissolve into the moss, the vision fades, and they awaken in the real world, uncorrupted but haunted by the memory of infinite, mindless eternity.",
     "source_quote": "I can feel that mindless infinite eternity, and then just as much as I feel it, I am awake.",
     "quote_verified": true,
     "passes": [
@@ -783,7 +783,7 @@
   {
     "type": "event",
     "subject": "the spore-induced transformation",
-    "fact": "The spore-induced transformation is referenced by Grygum as a sudden jump that occurred after Voosbur's spores arrived, changing the myconids' behavior and dance.",
+    "fact": "The spore-induced transformation is referenced by Gyrgum as a sudden jump that occurred after Voosbur's spores arrived, changing the myconids' behavior and dance.",
     "source_quote": "Then Voosbur's spores came, and the next thing we knew, we were here. It was... a sudden jump.",
     "quote_verified": false,
     "passes": [
@@ -794,8 +794,8 @@
   {
     "type": "event",
     "subject": "The Vines Close the Exit",
-    "fact": "As Grygum makes noise near the tunnel\u2019s exit, the sentient vines react by actively sealing the path forward, demonstrating their intelligence and allegiance to the Dark Lady. The party is forced to flee in desperation, narrowly escaping lashing tendrils as the once-clear path becomes a living wall of pulsing, crunching growth. This event marks the transition from exploration to survival, and the first direct threat of entrapment by the Lady\u2019s domain.",
-    "source_quote": "\u201cSome thirty feet from the exit of this place, Grygum is making too much noise. The vines start to move to close the path forward. If we don\u2019t make it to the exit, we will be trapped in this nightmare. We dash, vines try to lash us and miss.\u201d",
+    "fact": "As Gyrgum makes noise near the tunnel\u2019s exit, the sentient vines react by actively sealing the path forward, demonstrating their intelligence and allegiance to the Dark Lady. The party is forced to flee in desperation, narrowly escaping lashing tendrils as the once-clear path becomes a living wall of pulsing, crunching growth. This event marks the transition from exploration to survival, and the first direct threat of entrapment by the Lady\u2019s domain.",
+    "source_quote": "\u201cSome thirty feet from the exit of this place, Gyrgum is making too much noise. The vines start to move to close the path forward. If we don\u2019t make it to the exit, we will be trapped in this nightmare. We dash, vines try to lash us and miss.\u201d",
     "quote_verified": false,
     "passes": [
       "small"
@@ -948,8 +948,8 @@
   {
     "type": "event",
     "subject": "Thorin",
-    "fact": "Thorin rushes through the vine forest after Grygum makes noise, narrowly escaping being trapped.",
-    "source_quote": "Some thirty feet from the exit of this place, Grygum is making too much noise. The vines start to move to close the path forward. If we don\u2019t make it to the exit, we will be trapped in this nightmare. We dash, vines try to lash us and miss.",
+    "fact": "Thorin rushes through the vine forest after Gyrgum makes noise, narrowly escaping being trapped.",
+    "source_quote": "Some thirty feet from the exit of this place, Gyrgum is making too much noise. The vines start to move to close the path forward. If we don\u2019t make it to the exit, we will be trapped in this nightmare. We dash, vines try to lash us and miss.",
     "quote_verified": true,
     "passes": [
       "interiority"
@@ -969,9 +969,9 @@
   },
   {
     "type": "event",
-    "subject": "Thorin and Grygum's communion with Voosbur",
-    "fact": "Thorin and Grygum accepted Voosbur\u2019s hand and were transported into a series of shifting, sentient fungal realms \u2014 each a layered hallucination of the Demon Queen\u2019s dreamscapes \u2014 confirming the spores induce non-natural, magical possession requiring consent.",
-    "source_quote": "Thorin, who has a \u201cfuck-it-all\u201d attitude, takes the creature's hand. ... And then both Grygum and Thorin stop moving.",
+    "subject": "Thorin and Gyrgum's communion with Voosbur",
+    "fact": "Thorin and Gyrgum accepted Voosbur\u2019s hand and were transported into a series of shifting, sentient fungal realms \u2014 each a layered hallucination of the Demon Queen\u2019s dreamscapes \u2014 confirming the spores induce non-natural, magical possession requiring consent.",
+    "source_quote": "Thorin, who has a \u201cfuck-it-all\u201d attitude, takes the creature's hand. ... And then both Gyrgum and Thorin stop moving.",
     "quote_verified": false,
     "passes": [
       "temporal"
@@ -980,9 +980,9 @@
   },
   {
     "type": "event",
-    "subject": "Thorin and Grygum touching Voosbur's hand",
-    "fact": "Thorin and Grygum touching Voosbur's hand is referenced as the moment they stopped moving and were drawn into the Lady\u2019s dream.",
-    "source_quote": "Thorin, who has a \u201cfuck-it-all\u201d attitude, takes the creature's hand. Grygum... too is holding onto Voosbur\u2019s hand. And then both Grygum and Thorin stop moving.",
+    "subject": "Thorin and Gyrgum touching Voosbur's hand",
+    "fact": "Thorin and Gyrgum touching Voosbur's hand is referenced as the moment they stopped moving and were drawn into the Lady\u2019s dream.",
+    "source_quote": "Thorin, who has a \u201cfuck-it-all\u201d attitude, takes the creature's hand. Gyrgum... too is holding onto Voosbur\u2019s hand. And then both Gyrgum and Thorin stop moving.",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -1465,7 +1465,7 @@
   {
     "type": "location",
     "subject": "Neverlight Grove",
-    "fact": "Neverlight Grove is referenced by Grygum as the serene, glowing cavern where the myconids were once happy before Voosbur's spores came.",
+    "fact": "Neverlight Grove is referenced by Gyrgum as the serene, glowing cavern where the myconids were once happy before Voosbur's spores came.",
     "source_quote": "We were all very happy in Neverlight Grove. Then Voosbur's spores came, and the next thing we knew, we were here.",
     "quote_verified": false,
     "passes": [
@@ -1487,7 +1487,7 @@
   {
     "type": "location",
     "subject": "Neverlight Grove",
-    "fact": "The original home of Rump-a-dump and Grygum, a serene, glowing cavern where myconids lived in quiet communion. It is now suspected of being infected by Zuggtmoy\u2019s spores, posing a grave threat to the survival of the myconid race.",
+    "fact": "The original home of Rump-a-dump and Gyrgum, a serene, glowing cavern where myconids lived in quiet communion. It is now suspected of being infected by Zuggtmoy\u2019s spores, posing a grave threat to the survival of the myconid race.",
     "source_quote": "\"I need to get back to Neverlight Grove. What if Voosbur's strange spores... infected the rest of my myconids back home?\"",
     "quote_verified": false,
     "passes": [
@@ -1927,8 +1927,8 @@
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz holds onto Thorin and Grygum, worried that they will follow, but they don\u2019t.",
-    "source_quote": "I hold onto Thorin and Grygum, worried that they will follow. But they don\u2019t.",
+    "fact": "Daz holds onto Thorin and Gyrgum, worried that they will follow, but they don\u2019t.",
+    "source_quote": "I hold onto Thorin and Gyrgum, worried that they will follow. But they don\u2019t.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -2003,9 +2003,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum and Thorin wake up, and they don\u2019t appear to be covered in some kind of rotting mycelium, so that\u2019s good.",
-    "source_quote": "Grygum and Thorin wake up. And they don\u2019t appear to be covered in some kind of rotting mycelium, so that\u2019s good.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum and Thorin wake up, and they don\u2019t appear to be covered in some kind of rotting mycelium, so that\u2019s good.",
+    "source_quote": "Gyrgum and Thorin wake up. And they don\u2019t appear to be covered in some kind of rotting mycelium, so that\u2019s good.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -2014,8 +2014,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum has also taken the Myconid's hand and been drawn into the fungal dreamscape, mirroring Thorin\u2019s fate, and is now lost within the mind-altering communion of Zuggtmoy\u2019s spore-song.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum has also taken the Myconid's hand and been drawn into the fungal dreamscape, mirroring Thorin\u2019s fate, and is now lost within the mind-altering communion of Zuggtmoy\u2019s spore-song.",
     "source_quote": "I\u2019ll be going around to make sure it isn\u2019t a bad trip.",
     "quote_verified": true,
     "passes": [
@@ -2025,8 +2025,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a cautious companion who reminds the speaker of the inherent danger in deals with demons \u2014 that such pacts grant power at the cost of one's understanding of the need to avoid using it. He acts as a grounding voice, urging silence and restraint, and is the first to notice the vines closing the path. He is not a warrior, but a witness who recognizes the cost of temptation.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a cautious companion who reminds the speaker of the inherent danger in deals with demons \u2014 that such pacts grant power at the cost of one's understanding of the need to avoid using it. He acts as a grounding voice, urging silence and restraint, and is the first to notice the vines closing the path. He is not a warrior, but a witness who recognizes the cost of temptation.",
     "source_quote": "\u201cEvery deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power.\u201d",
     "quote_verified": false,
     "passes": [
@@ -2036,8 +2036,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a cautious, observant myconid who resisted eating the mushrooms and retains his clarity. He is horrified by the corruption of his kin and follows Voosbur out of concern, becoming ensnared in the dream realm.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a cautious, observant myconid who resisted eating the mushrooms and retains his clarity. He is horrified by the corruption of his kin and follows Voosbur out of concern, becoming ensnared in the dream realm.",
     "source_quote": "\"I did not eat them. That is why I am not... like this.\"",
     "quote_verified": true,
     "passes": [
@@ -2047,8 +2047,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a myconid who survived the spore event by not consuming the growing/shrinking mushrooms. He remembers Neverlight Grove fondly and fears the infection has spread to his home. He is confused by surface-dweller misconceptions about myconid biology.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a myconid who survived the spore event by not consuming the growing/shrinking mushrooms. He remembers Neverlight Grove fondly and fears the infection has spread to his home. He is confused by surface-dweller misconceptions about myconid biology.",
     "source_quote": "We were all very happy in Neverlight Grove... Then Voosbur's spores came... I did not eat them. That is why I am not... like this.",
     "quote_verified": false,
     "passes": [
@@ -2058,9 +2058,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is held onto by someone who is worried he will follow the dancers, but he does not.",
-    "source_quote": "I hold onto Thorin and Grygum, worried that they will follow. But they don\u2019t.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is held onto by someone who is worried he will follow the dancers, but he does not.",
+    "source_quote": "I hold onto Thorin and Gyrgum, worried that they will follow. But they don\u2019t.",
     "quote_verified": true,
     "passes": [
       "small"
@@ -2069,9 +2069,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is referenced by Rump-a-dump as the one who is uncomfortable and worried, and who later holds Voosbur\u2019s hand and becomes entranced.",
-    "source_quote": "The creature looks uncomfortable and very worried. ... Grygum mutters, \u201cThis reminds me of that time. Well, I\u2019ll be going around to make sure it isn\u2019t a bad trip.\u201d And he too is holding onto Voosbur\u2019s hand.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is referenced by Rump-a-dump as the one who is uncomfortable and worried, and who later holds Voosbur\u2019s hand and becomes entranced.",
+    "source_quote": "The creature looks uncomfortable and very worried. ... Gyrgum mutters, \u201cThis reminds me of that time. Well, I\u2019ll be going around to make sure it isn\u2019t a bad trip.\u201d And he too is holding onto Voosbur\u2019s hand.",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -2080,9 +2080,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is referenced by Thorin as the one who is still confused after explanations about the Wandering Veil.",
-    "source_quote": "Grygum looks at the Myconids and looks at me, and is still confused.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is referenced by Thorin as the one who is still confused after explanations about the Wandering Veil.",
+    "source_quote": "Gyrgum looks at the Myconids and looks at me, and is still confused.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -2091,9 +2091,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum reminds the speaker that every deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power.",
-    "source_quote": "Grygum reminds me that every deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum reminds the speaker that every deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power.",
+    "source_quote": "Gyrgum reminds me that every deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -2102,8 +2102,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum warns that every deal with a demon is a curse\u2014it grants power but erodes the understanding of why one should avoid using it. He is a voice of caution, reminding Thorin of the perilous cost of surrendering to the Dark Lady\u2019s allure.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum warns that every deal with a demon is a curse\u2014it grants power but erodes the understanding of why one should avoid using it. He is a voice of caution, reminding Thorin of the perilous cost of surrendering to the Dark Lady\u2019s allure.",
     "source_quote": "Every deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power.",
     "quote_verified": false,
     "passes": [
@@ -2113,9 +2113,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum woke up and is not covered in rotting mycelium, which is noted as good.",
-    "source_quote": "Grygum and Thorin wake up. And they don\u2019t appear to be covered in some kind of rotting mycelium, so that\u2019s good.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum woke up and is not covered in rotting mycelium, which is noted as good.",
+    "source_quote": "Gyrgum and Thorin wake up. And they don\u2019t appear to be covered in some kind of rotting mycelium, so that\u2019s good.",
     "quote_verified": true,
     "passes": [
       "small"
@@ -2169,7 +2169,7 @@
   {
     "type": "npc",
     "subject": "Rump-a-dump",
-    "fact": "Rump-a-dump is referenced by Grygum as the one who believes in a tersely worded comment that is precise and restrained.",
+    "fact": "Rump-a-dump is referenced by Gyrgum as the one who believes in a tersely worded comment that is precise and restrained.",
     "source_quote": "Whereas he attempts to convey with an avalanche of words, I believe in a tersely worded comment that is precise and restrained.",
     "quote_verified": true,
     "passes": [
@@ -2368,7 +2368,7 @@
     "type": "npc",
     "subject": "Thorin",
     "fact": "Thorin is held onto by someone who is worried he will follow the dancers, but he does not.",
-    "source_quote": "I hold onto Thorin and Grygum, worried that they will follow. But they don\u2019t.",
+    "source_quote": "I hold onto Thorin and Gyrgum, worried that they will follow. But they don\u2019t.",
     "quote_verified": true,
     "passes": [
       "small"
@@ -2412,7 +2412,7 @@
     "type": "npc",
     "subject": "Thorin",
     "fact": "Thorin woke up and is not covered in rotting mycelium, which is noted as good.",
-    "source_quote": "Grygum and Thorin wake up. And they don\u2019t appear to be covered in some kind of rotting mycelium, so that\u2019s good.",
+    "source_quote": "Gyrgum and Thorin wake up. And they don\u2019t appear to be covered in some kind of rotting mycelium, so that\u2019s good.",
     "quote_verified": true,
     "passes": [
       "small"
@@ -2422,7 +2422,7 @@
   {
     "type": "npc",
     "subject": "Voosbur",
-    "fact": "Voosbur is a member of the Dark Lady\u2019s entourage who speaks with resignation to Thorin and Grygum after their refusal. He offers a final chance to join, then disperses glowing spores that summon the dancers to dissolve into the moss, signaling the transition of the dream\u2019s influence.",
+    "fact": "Voosbur is a member of the Dark Lady\u2019s entourage who speaks with resignation to Thorin and Gyrgum after their refusal. He offers a final chance to join, then disperses glowing spores that summon the dancers to dissolve into the moss, signaling the transition of the dream\u2019s influence.",
     "source_quote": "I guess you guys didn\u2019t want to join us. You still can if you want. But hurry.",
     "quote_verified": true,
     "passes": [
@@ -2566,7 +2566,7 @@
     "type": "object",
     "subject": "deal with a demon is a curse",
     "fact": "Every deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power.",
-    "source_quote": "Grygum reminds me that every deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power.",
+    "source_quote": "Gyrgum reminds me that every deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power.",
     "quote_verified": true,
     "passes": [
       "temporal"
@@ -2653,7 +2653,7 @@
   {
     "type": "object",
     "subject": "the shrinking/growing mushrooms",
-    "fact": "The shrinking/growing mushrooms are referenced by Grygum as the mushrooms the myconids ate after arriving at the new location, which caused their transformation.",
+    "fact": "The shrinking/growing mushrooms are referenced by Gyrgum as the mushrooms the myconids ate after arriving at the new location, which caused their transformation.",
     "source_quote": "I think they ate the silly mushrooms after we arrived.",
     "quote_verified": false,
     "passes": [
@@ -2664,7 +2664,7 @@
   {
     "type": "object",
     "subject": "the Tongue of Madness mushroom",
-    "fact": "The Tongue of Madness mushroom is referenced by Grygum as a mushroom encountered earlier whose effect is more direct than the current spore-induced trance.",
+    "fact": "The Tongue of Madness mushroom is referenced by Gyrgum as a mushroom encountered earlier whose effect is more direct than the current spore-induced trance.",
     "source_quote": "Smells earthy, a bit too sweet, with a musk that's starting to make my head swim. Just a little. Like that Tongue of Madness mushroom, but not as direct.",
     "quote_verified": true,
     "passes": [
@@ -2718,9 +2718,9 @@
   },
   {
     "type": "thread",
-    "subject": "Grygum's reminder",
-    "fact": "Grygum reminded Daz that every deal with a demon is a curse\u2014it gives you power and robs you of your understanding of the need to avoid using power.",
-    "source_quote": "Grygum reminds me that every deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power.",
+    "subject": "Gyrgum's reminder",
+    "fact": "Gyrgum reminded Daz that every deal with a demon is a curse\u2014it gives you power and robs you of your understanding of the need to avoid using power.",
+    "source_quote": "Gyrgum reminds me that every deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power.",
     "quote_verified": true,
     "passes": [
       "interiority"

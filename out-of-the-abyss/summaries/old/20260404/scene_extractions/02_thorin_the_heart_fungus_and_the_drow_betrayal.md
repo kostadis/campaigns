@@ -24,9 +24,9 @@ Thorin: "That makes me sad, though, because I like my attacks of opportunity her
 [Regretting the decision]
 Daz: "Insects plague, that doesn't sound good."
 [Reacting]
-Grygum: "I bet insects like to eat fungus."
+Gyrgum: "I bet insects like to eat fungus."
 [Quipping]
-Grygum: "Oh, how about Glabbagool?"
+Gyrgum: "Oh, how about Glabbagool?"
 [Asking about the ooze companion]
 Zalthir: "Is he alive?"
 [Concerned]
@@ -38,11 +38,11 @@ Thorin: "Is there anything I need to… anything I know about the fungus in term
 [Asking about the heart fungus's vulnerabilities before attacking]
 GM: "I mean, it's resistant to the usual stuff that funguses are resistant to, but if you hit it hard enough, it should die. But, it actually is doubly not resistant to radiant damage."
 [Revealing the critical weakness]
-Grygum: "Oh, that's good to know."
+Gyrgum: "Oh, that's good to know."
 [Excited]
 GM: "And so you kill it. So it wilts."
 [Announcing the fungus is destroyed by Thorin's Dawnbringer strikes]
-Grygum: "Oh, the giant fungus?"
+Gyrgum: "Oh, the giant fungus?"
 [Surprised]
 GM: "Yes, the giant fungus is known."
 [Confirming]
@@ -50,17 +50,17 @@ Thorin: "I do what I can."
 [Casually]
 GM: "I spent so much time creating this icon."
 [Lamenting the quick death of his carefully prepared encounter]
-Grygum: "I know, it was beautiful."
+Gyrgum: "I know, it was beautiful."
 [Consoling]
 Zalthir: "It was pretty."
 [Agreeing]
-Grygum: "I liked it very much, Costadis."
+Gyrgum: "I liked it very much, Costadis."
 [With genuine sympathy]
 GM: "Thank you, I appreciate it."
 [Graciously accepting]
 GM: "Vandree is very much, you know, enemy of my enemy situation, and plus she believes that Daz is a insane… an insane mage who's converted to Lothheism."
 [Explaining Asha Vandree's current belief about Daz]
-Grygum: "Accurate."
+Gyrgum: "Accurate."
 [Dryly agreeing]
 Daz: "Who believes that?"
 [Clarifying]

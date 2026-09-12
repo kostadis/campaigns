@@ -62,13 +62,13 @@ GM: "As you were going down, you noticed a… as you're… as you're heading bac
 GM: "At some point in time, you probably asked what the prophecies are, and it turns out there was a guy named Alaundo who had prophecies that turned out remarkably accurately, and so the folks at Candlekeep keep reciting them."
 
 <!-- asking about the prophecies -->
-Grygum: "Have they… are there some that have not…"
+Gyrgum: "Have they… are there some that have not…"
 
 <!-- explaining the system -->
 GM: "Oh yeah, those are the ones that are not… the ones that have not yet come true. So apparently, whenever a prophecy comes true, it gets removed, and the prophecies shrink over time. Nobody knows what happens when you run out of prophecies."
 
 <!-- pressing further -->
-Grygum: "Are there any that, you know, could no longer come true, or are they all vague enough that they still could?"
+Gyrgum: "Are there any that, you know, could no longer come true, or are they all vague enough that they still could?"
 
 <!-- responding -->
 GM: "Who knows? That, that, that, as they say, is a question worthy of asking the avowed and the great readers themselves. And perhaps having a lot of patience."

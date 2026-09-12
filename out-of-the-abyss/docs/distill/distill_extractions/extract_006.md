@@ -14,7 +14,7 @@
 - Faction: Escapee caravan
 - Notes: Has a vow against gambling (fabricated by Daz to defuse a confrontation, accepted as true by Jimjar); is a non-humanoid (no hair)
 
-**Grygum (also spelled Gyrgum)**
+**Gyrgum (also spelled Gyrgum)**
 - Current location: Silken Paths
 - Current state: Active
 - Recent actions: Helped obscure tracks; found Trillimac mushrooms (twice); made the bet with Jimjar over blocking the passageway (deliberately bet on winning side without Jimjar realising); expressed enthusiasm over goblin web-surfing; accompanied Stool to the cocoon; was about to cut open cocoon before Thorin intervened
@@ -109,7 +109,7 @@
 - Current goals: Reach Sloobludop; evade drow pursuit; survive the Underdark
 - Recent actions: Solved water storage problem via ice blocks; harvested Barrelstalk mushrooms for water and food; harvested Trillimac for food; obscured tracks through narrow passageway; collected Ormu fungus; hired goblin guides via debt arrangement; discovered and are in the process of rescuing Fargas Rumblefoot
 - Relationships: Engaged goblin guides Yukyuk and Spiderbait (owe 20 gold); en route to Darklake/Sloobludop
-- Key members: Daz, Zalthir, Grygum, Thorin, Eldeth, Jimjar, Sarith, Buppido, Shuushar, Topsy, Turvy, Stool
+- Key members: Daz, Zalthir, Gyrgum, Thorin, Eldeth, Jimjar, Sarith, Buppido, Shuushar, Topsy, Turvy, Stool
 
 **Goblin Guides (Yukyuk and Spiderbait)**
 - Current goals: Recover 20 gold owed by Jimjar; guide caravan through the Silken Paths
@@ -130,15 +130,15 @@
 - The escapee caravan faced a water storage problem after abandoning their gear during their escape.
 - Daz devised a solution: using shape water to freeze water into portable ice blocks, refreshed hourly.
 - The caravan found Barrelstalk mushrooms, obtaining 1–4 gallons of water and 5–10 pounds of food.
-- Eldeth covered the rear, obscuring the caravan's tracks; Daz, Grygum, Thorin, and Zalthir assisted.
+- Eldeth covered the rear, obscuring the caravan's tracks; Daz, Gyrgum, Thorin, and Zalthir assisted.
 - The caravan passed through a narrow passageway lined with Ormu bioluminescent fungus; Zalthir harvested some.
 - Zalthir negotiated with Jimjar to block the passageway; Daz defused the confrontation by claiming Zalthir had a vow against gambling; Jimjar accepted this as true.
-- Grygum made the bet on Jimjar's behalf and deliberately bet on the winning side without Jimjar realising which side he had taken.
+- Gyrgum made the bet on Jimjar's behalf and deliberately bet on the winning side without Jimjar realising which side he had taken.
 - Jimjar successfully blocked the passageway in a way that did not appear to be caused by the caravan.
 - Daz observed Topsy and Turvy conversing privately but could not hear what they said.
 - Sarith roused the group on the 8th day; the march toward Sloobludop continued.
 - Thorin found a pool of water; Daz converted it entirely into ice blocks.
-- Grygum found Trillimac mushrooms; the group harvested enough for approximately 20 pounds of food.
+- Gyrgum found Trillimac mushrooms; the group harvested enough for approximately 20 pounds of food.
 - Shuushar reassured the group that the Darklake would provide ample water.
 - The caravan arrived at the Silken Paths; Sarith confirmed they are heading in the right direction toward Sloobludop.
 - Yukyuk and Spiderbait, goblin web-surfing guides, approached the caravan offering guidance for 2 gold per day.
@@ -180,7 +180,7 @@
 
 **Trillimac location**
 - What it is: A location in the Underdark where Trillimac mushrooms were found
-- What happened there: Grygum found Trillimac; group harvested approximately 20 pounds of food worth of mushrooms
+- What happened there: Gyrgum found Trillimac; group harvested approximately 20 pounds of food worth of mushrooms
 - Current state: Passed through
 
 **The Silken Paths**

@@ -64,9 +64,9 @@ flowchart TD
         S1A["✅ Travelogue · ~30–40 min<br/>8 episodes · Mirabar → Goldenfields →<br/>Triboar · Eldred + Kestler Bahamut →<br/>Waterdeep shopping arc → Daggerford ⭐ silent child →<br/>Beregost → Way of the Lion"]
         S1A --> S1B["✅ Emerald Door<br/>Bookwyrm receives 5 books<br/>First Reader allocates scholars"]
         S1B --> S1Choice1{{"✅ Polly Pocket?<br/>→ KEPT IN BAG · longer-term still open"}}
-        S1Choice1 --> S1Qs["✅ ⭐ FIVE BOOKS · FIVE QUESTIONS<br/>1. Daz: 'Who is following me?'<br/>2. Zalthir: 'Who is Jimjar?'<br/>3. Thorin: 'Help with Dawnbringer · process not product'<br/>(⭐ Path C locked from Waterdeep — name don't elect)<br/>4. Grygum: 'What does Bahamut want from me?'<br/>5. ⭐ Glabbagool (Zalthir-sponsored):<br/>'How do I become a shadow monk?'<br/>★ Avowed quote each Q back when the scene opens"]
+        S1Choice1 --> S1Qs["✅ ⭐ FIVE BOOKS · FIVE QUESTIONS<br/>1. Daz: 'Who is following me?'<br/>2. Zalthir: 'Who is Jimjar?'<br/>3. Thorin: 'Help with Dawnbringer · process not product'<br/>(⭐ Path C locked from Waterdeep — name don't elect)<br/>4. Gyrgum: 'What does Bahamut want from me?'<br/>5. ⭐ Glabbagool (Zalthir-sponsored):<br/>'How do I become a shadow monk?'<br/>★ Avowed quote each Q back when the scene opens"]
         S1Qs --> S1C["✅ Refectory dinner<br/>⭐ ONLY time party sees Janussi alive<br/>Daral drunk · Sylvira ill · A'lai and Alkrist whispering"]
-        S1C --> S1D["✅ Parallel scholar lanes · interleave<br/>Daz-Yvenne · Zalthir-Khell-Vire and Kenshi<br/>Thorin-Philemon · Grygum-Vareth"]
+        S1C --> S1D["✅ Parallel scholar lanes · interleave<br/>Daz-Yvenne · Zalthir-Khell-Vire and Kenshi<br/>Thorin-Philemon · Gyrgum-Vareth"]
         S1D --> S1E["⛔ Sylvira / Infernal Fortress<br/>demon-lord evidence handoff · ★ ally before suspect<br/>— SKIPPED · NEVER MET HER · STILL OWED<br/>(run her interview as FIRST CONTACT)"]
         S1E --> S1F["🔶 ⭐ Endless Chant Deadwinter Prophecy snippet — DONE<br/>⭐ hooded corridor figure — A'lai with the gift — NOT landed"]
         S1F --> S1G["⛔ ⭐ Glabbagool's question — Whispering Dome<br/>Zalthir presents · 1-min solo meditation<br/>OUTCOME: Shadow Apprentice sidekick L8<br/>(Tasha's Warrior chassis · Artificial Chakra 4 Ki)<br/>HEADLINE: Corrosive Embrace (Zalthir-grapple synergy)<br/>— SKIPPED · STILL OWED · handout: handouts/glabbagool_shadow_monk_sidekick.md"]
@@ -163,7 +163,7 @@ flowchart TD
         S4TrackB --> S4Apo["Apothecary · Leuwin + Nibbles<br/>⭐ midnight tears vial missing<br/>⭐ 'bronze lizardskin' = Alkrist · A'lai + peppermint"]
         S4TrackB --> S4Kit["Kitchens · Sprig · 'Sylvira' took a cleaver ~1am"]
         S4TrackB --> S4Out["Outfitters · bins<br/>⭐ bloodstained cloak = Bookwyrm's silver stitching"]
-        S4Split --> S4Sch["🟢 Scholar interleaves<br/>Zalthir Broken Mirror + Pont de Paramours<br/>Grygum Stations 5–8 + Drakonoikos · Thorin Phase 3 Quiet Hour"]
+        S4Split --> S4Sch["🟢 Scholar interleaves<br/>Zalthir Broken Mirror + Pont de Paramours<br/>Gyrgum Stations 5–8 + Drakonoikos · Thorin Phase 3 Quiet Hour"]
         S4Sch --> S4Kalan["Kalan goodbye · Sea Warden's Tower<br/>'the being in Lost Lore wears another voice'<br/>refuses healing · 'Tadric is the vessel'"]
         S4Kalan --> S4Brevin["⭐ Watcher Brevin at the cliffs · reciting 'Sloobludop'<br/>— no one in Candlekeep should know that name"]
         S4Brevin --> S4Cliff["🟡 CLIFFHANGER · Fembris breaks<br/>real Sylvira on the rooftops w/ the Beast 11:30pm<br/>⭐ TWO 'Sylvira' figures → Bookwyrm = cover-up · Alkrist = killer<br/>⭐ MILESTONE LEVEL-UP TO 9"]
@@ -185,7 +185,7 @@ flowchart TD
         S5PathA --> S5Glab["Glabbagool's bad night<br/>'Pudding King · it said my name' = Juiblex reaching"]
         S5PathB --> S5Glab
         S5PathC --> S5Glab
-        S5Glab --> S5Sch["🟢 OOTA scholar threads CLOSE<br/>Daz/Yvenne Fourth-Seat synthesis (DC20) + Polly<br/>Zalthir letter · Grygum Stations 9–10 · Thorin prescription"]
+        S5Glab --> S5Sch["🟢 OOTA scholar threads CLOSE<br/>Daz/Yvenne Fourth-Seat synthesis (DC20) + Polly<br/>Zalthir letter · Gyrgum Stations 9–10 · Thorin prescription"]
         S5Sch --> S5Cliff["🟡 CLIFFHANGER · Bookwyrm DEAD<br/>throat torn (not heart) · High Tower key gone<br/>desk: 'He is using the Beast to —' · trophy: First Reader pendant<br/>⭐ wards begin to drop · Tadric flight · second-key PC opens the door"]
     end
 
@@ -195,7 +195,7 @@ flowchart TD
     subgraph S6["SESSION 6 — Day Two · More Murders · Part 2 — climax"]
         direction TD
         S6Conv["Convergence by path<br/>A: Alkrist breaks 'she did it for me' → cells · B: Sylvira ally · C: alone<br/>Tadric flight · 2 PCs at a time"]
-        S6Conv --> S6Wards["🔵 Wards drop · shared 1-round vision<br/>Daz Vaelissa · Zalthir Jimjar · Thorin Brysis<br/>Grygum BAHAMUT ABSENT · Glabbagool 'Mother' = Juiblex"]
+        S6Conv --> S6Wards["🔵 Wards drop · shared 1-round vision<br/>Daz Vaelissa · Zalthir Jimjar · Thorin Brysis<br/>Gyrgum BAHAMUT ABSENT · Glabbagool 'Mother' = Juiblex"]
         S6Wards --> S6Fight["High Tower Library · A'lai (CR9) + Moziqodo (CR5)<br/>⭐ second-key PC opens the door<br/>A'lai smashes the sapphire (Manshoon signal) · escapes ≤50% via<br/>dimension door scroll · takes the key<br/>Path B: Sylvira dispels binding (DC19) → Moziqodo turns on A'lai"]
         S6Fight --> S6Crypto["⭐ Cryptogram book recovered (6 clues)<br/>lightning orb rerouted → wards at 30%"]
         S6Crypto --> S6Man["Manshoon arrives below · teleport pulse<br/>magic mouth: 'I am here for one book'"]
@@ -224,7 +224,7 @@ flowchart TD
         S8Enter --> S8Vault["B2 · The Vault · ~100 glyph-warded tomes (4d8 + Wis DC15)<br/>⭐ Echoes cabinet planted · 'did you come for the book, or for me?'"]
         S8Vault --> S8Choice{{"Three choices<br/>engage / race to B3 / ⭐ GO FOR THE ECHOES (correct play)"}}
         S8Choice --> S8Man["🔵 Manshoon fight (CR6 simulacrum) · doppelganger reveal<br/>escapes ≤30 HP via teleport — best/mid/worst by ledger<br/>trophy: metal-fingered glove ('his metal hand')"]
-        S8Choice --> S8Echoes["⭐ ECHOES OF ALAUNDO (load-bearing)<br/>1 surface contamination · 2 the wedding<br/>3 Eldeth's call (Thorin/Zalthir/Daz/Grygum named)<br/>4 Jimjar the gambler-god"]
+        S8Choice --> S8Echoes["⭐ ECHOES OF ALAUNDO (load-bearing)<br/>1 surface contamination · 2 the wedding<br/>3 Eldeth's call (Thorin/Zalthir/Daz/Gyrgum named)<br/>4 Jimjar the gambler-god"]
         S8Man --> S8BVD["B3 · Book of Vile Darkness (riddle: 'candle')<br/>take / leave / destroy — don't push"]
         S8Echoes --> S8BVD
         S8BVD --> S8Return["Return to surface · keep stabilises · chant resumes (fragmentary)<br/>Fheminor → Keeper of Tomes · Tadric → acting Gatewarden<br/>Sylvira senior Reader · party = guest seekers of the Avowed"]
@@ -284,7 +284,7 @@ After each session, confirm these landed:
 - [ ] Atmosphere: Marin's 6-pointed star; chant stops mid-line
 - [ ] Reader interviews: A'lai, **Alkrist (the killer)**, Teles, Kazryn, Bookwyrm
 - [ ] Physical: Apothecary (midnight tears + "bronze lizardskin" = Alkrist), Kitchens (cleaver), Outfitters (Bookwyrm's cloak)
-- [ ] Scholar interleaves (Zalthir Broken Mirror / Grygum Stations 5–8 / Thorin Phase 3)
+- [ ] Scholar interleaves (Zalthir Broken Mirror / Gyrgum Stations 5–8 / Thorin Phase 3)
 - [ ] Kalan's goodbye at the Sea Warden's Tower
 - [ ] ⭐ Brevin recites "Sloobludop" (surface-madness)
 - [ ] 🟡 Fembris breaks → two "Sylvira" figures → Bookwyrm cover-up / Alkrist killer
@@ -297,7 +297,7 @@ After each session, confirm these landed:
 - [ ] Kalan missing — Pont de Paramours; forged note (DC16 = A'lai); Gatewarden pin
 - [ ] 🟣 Three converging paths chosen (Alkrist arrest / Sylvira ally / Cursed Tower)
 - [ ] Glabbagool's bad night (Juiblex)
-- [ ] OOTA scholar threads CLOSE (Daz Fourth-Seat synthesis / Zalthir / Grygum / Thorin) + Polly resolved
+- [ ] OOTA scholar threads CLOSE (Daz Fourth-Seat synthesis / Zalthir / Gyrgum / Thorin) + Polly resolved
 - [ ] 🟡 **Bookwyrm dead**; wards begin to drop; second-key PC flagged
 
 ### Session 6 — *(upcoming)*

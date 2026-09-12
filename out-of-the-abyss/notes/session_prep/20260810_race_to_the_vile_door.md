@@ -22,7 +22,7 @@ Monday diverged hard from `candlekeep_vault_session.md`. Corrected state:
 | **Moziqodo** | Unbound by Sylvira, fights *for* the party | **Dead — killed by the party in one round** |
 | **Bookwyrm** | Dead | Dead ✓ (killed by Moziqodo, who took her key) |
 | **Kalan** | Present, commanding the defense | **Fled** — "to the wind" after admitting the fake key |
-| **Tadric** | Deputy or dead | **Alive**, handed Grygum the real key voluntarily |
+| **Tadric** | Deputy or dead | **Alive**, handed Gyrgum the real key voluntarily |
 | **A'lai** | Dead in Vault / escaped | **Alive, bound, in party custody, bargaining** |
 | **The keys** | Party holds key #2 (best case) | **Party holds BOTH** — and it no longer matters |
 | **Manshoon** | Scaled simulacrum, CR 6 | **The real man, depleted** — CR 12 build below |
@@ -219,7 +219,7 @@ creature within 30 ft: **DC 17 Con save.** Fail — 22 (5d8) force damage and
 ### Tactics
 
 - **R1** — `globe of invulnerability`, then talk. He does not open with
-  violence. The globe shuts off Daz and Grygum at range and deals zero damage:
+  violence. The globe shuts off Daz and Gyrgum at range and deals zero damage:
   maximum menace, zero risk. **Let them discover they have to walk into it.**
 - **R2** — `mirror image`. Now Zalthir's flurry eats duplicates.
 - **R3** — `wall of force` to cut the party off from the riddle door, *or*
@@ -634,7 +634,7 @@ it as a non-evil creature: **8d6 necrotic.**
 **Resolve by Track:**
 
 - **≤3 — they beat him.** The door is shut and the Book is on the pedestal.
-  🟣 Take / leave / destroy (Grygum: `dispel evil and good` → `holy aura` →
+  🟣 Take / leave / destroy (Gyrgum: `dispel evil and good` → `holy aura` →
   holy fire). **Don't push.** Player choice, full stop. Manshoon arrives to
   find the room already decided and **exits by trigger 3** — no fight needed,
   and the loss should visibly cost him.

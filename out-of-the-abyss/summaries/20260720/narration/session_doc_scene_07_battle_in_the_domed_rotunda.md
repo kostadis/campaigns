@@ -10,7 +10,7 @@ The rotunda opened above us into a dome, and the thing was already on Tadric. It
 
 "Alright, so we gotta save Tadric," Thorin said. "Tadric may not survive."
 
-Grygum said it plainly, the way he says the hard things. "So if we have to prioritize the man or Tadric, we're going to have to make a choice."
+Gyrgum said it plainly, the way he says the hard things. "So if we have to prioritize the man or Tadric, we're going to have to make a choice."
 
 "Yeah," Thorin said.
 
@@ -32,7 +32,7 @@ I crossed the floor before the demon registered me, the whole point of me is tha
 
 It was. Frightened is a demon that won't come at you. Stunned is a demon that can't do anything at all: a stationary thing waiting to be dismantled. I spent another measured breath and hit it twice more while it stood there helpless, unable to guard, unable to answer, and those two landed clean and heavy and the thing was carved down to almost nothing. There is no clean word for what that felt like. The monastery combat drills finally paid for themselves. I stepped back and let it stand there, ruined and upright, and told the others it was theirs.
 
-Grygum moved wide so his lightning wouldn't catch any of us, then threw a javelin that arced and hummed and missed. "So, uh, that, uh, missed. Fuck."
+Gyrgum moved wide so his lightning wouldn't catch any of us, then threw a javelin that arced and hummed and missed. "So, uh, that, uh, missed. Fuck."
 
 Daz declined to waste anything clever on a thing immune to fire, no fireball, no flame, and put a plain old cold burst of force into it instead, three small bright darts, because it wasn't doing great and he wanted to hold the rest in reserve.
 
@@ -40,12 +40,12 @@ Thorin finished it. He was owed that. A solid strike, and then the next one came
 
 "You killed him," the world said. "You killed him."
 
-"Really?" Grygum said. "I expected this guy to be a lot tougher."
+"Really?" Gyrgum said. "I expected this guy to be a lot tougher."
 
 He hadn't seen what I'd seen. The demon had had one attack in it — one — and one was all it needed to open Tadric's throat and disengage into the air and vanish with the key clutched to its chest. That was the whole plan it had come with. Kill the man, take the artifact, be gone before we crossed the floor. It never got the attack. We took its whole turn away from it before it could spend a single beat of it.
 
 I didn't feel triumphant. I felt the way you feel when you were the one standing in the correct spot, and it held. Filed it. Moved on.
 
-Grygum knelt over Tadric and closed the wounds, and the blood stopped. Tadric came back into himself all at once, shaking, grabbing for the key even before his eyes focused, staring at the ruin of the thing that had been on him. Sylvira Savikas's son. He looked at the corpse and then at us, and the only thing he could get out was a question, quiet and cracked.
+Gyrgum knelt over Tadric and closed the wounds, and the blood stopped. Tadric came back into himself all at once, shaking, grabbing for the key even before his eyes focused, staring at the ruin of the thing that had been on him. Sylvira Savikas's son. He looked at the corpse and then at us, and the only thing he could get out was a question, quiet and cracked.
 
 "Is Kalan Strongbranch alive?"

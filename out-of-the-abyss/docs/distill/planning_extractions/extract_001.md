@@ -90,7 +90,7 @@
 **House T'sarran**
 - Kill team sent to the Fungal Cavern (during the final Ilvara fight, several days from Blingdenstone) was largely destroyed by the party
 - One survivor retreated with a credible threat; the Matron Mother is to be informed
-- Retaliation arc is open; Grygum needs to identify the Matron Mother before she identifies them
+- Retaliation arc is open; Gyrgum needs to identify the Matron Mother before she identifies them
 
 ---
 

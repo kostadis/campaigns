@@ -71,7 +71,7 @@ I will say this about Kaelira Duskryn: she had the manner of someone who had see
 
 I said what I actually believed, which is a thing I do less often than I probably should: "I literally have no idea why there's all this focus on me."
 
-The party fell into the kind of quiet that follows a statement that everyone believes. Thorin had that look he gets — the one where he's deciding whether to charge at the problem or stand very still and wait for it to explain itself. Grygum was probably filing away some theological observation about mysterious dispensations. Zalthir, characteristically, was simply watching.
+The party fell into the kind of quiet that follows a statement that everyone believes. Thorin had that look he gets — the one where he's deciding whether to charge at the problem or stand very still and wait for it to explain itself. Gyrgum was probably filing away some theological observation about mysterious dispensations. Zalthir, characteristically, was simply watching.
 
 The sisters departed. Professionally. Without ceremony. The contract was fulfilled; they were done.
 
@@ -83,7 +83,7 @@ Protecting me was one of those three things to someone powerful enough to fund i
 
 "You know what would help?" I said. "To audit their books."
 
-No one laughed. Grygum looked thoughtful, which is his equivalent.
+No one laughed. Gyrgum looked thoughtful, which is his equivalent.
 
 I sat with it privately, the thing I wasn't going to say aloud: *for all you know, the reason this all got started was because they all decided to be friends with the wrong drow.*
 

@@ -54,11 +54,11 @@
 
 **Location:** Scenes → The Burning Wizard Inn; NPCs → The Bard; Summary
 
-**Issue:** The Scene and NPC entries state that *Grygum* offered a silver piece and asked for the Stroud song. The Summary states that *Thorin* pressed a silver piece into the bard's hand, after which she sang the Stroud love song.
+**Issue:** The Scene and NPC entries state that *Gyrgum* offered a silver piece and asked for the Stroud song. The Summary states that *Thorin* pressed a silver piece into the bard's hand, after which she sang the Stroud love song.
 
-**Evidence:** Summary: *"After Thorin pressed a silver piece into her hand, she sang a winding love song about Stroud."* Scenes → Burning Wizard Inn: *"Grygum offers a silver piece and asks for a song about Stroud."* NPCs → The Bard: *"After receiving a silver piece from Thorin, she asks Grygum whether he is a Bahamutian or a Stroudite."*
+**Evidence:** Summary: *"After Thorin pressed a silver piece into her hand, she sang a winding love song about Stroud."* Scenes → Burning Wizard Inn: *"Gyrgum offers a silver piece and asks for a song about Stroud."* NPCs → The Bard: *"After receiving a silver piece from Thorin, she asks Gyrgum whether he is a Bahamutian or a Stroudite."*
 
-**Suggested fix:** Reconcile across all three sections. The NPC entry's version (Thorin pays, bard asks Grygum) is the most internally consistent of the three, since Grygum's Bahamutian/Stroudite identity would naturally prompt the bard's question regardless of who paid. Confirm with session recording which character made the request and correct Summary and Scenes accordingly.
+**Suggested fix:** Reconcile across all three sections. The NPC entry's version (Thorin pays, bard asks Gyrgum) is the most internally consistent of the three, since Gyrgum's Bahamutian/Stroudite identity would naturally prompt the bard's question regardless of who paid. Confirm with session recording which character made the request and correct Summary and Scenes accordingly.
 
 ---
 
@@ -128,7 +128,7 @@
 
 **Issue:** The Summary states the pressure "had been growing steadily worse since leaving Beregost," while the Scenes section states it "intensifies noticeably" as they approach Candlekeep, which is consistent. However, the Summary's wording could be read as implying the headache began in Beregost, whereas the broader narrative (the party document's framing of Underdark-linked symptoms) suggests it has been present far longer. This is an ambiguity that could mislead future sessions about the symptom's onset.
 
-**Evidence:** Party doc establishes Daz's connection to Underdark events as pre-existing; the recap elsewhere (Silent Child scene) has Grygum confirming a connection between Daz's headache and Ellen's condition, which predates Beregost.
+**Evidence:** Party doc establishes Daz's connection to Underdark events as pre-existing; the recap elsewhere (Silent Child scene) has Gyrgum confirming a connection between Daz's headache and Ellen's condition, which predates Beregost.
 
 **Suggested fix:** Clarify in the Summary that the headache's *intensification* began after leaving Beregost (as Candlekeep drew closer), not that the symptom itself originated there.
 

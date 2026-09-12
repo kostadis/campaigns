@@ -18,17 +18,17 @@
 
 ### [2] "geometry" is still Zalthir's word *(recurrence — flagged in the previous run, survived the re-run)*
 
-> Grygum studied the ceiling, then the walls, working the same **geometry** I was.
+> Gyrgum studied the ceiling, then the walls, working the same **geometry** I was.
 
 **Why:** `zalthir_voice.md` uses *geometry* twice as his own lexicon (*"battlefield geometry"*, *"ensuring the geometry is wrong for whoever's swinging"*). Daz's register is Menzoberranzan bookkeeping — leverage, debt, audit, account. This is the same flag as the pre-smoothing draft, in the same scene, on the same beat, which means it is not a source problem and will not be fixed by another re-run. Scene 03 then uses *geometry* again for the same referent, so the word appears twice in the document for the identical thing.
 
-**Suggested rewrite:** "Grygum studied the ceiling, then the walls, arriving where I had already arrived."
+**Suggested rewrite:** "Gyrgum studied the ceiling, then the walls, arriving where I had already arrived."
 
-### [3] Grygum's "+5 medicine" is dropped again *(recurrence)*
+### [3] Gyrgum's "+5 medicine" is dropped again *(recurrence)*
 
 > "Got it. So, I'm not a medical expert or anything, but… oh, well, actually, I am." He touched the Watcher's jaw, then his hands… "How long ago do I think he was shot?" A pause. Not very long. Within the last half hour.
 
-**Why:** The smoothed source ends that joke `"…oh, well, actually, I am. **I have plus 5 medicine.**"` The number is the punchline, and `grygum_voice.md` names `"I have a + [thing]"` as one of his three verbal tics — *"capability surfaced as quiet information."* `_genre.md` also wants mechanics in the prose, not sanded off it. The narration sets the joke up and cuts the landing for the second run running.
+**Why:** The smoothed source ends that joke `"…oh, well, actually, I am. **I have plus 5 medicine.**"` The number is the punchline, and `gyrgum_voice.md` names `"I have a + [thing]"` as one of his three verbal tics — *"capability surfaced as quiet information."* `_genre.md` also wants mechanics in the prose, not sanded off it. The narration sets the joke up and cuts the landing for the second run running.
 
 **Suggested rewrite:** `"…oh, well, actually, I am. I have plus five in medicine."` — then keep the examination beat as written.
 
@@ -59,7 +59,7 @@ Nine narration-level em-dashes in a 30-line section, three of them (L29, L37, L4
 
 > …and made his assessment the way he makes everything — thoroughly, and while narrating.
 
-**Why:** Same family as the banned `with the particular [noun] of [someone who…]` — it attributes behaviour to a *manner* rather than naming the action. Mild here, because "and while narrating" is genuinely funny and genuinely Grygum.
+**Why:** Same family as the banned `with the particular [noun] of [someone who…]` — it attributes behaviour to a *manner* rather than naming the action. Mild here, because "and while narrating" is genuinely funny and genuinely Gyrgum.
 
 **Suggested rewrite:** "…and made his assessment out loud, the whole way through, because he does."
 

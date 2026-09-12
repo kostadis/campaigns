@@ -32,7 +32,7 @@ Just then, his interlocutor casts a spell, and suddenly, not only is their langu
 “This is Ploopploopeen, archpriest of the Seamother.” 
 
 
-Grygum finds the name very funny and tries not to laugh out loud.  
+Gyrgum finds the name very funny and tries not to laugh out loud.  
 
 
 The archpriest is excited and says, “The Seamother has answered my prayers!” 
@@ -62,7 +62,7 @@ Zalthir looks at her, unimpressed.
 The archpriest of the Sea Mother explains he wants to use them as bait. The archpriest of the Deep Father needs humanoid sacrifices, and the party represents a prize collection in that regard. Ploopploopeen will offer them as a “token of peace and reconciliation” to get closer to the archpriest of the Deep Father — except the adventurers will not be helpless prisoners but infiltrators. Ploopploopeen wants them to disrupt the upstart faction’s rituals, allowing his true believers of the Sea Mother to cut off the head of the cult. The archpriest promises that the characters will be “well rewarded” for their aid.
 
 
-Grygum mutters, “Oh great, pit one weird religion against another!” 
+Gyrgum mutters, “Oh great, pit one weird religion against another!” 
 
 
 Ploopploopeen is offended. “The Seamother is not a weird religion. It is the traditional faith of the Kuo-toans! It is Leemooggoogoon the Deep Father that is the real evil!” 
@@ -89,7 +89,7 @@ Shuushar continues to drone on but thankfully walks away.
 Zalthir shouts to the archpriest, “You said reward?” 
 
 
-Grygum adds, “I am all about the spiritual stuff, but the temporal have needs too.” 
+Gyrgum adds, “I am all about the spiritual stuff, but the temporal have needs too.” 
 
 
 The archpriest promises 500 gold and two potions of healing. But she sees how they are unimpressed, “Two boats and guides to navigate the Darklake?” 

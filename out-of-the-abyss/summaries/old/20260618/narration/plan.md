@@ -1,8 +1,8 @@
 ## Scene 1
-narrator: Grygum
+narrator: Gyrgum
 chunks: 1
 scene: The Academic Distraction
-focus: The chaos erupts from Grygum's own theology — Brother Vareth's expansion of the "Grygumite triangle" into a quadrangle — so the scholarly stampede is Grygum's accidental masterstroke.
+focus: The chaos erupts from Gyrgum's own theology — Brother Vareth's expansion of the "Gyrgumite triangle" into a quadrangle — so the scholarly stampede is Gyrgum's accidental masterstroke.
 
 ## Scene 2
 narrator: Daz

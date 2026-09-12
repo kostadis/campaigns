@@ -4,7 +4,7 @@ Glabbagool, the intelligent gelatinous cube traveling with the party, expressed 
 
 ## Gerdig Katfinger
 
-Gerdig Katfinger had previously provided the party with a Ruby spell gem, which was used in this session to begin the hallowing ritual. Grygum placed the gem into the great menhir at the center of the ancient temple as part of the effort to cleanse it of Ogremoch's Bane.
+Gerdig Katfinger had previously provided the party with a Ruby spell gem, which was used in this session to begin the hallowing ritual. Gyrgum placed the gem into the great menhir at the center of the ancient temple as part of the effort to cleanse it of Ogremoch's Bane.
 
 ## Ogremoch
 

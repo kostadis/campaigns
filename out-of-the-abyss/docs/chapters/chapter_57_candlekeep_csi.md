@@ -5,7 +5,7 @@
 
 There is a particular comfort in a corpse. It does not lie. It does not run a counter-play. Everything it knows is written on it, and all I have to do is read.
 
-Janussi, Keeper of the Tome, was laid out before us, and the early findings were already on the table. The heart was gone — torn out, not for any wound it would cause, but as a guard against any working that calls the dead back to answer. Whoever had done this had not wanted Janussi answering questions on the other side of the veil. The ribcage was smashed, something axe-like, and Grygum was the one who pressed on whether the cut was jagged or clean. *Is the wound jagged? Does it seem like it was cut out, or is it magical.* A fair question. The answer was the interesting part.
+Janussi, Keeper of the Tome, was laid out before us, and the early findings were already on the table. The heart was gone — torn out, not for any wound it would cause, but as a guard against any working that calls the dead back to answer. Whoever had done this had not wanted Janussi answering questions on the other side of the veil. The ribcage was smashed, something axe-like, and Gyrgum was the one who pressed on whether the cut was jagged or clean. *Is the wound jagged? Does it seem like it was cut out, or is it magical.* A fair question. The answer was the interesting part.
 
 The blows had been precise. Too precise, too close together, for a man fighting back. No spray across the room — no blood pressure left to throw it. Janussi had been dead before his chest was opened. Whoever did this had not been in a rush. He had not been trying to kill. He had been desecrating a corpse at his leisure, with nowhere to be. I logged that. *The first thing to read is the tempo of the killer.* This one had time.
 
@@ -13,7 +13,7 @@ And then the nose. A whack to the nose, off-center, the kind of thing that happe
 
 "Anyone want to take a closer look at the body?"
 
-Grygum went first and announced his findings the way you announce bad weather. "I can barely tell which end is which." Thorin muttered something about having the second-worst eye for detail in the room. A low bar, apparently, and they were both under it.
+Gyrgum went first and announced his findings the way you announce bad weather. "I can barely tell which end is which." Thorin muttered something about having the second-worst eye for detail in the room. A low bar, apparently, and they were both under it.
 
 So I stepped up. "Let me look."
 
@@ -51,9 +51,9 @@ Thorin worked it like a problem. "So either that was related to him being murder
 
 Zalthir asked if anyone could use a working to find the chip. We didn't need magic. It was right there — a few feet from his face, sitting on the floor where it had landed when the man went down. He had fallen forward. Face-first. Chipped the tooth on the way down. And then someone had come in, after, and rolled him onto his back to take the heart.
 
-"And also broke his nose," Grygum said.
+"And also broke his nose," Gyrgum said.
 
-That was the loose thread, and Grygum pulled it. His read of the wound came clean — sharp work this time — and the nose had broken *before* death. Bruising doesn't form on a corpse; there's no living tissue to swell. Zalthir worked the same logic from the other end, confirming it with Grygum twice over: *you don't bruise after you're dead.* So the broken nose belonged to the living man, not the desecrated one. Within the evening — Janussi had eaten dinner with his face intact and his teeth whole. Whatever happened, happened in the narrow window between that meal and his death.
+That was the loose thread, and Gyrgum pulled it. His read of the wound came clean — sharp work this time — and the nose had broken *before* death. Bruising doesn't form on a corpse; there's no living tissue to swell. Zalthir worked the same logic from the other end, confirming it with Gyrgum twice over: *you don't bruise after you're dead.* So the broken nose belonged to the living man, not the desecrated one. Within the evening — Janussi had eaten dinner with his face intact and his teeth whole. Whatever happened, happened in the narrow window between that meal and his death.
 
 I ran the sequence one more time. A man at his books, wetting his finger to turn a poisoned page. The black climbing through him while he read on, suspecting nothing. A fall, forward, hard — a broken nose, a chipped tooth on the stone. And then the patient hands arriving after, in no hurry at all, rolling the body and opening the chest to make certain he stayed gone.
 
@@ -61,7 +61,7 @@ The body had told us everything it knew. It always does. The only question left 
 
 ---
 
-## Grygum — Forensic Investigation of the Keeper's Chamber
+## Gyrgum — Forensic Investigation of the Keeper's Chamber
 
 Daz worked the body over carefully. He had the eye for it, and the recent education — Milo's murder mystery, fresh in his head — and when his focus snapped clean on the corpse he started naming things faster than I could write them down.
 
@@ -81,7 +81,7 @@ I looked closer. This is the kind of thing I know — what a body does when the 
 
 "Okay, so his nose was broken, he was killed, smashed on the face."
 
-Zalthir caught the implication a half-step behind me. "Grygum, you've got the healer's eye, right? How does bruising work if he's dead? Like, I would assume you don't really."
+Zalthir caught the implication a half-step behind me. "Gyrgum, you've got the healer's eye, right? How does bruising work if he's dead? Like, I would assume you don't really."
 
 "You don't — you don't bruise after you're dead."
 
@@ -147,13 +147,13 @@ The blue ink on *The Discoveries* had been laid down after the blue ink on anoth
 
 "The product placement notes," I said. A homage to some other adventure, a book you could go and buy if the mood took you.
 
-"Oh, the mystery," Grygum said. "You have to go buy the other adventure." He found this funnier than I did. Most things, he does.
+"Oh, the mystery," Gyrgum said. "You have to go buy the other adventure." He found this funnier than I did. Most things, he does.
 
 Then the second book complicated itself. *The Golden Ass* was a comedy. Janussi had been writing down jokes he found funny — the man had a sense of humor he'd evidently kept private. "No, wait," I said. "The blue ink captures both notes on obscure spells and jokes?" The same hand, the same fresh ink, two registers entirely. Jokes first. The ink on those had dried. Then he'd flopped over into the spell research. "So he was noting down jokes, and then flopped over to spell research." Yes. And somewhere in the seam between the two, the comedy book had walked out of the room.
 
 That was the absence. The notes proved the book had been here — you do not annotate a thing you do not hold. And now it was gone, and it was the only thing gone. A room tells you most by what it is missing. The Garden Shadow had a saying about that — or possibly Brother Tharusk did, the tall one who always smelled of incense; I wasn't listening to either of them closely. The point survived anyway: count what should be present before you count what is.
 
-Thorin had been turning the black residue over. "What color was, like, on his fingers and mouth, was it black or red?" Black. Definitively not the blue ink — Grygum had already settled that, checked it twice and certain. So the black on the man's mouth came from somewhere the blue ink did not.
+Thorin had been turning the black residue over. "What color was, like, on his fingers and mouth, was it black or red?" Black. Definitively not the blue ink — Gyrgum had already settled that, checked it twice and certain. So the black on the man's mouth came from somewhere the blue ink did not.
 
 A gift tag surfaced from the wastebasket as we were leaving — almost behind the desk, in a cramped, sour hand. "Wait, is that describing the type of writing?" Thorin asked. It was. "It's, like, grumpy?" I said. Grumpy. Cramped. The script of someone who resented the act of writing it. *To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival.* Thorin lit up. "Okay, so that supports my theory. Some sort of rival gave him a gift, but it was sort of like a bitter thing."
 
@@ -175,11 +175,11 @@ I said nothing to that. The poison and the cipher could both be true. The missin
 
 We came out of the murder chamber and the air in the hall was better — not good, but better. Fembris was hovering the way assistants hover when they've decided you're the people who fix things, which is its own kind of pressure. He wanted to be helpful. Fine. Helpful I can work with.
 
-Grygum and I both opened our mouths at the same time. We've been doing that a lot lately — months in a tunnel will teach two people to think along the same line whether they want to or not.
+Gyrgum and I both opened our mouths at the same time. We've been doing that a lot lately — months in a tunnel will teach two people to think along the same line whether they want to or not.
 
-"have any enemies, right?" I said, and then caught that Grygum had started too. "I'm sorry, but I didn't mean to stomp on you."
+"have any enemies, right?" I said, and then caught that Gyrgum had started too. "I'm sorry, but I didn't mean to stomp on you."
 
-"Oh, I was gonna say, does he have any rivals?" Grygum said. Then, dry: "Same question."
+"Oh, I was gonna say, does he have any rivals?" Gyrgum said. Then, dry: "Same question."
 
 Same question. That's the thing about the two of us. He gets there with compassion and I get there with a hammer, but we get to the same door.
 
@@ -189,7 +189,7 @@ And there it was. A name with weight to it.
 
 I knew the name the second he said it. Sell swords. Said it like he was wiping something off his shoe. I despise this whole place a little — not Candlekeep, Candlekeep's fine, the books are fine — but the *culture* of it, the scholars who keep grudges the way a dragon keeps gold, sitting on them for years, polishing them. In the Underdark everyone runs six angles at once and at least there it's honest about being a knife fight. Up here they smile and they file the grievance and they wait. Daral had been at Janussi's throat for *years*. Whatever was rotting in that man, it had gone all the way through by now. I've learned to read that. Rage that's had time to set is a vector. It points somewhere.
 
-"Hmm, well, I already don't like him," Grygum said.
+"Hmm, well, I already don't like him," Gyrgum said.
 
 "Right?" Fembris agreed. "He's the one who was very, you know, that not seemed, very impressed with you."
 
@@ -207,11 +207,11 @@ Daz's head came up. You can always tell when Daz has fit two stones together —
 
 Two keys. One around a dead man's neck, gone. One with a gate warden. That's the terrain now — not bridges and pits, just keys and grudges, but it works the same. You find out who can stand where, and then you find out who shouldn't have been standing there.
 
-Grygum, meanwhile, was already three steps down the practical road, which is where he lives. "One thing we need is somebody who knows what should be here, so they can tell us if anything's missing."
+Gyrgum, meanwhile, was already three steps down the practical road, which is where he lives. "One thing we need is somebody who knows what should be here, so they can tell us if anything's missing."
 
 Right. Because Daz could guess at the locket and I could guess at Daral, but a guess isn't a wall. You need someone who knows the room cold.
 
-"Let me go over that one more time," Grygum said, slow, lining it up the way he does. "go find, say, the housekeeper, and ask her, what is missing or out of place."
+"Let me go over that one more time," Gyrgum said, slow, lining it up the way he does. "go find, say, the housekeeper, and ask her, what is missing or out of place."
 
 That's the move. I'm not interested in the politics of who hated whom and how long — that's noise, that's the part of this place I can't deal with. But *what's missing from the room* — that I can stand on. That's ground.
 
@@ -223,7 +223,7 @@ Not yet. Not even close.
 
 ---
 
-## Grygum — The Housekeeper's Testimony
+## Gyrgum — The Housekeeper's Testimony
 
 Hollypocket's apartment sat below the Keeper's tower — modest, but with room to breathe, and warm in a way the chamber above us had not been. An elderly gnome charged with looking after the dead man's every need, from his morning tea and pastry down to emptying his chamber pot. She offered us seats. She offered us herbal tea. I took notes.
 
@@ -285,7 +285,7 @@ She added one more thing, almost to herself. "I was never sure but what the keep
 
 The interview began the way most interviews do — with someone explaining why this couldn't possibly work, and me proving otherwise.
 
-Zalthir wanted a way to talk to the cat. Sound enough. The animal had been in the chamber; the dead don't volunteer alibis, but a five-year-old housecat with opinions might. Grygum admitted he couldn't afford a potion — clerics of Bahamut, it turns out, run on a tighter margin than their theatrics suggest. So I put the obvious solution where it belonged: in my own column.
+Zalthir wanted a way to talk to the cat. Sound enough. The animal had been in the chamber; the dead don't volunteer alibis, but a five-year-old housecat with opinions might. Gyrgum admitted he couldn't afford a potion — clerics of Bahamut, it turns out, run on a tighter margin than their theatrics suggest. So I put the obvious solution where it belonged: in my own column.
 
 "I think I can talk to the cat," I said.
 
@@ -293,7 +293,7 @@ Zalthir wanted a way to talk to the cat. Sound enough. The animal had been in th
 
 "Talking to beasts, yeah. It's part of what the stone speaker crystal grants me." A useful thing, the Stonespeaker. I had been carrying it as a curiosity. Now it was a witness chair.
 
-"Well, that saves me money on potions," said Grygum, relieved — someone else had just taken an expense off his account. At least we have that.
+"Well, that saves me money on potions," said Gyrgum, relieved — someone else had just taken an expense off his account. At least we have that.
 
 The cat introduced herself, after a fashion. Queenie — five years old, sleet-grey, and entirely uninterested in being disturbed. "I did not order any more ticklers!" she announced, stretching. "Any good ticklers are the only good… and good ticklers are… tickles are only the good reason for disturbing my beauty sleep."
 
@@ -333,7 +333,7 @@ Zalthir pushed her for more — blood, organs, a heart, anything from the wrong-
 
 I have been insulted by archpriests. This one landed cleaner.
 
-We'd nearly let the locket go unasked — the thing missing from Janussi's neck. Grygum caught it. "Daz, why don't you ask the cat anyway? It's gonna be a weird description from a cat, but…" It was. "The locket itself is intimate. He carried it all the time. He never took it off." What was it, I asked. "I don't know what it was." A cat will tell you a man's habits and not his secrets.
+We'd nearly let the locket go unasked — the thing missing from Janussi's neck. Gyrgum caught it. "Daz, why don't you ask the cat anyway? It's gonna be a weird description from a cat, but…" It was. "The locket itself is intimate. He carried it all the time. He never took it off." What was it, I asked. "I don't know what it was." A cat will tell you a man's habits and not his secrets.
 
 Then Fembris, *by golly*, supplied the column I was missing: Janussi held one of the two keys to the Hightower Library.
 

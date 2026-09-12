@@ -40,9 +40,9 @@
 
 ### 4. Spell Name Error: "Guiding Bolt" vs. radiant energy bolt
 
-**Location:** Spells → Guiding Bolt; Scenes → Confrontation at the High Tower (bullet: "Grygum attempts to surprise A'lai Avainmore with a bolt of radiant energy, but the wizard's mage armor deflects the attack.")
+**Location:** Spells → Guiding Bolt; Scenes → Confrontation at the High Tower (bullet: "Gyrgum attempts to surprise A'lai Avainmore with a bolt of radiant energy, but the wizard's mage armor deflects the attack.")
 
-**Issue:** The Spells section correctly names the spell **Guiding Bolt**. However, the Summary (paragraph 2) describes Grygum launching "a bolt of radiant energy" without naming the spell, and the Scenes section also omits the spell name. This is a minor inconsistency but creates ambiguity — Grygum also has **Inflict Wounds**, **Spirit Guardians**, and a "necrotic holy-symbol blast" per the party doc. The scene bullet and the Spells section need to be internally consistent. More critically, **Guiding Bolt** should be described as succeeding in hitting but missing due to Mage Armor — but Mage Armor sets AC, it does not "deflect" spells. A Guiding Bolt that misses an AC 15 (or 17 per the resume doc) target would simply miss, not be "deflected entirely." The Summary's language ("magical defenses deflected it entirely") implies a magical defense like *counterspell* or *shield*, not an AC miss.
+**Issue:** The Spells section correctly names the spell **Guiding Bolt**. However, the Summary (paragraph 2) describes Gyrgum launching "a bolt of radiant energy" without naming the spell, and the Scenes section also omits the spell name. This is a minor inconsistency but creates ambiguity — Gyrgum also has **Inflict Wounds**, **Spirit Guardians**, and a "necrotic holy-symbol blast" per the party doc. The scene bullet and the Spells section need to be internally consistent. More critically, **Guiding Bolt** should be described as succeeding in hitting but missing due to Mage Armor — but Mage Armor sets AC, it does not "deflect" spells. A Guiding Bolt that misses an AC 15 (or 17 per the resume doc) target would simply miss, not be "deflected entirely." The Summary's language ("magical defenses deflected it entirely") implies a magical defense like *counterspell* or *shield*, not an AC miss.
 
 **Evidence:** The resume doc sets A'lai's AC at 17 (XMM Archmage chassis). Mage Armor is the source of that AC. Guiding Bolt misses on a failed attack roll against AC — the phrasing "deflected entirely" suggests a magical reaction, but A'lai does not use Counterspell on a Guiding Bolt (he saves it for Earthen Grasp per the Spells section). The Spells section says "the bolt failed to penetrate his mage armor and had no effect," which is the mechanically accurate description (missed the AC), but the Summary and Scenes language of "magical defenses deflected it entirely" overstates this as a magical deflection.
 
@@ -76,15 +76,15 @@
 
 ---
 
-### 7. Item Continuity: "Real High Tower Key" held by Grygum — second key or one of two keys?
+### 7. Item Continuity: "Real High Tower Key" held by Gyrgum — second key or one of two keys?
 
-**Location:** Items → Real High Tower Key; Summary (paragraph 3: "Grygum now held both the real High Tower key and the artifact")
+**Location:** Items → Real High Tower Key; Summary (paragraph 3: "Gyrgum now held both the real High Tower key and the artifact")
 
-**Issue:** The recap states Grygum holds "the real High Tower key." The campaign context consistently refers to **two** High Tower keys being required (the party's key and the key Moziqodo was bringing). The Summary's phrasing "both the real High Tower key and the sapphire" implies Grygum holds one key (singular), but the resume doc confirms: "⭐ Holds **the real High Tower key #2 AND the sapphire**." The recap's Items section says "recovered from Tadric after the battle with Moziqodo" — meaning this is key #2 (the one Tadric was unknowingly holding). Key #1 was the one A'lai seized from Bookwyrm. This distinction is not clearly made in the recap.
+**Issue:** The recap states Gyrgum holds "the real High Tower key." The campaign context consistently refers to **two** High Tower keys being required (the party's key and the key Moziqodo was bringing). The Summary's phrasing "both the real High Tower key and the sapphire" implies Gyrgum holds one key (singular), but the resume doc confirms: "⭐ Holds **the real High Tower key #2 AND the sapphire**." The recap's Items section says "recovered from Tadric after the battle with Moziqodo" — meaning this is key #2 (the one Tadric was unknowingly holding). Key #1 was the one A'lai seized from Bookwyrm. This distinction is not clearly made in the recap.
 
-**Evidence:** World_state: "A'lai holds the first Hightower key in the High Tower awaiting Moziqodo with the second." Resume doc: "Holds the real High Tower key #2 AND the sapphire." The campaign_state describes "the inert key Daz carries" as a separate key — actually the decoy. There are thus three keys in play: the decoy (previously with Daz), key #1 (A'lai seized from Bookwyrm), and key #2 (recovered from Tadric, now with Grygum).
+**Evidence:** World_state: "A'lai holds the first Hightower key in the High Tower awaiting Moziqodo with the second." Resume doc: "Holds the real High Tower key #2 AND the sapphire." The campaign_state describes "the inert key Daz carries" as a separate key — actually the decoy. There are thus three keys in play: the decoy (previously with Daz), key #1 (A'lai seized from Bookwyrm), and key #2 (recovered from Tadric, now with Gyrgum).
 
-**Suggested fix:** Clarify in the Items section that Grygum holds **High Tower key #2** (recovered from Tadric), not the only key. A'lai Aivenmore still holds key #1. This distinction is critical for future sessions.
+**Suggested fix:** Clarify in the Items section that Gyrgum holds **High Tower key #2** (recovered from Tadric), not the only key. A'lai Aivenmore still holds key #1. This distinction is critical for future sessions.
 
 ---
 
@@ -131,7 +131,7 @@
 | 5 | "A'lai Avainmore" should be "A'lai Aivenmore" (consistent throughout) | **High** — wrong canonical name, will propagate |
 | 6 | Bookwyrm listed as murdered — contradicts campaign_state (alive through Ch62) | **High** — direct factual contradiction |
 | 1 | "Bookworm" should be "Bookwyrm" | **Medium** — confirmed live landmine per glossary |
-| 7 | Grygum's key not identified as key #2; key #1 still with A'lai | **Medium** — ambiguity will confuse future sessions |
+| 7 | Gyrgum's key not identified as key #2; key #1 still with A'lai | **Medium** — ambiguity will confuse future sessions |
 | 2 | "Sylvyr" should be "Sylvira" | **Low** — isolated typo, one occurrence |
 | 3 | "bow" should be "crossbow" | **Low** — internal inconsistency within the recap |
 | 4 | "deflected entirely" misrepresents Mage Armor as a magical deflection | **Low** — flavor vs. mechanics; flagged for GM awareness |

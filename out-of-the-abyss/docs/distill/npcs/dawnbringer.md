@@ -28,7 +28,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 1. **Discovery**: Found in a sarcophagus. Pleaded for help, rejected Zalthir (a monk), and bonded with Thorin when he picked her up. The wraith Brysis screamed "Not Dawnbringer!" — indicating she is a known and feared weapon against undead.
 2. **Early friction**: Refused to extinguish her light at night, keeping the party visible and driving Daz crazy. Thorin compassionately kept her lit.
 3. **Neverlight Grove**: Enjoyed the open air; her sunlight hurt fungal creatures as actual sunlight during the Circle of Welcome battle. However, her bright light was counterproductive in the Inner Circle, causing Myconids to retreat and undermining stealth.
-4. **Lesser Restoration**: Impulsively cast lesser restoration on Zalthir to cure his madness before Grygum could act.
+4. **Lesser Restoration**: Impulsively cast lesser restoration on Zalthir to cure his madness before Gyrgum could act.
 5. **Xinaya**: Agreed with Thorin that a mercy kill was a kind gesture.
 6. **Earth Elemental chamber**: Negotiated with Thorin — agreed to enter the dark chamber in exchange for a finer scabbard.
 7. **Scabbard commissioned**: Valimor Brightgem crafted a proper locking scabbard; Dawnbringer was finally pleased with a secure, presentable home. Prior to this, her flaming appearance had been attracting attention from local children.

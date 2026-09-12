@@ -10,11 +10,11 @@
 **Sarith (also referred to as "Sathir" and "Serith" in text)**
 - Current location: Underdark tunnel/cavern, en route to the Darklake
 - Current state: Active; experiencing bouts of madness
-- Recent actions: Armed himself with studded leather armor, shield, and hand crossbow from dead drow; identified Drow poison vial for Grygum; advocated for immediate escape; provided navigational knowledge of the Darklake and route to Gracklstugh
+- Recent actions: Armed himself with studded leather armor, shield, and hand crossbow from dead drow; identified Drow poison vial for Gyrgum; advocated for immediate escape; provided navigational knowledge of the Darklake and route to Gracklstugh
 - Faction: Former drow warrior caste
 - Motivations/Secrets: Claims to have been "unfairly and unjustly imprisoned"; has knowledge of local Underdark geography; mentioned Ilvara being "honor bound to pursue" the escapees; expressed desire for revenge; mutters about madness
 
-**Grygum**
+**Gyrgum**
 - Current location: Trapped under rocks in large cavern
 - Current state: Conscious but trapped under rockfall; shouted he is fine
 - Recent actions: Collected poisoned hand crossbow bolts and drow poison vial; agreed to flee rather than fight the gray ooze; disengaged from gray ooze and fled to Darklake tunnel; formed friendship with Stool; held Stool's hand while marching; ate the Tongue of Madness mushroom and stayed silent
@@ -36,11 +36,11 @@
 - Notes: Thought the Tongue of Madness fungus looked like a giant's tongue
 
 **Stool**
-- Current location: Underdark tunnel/cavern, en route to the Darklake; was marching holding Grygum's hand; current state after rockfall unconfirmed
+- Current location: Underdark tunnel/cavern, en route to the Darklake; was marching holding Gyrgum's hand; current state after rockfall unconfirmed
 - Current state: Active prior to rockfall; emotional, frightened
-- Recent actions: Was a fellow prisoner at Velkenyvelve; curled against Grygum during rest; cried when Grygum tried to push him away; appealed to Grygum's inspirational speech as reason for attachment; extended hand to Grygum; marched holding Grygum's hand
+- Recent actions: Was a fellow prisoner at Velkenyvelve; curled against Gyrgum during rest; cried when Gyrgum tried to push him away; appealed to Gyrgum's inspirational speech as reason for attachment; extended hand to Gyrgum; marched holding Gyrgum's hand
 - Faction: Former prisoner; myconid
-- Motivations: Wants to return home; seeks protection from Grygum; lonely and frightened
+- Motivations: Wants to return home; seeks protection from Gyrgum; lonely and frightened
 
 **Topsy**
 - Current location: Trapped under rocks in large cavern
@@ -117,7 +117,7 @@
 **Former Prisoners (escape group)**
 - Current goals: Reach the Darklake; travel to Gracklstugh via Sloopdopblop
 - Recent actions: Escaped Velkenyvelve using the demonic distraction; fled down waterfall into water; evaded gray ooze; reached Underdark tunnels; rested; began march toward the Darklake; suffered rockfall casualties
-- Key members: Zalthir, Grygum, Daz, Thorin, Sarith, Stool, Topsy, Turvy, Buppido, Jimjar, Eldeth, Shuushar, Ront (deceased)
+- Key members: Zalthir, Gyrgum, Daz, Thorin, Sarith, Stool, Topsy, Turvy, Buppido, Jimjar, Eldeth, Shuushar, Ront (deceased)
 - Relationships: Loosely allied; tension around decision-making; some members (Topsy, Turvy) show independent/mercenary tendencies
 
 ---
@@ -131,19 +131,19 @@
 - Topsy and Turvy transformed into rats and subsequently back into gnomes during the escape
 - The prisoners escaped Velkenyvelve by rushing from the tower to the waterfall and sliding down into the water below
 - A gray ooze attacked from the water, striking Thorin with a pseudopod; the group disengaged and fled rather than fight it
-- Grygum assessed the geography: north leads to Menzoberranzan; going south to Blingdenston would require passing through the drow-demon battle; Topsy and Turvy headed toward the Darklake tunnel
+- Gyrgum assessed the geography: north leads to Menzoberranzan; going south to Blingdenston would require passing through the drow-demon battle; Topsy and Turvy headed toward the Darklake tunnel
 - The entire escape group ran toward the Darklake tunnel
 - Ront, feeling shame over prior cowardice, stayed behind to fight an injured vrock; he wounded it once before it killed him, snapped off his head, swallowed it, and dropped his headless body
 - Daz witnessed Ront's death and made it to the safety of the cave tunnel
 - Jimjar proposed a bet on how many of the group would die before escaping; Buppido wagered he would reach Gracklstugh
 - Sarith provided navigational information: the Darklake is the fastest route to Gracklstugh; Sloopdopblop is approximately eight days away
 - On the 5th day of the 2nd Tenday of Taraskh 1493, the group began their march through the Underdark after a long rest
-- Stool bonded with Grygum, citing Grygum's inspirational speech; the two marched holding hands
+- Stool bonded with Gyrgum, citing Gyrgum's inspirational speech; the two marched holding hands
 - Jimjar discovered a fungus; Sarith identified it as edible; Shuushar identified it as the Tongue of Madness
 - Thorin ate the Tongue of Madness first and was compelled to speak truths involuntarily, including something embarrassing about Giants
 - The rest of the group ate the mushroom and stayed silent to avoid compelled revelations; Zalthir took a formal vow of silence
 - The group arrived at a large cavern; a tremor struck; rocks fell
-- After the rockfall: Topsy, Turvy, Buppido, Jimjar, Eldeth, Grygum, and Shuushar were trapped under rocks; Daz was found unconscious and assessed by Zalthir as dying if not freed in time
+- After the rockfall: Topsy, Turvy, Buppido, Jimjar, Eldeth, Gyrgum, and Shuushar were trapped under rocks; Daz was found unconscious and assessed by Zalthir as dying if not freed in time
 
 ---
 
@@ -188,7 +188,7 @@
 - **Ilvara's pursuit**: Sarith stated Ilvara is "honor bound" to pursue the escaped prisoners; it is unresolved when and how she will give chase, and what resources she has available given the demonic incursion
 - **Demonic incursion**: Four chasme and two vrock were present at Velkenyvelve simultaneously; Daz noted this was very unusual ("so many demons in one place is very odd"); the cause and source of the demonic presence is unexplained
 - **Daz's survival**: Daz is unconscious and dying under the rockfall; Zalthir must free him in time or he will die
-- **Rockfall casualties**: Topsy, Turvy, Buppido, Jimjar, Eldeth, Grygum, and Shuushar are all trapped under rocks; their individual conditions are unknown
+- **Rockfall casualties**: Topsy, Turvy, Buppido, Jimjar, Eldeth, Gyrgum, and Shuushar are all trapped under rocks; their individual conditions are unknown
 - **Sarith's madness and imprisonment**: Sarith experiences bouts of madness and claims to have been "unfairly and unjustly imprisoned"; the nature of the madness and the truth of his imprisonment are unresolved
 - **Topsy and Turvy's rat transformation**: The twins can transform into rats; the nature, extent, and limits of this ability and its implications for the group are unexplored
 - **Buppido's "divine plan"**: Buppido believes a divine plan will bring him safely to Gracklstugh; the nature of this belief and whether it signals something sinister is unresolved

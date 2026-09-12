@@ -28,15 +28,15 @@ Drow warrior, former member of Lolth's guard (warrior caste), convicted of murde
 - Susceptible to strange magical influences of the Underdark, particularly the Faerzress
 
 ## History with the Party
-- **Velkynvelve:** Met as fellow prisoner; Grygum determined he was genuine, not a spy. Assigned to chamber pot duty with Daz and Stool. Provided intelligence about gray ooze in pools and Jorlan's backstory. Participated in escape planning.
+- **Velkynvelve:** Met as fellow prisoner; Gyrgum determined he was genuine, not a spy. Assigned to chamber pot duty with Daz and Stool. Provided intelligence about gray ooze in pools and Jorlan's backstory. Participated in escape planning.
 - **Escape from Velkynvelve:** Armed himself with studded leather armor, shield, and hand crossbow. Identified vial of Drow poison. Advised quick movement, warning Ilvara would pursue. Suggested route to Darklake via Sloobludop.
-- **Drow Outpost Battle:** Identified Imbros as elite Drow fighter. Attacked Drow guard, cursing in Drow fashion. After Prince Derendil's death, nearly lost control until Grygum's telepathic intervention redirected his rage, allowing him to deliver killing blow to Imbros.
+- **Drow Outpost Battle:** Identified Imbros as elite Drow fighter. Attacked Drow guard, cursing in Drow fashion. After Prince Derendil's death, nearly lost control until Gyrgum's telepathic intervention redirected his rage, allowing him to deliver killing blow to Imbros.
 - **Rockfall Encounter:** Survived unscathed; fought giant centipede with hand crossbow, immediately suggested harvesting corpse for rations.
 - **Drow Pursuit:** Provided critical intelligence about pursuing scouts, explained how Underdark tunnels twist, warned non-flying surface-dwellers are easiest prey. Revealed Ilvara had caught up, ordered tactical changes.
 - **Faerzess Tunnels:** Noticeably affected by eerie Faerzress magic while traveling.
 - **Silken Paths:** Confirmed route and described massive chasm crossing. Directed goblin guides toward Sloobludop.
 - **Darklake Journey:** Explained Darklake as intersecting caverns rather than conventional water body. Shouted warnings about sandbar. Drew map using Ormu showing route through Sloobludop → Gracklstugh → Tomb of Brysis of Khaem.
-- **Kuo-toa Civil War:** Fled during chaos, running toward Grygum.
+- **Kuo-toa Civil War:** Fled during chaos, running toward Gyrgum.
 - **Gracklstugh:** Armed by Errde at Underlake Hold. Openly discussed plans to get equipment and head to Lost Tomb. Waited outside assassin's lair and brimstone cavern as ordered.
 - **Travel to Neverlight Grove:** Insisted party must go there, claiming compulsion connected to dancing Myconids. Announced they must disembark and proceed on foot via Lost Tomb of Khaem. Confirmed mysterious feminine voice led toward tomb.
 - **Approach to Myconid Cave:** Became compelled, walking involuntarily toward myconids. Shouted about "the Dark Lady" calling him, raving about "the bloom," "the becoming," liberation, revenge, and transformation. Zalthir physically restrained him.
@@ -48,7 +48,7 @@ Drow warrior, former member of Lolth's guard (warrior caste), convicted of murde
 
 ## Relationships
 - **Daz:** Worked alongside on chamber pot duty; Daz assessed him as insane and later diagnosed Zuggtmoy infection. Daz was suspicious, noting he "seems a bit off"
-- **Grygum:** Grygum's telepathic intervention during escape was pivotal stabilizing moment; ran toward Grygum during kuo-toa escape. Minor friction when Grygum spotted route before him
+- **Gyrgum:** Gyrgum's telepathic intervention during escape was pivotal stabilizing moment; ran toward Gyrgum during kuo-toa escape. Minor friction when Gyrgum spotted route before him
 - **Zalthir:** Physically restrained during compulsion episode; cooperated during escape, deferred to Sarith's navigation knowledge
 - **Jimjar:** Fellow armed companion; ultimately Sarith's killer after transformation
 - **Eldeth:** Gave her direct tactical orders; she accepted his authority
@@ -64,5 +64,5 @@ Drow warrior, former member of Lolth's guard (warrior caste), convicted of murde
 - **Thorin:** Minor friction when Thorin criticized his map accuracy
 
 ## Arc Score Events
-- **Increase:** Grygum's telepathic calming during escape deepened trust/connection to party
+- **Increase:** Gyrgum's telepathic calming during escape deepened trust/connection to party
 - **Decrease (potential):** Prince Derendil's death was major emotional blow — stability became fragile

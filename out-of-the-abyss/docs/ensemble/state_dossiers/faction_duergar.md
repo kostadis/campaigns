@@ -44,5 +44,5 @@ chapters: 3-29
 - Unclear if the Deepking is still alive or merely a symbolic figurehead — his madness is noted, but no chapter confirms his death or deposition.  
 - Ambiguous whether “innate invisibility” is a racial trait all Duergar possess, or only certain castes/agents — source descriptions are inconsistent in scope.  
 - Unclear if the Ember Vanguard is a known faction to all Duergar or only Gracklstugh’s military — [ch24] suggests broader awareness, [ch29] suggests localized terror.  
-- No current confirmation of whether Buppido’s network or Grygum’s smuggling routes are still active or relevant to Duergar economic control.  
+- No current confirmation of whether Buppido’s network or Gyrgum’s smuggling routes are still active or relevant to Duergar economic control.  
 - Unclear if the guardhouses in the West Cleft are still abandoned or have been reactivated — [ch17] and [ch17] state they were abandoned, but no later chapter confirms their current status.

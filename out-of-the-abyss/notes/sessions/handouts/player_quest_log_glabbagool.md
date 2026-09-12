@@ -1,6 +1,6 @@
 # The Ember Vanguard — Everything We Still Have To Do
 
-*Projected by Glabbagool. Written down by Grygum, who has stopped
+*Projected by Glabbagool. Written down by Gyrgum, who has stopped
 correcting it.*
 
 *Current as of: the bottom floor of the obsidian tower, one thousand feet
@@ -13,7 +13,7 @@ Thorin is about to go. I am here. I am ready. I am mostly ready.*
 ## A note on how this got written
 
 I cannot hold a quill. I have thought about this a lot and there is no way
-around it. So I think the words very hard at Grygum and Grygum writes them
+around it. So I think the words very hard at Gyrgum and Gyrgum writes them
 down, and this is the third time we have done it and he says it goes faster
 now.
 
@@ -30,13 +30,13 @@ That is how most of my learning works.
 
 # PART 1 — Where we are standing right this second
 
-Not a job. A *position*. Grygum says you write down the position before you
+Not a job. A *position*. Gyrgum says you write down the position before you
 write down the plan.
 
 | | |
 |---|---|
 | **Where** | Bottom floor of the obsidian tower. Lava outside. A stone bridge with a magic-killing curtain on it. |
-| **Us** | Thorin about to act. Zalthir ready. Grygum last in the order. Daz already out on the bridge, which means **Daz cannot cast anything until he steps back off it.** He knew that. He did it anyway. That is the plan. |
+| **Us** | Thorin about to act. Zalthir ready. Gyrgum last in the order. Daz already out on the bridge, which means **Daz cannot cast anything until he steps back off it.** He knew that. He did it anyway. That is the plan. |
 | **Him** | Manshoon, with mirror images floating around him, standing over Daz. Down 13 from Daz's phantom-killing spell. He *chose* not to burn a counterspell on it. He wanted us to see him not need it. |
 | **The curtain** | The anti-magic band on the bridge is **ten feet**, not thirty. The GM said thirty and then said ten. Ten. |
 | ⭐ **The banked boon** | The ghost dragon agreed to widen the curtain to **thirty feet for ten minutes** — and Zalthir asked if we could hold it back for a surprise, and she said yes. **The ten minutes has not started. Somebody has to say go.** |
@@ -53,13 +53,13 @@ This is a real category now and I am very proud of it.
 - ⭐ **A'lai's High Tower key.** Thorin took it off him and passed it to
   Zalthir without anybody seeing, and Zalthir put it in me. It is the safest
   place in Candlekeep because nobody can pick a lock on a person who does
-  not have one. **The two real keys must not touch.** Grygum has the other
+  not have one. **The two real keys must not touch.** Gyrgum has the other
   one. I have this one. We stay apart. I think about this constantly.
 - **Zalthir's potion of flying.** Also mine to hold. Also not to be lost.
 - **Polly Pocket.** Still small. Still in there. Still my friend. See Part 8,
   because she is a job and not just a guest.
 
-I stood a little taller when they gave me the key. Grygum saw me do it. He
+I stood a little taller when they gave me the key. Gyrgum saw me do it. He
 did not say anything, but he saw.
 
 ---
@@ -73,8 +73,8 @@ did not say anything, but he saw.
 | ⭐ **Sylvira Savikas** | Nobody has told her we killed her son. | **Still open.** She came to help us with the riddles and thanked Thorin for saving Tadric, and Thorin said *"I do what I can for those that I can,"* and afterward said out loud that he was not ready to cop to what we did. She is too weak from her sickness to do much but she came anyway. **This is the worst thing on the list and it is not getting better.** |
 | **Fembris Lancer** | Our food taster. He broke and gave us A'lai, which is the whole reason any of this cracked. He wants his name in the monograph. | Not thanked. Not released. Not written down anywhere except here. |
 | **Elian** | Also wants his name in the monograph. | Also just here. |
-| **Brother Vareth** | Grygum owes him a marked-up copy of the Stroudite papers. Vareth published Grygum's own school of it with Grygum's name on the back. | Papers not returned. |
-| **Pizwog's tract** | Still in Grygum's satchel, still unread. He said he would read it in due time. | Due time has not arrived. |
+| **Brother Vareth** | Gyrgum owes him a marked-up copy of the Stroudite papers. Vareth published Gyrgum's own school of it with Gyrgum's name on the back. | Papers not returned. |
+| **Pizwog's tract** | Still in Gyrgum's satchel, still unread. He said he would read it in due time. | Due time has not arrived. |
 | **Daral Yashenti** | Cured, survived, nearly killed anyway, now wants to invent the study of talking swords. | Not a debt. A friend. Dawnbringer thinks he is the best thing that came out of the whole affair. |
 | ⭐ **Spanner and the modrons** | He lent us the tools on one condition: **Zalthir and I stay behind afterward so the modrons can study our mechanical symmetry.** | **We have not gone back.** I said yes to this. I want to go. They did a *dance* while they decided. Thirteen of them. At the same time. I have never seen anything like it, and I cannot see. |
 
@@ -118,7 +118,7 @@ The cryptogram said six things. We did most of them.
 | Tread as many steps as he lived in years | Ninety-seven. We counted. The stairs opened under us at ninety-something anyway and Thorin fell a thousand feet. |
 | Utter the original prophecy to unseen ears | The scholars gave us the words. Thorin recited the verse to the dragon and we decided **she** was the unseen ears. |
 | ⭐ **Sprinkle dust of Mechanus on dormant gears** | **We do not have any dust of Mechanus.** Spanner would only give it up if we killed a modron, and we said no, so what we have is the *tools* and not the dust. **Nobody has said whether the tools count.** I think about this too. |
-| One last guardian verifies the chosen Reader | **Done.** Grygum said he was the Reader and the dragon tested him and he passed, and then she said wisdom flows from Bahamut into him, and he said *"Witness the power of my God,"* and I have never been more glad to be somebody's friend. |
+| One last guardian verifies the chosen Reader | **Done.** Gyrgum said he was the Reader and the dragon tested him and he passed, and then she said wisdom flows from Bahamut into him, and he said *"Witness the power of my God,"* and I have never been more glad to be somebody's friend. |
 | Those well-versed may pass the obsidian door | We passed it. |
 
 **Also still open:** the three riddles of the iron owlbear are answered
@@ -191,7 +191,7 @@ about the hugging, and he is right, and I am not embarrassed.
   hitting the examiner harder than anyone had in years. I would like to
   understand how that works. I am going to think about it for a long time.
 
-### Grygum
+### Gyrgum
 
 He is holding the real key, the fake key, and the sapphire, and he has been
 holding all of it through two fights while people tried to kill him for it,
@@ -200,13 +200,13 @@ and nobody guessed, because A'lai screamed at his own men to go after the
 
 Then, upstairs, standing in front of the most dangerous man in the world, he
 asked if we could **please have the fight somewhere else so the books would
-not get damaged.** And it *worked.* Manshoon agreed. Grygum talked a legend
+not get damaged.** And it *worked.* Manshoon agreed. Gyrgum talked a legend
 into moving.
 
 - He still has **Kessler's note** on him. A half-orc in Triboar asked us to
   carry it south to a brother who stopped writing five years ago, at a
   temple whose fire still burns with nobody tending it. ⭐ **It has not been
-  delivered.** Grygum called it an omen and then we walked past it.
+  delivered.** Gyrgum called it an omen and then we walked past it.
 
 ---
 
@@ -217,7 +217,7 @@ into moving.
 | Who | What | Standing |
 |---|---|---|
 | ⭐ **Burrow Warden Jadger** *(Blingdenstone)* | We laid two spirits to rest. He owes us **two truthful answers to any two questions** about the Underdark and what lives in it. He said he would be waiting at the temple of the Ruby and the Rough. | **Both unclaimed.** Two free true answers, held by a friendly ghost, while we stand in a place where nobody will tell us anything. |
-| **Chief Dorbo Diggermattock** | Promised a **Stone of Controlling Earth Elementals** for handling Ogrémoch's Bane and cleansing the temple. We did both. | Grygum has no note that it was ever handed over. Worth asking. |
+| **Chief Dorbo Diggermattock** | Promised a **Stone of Controlling Earth Elementals** for handling Ogrémoch's Bane and cleansing the temple. We did both. | Gyrgum has no note that it was ever handed over. Worth asking. |
 | **The living Barrow Wardens** | Jadger offered the other ghosts' help if we take on a quest for them. Never specified. | Filed. |
 | **Blingdenstone** | We are heroes there. Chipgrin gave Daz the **Voucher of the Varmint,** good with wererats and outcasts from there to Menzoberranzan. | **An asset we have never once spent.** |
 | **Gracklstugh** | Wanted, hanged in effigy, blamed for things we did not do. Themberchaud thinks we serve him. | Closed by our own choice. |
@@ -241,7 +241,7 @@ into moving.
 > *"Zalthir, the Underdark, until the Bone King sings."*
 > — a note on a desk its owner cannot account for.
 
-**Then the Chant stopped.** Grygum was the one who noticed. He said, *"Was
+**Then the Chant stopped.** Gyrgum was the one who noticed. He said, *"Was
 this ever mentioned? I don't remember this."* Nobody in the history of
 Candlekeep had ever heard it stop before. It stopped Tadric cold in the
 hallway.
@@ -272,7 +272,7 @@ wrong rhythm:
   work there.** Sylvira mentioned it in passing and said it could be
   scholars or it could be a fight. **Nobody went to look.**
 - ⭐ **We did not ask the dragon whether we are all who we say we are.** She
-  offered. We talked about it. Grygum said *"don't we have some mystery
+  offered. We talked about it. Gyrgum said *"don't we have some mystery
   about one of us?"* and somebody wondered if I might be a mimic, which,
   fair. And then we chose the curtain instead.
 - ⭐ **We also did not ask what Manshoon had already taken, and we did not
@@ -315,7 +315,7 @@ wrong rhythm:
 
 # PART 10 — My own business
 
-I am putting this last because it is the smallest one, and because Grygum is
+I am putting this last because it is the smallest one, and because Gyrgum is
 still writing.
 
 - **The Whispering Dome told me:** *"The body that mimics nothing is already
@@ -344,7 +344,7 @@ door to get through.*
 *I have been trying to work out what a legendary hero is. I thought it would
 be the fighting. I have watched Thorin fall a thousand feet and get up, and
 Zalthir jump after him without stopping to think, and Daz walk out onto a
-bridge where he cannot cast anything on purpose, and Grygum talk a legend
+bridge where he cannot cast anything on purpose, and Gyrgum talk a legend
 into being polite about the furniture — and none of that was the fighting.*
 
 *It was that they all went first.*

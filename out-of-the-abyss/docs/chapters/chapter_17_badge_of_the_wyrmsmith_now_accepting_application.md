@@ -57,7 +57,7 @@ Thorin immediately understands what’s going on. The Deep King has relied on hi
 Zalthir turns to Thorin, “The Stone Giant is particularly attuned to the rocks? So what we have seen as localized appearances of demons is not localized. The demons at Velkynvelve, the Beholder in the Spidersilk caves, the demonic manta rays, and Demogorgon, all of this is no coincidence.” 
 
 
-Grygum whispers, “The end of the great sundering ended the era that allowed the gods to walk in Faerûn freely. It’s why the Cult of Tiamat had to resort to such an extraordinary ritual to bring her into the prime material plane. That so many demons are walking freely is not normal. There is some kind of powerful magic that has enabled this.” 
+Gyrgum whispers, “The end of the great sundering ended the era that allowed the gods to walk in Faerûn freely. It’s why the Cult of Tiamat had to resort to such an extraordinary ritual to bring her into the prime material plane. That so many demons are walking freely is not normal. There is some kind of powerful magic that has enabled this.” 
 
 
 Thorin wonders if this has anything to do with the Faerzress, which has affects his sanity. 
@@ -116,32 +116,32 @@ And now, why Errde Blackskull and the Keeper of the Flames were so anxious to fi
 
 
 He observes, “Droki is someone all of the factions trust and can get to the Whorlstone Caverns safely through that.” And he points to the Derro slums. 
-### Grygum
+### Gyrgum
 
 
 “Let’s get Buppido.”  
 
 
-Zalthir urges caution, but Grygum is determined. 
+Zalthir urges caution, but Gyrgum is determined. 
 
 
 And so they head back to Ghohlbrorn’s Lair, where they find Jimjar playing a game of chance. The gnome hears that they want Buppido and points them to a room out back, where a sad Buppido is still tied up. 
 
 
-Thorin asks Buppido if he knows who Droki is, and Buppido laughs. Grygum is a bit embarrassed when Thorin asks the question, thinking that not every Derro knows every other Derro, but Buppido knows him. The reason is that Droki can be trusted to deliver messages to the groups in the Whorlstone caverns and keep secrets. 
+Thorin asks Buppido if he knows who Droki is, and Buppido laughs. Gyrgum is a bit embarrassed when Thorin asks the question, thinking that not every Derro knows every other Derro, but Buppido knows him. The reason is that Droki can be trusted to deliver messages to the groups in the Whorlstone caverns and keep secrets. 
 
 
-Grygum asks him if can tell them something about the Derro community. At that, Buppido becomes enraged. He screams about the Council of Savants who promised freedom and failed to deliver freedom. 
+Gyrgum asks him if can tell them something about the Derro community. At that, Buppido becomes enraged. He screams about the Council of Savants who promised freedom and failed to deliver freedom. 
 
 
 “I have to get back to save my people. The divine mission requires that I go back! The Council of Savants will fail my people. I must go and save them!” 
-Grygum turns to his allies, “We need to get him to show us the way to the Whorlstone caverns. If we go around poking for things, it’s unclear what could happen.” 
+Gyrgum turns to his allies, “We need to get him to show us the way to the Whorlstone caverns. If we go around poking for things, it’s unclear what could happen.” 
 
 
 Zalthir is unconvinced. Thorin mutters that Buppido has already committed murder once. 
 
 
-As Grygum cuts him loose, Thorin whispers, “If you betray us, I will gut you.” 
+As Gyrgum cuts him loose, Thorin whispers, “If you betray us, I will gut you.” 
 
 
 Buppido smiles, “The divine plan tells me I must help you!” 
@@ -150,39 +150,39 @@ Buppido smiles, “The divine plan tells me I must help you!”
 And so he leads them to the western gate of Laduguer’s Furrow. He mutters, “The duergar built a series of guardhouses to keep an eye on their derro slaves living in the West Cleft. These were abandoned when Deepking Tarngardt, grandfather of the current monarch, who liberated the derro, allowing them to spread from the West Cleft District into the East Cleft District. The guardhouses now stand empty and are an excellent vantage point for us to wait for Droki.” 
 
 
-And so Grygum waits. 
+And so Gyrgum waits. 
 ![image]()
 
 
 As he is about to doze off, Buppido nudges him, “There.”
 
 
-The dirty derro is easily recognizable: a pale face under a floppy hat fitted with two tentacle-like things that bob up and down in time with his brisk pace. He mutters a repetitive series of phrases at different volumes, failing to notice Grygum. “Droki is late! They will be so angry! Stupid, stupid, stupid! Delays, blocks, procrastination, obstructions, pfah! No time, no rhyme, not mine! No! Time!”
+The dirty derro is easily recognizable: a pale face under a floppy hat fitted with two tentacle-like things that bob up and down in time with his brisk pace. He mutters a repetitive series of phrases at different volumes, failing to notice Gyrgum. “Droki is late! They will be so angry! Stupid, stupid, stupid! Delays, blocks, procrastination, obstructions, pfah! No time, no rhyme, not mine! No! Time!”
 
 
-Grygum gets up and follows Droki into Derro city. 
-As he passes through the gates, the stench in the air changes from acrid and metallic to fetid and repugnant, the fires of industry replaced by squalor. The homes in this part of Gracklstugh are crudely carved from the rock or are just holes in the walls, arranged in no apparent order. The chatter in the air is unnerving, with hundreds of derro muttering, screaming at each other, and otherwise reveling in their insanity. Those who spot Grygum look at him with a burning hatred.
+Gyrgum gets up and follows Droki into Derro city. 
+As he passes through the gates, the stench in the air changes from acrid and metallic to fetid and repugnant, the fires of industry replaced by squalor. The homes in this part of Gracklstugh are crudely carved from the rock or are just holes in the walls, arranged in no apparent order. The chatter in the air is unnerving, with hundreds of derro muttering, screaming at each other, and otherwise reveling in their insanity. Those who spot Gyrgum look at him with a burning hatred.
 
 
-Grygum is relieved he has Buppido, whose presence seems to temper the anger. 
+Gyrgum is relieved he has Buppido, whose presence seems to temper the anger. 
 
 
-As for Droki, he isn’t in a rush. But he is walking too quickly for a Derro, as if there was something magical about his pace. Grygum observes that Droki also doesn’t seem to care if anyone is following him. 
+As for Droki, he isn’t in a rush. But he is walking too quickly for a Derro, as if there was something magical about his pace. Gyrgum observes that Droki also doesn’t seem to care if anyone is following him. 
 
 
 Droki wanders between the various houses and merchants of the Derro, as if there is no purpose to his walking. He mutters to himself and to any Derro whom he says. 
 
 
-And then Droki stops between a cluster of hovels in West Cleft and turns. Grygum follows him. Against a wall are some scraps of cloth, sheets of canvas and moldy boxes. Droki lifts the scrap of cloth,  pushes the gray sheets of canvas to the side, revealing a narrow fissure in the chasm wall. He steps over the moldy boxes, and jumps into the crack. Just as he disappears into the cavern, a wisp of eerie fog floats out. 
+And then Droki stops between a cluster of hovels in West Cleft and turns. Gyrgum follows him. Against a wall are some scraps of cloth, sheets of canvas and moldy boxes. Droki lifts the scrap of cloth,  pushes the gray sheets of canvas to the side, revealing a narrow fissure in the chasm wall. He steps over the moldy boxes, and jumps into the crack. Just as he disappears into the cavern, a wisp of eerie fog floats out. 
 
 
 At that point, Buppido rushes towards the entrance.
 
 
-Grygum is tempted to stop him, but he notices that there are many eyes on him and that detaining a Derro could turn into a fight. 
+Gyrgum is tempted to stop him, but he notices that there are many eyes on him and that detaining a Derro could turn into a fight. 
 
 
-For a moment, Grygum wonders what to do, and then, realizing that standing in front of a secret entrance isn’t the best place for an Orc, ancestral enemy of the Dwarf, he moves quickly into the caverns. 
+For a moment, Gyrgum wonders what to do, and then, realizing that standing in front of a secret entrance isn’t the best place for an Orc, ancestral enemy of the Dwarf, he moves quickly into the caverns. 
 
 
 ### Daz 
@@ -230,10 +230,10 @@ Knowing his strengths lie in spells, Daz focuses. He observes the cluster of ske
 Thorin, eager as ever, wastes no time. The dwarf charges forward, closing with one of the skeletons. Daz watches as Thorin lands a solid blow, adding to the chaos. Zalthir, never one to shy away from unusual tactics, plunges the area into darkness. Daz understands the intent—to disrupt the skeletons and disorient Buppido. It’s a bold move, and the flickering light and deep shadows add to the unsettling atmosphere.
 
 
-Confusion reigns for a moment. Some of the skeletons blunder blindly in the darkness, stumbling around aimlessly. One skeleton, however, manages to take a shot at Grygum with its crossbow. Daz sees Grygum flinch as the bolt hits, a testament to their constant danger. Buppido rushes at Thorin with a hooked spear but misses wildly, his attack fueled more by fury than skill.
+Confusion reigns for a moment. Some of the skeletons blunder blindly in the darkness, stumbling around aimlessly. One skeleton, however, manages to take a shot at Gyrgum with its crossbow. Daz sees Gyrgum flinch as the bolt hits, a testament to their constant danger. Buppido rushes at Thorin with a hooked spear but misses wildly, his attack fueled more by fury than skill.
 
 
-Grygum, ready with his holy symbol, prepares to turn undead. Daz knows this could be a game-changer, but Zalthir's darkness complicates things. A brief exchange leads to Grygum holding his action, waiting for the darkness to shift so that more skeletons are visible. It's a clever coordination, and Daz appreciates the tactical thinking. 
+Gyrgum, ready with his holy symbol, prepares to turn undead. Daz knows this could be a game-changer, but Zalthir's darkness complicates things. A brief exchange leads to Gyrgum holding his action, waiting for the darkness to shift so that more skeletons are visible. It's a clever coordination, and Daz appreciates the tactical thinking. 
 
 
 And it works. The cleric’s words of power overwhelm the skeletal minions of Buppido. The battle was evenly matched, but now it will become a slaughter. 
@@ -246,7 +246,7 @@ Daz stares at Buppido’s corpse and mutters, “Your divine mission is now over
 
 Session 19 
 ## 10th day of the 1st Tenday of Myrtul 1493
-### Grygum
+### Gyrgum
 
 
 The blood-spattered remains of Buppido lie scattered amongst the bones that made up the crazed Derro’s hideout. 
@@ -264,7 +264,7 @@ And as he prepares to pray for Buppido’s soul, a ghostly head pops up. The hea
 “He’s dead?” 
 
 
-Grygum tries not to stare. 
+Gyrgum tries not to stare. 
 
 
 The head rolls around, flopping into place, and stares at Buppido’s corpse, “Wonderful!” 
@@ -273,7 +273,7 @@ The head rolls around, flopping into place, and stares at Buppido’s corpse, �
 The ghostly gnome emerges from the ground and announces his name, “Pelek, at your service if you will be at mine.” 
 
 
-Grygum, whose interest in linguistic studies and origins of names and how they intersect with cultures across the ages, is startled by such an odd name. He then recalls that the Gnomes tend to name themselves after things and that many of their names are onomatopoeia of the sounds of those things, and he thinks that perhaps it’s after a pick or an axe. But he’s uncertain so he asks, “What does that name mean?” 
+Gyrgum, whose interest in linguistic studies and origins of names and how they intersect with cultures across the ages, is startled by such an odd name. He then recalls that the Gnomes tend to name themselves after things and that many of their names are onomatopoeia of the sounds of those things, and he thinks that perhaps it’s after a pick or an axe. But he’s uncertain so he asks, “What does that name mean?” 
 
 
 The ghost affects a blushing expression. And then begins to explain - “My father, god rest his soul, never liked the name. My mother named me after an actor. And well, there was always this doubt about the origin of the name and my lineage, which created a lot of friction in my family. And since you asked. I had a delightful childhood, except when it came to my name. My father was always very jealous, and there was always an undercurrent of hurt and shame in my name and how it affected my parents. I suppose that’s why I ended up as a merchant, and became friends with Buppido and ignored the tell-tale signs of his incipient murderous rampage.” 
@@ -282,7 +282,7 @@ The ghost affects a blushing expression. And then begins to explain - “My fath
 “Are you an actor?”
 
 
-“Why, thank you! Yes, I tried. But I never had the knack for it. Or was I worried I had too much of a knack for it and would engage in self-sabotage?” The ghost notices Grygum’s traveling companions are exasperated. It shifts the conversation: “But the story of my parents and their marital strife and the circumstances of their marriage, although fascinating, are not my most pressing topic. I need a favor.” The ghosts floats over some bones and points at them, “These bones are my bones, and I would appreciate you folks collecting my bones and bringing them to Blingdenstone.” 
+“Why, thank you! Yes, I tried. But I never had the knack for it. Or was I worried I had too much of a knack for it and would engage in self-sabotage?” The ghost notices Gyrgum’s traveling companions are exasperated. It shifts the conversation: “But the story of my parents and their marital strife and the circumstances of their marriage, although fascinating, are not my most pressing topic. I need a favor.” The ghosts floats over some bones and points at them, “These bones are my bones, and I would appreciate you folks collecting my bones and bringing them to Blingdenstone.” 
 
 
 Thorin sighs, “Classic Buppido.” 
@@ -291,19 +291,19 @@ Thorin sighs, “Classic Buppido.”
 The ghost is delighted, “Yes! He killed me and cut my body up into the pieces you see here. And I have been stuck here ever since. We were business partners. He was working with a faction of Derro known as the Council of Savants. Buppido said he could move product out of the city without dealing with the Duergar taxes. And well, he needed a supplier who could act. And well, you know, that tickled me pink. He promised to prove his point and brought me here.” 
 
 
-Grygum wonders, “Did something happen?” 
+Gyrgum wonders, “Did something happen?” 
 
 
 “Now that you mention it. I did notice that the Faerzress glowed brightly, and after that, Buppido’s temperament changed. He became convinced he was some kind of divine figure. The derro do go mad, and I assumed it was that. But the Faerzress glow was unmistakable. It was almost as if it was being sucked out, and went dark and then came back brighter than before. No one knows what the Faerzress is. And so I assumed it was something that happens.”
 
 
-Grygum gets excited - “When?” 
+Gyrgum gets excited - “When?” 
 
 
 “A few months ago. Why? And this is unimportant. What’s important is that you will get my bones to Blingdenstone.”  
 
 
-Grygum looks at Daz, Daz looks at Grygum. Daz wonders out loud, “So the Faerzress is a substance that makes teleportation into a region impossible.” 
+Gyrgum looks at Daz, Daz looks at Gyrgum. Daz wonders out loud, “So the Faerzress is a substance that makes teleportation into a region impossible.” 
 
 
 “Yes.” 
@@ -312,13 +312,13 @@ Grygum looks at Daz, Daz looks at Grygum. Daz wonders out loud, “So the Faerzr
 “Then if it blinked, could it have - I dunno - broken the walls between the planes?” 
 
 
-Grygum looks at Daz. 
+Gyrgum looks at Daz. 
 
 
 The ghost sighs, “That sounds like a ghost story. The Faerzress blinked, and then monsters from the Abyss appeared. Next, you’ll tell me it was part of some mage’s plot involving demonic powers and the world's end.” 
 
 
-Grygum coughs, “About your bones?” 
+Gyrgum coughs, “About your bones?” 
 
 
 “Excellent, my bones. And my hand. Seems it went off scurrying about. There is a family ring on it, an obsidian ring of some value. You can keep it if you find the hand.” 
@@ -429,7 +429,7 @@ Zalthir stops him. He thinks, “This place used to be where hippies hid out. No
 He can tell the dwarf has heard him, as he sits down deflated. 
 
 
-Grygum pulls out a bone, “Hey Pelek.”
+Gyrgum pulls out a bone, “Hey Pelek.”
 
 
 “Yes?” 
@@ -453,7 +453,7 @@ Zalthir looks at him, “And?”
 “Pygmywort is the mushroom with a one-inch-long stem and a stubby blue cap with white dots, and Bigwig is the four-inch-tall mushroom with a thin stem and a wide purple cap. The first one shrinks you, like the effect of a reduce spell, and the latter grows you, like the effect of an enlarge spell.” 
 
 
-Zalthir wonders what to do, and during that time, Grygum impulsively swallows a Pygmywort and shrinks. 
+Zalthir wonders what to do, and during that time, Gyrgum impulsively swallows a Pygmywort and shrinks. 
 
 
 Unfortunately, he can’t squeeze through the crack.  
@@ -495,7 +495,7 @@ As they land safely, he smiles.
 And he waits for polite applause. There is none, but Thorin slaps his back. A friendly slap on the back.
 
 
-And Grygum can’t stop saying “Wow!” 
+And Gyrgum can’t stop saying “Wow!” 
 
 
 As for Zalthir, Zalthir is quiet. 
@@ -544,7 +544,7 @@ Daz watches as the centipedes emerge, a shiver running down his spine. Zalthir i
 "No!" Daz exclaimed inwardly, "They saved!" He can't believe it; his attempt has failed completely.
 
 
-The centipedes, now emboldened, began to swarm over Zalthir. Daz winces, imagining the crawling, tickling sensation on his skin. It is a sight he finds deeply unsettling. Grygum then steps up, casting "Tasha's Caustic Brew." Daz watches with anticipation, but once again, the centipedes somehow manage to avoid the brunt of the spell. "Seriously?" Daz mutters under his breath. Were these bugs unusually lucky, under the protection of some bug god, or was he just having an off day?
+The centipedes, now emboldened, began to swarm over Zalthir. Daz winces, imagining the crawling, tickling sensation on his skin. It is a sight he finds deeply unsettling. Gyrgum then steps up, casting "Tasha's Caustic Brew." Daz watches with anticipation, but once again, the centipedes somehow manage to avoid the brunt of the spell. "Seriously?" Daz mutters under his breath. Were these bugs unusually lucky, under the protection of some bug god, or was he just having an off day?
 
 
 Just then, Thorin charges in, swinging with his weapon. Daz perks up as Thorin actually manages to strike one of the swarms, dealing a significant blow. "Yes! There you go!" he thinks, a glimmer of hope returning. But even with Thorin's success, the centipedes keep coming, relentless and unsettling. Daz finds himself scanning his spell list, second-guessing his choices. "Maybe 'Burning Hands' would have been better?" he muses, or perhaps something with a wider area of effect. He feels a slight unease, wondering if his spells are just ineffective or if he needs to re-strategize. All the while, he keeps scratching at his arms, feeling the phantom sensation of bugs despite knowing there were none on him.

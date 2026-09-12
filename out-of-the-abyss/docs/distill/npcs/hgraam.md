@@ -28,7 +28,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 ## Current Status
 - **Location:** Cairngorm Cavern, Gracklstugh — sealed or sealing the entrance
 - **Activity:** Withdrawing and isolating his people from the outside world in response to the two-headed giant threat and the broader madness
-- **Plans:** Hgraam is expected (per Grygum's assurance) to reverse the two-headed transformation on afflicted stone giants. The party is relying on this.
+- **Plans:** Hgraam is expected (per Gyrgum's assurance) to reverse the two-headed transformation on afflicted stone giants. The party is relying on this.
 - **Hidden Information:** The party does not know whether Hgraam can actually reverse the transformations or how long his isolation will last ("a while" in stone giant terms could be extremely long)
 
 ## Relationships
@@ -36,7 +36,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Daz:** Visibly disapproved of Daz's impatience; called him "too hasty."
 - **The Deep King:** Former friend — they used to "watch the stones grow" together. Hgraam is saddened by the Deep King's descent into paranoia and loss of reason.
 - **Shal:** The Deep King's new advisor whom Hgraam suspects of corrupting the king. Shal refuses to meet Hgraam. A clear point of suspicion and tension.
-- **Grygum:** Fellow stone giant who told the party that Hgraam could handle the afflicted giants, reinforcing Hgraam's authority among his people.
+- **Gyrgum:** Fellow stone giant who told the party that Hgraam could handle the afflicted giants, reinforcing Hgraam's authority among his people.
 - **Dorhun:** Apprentice to Hgraam
 - **Rihaud:** Apprentice to Hgraam
 - **Narrak:** Antagonistic relationship — Narrak's ritual drove Hgraam's stone giants mad

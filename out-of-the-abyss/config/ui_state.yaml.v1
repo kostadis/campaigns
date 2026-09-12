@@ -12,7 +12,7 @@ ui:
     party: /home/kroussos/out-of-the-abyss/out-of-the-abyss/docs/party.md
     voice_dir: /home/kroussos/out-of-the-abyss/out-of-the-abyss/voice
     examples_dir: /home/kroussos/out-of-the-abyss/out-of-the-abyss/examples
-    characters: Zalthir, Grygum, Daz, Throin
+    characters: Zalthir, Gyrgum, Daz, Throin
     gm_player: Kostadis
     narrate_tokens: 16000
     prose_mode: true
@@ -21,7 +21,7 @@ ui:
       of the Abyss is an Underdark survival picaresque narrated in first-person past,
       one POV per section, with the heading naming the character. The prose breathes
       with whoever is holding the section — Daz''s dry Menzoberranzan audit ("at least
-      we have that"), Grygum''s patient orc-cleric reframing ("this is not the will
+      we have that"), Gyrgum''s patient orc-cleric reframing ("this is not the will
       of any god, this is the will of the people"), Thorin''s giant-raised heart-on-sleeve
       bluffness ("ominous sounds fun"), Zalthir''s exasperated monk economy ("I sense
       some racial animus"). The fifth voice in every scene is the Underdark itself
@@ -39,7 +39,7 @@ ui:
       narrator never editorializes — characters speak the stakes themselves or the
       stakes go unspoken.  ## Expanded notes  ### POV conventions  - **One POV per
       section.** Each section begins with a `## <Character Name> — <Scene Name>` heading
-      (Daz, Grygum, Thorin, Zalthir), then narrates entirely from inside that character''s
+      (Daz, Gyrgum, Thorin, Zalthir), then narrates entirely from inside that character''s
       frame. - **First-person past is the spine** ("I noticed the ceiling first,"
       "I took notes on the seating arrangement before anyone had finished shouting").
       The "I" carries the section. The hand-crafted chapters 1–15 are largely third-person;
@@ -56,14 +56,14 @@ ui:
       interior from inside a POV section — report what the POV character observes.
       *"He looked nervous"* is allowed; *"he was thinking about his mother"* is not,
       unless he says so. - **Use the POV character''s vocabulary for everything.**
-      Daz uses Menzoberranzan vocabulary (Houses, debt, leverage, audit). Grygum uses
+      Daz uses Menzoberranzan vocabulary (Houses, debt, leverage, audit). Gyrgum uses
       Bahamut-cleric vocabulary (hoards-as-blessings, divine plan, the will of the
       people). Thorin uses giant-raised vocabulary (Hekaton, the War of the Giants,
       "the little people"). Zalthir uses monk-of-shadow vocabulary (Korrh Erann''s
       teaching, discipline, tactical economy). Don''t break a character''s lexicon
       to be precise.  ### Sentence rhythm  - **Sentence length tracks emotional content.**
       Long, clause-stacking sentences during Daz''s Gracklstugh urban inventory or
-      Grygum''s Bahamut-mentor reverie; short, flat sentences for decisions under
+      Gyrgum''s Bahamut-mentor reverie; short, flat sentences for decisions under
       pressure ("Rocks. Port."); clipped procedural sentences for combat. - **Combat
       prose alternates the procedural and the felt.** *"I''d recovered from the disastrous
       opening gambit and remembered how magic missiles work. It''s not one dart, but
@@ -87,7 +87,7 @@ ui:
       it; don''t collapse into dense paragraph blocks.  ### Tonal range  - **Tactical
       problem-solving** — which cantrip to use, which tunnel veers left, who carries
       the slow myconid, whether to burn the spider web or walk it. Render decisions
-      as visible reasoning inside the POV''s vocabulary. Daz frames as audit; Grygum
+      as visible reasoning inside the POV''s vocabulary. Daz frames as audit; Gyrgum
       as theology-of-resources; Thorin as front-line instinct; Zalthir as economy
       and discipline. - **Cultural-collision dark comedy** — an orc cleric of Bahamut
       spitting on the altar of a kuo-toan scavenger goddess as a sign of respect;
@@ -102,7 +102,7 @@ ui:
       not separately. - **Cosmic-horror eruption.** When a demon lord rises from the
       Darklake, the prose should let the horror arrive through accumulated detail
       — water bubbling, oily tentacle, "Not to worry, just water effects" denial collapsing
-      into recognition. The escalation belongs inside Grygum''s POV (the trained cleric
+      into recognition. The escalation belongs inside Gyrgum''s POV (the trained cleric
       who actually knows what he''s looking at). Don''t gesture at "ancient evil"
       from a narrator perch. - **Underdark atmospherics** — low ceilings forcing characters
       to stoop, Faerzress as mind-warp, the absence of natural light, water management
@@ -122,7 +122,7 @@ ui:
       not delete to seem terser)   - **Buppido:** "the divine plan" (running joke
       about derro madness; preserve the cadence)   - **Shuushar:** "Enlightenment
       is necessary"   - **Stool:** "I''m helpful, aren''t I? I love being helpful."   -
-      **Grygum:** "I am the inferior race" (deflection); "Bahamut, save us"   - **Daz:**
+      **Gyrgum:** "I am the inferior race" (deflection); "Bahamut, save us"   - **Daz:**
       "I have an alternative proposal"; "At least we have that"   - **Thorin:** "Ominous
       sounds fun"   - **Zalthir:** "I sense some racial animus" - Reach for the sensory
       specific (the acrid smelter smoke that burns through the sense of smell, the
@@ -142,9 +142,9 @@ ui:
       *noted, worth noting, clocked, kept it.* He does NOT *file* — filing implies
       a cabinet, and Thorin''s cabinet is the ground under his feet. ***"Thorin filed
       it" is the canonical wrong answer*** — it has shipped before and it is always
-      wrong. Use *clocked it / kept it / that''s the terrain now.*   - **Grygum:**
+      wrong. Use *clocked it / kept it / that''s the terrain now.*   - **Gyrgum:**
       *took notes, filed, inscribed, noted for the column marked X.* Filing is canonical
-      and protected for Grygum — but still subject to the one-per-section cap. *"I
+      and protected for Gyrgum — but still subject to the one-per-section cap. *"I
       file that thought for later."* *"I noted her for the column marked *capable*."*   -
       **Daz:** *audited, tallied, sorted columns, categorized, sorted into the correct
       drawer, the running account.* His vocabulary is Menzoberranzan bookkeeping.
@@ -155,7 +155,7 @@ ui:
       the sky."* If a Zalthir section reads like accounting, it''s wrong; he watches,
       he doesn''t tally.   - **Cross-pollination collapses three otherwise-similar
       "I observe and record" registers into one.** *Thorin filed it* → wrong; should
-      be *Thorin noted it / clocked it*. *Grygum''s internal ledger* → wrong; should
+      be *Thorin noted it / clocked it*. *Gyrgum''s internal ledger* → wrong; should
       be *the column marked X / the margin*. *Daz noted it* → weak; he *audited /
       sorted / categorized*. - Preserve the kuo-toan and demon-naming orthography
       — Leemoogoogoon, Ploopploopeen, Bloppblippodd, Sloobludop. The absurdity of
@@ -177,7 +177,7 @@ ui:
       not to think about why"*, *"with the particular expression of people who have
       never, in their professional lives, been asked to pay for something"*. The construction
       is portable across all four narrators — which is exactly the problem; it overrides
-      each character''s per-spec cadence (Thorin''s stone-weight concrete, Grygum''s
+      each character''s per-spec cadence (Thorin''s stone-weight concrete, Gyrgum''s
       paratactic ~8-word sentences, Zalthir''s tactical inventory). If you need to
       attribute behavior, name the action and trust the reader to infer the kind of
       person. Not *"Bookwyrm stepped around her with the practiced delicacy of someone
@@ -193,7 +193,7 @@ ui:
       fantasy reach** — "his eyes blazed with ancient fury," "the air itself seemed
       to thrum." Specific or nothing. - **Capital-S stakes from the narrator** — "the
       fate of Faerun hung in the balance." The Demogorgon recognition lands harder
-      when Grygum is the one saying it out loud, in character, with Bahamut-cleric
+      when Gyrgum is the one saying it out loud, in character, with Bahamut-cleric
       vocabulary. - **POV bleed** — do not narrate another character''s thoughts inside
       a POV section. Report observed behavior only. - **Recap framing** — do not have
       characters mentally summarize what just happened for the reader''s benefit ("After
@@ -261,7 +261,7 @@ ui:
           of the Abyss is an Underdark survival picaresque narrated in first-person
           past, one POV per section, with the heading naming the character. The prose
           breathes with whoever is holding the section — Daz''s dry Menzoberranzan
-          audit ("at least we have that"), Grygum''s patient orc-cleric reframing
+          audit ("at least we have that"), Gyrgum''s patient orc-cleric reframing
           ("this is not the will of any god, this is the will of the people"), Thorin''s
           giant-raised heart-on-sleeve bluffness ("ominous sounds fun"), Zalthir''s
           exasperated monk economy ("I sense some racial animus"). The fifth voice
@@ -280,7 +280,7 @@ ui:
           The narrator never editorializes — characters speak the stakes themselves
           or the stakes go unspoken.  ## Expanded notes  ### POV conventions  - **One
           POV per section.** Each section begins with a `## <Character Name> — <Scene
-          Name>` heading (Daz, Grygum, Thorin, Zalthir), then narrates entirely from
+          Name>` heading (Daz, Gyrgum, Thorin, Zalthir), then narrates entirely from
           inside that character''s frame. - **First-person past is the spine** ("I
           noticed the ceiling first," "I took notes on the seating arrangement before
           anyone had finished shouting"). The "I" carries the section. The hand-crafted
@@ -299,13 +299,13 @@ ui:
           POV character observes. *"He looked nervous"* is allowed; *"he was thinking
           about his mother"* is not, unless he says so. - **Use the POV character''s
           vocabulary for everything.** Daz uses Menzoberranzan vocabulary (Houses,
-          debt, leverage, audit). Grygum uses Bahamut-cleric vocabulary (hoards-as-blessings,
+          debt, leverage, audit). Gyrgum uses Bahamut-cleric vocabulary (hoards-as-blessings,
           divine plan, the will of the people). Thorin uses giant-raised vocabulary
           (Hekaton, the War of the Giants, "the little people"). Zalthir uses monk-of-shadow
           vocabulary (Korrh Erann''s teaching, discipline, tactical economy). Don''t
           break a character''s lexicon to be precise.  ### Sentence rhythm  - **Sentence
           length tracks emotional content.** Long, clause-stacking sentences during
-          Daz''s Gracklstugh urban inventory or Grygum''s Bahamut-mentor reverie;
+          Daz''s Gracklstugh urban inventory or Gyrgum''s Bahamut-mentor reverie;
           short, flat sentences for decisions under pressure ("Rocks. Port."); clipped
           procedural sentences for combat. - **Combat prose alternates the procedural
           and the felt.** *"I''d recovered from the disastrous opening gambit and
@@ -331,7 +331,7 @@ ui:
           dense paragraph blocks.  ### Tonal range  - **Tactical problem-solving**
           — which cantrip to use, which tunnel veers left, who carries the slow myconid,
           whether to burn the spider web or walk it. Render decisions as visible reasoning
-          inside the POV''s vocabulary. Daz frames as audit; Grygum as theology-of-resources;
+          inside the POV''s vocabulary. Daz frames as audit; Gyrgum as theology-of-resources;
           Thorin as front-line instinct; Zalthir as economy and discipline. - **Cultural-collision
           dark comedy** — an orc cleric of Bahamut spitting on the altar of a kuo-toan
           scavenger goddess as a sign of respect; a Menzoberranzan drow finding the
@@ -346,7 +346,7 @@ ui:
           - **Cosmic-horror eruption.** When a demon lord rises from the Darklake,
           the prose should let the horror arrive through accumulated detail — water
           bubbling, oily tentacle, "Not to worry, just water effects" denial collapsing
-          into recognition. The escalation belongs inside Grygum''s POV (the trained
+          into recognition. The escalation belongs inside Gyrgum''s POV (the trained
           cleric who actually knows what he''s looking at). Don''t gesture at "ancient
           evil" from a narrator perch. - **Underdark atmospherics** — low ceilings
           forcing characters to stoop, Faerzress as mind-warp, the absence of natural
@@ -367,7 +367,7 @@ ui:
           do not delete to seem terser)   - **Buppido:** "the divine plan" (running
           joke about derro madness; preserve the cadence)   - **Shuushar:** "Enlightenment
           is necessary"   - **Stool:** "I''m helpful, aren''t I? I love being helpful."   -
-          **Grygum:** "I am the inferior race" (deflection); "Bahamut, save us"   -
+          **Gyrgum:** "I am the inferior race" (deflection); "Bahamut, save us"   -
           **Daz:** "I have an alternative proposal"; "At least we have that"   - **Thorin:**
           "Ominous sounds fun"   - **Zalthir:** "I sense some racial animus" - Reach
           for the sensory specific (the acrid smelter smoke that burns through the
@@ -389,8 +389,8 @@ ui:
           — filing implies a cabinet, and Thorin''s cabinet is the ground under his
           feet. ***"Thorin filed it" is the canonical wrong answer*** — it has shipped
           before and it is always wrong. Use *clocked it / kept it / that''s the terrain
-          now.*   - **Grygum:** *took notes, filed, inscribed, noted for the column
-          marked X.* Filing is canonical and protected for Grygum — but still subject
+          now.*   - **Gyrgum:** *took notes, filed, inscribed, noted for the column
+          marked X.* Filing is canonical and protected for Gyrgum — but still subject
           to the one-per-section cap. *"I file that thought for later."* *"I noted
           her for the column marked *capable*."*   - **Daz:** *audited, tallied, sorted
           columns, categorized, sorted into the correct drawer, the running account.*
@@ -402,7 +402,7 @@ ui:
           If a Zalthir section reads like accounting, it''s wrong; he watches, he
           doesn''t tally.   - **Cross-pollination collapses three otherwise-similar
           "I observe and record" registers into one.** *Thorin filed it* → wrong;
-          should be *Thorin noted it / clocked it*. *Grygum''s internal ledger* →
+          should be *Thorin noted it / clocked it*. *Gyrgum''s internal ledger* →
           wrong; should be *the column marked X / the margin*. *Daz noted it* → weak;
           he *audited / sorted / categorized*. - Preserve the kuo-toan and demon-naming
           orthography — Leemoogoogoon, Ploopploopeen, Bloppblippodd, Sloobludop. The
@@ -426,7 +426,7 @@ ui:
           have never, in their professional lives, been asked to pay for something"*.
           The construction is portable across all four narrators — which is exactly
           the problem; it overrides each character''s per-spec cadence (Thorin''s
-          stone-weight concrete, Grygum''s paratactic ~8-word sentences, Zalthir''s
+          stone-weight concrete, Gyrgum''s paratactic ~8-word sentences, Zalthir''s
           tactical inventory). If you need to attribute behavior, name the action
           and trust the reader to infer the kind of person. Not *"Bookwyrm stepped
           around her with the practiced delicacy of someone who had done this many
@@ -442,7 +442,7 @@ ui:
           - **Generic fantasy reach** — "his eyes blazed with ancient fury," "the
           air itself seemed to thrum." Specific or nothing. - **Capital-S stakes from
           the narrator** — "the fate of Faerun hung in the balance." The Demogorgon
-          recognition lands harder when Grygum is the one saying it out loud, in character,
+          recognition lands harder when Gyrgum is the one saying it out loud, in character,
           with Bahamut-cleric vocabulary. - **POV bleed** — do not narrate another
           character''s thoughts inside a POV section. Report observed behavior only.
           - **Recap framing** — do not have characters mentally summarize what just

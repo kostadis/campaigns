@@ -13,7 +13,7 @@ chapters: 48-48
 - **Composition:** Carved from the knucklebone of a saint who never told a lie.  
 - **Notable property:** Possessed a memory for the truth; capable of pacifying oozes by triggering a "blink" effect when tossed onto Glabbagool, correcting the "world's math."  
 - **Recent action:** Used once to pacify Glabbagool’s ooze army; now inactive.  
-- **Significance:** Considered by the party to be the best investment they ever made (ten platinum pieces paid by Grygum).  
+- **Significance:** Considered by the party to be the best investment they ever made (ten platinum pieces paid by Gyrgum).  
 
 ## Uncertainty
 - The exact current physical location within the party’s inventory is unspecified (e.g., which member holds it).  

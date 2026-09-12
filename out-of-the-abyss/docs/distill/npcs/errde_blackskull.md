@@ -50,7 +50,7 @@ Captain of the Stone Guards, Gracklstugh, based at Overlake Hold. Connected to t
 - **Council of Savants / Clan Lairds:** Primary adversary; suspects them of conspiracy.
 - **Droki:** Her primary investigative target.
 - **The Cult (Aliinka, Narrak):** They view her as a useful fool whose paranoia serves their agenda — she is unaware of this.
-- **Grygum:** Tasked him with investigating the "empty scabbard killers." She can invoke intimidation through his name.
+- **Gyrgum:** Tasked him with investigating the "empty scabbard killers." She can invoke intimidation through his name.
 - **Grimholl Forgebrand:** Her subordinate who briefs on the killings.
 - **Clan Ironhead & Clan Xardelva:** Views them as useful cover; shared intelligence that both oppose the Deepking.
 - **Grey Ghosts:** Believes they collaborate with the Council.

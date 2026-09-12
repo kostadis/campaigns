@@ -10,7 +10,7 @@ Collapsed wailing at Demogorgon's appearance and had to be carried to the boat b
 No longer gagged. Advocated for traveling to Gracklstugh, claiming to know people there who could help the party acquire better equipment and assistance. Accepted Jimjar's skeptical challenge with a sigh.
 
 **Hemeth**
-Present on the boat. Suggested taking the Kuo-Toan boat by force, referencing a prior encounter with Kuo-Toans in which he nearly became a sacrifice while attempting to sell them weapons. Was overruled by Shuushar and Grygum before he could act.
+Present on the boat. Suggested taking the Kuo-Toan boat by force, referencing a prior encounter with Kuo-Toans in which he nearly became a sacrifice while attempting to sell them weapons. Was overruled by Shuushar and Gyrgum before he could act.
 
 **Eldeth**
 Collapsed wailing at Demogorgon's appearance and had to be carried by Thorin. Recovered and identified the creature as Demogorgon, expressing that his presence on the Prime Material Plane should be impossible. Asserted that the danger extends to all of Faerûn and specifically to dwarven miners on the surface, urging the party to send a warning upward.
@@ -19,13 +19,13 @@ Collapsed wailing at Demogorgon's appearance and had to be carried by Thorin. Re
 Carried Daz during the escape from Sloopbludop. Responded to Buppido's offer with a sardonic "Wanna bet?"
 
 **Topsy and Turvy**
-Collapsed wailing at Demogorgon's appearance and were carried by Grygum during the escape.
+Collapsed wailing at Demogorgon's appearance and were carried by Gyrgum during the escape.
 
 **Sarith**
 Present on the boat throughout the journey. After Shuushar's departure, admitted uncertainty about his ability to correctly follow Shuushar's navigational instructions, now holding them on behalf of the group.
 
 **Kuo-Toan Monitors (Sloopbludop dock)**
-Were standing guard at the dock when the party arrived. Accepted Grygum's claim that the Archpriest of the Sea Mother commanded them to help the community, appeared relieved to have a purpose, and rushed off — allowing the party to take the boat uncontested.
+Were standing guard at the dock when the party arrived. Accepted Gyrgum's claim that the Archpriest of the Sea Mother commanded them to help the community, appeared relieved to have a purpose, and rushed off — allowing the party to take the boat uncontested.
 
 **Kuo-Toan Survivors (Darklake boat)**
 Encountered on the 8th day of the 3rd Tenday. Survivors from Sloopbludop who had fled the destruction. Receptive to Shuushar's reformist message about ending the Kuo-Toan compulsion to create gods. Departed with Shuushar to begin building what he called "a better Kuo-Toan world."
@@ -50,7 +50,7 @@ Founded on the 8th day of the 3rd Tenday when Shuushar departed with sympathetic
 **Demonic Incursion / Demon Lords on the Prime Material Plane**
 - *Triggering event:* Demogorgon physically destroyed Sloopbludop on the Darklake, confirming active presence of a demon lord on the Prime Material Plane. The party witnessed this directly.
 - *Triggering event:* Demonic manta ray-like creatures were encountered in the Darklake waters (6th day, 3rd Tenday), suggesting demonic corruption of local fauna is spreading outward from the incursion point.
-- *Party inference:* Grygum connected the spectator's earlier warning about demons, the demons at Velkynvelve, and Demogorgon's appearance into a unified conclusion — demons have reached the Prime Material Plane in large numbers and someone deliberately summoned them.
+- *Party inference:* Gyrgum connected the spectator's earlier warning about demons, the demons at Velkynvelve, and Demogorgon's appearance into a unified conclusion — demons have reached the Prime Material Plane in large numbers and someone deliberately summoned them.
 
 ---
 

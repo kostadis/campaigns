@@ -4,7 +4,7 @@ Flumph shared an image of the egg with the party earlier. When invited to join t
 
 ## Jimjar
 
-Jimjar attempted to follow Rust into the assassin's chambers but was stopped by Rust, who only permitted Daz, Thorin, Zalthir, and Grygum to enter. He waited outside with the other companions and later moved with the group past the Derro caves.
+Jimjar attempted to follow Rust into the assassin's chambers but was stopped by Rust, who only permitted Daz, Thorin, Zalthir, and Gyrgum to enter. He waited outside with the other companions and later moved with the group past the Derro caves.
 
 ## Sarith
 
@@ -32,7 +32,7 @@ Werz is the reason the party engaged with the assassins — they needed to get a
 
 ## Rust
 
-Rust is a Duergar assassin and member of the Empty Scabbard guild who materialized at the intersection near the assassin's lair along with Grimgrim. He introduced himself with an unpronounceable Derro name and offered "Rust" as an alternative. He was pleased to learn the party were enemies of Demogorgon. He explained they were the "empty scabbard killers" and then went to confer with his leadership about the party's proposal to cooperate against the Demogorgon cult. He returned and led the four party members (Daz, Thorin, Zalthir, Grygum) to Eldgrim, while ordering the rest to wait outside. Thorin distracted Rust and Grimgrim by asking about the empty scabbard moniker while Daz stole the contract.
+Rust is a Duergar assassin and member of the Empty Scabbard guild who materialized at the intersection near the assassin's lair along with Grimgrim. He introduced himself with an unpronounceable Derro name and offered "Rust" as an alternative. He was pleased to learn the party were enemies of Demogorgon. He explained they were the "empty scabbard killers" and then went to confer with his leadership about the party's proposal to cooperate against the Demogorgon cult. He returned and led the four party members (Daz, Thorin, Zalthir, Gyrgum) to Eldgrim, while ordering the rest to wait outside. Thorin distracted Rust and Grimgrim by asking about the empty scabbard moniker while Daz stole the contract.
 
 ## Grimgrim
 

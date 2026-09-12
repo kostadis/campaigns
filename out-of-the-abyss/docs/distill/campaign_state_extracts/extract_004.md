@@ -10,7 +10,7 @@
 
 ### Acquiring scavenged possessions in Velkynvelve slave pen
 - **Session/Time:** 4th day of the 2nd Tenday of Taraskh 1493
-- **Outcome:** Partial. Prisoners scavenged drow weapons and armor from dead guards (Sarith: studded leather, shield, hand crossbow; Grygum: poisoned bolts and drow poison vial; others took drow weapons). Original gear was deliberately abandoned — the party chose to escape rather than retrieve their personal equipment.
+- **Outcome:** Partial. Prisoners scavenged drow weapons and armor from dead guards (Sarith: studded leather, shield, hand crossbow; Gyrgum: poisoned bolts and drow poison vial; others took drow weapons). Original gear was deliberately abandoned — the party chose to escape rather than retrieve their personal equipment.
 
 ### Escaping Velkynvelve via webs and pool
 - **Session/Time:** 4th day of the 2nd Tenday of Taraskh 1493
@@ -35,7 +35,7 @@
 - **Status:** Alive. Trapped under rocks after a cave-in on day 5. Confirmed Sloobludop is approximately eight days away via the Darklake.
 
 ### Stool — myconid sprout prisoner
-- **Status:** Alive. Has bonded with Grygum as a surrogate parental figure. Provides telepathic communication ability to the group.
+- **Status:** Alive. Has bonded with Gyrgum as a surrogate parental figure. Provides telepathic communication ability to the group.
 
 ### Buppido — derro prisoner
 - **Status:** Alive. Trapped under rocks after a cave-in. Claims divine plan will bring him to Gracklstugh. Made a wager with Jimjar about reaching Gracklstugh.
@@ -52,7 +52,7 @@
 ### Daz (PC)
 - **Status:** Unconscious and dying, trapped under rocks after cave-in on day 5. Will die if not freed in time.
 
-### Grygum (PC)
+### Gyrgum (PC)
 - **Status:** Alive. Trapped under rocks but conscious and shouting. Bonded with Stool.
 
 ### Zalthir (PC)
@@ -63,7 +63,7 @@
 
 ## Party Accomplishments & Acquisitions
 
-- **Drow weapons and armor scavenged:** Sarith has studded leather, shield, hand crossbow; Grygum has poisoned hand crossbow bolts and a vial of drow poison; others have drow weapons. Silk rope taken by Zalthir.
+- **Drow weapons and armor scavenged:** Sarith has studded leather, shield, hand crossbow; Gyrgum has poisoned hand crossbow bolts and a vial of drow poison; others have drow weapons. Silk rope taken by Zalthir.
 - **Telepathic communication:** Stool provides rapport spore telepathy to the group.
 - **Topsy and Turvy's lycanthropy secret revealed:** They transformed into rats openly during the escape.
 - **Route knowledge established:** Sarith identified the Darklake as the fastest route to Gracklstugh, with Sloobludop (kuo-toa settlement) approximately 8 days away where they can find a navigator and boat.
@@ -72,7 +72,7 @@
 ## Party Current Situation
 
 - **Current location:** Underdark tunnels en route to the Darklake, heading toward Sloobludop (approximately 8 days travel). End of day 5 of the 2nd Tenday of Taraskh 1493.
-- **Immediate unresolved situation:** A cave-in has trapped multiple party members (Topsy, Buppido, Jimjar, Eldeth, Grygum, Shuushar) under rocks. Daz is unconscious and dying under the rubble. Zalthir is free and must rescue them. Drow pursuit is active behind them.
+- **Immediate unresolved situation:** A cave-in has trapped multiple party members (Topsy, Buppido, Jimjar, Eldeth, Gyrgum, Shuushar) under rocks. Daz is unconscious and dying under the rubble. Zalthir is free and must rescue them. Drow pursuit is active behind them.
 
 ## Tracked Items
 
@@ -88,13 +88,13 @@
 - **Topsy and Turvy — svirfneblin twins, lycanthropy secret revealed:** Lycanthropy openly revealed — they transformed into rats during the escape.
 - **Sarith Kzekarit — drow prisoner, demonic spore infection revealed:** Alive, experiencing bouts of madness. Serving as area guide.
 - **Shuushar the Awakened — kuo-toa prisoner, first contact:** Alive, trapped under cave-in rocks. Confirmed Sloobludop distance.
-- **Stool — myconid sprout prisoner, first contact:** Alive, bonded with Grygum as surrogate parent figure.
+- **Stool — myconid sprout prisoner, first contact:** Alive, bonded with Gyrgum as surrogate parent figure.
 - **Buppido — derro prisoner, true nature as killer revealed:** Alive, trapped under rocks. Claims divine plan guides him to Gracklstugh. True killer nature not yet revealed to party.
 - **Jimjar — deep gnome prisoner, first contact:** Alive, trapped under rocks. Making survival wagers.
 - **Eldeth Feldrun — shield dwarf prisoner, fate determined:** Alive, trapped under rocks after cave-in.
 - **Ilvara Mizzrym — drow commander, first contact in Velkynvelve:** Confirmed as active pursuer. Honor-bound to chase the escaped prisoners.
 - **Shuushar — guide to Sloobludop:** Active. Confirmed Sloobludop as destination, 8 days away via Darklake.
-- **Stool — return to Neverlight Grove:** Active goal. Stool wants to go home; bonded with Grygum who implicitly agreed to bring him there.
+- **Stool — return to Neverlight Grove:** Active goal. Stool wants to go home; bonded with Gyrgum who implicitly agreed to bring him there.
 - **Darklake — Underdark waterway:** Identified as the travel route. Party heading toward it. Sarith described it as a vast network of underground rivers stretching over 100 miles.
 - **Reach Sloobludop — kuo-toa settlement:** In progress. Identified as next destination, approximately 8 days travel via Darklake tunnel. Not yet reached.
 - **Reach Gracklstugh — duergar city:** Identified as further destination beyond Sloobludop. Buppido wagered he'd reach it. Not yet reached.

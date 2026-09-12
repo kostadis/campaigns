@@ -8,22 +8,22 @@ source: gmassist
 ## Scene summary (from gm-assist, verbatim)
 
 #### The party continues their battle against the remaining Zhentarim thug while A'lai Aivenmore attempts to redirect the fight.
-- The corrosive acid on the surviving Zhentarim thug continues to burn him at the start of his turn — 8 points (2d4) this round. Grygum notes he could spend an action to scrape it off, "otherwise it just keeps going."
-- Because Tasha's Caustic Brew is a concentration spell, Grygum's Bless drops to keep the acid going.
-- The thug attempts to strike Grygum with his mace but fails to land a hit on either swing — the DM notes he has "really bad attack routines."
-- A'lai Aivenmore shouts orders to the thug, demanding he ignore the cleric and target the wizard instead, believing the wizard has the key — he is wrong; Grygum holds it: "Don't go after him, drag him! Don't go after the cleric! Go after the wizard! The wizard's the one that we want, he's got the key!"
-- Daz maneuvers around a corner to gain a better tactical position — placing himself out of line of sight of the room — while Grygum holds the sapphire artifact.
-- Thorin and Grygum seize an opportunity to strike the fleeing Zhentarim thug; Grygum's mace whiffs. Separately, the table re-affirms the previous session's ruling that Dawnbringer — Thorin's blade — is a she.
+- The corrosive acid on the surviving Zhentarim thug continues to burn him at the start of his turn — 8 points (2d4) this round. Gyrgum notes he could spend an action to scrape it off, "otherwise it just keeps going."
+- Because Tasha's Caustic Brew is a concentration spell, Gyrgum's Bless drops to keep the acid going.
+- The thug attempts to strike Gyrgum with his mace but fails to land a hit on either swing — the DM notes he has "really bad attack routines."
+- A'lai Aivenmore shouts orders to the thug, demanding he ignore the cleric and target the wizard instead, believing the wizard has the key — he is wrong; Gyrgum holds it: "Don't go after him, drag him! Don't go after the cleric! Go after the wizard! The wizard's the one that we want, he's got the key!"
+- Daz maneuvers around a corner to gain a better tactical position — placing himself out of line of sight of the room — while Gyrgum holds the sapphire artifact.
+- Thorin and Gyrgum seize an opportunity to strike the fleeing Zhentarim thug; Gyrgum's mace whiffs. Separately, the table re-affirms the previous session's ruling that Dawnbringer — Thorin's blade — is a she.
 - The Zhentarim assassin enters the room, walking straight past Daz and the thug, disengaging as he moves so that no one gets an opportunity attack. *(The GM narrated A'lai panicking here, then retracted it at the table: "Sorry, I take it back, that's not what happens." Same assassin who strikes after the binding — not a third combatant.)*
 - Daz conjures a massive explosion of fire that engulfs the thug, nearly incinerating him — a 25-point roll, halved to 12 by his successful save (a 17), leaving him at exactly 1 hit point — and the successful detonation signals to all of Candlekeep that the library's magical protections have failed: screaming, panic, and the bell ringing, while the Avowed's scholars reach for their notebooks and "preparing their monographs."
-- A'lai Aivenmore abruptly kills the remaining wounded thug himself and calls for a pause — explicitly *not* a surrender: "I'd like to stop, but not surrender, I'm aware how that sounds" — Grygum: "Just, just, just a timeout for a moment?"
+- A'lai Aivenmore abruptly kills the remaining wounded thug himself and calls for a pause — explicitly *not* a surrender: "I'd like to stop, but not surrender, I'm aware how that sounds" — Gyrgum: "Just, just, just a timeout for a moment?"
 - Daz's investigation (21, with advantage) notices A'lai is not looking at the party at all — he is listening toward the stairwell they came up, as if waiting to see something.
 - A'lai admits he is spent: "I have nothing left. You will have probably counted how many spells I've casted. … I'd be insulted if you hadn't."
 - The wizard reveals he knows the location of a secret room beneath the keep, the two lines of the cryptogram that matter, and *claims* to know the name of a person in Menzoberranzan who has been paying to keep a certain drow breathing — canon records this as an intuition about a *house*, not a name — "I would very much like to tell all of it to somebody with a locked door." Daz answers: "My fireball acts as a pretty good lock on this door way. We can have a conversation now."
 - The party's read on him (via investigation, per the DM): "this guy's not a murderer… he's one of these people who came up with a stupid plan, and it went completely out of control, and started to fall apart. And he's, like, looking for a way out."
 - A'lai expresses a desperate desire to be imprisoned within Candlekeep's magic-nullifying cells rather than face his former associates: "I figured that they might be reluctant to put me in prison, but I'm sure I could convince… you would be willing to convince them, to put me in prison in Candlekeep." The DM notes the party realizes "this guy's so much attached to the idea of being in Candlekeep that he'd prefer being in prison in Candlekeep."
 - He warns the clock is running: "in about 4 minutes, people will be coming up these stairs, will be very disappointed in me, and you strike me as the more reasonable disappointment."
-- Grygum uses restorative magic to bring the fallen Zalthir back to consciousness — Zalthir was at zero of his 57 hit points. (The DM took the blame for Zalthir's fall — he'd misplayed the character last session, Shadow Stepping instead of moving and blowing the bonus attack — but confirmed after doing the math that no retcon was warranted.)
+- Gyrgum uses restorative magic to bring the fallen Zalthir back to consciousness — Zalthir was at zero of his 57 hit points. (The DM took the blame for Zalthir's fall — he'd misplayed the character last session, Shadow Stepping instead of moving and blowing the bonus attack — but confirmed after doing the math that no retcon was warranted.)
 
 ## Verbatim moments
 
@@ -45,26 +45,26 @@ source: gmassist
 **[Daz]** — *placing himself on the map, out of line of sight*
 > "I would say, like, I… I'm around the corner, so I don't have line of sight to the… to the background here."
 
-**[Grygum]** — *the acid keeps burning the thug*
+**[Gyrgum]** — *the acid keeps burning the thug*
 > "So did we already do the acid damage on the thug for his turn?"
 > "He takes damage at the start of each of his turns."
 
-**[GM / Grygum]** — *rolling the ongoing acid damage*
+**[GM / Gyrgum]** — *rolling the ongoing acid damage*
 > "Alright, so roll first damage."
 > "Yeah, let's… Roll 2, die, 4."
 > "8."
 > "Alright, he takes 8 points of damage."
 
-**[Grygum]** — *the scrape-it-off option*
+**[Gyrgum]** — *the scrape-it-off option*
 > "He can use an action to scrape it off, otherwise it just keeps going."
 
-**[GM / Grygum]** — *Bless drops to hold concentration on the brew*
+**[GM / Gyrgum]** — *Bless drops to hold concentration on the brew*
 > "You have… this is a concentration spell, right?"
 > "It is, so the blessings, I guess."
 > "Yeah, so the Bless ends, but since it's a concentration spell, he's going to… What's he gonna do?"
 
-**[GM]** — *the thug swings at Grygum and whiffs twice*
-> "Alright, so the thug will just whack at Grygum."
+**[GM]** — *the thug swings at Gyrgum and whiffs twice*
+> "Alright, so the thug will just whack at Gyrgum."
 > "But, I mean, he's got, like, really bad attack routines, so it's not gonna be, like."
 > "Alright, that's a miss."
 > "You guys can see that, yep. And that is another miss. Both, hits with the mace fail, and"
@@ -74,18 +74,18 @@ source: gmassist
 > "Too late."
 
 **[The Thug Breaks — Opportunity Attacks]**
-- The thug disengages toward A'lai's order; the GM rules that two characters get attacks of opportunity — transcript garbles the names as "Grygum and Forum."
-- Grygum confirms the trigger: "Oh, because he ran away?"
-- Grygum swings his mace and misses; Thorin's roll comes up short too.
+- The thug disengages toward A'lai's order; the GM rules that two characters get attacks of opportunity — transcript garbles the names as "Gyrgum and Forum."
+- Gyrgum confirms the trigger: "Oh, because he ran away?"
+- Gyrgum swings his mace and misses; Thorin's roll comes up short too.
 
-**[Grygum]** — *the whiffed mace*
+**[Gyrgum]** — *the whiffed mace*
 > "In that case, I'll attack him with my mace."
 > "Yeah, that's a [miss], I guess." *(transcript: "mess")*
 
 **[Thorin]** — *misreading his own damage roll*
 > "No, that's if he's undead, I did 9 points of damage, goddammit."
 
-**[Grygum]** — *deadpan*
+**[Gyrgum]** — *deadpan*
 > "I assume his AC is higher than 9."
 
 **[GM]** — *mid-swing, canon is established*
@@ -100,13 +100,13 @@ source: gmassist
 > "For what it's worth, I have no… GM, you have mentioned my husband several times in these sessions, but I guess it didn't register."
 > "Like, don't register these things. That's my point. We're a true guy group. I just… that's the point. I wanted you to understand that I didn't want you… I wanted you to be part of the group, like, we don't register the important things."
 
-**[Grygum]** — *classical citation for Dawnbringer's gender*
+**[Gyrgum]** — *classical citation for Dawnbringer's gender*
 > "Yeah, isn't Dawn canonically female? I remember that from, like, the, the Iliad, like, rosy-fingered Dawn, that thing, that whole thing."
 
 **[The Zhentarim Assassin Enters]**
 - A Zhentarim agent walks past Daz and the thug into the room.
 - Daz asks for an opportunity attack; the GM rules the agent is disengaging, so no one can attack him.
-- The agent looks around, and A'lai Aivenmore suddenly panics; the GM calls for insight/investigation rolls (Grygum: "And with a plus 9, I got a 12"), then retracts the panicked-reaction beat mid-narration.
+- The agent looks around, and A'lai Aivenmore suddenly panics; the GM calls for insight/investigation rolls (Gyrgum: "And with a plus 9, I got a 12"), then retracts the panicked-reaction beat mid-narration.
 
 **[GM / Daz]** — *the disengage ruling*
 > "If he walks by me, don't I get an attack of opportunity?"
@@ -139,7 +139,7 @@ source: gmassist
 **[GM]** — *the explosion announces the fight to all of Candlekeep*
 > "So what happens is the explosive fires rage, like, you've now, like, everybody knows that there's a big fight going on on the High Tower."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Do you think the fireball was a hint?"
 
 **[GM]**
@@ -154,7 +154,7 @@ source: gmassist
 > "And if you could, you would see people taking notes and preparing their monographs."
 > "Because what do you do? What do you do in a situation like this? Why conduct the experiments you've been waiting years to?"
 
-**[Grygum]** — *finishing the GM's sentence*
+**[Gyrgum]** — *finishing the GM's sentence*
 > "You take notes. Exactly."
 
 **[A'lai Kills His Own Thug]**
@@ -164,7 +164,7 @@ source: gmassist
 **[GM]** — *A'lai calls for a pause*
 > "I'd like to stop, but not surrender, I'm aware how that sounds, and I have no reason to stop."
 
-**[Grygum]** — *taking him up on it*
+**[Gyrgum]** — *taking him up on it*
 > "Just, just, just a timeout for a moment?"
 
 **[GM / Daz]** — *Daz's investigation, rolled with advantage*
@@ -178,7 +178,7 @@ source: gmassist
 > "I have nothing left. You will have probably counted how many spells I've casted. Pauses."
 > "I'd be insulted if you hadn't."
 
-**[Grygum]** — *counting the spent slots on his fingers*
+**[Gyrgum]** — *counting the spent slots on his fingers*
 > "I'm ticking him off on my fingers, huh?"
 
 **[GM]** — *the three secrets, and the ask for a locked door*
@@ -198,7 +198,7 @@ source: gmassist
 > "He's got whatever plan… like, you know, he's one of these people who came up with a stupid plan, and it went completely out of control, and started to fall apart."
 > "And he's, like, looking for a way out."
 
-**[Grygum / GM]** — *what A'lai fears*
+**[Gyrgum / GM]** — *what A'lai fears*
 > "So he's… he's scared of people overhearing the people who would want to kill him?"
 > "Yes, that's what you're getting, yeah, yeah."
 
@@ -208,9 +208,9 @@ source: gmassist
 **[Reviving Zalthir]**
 - The GM prompts the party to use the pause to heal the downed Zalthir: "I'm assuming at some point somebody walks over to Daz and Zalthir here and cures him, so if you want to burn a heal spell, this would be the right time."
 - Zalthir reports he is at zero of 57 hit points.
-- Grygum casts a healing spell and moves to reach him — he names *Healing Word*, but "I have to go over and actually touch him for this" rules that out (60-ft range); the spell was never settled at the table — A'lai shifts position, and the GM warns he can still deal "staggering amounts of damage" with his cantrips.
+- Gyrgum casts a healing spell and moves to reach him — he names *Healing Word*, but "I have to go over and actually touch him for this" rules that out (60-ft range); the spell was never settled at the table — A'lai shifts position, and the GM warns he can still deal "staggering amounts of damage" with his cantrips.
 
-**[Grygum / Zalthir]** — *checking the damage*
+**[Gyrgum / Zalthir]** — *checking the damage*
 > "Yeah, I, I go ahead and, how badly hurt is he?"
 > "Zero out of how much?"
 > "Zero, oh god, the screen hides… 57."
@@ -219,7 +219,7 @@ source: gmassist
 > "By the way, you're 9th level."
 > "Yes, I saw that! That's exciting!"
 
-**[Grygum]** — *the heal itself*
+**[Gyrgum]** — *the heal itself*
 > "Okay, then I'll cast, it looks like, Healing Word."
 > "And… let's see, where is he? I have to go over and actually touch him for this."
 
@@ -231,7 +231,7 @@ source: gmassist
 > "Because in about 4 minutes, the people coming up those stairs will be very disappointed in me, and you strike me as the more reasonable disappointment. And I figured that they might be reluctant to put me in prison, but I'm sure I could convince… you would be willing to convince them, to put me in prison in Candlekeep."
 > "you realize that this guy's so much attached to the idea of being in Candlekeep that he'd prefer being in prison in Candlekeep."
 
-**[Grygum / GM]** — *what Candlekeep's prison is*
+**[Gyrgum / GM]** — *what Candlekeep's prison is*
 > "Do we know anything about what prison is like in Candlekeep?"
 > "Yes, you do. It's a place where spells can't be… it's like the perfect place to be if you are, if you never want somebody with a large amount of magical power to get in."
 > "Okay, this actually makes sense."

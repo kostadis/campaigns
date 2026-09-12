@@ -9,13 +9,13 @@ source: gmassist
 
 #### The party examines the remains of the Keeper of the Tome, Janussi, to uncover the circumstances of his death.
 - The party discovers the Keeper's heart was removed after death, likely to prevent resurrection via Raise Dead.
-- Grygum notes the victim's rib cage was smashed by an axe-like weapon, though the blood splatter is strangely localized, suggesting the heart was removed after death when there was no longer blood pressure.
+- Gyrgum notes the victim's rib cage was smashed by an axe-like weapon, though the blood splatter is strangely localized, suggesting the heart was removed after death when there was no longer blood pressure.
 - Daz performs a thorough investigation, finding clotted blood under the victim's nose and smeared bloodstains on the right sleeve of his tunic.
 - The party identifies blotches of midnight blue ink on the Keeper's sleeve, consistent with recent note-taking.
 - Daz notices a mysterious black substance on the Keeper's left forefinger and lower lip, darker than the standard ink used for his notes.
 - The party theorizes the Keeper may have been poisoned while reading, as he appeared to be licking his finger to turn pages.
 - Glabbagool attempts to use his experience with Underdark substances to identify the black residue but is unable to determine its nature.
-- Grygum rolls a Medicine check (18) and confirms the nasal fracture and bruising occurred prior to death — bruising cannot form post-mortem.
+- Gyrgum rolls a Medicine check (18) and confirms the nasal fracture and bruising occurred prior to death — bruising cannot form post-mortem.
 - The party locates a chipped front tooth a few feet from the body, leading to the conclusion that Janussi fell face-first before being rolled over.
 - Daz observes a blackened tip on Janussi’s tongue, reinforcing the ingestion theory.
 - The party confirms the tooth chip was recent, not old damage, based on its jagged edge.
@@ -26,10 +26,10 @@ source: gmassist
 - The GM recaps that the party has already investigated the body and recounts key findings before rolling begins.
 
 **GM** — *recapping prior findings on the body*
-> "the first thing you discovered, Grygum, was that someone ripped out the heart as a foil against… so the facts that you discovered was that his heart was missing."
+> "the first thing you discovered, Gyrgum, was that someone ripped out the heart as a foil against… so the facts that you discovered was that his heart was missing."
 > "His ribcage was smashed by what appears to be an axe."
 
-**Grygum** — *asking about the wound*
+**Gyrgum** — *asking about the wound*
 > "Is… is the wound, jagged? I mean, does it seem like it was cut out, or is it… magical."
 
 **GM** — *explaining localized blood splatter*
@@ -42,7 +42,7 @@ source: gmassist
 
 **[Investigation Roll — Examining the Body]**
 - GM calls for an investigation check from anyone examining the body.
-- Grygum rolls a 5.
+- Gyrgum rolls a 5.
 - Thorin comments on having the second worst investigation.
 - Daz rolls a 22.
 - GM awards Daz an inspiration for his in-character Sherlock Holmes impression.
@@ -50,7 +50,7 @@ source: gmassist
 **GM** — *calling for the roll*
 > "Now roll an investigation check. Anyone. Anyone looking at the body?"
 
-**Grygum** — *rolling*
+**Gyrgum** — *rolling*
 > "I got a 5."
 
 **Daz** — *rolling*
@@ -147,24 +147,24 @@ source: gmassist
 > "And then that also leads you to conclude that whoever chopped out his cart rolled him over."
 > "So, he was… died, landed on his face, chipped his tooth, and then someone came in and rolled him over and removed his heart."
 
-**Grygum** — *adding the nose fracture*
+**Gyrgum** — *adding the nose fracture*
 > "And also broke his nose."
 
 **[Medicine Check — Timing of the Nasal Fracture]**
 - GM calls for a Medicine check to determine when the nose was broken.
-- Grygum rolls an 18.
+- Gyrgum rolls an 18.
 - GM confirms the fracture occurred before death, as bruising cannot form post-mortem.
 
 **GM** — *calling for the check*
 > "Well, the nose-broking, roll your medicine check."
 
-**Grygum** — *rolling*
+**Gyrgum** — *rolling*
 > "18."
 
 **GM** — *delivering the result*
 > "Yes, that happened before he died."
 
-**Grygum** — *summarising*
+**Gyrgum** — *summarising*
 > "Okay, so his nose was broken, he was killed, smashed on the face."
 
 **Zalthir** — *pressing on the timeline*
@@ -189,10 +189,10 @@ source: gmassist
 > "Yeah, yeah, exactly. Does anyone have locate object? Can we locate the chipped tooth?"
 > *(earlier line)*
 
-**Zalthir** — *verifying the post-mortem bruising logic with Grygum*
-> "Actually, sorry, real quick, Grygum, you rolled pretty good medicine, right? Yeah. How does bruising work if he's dead? Like, I would assume you don't really."
+**Zalthir** — *verifying the post-mortem bruising logic with Gyrgum*
+> "Actually, sorry, real quick, Gyrgum, you rolled pretty good medicine, right? Yeah. How does bruising work if he's dead? Like, I would assume you don't really."
 
-**Grygum** — *confirming*
+**Gyrgum** — *confirming*
 > "You don't… you don't bruise after you're dead."
 
 **GM** — *confirming*

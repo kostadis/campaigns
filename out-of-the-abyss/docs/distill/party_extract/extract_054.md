@@ -11,7 +11,7 @@
 - Retrieved a necromantic pearl from the heart of the fungal mass
 - Retrieved a ritual bundle (incense cones, silver bowl, Lolth/Zuggtmoy dual-sigil cloth) from beneath Ilvara's platform
 
-**Grygum**
+**Gyrgum**
 - Looted from Asha Vandree: holy symbol of Lolth, chain mail, prayer beads, sealed wax pouch (theological document on Lolth/Zuggtmoy equivalence)
 - Looted from the outpost: jailer's key ring, payroll chest, confiscated prisoner belongings chest, water-damaged prisoner journal, flask of Overbright brandy
 - Looted from Ilvara: prayer book with Zuggtmoy marginalia documenting corruption timeline, Living Serpent Head Scourge, sealed orders from House Mizzrym, letter from Neverlight Grove
@@ -33,7 +33,7 @@
 - *Positive*: Maintained composure and extracted useful intelligence from the Duskryn sisters through measured questioning rather than confrontation
 - *Ambiguous*: Openly admitted to the party and the sisters that he has no idea why he is a person of strategic interest — moment of genuine vulnerability
 
-**Grygum**
+**Gyrgum**
 - *Negative*: Attempted a divine attack on Asha Vandree that missed, allowing her to frame the miss as Lolth's blessing and escalate the situation before Zalthir intervened
 
 ---
@@ -56,7 +56,7 @@
 - Ongoing relationship with Dawnbringer: negotiated the sword's participation in a purification-adjacent task using the Vaultmaster Locking Scabbard as leverage; Dawnbringer ultimately conceded
 - Intends to seek a "sword whisperer" specialist for Dawnbringer following the months of darkness the blade endured
 
-**Grygum**
+**Gyrgum**
 - Plans to research Bahamut lore at Candlekeep during the recovery period
 
 **Party (collective)**

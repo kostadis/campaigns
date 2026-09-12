@@ -3,7 +3,7 @@
 
 ---
 
-## Grygum — The Drow Reinforcements Arrive
+## Gyrgum — The Drow Reinforcements Arrive
 
 The insect plague was mine. I want that on the record.
 

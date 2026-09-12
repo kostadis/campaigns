@@ -1,5 +1,5 @@
 **GM (Kostadis) as Asha Vandry** — *Warning the party about the mushroom artifact and who shouldn't touch it*
-> "Basically pointing out that if Thorin and Grygum grab it, I think they were the two that went to visit, what's her name, right? Yeah, you two probably don't want to be near it, but everybody else is fine."
+> "Basically pointing out that if Thorin and Gyrgum grab it, I think they were the two that went to visit, what's her name, right? Yeah, you two probably don't want to be near it, but everybody else is fine."
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-**Grygum (Ben Pfaff)** — *Explaining the Glyph of Warding spell*
+**Gyrgum (Ben Pfaff)** — *Explaining the Glyph of Warding spell*
 > "It's a… the spell is Glyph of Warding. You inscribe it in a particular place, and then when somebody triggers it by moving across it, it does its thing."
 
 ---
@@ -27,7 +27,7 @@
 
 ---
 
-**Grygum (Ben Pfaff)** — *Introducing the Dust of Suleiman spell*
+**Gyrgum (Ben Pfaff)** — *Introducing the Dust of Suleiman spell*
 > "So I also have another spell I haven't had a chance to use yet called the Dust of Suleiman, which I can cast at a 120-foot distance. It creates a 20-foot sphere, and anything inside this sphere takes 20 points of damage per turn."
 
 ---
@@ -53,23 +53,23 @@
 
 ---
 
-**Grygum (Ben Pfaff)** — *Introducing Phantasmal Killer*
+**Gyrgum (Ben Pfaff)** — *Introducing Phantasmal Killer*
 > "Finally, I now have Phantasmal Killer."
 
 **Daz (Mike Hall)** — *Excited reaction*
 > "What's that? Sounds fantastic."
 
-**Grygum (Ben Pfaff)** — *Describing the spell*
+**Gyrgum (Ben Pfaff)** — *Describing the spell*
 > "120-foot range. It says you tap into the nightmares of a creature you can see and create an illusory manifestation of its deepest fears. It… they become frightened if they fail a wisdom saving throw, and let's see… if they fail the saving throw in each turn, and it can last up to a minute, then they take 4 die 10 psychic damage."
 
 ---
 
-**Grygum (Ben Pfaff)** — *Noting his limitation*
+**Gyrgum (Ben Pfaff)** — *Noting his limitation*
 > "So these powerful spells I've been talking about, they're all 4th level, and I only have one fourth level, I can only cast one."
 
 ---
 
-**Grygum (Ben Pfaff)** — *Asking about Asha's input*
+**Gyrgum (Ben Pfaff)** — *Asking about Asha's input*
 > "Well, that would be good, is… Does Asha have any ideas?"
 
 ---
@@ -85,7 +85,7 @@
 **GM (Kostadis) as Asha Vandry** — *Reacting to the Dust of Suleiman proposal*
 > "Oh, she goes, well, that's an obvious one, use it on the big heart fungus."
 
-**Grygum (Ben Pfaff)** — *Surprised*
+**Gyrgum (Ben Pfaff)** — *Surprised*
 > "Oh. I was thinking about using it on Ilvara."
 
 **GM (Kostadis) as Asha Vandry** — *Insulting the party's tactical sense, turning to Daz*
@@ -129,7 +129,7 @@
 **Zalthir (Gabe)** — *Emphatically*
 > "Yes."
 
-**Grygum (Ben Pfaff)** — *Agreeing*
+**Gyrgum (Ben Pfaff)** — *Agreeing*
 > "We do, yeah."
 
 **Zalthir (Gabe)** — *Pointing at Daz as evidence*
@@ -154,7 +154,7 @@
 
 ---
 
-**GM (Kostadis) as Asha Vandry** — *Contemptuously addressing Grygum through Daz*
+**GM (Kostadis) as Asha Vandry** — *Contemptuously addressing Gyrgum through Daz*
 > "My dear boy, my, my dear… she looks at you contemptuously, and then says to Daz, tell the Dragonborn that the big heart fungus will not actually cause any fungal disease, other than the usual poisoning and pain and suffering and breathing difficulties. The particular spore illness only originates from Ilvara's spores and from her mushroom."
 
 **GM (Kostadis) as Asha Vandry** — *Adding with a pause*
@@ -190,7 +190,7 @@
 **GM (Kostadis) as Asha Vandry** — *Ranting about being stuck between Ilvara and Jorlan*
 > "It's very awkward, really, to be stuck with these two. I mean, they used to have an affair, it used to be this whole thing, and then she broke up with him, and then he was bitter because she broke up with him, and now I've had to be in the middle of these two for the last few months. Do you have any idea how aggravating that is?"
 
-**Grygum (Ben Pfaff)** — *Sympathetic aside*
+**Gyrgum (Ben Pfaff)** — *Sympathetic aside*
 > "Oh, man, these relationships are so complicated."
 
 **GM (Kostadis) as Asha Vandry** — *Continuing the rant with exasperation*
@@ -230,7 +230,7 @@
 **GM (Kostadis) as Asha Vandry** — *Explaining how the spore servants work*
 > "No, what happens is apparently she can summon them. It's not that they… they kind of, like, whenever she needs them, she can summon them, but she can summon only so many."
 
-**Grygum (Ben Pfaff)** — *In-character question*
+**Gyrgum (Ben Pfaff)** — *In-character question*
 > "What manner of creatures be they?"
 
 **GM (Kostadis) as Asha Vandry** — *Answering gravely*
@@ -238,18 +238,18 @@
 
 ---
 
-**Grygum (Ben Pfaff)** — *Struggling with glyph targeting*
+**Gyrgum (Ben Pfaff)** — *Struggling with glyph targeting*
 > "I don't know how to inscribe a glyph that will only kill the drow that we don't like."
 
 ---
 
-**Grygum (Ben Pfaff)** — *Setting the glyph trigger*
+**Gyrgum (Ben Pfaff)** — *Setting the glyph trigger*
 > "And Jorlan is not our, not our allies."
 
 **GM (Kostadis)** — *Confirming*
 > "Well, no, well, remember what we said, you could pick one of the two allies. You picked Asha."
 
-**Grygum (Ben Pfaff)** — *Setting the trigger conditions*
+**Gyrgum (Ben Pfaff)** — *Setting the trigger conditions*
 > "Okay, and then, I guess the trigger is, anyone approaching from the… from the side that Jorlan is on."
 
 ---
@@ -271,5 +271,5 @@
 **Thorin (Joe Beda)** — *Acknowledging his range problem*
 > "Yeah, my darts will only… are not great for range, so… This is… I gotta figure something out."
 
-**Grygum (Ben Pfaff)** — *Offering a weapon*
+**Gyrgum (Ben Pfaff)** — *Offering a weapon*
 > "Are… are you good with other ranged weapons? I can lend… I can lend you my light crossbow."

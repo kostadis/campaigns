@@ -15,7 +15,7 @@ So I descended from the elevated walkway and pushed through the terrain toward t
 
 "It's resistant to the usual stuff that funguses are resistant to, but if you hit it hard enough, it should die."
 
-Grygum, from somewhere behind me, helpful as always: "It's not resistant to swords."
+Gyrgum, from somewhere behind me, helpful as always: "It's not resistant to swords."
 
 And then the DM, with the particular cadence of a man setting up something he was proud of: "It actually is doubly not resistant to radiant damage."
 
@@ -35,7 +35,7 @@ There was a pause — the particular pause of a dungeon master looking at a care
 
 "I spent so much time creating this icon."
 
-"I know, it was beautiful," Grygum said.
+"I know, it was beautiful," Gyrgum said.
 
 "It was pretty," Zalthir agreed.
 
@@ -45,7 +45,7 @@ The party offered their condolences, and I accepted them on the fungus's behalf.
 
 Then Ilvara cast Insect Plague.
 
-The swarm hit the cavern entrance like a wall of sound and motion — a biblical chittering that shredded the fungal minions instantly, all thirteen hit points of them, gone before they could do anything useful. And then Grygum said what we were all thinking:
+The swarm hit the cavern entrance like a wall of sound and motion — a biblical chittering that shredded the fungal minions instantly, all thirteen hit points of them, gone before they could do anything useful. And then Gyrgum said what we were all thinking:
 
 "Oh, how about Glabbagool?"
 

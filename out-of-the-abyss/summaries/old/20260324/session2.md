@@ -1,4 +1,4 @@
-Deep within the oppressive caverns of the **Underdark**, the party orchestrates a cunning ambush to eliminate their relentless pursuer. The fungal corruption of **Zuggtmoy** has twisted the cavern into a nightmare of unnatural growths and toxic spores. **Daz** relies on his mastery of illusion to manipulate a rival drow priestess into an uneasy alliance against the corrupted forces. As the party prepares their magical traps and readies their weapons, the tension in the glowing mushroom grove reaches a breaking point. The ensuing battle tests the tactical prowess of **Zalthir**, **Thorin**, **Grygum**, and **Daz** as they confront the maddened **Ilvara** and her reanimated spore servants.
+Deep within the oppressive caverns of the **Underdark**, the party orchestrates a cunning ambush to eliminate their relentless pursuer. The fungal corruption of **Zuggtmoy** has twisted the cavern into a nightmare of unnatural growths and toxic spores. **Daz** relies on his mastery of illusion to manipulate a rival drow priestess into an uneasy alliance against the corrupted forces. As the party prepares their magical traps and readies their weapons, the tension in the glowing mushroom grove reaches a breaking point. The ensuing battle tests the tactical prowess of **Zalthir**, **Thorin**, **Gyrgum**, and **Daz** as they confront the maddened **Ilvara** and her reanimated spore servants.
 
 ### Key Events
 
@@ -28,7 +28,7 @@ Deep within the oppressive caverns of the **Underdark**, the party orchestrates 
 
 3. **Tactical Preparations**
 
-* **Grygum** suggests placing a magical trap to protect their flanks from any unexpected reinforcements entering the cavern. The party discusses the exact radius of the magical explosive to ensure they remain safely outside the blast zone. The cleric carefully inscribes a third-level glyph of warding onto the stone surface of the primary approach bridge.
+* **Gyrgum** suggests placing a magical trap to protect their flanks from any unexpected reinforcements entering the cavern. The party discusses the exact radius of the magical explosive to ensure they remain safely outside the blast zone. The cleric carefully inscribes a third-level glyph of warding onto the stone surface of the primary approach bridge.
 
 * He configures the explosive runes to detonate in a massive sphere of energy if any hostile creatures attempt to cross the chasm. The magical trap is specifically tailored to ignore the party members and only target the corrupted denizens of the cavern. This perimeter defense provides the spellcasters with a secure rear guard as they focus their attention forward.
 
@@ -76,7 +76,7 @@ Deep within the oppressive caverns of the **Underdark**, the party orchestrates 
 
 7. **The Explosive Trap Detonates**
 
-* A bitter drow warrior who harbors a deep grudge against **Ilvara** blindly charges across the bridge in a frenzied attempt to join the chaotic skirmish. His reckless sprint carries him directly over the hidden magical trap meticulously prepared by **Grygum** an hour earlier. The rope bridge is illuminated by blinding arcane light as the explosive rune recognizes the hostile presence.
+* A bitter drow warrior who harbors a deep grudge against **Ilvara** blindly charges across the bridge in a frenzied attempt to join the chaotic skirmish. His reckless sprint carries him directly over the hidden magical trap meticulously prepared by **Gyrgum** an hour earlier. The rope bridge is illuminated by blinding arcane light as the explosive rune recognizes the hostile presence.
 
 * A deafening explosion rips through the cavern and unleashes a massive sphere of kinetic energy across the chasm. The shockwave catches the charging warrior entirely off guard and blasts him with the full devastating force of the spell. The sudden detonation completely halts the momentum of the flanking maneuver and sends a clear message to the remaining enemies.
 
@@ -84,7 +84,7 @@ Deep within the oppressive caverns of the **Underdark**, the party orchestrates 
 
 * The bitter drow warrior survives the initial detonation but is left severely wounded and completely disoriented by the concussive force. He stumbles backward away from the blast zone and desperately tries to recover his senses amidst the ringing echoes of the explosion. The massive damage inflicted by the trap effectively removes him as an immediate threat to the party.
 
-* **Grygum** watches with immense satisfaction as his tactical foresight successfully cripples the enemy reinforcement wave. The cleric quickly assesses the remaining hostiles and prepares to transition from defensive area denial to offensive magical bombardment. The successful execution of the trap significantly boosts the adventurers' morale as they press their advantage.
+* **Gyrgum** watches with immense satisfaction as his tactical foresight successfully cripples the enemy reinforcement wave. The cleric quickly assesses the remaining hostiles and prepares to transition from defensive area denial to offensive magical bombardment. The successful execution of the trap significantly boosts the adventurers' morale as they press their advantage.
 
 8. **Blades and Magical Fire**
 
@@ -92,7 +92,7 @@ Deep within the oppressive caverns of the **Underdark**, the party orchestrates 
 
 * The heavy blade bites deep into the shoulder of the bitter drow warrior and inflicts a grievous wound that further diminishes the enemy threat. **Thorin** immediately attempts a secondary precision strike to finish the opponent but his swing deflects harmlessly off the drow armor. The resilient fighter maintains his forward position to act as an unyielding shield wall between the vulnerable spellcasters and the advancing horde.
 
-* **Grygum** shifts his attention to the massive fungal heart pulsating at the center of the battlefield. The cleric invokes an ancient incantation, conjuring a swirling vortex of destructive energy directly over the demonic organism. The magical dust of Suleiman grinds against the heart's spongy tissue, inflicting massive structural damage to the core of the corruption.
+* **Gyrgum** shifts his attention to the massive fungal heart pulsating at the center of the battlefield. The cleric invokes an ancient incantation, conjuring a swirling vortex of destructive energy directly over the demonic organism. The magical dust of Suleiman grinds against the heart's spongy tissue, inflicting massive structural damage to the core of the corruption.
 
 * **Daz** calculates the battlefield's precise geometry to maximize his destructive output without harming his engaged allies. The drow mage focuses his arcane energy and hurls a tiny bead of concentrated fire directly toward the platform occupied by **Ilvara**. The bead strikes the stone surface and detonates in a roaring inferno, illuminating the entire cavern in brilliant orange light.
 
@@ -104,7 +104,7 @@ Deep within the oppressive caverns of the **Underdark**, the party orchestrates 
 
 * The party decided to forge a temporary alliance with a fanatical drow priestess to gain tactical information and secure the magical loot. The true loyalty of this new ally remains entirely uncertain and she may attempt a betrayal once her rival is dead.
 
-* **Grygum** chose to deploy a powerful magical ward on the southern bridge to prevent flanking maneuvers. This decision successfully crippled the advancing enemy forces but consumed a valuable spell slot early in the engagement.
+* **Gyrgum** chose to deploy a powerful magical ward on the southern bridge to prevent flanking maneuvers. This decision successfully crippled the advancing enemy forces but consumed a valuable spell slot early in the engagement.
 
 * The party focused their initial heavy damage on the massive fungal heart and the corrupted mushroom token. It remains to be seen if destroying these organic artifacts will sever the connection to **Zuggtmoy** or trigger a more dangerous demonic response.
 

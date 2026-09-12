@@ -11,10 +11,10 @@ scene: Shadows at Dusk
 focus: Zalthir's monk-trained awareness of stillness and threat makes him the first to register that something is wrong in the fading light, and his internal calculus — observe, assess, decide — is exactly the lens this scene requires.
 
 ## Scene 3
-narrator: Grygum
+narrator: Gyrgum
 chunks: 1
 scene: A Shadow in the Woods
-focus: Grygum's faith-sharpened instinct to read the moral weight of a presence — divine, demonic, or something stranger — gives him the most revealing angle on whatever stirs in the dark between the trees.
+focus: Gyrgum's faith-sharpened instinct to read the moral weight of a presence — divine, demonic, or something stranger — gives him the most revealing angle on whatever stirs in the dark between the trees.
 
 ## Scene 4
 narrator: Daz
@@ -29,7 +29,7 @@ scene: The Pocket Spy and the Road to Candlekeep
 focus: Zalthir's habit of watching what others overlook — and his quiet, unresolved thoughts about Glabbagool traveling in the dark of a bag — gives the long road its texture and keeps the scene grounded in sensation rather than exposition.
 
 ## Scene 6
-narrator: Grygum
+narrator: Gyrgum
 chunks: 1
 scene: Entry into Candlekeep
-focus: Grygum carries the weight of Bahamut lore he came here to find, and stepping through those gates with unanswered questions about demons, faith, and what Bahamut actually wants from him makes the arrival his to narrate.
+focus: Gyrgum carries the weight of Bahamut lore he came here to find, and stepping through those gates with unanswered questions about demons, faith, and what Bahamut actually wants from him makes the arrival his to narrate.

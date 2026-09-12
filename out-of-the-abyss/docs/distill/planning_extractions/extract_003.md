@@ -22,7 +22,7 @@
 **Serith (Drow Defector)**
 - Came down from the upper floor during the fight and attacked one of the two Drow guards, cursing him in a manner that caused the Drow to curse each other.
 - Experienced a psychological breakdown upon witnessing Prince Derendil's death, nearly screaming aloud (which would have endangered the escape).
-- Was calmed by Grygum's telepathic intervention redirecting him toward spiritual focus.
+- Was calmed by Gyrgum's telepathic intervention redirecting him toward spiritual focus.
 - Delivered the killing blow to Imbros.
 - **Status: Active, emotionally volatile but currently stable.**
 
@@ -32,7 +32,7 @@
 - The second guard's fate is not explicitly described but is implied to have been neutralized.
 - **Status: At least one confirmed deceased.**
 
-**Grygum (Cleric, Fellow Prisoner)**
+**Gyrgum (Cleric, Fellow Prisoner)**
 - Retrieved arms from the armory during the distraction.
 - Healed Thorin from unconsciousness using a healing spell.
 - Cast Toll the Dead against Imbros; Imbros resisted the necrotic effect.
@@ -77,7 +77,7 @@
 - **Imbros feared Ilvara more than death:** He chose not to call for reinforcements during a losing fight because he feared Ilvara's punishment for failure more than the combat risk. This reveals Ilvara maintains strict and punishing control over her subordinates.
 - **Killing prisoners is considered costly:** Imbros initially chose to subdue rather than kill, indicating that the Drow captors place material or strategic value on keeping prisoners alive.
 - **Serith's psychological fragility:** Serith's breakdown at Prince Derendil's death reveals an emotional vulnerability that could be a liability or a lever in future situations.
-- **Grygum's cult techniques:** Grygum's ability to manipulate Serith's emotional state through telepathy and spiritual redirection suggests his cult training includes psychological influence methods. He noted satisfaction that these lessons "served him well."
+- **Gyrgum's cult techniques:** Gyrgum's ability to manipulate Serith's emotional state through telepathy and spiritual redirection suggests his cult training includes psychological influence methods. He noted satisfaction that these lessons "served him well."
 
 ---
 
@@ -87,5 +87,5 @@
 - **Prince Derendil:** Deceased in the guard chamber.
 - **Serith:** In or near the guard chamber; emotionally stabilized, now armed.
 - **Stool:** With the prisoner group.
-- **Grygum, Eldeth, Bupido, Shuushar, Jimjar, Topsy, Turvy, Ront:** Armed, in or near the guard chamber/armory of the tower.
+- **Gyrgum, Eldeth, Bupido, Shuushar, Jimjar, Topsy, Turvy, Ront:** Armed, in or near the guard chamber/armory of the tower.
 - **Ilvara:** Not present; location unknown, but implied to be elsewhere in the Drow facility.

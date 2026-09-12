@@ -107,7 +107,7 @@ And just then, Zalthir’s head is flooded with images.
 “There you saw it! A chamber with a circular pathway and a pyramid. The one known as Plinki has found this mighty and tasty obelisk and has been trying to make it do something evil.” 
 
 
-Grygum’s horror at the egg breaks into his voice, “What are the strange markings on the egg?” 
+Gyrgum’s horror at the egg breaks into his voice, “What are the strange markings on the egg?” 
 
 
 “Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!” 
@@ -141,22 +141,22 @@ And he learns more. There are two ways into the cave with the Obelisk: the main 
 And then he gets hit with more sadness. The creature is Trauma Dumping. He learns that the caves were once a hippy place, where Derro and Duergar would come to chill out, party, and be friends. Some months ago, the permanent twilight of the Faerzress stopped, and the cave complex became dark. Everyone was afraid, and the Faerzress blinked on brightly and then was off. And then it blinked once more, and then it returned to its usual color. But something had changed, and soon the various hippy friends stopped being friends. Instead of being a place of friendship, a place where folks could be happy, it became a place of murder and death and conspiracy. The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.
 
 
-### Grygum
+### Gyrgum
 
 
-The trauma dumping seems to affect Thorin, but Grygum is an orc, and a practical creature, and quite frankly, he’s seen worse. 
+The trauma dumping seems to affect Thorin, but Gyrgum is an orc, and a practical creature, and quite frankly, he’s seen worse. 
 
 
 He looks at the creature, and it’s once again turned teal. He noticed that it had turned dark blue just before the trauma dump and then, as the trauma dump ended, became teal. 
 
 
-Grygum takes note of this. 
+Gyrgum takes note of this. 
 
 
 “Did you say assassins?” 
 
 
-“Yes!” notes the Flumph. And again, it trauma dumps. This time, Grygum learns that the Flumph had found a tasty snack in the psychic energy released by a mind flayer. 
+“Yes!” notes the Flumph. And again, it trauma dumps. This time, Gyrgum learns that the Flumph had found a tasty snack in the psychic energy released by a mind flayer. 
 
 
 “A mind flayer?” 
@@ -174,13 +174,13 @@ The flumph then shows how the mind flayer lives down a hallway.
 The creature turns Magneta, then says, “I survive by not lEttin g mind flayers know I exist. I just know that the Mind Flayer is there, and that the assassins are also there. The ones you said had a magical light blade that tried to kill that duergar Werz.” 
 
 
-Grygum snorts, “I never said that.” 
+Gyrgum snorts, “I never said that.” 
 
 
 “Oh, right. You didn’t. You thought it.” 
 
 
-Grygum pauses, “Can you help us?” 
+Gyrgum pauses, “Can you help us?” 
 
 
 “Absolutely. And don’t worry, although your deaths will be sad, I will absolutely trauma dump on someone else and feel better!” 
@@ -189,19 +189,19 @@ Grygum pauses, “Can you help us?”
 Thorin glares. 
 
 
-Grygum stares at Zalthir, who interrupts his train of thought - “What are we trying to do here? I was just trying to kill some time before I got some magical equipment. Saving the Duergar from a mad king and defeating another cult of Demogorgon is not what I am here for.” 
+Gyrgum stares at Zalthir, who interrupts his train of thought - “What are we trying to do here? I was just trying to kill some time before I got some magical equipment. Saving the Duergar from a mad king and defeating another cult of Demogorgon is not what I am here for.” 
 
 
-Grygum nods, “I agree, but the egg. As a cleric of Bahamut, I must save the egg.” 
+Gyrgum nods, “I agree, but the egg. As a cleric of Bahamut, I must save the egg.” 
 
 
 Flumph turns Green, “Why?” 
 
 
-Grygum explains that Bahamut is the god of good dragons. He is committed to the principle that dragons have free will and that the pigmentation of their scales doesn’t pre-determine their personality. This idea that chromatic dragons are evil is the greatest evil. 
+Gyrgum explains that Bahamut is the god of good dragons. He is committed to the principle that dragons have free will and that the pigmentation of their scales doesn’t pre-determine their personality. This idea that chromatic dragons are evil is the greatest evil. 
 
 
-“We need help,” he mutters. Grygum turns to his friends. “We have the rest of the crew holed up in a seedy bar. We could get them weapons from Errde. She was willing to give us a lot of weapons. But we need a reason. And I think we do. We found evidence of the Grey Ghosts doing something evil. And we found evidence of the assassin’s guild. The only problem is how to convince her.”
+“We need help,” he mutters. Gyrgum turns to his friends. “We have the rest of the crew holed up in a seedy bar. We could get them weapons from Errde. She was willing to give us a lot of weapons. But we need a reason. And I think we do. We found evidence of the Grey Ghosts doing something evil. And we found evidence of the assassin’s guild. The only problem is how to convince her.”
 
 
 He smiles and turns to Flumph -  “Flumph, I’ll need you to trauma dump on someone.” 
@@ -213,7 +213,7 @@ The creature turns pink, “That would be so good. I have so much trauma.”
 “We should be able to get support from Gartokkar Xundorn and the Keepers of the Flame.” 
 
 
-Grygum says to Flumph, “Make that two trauma dumps.” 
+Gyrgum says to Flumph, “Make that two trauma dumps.” 
 
 
 “Won’t that be enough evidence?” asks Zalthir. 
@@ -234,7 +234,7 @@ Flumph looks at him, “No.”
 The Flumph sighs, “Well, look, the Council used to be these nice people, and then after the blink, they became crazy. And now they are working with Plinki to try to summon Demogorgon or make him a two-headed dragon mount! Look, I don’t read their minds. They are psychics, and they use psychic energy, and I feed on it. Ever since my friend Buppido went stark raving mad… ”
 
 
-Grygum is silent.   
+Gyrgum is silent.   
 
 
 “How well guarded is this Council person?” 
@@ -246,7 +246,7 @@ Grygum is silent.
 Thorin growls, “We don’t have the resources to mount a full frontal assault. So we could just return, give the information, and then boogie out of here. We still have a boat. But I still like the  plan of escaping on the back of Themberchaud.” 
 
 
-Grygum mutters, “Bahamut commands that I save the egg.” 
+Gyrgum mutters, “Bahamut commands that I save the egg.” 
 
 
 ### Daz
@@ -275,12 +275,12 @@ As Daz pens the last paragraph, he smiles. The path forward was clear, and indee
 And so he returns to this journal - 
 
 
-*Grygum led us to the Keeper of the Flame. Once there, the Flumph trauma dumped on Gartokkar, who seemed curiously relieved. Then, he began making demands that we fetch the egg. *
+*Gyrgum led us to the Keeper of the Flame. Once there, the Flumph trauma dumped on Gartokkar, who seemed curiously relieved. Then, he began making demands that we fetch the egg. *
 *
 This is how I remember the dialogue: *
 
 
-*Grygum - “We need some help.” *
+*Gyrgum - “We need some help.” *
 
 
 *Gartokkar - “You had some helpers, use them.”*

@@ -44,7 +44,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Buppido:** He showed interest in her tracking techniques; she does not appear to reciprocate warmth
 - **Jimjar:** Frequent mission partner (rescue from cave-in, ghost mission together)
 - **Zalthir:** Fellow winch-duty prisoner; he publicly praised her trail-hiding skill
-- **Grygum:** Somewhat exasperated by his help but directed him to useful foraging
+- **Gyrgum:** Somewhat exasperated by his help but directed him to useful foraging
 - **Daz:** Aware of his magical limitations in the cell; no strong personal bond noted
 - **Spiderbait / Glabbagool:** Co-volunteers on the Blingdenstone ghost mission
 - **Sarith:** Assigned her to trail-hiding duty; functional working relationship

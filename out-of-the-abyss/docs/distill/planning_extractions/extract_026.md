@@ -5,7 +5,7 @@
 - Conducted (and attempted to rehearse) a ritual chant invoking Demogorgon's power to graft second heads onto Stone Giants, with the stated goal of sending two-headed giants to destroy Gracklstugh and bring down the Deepking.
 - Boasted that one of Hgraam's giants had already been successfully converted to a two-headed creature, and that one more conversion would be sufficient to lay waste to Gracklstugh.
 - Held a ritual book used to perform the head-grafting rite.
-- Cast a Fear spell targeting Thorin, Grygum, and Zalthir during combat.
+- Cast a Fear spell targeting Thorin, Gyrgum, and Zalthir during combat.
 - Was enveloped by Zalthir's magical darkness, then caught in Maximilian's Earthen Grasp. Shouted "You cannot stop the inevitable... the curse spreads!" while trapped.
 - Shouted invocations of Demogorgon's power throughout the combat ("Demogorgon's madness flows through me! You will embrace it or *break* trying!" and "Fire is nothing compared to the awesome power of Demogorgon!").
 
@@ -13,16 +13,16 @@
 - Present beside Narrak on the ritual platform as an apparent enforcer/guardian.
 - Pointed out party members outside the darkness to Narrak.
 - Struck Thorin with a morning star after Narrak's Fear spell took effect, leaving Thorin battered.
-- Was targeted by Daz's Scorching Ray and Grygum's Guiding Bolt; sustained damage but remained functional.
+- Was targeted by Daz's Scorching Ray and Gyrgum's Guiding Bolt; sustained damage but remained functional.
 
 **Pelek (Ghost possessing a Derro body)**
 - Requested to be tied up before sleep, fearing the Derro body might act against the party if he lost control during the night.
 - Survived the night restrained; reflected on the philosophical question of whether death is a form of sleep.
-- Was untied by Grygum in the morning.
+- Was untied by Gyrgum in the morning.
 
 **JimJar**
-- Offered a bet that Grygum's knots on Pelek/Derro would not hold overnight.
-- Lost the bet and paid Grygum his winnings.
+- Offered a bet that Gyrgum's knots on Pelek/Derro would not hold overnight.
+- Lost the bet and paid Gyrgum his winnings.
 
 **The Myconid (unnamed, traveling with the party)**
 - Raised the matter of retrieving a wayward Myconid sprout named "Rump-a-dump" from a group of ape-like creatures, connecting it to spores and broader events.
@@ -34,7 +34,7 @@
 - The Myconid insists Rump-a-dump is not hostile and that no killing should occur in retrieving them.
 
 **Hgraam (referenced, absent)**
-- Identified by Grygum (or divine inspiration) as someone who should be able to reverse the ill effects of the head-grafting ritual on Stone Giants.
+- Identified by Gyrgum (or divine inspiration) as someone who should be able to reverse the ill effects of the head-grafting ritual on Stone Giants.
 - Party has decided to bring the two-foot stone giant statue to Hgraam rather than destroy it.
 
 **Bupido (referenced, deceased)**
@@ -49,7 +49,7 @@
 - Actively rehearsing and attempting to complete a second ritual to convert another Stone Giant.
 - Cult's stated goal: corrupt two Stone Giants and unleash them on Gracklstugh to topple the Deepking.
 - Ritual disrupted mid-rehearsal by the Ember Vanguard's attack.
-- Multiple Derro cultists engaged in combat; at least two rushed out of the magical darkness to attack Grygum (both missed).
+- Multiple Derro cultists engaged in combat; at least two rushed out of the magical darkness to attack Gyrgum (both missed).
 
 ---
 

@@ -16,7 +16,7 @@
 - **Avernus**
 - **The Great Wheel** / **Great Wheel** — cosmological model the Maze Engine resembles
 - **Far Realm**
-- **the Grygumite triangle** — Brother Vareth's academic framework/theory (now expanded to 'a quadrangle'); appears to be the same named-positions framework referenced in the Bahamutians note re: Grygum's answer to the Question of the Age ('the triangle, three options,' later a fourth by Fembris)
+- **the Gyrgumite triangle** — Brother Vareth's academic framework/theory (now expanded to 'a quadrangle'); appears to be the same named-positions framework referenced in the Bahamutians note re: Gyrgum's answer to the Question of the Age ('the triangle, three options,' later a fourth by Fembris)
 - **the Ordning** — Restored giant social hierarchy after the War of the Giants: Storm Giants at top, through Cloud/Stone/Fire/Frost, down to Hill Giants
 - **Lolthism** — Asha Vandree's term for Daz's presumed conversion to Lolth-worship; distinct from the already-registered Church of Lolth and The Way of Lolth. Spelling confirmed against docs/TheUnderdark.md ("converted to Lolthism"); the former canonical "Lothheism" was a garbling and was dropped 2026-08-03.
 - **the Dreamlands** / **Dreamlands** — stone-giant term for the surface world (OotA Ch.4)
@@ -237,10 +237,10 @@
 - **The Zhentarim** / **Zhentarim** / **Black Network** — shadowy mercenary network, faction represented by Davra Jassur
 - **House of Binder** — a reward perk)
 - **House T'sarran** / **T'sarran** / **T'sarrans** — Antagonist drow house hunting Daz as bait for his unknown Menzoberranzan patron; matron mother rules 200 years; one surface spy captured (miniaturized in the party's bag of holding)
-- **Stroudites** / **Stroudite** / **Stroud School** — Philosophical/religious movement preaching 'mortal agency' (Grygum's 'Stroud's Gambit'), opposed to Bahamutian orthodoxy; recurring across the Sword Coast arc and current Candlekeep play
+- **Stroudites** / **Stroudite** / **Stroud School** — Philosophical/religious movement preaching 'mortal agency' (Gyrgum's 'Stroud's Gambit'), opposed to Bahamutian orthodoxy; recurring across the Sword Coast arc and current Candlekeep play
 - **the Ember Vanguard** / **Ember Vanguard** / **Vanguard** — The party's own public reputation/nickname, earned after the Grey Ghosts alley ambush; feared in Gracklstugh
 - **Uthgardt** — Barbarian raiding culture; post-giant-war Uthgardt hordes raided Mirabar and the region, Daggerford spared by distance
-- **Bahamutians** / **Bahamutian** — One of the named positions in the 'Question of the Age' / Great Question philosophical debate (dragons/gods rule fate), opposed to the Stroudites' mortal-agency position; a Daggerford priest declared himself 'a pure Bahamutian.' Grygum's own answer to the Question of the Age was 'the triangle, three options,' later expanded to a fourth by Fembris — the full framework of named positions may be worth its own note.
+- **Bahamutians** / **Bahamutian** — One of the named positions in the 'Question of the Age' / Great Question philosophical debate (dragons/gods rule fate), opposed to the Stroudites' mortal-agency position; a Daggerford priest declared himself 'a pure Bahamutian.' Gyrgum's own answer to the Question of the Age was 'the triangle, three options,' later expanded to a fourth by Fembris — the full framework of named positions may be worth its own note.
 - **Netherese** — Ancient magical civilization/empire; Dawnbringer sun-sword identified as late Netherese-era recovery, ~3000-4000 years old
 - **the Whistlerites** / **Whistlerites** — Fan faction devoted to Whistler, per GM: there's the Whistlerites and the Miloites (fanboyism factionalism at Rishaal's Pageturners)
 - **Bookwyrm's Brownnosers** — Party's own nickname at Candlekeep, per Daral Yashenti - distinct from the Ember Vanguard reputation earned in Gracklstugh
@@ -248,7 +248,7 @@
 - **Protanthians** — Followers of the already-registered NPC Protanther; third named position in the Question of the Age debate alongside Bahamutians/Stroudites. Verbatim quote spells Protanthians; the scaffold pass drifted to Protantherians.
 - **the Dragonstelle** / **Dragonstelle** — Cult that recruited in Daggerford; broken by the paladin Travis Houlin three years prior, per the memorial inscription
 - **the Ember Grapple** / **Endergrapple** — Party nickname, per the GM: 'You are the Ember... what is it? The Ember Grapple' during the bird-call signal scene in the woods; Daz's transcript line renders it as 'The Endergrapple' (VTT drift). Relationship to the separately-registered 'the Ember Vanguard' (earned after the Grey Ghosts alley ambush) is unconfirmed - may be the same reputation restated, or a distinct nickname.
-- **The Grygumite School** — school Grygum (PC) claims to have founded as a Candlekeep bluff
+- **The Gyrgumite School** — school Gyrgum (PC) claims to have founded as a Candlekeep bluff
 - **the Diggermattocks** / **Diggermattocks** — Blingdenstone deep-gnome clan/family led by Dorbo and Senni Diggermattock plus followers
 - **Miners' Guild of Blingdenstone** / **Miners' Guild** — powerful mining guild led by the Pickshine family; represented Kazook Pickshine at the Blingdenstone grand moot (ch38-39)
 - **Circle of Masters of Neverlight Grove** / **Circle of Masters** — newest circle of Zuggtmoy-touched myconids led by Yestabrod; takes carcasses the Circle of Hunters bring in, sends myconids outside the grove unannounced (ch31)
@@ -343,7 +343,7 @@
 - **Janussi's locket** — One of two High Tower Library keys, torn from Janussi's neck the night of his murder; still untraced
 - **Account of the War of the Dragons** — Milo Goodbarrel's multi-volume book (Volumes 1-3), sold at Rishaal's Pageturners; features Stroud, Milo, Malfire, and Whistler
 - **1001 Tashalian Nights** / **Tashalan** — Book found in Alkrist's chambers, bookmarked to the Midnight Tears poison passage - the murder weapon's method. Verbatim quote spells it Tashalian; a scaffold/summary pass drifted to Tashalan (documented in 07_the_interrogation_of_alkrist_consistency_report.md); verbatim wins per trust hierarchy.
-- **Dust of Suleiman** — Grygum's AoE damage effect/spell - 120ft range, 20ft sphere, 20 damage/turn
+- **Dust of Suleiman** — Gyrgum's AoE damage effect/spell - 120ft range, 20ft sphere, 20 damage/turn
 - **the Zagotami Marginalia** — Annotations in Ilvara's/Elvara's prayer book, considered useful for questions about Jimjar; possible connection to 'Asha Vandri's Loth Zagotomy Theological Argument' unconfirmed
 - **Nilhogg's Nose** / **Nilhogg** — OotA named fungus (Ch.2)
 - **Pygmywort** — OotA faerzress mushroom, size-reduction (Ch.4 Whorlstone Tunnels)
@@ -956,7 +956,7 @@
 - **Grinta Ironhead** / **Grinta** — Hot-tempered granddaughter of Clan Ironhead's laird Thangus who strives for change; might be pushed toward insurrection if shown the hit list.
 - **Grogluk**
 - **Gru Manga**
-- **Grygum**
+- **Gyrgum**
 - **Khaem**
 - **Khell-Vire** / **Khell**
 - **King Hekaton**

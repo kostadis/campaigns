@@ -2,7 +2,7 @@
 
 **Retrieve Pelek's remains — Blingdenstone catacombs**
 - Session: Chapter 33
-- Outcome: Success. Grygum interred Pelek's bones in the catacombs beneath the Temple of the Ruby in the Rough (dedicated to Segojan Earthcaller). Grygum performed a dragon-themed ritual and planted a gold coin. Pelek's ghost expressed profound relief and gratitude, then faded away peacefully. His spirit was laid to rest.
+- Outcome: Success. Gyrgum interred Pelek's bones in the catacombs beneath the Temple of the Ruby in the Rough (dedicated to Segojan Earthcaller). Gyrgum performed a dragon-themed ritual and planted a gold coin. Pelek's ghost expressed profound relief and gratitude, then faded away peacefully. His spirit was laid to rest.
 
 **Pelek the deep gnome ghost — laid to rest**
 - Session: Chapter 33
@@ -18,7 +18,7 @@
 
 ## Resolved Plot Threads
 
-**Pelek's unfinished business**: Pelek's ghost had been traveling with the party since Buppido killed him. Grygum carried his bones and found a proper resting place in the Blingdenstone catacombs. His spirit is now at peace — thread fully closed.
+**Pelek's unfinished business**: Pelek's ghost had been traveling with the party since Buppido killed him. Gyrgum carried his bones and found a proper resting place in the Blingdenstone catacombs. His spirit is now at peace — thread fully closed.
 
 ## NPC State Changes
 

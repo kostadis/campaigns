@@ -9,7 +9,7 @@
 - **Consequences:** The Galeb Duhr relaxed and opened the way. Mine owner **Dasco Pickshine** rewarded the party with two ruby gems worth 500gp.
 
 ### Time-Snagged Tunnel — White Shell Mine
-- **Outcome:** Success. A tunnel in the White Shell Mine (largest salt mine in the Underdark) had become impassable due to a magical time-snag. Zalthir, with Grygum's blessing, used Shadow Monk abilities to redirect a controlled gnome explosive blast through shadow space, safely shattering the wall without collapsing the tunnels.
+- **Outcome:** Success. A tunnel in the White Shell Mine (largest salt mine in the Underdark) had become impassable due to a magical time-snag. Zalthir, with Gyrgum's blessing, used Shadow Monk abilities to redirect a controlled gnome explosive blast through shadow space, safely shattering the wall without collapsing the tunnels.
 - **Consequences:** Passage opened to the cavern beyond containing Entémoch's summoning circle.
 
 ### Basilisks at Entémoch's Boon — Encounter

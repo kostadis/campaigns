@@ -2,7 +2,7 @@
 
 **Confrontation with Ilvara Mizzrym at the Fungal Cavern — Final Battle**
 - Ilvara Mizzrym, corrupted by Zuggtmoy, was defeated and killed in the Fungal Cavern (a separate location several days' travel from Blingdenstone, *not* Velkynvelve).
-- Outcome: Success. Ilvara was struck by Grygum's Guiding Bolt and her body erupted into a cloud of poisonous spores — she did not leave a corpse, only a toxic bloom of demonic fungal corruption.
+- Outcome: Success. Ilvara was struck by Gyrgum's Guiding Bolt and her body erupted into a cloud of poisonous spores — she did not leave a corpse, only a toxic bloom of demonic fungal corruption.
 - The Heart Fungus at the center of the cavern was destroyed by Thorin using Dawnbringer in a single round of radiant damage.
 - Jorlan Duskryn charged Ilvara during the battle driven by personal vendetta (she discarded him after his scarring). Thorin allowed him to pass (opportunity attack withheld).
 - House T'sarran reinforcements (5 drow warriors + a mage) arrived mid-battle. Daz destroyed most with a sculpted Fireball. Zalthir killed the T'sarran mage. One T'sarran warrior survived and retreated, threatening: "We will meet again. Enjoy your victory for the moment." He explicitly stated the matron mother of House T'sarran would hear about this.
@@ -25,7 +25,7 @@
 
 ## NPC State Changes
 
-**Ilvara Mizzrym** — Dead. Killed by Grygum's Guiding Bolt. Body erupted into poisonous spores due to Zuggtmoy's corruption. No remains.
+**Ilvara Mizzrym** — Dead. Killed by Gyrgum's Guiding Bolt. Body erupted into poisonous spores due to Zuggtmoy's corruption. No remains.
 
 **Jorlan Duskryn** — Survived the battle. Charged Ilvara during the fight driven by personal vendetta. Was hit by Nym Duskryn's lightning bolt at some point during the battle. Was allowed to pass by Thorin (opportunity attack withheld). Current status: alive, in the cavern.
 
@@ -48,16 +48,16 @@
 ## Party Current Situation
 
 - **Location**: Velkynvelve — the fungal cavern, post-battle.
-- **Immediate situation**: The battle is over. Spore cloud from Ilvara's death is dissipating. The heart fungus and bridge are destroyed. Asha is praying to Lolth. The party is catching its breath. Grygum is checking on Glabbagool. The House T'sarran threat looms as unresolved future consequence.
+- **Immediate situation**: The battle is over. Spore cloud from Ilvara's death is dissipating. The heart fungus and bridge are destroyed. Asha is praying to Lolth. The party is catching its breath. Gyrgum is checking on Glabbagool. The House T'sarran threat looms as unresolved future consequence.
 
 ## Tracked Items
 
 - **The Fungal Cavern — final Ilvara confrontation site (several days from Blingdenstone)**: The party fought and won the final confrontation with Ilvara here, in the cavern containing the Heart Fungus. (This is *not* Velkynvelve — Velkynvelve was the original capture/escape outpost in chapters 1–4 and was destroyed earlier.)
-- **Ilvara Mizzrym — drow commander, first contact in Velkynvelve**: Dead. Killed by Grygum's Guiding Bolt. Body erupted into poisonous spores from Zuggtmoy's corruption. Was muttering prophecies about Zuggtmoy and "the bride" until death.
+- **Ilvara Mizzrym — drow commander, first contact in Velkynvelve**: Dead. Killed by Gyrgum's Guiding Bolt. Body erupted into poisonous spores from Zuggtmoy's corruption. Was muttering prophecies about Zuggtmoy and "the bride" until death.
 - **Jorlan Duskryn — drow elite warrior, potential aid to escaping prisoners**: Survived. Charged Ilvara during battle, driven by personal vendetta over being discarded after his scarring. Thorin let him pass. Hit by Nym's lightning bolt during the fight.
 - **Asha Vandree — junior priestess, potential betrayal of Ilvara**: Survived. Nearly attacked the Duskryn sisters but was defused by Daz's Lolth-cover story. After Ilvara's death, dropped to her knees praying to Lolth, reshaping events into Lolth-aligned theology.
 - **Shoor Vandree — Ilvara's lieutenant, antagonist**: Not mentioned in this chapter; status unchanged.
 - **Zuggtmoy — Demon Queen of Fungi, presence at Neverlight Grove**: Referenced heavily. Ilvara was fully corrupted by Zuggtmoy — described as "Zuggtmoy's work, walking around in a drow priestess's bones." Ilvara's death released Zuggtmoy's corruption as poisonous spores. Ilvara prophesied about "the bride" and chaos to come before dying.
 - **Zuggtmoy's fetid wedding — Araumycos confrontation**: Referenced indirectly. Ilvara's dying prophecies mentioned "the bride" and coming chaos, suggesting the wedding/Araumycos threat remains active.
-- **Glabbagool — sentient gelatinous cube, first contact**: Survived 26 damage from Ilvara's Insect Plague. Still alive and with the party. Grygum checking on him post-battle.
+- **Glabbagool — sentient gelatinous cube, first contact**: Survived 26 damage from Ilvara's Insect Plague. Still alive and with the party. Gyrgum checking on him post-battle.
 - **The Fungal Cavern — final battle conditions**: Cavern heavily damaged. Heart Fungus destroyed. Bridge destroyed. Ilvara dead (spore cloud). Fungal minions dead. T'sarran forces mostly destroyed, one survivor retreated.

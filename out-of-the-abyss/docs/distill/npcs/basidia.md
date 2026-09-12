@@ -17,7 +17,7 @@ Basidia is a traditionalist who values the old ways of myconid life — collecti
 ## History with the Party
 1. **First meeting:** Basidia took the party on a tour of the gardens, confiding privately that the grove was unsafe. Shared intelligence about a missing group of "softers," the Circle of Masters hoarding carcasses and sending secret expeditions, and Phylo's likely infection by a diseased spore. Could not recognize Sarith's spores — found this deeply strange.
 2. **Mission offer:** Asked the party to investigate the Garden of Welcome, admitting fear of going personally. Gave them a scroll of protection against fiends and promised additional rewards. Assured the party that if Phylo dies, they would simply "enter the great circle."
-3. **Grove tour:** Released rapport spores and explained the political situation — Phylo restructuring myconid society into hierarchical circles under supposed instructions from the "Great Seeder." Introduced the party to circle leaders, indicating allies vs. Phylo loyalists. Confirmed Hepbobe's food was uncontaminated. Introduced Rusharoo and privately arranged a secret passageway into the Circle of Welcome. Told Jimjar he was not infected. Offered to animate a Grick corpse the party brought in (despite its missing head). Assured Grygum that Rumpadump and Stool were happy.
+3. **Grove tour:** Released rapport spores and explained the political situation — Phylo restructuring myconid society into hierarchical circles under supposed instructions from the "Great Seeder." Introduced the party to circle leaders, indicating allies vs. Phylo loyalists. Confirmed Hepbobe's food was uncontaminated. Introduced Rusharoo and privately arranged a secret passageway into the Circle of Welcome. Told Jimjar he was not infected. Offered to animate a Grick corpse the party brought in (despite its missing head). Assured Gyrgum that Rumpadump and Stool were happy.
 4. **Confrontation and escape:** Upon learning what the party found in the Inner Circle, Basidia insisted on confronting Phylo directly, accusing them of betrayal and alliance with "that monster." The party couldn't persuade Basidia to flee — Zalthir had to physically grapple and drag them away. Basidia broke down emotionally hearing Phylo's pleas. Once safe in the Circle of Explorers, Basidia handed over potions of greater healing and accumulated treasures as payment, then departed with their loyalists.
 
 ## Current Status
@@ -32,7 +32,7 @@ Basidia is a traditionalist who values the old ways of myconid life — collecti
 - **Loobamub:** Allied circle leader who departed with Basidia.
 - **The Party:** Primary ally within Neverlight Grove. Trusted them with sensitive intelligence and rewarded them generously. Zalthir specifically saved Basidia's life by dragging them from the confrontation.
 - **Sarith:** Basidia could not recognize his spores and found this deeply unsettling; could not confirm if the same disease affecting Phylo was affecting Sarith.
-- **Grygum:** Reassured them about Rumpadump and Stool's wellbeing.
+- **Gyrgum:** Reassured them about Rumpadump and Stool's wellbeing.
 - **Jimjar:** Confirmed he was not infected.
 
 ## Arc Score Events

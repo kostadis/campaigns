@@ -3,7 +3,7 @@
 
 ---
 
-## Grygum — The Fall of Ilvara
+## Gyrgum — The Fall of Ilvara
 
 The bolt was already building in my hand when I made the decision.
 

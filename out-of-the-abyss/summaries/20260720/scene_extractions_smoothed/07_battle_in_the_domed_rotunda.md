@@ -10,16 +10,16 @@ from: ../scene_extractions/07_battle_in_the_domed_rotunda.md
 
 #### The party engages a powerful pit fiend named Moziqodo to save Tadric and secure the real key to the high tower.
 - The party discovers a massive pit fiend, Moziqodo — revealed to be Sylvira's abyssal spawn son — who has jumped onto Tadric, grappled him, and is tearing him apart with savage claws.
-- Grygum notes the grim triage: "if we have to prioritize the man or Tadric, we're going to have to make a choice."
+- Gyrgum notes the grim triage: "if we have to prioritize the man or Tadric, we're going to have to make a choice."
 - Initiative favors the party sweepingly: Thorin rolls a natural 20 (19), Zalthir 16, Daz 7; Tadric is incapacitated and unable to act.
 - Thorin charges the demon as Guardian, unleashing a series of strikes with Dawnbringer (11, 12, and an Action Surge for 8), sapping the creature (disadvantage on its next roll) and forcing its attention onto him.
 - Thorin adds a Hill Strike attempt (extra 1d6, DC 15 Strength save for prone), which the fiend saves against, then lands a Menacing Attack — the fiend fails a DC 15 Wisdom save (rolled 13) and is frightened, unable to advance.
 - Zalthir launches a brutal assault with his Enhanced Unarmed Strike (14, then 10), spends a ki point to stun the creature, then burns more focus to strike twice more while it is stunned for another 30 points of damage.
-- Grygum moves clear of allies and hurls his Javelin of Lightning at the pit fiend, but the throw misses.
+- Gyrgum moves clear of allies and hurls his Javelin of Lightning at the pit fiend, but the throw misses.
 - Daz, unwilling to waste fire on a fire-immune fiend, strikes the stunned monster with a first-level Magic Missile.
 - Thorin, attacking a stunned Moziqodo, lands 11 and then a critical hit that slays the pit fiend outright.
 - The DM reveals the stakes: had Moziqodo landed even a single attack he would have killed Tadric and fled via Disengage and flight; the party's overwhelming opening round both saved Tadric and denied the demon escape.
-- Grygum uses Cure Wounds to mend Tadric's gruesome wounds and stop his bleeding.
+- Gyrgum uses Cure Wounds to mend Tadric's gruesome wounds and stop his bleeding.
 - Tadric, in shock, asks "Is Kalan alive?" and confirms the creature was Sylvira Savikas's son, still clutching one of the two real keys.
 
 ## Verbatim moments
@@ -35,7 +35,7 @@ from: ../scene_extractions/07_battle_in_the_domed_rotunda.md
 **Thorin**
 > "Alright, so we gotta save Tadric. Tadric may not survive."
 
-**Grygum**
+**Gyrgum**
 > "So if we have to prioritize the man or Tadric, we're going to have to make a choice."
 
 **Thorin**
@@ -121,13 +121,13 @@ from: ../scene_extractions/07_battle_in_the_domed_rotunda.md
 **Thorin** — Menacing Attack
 > "Is it even worth trying to frighten him? Probably not — he's not going to retreat."
 
-**Grygum**
+**Gyrgum**
 > "I don't think you can frighten a pit fiend."
 
 **Thorin**
 > "I could. Do you want to see me try?"
 
-**Grygum**
+**Gyrgum**
 > "I'd love to see you try."
 
 **Thorin**
@@ -165,17 +165,17 @@ from: ../scene_extractions/07_battle_in_the_domed_rotunda.md
 
 **GM**
 > "Frightened and stunned — nice combo. He's stunned."
-> "Zalthir spends another focus point to attack twice more while he's stunned — that's another 30 points of damage. Alright, Grygum, you're up."
+> "Zalthir spends another focus point to attack twice more while he's stunned — that's another 30 points of damage. Alright, Gyrgum, you're up."
 
-**[scene tag — Grygum's Turn]**
+**[scene tag — Gyrgum's Turn]**
 
-**Grygum**
+**Gyrgum**
 > "Hooray! We only have the one creature, right? The pit fiend?"
 
 **Thorin**
 > "His name apparently is Moziqodo."
 
-**Grygum** — Javelin of Lightning
+**Gyrgum** — Javelin of Lightning
 > "Moziqodo the Pit Fiend, okay. I'll move so everyone's clear of the blast area — I'm really excited about this Javelin of Lightning. I'll hurl it at the pit fiend, trying not to hit any of my compatriots."
 > "...That missed. Fuck."
 
@@ -221,7 +221,7 @@ from: ../scene_extractions/07_battle_in_the_domed_rotunda.md
 **Thorin**
 > "His name is Moziqodo? I just read that as Moziqodo."
 
-**Grygum**
+**Gyrgum**
 > "He's not just stunned, he's stunning."
 
 **Thorin** — the killing blow
@@ -245,7 +245,7 @@ from: ../scene_extractions/07_battle_in_the_domed_rotunda.md
 **Thorin**
 > "All right, so he dead?"
 
-**Grygum**
+**Gyrgum**
 > "Really?"
 > "I expected this guy to be a lot tougher."
 
@@ -267,7 +267,7 @@ from: ../scene_extractions/07_battle_in_the_domed_rotunda.md
 **Thorin**
 > "And we just totally, like, one-shot him."
 
-**Grygum**
+**Gyrgum**
 > "Oh, we one-shotted him."
 
 **GM**
@@ -315,17 +315,17 @@ from: ../scene_extractions/07_battle_in_the_domed_rotunda.md
 > "I mean, like, not only did we keep them from fleeing, we saved Tadric."
 
 **GM**
-> "Yes, you saved Tadric. So — Grygum, are you going to heal him, or let him bleed out?"
+> "Yes, you saved Tadric. So — Gyrgum, are you going to heal him, or let him bleed out?"
 
 **[scene tag — Healing Tadric]**
 
-**Grygum**
+**Gyrgum**
 > "I'm going to heal him, of course. I'm sure I have an appropriate spell. Everyone else okay?"
 
 **GM**
 > "Yeah, Cure Wounds is efficient. He's—"
 
-**Grygum**
+**Gyrgum**
 > "Cool, cool."
 
 **GM** — Tadric revives in shock

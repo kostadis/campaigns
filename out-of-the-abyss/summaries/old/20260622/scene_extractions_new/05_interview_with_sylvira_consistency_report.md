@@ -124,9 +124,9 @@
 
 ### Issue 11: The recap does not note that Daral's question about Alkrist burning something at the feast went unanswered
 
-**Location:** Verbatim — Grygum's prompt about Alkrist
+**Location:** Verbatim — Gyrgum's prompt about Alkrist
 
-**Issue:** Grygum (via text) prompts: "So this is, there was something about Alkrist burning something at the feast. Does she know anything about that?" The scene then moves directly to Sylvira recalling her own alibi without any recorded answer to the Alkrist question. The recap summary does not note that this question was asked of Sylvira or that it went unanswered/unaddressed.
+**Issue:** Gyrgum (via text) prompts: "So this is, there was something about Alkrist burning something at the feast. Does she know anything about that?" The scene then moves directly to Sylvira recalling her own alibi without any recorded answer to the Alkrist question. The recap summary does not note that this question was asked of Sylvira or that it went unanswered/unaddressed.
 
 **Evidence:** Campaign state confirms Alkrist burned the poison vial's label at the Dead Winter tree. Sylvira attended the feast. No answer from Sylvira on this point is recorded.
 

@@ -26,7 +26,7 @@ chapters: 1-54
 - Orchestrated fungal corruption across Velkynvelve, turning former guards into fungal weapons.  
 - Built a ritual site centered on a fused Lolth-Zuggtmoy sigil, using Thorin’s tooth as a ritual anchor.  
 - Cast Insect Plague at the cavern entrance, inflicting 26 damage on Glabbagool.  
-- Survived multiple lethal attacks, including a 40-foot fall and 36 damage from Fireball, before being struck by Grygum’s Guiding Bolt.  
+- Survived multiple lethal attacks, including a 40-foot fall and 36 damage from Fireball, before being struck by Gyrgum’s Guiding Bolt.  
 - Detonated into a cloud of poisonous spores — “biology, not identity” — after her final confrontation.  
 **Revealed motivations or secrets:**  
 - Believed Lolth wished to be married, a delusion that became the vehicle for Zuggtmoy’s corruption.  
@@ -40,5 +40,5 @@ chapters: 1-54
 - The exact timing of when Ilvara fully ceased serving Lolth and became Zuggtmoy’s vessel is ambiguous — the marginalia in her prayer book suggest a slow, possibly unconscious transition, but no single moment of betrayal or apostasy is confirmed.  
 - Whether Thorin’s tooth survived the spore explosion is unknown; it was last known to be in her possession, but its fate after detonation is unrecorded.  
 - The physical location of her prayer book after delivery to Candlekeep is not specified — only that it was presented there.  
-- The identity of “Grygum” as the caster of the Guiding Bolt is assumed from context but not explicitly confirmed in the final ch51 quote — the bolt is attributed to “a radiant bolt,” and Grygum is not named in that passage.  
+- The identity of “Gyrgum” as the caster of the Guiding Bolt is assumed from context but not explicitly confirmed in the final ch51 quote — the bolt is attributed to “a radiant bolt,” and Gyrgum is not named in that passage.  
 - The origin of the “mushroom icon” mentioned in ch50 is never explained — whether it was a physical object, a magical tattoo, or a symbolic manifestation — and its fate after her detonation is unrecorded.

@@ -2,17 +2,17 @@
 
 ### Lost Tomb of Khaem — Netherese tomb exploration
 - **Session/Time:** 5th day of the second tenday of Myrkhul 1495
-- **Outcome:** Success. The party defeated the wraith Brysis of Khaem in the true tomb (accessed via the sarcophagus). Grygum's acid breath and the newly-acquired Dawnbringer sunblade contributed to the kill. The false tomb was also identified (the easily-opened sarcophagus that Fargas Rumblefoot had warned about); its magical trap dissipated upon Brysis's destruction.
+- **Outcome:** Success. The party defeated the wraith Brysis of Khaem in the true tomb (accessed via the sarcophagus). Gyrgum's acid breath and the newly-acquired Dawnbringer sunblade contributed to the kill. The false tomb was also identified (the easily-opened sarcophagus that Fargas Rumblefoot had warned about); its magical trap dissipated upon Brysis's destruction.
 - **Consequences:** Party acquired significant treasure (see below). The tomb is fully cleared.
 
 ### Grick Hunt for Basidia — Neverlight Grove
 - **Session/Time:** 8th day of the second tenday of Myrkhul 1495
-- **Outcome:** Success. The party located and killed a Grick using coordinated tactics (Zalthir's darkness, Daz's fireball, Thorin's Dawnbringer strikes, Grygum's Tasha's Caustic Brew). The Grick corpse was delivered to Sovereign Basidia for reanimation.
+- **Outcome:** Success. The party located and killed a Grick using coordinated tactics (Zalthir's darkness, Daz's fireball, Thorin's Dawnbringer strikes, Gyrgum's Tasha's Caustic Brew). The Grick corpse was delivered to Sovereign Basidia for reanimation.
 - **Consequences:** Basidia accepted the corpse for animation (minus its head, which the party stripped). The animated Grick will serve the party or Basidia.
 
 ### Shambling Mound — Neverlight Grove swamp
 - **Session/Time:** 8th day of the second tenday of Myrkhul 1495
-- **Outcome:** Success. Daz used Shape Water in a grid pattern (his "K'tharr-li" technique) to locate the concealed Shambling Mound. Zalthir stunned and grappled it, holding it within Grygum's Spirit Guardians zone until the persistent damage killed it.
+- **Outcome:** Success. Daz used Shape Water in a grid pattern (his "K'tharr-li" technique) to locate the concealed Shambling Mound. Zalthir stunned and grappled it, holding it within Gyrgum's Spirit Guardians zone until the persistent damage killed it.
 - **Consequences:** Threat near Neverlight Grove eliminated. Party harvested vines for crafting/value.
 
 ### Drow pursuit — escape from Velkynvelve pursuers
@@ -31,7 +31,7 @@
 ## NPC State Changes
 
 ### Brysis of Khaem (Wraith)
-- **Status:** Destroyed. Killed in her true tomb by the party, primarily by Grygum's acid breath. Her magical trap on the false tomb also dissipated.
+- **Status:** Destroyed. Killed in her true tomb by the party, primarily by Gyrgum's acid breath. Her magical trap on the false tomb also dissipated.
 
 ### Dawnbringer (Sunblade)
 - **Status:** Recovered and active. Found in the Lost Tomb of Khaem, held by the mummified corpse. Now wielded by Thorin. It is a sentient sunblade that can read, write, and cast lesser restoration. It refuses to extinguish its light after millennia of imprisonment. It recognized the wraith and was feared by Brysis ("Not Dawnbringer!").
@@ -131,7 +131,7 @@
 - **Outcome:** Referenced by Gasbide as something tied to the "great celebration" promised by Phylo. Gasbide hopes to use it to break through to the surface. Not yet encountered.
 
 ### Jimjar — deep gnome prisoner, first contact
-- **Outcome:** Still traveling with the party. Reminded Grygum of a bet as he raced into Neverlight Grove.
+- **Outcome:** Still traveling with the party. Reminded Gyrgum of a bet as he raced into Neverlight Grove.
 
 ### Eldeth Feldrun — shield dwarf prisoner, fate determined
 - **Outcome:** Still traveling with the party. Confirmed the drow pursuers had been lost.

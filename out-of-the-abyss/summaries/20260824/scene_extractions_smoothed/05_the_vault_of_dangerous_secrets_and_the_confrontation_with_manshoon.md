@@ -14,10 +14,10 @@ from: ../scene_extractions/05_the_vault_of_dangerous_secrets_and_the_confrontati
 - A note on the desk, written in archaic Common, reads: "This vault was built to contain Candlekeep's most dangerous secrets. Consult here what can benefit civilization, but leave the tomes on these shelves. Whilst the most holy, unholy knowledge can be used for good should circumstances lead you, keeper of secrets, to believe that such dogma might be grasped by foul hands, you will find the means to destroy the contents of this vault in the chamber above."
 - The party finds Manshoon "sitting there reading, and he does not look up immediately." **He is a simulacrum, and the party has not been told.**
 - A *second* simulacrum remains concealed in the vault and is never revealed this session.
-- Manshoon acknowledges the party: "by all means, browse. The trick is leaving with what you came for. Did you come for the book, or did you come for me?" Grygum: "we came for you, we did not know of the books."
-- Manshoon: "you've come for me and not for the books?" Grygum: "The books are but a bonus."
-- Grygum proposes moving the fight with complete earnestness. Daz nominates him for it — "It deserves an inspiration point, in my opinion" — and the GM agrees: "That man deserves an inspiration point." Grygum rolls persuasion with advantage: "17." … "22." The GM: "that was the number you needed to roll."
-- Grygum's pitch: "there's a lot of valuable books in this room. It would be a shame to damage any of them. What if we, what if we moved into the other rooms so they'd be safer?" and later: "Let's all just leave them here for now. We can come back after we kill you." Manshoon: "Or I killed you." Grygum: "Or, yes, yes, I admit it is a possibility."
+- Manshoon acknowledges the party: "by all means, browse. The trick is leaving with what you came for. Did you come for the book, or did you come for me?" Gyrgum: "we came for you, we did not know of the books."
+- Manshoon: "you've come for me and not for the books?" Gyrgum: "The books are but a bonus."
+- Gyrgum proposes moving the fight with complete earnestness. Daz nominates him for it — "It deserves an inspiration point, in my opinion" — and the GM agrees: "That man deserves an inspiration point." Gyrgum rolls persuasion with advantage: "17." … "22." The GM: "that was the number you needed to roll."
+- Gyrgum's pitch: "there's a lot of valuable books in this room. It would be a shame to damage any of them. What if we, what if we moved into the other rooms so they'd be safer?" and later: "Let's all just leave them here for now. We can come back after we kill you." Manshoon: "Or I killed you." Gyrgum: "Or, yes, yes, I admit it is a possibility."
 - Manshoon agrees: "Yes, you're correct. We should not damage these books, they are of priceless in origin... clearly, one of us will leave with the book they want." He sends the party down first — "well, why don't you go down ahead?" — and **comes down last**, after they have taken their positions.
 - Manshoon relocates and casts a buff spell as he goes, "currently, has mirror images floating around him." He arrives "standing menacingly over Daz" and declares: "Now we have found a place to have the magical duel." Daz: "Yes, we have."
 - The GM framed the standoff as an O.K. Corral standoff — "there's kind of like that, you know, okay corral sort of…" — ⚠️ **out-of-world reference; needs an in-Faerûn equivalent before this reaches narration.** Zalthir: "Where's the apple there?"
@@ -26,7 +26,7 @@ from: ../scene_extractions/05_the_vault_of_dangerous_secrets_and_the_confrontati
 - Manshoon considers burning his Counterspell and **declines** — "He burns the counterspell, he can't cast a spell... no, no, I'm trying to..." then rolls the save instead.
 - Manshoon makes the Wisdom save with an 8 on the die plus a +9 Wisdom for exactly 17: "He actually makes it, he has a plus 9 on his wisdom." **He still takes 13 psychic damage — half of 26, per the made save.** Daz called it correctly on tape ("he still took 4… er, 13 points of psychic damage"); the GM granted it, briefly withdrew it — "oop, sorry, that's not… no, he should not have taken…" — and then confirmed after the session that the damage stands. Under PHB 2024 the successful save also **ends the spell**, so Manshoon takes no disadvantage and Daz is not concentrating on anything. Earlier, sizing him up, the GM had emphasised his legend: "He's not just a high-level wizard. He is a legendary high-level wizard who has come back from the dead more times than you know." (During the save itself he added only: "remember, he's the legendary.")
 - Daz executes the hit-and-run: "after I hit him, I want to start heading towards the bridge... the more we can, like, hit him a little and then suck him out into the bridge, then we can hit him with crossbows or something." The move was **resolved before the night was called** — GM: "Alright, so you're going onto the bridge?" Daz: "Yeah." GM: "Sounds good... that's your position." **Daz begins round two already on the bridge — inside the first 10 feet of the anti-magic band, so he opens the round unable to cast.** That was the plan: hit, withdraw, and fight from the tower's four mounted crossbows. The dragon's 30-foot widening is banked, not spent, so the band is still 10 feet when play resumes.
-- Initiative: Thorin rolled 19, Daz re-rolled to 21, Zalthir 17, Grygum 3, Manshoon 12.
+- Initiative: Thorin rolled 19, Daz re-rolled to 21, Zalthir 17, Gyrgum 3, Manshoon 12.
 - The session ends with Thorin about to take his turn. The GM: "this was a little bit overwhelming in terms of keeping all these things in order, but I think we'll have the big fight with Manshoon next."
 
 ## Verbatim moments
@@ -34,7 +34,7 @@ from: ../scene_extractions/05_the_vault_of_dangerous_secrets_and_the_confrontati
 **GM** — *heading up*
 > "Alright, so you head upstairs, presumably."
 
-**Grygum** — *checking the field's vertical reach*
+**Gyrgum** — *checking the field's vertical reach*
 > "And the anti-magic goes all the way up? Is that the idea?"
 
 **GM** — *hedging*
@@ -44,14 +44,14 @@ from: ../scene_extractions/05_the_vault_of_dangerous_secrets_and_the_confrontati
 **GM** — *placing the vault*
 > "Alright, at the top of the stair links the vault with the guardian chamber."
 
-**Grygum** — *prompting*
+**Gyrgum** — *prompting*
 > "I probably need more information."
 
 **GM** — *the reveal*
 > "Okay, so you walk upstairs."
 > "And what you see… is… a hundred dangerous tome. A hundred dangerous tome."
 
-**Grygum** — *clarifying*
+**Gyrgum** — *clarifying*
 > "Dangerous… book?"
 
 **GM** — *emphatic*
@@ -68,7 +68,7 @@ from: ../scene_extractions/05_the_vault_of_dangerous_secrets_and_the_confrontati
 > "The room contains around 100 or so of the most…"
 > "…powerful magic books you could possibly imagine."
 
-**Grygum** — *lighting up*
+**Gyrgum** — *lighting up*
 > "Oh, I'm very excited."
 
 **GM** — *noting the reaction*
@@ -81,13 +81,13 @@ from: ../scene_extractions/05_the_vault_of_dangerous_secrets_and_the_confrontati
 > "He looks at you and says— [as Manshoon] By all means, browse."
 > [as Manshoon] "The trick is leaving with what you came for. Did you come for the book, or did you come for me?"
 
-**Grygum** — *answering*
+**Gyrgum** — *answering*
 > "Indeed — we came for you; we did not know of the books."
 
 **GM** — *Manshoon, probing*
 > "Okay, so he looks at you, and he says— [as Manshoon] You've come for me and not for the books?"
 
-**Grygum** — *the perfect line*
+**Gyrgum** — *the perfect line*
 > "The books are but a bonus."
 
 **GM** — *the sigh that starts the fight*
@@ -100,7 +100,7 @@ from: ../scene_extractions/05_the_vault_of_dangerous_secrets_and_the_confrontati
 **Zalthir** — *amused*
 > "That's an intense sigh!"
 
-**Grygum** — *rolling immediately*
+**Gyrgum** — *rolling immediately*
 > "Yes, 3."
 
 **GM** — *coloring the sigh*
@@ -125,7 +125,7 @@ from: ../scene_extractions/05_the_vault_of_dangerous_secrets_and_the_confrontati
 **Daz** — *conceding*
 > "Okay, good point, yeah."
 
-**Grygum** — *joking*
+**Gyrgum** — *joking*
 > "I thought maybe they were just paused."
 
 **[Initiative Order Set]**
@@ -158,19 +158,19 @@ from: ../scene_extractions/05_the_vault_of_dangerous_secrets_and_the_confrontati
 **Zalthir** — *already logged*
 > "I'm already up there."
 
-**Grygum** — *proud of the VTT trick*
+**Gyrgum** — *proud of the VTT trick*
 > "I figured out how to add it myself."
 
 **GM** — *confirming the worst roll*
-> "Okay. And, Grygum, you're a 3, right?"
+> "Okay. And, Gyrgum, you're a 3, right?"
 
-**Grygum** — *resigned*
+**Gyrgum** — *resigned*
 > "Unfortunately."
 
 **Zalthir** — *on the tracker's quirks*
 > "Cool. Yeah, you can add yourself; that's neat. But then you can't remove yourself."
 
-**Grygum** — *sharing the how-to*
+**Gyrgum** — *sharing the how-to*
 > "If you click on your token and do 'add turn', then it adds it as a zero, and you can edit it."
 
 **Thorin** — *apologizing for a tracker mishap*
@@ -196,7 +196,7 @@ from: ../scene_extractions/05_the_vault_of_dangerous_secrets_and_the_confrontati
 > "I had his stat block here — where's his stat block? No, no advantage on the dexterity. All of that energy to find out that he just… it's a straight d20. Alright."
 > "12. Alright."
 
-**[Grygum's Gambit — Move the Duel]**
+**[Gyrgum's Gambit — Move the Duel]**
 
 **GM** — *starting the round in error*
 > "Alright, so your little… your little guy is also here as well. Alright, Thorin, you're up first."
@@ -217,7 +217,7 @@ from: ../scene_extractions/05_the_vault_of_dangerous_secrets_and_the_confrontati
 **GM** — *underlining the threat*
 > "He's not just a high-level wizard. He is a legendary high-level wizard who has come back from the dead more times than you know."
 
-**Grygum** — *the earnest proposal*
+**Gyrgum** — *the earnest proposal*
 > "So, before we really get into the fighting, I want to propose to him that there are a lot of valuable books in this room. It would be a shame to damage any of them. What if we — what if we moved into the other rooms so they'd be safer?"
 
 **Daz** — *backing the play*
@@ -238,25 +238,25 @@ from: ../scene_extractions/05_the_vault_of_dangerous_secrets_and_the_confrontati
 **GM** — *flexible*
 > "Persuasion, or performance — I don't care, whatever you want."
 
-**Grygum** — *first roll*
+**Gyrgum** — *first roll*
 > "17."
 
 **GM** — *checking*
 > "Is that with your bonus?"
 
-**Grygum** — *with advantage*
+**Gyrgum** — *with advantage*
 > "22."
 
 **GM** — *the exact threshold*
 > "Alright, that was the number you needed to roll."
 
-**Grygum** — *celebrating*
+**Gyrgum** — *celebrating*
 > "Hey, that rules."
 
 **GM** — *Manshoon agrees*
 > "Manshoon goes— [as Manshoon] Yes, you're correct. We should not damage these books; they are of priceless origin."
 
-**Grygum** — *gracious*
+**Gyrgum** — *gracious*
 > "Indeed, indeed."
 
 **GM** — *Manshoon's condition*
@@ -265,25 +265,25 @@ from: ../scene_extractions/05_the_vault_of_dangerous_secrets_and_the_confrontati
 **Daz** — *agreeing*
 > "Correct."
 
-**Grygum** — *escalating cheerfully*
+**Gyrgum** — *escalating cheerfully*
 > "Let's all just leave them here for now. We can come back after we kill you."
 
 **GM** — *Manshoon's riposte*
 > [as Manshoon] "Or I killed you."
 
-**Grygum** — *conceding the odds*
+**Gyrgum** — *conceding the odds*
 > "Or, yes, yes, I admit it is a possibility."
 
 **GM** — *Manshoon sends them down first*
 > "He goes— [as Manshoon] Well, why don't you go down ahead?"
 
-**Grygum** — *complying*
+**Gyrgum** — *complying*
 > "Sure."
 
 **Zalthir** — *dry, on the way down*
 > "Good luck."
 
-**Grygum** — *quipping while positioning*
+**Gyrgum** — *quipping while positioning*
 > "I'm more civilized this way."
 
 **GM** — *echoing*
@@ -453,7 +453,7 @@ from: ../scene_extractions/05_the_vault_of_dangerous_secrets_and_the_confrontati
 
 **[Daz's Retreat to the Bridge]**
 
-**Grygum** — *proposing the anti-magic tactic*
+**Gyrgum** — *proposing the anti-magic tactic*
 > "I think we can use this anti-magic field to our advantage — doing things like firing at him and then ducking out the door so he can't get back at us as effectively."
 
 **GM** — *offering Daz the move*

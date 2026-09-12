@@ -2,10 +2,10 @@
 
 ---
 
-### Issue 1: Grygum described as investigating "alone" — consistent with canon
+### Issue 1: Gyrgum described as investigating "alone" — consistent with canon
 
 **Location:** Scene Summary, Verbatim Moments
-**Issue:** The recap states Grygum investigates the third floor alone. This is consistent with campaign_state §9 canon timeline ("Grygum (alone) finds the damning note in Janussi's chambers"). **No error.**
+**Issue:** The recap states Gyrgum investigates the third floor alone. This is consistent with campaign_state §9 canon timeline ("Gyrgum (alone) finds the damning note in Janussi's chambers"). **No error.**
 
 ---
 
@@ -34,11 +34,11 @@
 
 ---
 
-### Issue 5: The recap does not note that Grygum also searched for additional Kalan-related evidence (the gift wrapping paper thread)
+### Issue 5: The recap does not note that Gyrgum also searched for additional Kalan-related evidence (the gift wrapping paper thread)
 
 **Location:** Scene Summary; Verbatim Moments (GM setup quote)
-**Issue:** The GM's verbatim setup quote explicitly states the purpose of returning to Janussi's chambers was partly to look for "further evidence related to Kalan that you may have not found" — specifically the wrapping paper context. The recap summarises the scene as finding only the note and concludes with Grygum's motive inference. It does not confirm whether the additional wrapping-paper evidence was found or not found in this specific scene. Per campaign_state §9, the *mending* of the wrapping paper is a separate, confirmed completed action. If the recap is meant to cover only the upper-floor note discovery, this is not an error — but the scene's framing is **ambiguous** about whether the wrapping paper was also located here or elsewhere.
-**Evidence:** campaign_state §9: "Grygum *mends* the wrapping paper (premeditation)." GM quote in recap: "the paper that wrapped the gift was introduced to these chambers, which you didn't pick up, and there might be some further evidence."
+**Issue:** The GM's verbatim setup quote explicitly states the purpose of returning to Janussi's chambers was partly to look for "further evidence related to Kalan that you may have not found" — specifically the wrapping paper context. The recap summarises the scene as finding only the note and concludes with Gyrgum's motive inference. It does not confirm whether the additional wrapping-paper evidence was found or not found in this specific scene. Per campaign_state §9, the *mending* of the wrapping paper is a separate, confirmed completed action. If the recap is meant to cover only the upper-floor note discovery, this is not an error — but the scene's framing is **ambiguous** about whether the wrapping paper was also located here or elsewhere.
+**Evidence:** campaign_state §9: "Gyrgum *mends* the wrapping paper (premeditation)." GM quote in recap: "the paper that wrapped the gift was introduced to these chambers, which you didn't pick up, and there might be some further evidence."
 **Suggested fix:** Add a clarifying note: "Note: the wrapping paper evidence and the *mending* spell that confirmed premeditation occurred as a separate action (confirmed in campaign record); this scene covers only the third-floor note discovery."
 
 ---

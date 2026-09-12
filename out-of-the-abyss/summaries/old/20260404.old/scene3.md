@@ -3,7 +3,7 @@
 
 ---
 
-## Grygum — Chaos in the Fungal Cavern
+## Gyrgum — Chaos in the Fungal Cavern
 
 The insect plague hit like a wave breaking through a cracked hull — one moment the cavern was loud with shouting and the clatter of steel, and the next it was *screaming*. Not from us. From everything between us and Ilvara.
 

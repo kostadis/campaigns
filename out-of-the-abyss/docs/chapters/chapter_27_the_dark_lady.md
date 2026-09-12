@@ -35,7 +35,7 @@ We soon arrive at the cave with the Myconids, who seem to be dancing as if at a 
 My allies seem confused, and I realized that not everybody is aware of The Wandering Veil. So I explain that this eclectic troupe of bards and mystics has roamed the realms for decades, their music a swirling tapestry of haunting ballads, raucous tavern shanties, and spellbinding improvisations that seem to bend the very fabric of reality. 
 
 
-Grygum looks at the Myconids and looks at me, and is still confused. So I explain “The Veil’s performances are never the same twice; each show is a living ritual, a communal experience where the lines between audience and artist blur, and even the most hardened adventurer finds themselves dancing beneath a sky painted with arcane light.” 
+Gyrgum looks at the Myconids and looks at me, and is still confused. So I explain “The Veil’s performances are never the same twice; each show is a living ritual, a communal experience where the lines between audience and artist blur, and even the most hardened adventurer finds themselves dancing beneath a sky painted with arcane light.” 
 
 
 As we stand there, Sarith suddenly starts walking towards the Myconids as if compelled. 
@@ -80,7 +80,7 @@ I gesture with a thick, stubby appendage towards the dancing myconids, then poin
 "It's Voosbur. He released strange spores... and everyone changed. They started... this.".
 
 
-### Grygum 
+### Gyrgum 
 
 
 The creature looks uncomfortable and very worried. 
@@ -183,13 +183,13 @@ The creature’s hand is outstretched, and I shrug. I have seen the ecstatic dru
 But Thorin, who has a “fuck-it-all” attitude, takes the creature's hand. 
 
 
-Grygum mutters, “This reminds me of that time. Well, I’ll be going around to make sure it isn’t a bad trip.” And he too is holding onto Voosbur’s hand. 
+Gyrgum mutters, “This reminds me of that time. Well, I’ll be going around to make sure it isn’t a bad trip.” And he too is holding onto Voosbur’s hand. 
 
 
 I step back. 
 
 
-And then both Grygum and Thorin stop moving. 
+And then both Gyrgum and Thorin stop moving. 
 
 
 Voosbur assures that all will be well. 
@@ -255,10 +255,10 @@ The ground beneath my feet is uneven, tangled with root-like growths that seem t
 
 Every step in here feels like walking through a living maze, and these vines seem almost sentient, watching, waiting for a misstep—too much life in a tunnel for my liking. Give me solid stone any day over this… this thing. 
 
-I turn to Grygum and urge caution and quiet. And for a time, it works, and we go through the vine forest. 
+I turn to Gyrgum and urge caution and quiet. And for a time, it works, and we go through the vine forest. 
 
 
-Some thirty feet from the exit of this place, Grygum is making too much noise. The vines start to move to close the path forward. If we don’t make it to the exit, we will be trapped in this nightmare. 
+Some thirty feet from the exit of this place, Gyrgum is making too much noise. The vines start to move to close the path forward. If we don’t make it to the exit, we will be trapped in this nightmare. 
 
 
 We dash, vines try to lash us and miss. We arrive at the edge of this cave and can see behind us the once clear path covered in vines that are moving, pulsing, and crunching. 
@@ -315,7 +315,7 @@ And then she speaks to me with a soft, melodic tone.
 She then looks at me with her eyes, “Do you fear the rot... or do you understand its song?”
 
 
-I think about this for a moment. Grygum reminds me that every deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power. 
+I think about this for a moment. Gyrgum reminds me that every deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power. 
 
 
 The temptation is there, but I don’t know what will happen and it’s too dangerous. 
@@ -331,7 +331,7 @@ I can feel that mindless infinite eternity, and then just as much as I feel it, 
 
 
 ### Daz
-Grygum and Thorin wake up. And they don’t appear to be covered in some kind of rotting mycelium, so that’s good. 
+Gyrgum and Thorin wake up. And they don’t appear to be covered in some kind of rotting mycelium, so that’s good. 
 
 
 Voosbur sighs, “I guess you guys didn’t want to join us. You still can if you want. But hurry.” 
@@ -340,4 +340,4 @@ Voosbur sighs, “I guess you guys didn’t want to join us. You still can if yo
 Spores fly out of him, they glow, and then the dancers walk towards the moss on the edge of the cavern and disappear. 
 
 
-I hold onto Thorin and Grygum, worried that they will follow. But they don’t.
+I hold onto Thorin and Gyrgum, worried that they will follow. But they don’t.

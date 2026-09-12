@@ -10,7 +10,7 @@ Tadric handed over the second key and refused to stay behind.
 
 I considered arguing and decided against it. A man who hands you a key and then insists on climbing the stairs after it is not going to be talked out of the stairs. And people who invite themselves along usually know something about the destination they haven't said yet. I let him come and I kept an eye on him, two halves of the same decision.
 
-At the foot of the approach, Grygum stopped. "I was going to see if I wanted to prepare any… spells," he said, mostly to himself, and then, arriving somewhere: "Yeah, I will, I will cast… I'll cast Bless on… the three of us who are here."
+At the foot of the approach, Gyrgum stopped. "I was going to see if I wanted to prepare any… spells," he said, mostly to himself, and then, arriving somewhere: "Yeah, I will, I will cast… I'll cast Bless on… the three of us who are here."
 
 Warmth settled across my shoulders like a hand. Sound allocation: cheap, broad, works on everything from a crossbow to a curse.
 
@@ -36,23 +36,23 @@ The crossbow bolt in the Watcher was fletched wrong. Not from the area: not the 
 
 "Okay, so, knowing what we know, that probably means it's outside actors that are up to all this mischief," I said.
 
-Grygum was already circling the body with his own questions. "How old… It was fired from outside? Are we on a wall? Was it fired from below?"
+Gyrgum was already circling the body with his own questions. "How old… It was fired from outside? Are we on a wall? Was it fired from below?"
 
 He looked up, checking for open sky and finding vaulted stone instead. "Okay, are we indoors?"
 
-We were. The walkway ran inside the tower, and we had come up a flight of stairs to reach it. Grygum studied the ceiling, then the walls, arriving where I had already arrived.
+We were. The walkway ran inside the tower, and we had come up a flight of stairs to reach it. Gyrgum studied the ceiling, then the walls, arriving where I had already arrived.
 
 "It's quite unusual for someone to be killed with an arrow indoors," he said.
 
 It is. Indoor archery narrows the possibilities pleasantly. The bolt had entered him from the direction we were approaching, which meant whoever loosed it had climbed the same stairs we had just climbed, put a bolt in the Watcher, and kept advancing forward. We were not intercepting anyone. We were following them.
 
-"The arrow was shot from the direction that we're coming from?" Grygum asked. "Yep. Yes. Okay."
+"The arrow was shot from the direction that we're coming from?" Gyrgum asked. "Yep. Yes. Okay."
 
 He crouched beside the body. "Got it. So, I'm not a medical expert or anything, but… oh, well, actually, I am. I have plus 5 medicine." He touched the Watcher's jaw, then his hands, and made his assessment out loud, the whole way through, because he does. "How long ago do I think he was shot?" A pause. Not very long. Within the last half hour.
 
 Half an hour. I added it to the running tally and did not enjoy the total: outside actors, foreign fletching, a route identical to ours, a lead of thirty minutes at most. A gap you could close, or a trap you could walk into, depending on who wrote the report afterward.
 
-"Okay, so let's look out for somebody with a bow," Grygum said. "Cautiously, yeah."
+"Okay, so let's look out for somebody with a bow," Gyrgum said. "Cautiously, yeah."
 
 We went on, slower now, spread out, prepared for anything, which is the polite way of saying prepared for nothing in particular. The stairs kept going up.
 

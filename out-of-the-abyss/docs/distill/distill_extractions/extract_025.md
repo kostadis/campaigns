@@ -1,6 +1,6 @@
 ## NPCs
 
-**Grygum**
+**Gyrgum**
 - Current location: Derro cave complex near Gracklstugh
 - Current state: Alive, wounded but healed
 - Recent actions: Healed himself and Thorin's dwarf companion using divine magic; attempted to intimidate Skiit by posing as a Derro overseer; pushed Skiit into the pit; identified the pit trap; shouted "I worship Bahamut!" at a Derro patrol, triggering combat; declared "This is how the Bahamut walks!" after battle
@@ -17,7 +17,7 @@
 **Thorin**
 - Current location: Derro cave complex
 - Current state: Alive, wounded but healed
-- Recent actions: Directed group to go east at a fork; decided not to fight the two muttering Derro in the cauldron chamber; struck a Derro with his longsword, wounding it; killed the Derro attacking Grygum with his longsword
+- Recent actions: Directed group to go east at a fork; decided not to fight the two muttering Derro in the cauldron chamber; struck a Derro with his longsword, wounding it; killed the Derro attacking Gyrgum with his longsword
 - Faction: Ember Vanguard; dwarf
 - Notes: Wears heavy armor; wields a longsword
 
@@ -31,7 +31,7 @@
 **Skiit**
 - Current location: Dead; body fell into the pit
 - Current state: Deceased — killed by Daz's Toll the Dead after surviving being pushed into the pit and Maximilian's Earthen Grasp
-- Recent actions: Was tossing body parts into the pit; pleaded with Grygum; accused the party of working for the Duergar or Mindflayers; attacked or threatened Spiderbait; regained consciousness after falling into pit; attempted to escape the Earthen Grasp; died when Toll the Dead stopped his heart
+- Recent actions: Was tossing body parts into the pit; pleaded with Gyrgum; accused the party of working for the Duergar or Mindflayers; attacked or threatened Spiderbait; regained consciousness after falling into pit; attempted to escape the Earthen Grasp; died when Toll the Dead stopped his heart
 - Faction: Cult of Demogorgon; Derro
 - Notes: Wore an amulet of Demogorgon; believed Pliinki promised him a better job; referenced "the great project of Ulnara of the Council of Savants"; Ulnara stated she would turn his corpse into a zombie to serve Demogorgon
 
@@ -60,7 +60,7 @@
 - Current state: Alive; ignored by the party
 - Recent actions: One muttered about "the mastery" and "the prince is hungry"; the other muttered about pulling something from the dark lake — a scale like polished obsidian that shimmered
 - Faction: Derro; implied Demogorgon cultists
-- Notes: Party chose not to engage them; Grygum noted they are mad
+- Notes: Party chose not to engage them; Gyrgum noted they are mad
 
 **Jim Jar**
 - Current location: Outside the cavern with the ritual circle
@@ -70,7 +70,7 @@
 **Spiderbait**
 - Current location: Outside the cavern with the ritual circle (previously present near Skiit's pit)
 - Current state: Alive; waiting outside
-- Notes: Skiit asked to kill Spiderbait; Grygum deflected the request
+- Notes: Skiit asked to kill Spiderbait; Gyrgum deflected the request
 
 **Sarith**
 - Current location: Outside the cavern with the ritual circle
@@ -95,7 +95,7 @@
 **Stroud**
 - Current location: Not present in this chunk; referenced only
 - Current state: Unknown
-- Notes: Referenced by Grygum as someone he found exciting, in contrast to Bahamut whom he finds boring
+- Notes: Referenced by Gyrgum as someone he found exciting, in contrast to Bahamut whom he finds boring
 
 **Ogre Zombie**
 - Current location: The pit chamber
@@ -110,7 +110,7 @@
 - Current goals: Navigating and surviving the Derro cave complex; gathering evidence of Demogorgon's influence; unclear who they ultimately serve
 - Recent actions: Passed through multiple cavern chambers; killed a Derro patrol; intimidated Ulnara into cooperation; killed Skiit; located Narrak's ritual site
 - Relationships: Have struck multiple deals with various parties (Daz notes uncertainty about who they work for); Ulnara believes they work for the Derro/Demogorgon hierarchy; Errde Blackstaff is an external contact they have obligations to
-- Key members: Grygum, Daz, Thorin, Zalthir; companions include Jim Jar, Spiderbait, Sarith, Eldeth, Stool
+- Key members: Gyrgum, Daz, Thorin, Zalthir; companions include Jim Jar, Spiderbait, Sarith, Eldeth, Stool
 
 **Cult of Demogorgon (Derro)**
 - Current goals: Elevation of the Derro race; triumph of Demogorgon; destruction of the Duergar; conducting rituals and experiments in the cave complex; zombie creation/body parts project
@@ -128,23 +128,23 @@
 
 ## World Events
 
-- The party fought a battle before this session chunk begins; Grygum and at least one companion (Thorin's dwarf friend) were wounded and then healed with divine magic.
+- The party fought a battle before this session chunk begins; Gyrgum and at least one companion (Thorin's dwarf friend) were wounded and then healed with divine magic.
 - Zalthir scouted ahead and detected Skiit at the pit ledge.
-- Grygum attempted to deceive Skiit by posing as an overseer checking on the great project's schedule; Skiit responded by referencing Ulnara's project and Pliinki's promise.
+- Gyrgum attempted to deceive Skiit by posing as an overseer checking on the great project's schedule; Skiit responded by referencing Ulnara's project and Pliinki's promise.
 - Skiit accused the party of working for the Duergar or Mindflayers and refused to be intimidated.
-- Grygum pushed Skiit off the ledge into the zombie pit.
+- Gyrgum pushed Skiit off the ledge into the zombie pit.
 - Ulnara emerged from a tunnel in the pit wall with an Ogre Zombie and challenged the party.
-- Grygum named the party the Ember Guard; Daz invoked Bahamut as their affiliation.
+- Gyrgum named the party the Ember Guard; Daz invoked Bahamut as their affiliation.
 - Skiit regained consciousness in the pit; Daz cast Maximilian's Earthen Grasp to crush him.
 - Skiit escaped the grasp; Daz cast Toll the Dead, stopping Skiit's heart and killing him.
 - Ulnara, intimidated by Daz's display of power and Drow identity, became sycophantic and cooperative; she promised to report favorably to Pliinki about the Ember Vanguard and stated she would zombie-fy Skiit's corpse.
 - The party moved on through the cave tunnels, rested at a door, and continued east.
 - The party encountered a cauldron chamber with two mad, muttering Derro; the party chose not to fight them and moved on.
 - A Derro patrol encountered the party; Daz directed the party to march as if they owned the place, and it initially worked.
-- Grygum announced "I worship Bahamut!" to the patrol, causing them to attack.
-- Combat ensued: Zalthir summoned darkness and critically struck a Derro; Daz's magic missiles killed one Derro; Thorin killed the Derro attacking Grygum with his longsword; all patrol Derro were killed.
+- Gyrgum announced "I worship Bahamut!" to the patrol, causing them to attack.
+- Combat ensued: Zalthir summoned darkness and critically struck a Derro; Daz's magic missiles killed one Derro; Thorin killed the Derro attacking Gyrgum with his longsword; all patrol Derro were killed.
 - The party reached a new cavern entrance with a smell of brimstone and chemicals; the companions (Jim Jar, Spiderbait, Sarith, Eldeth, Stool) were told to wait outside.
-- Grygum spotted and warned Daz about a poorly disguised pit trap inside the cavern.
+- Gyrgum spotted and warned Daz about a poorly disguised pit trap inside the cavern.
 - The party observed Derro and Death Dogs inside the cavern without being detected.
 - The party discovered a ritual platform with a glowing ritual circle and Trillimac books on Demogorgon worship.
 - Daz identified the books and papers as evidence Errde Blackstaff wants; he is considering whether to give them to her.
@@ -156,7 +156,7 @@
 
 **The Zombie Pit**
 - What it is: A large pit filled with shambling zombie shapes, lit by faerzress that flows like fog; zombie creation/body-parts disposal site
-- What happened there: Skiit was tossing body parts into the pit when encountered; Grygum pushed Skiit in; Ulnara emerged from a tunnel in the southeast wall with an Ogre Zombie; Skiit was killed by Toll the Dead in the pit; Ulnara promised to turn Skiit's body into a zombie
+- What happened there: Skiit was tossing body parts into the pit when encountered; Gyrgum pushed Skiit in; Ulnara emerged from a tunnel in the southeast wall with an Ogre Zombie; Skiit was killed by Toll the Dead in the pit; Ulnara promised to turn Skiit's body into a zombie
 - Current state: Active; under Ulnara's operation; Skiit's corpse is present, to be reanimated
 
 **Cauldron Chamber**
@@ -171,7 +171,7 @@
 
 **Gracklstugh**
 - What it is: A city referenced as the broader setting
-- Notes: Referenced as "this churning city of Gracklstugh" by Grygum; the cave complex appears to be near or beneath it
+- Notes: Referenced as "this churning city of Gracklstugh" by Gyrgum; the cave complex appears to be near or beneath it
 
 ---
 
@@ -186,5 +186,5 @@
 - **Death Dogs in Narrak's cavern**: Death Dogs are present alongside Derro in the ritual cavern. Their role in the ritual or cult operations has not been explained.
 - **Skiit's body**: Ulnara stated she would turn Skiit's corpse into a zombie. This has not yet occurred on screen.
 - **Trillimac books**: Three titles identified — "The Spiraling Descent: A Treatise on Duality and Madness," "The Prince's Gift: On the Creation of Favored Spawn," and "Rituals of the Two-Headed Beast." The contents and their implications for the cult's capabilities (especially "Favored Spawn" creation) are unresolved.
-- **Who the Ember Vanguard truly works for**: Daz himself notes uncertainty about all the deals they have struck. Grygum's theological answer was deliberately evasive. This question remains open.
-- **Stroud**: Referenced by Grygum as someone exciting, contrasted with Bahamut. Identity and relationship to Grygum are unexplained.
+- **Who the Ember Vanguard truly works for**: Daz himself notes uncertainty about all the deals they have struck. Gyrgum's theological answer was deliberately evasive. This question remains open.
+- **Stroud**: Referenced by Gyrgum as someone exciting, contrasted with Bahamut. Identity and relationship to Gyrgum are unexplained.

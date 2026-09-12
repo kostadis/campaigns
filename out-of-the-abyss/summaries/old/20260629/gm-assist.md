@@ -15,9 +15,9 @@ A brief detour to Alkrist's room yielded little of obvious consequence. The safe
 
 The evening in Deneir's Sanctum passed quietly at first. Food was brought in, which the party eyed with deep suspicion, allowing Fembris Lancer to eat first before touching anything themselves. Dawnbringer was finally called upon to cure Daral of his lingering affliction, and the man was so overcome with gratitude that he launched into an enthusiastic monologue about his plans to make sentient magical swords an area of serious academic study — going on at considerable length about the semiotics of the subject while Dawnbringer absorbed every word with evident delight. Daral then attempted to leave the room, only to find it was still locked.
 
-The peace shattered without warning. Three helmed horrors — towering animated suits of plate armor with cold, glowing eyes — smashed through the windows and burst through the door of the sanctum, sending the room into chaos. The constructs moved with terrifying purpose, ignoring most of the party and converging almost entirely on Daz. It was only mid-battle, as the horrors relentlessly bypassed every other target to reach him, that Daz realized with a chill what they were after: the mysterious key he carried, the one that had appeared completely inert to magical detection. He passed it to Grygum and threw himself clear as his companions surged into the fight.
+The peace shattered without warning. Three helmed horrors — towering animated suits of plate armor with cold, glowing eyes — smashed through the windows and burst through the door of the sanctum, sending the room into chaos. The constructs moved with terrifying purpose, ignoring most of the party and converging almost entirely on Daz. It was only mid-battle, as the horrors relentlessly bypassed every other target to reach him, that Daz realized with a chill what they were after: the mysterious key he carried, the one that had appeared completely inert to magical detection. He passed it to Gyrgum and threw himself clear as his companions surged into the fight.
 
-The battle was fierce and disorienting. Zalthir drove his fists into the animated armor while Glabbagool, fused to his arm, unleashed torrents of corrosive acid that began dissolving the constructs' plating. Grygum radiated a burst of holy light that seared two horrors within reach, while Daz hurled volleys of magical fire and force into the fray. Thorin struck with Dawnbringer, imposing disadvantage on one horror's next attack with a sapping blow before cutting it down entirely. One by one, the constructs collapsed into heaps of rust and broken metal. When the last one fell, the party stood in the wreckage of the sanctum, breathing hard and deeply unsettled — because the horrors had been mindless, incapable of thought or speech, and yet somehow they had known exactly who was holding a key that no spell in Candlekeep should have been able to detect.
+The battle was fierce and disorienting. Zalthir drove his fists into the animated armor while Glabbagool, fused to his arm, unleashed torrents of corrosive acid that began dissolving the constructs' plating. Gyrgum radiated a burst of holy light that seared two horrors within reach, while Daz hurled volleys of magical fire and force into the fray. Thorin struck with Dawnbringer, imposing disadvantage on one horror's next attack with a sapping blow before cutting it down entirely. One by one, the constructs collapsed into heaps of rust and broken metal. When the last one fell, the party stood in the wreckage of the sanctum, breathing hard and deeply unsettled — because the horrors had been mindless, incapable of thought or speech, and yet somehow they had known exactly who was holding a key that no spell in Candlekeep should have been able to detect.
 
 ## Memorable Moments
 > "I mean, I was ready to murder somebody at the end of every performance season when I was at Google for what it's worth."
@@ -99,8 +99,8 @@ The battle was fierce and disorienting. Zalthir drove his fists into the animate
 - A third horror focuses its attacks on Daz, landing a heavy blow that leaves the wizard severely wounded with only three hit points remaining.
 - Zalthir strikes back at his attacker, and Glabbagool, fused to his arm, unleashes a corrosive acid that begins to dissolve the horror's plate armor, reducing its defenses.
 - Thorin strikes a horror with Dawnbringer, slowing the construct's movements with a sapping blow.
-- Grygum moves into position and releases a burst of holy radiance, searing two of the constructs simultaneously.
-- Daz, realizing the constructs seem to be tracking the mysterious key he carries, passes it to Grygum.
+- Gyrgum moves into position and releases a burst of holy radiance, searing two of the constructs simultaneously.
+- Daz, realizing the constructs seem to be tracking the mysterious key he carries, passes it to Gyrgum.
 - Zalthir grapples one of the remaining horrors while Glabbagool delivers another corrosive embrace.
 - Thorin delivers the killing blow on one horror, and then strikes down the last, causing them both to collapse into piles of rust and armor.
 - The party is left wondering how the constructs knew who held the inert, magically undetectable key.
@@ -154,7 +154,7 @@ A potent restorative draught discovered among Alkrist's belongings in his privat
 A gold coin with a literal red herring engraved on it, found among the gold in Alkrist's safe.
 
 ### The Inert Key
-A mysterious key that appears non-magical under detection spells but was the primary target of the helmed horror assassins. Originally held by Daz, it was passed to Grygum mid-combat when the party realized the constructs seemed to be tracking it. As of session end this is an open thread: the party noted the key reads inert to detection but has not interpreted why, has not confirmed it is genuine, and it remains unresolved whether the horrors were tracking the key itself or Daz personally.
+A mysterious key that appears non-magical under detection spells but was the primary target of the helmed horror assassins. Originally held by Daz, it was passed to Gyrgum mid-combat when the party realized the constructs seemed to be tracking it. As of session end this is an open thread: the party noted the key reads inert to detection but has not interpreted why, has not confirmed it is genuine, and it remains unresolved whether the horrors were tracking the key itself or Daz personally.
 
 ## Spells
 ### Zone of Truth
@@ -167,7 +167,7 @@ Cast in an attempt to find a specific sapphire on Bookwyrm's person during the c
 Cast by Daz to fire three rays of magical flame at a helmed horror, dealing significant fire damage to the construct.
 
 ### Word of Radiance
-Cast by Grygum to emit a burst of holy light, damaging two helmed horrors simultaneously that were standing near him.
+Cast by Gyrgum to emit a burst of holy light, damaging two helmed horrors simultaneously that were standing near him.
 
 ### Magic Missile
 Cast by Daz to launch unerring darts of magical energy at a helmed horror, dealing reliable damage despite the constructs' general magic resistance.

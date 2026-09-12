@@ -5,7 +5,7 @@
 - Leveraged throne room lair actions, including dropping green slime from the ceiling and unleashing slime wave attacks that forced dexterity saves and dealt acid damage.
 - Swapped positions with Glabbagool during the battle (mechanism unclear), briefly causing party confusion about target identity.
 - Was grappled by Zalthir and forcibly dragged out of the throne room, neutralizing his lair actions.
-- Unleashed a second slime wave during the coordinated assault phase, affecting Thorin, Daz, and Grygum.
+- Unleashed a second slime wave during the coordinated assault phase, affecting Thorin, Daz, and Gyrgum.
 - Dissolved and died under Zalthir's final assault, delivering a final telepathic declaration: *"Behold the true feast, the soul's final blend!"*
 
 **Prince Livid**
@@ -18,7 +18,7 @@
 **Princess Ebonmire**
 - Threw a blob at Thorin during initial combat exchanges (missed).
 - Charged at Thorin during the final phase.
-- Was killed by the party's combined efforts (Grygum's Inflict Wounds, Zalthir's grapple and strikes, Thorin's killing blow).
+- Was killed by the party's combined efforts (Gyrgum's Inflict Wounds, Zalthir's grapple and strikes, Thorin's killing blow).
 - Found to have a spellbook in her stomach, recovered post-battle.
 
 **Glabbagool**

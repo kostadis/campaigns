@@ -45,29 +45,29 @@
 ## Daz's Drow Lineage Read at the Hearth
 
 - **Location**: Summary / Scenes (Interrogating Daral) — "Daz's drow instincts"
-- **Issue**: Plausible, but verify Daz was actually present. The scene header reads "Daz and Thorin confront Daral Yashenti," yet the Summary earlier says "Grygum made his way to the Flora Theca... Meanwhile, Fembris was sent to summon Daral." The party split is not cleanly tracked — confirm Daz and Thorin (not other members) handled this interrogation.
+- **Issue**: Plausible, but verify Daz was actually present. The scene header reads "Daz and Thorin confront Daral Yashenti," yet the Summary earlier says "Gyrgum made his way to the Flora Theca... Meanwhile, Fembris was sent to summon Daral." The party split is not cleanly tracked — confirm Daz and Thorin (not other members) handled this interrogation.
 - **Evidence**: Scene header: "Daz and Thorin confront Daral Yashenti." Summary text never names who went to the Hearth.
 - **Suggested fix**: Confirm Daz and Thorin are the interrogators and state it explicitly in the Summary.
 
-## Detect Magic Cast by Grygum at the Hearth While Absent
+## Detect Magic Cast by Gyrgum at the Hearth While Absent
 
 - **Location**: Spells (Detect Magic) / Scenes (Daral) / Items (Daral's Book)
-- **Issue**: The recap states Grygum cast a scroll of Detect Magic on the book "even though Grygum was not physically present at the Hearth at the time." Grygum was established as being in the Flora Theca. A scroll of Detect Magic requires the caster to be present at the target. This is a flagged contradiction in the recap itself and needs resolution.
-- **Evidence**: Summary: "Grygum made his way to the Flora Theca." Spells (Detect Magic): "even though Grygum was not physically present at the Hearth at the time." Daz (the Hearth interrogator) is the Evoker/wizard, not Grygum.
-- **Suggested fix**: Determine who actually cast Detect Magic at the Hearth (likely Daz, or Grygum joined later). Correct the attribution.
+- **Issue**: The recap states Gyrgum cast a scroll of Detect Magic on the book "even though Gyrgum was not physically present at the Hearth at the time." Gyrgum was established as being in the Flora Theca. A scroll of Detect Magic requires the caster to be present at the target. This is a flagged contradiction in the recap itself and needs resolution.
+- **Evidence**: Summary: "Gyrgum made his way to the Flora Theca." Spells (Detect Magic): "even though Gyrgum was not physically present at the Hearth at the time." Daz (the Hearth interrogator) is the Evoker/wizard, not Gyrgum.
+- **Suggested fix**: Determine who actually cast Detect Magic at the Hearth (likely Daz, or Gyrgum joined later). Correct the attribution.
 
 ## Lesser Restoration / Cure Poison Capability
 
-- **Location**: Spells (Lesser Restoration) — "Both Grygum and Dawnbringer are noted as being capable."
-- **Issue**: Confirm casters present. Dawnbringer (Thorin's sunblade) can cast Lesser Restoration per the sheet. Grygum (Life cleric) can also. But note that Lesser Restoration does NOT cure poison in 5e — "cure poison" would require Protection from Poison or a similar effect. The recap conflates Lesser Restoration with a cure-poison effect.
-- **Evidence**: party.md: Dawnbringer "can cast Lesser Restoration"; Grygum is Cleric 8 (Life Domain). Lesser Restoration ends one disease or one condition (blinded/deafened/paralyzed/poisoned), but does not neutralize ingested poison damage.
+- **Location**: Spells (Lesser Restoration) — "Both Gyrgum and Dawnbringer are noted as being capable."
+- **Issue**: Confirm casters present. Dawnbringer (Thorin's sunblade) can cast Lesser Restoration per the sheet. Gyrgum (Life cleric) can also. But note that Lesser Restoration does NOT cure poison in 5e — "cure poison" would require Protection from Poison or a similar effect. The recap conflates Lesser Restoration with a cure-poison effect.
+- **Evidence**: party.md: Dawnbringer "can cast Lesser Restoration"; Gyrgum is Cleric 8 (Life Domain). Lesser Restoration ends one disease or one condition (blinded/deafened/paralyzed/poisoned), but does not neutralize ingested poison damage.
 - **Suggested fix**: Clarify the intended mechanical remedy (Protection from Poison / Lesser Restoration ending the poisoned condition). Minor rules note.
 
-## Grygum's Spellcasting Class Note
+## Gyrgum's Spellcasting Class Note
 
-- **Location**: Summary / Items (Sapphires) — Grygum "researched the stolen sapphires... Drawmij's Instant Summons."
-- **Issue**: Drawmij's Instant Summons is a wizard spell. Grygum is a cleric. The research (identification) is fine, but ensure no implication that Grygum could cast it. The recap stays at identification level — acceptable, but worth noting the only arcane caster (Daz) is the relevant party member.
-- **Evidence**: party.md: Grygum is Cleric 8; Daz is Wizard 8 (Evoker).
+- **Location**: Summary / Items (Sapphires) — Gyrgum "researched the stolen sapphires... Drawmij's Instant Summons."
+- **Issue**: Drawmij's Instant Summons is a wizard spell. Gyrgum is a cleric. The research (identification) is fine, but ensure no implication that Gyrgum could cast it. The recap stays at identification level — acceptable, but worth noting the only arcane caster (Daz) is the relevant party member.
+- **Evidence**: party.md: Gyrgum is Cleric 8; Daz is Wizard 8 (Evoker).
 - **Suggested fix**: No change required, but if casting is ever implied, route it through Daz.
 
 ## Glabbagool's Creature Type
@@ -100,4 +100,4 @@
 
 ---
 
-**Overall**: No major lore contradictions against world_state, but several name-spelling inconsistencies (Sylvira/Sylvyrra, Teles/Telos, Bookworm/Bookwyrm/Queenie), one likely wrong-NPC error ("Philemon" applied to Janussi), and two mechanical/attribution problems (Detect Magic cast by an absent Grygum; Lesser Restoration conflated with cure-poison). The Glabbagool sidekick transformation should be confirmed against the still-open "Glabbagool's question" quest thread.
+**Overall**: No major lore contradictions against world_state, but several name-spelling inconsistencies (Sylvira/Sylvyrra, Teles/Telos, Bookworm/Bookwyrm/Queenie), one likely wrong-NPC error ("Philemon" applied to Janussi), and two mechanical/attribution problems (Detect Magic cast by an absent Gyrgum; Lesser Restoration conflated with cure-poison). The Glabbagool sidekick transformation should be confirmed against the still-open "Glabbagool's question" quest thread.

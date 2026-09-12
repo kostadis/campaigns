@@ -10,20 +10,20 @@
 
 *Thorin making absolutely sure Eldeth understood he intended to hold her to her promise*
 
-**Grygum rolls a 9 on his Insight check and confidently concludes that the mysterious entity stalking the party through the forest is a deer.**
+**Gyrgum rolls a 9 on his Insight check and confidently concludes that the mysterious entity stalking the party through the forest is a deer.**
 
-*Especially funny because, as a half-orc from the surface world, Grygum genuinely does know what a deer looks like — he just rolled that badly*
+*Especially funny because, as a half-orc from the surface world, Gyrgum genuinely does know what a deer looks like — he just rolled that badly*
 
 > "Do not read the word assassin. That's just the profile of the character."
 > — DM (Kostadis)
 
 *The DM hastily reassuring the players after accidentally displaying the drow tracker's character sheet label on screen*
 
-**Grygum casually offers the drow spy a job, leaving her visibly confused and uncertain whether she is actually going to survive the encounter.**
+**Gyrgum casually offers the drow spy a job, leaving her visibly confused and uncertain whether she is actually going to survive the encounter.**
 
 *The most disarming interrogation tactic in the party's repertoire: genuine friendliness toward someone who expected to die*
 
-**Grygum hands the drow spy the prayer beads of Bahamut without a word of explicit threat and tells her to put them on, causing her to visibly panic at the religious implications.**
+**Gyrgum hands the drow spy the prayer beads of Bahamut without a word of explicit threat and tells her to put them on, causing her to visibly panic at the religious implications.**
 
 *A completely silent intimidation that required no roll — just the presentation of a holy item to a drow cultist who had no idea what the rituals of Bahamut actually entailed, and feared the worst*
 
@@ -59,9 +59,9 @@
 
 *Delivered with complete sincerity, to a scholar whose entire professional life is books — the table's response was immediate*
 
-**The party briefly debates temporarily killing Daz to draw out his anonymous protector, with Grygum noting that Revivify makes it "just a death light" and Thorin endorsing the plan — leaving Daz the only person in the group visibly uncomfortable with the proposal.**
+**The party briefly debates temporarily killing Daz to draw out his anonymous protector, with Gyrgum noting that Revivify makes it "just a death light" and Thorin endorsing the plan — leaving Daz the only person in the group visibly uncomfortable with the proposal.**
 
-*Grygum's clinical framing of death-as-minor-inconvenience landed better than it had any right to; Daz remained unconvinced*
+*Gyrgum's clinical framing of death-as-minor-inconvenience landed better than it had any right to; Daz remained unconvinced*
 
 > "I'm all up for couples counseling with Dawnbringer."
 > — Thorin
@@ -94,6 +94,6 @@ The following issues from the consistency report could not be silently resolved 
 
 **Issue 8 — Ilvara's prayer book and Jimjar (Medium priority):** The recap describes Ilvara's prayer book as "particularly relevant to questions about Jimjar." The party document associates this book with Zuggtmoy's corruption timeline, not with Jimjar, whose confirmed nature is celestial/divine. No in-document basis for the connection is established. The GM should confirm whether an in-session link between Ilvara's notes and Jimjar was stated, or whether the book's relevance should be corrected to Zuggtmoy research.
 
-**Issue 9 — Khell-Vire assignment ambiguity (Medium priority):** It is unclear whether Khell-Vire is the scholar assigned to help Zalthir research Jimjar (and who also wants to study Grygum), or a separate scholar whose interest in Grygum was noted independently. The distinction matters for next session's scene assignments and should be confirmed.
+**Issue 9 — Khell-Vire assignment ambiguity (Medium priority):** It is unclear whether Khell-Vire is the scholar assigned to help Zalthir research Jimjar (and who also wants to study Gyrgum), or a separate scholar whose interest in Gyrgum was noted independently. The distinction matters for next session's scene assignments and should be confirmed.
 
 **Issue 10 — Sister Yvenne (Medium priority):** Sister Yvenne appears in the NPCs section but is not mentioned anywhere in the Summary, Memorable Moments, or Scenes sections. No scene depicts the First Reader naming her. The GM should either confirm what questions she was assigned and add a note to the Entry into Candlekeep scene, or remove her from the NPCs section if she was not in fact introduced this session.

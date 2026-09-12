@@ -44,7 +44,7 @@ The rest of the prisoners, led by Buppido, take advantage of the distraction, ru
 Prince Derendil declares, “I am already armed in this hideous form, and it would bring me great joy to kill this drow.” He then charges at Imbros. 
 
 
-Grygum decides that an armed cleric is better than a disarmed cleric and follows his fellow prisoners to the armory.
+Gyrgum decides that an armed cleric is better than a disarmed cleric and follows his fellow prisoners to the armory.
 
 
 Imbros realizes that this revolt has become much more dangerous. He strikes Thorin, who falls, bleeding and unconscious. 
@@ -65,7 +65,7 @@ Then, from the opening in the roof where the armory is, Eldeth, Buppido, Shuusha
 “You should have taken that bet,” everyone hears Jimjar say. The Deep Gnome has mastered Spool’s telepathy and forces everyone to listen to him. 
 
 
-Grygum descends from the armory and walks towards Thorin. Grygum stands over the dwarf, and then, with a moment’s incantation and a gentle touch, bloodless flesh becomes rosy, gashes close, and broken bones knit instantly with a rush of magical healing. Flush with renewed vigor, the formerly injured Thorin is ready to face the world once more.
+Gyrgum descends from the armory and walks towards Thorin. Gyrgum stands over the dwarf, and then, with a moment’s incantation and a gentle touch, bloodless flesh becomes rosy, gashes close, and broken bones knit instantly with a rush of magical healing. Flush with renewed vigor, the formerly injured Thorin is ready to face the world once more.
 
 
 Daz has recovered from the disastrous opening gambit and remembers how magic missiles work. It’s not one dart, but three darts. 
@@ -92,7 +92,7 @@ The fellow escapees armed with hand crossbows fire at Imbros, who is struck thre
 Imbros is still standing. 
 
 
-Grygum points his finger at Imbros, and the dolorous sound of a bell fills the room. Imbros, for a moment, feels the necrotic power consume him but rejects the spell’s powers. 
+Gyrgum points his finger at Imbros, and the dolorous sound of a bell fills the room. Imbros, for a moment, feels the necrotic power consume him but rejects the spell’s powers. 
 
 
 Daz strikes with three more magic missiles. Imbros looks battered and barely alive, but he is still snarling. 
@@ -104,13 +104,13 @@ And an injured Drow is still a deadly Drow. Prince Derendil’s journey ends wit
 Sarith suddenly goes mad. He is about to start screaming at the top of his lungs. For some reason, this death affected him deeply. 
 
 
-Grygum notices and reaches into Sarith’s mind to tell Sarith to focus on his spirituality and how much better things will be if he chooses to focus his rage on the divine rather than on the material. 
+Gyrgum notices and reaches into Sarith’s mind to tell Sarith to focus on his spirituality and how much better things will be if he chooses to focus his rage on the divine rather than on the material. 
 
 
 Sarith is confused and calmed. 
 
 
-Grygum smiles. The lessons of his cult have served him well.
+Gyrgum smiles. The lessons of his cult have served him well.
 
 
 And Sarith smiles, too, when his sword cuts Imbros down. 

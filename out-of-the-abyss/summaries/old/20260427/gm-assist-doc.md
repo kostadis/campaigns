@@ -10,7 +10,7 @@ I keep coming back to that first moment of it — the way it hit the stone aroun
 
 Dawnbringer, to her credit, said nothing. She'd been waiting longer than any of us.
 
-The others were finding their own ways into it. Grygum turned his face up like he was receiving a blessing, which I suppose he was. Daz squinted and pushed his spectacles up and looked like a man calculating the precise angle of the light source. Zalthir went still in the particular way he goes still when something has moved him and he doesn't want anyone to notice.
+The others were finding their own ways into it. Gyrgum turned his face up like he was receiving a blessing, which I suppose he was. Daz squinted and pushed his spectacles up and looked like a man calculating the precise angle of the light source. Zalthir went still in the particular way he goes still when something has moved him and he doesn't want anyone to notice.
 
 And Glabbagool — Glabbagool just looked up.
 
@@ -110,7 +110,7 @@ Spiderbait was having a complicated moment with the concept of goblins on the su
 
 "I don't think so," I said.
 
-Daz agreed, in his careful way. Grygum was more specific.
+Daz agreed, in his careful way. Gyrgum was more specific.
 
 "The state of goblin equality and inclusion is rough at the moment."
 
@@ -118,7 +118,7 @@ Spiderbait absorbed this. Recalibrated. Pivoted.
 
 "Well, you know, I'm just a small goblin, and you're four big, powerful people. Do you mind if I just sort of hang out with you guys? Maybe find a nice place? This Candlekeep place seems like the kind of place someone like me could find a job doing something innocuous."
 
-Grygum endorsed the plan. He endorses most plans that keep small things alive.
+Gyrgum endorsed the plan. He endorses most plans that keep small things alive.
 
 I looked back at the tunnel mouth — the last dark edge of where we'd been, the rock framing the light we'd come out into. Eldeth was already gathering herself, the set of her shoulders that meant moving, that meant west to Mithril Hall and the obligations that waited there.
 
@@ -155,9 +155,9 @@ What I know now, without having been taught it properly, is that the trees north
 
 Close. Uncomfortably close.
 
-Grygum rolled his dice with the confidence of a man who already knows the answer. I watched him from the corner of my eye. He came up satisfied. "You conclude," came the word, "that what is following you is a deer."
+Gyrgum rolled his dice with the confidence of a man who already knows the answer. I watched him from the corner of my eye. He came up satisfied. "You conclude," came the word, "that what is following you is a deer."
 
-I didn't say anything. Grygum nodded with serene certainty and indicated he could use a nap. Reasonable enough. If you're certain it's a deer, sleep makes sense.
+I didn't say anything. Gyrgum nodded with serene certainty and indicated he could use a nap. Reasonable enough. If you're certain it's a deer, sleep makes sense.
 
 Thorin's number was clean. Mine was solid. Daz, a step to my left, had come to the same place I had. The three of us looked at each other in the way that the Ember Vanguard has developed as a private language: no words, just a shared acknowledgment that the thing in the trees is not a deer.
 
@@ -171,7 +171,7 @@ A beat.
 
 "Oh, no. It's not a deer. It's not a deer."
 
-"Oh, dear," said Grygum, somewhere behind me, apparently now awake.
+"Oh, dear," said Gyrgum, somewhere behind me, apparently now awake.
 
 Twenty to forty feet, Thorin's read suggested. I adjusted my estimate of the gap. Closer to twenty. Whatever was in those trees had been moving with us, shifting position laterally to stay in the blind spots, using the terrain the way someone uses it when they know what they're doing. Not panicked. Not rushing. Patient. The kind of following that isn't trailing — it's pacing.
 
@@ -209,7 +209,7 @@ So did I.
 
 ---
 
-## Grygum — A Shadow in the Woods
+## Gyrgum — A Shadow in the Woods
 The bird call came just as I was settling in for the night.
 
 Not a real bird — that was the point. A cardinal's whistle, clean and bright, floating through tree cover that hadn't seen a cardinal in decades, maybe ever. Daz had been practicing. We all had, in the abstract, the way you talk about a plan more than you drill it. But hearing it land in the quiet of a forest evening, unmistakable against the rustle of leaves, I thought: *good. That actually worked.*
@@ -253,7 +253,7 @@ I took notes. It's what I do.
 ## Scene 04 — Interrogation of the Drow Spy
 *(narrated by Daz)*
 
-The stun wore off and she was already calculating. I could see it in the set of her shoulders — that particular Drow recalibration, the moment when violence becomes negotiation and the question shifts from *survive the next five seconds* to *survive the next five minutes.* She was small — Grygum's *Reduce* spell had seen to that — but she held herself with the trained dignity of someone who understood that posture was its own kind of armor.
+The stun wore off and she was already calculating. I could see it in the set of her shoulders — that particular Drow recalibration, the moment when violence becomes negotiation and the question shifts from *survive the next five seconds* to *survive the next five minutes.* She was small — Gyrgum's *Reduce* spell had seen to that — but she held herself with the trained dignity of someone who understood that posture was its own kind of armor.
 
 Zalthir was first, the way he usually is in these moments: unhurried, precise.
 
@@ -279,7 +279,7 @@ He tried again. She laughed in his face.
 
 I found I didn't feel superior about this. Thorin's instincts have saved us too many times for me to feel superior. What he lacks in Drow politics he makes up for in a kind of irreducible physical honesty that people cannot quite dismiss, even when they're laughing at him. She was laughing, but she was also still talking to us, which is the more important variable.
 
-Grygum, meanwhile, had been watching her the way he watches things — not calculating exactly, more like listening for something the rest of us weren't hearing. There is a quality to his attention I've never fully resolved. He looked at her and I think he saw the whole picture at once: the surface posting, the miserable exposure to the overbright, the desperate bravado of someone who'd drawn a terrible assignment and was trying to make it look like a choice.
+Gyrgum, meanwhile, had been watching her the way he watches things — not calculating exactly, more like listening for something the rest of us weren't hearing. There is a quality to his attention I've never fully resolved. He looked at her and I think he saw the whole picture at once: the surface posting, the miserable exposure to the overbright, the desperate bravado of someone who'd drawn a terrible assignment and was trying to make it look like a choice.
 
 "Hey," he said, with the casual tone of someone considering a minor administrative matter, "are you looking for a new job? We could use another helper."
 
@@ -287,7 +287,7 @@ Something shifted in her face. A tiny, involuntary fracture in the composure. *W
 
 It is remarkable what that realization does to someone. She had walked into this interrogation with the set expression of a soldier prepared to die with her intelligence intact, and now she looked — for just a moment — like a person who had not yet decided how much she wanted to live. The Menzoberranzan training is very thorough about creating a certain relationship to death: make it seem like a preference, not a threat. But she was young enough, or tired enough, or perhaps just unhappy enough with her assignment, that the offer of survival caught her genuinely off guard.
 
-Then Grygum held out the prayer beads.
+Then Gyrgum held out the prayer beads.
 
 He didn't say anything particularly ominous. He just handed them to her and told her to put them on. No threat in his voice. No explanation of what they did.
 
@@ -295,7 +295,7 @@ She looked at a half-orc cleric holding out holy symbols of a deity she knew not
 
 She looked, in the GM's precise summary, defeated, frustrated, annoyed.
 
-Then Grygum rolled persuasion, and she talked.
+Then Gyrgum rolled persuasion, and she talked.
 
 "I was just assigned to track you, not to engage. My orders were to report your surface destination, your contact, who approaches you." A pause. Then: "My matron was waiting for you to surface. She sent a couple of us up to the overbright to find where you were. I got lucky, and I spotted you."
 
@@ -361,15 +361,15 @@ She proposed a deal — mutual information sharing, she tells us what she finds,
 
 He is not wrong. The deal has no enforcement mechanism. She has no incentive to honor it beyond her own interest, and the moment her interests and ours diverge — which is to say, the moment she has what she came for — the deal dissolves. Drow contracts without consequences attached aren't contracts. They're intentions.
 
-Then Grygum said: "There's only one solution. We need to kill Daz."
+Then Gyrgum said: "There's only one solution. We need to kill Daz."
 
 Zalthir, entirely deadpan: "It's on the list. The maybe list."
 
-"And then we'll find out who's protecting him," Grygum continued, with the calm of someone describing a routine experimental procedure.
+"And then we'll find out who's protecting him," Gyrgum continued, with the calm of someone describing a routine experimental procedure.
 
 Thorin: "Do it, but make sure we can bring them back."
 
-"Oh, I have a Revivify spell." Grygum, reassuring.
+"Oh, I have a Revivify spell." Gyrgum, reassuring.
 
 "So that's just a temporary death."
 
@@ -381,7 +381,7 @@ I am categorically on record as being the only person in this party who treats i
 
 She warned us, between our negotiations, that killing her wouldn't stop House T'sarran from sending more agents.
 
-Grygum held up the prayer beads. "I'm not relying on killing you. I'm relying on the prayer beads."
+Gyrgum held up the prayer beads. "I'm not relying on killing you. I'm relying on the prayer beads."
 
 She eventually proposed being escorted to Candlekeep and handed to the guards — and she said it with the confidence of someone who already knew the second half of that plan didn't involve staying in Candlekeep for very long.
 
@@ -391,15 +391,15 @@ Thorin: "She's so confident she can escape, I don't think we want to be taking h
 
 Accurate. We don't.
 
-Grygum and Thorin exchanged a look. Then, very loudly, making no apparent attempt to lower their voices:
+Gyrgum and Thorin exchanged a look. Then, very loudly, making no apparent attempt to lower their voices:
 
 "Those prayer beads are at full power, even though they're shrunken, right?"
 
-Grygum, with great ceremony: "Yes — in fact, I believe they may be more deadly."
+Gyrgum, with great ceremony: "Yes — in fact, I believe they may be more deadly."
 
 "More potent. Good to know."
 
-She looked at the beads. She looked at Grygum. She began, visibly, to reconsider the available options.
+She looked at the beads. She looked at Gyrgum. She began, visibly, to reconsider the available options.
 
 ---
 
@@ -434,7 +434,7 @@ It was the most honest description of our mercy I could have asked for. She was 
 
 On the road, Thorin made sure she overheard him: "Those prayer beads are at full power, even though they're shrunken, right?"
 
-Grygum picked it up without missing a beat: "Yes, yes, in fact — I believe they may be more deadly."
+Gyrgum picked it up without missing a beat: "Yes, yes, in fact — I believe they may be more deadly."
 
 "They're more potent. Okay. Good to know."
 
@@ -442,7 +442,7 @@ I watched him say it with the mild interest I reserve for things that are techni
 
 ---
 
-Candlekeep required a book. This was not a problem for us. The problem, as Daz identified it, was which book — because we had, after months in the Underdark acquiring things from people who no longer needed them, accumulated more books than most surface libraries see in a decade. The list, when assembled: Princess Ebonmire's spellbook. Ilvara's prayer book with its Zuggtmoy marginalia, those careful notes documenting the corruption timeline she'd watched unfolding and apparently found worth recording. Asha Vandree's theological argument about Lolth and Zuggtmoy as equivalents — the document I'd watched her press into Grygum's hands. The Velkynvelve prisoner journal. Pliinki's journal from the Whirlstone Caverns, the one where a man had written carefully about helping birth a demonic monster and apparently thought this was worth documenting.
+Candlekeep required a book. This was not a problem for us. The problem, as Daz identified it, was which book — because we had, after months in the Underdark acquiring things from people who no longer needed them, accumulated more books than most surface libraries see in a decade. The list, when assembled: Princess Ebonmire's spellbook. Ilvara's prayer book with its Zuggtmoy marginalia, those careful notes documenting the corruption timeline she'd watched unfolding and apparently found worth recording. Asha Vandree's theological argument about Lolth and Zuggtmoy as equivalents — the document I'd watched her press into Gyrgum's hands. The Velkynvelve prisoner journal. Pliinki's journal from the Whirlstone Caverns, the one where a man had written carefully about helping birth a demonic monster and apparently thought this was worth documenting.
 
 I thought about Asha Vandree, briefly. The way she had looked through me the entire time we were in that room. I had been furniture; I had noticed the quality of her erasure without taking it personally, because it wasn't personal — it was structural, the way the Underdark is cold. You don't take the cold personally. The theological document she'd written would now unlock questions in one of the greatest libraries in the world. She would have hated that.
 
@@ -454,7 +454,7 @@ The ooze, apparently, was deeply confused by the concept of a library with finit
 
 Thorin pressed it anyway: "We give all five books, and we say — Glabbagool, you get one question. Make it count. And I'm really interested to see what he asks."
 
-Grygum said he was curious too.
+Gyrgum said he was curious too.
 
 Five books. Four of us and one ooze who had been in the dark of a bag for most of his conscious existence, watching a shrunken spy with one eye and trusting that the world above ground was worth seeing.
 
@@ -464,7 +464,7 @@ I didn't have an answer. But I kept watching the bag, the way it moved, the slig
 
 ---
 
-## Grygum — Entry into Candlekeep
+## Gyrgum — Entry into Candlekeep
 The road to Candlekeep had given me a lot of time to think. Maybe too much.
 
 I'd spent most of it turning the same questions over in my head like stones I kept expecting to find something under. What does Bahamut actually want from me? Not the general want — the "be just, protect the innocent, oppose Tiamat" want that I could recite in my sleep — but the specific want. The personal assignment. Because somewhere in the theological wreckage of the last few months, between the demon lords and the dead gods and Jimjar-who-was-apparently-a-celestial-the-whole-time, I had accumulated a very significant stack of things I did not understand, and I was hoping Candlekeep might help me start working through it.
@@ -577,7 +577,7 @@ Vareth stopped. His expression went through several stages very quickly — surp
 
 "This is all fascinating!"
 
-Somewhere in the background, the rest of the party had begun debating Daz's habit of citing Malfire at every available opportunity. I heard Grygum's name pulled into the discussion — *Grygum*, not me, which is how I know the sentence was reconstructed after the fact — but the content was accurate. We had been through enough together that the citations had become a kind of ambient weather condition, something you adapted to rather than fought.
+Somewhere in the background, the rest of the party had begun debating Daz's habit of citing Malfire at every available opportunity. I heard Gyrgum's name pulled into the discussion — *Gyrgum*, not me, which is how I know the sentence was reconstructed after the fact — but the content was accurate. We had been through enough together that the citations had become a kind of ambient weather condition, something you adapted to rather than fought.
 
 "Yeah," I said, when someone turned to me for confirmation, "it's like we're kind of sick of each other, but somehow still together, yeah."
 

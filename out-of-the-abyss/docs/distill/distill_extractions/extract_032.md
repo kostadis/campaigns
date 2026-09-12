@@ -14,7 +14,7 @@
 - Faction: Ember Vanguard; formerly of Menzoberranzan
 - Revealed information: Knows the term "two in a box" from Menzoberranzan political culture; recognises Zuggtmoy's influence from the gendered language Phylo uses; left a mushroom recipe book elsewhere; knows eldritch horrors of the realms
 
-**Grygum**
+**Gyrgum**
 - Current location: Neverlight Grove
 - Current state: Active party member
 - Recent actions: Shouted that Dawnbringer was not a talking sword; expelled acid breath that killed the wraith Brysis; cast Tasha's Caustic Brew at the Grick (missed); cast Spirit Guardians against the Shambling Mound; asked whether Stool and Rump-a-dump could accompany the group on the tour; expressed worry about the companions (reason unstated)
@@ -43,8 +43,8 @@
 
 **Brysis** (deceased)
 - Current location: Sarcophagus in the real tomb (underdark)
-- Current state: Destroyed; killed by Grygum's acid breath
-- Recent actions: Screamed "Not Dawnbringer!" upon Thorin picking up the hilt; attacked party members; howled in pain and disappeared after being hit by Daz's spells and Grygum's acid; had been waiting millennia to be free
+- Current state: Destroyed; killed by Gyrgum's acid breath
+- Recent actions: Screamed "Not Dawnbringer!" upon Thorin picking up the hilt; attacked party members; howled in pain and disappeared after being hit by Daz's spells and Gyrgum's acid; had been waiting millennia to be free
 - Notes: Was a wraith; held Dawnbringer's hilt in the sarcophagus in its withered mummified hands
 
 **Fargas Rumblefoot**
@@ -62,7 +62,7 @@
 **Jimjar**
 - Current location: Neverlight Grove
 - Current state: Active; racing into the grove
-- Recent actions: Reminded Grygum of a bet before racing after the myconids into the cavern
+- Recent actions: Reminded Gyrgum of a bet before racing after the myconids into the cavern
 - Faction: Traveling companion
 
 **Stool**
@@ -112,7 +112,7 @@
 ## Factions
 
 **Ember Vanguard**
-- Members: Zalthir, Daz, Grygum, Thorin; also traveling with Eldeth, Sarith, Jimjar, Stool, Rump-a-dump, a goblin, and unnamed humans
+- Members: Zalthir, Daz, Gyrgum, Thorin; also traveling with Eldeth, Sarith, Jimjar, Stool, Rump-a-dump, a goblin, and unnamed humans
 - Current goals: Traversing the Underdark; investigating Neverlight Grove at Basidia's request
 - Recent actions: Defeated wraith Brysis and looted her tomb; lost their Drow pursuers during three days of travel; arrived at Neverlight Grove; killed a Grick and a Shambling Mound; delivered the Grick corpse to Basidia; began a tour of the grove's circles
 
@@ -140,7 +140,7 @@
 
 ## World Events
 
-- The wraith Brysis was struck by Zalthir's unarmed attacks and Daz's scorching spells, then killed by Grygum's acid breath on the 5th day of the second tenday of Myrkhul 1495.
+- The wraith Brysis was struck by Zalthir's unarmed attacks and Daz's scorching spells, then killed by Gyrgum's acid breath on the 5th day of the second tenday of Myrkhul 1495.
 - Thorin picked up Dawnbringer's hilt from Brysis's mummified hands; a blade of shimmering light manifested.
 - The party discovered and opened an invisible chest in Brysis's tomb using Faerie Fire; contents: a necklace of fireballs, a potion of greater healing, and gold.
 - The party identified and explored the false tomb; Daz determined that a magical trap tied to the false tomb dissipated upon Brysis's death.
@@ -153,7 +153,7 @@
 - Daz used K'tharr-li grid-freezing tactics with Shape Water to locate the hidden Grick; the party killed it.
 - The party harvested the Grick's head and delivered the corpse to Basidia.
 - Daz used K'tharr-li tactics again to locate the concealed Shambling Mound near a lake deeper than 10 feet.
-- Zalthir stunned and grappled the Shambling Mound; Grygum's Spirit Guardians and Daz's Fireball destroyed it.
+- Zalthir stunned and grappled the Shambling Mound; Gyrgum's Spirit Guardians and Daz's Fireball destroyed it.
 - The party toured the Northern Terraces and met Gasbide of the Circle of Builders; Gasbide revealed his dream of a tower to the surface aided by Araumycos.
 
 ---
@@ -204,6 +204,6 @@
 - **Sarith's spores**: Basidia cannot identify them as belonging to any known sovereign, suggesting an entirely novel or demonic source. The implications for Sarith's condition and future behavior are open.
 - **Myconid groups leaving the grove**: The Circle of Masters is sending groups of myconids outside the grove covertly. Their destination and purpose are unknown.
 - **The Grick's head**: The party harvested it; its intended use is not yet stated.
-- **Jimjar's bet**: Jimjar reminded Grygum of a bet as they entered Neverlight Grove. The nature of the bet is not stated.
-- **Grygum's unnamed worry**: Grygum persisted in asking for Stool and Rump-a-dump to accompany the group; Daz noted Grygum seemed worried, but the reason is not stated.
+- **Jimjar's bet**: Jimjar reminded Gyrgum of a bet as they entered Neverlight Grove. The nature of the bet is not stated.
+- **Gyrgum's unnamed worry**: Gyrgum persisted in asking for Stool and Rump-a-dump to accompany the group; Daz noted Gyrgum seemed worried, but the reason is not stated.
 - **The Drow pursuers**: Lost in or near the tomb area; their identity, affiliation, and whether they will resume pursuit are unresolved.

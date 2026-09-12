@@ -90,7 +90,7 @@ I didn't know what to do. And when I don't  know what to do, I let my mind wande
 
 I meant it. There's a satisfaction to a properly timed swing that you don't get from standing still and watching drow politics sort itself out like a very violent tennis match. But I had decided sensible. 
 
-The one comfort was Glabbagool. In the midst of Ilvara conjuring a sphere of biting insects at the cave entrance — *Insects plague, that doesn't sound good,* Daz observed, with the tone of a man reviewing unexpected weather — Grygum asked about the ooze. Zalthir wanted to know if he was alive. Someone shouted that Glabbagool was alive. He had been sitting out there trying to participate in the conversation, chillaxing with his eyes, doing his best. Glabbagool always does his best. It's one of his best qualities.
+The one comfort was Glabbagool. In the midst of Ilvara conjuring a sphere of biting insects at the cave entrance — *Insects plague, that doesn't sound good,* Daz observed, with the tone of a man reviewing unexpected weather — Gyrgum asked about the ooze. Zalthir wanted to know if he was alive. Someone shouted that Glabbagool was alive. He had been sitting out there trying to participate in the conversation, chillaxing with his eyes, doing his best. Glabbagool always does his best. It's one of his best qualities.
 
 I turned my attention to the heart fungus while Ilvara's insect cloud made its political statement at the entrance. The big one. The thing we'd come here to unmake.
 
@@ -98,7 +98,7 @@ I turned my attention to the heart fungus while Ilvara's insect cloud made its p
 
 And I remember my training about fungi, it was probably resistant to the usual things, the way fungus usually is, but that if I hit it hard enough it should die. And then I remembered something about radiant damage and how fungi really hate it. I shouted, *It actually is doubly not resistant to radiant damage.*
 
-Grygum said, "Oh, that's good to know."
+Gyrgum said, "Oh, that's good to know."
 
 Dawnbringer had opinions about this information. She always has opinions. We'd worked out our arrangement — her light, my darkness preferences, the compromise that keeps both of us functional — and in that moment she didn't need to say anything because radiant damage against something doubly vulnerable to radiant damage is exactly the kind of problem she was built for.
 
@@ -106,7 +106,7 @@ I leaped down into the difficult terrain below the ledge. The ground underneath 
 
 The fungus wilted.
 
- Grygum said, "Oh, the giant fungus?" like he needed confirmation, and his eyes said yes, the giant fungus, the one that had dominated the cavern. Gone.
+ Gyrgum said, "Oh, the giant fungus?" like he needed confirmation, and his eyes said yes, the giant fungus, the one that had dominated the cavern. Gone.
 
 "I do what I can," I said.
 
@@ -126,13 +126,13 @@ I stood in the difficult terrain where the heart fungus had been, Dawnbringer st
 
 The battlefield had become a taxonomy problem.
 
-I run them through the list while ducking a crossbow bolt that misses me by what feels like courtesy: Ilvara, wounded and venomous, holding the center. Grygum angling toward Ilvara. Jorlan — Jorlan, who we'd watched barrel through our lines screaming his former lover's name — apparently now someone else's problem. The Big Heart Fungus: already gone, carved apart by Thorin in the time it takes most people to decide whether to act. And the insects. Always the insects. Ilvara's plague fills the middle distance with biting, stinging, churning noise, a wall of biological interference that had begun to feel personal.
+I run them through the list while ducking a crossbow bolt that misses me by what feels like courtesy: Ilvara, wounded and venomous, holding the center. Gyrgum angling toward Ilvara. Jorlan — Jorlan, who we'd watched barrel through our lines screaming his former lover's name — apparently now someone else's problem. The Big Heart Fungus: already gone, carved apart by Thorin in the time it takes most people to decide whether to act. And the insects. Always the insects. Ilvara's plague fills the middle distance with biting, stinging, churning noise, a wall of biological interference that had begun to feel personal.
 
 Five new drow stepped out of the shadows.
 
 Zalthir's voice, dry and somewhat delighted: "Five dark elves. That's awesome."
 
-Grygum, quieter: "This is turning into the twelve days of festivus."
+Gyrgum, quieter: "This is turning into the twelve days of festivus."
 
 I agreed, privately. House T'sarran markings — I clocked that before the first bolt cleared the bowstring. A rival house, then. Not Vandree, not Mizzrym. Someone who had apparently decided the chaos of this particular cavern represented an opportunity worth pursuing. The tactical reasoning was not without merit. The execution, however.
 
@@ -146,7 +146,7 @@ I should have felt threatened. Instead I felt something closer to embarrassment 
 
 They looked a little too smug, too sure of themselves — the posture of people who had planned an ambush and not yet updated their confidence to reflect that the ambush was actively being digested by magical insects. They would update. The insects were thorough. But in that moment they still had the bearing of professionals arriving to collect, and the shots went wide, and I noted it the way you note a poorly shuffled deck: the tell is in the hands.
 
-Grygum was already offering healing. Thorin somewhere behind me, navigating what he'd called the worst map in the Underdark. Asha Vandree praying to Lolth or preparing to pray or preparing to accuse someone of not praying — the volatility of her devotion made her difficult to predict on a round-by-round basis, which was the primary management problem I had been handling since before the fight started.
+Gyrgum was already offering healing. Thorin somewhere behind me, navigating what he'd called the worst map in the Underdark. Asha Vandree praying to Lolth or preparing to pray or preparing to accuse someone of not praying — the volatility of her devotion made her difficult to predict on a round-by-round basis, which was the primary management problem I had been handling since before the fight started.
 
 Then Kaelira stepped out of nowhere and walked directly into the insect cloud.
 
@@ -172,7 +172,7 @@ What I was not going to do was leave.
 
 ---
 
-## Grygum — The Drow Reinforcements Arrive
+## Gyrgum — The Drow Reinforcements Arrive
 
 The insect plague was mine. I want that on the record.
 
@@ -300,7 +300,7 @@ There was nothing precise I could do about that. I noted it. I filed it. I looke
 
 ---
 
-## Grygum — The Fall of Ilvara
+## Gyrgum — The Fall of Ilvara
 
 The bolt left my hand like a prayer I meant.
 

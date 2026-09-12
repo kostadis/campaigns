@@ -13,7 +13,7 @@
 
 ### Discovery of demon lords loose in the Underdark — party awareness moment
 - **Date:** 2nd day of the 3rd Tenday of Taraskh, 1493
-- **Outcome:** The party collectively realized that demons — including demon lords — have been summoned to the prime material plane in large numbers. Grygum connected the spectator's warning and the demons at Velkynvelve to the larger pattern. Daz confirmed someone cast mighty summoning magic. Eldeth emphasized the danger to all Faerun and the need to warn the surface world.
+- **Outcome:** The party collectively realized that demons — including demon lords — have been summoned to the prime material plane in large numbers. Gyrgum connected the spectator's warning and the demons at Velkynvelve to the larger pattern. Daz confirmed someone cast mighty summoning magic. Eldeth emphasized the danger to all Faerun and the need to warn the surface world.
 
 ### Shuushar — guide to Sloobludop / pacifist kuo-toa
 - **Status:** Departed the party. On the 8th day of the 3rd Tenday of Taraskh, Shuushar encountered a boat of kuo-toa refugees from Sloobludop who were receptive to his pacifist philosophy. He chose to leave the party to lead them and build a new kuo-toa community. The party lost their primary Darklake navigator.
@@ -21,7 +21,7 @@
 
 ### Escape from Sloobludop by boat
 - **Date:** 2nd day of the 3rd Tenday of Taraskh
-- **Outcome:** Success. Grygum bluffed kuo-toa monitors guarding the docks into leaving their posts. The party boarded a boat and paddled away quietly, escaping Demogorgon's rampage. Incapacitated party members (Daz, Eldeth, Topsy, Turvy, Shuushar) were carried by others.
+- **Outcome:** Success. Gyrgum bluffed kuo-toa monitors guarding the docks into leaving their posts. The party boarded a boat and paddled away quietly, escaping Demogorgon's rampage. Incapacitated party members (Daz, Eldeth, Topsy, Turvy, Shuushar) were carried by others.
 
 ### Darklake navigation — rock hazard
 - **Date:** 4th day of the 3rd Tenday of Taraskh
@@ -29,7 +29,7 @@
 
 ### Darklake encounter — demonic ixitxachitl (manta ray creatures)
 - **Date:** 6th day of the 3rd Tenday of Taraskh
-- **Outcome:** Success. Low ceiling caused Thorin, Grygum, and Daz to fall into the water. They fought and defeated four demonic aquatic creatures resembling manta rays with powerful jaws. Thorin noted the demonic corruption of local fauna.
+- **Outcome:** Success. Low ceiling caused Thorin, Gyrgum, and Daz to fall into the water. They fought and defeated four demonic aquatic creatures resembling manta rays with powerful jaws. Thorin noted the demonic corruption of local fauna.
 
 ### Kuo-toa day's catch — capture encounter near Sloobludop
 - **Not applicable** — the kuo-toa encounter on the 8th day was peaceful, not a capture.
@@ -67,7 +67,7 @@
 ## Tracked Items
 
 - **Demogorgon's rise from the Darklake at Sloobludop:** Occurred on the 2nd day of the 3rd Tenday of Taraskh. Demogorgon physically appeared, destroyed Sloobludop. Party fled by boat.
-- **Discovery of demon lords loose in the Underdark:** Party collectively realized the scope of the demonic incursion during boat discussion following the escape. Grygum, Daz, and Eldeth all contributed to the understanding.
+- **Discovery of demon lords loose in the Underdark:** Party collectively realized the scope of the demonic incursion during boat discussion following the escape. Gyrgum, Daz, and Eldeth all contributed to the understanding.
 - **Shuushar — guide to Sloobludop:** Successfully guided party to Sloobludop. Later departed the party on the 8th day to join kuo-toa refugees.
 - **Shuushar the Awakened — pacifist kuo-toa:** Left the party voluntarily after finding receptive kuo-toa refugees. His quest resolved.
 - **Sloobludop — kuo-toa town on the Darklake:** Destroyed by Demogorgon.

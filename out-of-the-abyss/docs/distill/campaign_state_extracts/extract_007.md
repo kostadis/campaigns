@@ -22,7 +22,7 @@
 
 ## NPC State Changes
 
-**Fargas Rumblefoot** — Now traveling with the escapees. Shared knowledge of the Lost Tomb of Khaem including the secret of the false burial chamber. Zalthir confirmed via physical check that Fargas has "no gnoll spawn." Grygum assessed Fargas as truthful.
+**Fargas Rumblefoot** — Now traveling with the escapees. Shared knowledge of the Lost Tomb of Khaem including the secret of the false burial chamber. Zalthir confirmed via physical check that Fargas has "no gnoll spawn." Gyrgum assessed Fargas as truthful.
 
 **Yukyuk and Spiderbait** — Remain with the party despite not being paid. They are in awe of Zalthir specifically. Spiderbait noted that whether the drow pursuers are slowed by the spider encounter depends on the quality of their guides.
 

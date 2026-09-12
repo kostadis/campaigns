@@ -191,7 +191,7 @@ kill him.
 — she is the demon-lord-evidence ally from yesterday. *The party
 is interrogating their ally.* Land it.
 
-Optional Grygum beat: DC 18 Medicine or `lesser restoration` to
+Optional Gyrgum beat: DC 18 Medicine or `lesser restoration` to
 treat the plague.
 
 **Daral (~20 min)** — Bath House. Soaking, drinking, hung over

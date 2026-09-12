@@ -37,7 +37,7 @@ than borrowing authority I do not have.
 
 | Thread | State | Tag |
 |---|---|---|
-| **Initiative** | Daz **21** (acted) · Thorin **19** ← *up now* · Zalthir **17** · Manshoon **12** · Grygum **3**. **Still round one.** | `[TABLE]` |
+| **Initiative** | Daz **21** (acted) · Thorin **19** ← *up now* · Zalthir **17** · Manshoon **12** · Gyrgum **3**. **Still round one.** | `[TABLE]` |
 | **Daz's position** | ⭐ **On the bridge**, inside the first 10 ft of the antimagic band. He opens round two **unable to cast**. He put himself there on purpose | `[TABLE]` |
 | **Manshoon A** | **82 HP** (95 − 13 psychic). AC 19. `mirror image` up. **Has not acted yet this combat** | `[TABLE]` |
 | **His Counterspell** | ⭐ **Unspent.** He declined to burn it on *Phantasmal Killer* | `[TABLE]` |
@@ -45,11 +45,11 @@ than borrowing authority I do not have.
 | **Legendary Resistance** | **3 remaining**, shared across both bodies. None burned — he made the Wisdom save honestly | `[TABLE]` |
 | **The antimagic curtain** | 10 ft wide, starts **10 ft out onto the bridge**, floor to ceiling. ⛔ **Magic works inside the tower** — the GM ruled it on tape and gave the reason (the books) | `[TABLE]` |
 | **Miirym's boon** | ⭐ **Banked, not spent.** 30-ft widening, ten minutes, **fires on command** — Zalthir asked to hold it for surprise and you said yes | `[TABLE]` |
-| **Grygum** | ⭐ **Verified Reader.** *"Very well, reader!"* Riddle line 5 closed on tape | `[TABLE]` |
+| **Gyrgum** | ⭐ **Verified Reader.** *"Very well, reader!"* Riddle line 5 closed on tape | `[TABLE]` |
 | **The iron owlbear** | Alive, hovering, **not in the fight**, offering colour commentary. You promised this out loud | `[TABLE]` |
 | **Edvaldo Sedanur** | In the guardian chamber with the party. **Still a doppelganger. Still unexposed.** Named on tape | `[TABLE]` |
 | **Sylvira** | ⛔ **Never came down.** She is not in this building. The 0824 doc's *"Two."* reveal is unavailable — see Act 1 for the replacement | `[TABLE]` |
-| **Who is actually down here** | Daz, Thorin, Zalthir, Grygum, Glabbagool, Edvaldo, Dawnbringer. **That is the whole roster** | `[TABLE]` |
+| **Who is actually down here** | Daz, Thorin, Zalthir, Gyrgum, Glabbagool, Edvaldo, Dawnbringer. **That is the whole roster** | `[TABLE]` |
 | **Party level** | **9.** Level 10 at the cut, after the choice — Decision §4 stands | `[TABLE]` |
 
 > ⚠️ **Riddle-line bookkeeping — ruled 2026-08-30.** Line 5 (Reader verified) is
@@ -176,7 +176,7 @@ So he does not just need the stones.
 - It is why B negotiates in Act 3 instead of ambushing.
 - It is why, if the party wins downstairs and walks away, **B follows them** —
   and why "he eventually gets what he wants" is not him sneaking off with a
-  book, it is him coming down the stairs and asking Grygum, politely, in front
+  book, it is him coming down the stairs and asking Gyrgum, politely, in front
   of everybody.
 
 ⛔ **Nobody says any of this out loud until Act 3, and then only B says it.**
@@ -214,7 +214,7 @@ Secondary landings, in priority order:
   same thing he already suspected: he cannot open it himself.
 - **If the party never goes up:** B comes down. Not tonight, necessarily — but
   he is patient, he has a face nobody has seen, and he knows which one of them
-  is the Reader. ⭐ **"He eventually gets what he wants" is Grygum, and it costs
+  is the Reader. ⭐ **"He eventually gets what he wants" is Gyrgum, and it costs
   Candlekeep somebody, and it lands next arc.**
 - **Miirym stays on the bridge** and watches all of it, because nobody asked her
   anything and she does not act unbidden.
@@ -237,7 +237,7 @@ Secondary landings, in priority order:
    copy they get.**
 4. **Do not put a `fireball` in a room with a hundred warded books.** If they
    work this out on their own before Act 3, they have won something real.
-5. ⭐ **Send Grygum up last, or not at all.** The one thing B needs is standing
+5. ⭐ **Send Gyrgum up last, or not at all.** The one thing B needs is standing
    in the middle of the marching order wearing a holy symbol. A party that
    realises the Reader is the asset plays Act 3 completely differently.
 6. **Take the deal and then break it.** B's offer in Act 3 is honest and it is
@@ -285,7 +285,7 @@ concentration, lasts 1 minute. While reading, it has advantage on Wisdom
 (Insight) and Charisma checks against that creature.
 
 > ⛔ **It has already read all four of them.** Since the grove. It knows the
-> cryptogram, the marching order, and which of them Grygum will heal first.
+> cryptogram, the marching order, and which of them Gyrgum will heal first.
 
 ***Borrowed Expertise.*** While wearing the form of a creature whose thoughts it
 has read, it can make Intelligence checks about that creature's field of
@@ -449,7 +449,7 @@ a problem yet — he has been assuming he is the one with options all morning.
 
 - **R1 (init 12, this round)** — ⭐ **`globe of invulnerability`, and a line.**
   He does not open with violence and he never has. The globe shuts off Daz and
-  Grygum at range and deals exactly zero damage: maximum menace, zero risk.
+  Gyrgum at range and deals exactly zero damage: maximum menace, zero risk.
   **Let them discover they have to walk into it.** He does not follow Daz onto
   the bridge and he never will — he crossed that band this morning and he
   remembers what it felt like.
@@ -718,7 +718,7 @@ metal hand in the slush. The owlbear is delivering a verdict. **And upstairs,
 somebody is still talking.**
 
 ⭐ **Do not prompt them.** Let them loot, let them argue, let them count the
-staff's charges, let Grygum start writing it all down. **Advance one stone at
+staff's charges, let Gyrgum start writing it all down. **Advance one stone at
 the end of whatever they do.**
 
 ### The three doors out of this act
@@ -812,7 +812,7 @@ Read it slowly. This is the load-bearing text of the night.
 
 ⛔ **Do not explain any of it.** Do not have Manshoon explain it. **Let the four
 of them work out, out loud, in front of him, what the clauses mean** — and let
-them realise in the same minute that **Grygum is the only person in the room
+them realise in the same minute that **Gyrgum is the only person in the room
 whose claim has been verified**, and that Manshoon has been listening to them do
 it.
 
@@ -857,7 +857,7 @@ Do not have an NPC warn them.**
 
 ### 🟣 The four branches — all real, none preferred
 
-**1. They take the deal.** Grygum says the word. Door opens. ⭐ **No initiative
+**1. They take the deal.** Gyrgum says the word. Door opens. ⭐ **No initiative
 until somebody moves**, and everybody in that corridor knows it. Go to Act 4
 with four PCs, a simulacrum, and possibly a doppelganger in a very small room.
 
@@ -953,7 +953,7 @@ warning and it is a fair one.
    keep deciding about, forever.
 2. **Leave it.** The Avowed reseal the vault and Candlekeep owes them a debt it
    cannot discharge.
-3. ⭐ **Destroy it.** **Grygum's arc:** `dispel evil and good` → `holy aura` →
+3. ⭐ **Destroy it.** **Gyrgum's arc:** `dispel evil and good` → `holy aura` →
    holy fire. A Life cleric of Bahamut whose entire theology is *choice over
    determinism*, burning the book that argues the opposite. **If Ben goes for
    it, give him the whole table and do not interrupt.**
@@ -1033,8 +1033,8 @@ Decision §4 — the reward lands on the decision, not on the fight.
 - ⭐ **Manshoon B never raises his voice, never threatens, and never mentions the
   books.** If you find yourself about to have him gesture at the shelves, don't.
 - ⭐ **After stone 10, count to three and let them do the reasoning out loud.**
-  The scene where four players work out that Grygum is the key, in front of the
-  man who needs Grygum, is better than any line you could write for him.
+  The scene where four players work out that Gyrgum is the key, in front of the
+  man who needs Gyrgum, is better than any line you could write for him.
 - **Dim the light before the last door.** Somebody has to decide to sheathe
   Dawnbringer, and she will have something to say about it.
 - **Cut on the choice about the Book, then level.**

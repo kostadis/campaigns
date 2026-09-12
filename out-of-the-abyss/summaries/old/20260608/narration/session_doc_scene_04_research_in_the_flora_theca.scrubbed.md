@@ -1,7 +1,7 @@
 ---
 scene: 04
 slug: research_in_the_flora_theca
-narrator: Grygum
+narrator: Gyrgum
 scene_name: Research in the Flora Theca
 session: 20260608
 ---

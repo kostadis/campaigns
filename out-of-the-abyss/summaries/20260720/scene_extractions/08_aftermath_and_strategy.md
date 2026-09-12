@@ -9,7 +9,7 @@ source: gmassist
 
 #### With one key secured and the immediate threat neutralized, the party assesses the situation and plans their next move.
 - The party realizes that while they have secured Tadric's key, A'lai Aivenmore likely possesses the other key stolen from Bookwyrm.
-- The group discusses the tactical advantage of possessing both a real key and Kalan's fake decoy key — Grygum: "anybody who doesn't know that we have a fake key, we can fake them out with it somehow." Daz notes that whoever holds the real key will eventually wonder how the party claims to have two.
+- The group discusses the tactical advantage of possessing both a real key and Kalan's fake decoy key — Gyrgum: "anybody who doesn't know that we have a fake key, we can fake them out with it somehow." Daz notes that whoever holds the real key will eventually wonder how the party claims to have two.
 - The party deduces that A'lai Aivenmore and his agents are likely already heading toward the high tower, where he had been waiting for Moziqodo to arrive with the key.
 - Daz frames the endgame: "So we show up in the High Tower, challenge, we get both keys, and then we own Candlekeep, right?" — with Thorin noting they can "extract whatever boon we'd like since we deferred negotiation."
 - The party levels up to level nine.
@@ -37,10 +37,10 @@ source: gmassist
 > "I mean, like, not only did we keep them from fleeing, we saved Tadric."
 
 **[GM]**
-> "Yes, you saved, you saved Tadric. Tadric is, I mean, Grygum, are you going to heal him or are you going to let him bleed out to death?"
+> "Yes, you saved, you saved Tadric. Tadric is, I mean, Gyrgum, are you going to heal him or are you going to let him bleed out to death?"
 
 **[scene tag — Healing Tadric]**
-- Grygum heals Tadric with a cure wounds spell; his wounds close and the blood stops.
+- Gyrgum heals Tadric with a cure wounds spell; his wounds close and the blood stops.
 - Tadric grabs for the key, looks at the dead creature, and reacts to Moziqodo's identity.
 
 **[Tadric / Thorin]** — *filling Tadric in on events*
@@ -59,16 +59,16 @@ source: gmassist
 **[GM]** — *recapping the key situation*
 > "So, yes. So Zalthir burned a couple of ki points, and the creature is dead. You have one of the two keys, but as you well know, evil geniuses have more than one plan."
 
-**[Grygum / GM / Daz]** — *the tactical value of the fake key*
-**[Grygum]**
+**[Gyrgum / GM / Daz]** — *the tactical value of the fake key*
+**[Gyrgum]**
 > "What fun. So we have one real key and one fake key, and anybody who doesn't know that we have a fake key, we can fake them out with it somehow."
 **[GM]**
 > "Yes."
-**[Grygum]** 
+**[Gyrgum]** 
 > "Yes. And eventually, the person that has the real key will be like, how are these guys saying they have two keys?"
 **[Daz]**
 > "Yeah, that's a good idea. Interesting."
-**[Grygum]**
+**[Gyrgum]**
 > "I'm going to ferret him out. Him or her. Or they. Or it."
 
 **[GM]** — *reconfirming the cliffhanger state before the endgame*

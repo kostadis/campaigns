@@ -61,10 +61,10 @@
 - **Gold badges featuring Themberchaud's profile** — from Themberchaud, grant travel within Gracklstugh
 - **Holy symbol of Laduguer and gold pins** — from Gartokkar, Keepers of the Flame credentials
 - **Loot from assassin corpses:** coins, bloodstained gloves, box of scented candles
-- **Scrolls** found in Errde Blackskull's armory goods (obtained by Grygum)
+- **Scrolls** found in Errde Blackskull's armory goods (obtained by Gyrgum)
 - **Intelligence gained:** The Keepers of the Flame plan to replace Themberchaud eventually; the Gray Ghosts stole the replacement egg; Droki is a Gray Ghosts agent; psychic blade assassins are active in Gracklstugh
 - **Triple agent status:** Nominally working for Stone Guards, Keepers of the Flame, and Themberchaud simultaneously, loyal to none
-- **Emerging plan:** Thorin proposed riding Themberchaud out of Gracklstugh, destroying everything behind them. Grygum (cleric of Bahamut) agreed, appalled at Themberchaud's captivity.
+- **Emerging plan:** Thorin proposed riding Themberchaud out of Gracklstugh, destroying everything behind them. Gyrgum (cleric of Bahamut) agreed, appalled at Themberchaud's captivity.
 
 ## Party Current Situation
 

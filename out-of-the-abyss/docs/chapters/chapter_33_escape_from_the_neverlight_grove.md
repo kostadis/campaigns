@@ -1,5 +1,5 @@
 # Chapter 29 Escape from the Neverlight Grove. 
-### Grygum
+### Gyrgum
 
 
 The procession is clearly a wedding procession, but not of the wedding itself. This is a rehearsal. 
@@ -157,7 +157,7 @@ I think about those mutated corpses in the Circle of Welcome, and wonder what th
 But I am trying to be cool. However, Dawnbringer shedding bright light on everyone isn’t helping right now. The Myconids are retreating from me. 
 
 
-And just then, Grygum starts  jumping up and down and screaming, “DANGER!” 
+And just then, Gyrgum starts  jumping up and down and screaming, “DANGER!” 
 
 
 I can hear Zalthir through the Rapport Spores mutter, “This was not how I meant stealthy.” 
@@ -172,7 +172,7 @@ At this point, I tense up because it's looking like it’s going to be a fight. 
 I try to persuade Basidia that the time to fight has passed, and now it is the time to flee. We all try, but the Sovereign won’t listen. 
 
 
-Grygum turns to Rump-a-dump and Stool and manages to convince them. Our time together, and what they have seen, makes them realize that this place isn’t safe anymore. 
+Gyrgum turns to Rump-a-dump and Stool and manages to convince them. Our time together, and what they have seen, makes them realize that this place isn’t safe anymore. 
 
 
 Rasharoo shouts into my brain, “If you want to live, come with me.” 
@@ -202,7 +202,7 @@ As we head into the Underdark, Rasharoo tells us that he can provide us with a g
 Jimjar insists he knows where he is going, “I’ll bet you I can get you there!” 
 
 
-I look at him and sigh. Grygum tries to explain the absurdity of the bet, but can’t resist taking the money from the curious gnome. 
+I look at him and sigh. Gyrgum tries to explain the absurdity of the bet, but can’t resist taking the money from the curious gnome. 
 
 
 4th day of the third tenday of Myrkhul 1495
@@ -212,7 +212,7 @@ I look at him and sigh. Grygum tries to explain the absurdity of the bet, but ca
 And once again into the dark. My friends wonder why Ilvara would still be pursuing us and whether all the measures we take to hide ourselves are truly necessary. 
 
 
-As Grygum puts it, “Shouldn’t she give up?” 
+As Gyrgum puts it, “Shouldn’t she give up?” 
 
 
 I smile. Ilvara promised that we would arrive in Menzoberranzan. Who knows what money exchanged hands? And then to make matters worse, the outpost of Velkynvelve was destroyed. She needs to find us, lest she become a Drider. She won’t rest until we are either found or she is dead. 

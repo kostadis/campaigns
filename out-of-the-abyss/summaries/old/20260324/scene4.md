@@ -21,7 +21,7 @@ I don't have a ranged option worth mentioning. Dawnbringer is a sword, and I am 
 
 And then I see Jorlan.
 
-He's across the cavern, bitter-eyed, nursing whatever wound his pride has taken since Ilvara discarded him. He's armed. He's furious. He's also standing exactly twenty feet from the Glyph of Warding that Grygum spent real patience setting into the stone of the bridge.
+He's across the cavern, bitter-eyed, nursing whatever wound his pride has taken since Ilvara discarded him. He's armed. He's furious. He's also standing exactly twenty feet from the Glyph of Warding that Gyrgum spent real patience setting into the stone of the bridge.
 
 Jorlan doesn't know about the glyph. Jorlan just needs to take about four steps in the right direction.
 
@@ -51,7 +51,7 @@ Then a spore walker climbs up behind me, because of course it does, and the firs
 
 I adjust my footing.
 
-Behind me, deeper in the cavern, Grygum is grinding the Heart Fungus down with something that sounds like the word *Suleiman* and delivers twenty force damage per turn like a promise. The thing shudders. Good. Let it shudder. And then Daz opens up with a Fireball shaped so precisely around his allies that it catches Ilvara and her precious mushroom icon in the center of it, 24 damage worth of fire finding her even through her save, and the icon smolders.
+Behind me, deeper in the cavern, Gyrgum is grinding the Heart Fungus down with something that sounds like the word *Suleiman* and delivers twenty force damage per turn like a promise. The thing shudders. Good. Let it shudder. And then Daz opens up with a Fireball shaped so precisely around his allies that it catches Ilvara and her precious mushroom icon in the center of it, 24 damage worth of fire finding her even through her save, and the icon smolders.
 
 The mushroom is burning. Ilvara is bleeding. The math has changed.
 

@@ -1,6 +1,6 @@
 ## Hemath
 
-Hemath is a duergar arms dealer encountered among the sacrificial captives at the kuo-toa altar. He is bloodied and desperate, pleading with Grygum for help. He had promised weapons to the Archpriest of the Deep Father (Bloppblippodd), but she betrayed him, declaring that his sacrifice would be "weapon enough." When Grygum cryptically tells him "there's more than meets the eye," Hemath is surprised yet comforted, his desire to live overcoming his innate cultural cynicism. He agrees to act when told and asks the party to find him in Gracklstugh if they survive. His current status after the battle broke out is unclear — he was last seen among the other captives.
+Hemath is a duergar arms dealer encountered among the sacrificial captives at the kuo-toa altar. He is bloodied and desperate, pleading with Gyrgum for help. He had promised weapons to the Archpriest of the Deep Father (Bloppblippodd), but she betrayed him, declaring that his sacrifice would be "weapon enough." When Gyrgum cryptically tells him "there's more than meets the eye," Hemath is surprised yet comforted, his desire to live overcoming his innate cultural cynicism. He agrees to act when told and asks the party to find him in Gracklstugh if they survive. His current status after the battle broke out is unclear — he was last seen among the other captives.
 
 ## Bloppblippodd (Blopp)
 
@@ -8,11 +8,11 @@ Bloppblippodd is the young archpriest of the Deep Father. She accepts the sacrif
 
 ## Ploopploopeen (Ploop)
 
-Ploopploopeen is the archpriest of the Sea Mother and Bloppblippodd's father. He steps forward at the altar, presenting the escapees as offerings to his daughter, seemingly cooperating with the Deep Father cult. However, this is a ruse — Ploop has betrayed his daughter, not the escapees. He attacks Bloppblippodd along with his allies, triggering an all-out civil war among the kuo-toa. Thorin realizes that Ploop could have paralyzed all the escapees with hold person spells if he had truly been working with Blopp, acknowledging that Ploop might have been playing them. During the battle, Ploop strikes the final, fatal blow against his daughter before the altar. His thatched hut is looted by Grygum, who justifies it by noting Ploop had promised to pay them. His status after the battle and Demogorgon's emergence is unknown.
+Ploopploopeen is the archpriest of the Sea Mother and Bloppblippodd's father. He steps forward at the altar, presenting the escapees as offerings to his daughter, seemingly cooperating with the Deep Father cult. However, this is a ruse — Ploop has betrayed his daughter, not the escapees. He attacks Bloppblippodd along with his allies, triggering an all-out civil war among the kuo-toa. Thorin realizes that Ploop could have paralyzed all the escapees with hold person spells if he had truly been working with Blopp, acknowledging that Ploop might have been playing them. During the battle, Ploop strikes the final, fatal blow against his daughter before the altar. His thatched hut is looted by Gyrgum, who justifies it by noting Ploop had promised to pay them. His status after the battle and Demogorgon's emergence is unknown.
 
 ## Jimjar (Jim Jir)
 
-Jimjar is among the escapees. As they are herded toward the sacrificial depression, he mutters, "Wanna bet on how many of us will come out of this alive?" When the battle breaks out and the escapees flee together, he mutters, "We all made it alive." Grygum looks at him and wonders if Jimjar would cheat to avoid losing the bet by letting one of them die. He escapes with the group toward the docks.
+Jimjar is among the escapees. As they are herded toward the sacrificial depression, he mutters, "Wanna bet on how many of us will come out of this alive?" When the battle breaks out and the escapees flee together, he mutters, "We all made it alive." Gyrgum looks at him and wonders if Jimjar would cheat to avoid losing the bet by letting one of them die. He escapes with the group toward the docks.
 
 ## Buppido
 
@@ -24,11 +24,11 @@ Shuushar is among the escapees who flee during the chaos. Thorin recalls that Sh
 
 ## Eldeth
 
-Eldeth is among the escapees who take advantage of the melee's confusion to flee toward Grygum and the group. She escapes with the others toward the docks.
+Eldeth is among the escapees who take advantage of the melee's confusion to flee toward Gyrgum and the group. She escapes with the others toward the docks.
 
 ## Serith
 
-Serith is among the escapees who flee during the chaos of the kuo-toa civil war, running toward Grygum with the rest of the group.
+Serith is among the escapees who flee during the chaos of the kuo-toa civil war, running toward Gyrgum with the rest of the group.
 
 ## Topsy
 
@@ -40,11 +40,11 @@ Turvy is among the escapees who take advantage of the confusion to flee with the
 
 ## Spiderbait
 
-Spiderbait is among the escapees who flee during the kuo-toa civil war, running toward Grygum with the other captives.
+Spiderbait is among the escapees who flee during the kuo-toa civil war, running toward Gyrgum with the other captives.
 
 ## Gorg'Bahamut (Grog'Bahamut)
 
-Gorg'Bahamut is Grygum's mentor, referenced in Grygum's memories. He taught Grygum about Demogorgon, describing the Prince of Demons in great detail — his two heads (one whispering lies, the other roaring with fury), his tentacles dripping with chaos venom, and his nature as the antithesis of Bahamut. He also taught that "a hoard is always a valuable thing and a blessing from Bahamut." He does not appear in person.
+Gorg'Bahamut is Gyrgum's mentor, referenced in Gyrgum's memories. He taught Gyrgum about Demogorgon, describing the Prince of Demons in great detail — his two heads (one whispering lies, the other roaring with fury), his tentacles dripping with chaos venom, and his nature as the antithesis of Bahamut. He also taught that "a hoard is always a valuable thing and a blessing from Bahamut." He does not appear in person.
 
 ## Whisperwind
 

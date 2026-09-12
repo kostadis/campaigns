@@ -110,7 +110,7 @@ mp search "heat system" --wing abyss --room arcs
 | `docs/background/Out of the Abyss.md` | 9,357 lines — too large, dilutes search | 5etools MCP (get_section, search) |
 | `docs/The Underdark.md` | Unsplit bible — chapters are mined separately | Read the chapter files |
 | `notes/` | Working/staging area — not canon yet | File reads |
-| Party PC files (daz, grygum, thorin, zalthir) | PCs tracked separately, not NPCs | File reads |
+| Party PC files (daz, gyrgum, thorin, zalthir) | PCs tracked separately, not NPCs | File reads |
 | `summaries/`, `voice/`, `examples/`, `logs/` | Raw session data, pipeline inputs, operational | File reads |
 
 ---

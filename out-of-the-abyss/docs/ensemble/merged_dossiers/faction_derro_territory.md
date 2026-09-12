@@ -59,7 +59,7 @@ chapters: 10-26
 
 ### Derro Territory
 
-The Derro Territory is a subterranean, chaotic slum inhabited by insane, twisted dwarven cultists who have been corrupted by a ritual centered on the phrase “die, die, die.” Once a peaceful coexistence site with Duergar, the area is now a site of violent cult activity, dominated by chanting Derro under the influence of Zalthir’s darkness. Recent events saw multiple Derro engaged in a ritualistic chant, attacking Grygum and Zalthir; these were slain by Grygum’s acid, Daz’s Magic Missile, and Zalthir’s strikes. One Derro remains unnoticed in the background, unengaged and lurking — the only known surviving Derro in the territory as of Chapter 26. The Derro are feared and despised by Duergar and surface dwellers alike, scapegoated as corrupters of the Deepking, though some believe they are pawns in a larger power struggle involving the Council of Savants and the Grey Ghosts.
+The Derro Territory is a subterranean, chaotic slum inhabited by insane, twisted dwarven cultists who have been corrupted by a ritual centered on the phrase “die, die, die.” Once a peaceful coexistence site with Duergar, the area is now a site of violent cult activity, dominated by chanting Derro under the influence of Zalthir’s darkness. Recent events saw multiple Derro engaged in a ritualistic chant, attacking Gyrgum and Zalthir; these were slain by Gyrgum’s acid, Daz’s Magic Missile, and Zalthir’s strikes. One Derro remains unnoticed in the background, unengaged and lurking — the only known surviving Derro in the territory as of Chapter 26. The Derro are feared and despised by Duergar and surface dwellers alike, scapegoated as corrupters of the Deepking, though some believe they are pawns in a larger power struggle involving the Council of Savants and the Grey Ghosts.
 
 ## Uncertainty
 - The exact current location of the unnoticed Derro is unspecified — only that it remains present but unengaged.
@@ -93,7 +93,7 @@ chapters: 22-25
 - One Derro serves as a vessel for Pelek’s ghost, restrained and unaware (ch25).  
 - Collective mind is in psychic turmoil over the loss of “the Egg” (ch22).  
 **Defining recent actions:**  
-- Failed Demogorgon ritual under Narrak’s coercion; attacked Grygum and Zalthir blindly, overwhelmed by Ember Vanguard (ch25).  
+- Failed Demogorgon ritual under Narrak’s coercion; attacked Gyrgum and Zalthir blindly, overwhelmed by Ember Vanguard (ch25).  
 - One Derro, possessed by Pelek, was preoccupied with a death dog and failed to notice party infiltration (ch25).  
 - Psychic shockwave of panic erupted across all Derro upon loss of “the Egg” (ch22).  
 **Revealed motivations or secrets:**  

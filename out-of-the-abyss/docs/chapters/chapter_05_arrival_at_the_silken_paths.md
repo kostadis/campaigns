@@ -21,7 +21,7 @@ Fortunately, the escapees find both in the form of a few Barrelstalk mushrooms. 
 Eldeth covers the rear as they travel, trying to obscure any evidence of their travels. Buppido seems particularly interested in her tricks. 
 
 
-Daz, Grygum, Thorin, and Zalthir try to help the dwarf. Eldeth tries not to be annoyed at all of the help. 
+Daz, Gyrgum, Thorin, and Zalthir try to help the dwarf. Eldeth tries not to be annoyed at all of the help. 
 
 
 As the day progresses, they arrive at a narrow passageway lined with bioluminescent green moss. This moss grows in warm and damp areas and is particularly common near steam tunnels and vents. 
@@ -90,7 +90,7 @@ Sensing this could get violent, Daz steps in, “It’s my understanding that Za
 Jimjar is stunned, “I’m so sorry. I didn’t know.” 
 
 
-But then Grygum steps forward, “I’ll make that bet.” 
+But then Gyrgum steps forward, “I’ll make that bet.” 
 
 
 Jimjar gets to work and, a little bit later, announces, “You won the bet.” 
@@ -105,7 +105,7 @@ Jimjar gets to work and, a little bit later, announces, “You won the bet.”
 Zalthir is baffled and intrigued, “He bet against himself even though he knew the odds of winning that bet were terrible. His willingness to make these bad bets implies he will make further bad bets going forward.” 
 
 
-Grygum turns to Zalthir, “Interesting.” 
+Gyrgum turns to Zalthir, “Interesting.” 
 Zalthir tries to test his theory, “I’ll bet you can’t fly to the roof of this cavern?” 
 
 
@@ -130,7 +130,7 @@ And so they do, deeper into the Underdark, hopefully heading to Sloobludop.
 After an hour of marching, Thorin finds a pool of water. Daz immediately starts creating blocks of water for the group. When all the blocks are made, there is no more water. 
 
 
-A little bit later, Grygum finds some more Trillimac. Jimjar, a botanist, explains it is a mushroom that grows to a height of four to five feet and has a broad gray-green cap and a light gray stalk. The cap’s leathery surface can be cut and cleaned for use in making maps, hats, and scrolls (its surface takes on dyes and inks well). The stalk can be cleaned, soaked in water for an hour, then dried to make a palatable food akin to bread. 
+A little bit later, Gyrgum finds some more Trillimac. Jimjar, a botanist, explains it is a mushroom that grows to a height of four to five feet and has a broad gray-green cap and a light gray stalk. The cap’s leathery surface can be cut and cleaned for use in making maps, hats, and scrolls (its surface takes on dyes and inks well). The stalk can be cleaned, soaked in water for an hour, then dried to make a palatable food akin to bread. 
 
 
 “That one will be worth 6 pounds of food.” 
@@ -145,7 +145,7 @@ A little bit later, Grygum finds some more Trillimac. Jimjar, a botanist, explai
 Zalthir glares at him. 
 
 
-The rest of the crew cannot find any more of the mushroom. Eldeth shouts at Grygum, “Will you look?”
+The rest of the crew cannot find any more of the mushroom. Eldeth shouts at Gyrgum, “Will you look?”
 
 
 The half-orc interrupts his reverie and looks around. He shouts, “There!” 
@@ -214,19 +214,19 @@ Jimjar then turns to the two goblins, “I’ll bet you 20 gold you can’t navi
 “Done!” 
 
 
-As they head to the web, Grygum realizes that the Jimjar doesn’t have 20 gold. He wonders whether to say anything to the goblins and realizes that Jimjar will pay when he has money. “And they are goblins; we could easily deal with them if it comes to that,” he thinks. 
+As they head to the web, Gyrgum realizes that the Jimjar doesn’t have 20 gold. He wonders whether to say anything to the goblins and realizes that Jimjar will pay when he has money. “And they are goblins; we could easily deal with them if it comes to that,” he thinks. 
 
 
 Thorin observes them coat their shoes with a peculiar substance and start running. 
 
 
-Grygum stares at them, slides on the strands, and mutters, “They are good at surfing the web.” 
+Gyrgum stares at them, slides on the strands, and mutters, “They are good at surfing the web.” 
 
 
 Daz nods, “It’s almost as if we are on a Safari that surfs the web.” 
 
 
-Grygum asks Jimjar, “Do they know which side of the bet they made?” 
+Gyrgum asks Jimjar, “Do they know which side of the bet they made?” 
 
 
 He looks at the cleric and, with a twinkle in his eye, says, “No.” 
@@ -253,10 +253,10 @@ And with the deal closed, the stiff, formal nature of the two goblins dissolves.
 Topsy stares at him, confused. 
 
 
-Grygum, always excited with new forms of speech, shouts, “That was an amazing triple spin!” 
+Gyrgum, always excited with new forms of speech, shouts, “That was an amazing triple spin!” 
 
 
-Spiderbait, seeing Grygum’s interest, mutters, “Yuk Yuk took the easy route. I went around the spider and through its legs.”
+Spiderbait, seeing Gyrgum’s interest, mutters, “Yuk Yuk took the easy route. I went around the spider and through its legs.”
 
 
 Zalthir takes note of the spider and asks, “Spiders?” 
@@ -337,20 +337,20 @@ After an hour of walking, Daz notices a cocoon. Zalthir notices it is moving and
 Stool is very excited, “I’m helpful, aren’t I? I love being helpful.” 
 
 
-Grygum turns to him and smiles, “And we love you for it.” 
+Gyrgum turns to him and smiles, “And we love you for it.” 
 
 
 “Are you going to come with me?” 
 
 
-Grygum smiles at Stool and says, “Yes, I will. Now let’s go together.” 
+Gyrgum smiles at Stool and says, “Yes, I will. Now let’s go together.” 
 
 
-So Stool and Grygum advance on the cocoon, and then they hear the voice of a still living halfling in their heads. “I am Fargas Rumblefoot.” The voice turns demanding, “Can you please get me out of here?” 
+So Stool and Gyrgum advance on the cocoon, and then they hear the voice of a still living halfling in their heads. “I am Fargas Rumblefoot.” The voice turns demanding, “Can you please get me out of here?” 
 
 
-Grygum is about to cut through the cocoon when Thorin says, “Perhaps we should have him tell us who he is?” 
-Grygum stops, “He can't be evil with a name like that. But you’re right.” 
+Gyrgum is about to cut through the cocoon when Thorin says, “Perhaps we should have him tell us who he is?” 
+Gyrgum stops, “He can't be evil with a name like that. But you’re right.” 
 
 
 “I was a member of an adventuring band looking for a lost tomb. Gnolls attacked us.” 
@@ -398,7 +398,7 @@ Zalthir turns to Thorin, “Can you carry him, or will we need to spend minutes 
 Thorin takes his blade, saying, “I can cut him loose in a few seconds.” 
 
 
-Grygum, Zalthir, Daz, and Thorin take a look around. Spiders are walking on strands. Those strands can be cut with fire or a blade. They can stop the spiders and escape if they cut the strands in the right places. They will get trapped if they cut the strands in the wrong place. 
+Gyrgum, Zalthir, Daz, and Thorin take a look around. Spiders are walking on strands. Those strands can be cut with fire or a blade. They can stop the spiders and escape if they cut the strands in the right places. They will get trapped if they cut the strands in the wrong place. 
 
 
 They remember this as a game from their childhood called ‘Cut the Graph.”

@@ -47,7 +47,7 @@ source: gmassist
 
 ---
 
-**[GM]** — *asking Thorin and Grygum whether they respond to the shrine*
+**[GM]** — *asking Thorin and Gyrgum whether they respond to the shrine*
 > "Joe, Thorin, do you offer anything to the family, or just let them keep going down the way?"
 
 **[Joe Beda]** — *as Thorin, hesitating*
@@ -56,7 +56,7 @@ source: gmassist
 **[GM]**
 > "I'm asking you, or Ben, do you perform any rite for the Burned Hamlet or the Tempus shrine?"
 
-**[Ben Pfaff]** — *as Grygum, considering*
+**[Ben Pfaff]** — *as Gyrgum, considering*
 > "The shrine is of interest to me. Do I… I don't think I know anything about this, particular,"
 
 **[Joe Beda]**
@@ -74,7 +74,7 @@ source: gmassist
 **[Gabe]** — *as Zalthir*
 > "Sure, I'm just supportive."
 
-**[Ben Pfaff]** — *as Grygum, asking whether the shrine warrants closer attention*
+**[Ben Pfaff]** — *as Gyrgum, asking whether the shrine warrants closer attention*
 > "Is there anything that leaps out at it, particularly as I pass by, that would attract my closer attention?"
 
 **[GM]**

@@ -54,7 +54,7 @@ A'lai orchestrated from the start). She is a **Path-B ally by default.**
 |---|---|
 | **Sylvira** | **Ally (default, re-keyed).** Full Path-B support live: **two free clues** (Vydykyq + Limniz), the lightning-bolt ambush opener, and she holds the Vault door with `counterspell`. Only drop this if you deliberately want her offstage for a session's pacing — treat that as the exception, not the norm. |
 | Yvenne (4+ ticks) | planar-residue trace → lava chamber — earned via Daz's sittings |
-| Vareth (Grygum trust) | Stars-at-Dawn → F-A-D-E |
+| Vareth (Gyrgum trust) | Stars-at-Dawn → F-A-D-E |
 | Daral (saved Monday) | Fustilugs etymology — only if he was saved |
 | Glabbagool | Whispering Dome boon banked — re-coaxes an Echo fragment later |
 
@@ -167,7 +167,7 @@ takeable (ten-stone tray).
 
 ## Beat 5 — B3, Book of Vile Darkness (~10 min)  unchanged
 Riddle door (answer: **"candle"**). If Manshoon didn't take it: 🟣 take / leave
-/ destroy (Grygum's `dispel evil and good` → `holy aura` → holy fire). **Don't
+/ destroy (Gyrgum's `dispel evil and good` → `holy aura` → holy fire). **Don't
 push.**
 
 ## Beat 6 — Attic rocket (~5 min, optional)  unchanged
@@ -226,7 +226,7 @@ Run as four short, warm, parallel farewells — let players pick whom to see:
     party hands at Candlekeep** regardless — Mike fills it from his own paranoia.
 - **Zalthir / Khell-Vire — closing letter,** sealed in front of Zalthir
   (standing correspondent; the unspoken affection stays *available, not given*).
-- **Grygum / Vareth — Stations 9–10 of the Stroud Wake + the unsigned sting**
+- **Gyrgum / Vareth — Stations 9–10 of the Stroud Wake + the unsigned sting**
   (*"He let you win, old friend"* — suspect pool stays open). School-of-thought
   choice (Stroud / Dragon / Bahamut) is **Ben's between-sessions call.**
 - **Thorin / Philemon — prescription delivered;** sealed letter banked **only if

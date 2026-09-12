@@ -14,14 +14,14 @@ source: gmassist
 - Daz retaliates by unleashing multiple rays of magical fire (Scorching Ray) at one of the horrors, dealing 24 points of damage. He initially considered Phantasmal Killer before learning from the GM that the horrors are constructs with no minds to attack ("They don't have feelings... They have objectives.").
 - A second horror engages Zalthir, striking him with a combination of slashing and force damage; Zalthir mitigated the slashing to take 9 total.
 - A third horror focuses its attacks on Daz, landing a heavy blow (32 points of damage) that leaves the wizard severely wounded with only three hit points remaining.
-- Grygum reassured Daz mid-fight: "don't worry, I've got plenty of heal spells. If you get knocked out, I'll just heal you," adding, "And I also have Revivify, so we're covered, either way." The GM added the encouragement, "Now is not the time to worry about being knocked unconscious. Now is the time to cast magic."
+- Gyrgum reassured Daz mid-fight: "don't worry, I've got plenty of heal spells. If you get knocked out, I'll just heal you," adding, "And I also have Revivify, so we're covered, either way." The GM added the encouragement, "Now is not the time to worry about being knocked unconscious. Now is the time to cast magic."
 - Zalthir strikes back at his attacker, and Glabbagool, fused to his arm, unleashes a corrosive acid (Corrosive Embrace, DC 13 Dexterity save) that begins to dissolve the horror's plate armor, reducing its defenses by 1 AC. The constructs have an armor class of 20.
 - Thorin strikes a horror with Dawnbringer, slowing the construct's movements with a sapping blow (disadvantage on its next attack), dealing 14 damage, and used a superiority die for a precision attack on a follow-up.
-- Grygum moves into position and releases a burst of holy radiance (Word of Radiance), searing two of the constructs simultaneously for 10 points each.
-- Daz, realizing the constructs seem to be tracking the mysterious key he carries (revealed via an insight roll), passes it to Grygum, then cast Magic Missile at a horror for 15 damage. The realization: the horrors were "very determined to get a key... that read inert under detect magic."
+- Gyrgum moves into position and releases a burst of holy radiance (Word of Radiance), searing two of the constructs simultaneously for 10 points each.
+- Daz, realizing the constructs seem to be tracking the mysterious key he carries (revealed via an insight roll), passes it to Gyrgum, then cast Magic Missile at a horror for 15 damage. The realization: the horrors were "very determined to get a key... that read inert under detect magic."
 - Zalthir grapples one of the remaining horrors while Glabbagool delivers another corrosive embrace (14 damage). The party clarified Glabbagool's Corrosive Embrace has its own pool of "uses" tied to hit points.
-- Thorin, using his Guardian ability, got attacks of opportunity when the horrors struck Grygum instead of him. He delivered the killing blow on one horror (before its second attack could land), and then struck down the last with 22 and 17 points of damage, causing them both to collapse into piles of rust and armor.
-- The party is left wondering how the constructs knew who held the inert, magically undetectable key. Zalthir noted only Kalan knew Daz held it, but the horrors went straight for Daz even after Grygum had briefly held it — "implying somehow they could... detect or sense the key." Fembris Lancer was present when the key was exchanged, making him a person of interest.
+- Thorin, using his Guardian ability, got attacks of opportunity when the horrors struck Gyrgum instead of him. He delivered the killing blow on one horror (before its second attack could land), and then struck down the last with 22 and 17 points of damage, causing them both to collapse into piles of rust and armor.
+- The party is left wondering how the constructs knew who held the inert, magically undetectable key. Zalthir noted only Kalan knew Daz held it, but the horrors went straight for Daz even after Gyrgum had briefly held it — "implying somehow they could... detect or sense the key." Fembris Lancer was present when the key was exchanged, making him a person of interest.
 - The session ended as the party ran out of time before they could interrogate Fembris or otherwise pursue the mystery.
 
 ## Verbatim moments
@@ -102,11 +102,11 @@ source: gmassist
 > "You're kind of very confused at this point in time. Fembris is kind of in shock. Daral goes, that's not possible! How could they possibly… these creatures can't be here?"
 
 **[scene tag — The Grapple Attempt on Daz]**
-- Helmed Horror No. 3 rushed past Grygum to reach Daz, ignoring Grygum entirely.
+- Helmed Horror No. 3 rushed past Gyrgum to reach Daz, ignoring Gyrgum entirely.
 - It attempted to grapple Daz with a contested roll; the result was a tie, so Daz escaped the grapple.
 
 **GM**
-> "He basically ignores Grygum, rushes towards Daz."
+> "He basically ignores Gyrgum, rushes towards Daz."
 
 **Daz** — *bemused by being targeted*
 > "What did I ever do? This seems…"
@@ -277,8 +277,8 @@ source: gmassist
 > "So, if somebody who's within 5 feet of me, if number one attacks somebody else."
 > "I get to attack him immediately."
 
-**[scene tag — Grygum's Word of Radiance]**
-- Grygum moved into position and cast Word of Radiance, hitting two constructs for 10 points each.
+**[scene tag — Gyrgum's Word of Radiance]**
+- Gyrgum moved into position and cast Word of Radiance, hitting two constructs for 10 points each.
 
 **GM**
 > "And use Word of Radiance."
@@ -320,26 +320,26 @@ source: gmassist
 > "Unfortunately, you know, the reason you picked Helmed Horrors as assassins is they can't talk."
 > "Literally."
 
-**[scene tag — Grygum's Reassurance to Daz]**
-- Daz considered his options while wounded; Grygum offered heal spells and Revivify as backup, and The GM urged him to focus on casting.
+**[scene tag — Gyrgum's Reassurance to Daz]**
+- Daz considered his options while wounded; Gyrgum offered heal spells and Revivify as backup, and The GM urged him to focus on casting.
 
-**GM** — *Grygum reassures Daz*
-> "By the way, Grygum says, don't worry, I got plenty of heal spells, buddy."
+**GM** — *Gyrgum reassures Daz*
+> "By the way, Gyrgum says, don't worry, I got plenty of heal spells, buddy."
 
 **GM**
-> "Grygum says, don't worry, I've got plenty of heal spells. If you get knocked out, I'll just heal you, you'll be back up in no time."
+> "Gyrgum says, don't worry, I've got plenty of heal spells. If you get knocked out, I'll just heal you, you'll be back up in no time."
 
 **GM**
 > "Now is not the time to worry about being knocked unconscious. Now is the time to cast magic."
 
 **GM**
-> "And then, by the way, Grygum says, and I also have Revivify, so we're covered, either way."
+> "And then, by the way, Gyrgum says, and I also have Revivify, so we're covered, either way."
 
 **[scene tag — Daz Passes the Key and Casts Magic Missile]**
-- Daz gave the key to Grygum, then cast Magic Missile at Helmed Horror 1 for 15 damage.
+- Daz gave the key to Gyrgum, then cast Magic Missile at Helmed Horror 1 for 15 damage.
 
 **Daz**
-> "Okay, yeah, I'll give Grygum the… key."
+> "Okay, yeah, I'll give Gyrgum the… key."
 
 **Daz**
 > "Alright, so let me magic missile number one."
@@ -347,20 +347,20 @@ source: gmassist
 **GM**
 > "Alright, it does work. The creature takes 15 points of damage."
 
-**[scene tag — Horrors Track the Key to Grygum]**
-- With the key transferred, a horror shifted its attack to Grygum, who repeatedly resisted grapple attempts.
+**[scene tag — Horrors Track the Key to Gyrgum]**
+- With the key transferred, a horror shifted its attack to Gyrgum, who repeatedly resisted grapple attempts.
 
 **GM**
-> "Alright. Grygum now has the keys, so this guy decides to attack Grygum."
+> "Alright. Gyrgum now has the keys, so this guy decides to attack Gyrgum."
 
 **GM**
-> "No, Grygum manages to not get grappled again, good grief!"
+> "No, Gyrgum manages to not get grappled again, good grief!"
 
 **GM**
 > "He made a strength saving throw of 17."
 
 **[scene tag — Thorin's Opportunity Attacks and Kills]**
-- When a horror attacked Grygum, Thorin got an opportunity attack via Guardian and killed the horror before its second attack landed.
+- When a horror attacked Gyrgum, Thorin got an opportunity attack via Guardian and killed the horror before its second attack landed.
 
 **Thorin**
 > "Okay, immediately after a creature of you takes a disengage action or hits a target other than… okay, so immediately after he hits, okay, so then I get the attack of opportunity."
@@ -368,7 +368,7 @@ source: gmassist
 **GM**
 > "Alright, you killed them, so the second attack never lands."
 
-**GM** — *Grygum's status*
+**GM** — *Gyrgum's status*
 > "He got 47 hit points. He says, don't worry, don't you worry, Daz, you're gonna be fine, totally fine."
 
 **[scene tag — Zalthir Finishes His Horror]**
@@ -418,11 +418,11 @@ source: gmassist
 > "Possibly."
 
 **[scene tag — Fembris Lancer as Suspect]**
-- The party reasoned that the horrors tracked the key straight to Daz even after Grygum briefly held it, implying detection.
+- The party reasoned that the horrors tracked the key straight to Daz even after Gyrgum briefly held it, implying detection.
 - They noted Fembris Lancer had witnessed the key exchange.
 
 **Zalthir**
-> "Well, just to be clear, when Grygum gave the key to Daz."
+> "Well, just to be clear, when Gyrgum gave the key to Daz."
 > "Who was present? Who would have seen that?"
 
 **GM**

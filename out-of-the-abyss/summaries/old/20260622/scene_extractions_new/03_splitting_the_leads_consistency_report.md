@@ -26,23 +26,23 @@
 
 ---
 
-## Finding 3: Grygum assigned to Janussi's chambers / third-story apartment — already completed in Ch. 57
+## Finding 3: Gyrgum assigned to Janussi's chambers / third-story apartment — already completed in Ch. 57
 
-**Location:** Scene Summary, Verbatim Moments (Grygum's lines), Scene Tag
+**Location:** Scene Summary, Verbatim Moments (Gyrgum's lines), Scene Tag
 
-**Issue:** The recap presents Grygum heading to Janussi's chambers / the third-story apartment as an action being planned in this scene. The campaign_state records this as already done: Grygum explored Janussi's third-floor chambers (alone) in Ch. 57, found the damning note on Kalan, and cast *Mending* on the wrapping paper there.
+**Issue:** The recap presents Gyrgum heading to Janussi's chambers / the third-story apartment as an action being planned in this scene. The campaign_state records this as already done: Gyrgum explored Janussi's third-floor chambers (alone) in Ch. 57, found the damning note on Kalan, and cast *Mending* on the wrapping paper there.
 
-**Evidence:** campaign_state.md Ch. 57 timeline: *"Grygum (alone) finds the damning note in Janussi's chambers."* party.md Ch. 57 beats for Grygum: *"Explored Janussi's third-floor chambers (alone), finding the damning note on Kalan; cast Mending to reassemble the wrapping paper (proving premeditation)."* world_state.md §5: *"Grygum returns from his colloquium; … Grygum (alone) finds the damning note in Janussi's chambers."*
+**Evidence:** campaign_state.md Ch. 57 timeline: *"Gyrgum (alone) finds the damning note in Janussi's chambers."* party.md Ch. 57 beats for Gyrgum: *"Explored Janussi's third-floor chambers (alone), finding the damning note on Kalan; cast Mending to reassemble the wrapping paper (proving premeditation)."* world_state.md §5: *"Gyrgum returns from his colloquium; … Gyrgum (alone) finds the damning note in Janussi's chambers."*
 
-**Suggested Fix:** Same structural issue as Findings 1 and 2. If this recap scene predates Ch. 57 in sequence, it must be labeled clearly. If it is intended to be post-Ch. 57 content, then Grygum's Janussi-chambers investigation should be described as complete and any return trip should be framed as a follow-up with a specific new purpose (e.g., the GM's hint about "further evidence related to Kalan you may not have found" could justify a second visit, but that must be distinguished from the already-completed first visit).
+**Suggested Fix:** Same structural issue as Findings 1 and 2. If this recap scene predates Ch. 57 in sequence, it must be labeled clearly. If it is intended to be post-Ch. 57 content, then Gyrgum's Janussi-chambers investigation should be described as complete and any return trip should be framed as a follow-up with a specific new purpose (e.g., the GM's hint about "further evidence related to Kalan you may not have found" could justify a second visit, but that must be distinguished from the already-completed first visit).
 
 ---
 
 ## Finding 4: "What Alkrist burned at the feast" open thread — status ambiguous given confession
 
-**Location:** Scene Summary ("open thread"), Verbatim Moments (Grygum's reminder), Scene Tag
+**Location:** Scene Summary ("open thread"), Verbatim Moments (Gyrgum's reminder), Scene Tag
 
-**Issue:** The recap flags "what Alkrist burned at the feast" as an open thread Grygum raises before departing. The campaign_state records that Alkrist's full confession under *zone of truth* already answered this: Alkrist burned the midnight-tears vial's label at the Dead Winter tree (the "feast" / Deadwinter celebration context), nearly caught by the staffer Irony. This is not listed as an open thread in the campaign_state.
+**Issue:** The recap flags "what Alkrist burned at the feast" as an open thread Gyrgum raises before departing. The campaign_state records that Alkrist's full confession under *zone of truth* already answered this: Alkrist burned the midnight-tears vial's label at the Dead Winter tree (the "feast" / Deadwinter celebration context), nearly caught by the staffer Irony. This is not listed as an open thread in the campaign_state.
 
 **Evidence:** campaign_state.md Ch. 57 / world_state.md §5: *"burned the vial's label at the Dead Winter tree — nearly caught by the staffer Irony."* This is presented as resolved information from the confession, not an open question.
 
@@ -80,7 +80,7 @@
 |---|---|---|---|
 | 1 | Scene Summary / Scene Tag | Daz's Sylvira interview described as upcoming; already completed in Ch. 57 | High — contradicts completed canon |
 | 2 | Scene Summary / Verbatim / Scene Tag | Kalan's zone of truth / Alkrist interrogation described as future; already completed in Ch. 57 | High — contradicts completed canon |
-| 3 | Scene Summary / Verbatim / Scene Tag | Grygum's Janussi-chambers visit described as upcoming; already completed in Ch. 57 | High — contradicts completed canon |
+| 3 | Scene Summary / Verbatim / Scene Tag | Gyrgum's Janussi-chambers visit described as upcoming; already completed in Ch. 57 | High — contradicts completed canon |
 | 4 | Scene Summary / Verbatim / Scene Tag | "What Alkrist burned" flagged as open thread; answered in Ch. 57 confession | Medium — misleading if post-confession |
 | 5 | Scene Summary / Verbatim | "Dragonborn to Dragonborn" conflates Zalthir/Alkrist dynamic with Kalan mention | Low — minor ambiguity |
 | 6 | Scene Summary / Verbatim / Scene Tag | Kalan described as having "disappeared"; he was reassigned to defense duties | Low — misleading framing |

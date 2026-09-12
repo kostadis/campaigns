@@ -24,11 +24,11 @@
 **Jorlan**
 - Current location: Velkynvelve cavern, on or near the bridge, compromised/reeling
 - Current state: Alive but significantly damaged; took full force of the Glyph of Warding detonation; subsequently struck for 14 damage by Thorin's critical hit with Dawnbringer; staggered; pushed off-balance with disadvantage on next attack
-- Recent actions: Was positioned on his side of the bridge before combat; charged across the bridge in response to Grygum's taunt; triggered the Glyph of Warding; absorbed the blast; was then struck by Thorin; managed to land a glancing blow on Thorin for 5 damage via a spore servant legendary action follow-up
+- Recent actions: Was positioned on his side of the bridge before combat; charged across the bridge in response to Gyrgum's taunt; triggered the Glyph of Warding; absorbed the blast; was then struck by Thorin; managed to land a glancing blow on Thorin for 5 damage via a spore servant legendary action follow-up
 - Faction: Surviving Velkynvelve drow (uninfected per Asha); described as surviving through hatred rather than devotion
 - Revealed motivations/secrets: Asha identifies Jorlan as one of only two uninfected survivors; his survival is attributed to hatred rather than religious devotion; demonstrated impulsive commitment when baited — ego overrode tactical awareness
 
-**Grygum**
+**Gyrgum**
 - Current location: Velkynvelve cavern, active combat
 - Current state: Alive; has expended one 4th-level spell slot; lent light crossbow to Thorin
 - Recent actions: Lent his light crossbow to Thorin; inscribed the Glyph of Warding into the bridge stone (trigger: hostile creature crossing; invisible once complete; detonated for 21 damage in a sphere); verbally baited Jorlan into crossing the bridge and triggering the glyph; committed the Dust of Suleiman directly onto the Big Heart Fungus
@@ -45,9 +45,9 @@
 **Thorin**
 - Current location: Velkynvelve cavern, engaged in melee with Jorlan
 - Current state: Alive; took 5 damage from a spore servant's attack; wielding Dawnbringer and borrowed crossbow
-- Recent actions: Borrowed Grygum's light crossbow; participated in pre-combat planning; noted glyph placement carefully to avoid stepping on it; closed on Jorlan after the glyph detonated; landed a critical hit with Dawnbringer for 14 damage; second swing missed; used Sap to push Jorlan off-balance, imposing disadvantage on Jorlan's next attack; took 5 damage from a spore servant follow-up
+- Recent actions: Borrowed Gyrgum's light crossbow; participated in pre-combat planning; noted glyph placement carefully to avoid stepping on it; closed on Jorlan after the glyph detonated; landed a critical hit with Dawnbringer for 14 damage; second swing missed; used Sap to push Jorlan off-balance, imposing disadvantage on Jorlan's next attack; took 5 damage from a spore servant follow-up
 - Faction: Travelling party
-- Revealed motivations/secrets: Declined to touch the mushroom artifact (shares prior context with Grygum on where that road leads); files Zalthir under "useful people" for teleportation-as-weapon capability; maintains tactical wariness about Asha's drow nature and her schedule of engagement; internally respects Jorlan's commitment even while exploiting it
+- Revealed motivations/secrets: Declined to touch the mushroom artifact (shares prior context with Gyrgum on where that road leads); files Zalthir under "useful people" for teleportation-as-weapon capability; maintains tactical wariness about Asha's drow nature and her schedule of engagement; internally respects Jorlan's commitment even while exploiting it
 
 **Glabbagool**
 - Current location: Velkynvelve cavern
@@ -65,7 +65,7 @@
 **The Fungal Guards / Former Velkynvelve Guards** (deceased/corrupted)
 - Current state: Four bodies raised as spore servants by Ilvara during combat; one destroyed by the Glyph of Warding detonation; remaining servants staggered; at least one barely holding together
 - Recent actions: Rose from the cavern floor at Ilvara's command; engaged the party; one delivered a glancing blow on Thorin via legendary action for 5 damage; one destroyed by Glyph of Warding
-- Notes: Zalthir identifies them as "poor guards" who "have been through quite a lot"; Grygum notes they were drow with names and duties who have been "repurposed"
+- Notes: Zalthir identifies them as "poor guards" who "have been through quite a lot"; Gyrgum notes they were drow with names and duties who have been "repurposed"
 
 ---
 
@@ -87,7 +87,7 @@
 - Current goals: Kill Ilvara; destroy the Zuggtmoy icon; survive the combat; collect payment (Ilvara's magical items)
 - Recent actions: Negotiated provisional alliance with Asha; placed Glyph of Warding on the bridge; initiated combat against Ilvara; deployed multiple high-level resources (Glyph, Dust of Suleiman, Fireball at 4th level); grappled Ilvara; baited Jorlan into the glyph
 - Relationships: Provisional alliance with Asha Vandree; hostile to Ilvara and Jorlan; Glabbagool is a member/familiar
-- Key members: Daz, Thorin, Zalthir, Grygum, Glabbagool
+- Key members: Daz, Thorin, Zalthir, Gyrgum, Glabbagool
 
 ---
 
@@ -101,8 +101,8 @@
 - Asha provided intelligence: Ilvara was once a high priestess of Lolth; she has been corrupted by the Zuggtmoy/Bride-of-Lolth ideology; her allies have been converted to mindless fungal creatures; the mushroom artifact from Neverlight Grove is the mechanism of corruption; the Big Heart Fungus is a primary weapon requiring sustained damage; only Asha and Jorlan remain uninfected
 - Asha confirmed her survival protocol: 20-foot maintained distance from Ilvara, separate food supply
 - The party negotiated terms: they kill Ilvara; Asha holds the external perimeter; payment is Ilvara's magical items (possibly contaminated) plus the gratitude of Lolth
-- Grygum borrowed — correction: Thorin borrowed Grygum's light crossbow
-- Grygum inscribed a Glyph of Warding into the bridge stone on Jorlan's side; trigger set to hostile creature crossing; made invisible upon completion
+- Gyrgum borrowed — correction: Thorin borrowed Gyrgum's light crossbow
+- Gyrgum inscribed a Glyph of Warding into the bridge stone on Jorlan's side; trigger set to hostile creature crossing; made invisible upon completion
 - Zalthir teleported directly to Ilvara on her elevated platform, initiating combat
 - Zalthir grappled Ilvara and struck twice for 16 and 15 damage (31 total)
 - Zalthir began moving Ilvara toward the Dust of Suleiman area
@@ -110,12 +110,12 @@
 - The Big Heart Fungus detonated a spore cloud across the cavern floor — a 20-foot area of spore-thick poison that did not drift or disperse
 - Zalthir took the full brunt of the spore cloud and acquired the poisoned condition; disengaged and flew 10 feet up to clear the cloud
 - Ilvara raised four former Velkynvelve guards as spore servants from the cavern floor
-- Grygum verbally taunted Jorlan ("come get it, idiot"), baiting him into charging across the bridge
+- Gyrgum verbally taunted Jorlan ("come get it, idiot"), baiting him into charging across the bridge
 - Jorlan charged across the bridge and triggered the Glyph of Warding, which detonated for 21 force damage in a sphere
 - One spore servant was destroyed by the glyph detonation; remaining servants staggered; Jorlan took the full blast
 - Thorin closed on Jorlan and landed a critical hit with Dawnbringer for 14 damage; second swing missed; used Sap to impose disadvantage on Jorlan's next attack
 - A spore servant landed a glancing blow on Thorin for 5 damage via legendary action
-- Grygum committed the Dust of Suleiman directly onto the Big Heart Fungus
+- Gyrgum committed the Dust of Suleiman directly onto the Big Heart Fungus
 - Daz cast Fireball at 4th level (8 dice), using Sculpt Spells to exclude Zalthir and Thorin; targeted Ilvara and the Zuggtmoy icon simultaneously; Ilvara half-saved, taking 12 damage; the icon took 12 damage
 - Both Zalthir and Thorin were unsinged by the Fireball due to Sculpt Spells
 

@@ -11,10 +11,10 @@ scene: The Heart Fungus and the Drow Betrayal
 focus: Thorin obliterates the Big Heart Fungus in a single radiant-fueled round with Dawnbringer, then watches Jorlan break away to chase Ilvara, wrestling with whether to let the lovers' vendetta play out.
 
 ## Scene 3
-narrator: Grygum
+narrator: Gyrgum
 chunks: 1
 scene: Chaos in the Fungal Cavern
-focus: Grygum watches Ilvara's Insect Plague wipe out the minions and threaten Glabbagool, navigates the lovers' quarrel between Jorlan and Ilvara with Bahamut-like diplomacy, and fires a Guiding Bolt into the chaos.
+focus: Gyrgum watches Ilvara's Insect Plague wipe out the minions and threaten Glabbagool, navigates the lovers' quarrel between Jorlan and Ilvara with Bahamut-like diplomacy, and fires a Guiding Bolt into the chaos.
 
 ## Scene 4
 narrator: Daz
@@ -29,7 +29,7 @@ scene: Ilvara's Desperate Stand
 focus: Locked out of melee by the Frightened condition, Zalthir endures the monk's worst nightmare — watching others fight the enemy he grappled — before redirecting his frustration into punching the T'sarran mage to death.
 
 ## Scene 6
-narrator: Grygum
+narrator: Gyrgum
 chunks: 2
 scene: The Fall of Ilvara
-focus: Grygum delivers the killing blow with Guiding Bolt, exploiting Ilvara's radiant vulnerability and watching her detonate into a cloud of poisonous spores — the cleric of Bahamut's light ending the corruption at its source.
+focus: Gyrgum delivers the killing blow with Guiding Bolt, exploiting Ilvara's radiant vulnerability and watching her detonate into a cloud of poisonous spores — the cleric of Bahamut's light ending the corruption at its source.

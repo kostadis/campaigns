@@ -1,22 +1,22 @@
 [
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a ghost bound to a cluster of bones in a cavern, unable to move more than 30 feet from them. He was murdered and dismembered by Buppido, his former business partner. He seeks help transporting his bones to Blingdenstone and has revealed fragmented knowledge about the Faerzress anomaly and Derro madness.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a ghost bound to a cluster of bones in a cavern, unable to move more than 30 feet from them. He was murdered and dismembered by Buppido, his former business partner. He seeks help transporting his bones to Blingdenstone and has revealed fragmented knowledge about the Faerzress anomaly and Derro madness.",
     "source_quote": "He was surprised. He doesn't know how long he's been here. Less than a year? Telling time in this cavern is hard.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is a dwarf deeply skeptical of Grygum\u2019s requests. He resents being asked to carry bones without receiving aid or information in return. He has compiled mental notes on the Faerzress anomaly, Buppido\u2019s ties to the Council of Savants, and the possibility of planar disruption. He is determined to extract useful intelligence and shift the dynamic from obligation to collaboration.",
+    "fact": "Thorin is a dwarf deeply skeptical of Gyrgum\u2019s requests. He resents being asked to carry bones without receiving aid or information in return. He has compiled mental notes on the Faerzress anomaly, Buppido\u2019s ties to the Council of Savants, and the possibility of planar disruption. He is determined to extract useful intelligence and shift the dynamic from obligation to collaboration.",
     "source_quote": "This guy wants us to take his bones to Blingdenstone and hasn\u2019t helped us. Time for this to change.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is an orc who observes and reacts to the ghost\u2019s revelations with curiosity. He is the one who proposes the theory that the Faerzress\u2019s blink may have broken planar boundaries. His insight is met with skepticism by the ghost, but he remains engaged in the mystery, prompting Grygum to reveal further details about the obsidian ring and the hand.",
+    "fact": "Daz is an orc who observes and reacts to the ghost\u2019s revelations with curiosity. He is the one who proposes the theory that the Faerzress\u2019s blink may have broken planar boundaries. His insight is met with skepticism by the ghost, but he remains engaged in the mystery, prompting Gyrgum to reveal further details about the obsidian ring and the hand.",
     "source_quote": "Then if it blinked, could it have \u2014 I dunno \u2014 broken the walls between the planes?",
     "quote_verified": false
   },
@@ -30,7 +30,7 @@
   {
     "type": "npc",
     "subject": "Buppido",
-    "fact": "Buppido is a Derro who murdered and dismembered Grygum, his former supplier, to eliminate competition and gain control over smuggling routes. He is tied to the Council of Savants and sought to bypass Duergar taxes. He experienced a sudden shift in perception after the Faerzress glowed and dimmed, becoming convinced of his own divinity. His actions and mental state are central to the unfolding mystery.",
+    "fact": "Buppido is a Derro who murdered and dismembered Gyrgum, his former supplier, to eliminate competition and gain control over smuggling routes. He is tied to the Council of Savants and sought to bypass Duergar taxes. He experienced a sudden shift in perception after the Faerzress glowed and dimmed, becoming convinced of his own divinity. His actions and mental state are central to the unfolding mystery.",
     "source_quote": "He promised to prove his point and brought me here.",
     "quote_verified": true
   },
@@ -51,7 +51,7 @@
   {
     "type": "faction",
     "subject": "Duergar",
-    "fact": "The Duergar are a subterranean dwarven race that controls taxation and trade routes in the Underdark. Buppido sought to evade their levies by using Grygum as a supplier and later eliminating him. Their presence is a constant pressure on Derro smuggling operations, and their influence extends into the political and economic structure of the region.",
+    "fact": "The Duergar are a subterranean dwarven race that controls taxation and trade routes in the Underdark. Buppido sought to evade their levies by using Gyrgum as a supplier and later eliminating him. Their presence is a constant pressure on Derro smuggling operations, and their influence extends into the political and economic structure of the region.",
     "source_quote": "He needed to move product out of the city without dealing with the Duergar taxes.",
     "quote_verified": false
   },
@@ -65,14 +65,14 @@
   {
     "type": "object",
     "subject": "Obsidian Ring",
-    "fact": "An obsidian ring of value is attached to Grygum\u2019s missing hand. It is not magical, but Grygum implies it may have been if it would motivate the party to find the hand. It is a personal artifact of his former life and may bear familial or symbolic significance.",
+    "fact": "An obsidian ring of value is attached to Gyrgum\u2019s missing hand. It is not magical, but Gyrgum implies it may have been if it would motivate the party to find the hand. It is a personal artifact of his former life and may bear familial or symbolic significance.",
     "source_quote": "There is a family ring on it, an obsidian ring of some value. You can keep it if you find the hand.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Cavern of Bones",
-    "fact": "A dark, confined cavern where Grygum\u2019s bones lie, and where he has been bound as a ghost for less than a year. The space is too small to move beyond 30 feet from the bones, and time is difficult to measure here. It is the site of his murder and the origin point of the party\u2019s current quest. The walls are silent, and the air carries the scent of old earth and decay.",
+    "fact": "A dark, confined cavern where Gyrgum\u2019s bones lie, and where he has been bound as a ghost for less than a year. The space is too small to move beyond 30 feet from the bones, and time is difficult to measure here. It is the site of his murder and the origin point of the party\u2019s current quest. The walls are silent, and the air carries the scent of old earth and decay.",
     "source_quote": "Being unable to move more than 30 feet from your bones makes it harder.",
     "quote_verified": false
   },
@@ -99,8 +99,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s Murder",
-    "fact": "Grygum was killed and dismembered by Buppido, his business partner, to eliminate competition and monopolize smuggling routes. His body was scattered, his bones left in the cavern, and his spirit bound to them. His death occurred less than a year ago, and his ghost remains unaware of the full consequences of the Faerzress fluctuation.",
+    "subject": "Gyrgum\u2019s Murder",
+    "fact": "Gyrgum was killed and dismembered by Buppido, his business partner, to eliminate competition and monopolize smuggling routes. His body was scattered, his bones left in the cavern, and his spirit bound to them. His death occurred less than a year ago, and his ghost remains unaware of the full consequences of the Faerzress fluctuation.",
     "source_quote": "He killed me and cut my body up into the pieces you see here.",
     "quote_verified": true
   },
@@ -114,28 +114,28 @@
   {
     "type": "thread",
     "subject": "The Missing Hand",
-    "fact": "Grygum\u2019s hand, bearing an obsidian family ring, is missing and may have wandered away after his death. He claims it went 'off scurrying about,' suggesting supernatural autonomy. The party has not searched for it, but its recovery may yield clues to his identity, Buppido\u2019s motives, or the nature of the ring.",
+    "fact": "Gyrgum\u2019s hand, bearing an obsidian family ring, is missing and may have wandered away after his death. He claims it went 'off scurrying about,' suggesting supernatural autonomy. The party has not searched for it, but its recovery may yield clues to his identity, Buppido\u2019s motives, or the nature of the ring.",
     "source_quote": "There is a family ring on it, an obsidian ring of some value. You can keep it if you find the hand.",
     "quote_verified": true
   },
   {
     "type": "thread",
     "subject": "Blingdenstone\u2019s Role",
-    "fact": "Grygum insists that Blingdenstone is the party\u2019s exit point and advises them to avoid references to Lolth, Menzoberranzan, and the number eight or spiders. This implies Blingdenstone has a political or religious stance opposed to those entities, and that the party\u2019s journey beyond the cavern depends on navigating these taboos.",
+    "fact": "Gyrgum insists that Blingdenstone is the party\u2019s exit point and advises them to avoid references to Lolth, Menzoberranzan, and the number eight or spiders. This implies Blingdenstone has a political or religious stance opposed to those entities, and that the party\u2019s journey beyond the cavern depends on navigating these taboos.",
     "source_quote": "The city of Blingdenstone is your exit. Make sure to deny any association to Lolth, or Menzoberranzan, and make any references to the number eight or spiders.",
     "quote_verified": false
   },
   {
     "type": "date",
     "subject": "Few months ago",
-    "fact": "The Faerzress fluctuation and Buppido\u2019s descent into delusion occurred a few months ago. This is the only temporal anchor provided for the central anomaly, and it precedes Grygum\u2019s current state as a ghost by less than a year.",
+    "fact": "The Faerzress fluctuation and Buppido\u2019s descent into delusion occurred a few months ago. This is the only temporal anchor provided for the central anomaly, and it precedes Gyrgum\u2019s current state as a ghost by less than a year.",
     "source_quote": "A few months ago. Why? And this is unimportant.",
     "quote_verified": true
   },
   {
     "type": "date",
     "subject": "Less than a year",
-    "fact": "Grygum has been bound as a ghost for less than a year. He cannot accurately measure time due to his spectral condition and confinement to the cavern. This places his murder and the Faerzress event within a tight temporal window, suggesting direct causality.",
+    "fact": "Gyrgum has been bound as a ghost for less than a year. He cannot accurately measure time due to his spectral condition and confinement to the cavern. This places his murder and the Faerzress event within a tight temporal window, suggesting direct causality.",
     "source_quote": "Less than a year? Telling time in this cavern is hard.",
     "quote_verified": true
   }

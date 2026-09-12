@@ -32,13 +32,13 @@ Zalthir then turns to the halfing, “About the treasure?”
 Fargas Rumblefoot is tempted to deny what he said, but the look on Zalthir’s face dissuades him. 
 
 
-Furthermore, Grygum pulls out a scrap of paper, says, “I took notes while you were talking,” and then repeats what Fargas said. 
+Furthermore, Gyrgum pulls out a scrap of paper, says, “I took notes while you were talking,” and then repeats what Fargas said. 
 
 
 The halfling adventurer sighs, “I suppose I should keep my end of the bargain.” He sits down, picks some spiderweb still in his hair and his equipment, and begins - “In ages past, at the height of Faerûn’s great empires of magic, the half-elf sorcerer Brysis of Khaem was interred in a floating tomb. After the fall of the empire of Netheril and its flying cities, Brysis’s tomb plummeted into a crevasse and wound up in the Underdark, where it has remained for centuries.”  
 
 
-Grygum looks up from his notes, “And it’s full of treasure?” 
+Gyrgum looks up from his notes, “And it’s full of treasure?” 
 
 
 Thorin asks, “Is it full of Bris?” 
@@ -62,7 +62,7 @@ Zalthir turns to his fellow escapees - “It is interesting that he said he knew
 The monk realizes that Fargas’ claims were either made out of desperation or bravado, but he is uncertain if Farga is lying now. 
 
 
-Grygum looks at Fargas, takes a measure of how the halfling speaks, and declares, “Fargas wasn’t -lying- and he isn’t lying.” 
+Gyrgum looks at Fargas, takes a measure of how the halfling speaks, and declares, “Fargas wasn’t -lying- and he isn’t lying.” 
 
 
 Zalthir then walks up to Fargas and touches his belly. The halfling is very miffed. “What was that about?” 
@@ -84,7 +84,7 @@ Sarith sighs, “Probably best if I draw a map.” He uses the Ormu that Zalthir
 “We started in Velkynvelve. We have been heading towards Sloobludop. We are at the Silken Paths. The Darklake is a large body of water. Unlike the overbrite, it doesn’t have a surface in the conventional sense. It’s a large water balloon in the Underdark, where intersecting caverns, caves, and tunnels allow navigation. After we get to Sloobludop, Buppido says we should go to Gracklstugh. Gracklstugh is a large Derro city. I agree with him. That’s where we can get weapons and gear. The tomb is on the way.” 
 
 
-“How many days are we from Sloobludop?” asks Grygum. 
+“How many days are we from Sloobludop?” asks Gyrgum. 
 
 
 Sethir answers, “Three days.” 
@@ -106,7 +106,7 @@ A few hours later, as they walk along a strand of web far removed from other str
 It reaches out with its mind and starts talking - “I bring warnings!” 
 
 
-Grygum, always friendly, asks, “What warning?” 
+Gyrgum, always friendly, asks, “What warning?” 
 
 
 “I have escaped from my imprisonment to a long-dead drow wizard.” 
@@ -115,13 +115,13 @@ Grygum, always friendly, asks, “What warning?”
 Zalthir adds, “Us too.” 
 
 
-The large eye and one eye stalk focus on Zalthir, and the other three eyestalks focus on Grygum, Thorin, and Daz. 
+The large eye and one eye stalk focus on Zalthir, and the other three eyestalks focus on Gyrgum, Thorin, and Daz. 
 
 
 “I bring warnings of Demons,” it broadcasts. 
 
 
-“Where and what kind of demons?” asks Grygum 
+“Where and what kind of demons?” asks Gyrgum 
 
 
 “Why do you want to know?” It pauses and then stares at Zalthir, “Maybe you are a demon! Maybe you weren’t prisoners of the Drow but worked for the Drow. Maybe that Drow is your master!” 
@@ -133,7 +133,7 @@ Two eyestalks now stare at Daz.
 Zalthir reaches out through the mind network of the myconid and wonders who can try to convince this creature of its benign intent. 
 
 
-Grygum says, “Jimjar, I’ll make a bet you can’t convince him that we are not demons and not enemies.” 
+Gyrgum says, “Jimjar, I’ll make a bet you can’t convince him that we are not demons and not enemies.” 
 
 
 Jimjar takes the bet and fails. 
@@ -151,7 +151,7 @@ Daz strikes with magic missiles.
 Zalthir runs towards Thorin, who is blocking his approach to the creature. He looks at the strand and realizes he can go under it by holding onto the spider webs. While hanging on the spiderweb, he attempts to strike the creature. Unfortunately, the effort to hold on and attack is too much, and he misses. 
 
 
-Grygum mutters to himself, “I need better-ranged spells.” He then takes his handheld crossbow and fires at the creature. 
+Gyrgum mutters to himself, “I need better-ranged spells.” He then takes his handheld crossbow and fires at the creature. 
 
 
 One of the eyestalks, meanwhile, emits an eerie green ray, and Zalthir is now paralyzed. 

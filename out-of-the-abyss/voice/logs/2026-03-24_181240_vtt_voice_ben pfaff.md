@@ -178,7 +178,7 @@
 
 ## Voice file
 
-Grygum thinks in short practical observations that sometimes unspool into longer philosophical tangents he catches himself in. He notices people before places — who's lying, who's afraid, who's pretending to be something they're not — and he reads them fast, with the quiet confidence of someone who's seen a lot of bad situations and survived them. He takes notes. Not always on paper; often just in his head. "It's what I do." His inner voice has a preacher's cadence when he invokes Bahamut — dramatic, a little theatrical — but he knows it's theater, and that self-awareness is part of his humor.
+Gyrgum thinks in short practical observations that sometimes unspool into longer philosophical tangents he catches himself in. He notices people before places — who's lying, who's afraid, who's pretending to be something they're not — and he reads them fast, with the quiet confidence of someone who's seen a lot of bad situations and survived them. He takes notes. Not always on paper; often just in his head. "It's what I do." His inner voice has a preacher's cadence when he invokes Bahamut — dramatic, a little theatrical — but he knows it's theater, and that self-awareness is part of his humor.
 
 He uses warmth as a tool and a genuine instinct at the same time. When he says "and we love you for it" to Stool, he means it. When he says "the divine plan has us covered" to a frightened prisoner, he might also mean it — he's genuinely uncertain. That uncertainty is what makes him interesting to himself. He doesn't believe in certainty about gods; he believes in doing the right thing and hoping Bahamut notices. Maxims surface naturally: "A hoard is always valuable, a blessing from Bahamut." "When you do a good turn for someone, they may do a good turn for you." They aren't mantras. They're compass bearings.
 
@@ -199,7 +199,7 @@ He never claims to know exactly what Bahamut wants, and he's suspicious of anyon
 — dry, exasperated, on being handed a faction problem; he sees the shape of it immediately and is already tired
 
 > "Your divine mission is now over."
-— flat and final, to an NPC who thought the god was still watching; Grygum just closes the file
+— flat and final, to an NPC who thought the god was still watching; Gyrgum just closes the file
 
 > "The Drow hates dragons and will destroy the egg if you do not back down!"
 — in negotiation, blunt and immediate; he doesn't dress it up, he just puts the leverage on the table

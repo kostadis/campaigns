@@ -21,9 +21,9 @@ Female derro, fanatical devotee and cult authority figure of Demogorgon, affilia
 ## History with the Party
 1. **Flumph encounter:** The party first learned of Plinki through a flumph's psychic trauma dump, which described a derro conducting evil activities around an obelisk in a chamber with a circular pathway and pyramid, working with the Council of Savants.
 2. **Prior references:** Before reaching the obelisk chamber, the party encountered Skiit and Ulnara, both of whom answered to Plinki. Skiit cited Plinki's promises of a better job and her declarations that followers of Demogorgon would make the Derro proud and powerful. Ulnara hoped the party would tell Plinki she had been helpful.
-3. **Meeting at the obelisk:** The party found Plinki stroking the fifty-foot-tall black obelisk atop the mesa's highest tier. When Grygum introduced himself as a cleric of Bahamut, she became excited, interpreting his arrival as proof her ritual was working — "A cleric of Bahamut to see my creation! Excellent!"
-4. **Confrontation:** Plinki revealed the egg's origin (stolen by the Grey Ghosts from the Keepers of the Flame) and declared that Grygum's beating heart would seal the ritual. She signaled six derro followers to move on the party.
-5. **Combat and death:** She hesitated when Grygum threatened the egg's destruction. Zalthir caught her in magical darkness, grappled her, and Grygum struck her with a necromantic claw. Zalthir then killed her with a fire breath attack. Her death shattered her followers' morale.
+3. **Meeting at the obelisk:** The party found Plinki stroking the fifty-foot-tall black obelisk atop the mesa's highest tier. When Gyrgum introduced himself as a cleric of Bahamut, she became excited, interpreting his arrival as proof her ritual was working — "A cleric of Bahamut to see my creation! Excellent!"
+4. **Confrontation:** Plinki revealed the egg's origin (stolen by the Grey Ghosts from the Keepers of the Flame) and declared that Gyrgum's beating heart would seal the ritual. She signaled six derro followers to move on the party.
+5. **Combat and death:** She hesitated when Gyrgum threatened the egg's destruction. Zalthir caught her in magical darkness, grappled her, and Gyrgum struck her with a necromantic claw. Zalthir then killed her with a fire breath attack. Her death shattered her followers' morale.
 6. **Journal recovery:** After her death, Zalthir recovered her journal and letters from a desk in the northwest corner of the obelisk chamber, revealing the full scope of her plans.
 
 ## Current Status
@@ -39,7 +39,7 @@ Female derro, fanatical devotee and cult authority figure of Demogorgon, affilia
 - **Narrak:** Cult leader; co-conspirator.
 - **Grey Ghosts:** Received the stolen red dragon egg from them.
 - **Demogorgon:** Object of fanatical worship; the egg corruption was meant as an offering.
-- **Grygum (party):** Viewed him as an unwitting sacrifice to complete her ritual; he attempted to reason with her and failed.
+- **Gyrgum (party):** Viewed him as an unwitting sacrifice to complete her ritual; he attempted to reason with her and failed.
 - **Zalthir (party):** Identified her as the enemy's lynchpin and killed her directly; recovered her journal.
 - **Skiit:** Derro underling who sought her approval and believed her promises of liberation.
 - **Ulnara:** Derro underling who wanted to be seen as helpful by Plinki.

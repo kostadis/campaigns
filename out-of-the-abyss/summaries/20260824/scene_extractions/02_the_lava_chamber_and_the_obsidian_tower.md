@@ -12,7 +12,7 @@ source: gmassist
 - The GM narrated: "You behold a steaming lake of molten lava some hundred feet below."
 - The GM drew the map by hand rather than using GPUs; Thorin: "You have, like, millions of dollars to GPUs at the touch of your fingers, and you're, like, scribbling." The GM: "Yes!" Thorin: "Love it. Go analog, man."
 - A three-story stone tower stands in the center on a thin obsidian pedestal rising from the lava, "similar in style to some of the older spires in the Great Library."
-- Grygum questions the physics — a tower in the lava? The GM: "it's, of course, not in the lava, because, you know, whoever wrote the module realized that somebody would observe that, is it in the lava? So why isn't it melting?"
+- Gyrgum questions the physics — a tower in the lava? The GM: "it's, of course, not in the lava, because, you know, whoever wrote the module realized that somebody would observe that, is it in the lava? So why isn't it melting?"
 - Edvaldo, the avowed scholar, launches a lengthy lecture: "This is a classic example... of the architectural style invented by the Candlekeep about architect. Many of these samples have been destroyed as a result of needless rehabilitation and expansion of towers as we fought for a constrained space in the library. This, in and of itself, was worth the trip."
 - Daz fantasizes about a spell to mute the lecturing scholar: "They need to have spells that allow you to just mute people around you… Mixer board for everybody that's standing around you."
 - The party notices mechanical components embedded in the stone ledge — the GM reminds them: "remember, you were looking for mechanist dust... don't forget, you have the mechanist tool, so you can try using that."
@@ -28,16 +28,16 @@ source: gmassist
 > "Draw on a new map so that you guys don't get confused."
 > "You know, can I just say something? This product used to be easy to use, and then the enterprise took over, and now it's become, like, a pain in the ass, and it's got 100 features. I'm trying to remember where everything was. You know, and I'm now looking for a simpler version… sorry, I'm just…"
 
-**Grygum** — *suggesting an alternative tool*
+**Gyrgum** — *suggesting an alternative tool*
 > "I know a lot of people who use, what is it, Owlbear?"
 
 **GM** — *checking the players see the map*
 > "You should see a blank screen. Are you on a blank screen? Yes, you are."
 
-**Grygum** — *confirming*
+**Gyrgum** — *confirming*
 > "I do see a blank screen."
 
-**Grygum** — *joking about the depth*
+**Gyrgum** — *joking about the depth*
 > "I assume it's blank because we're 1500 feet below the camera."
 
 **GM** — *reading the module's boxed text; the transcript garbled "acrid", "cavern", "100 feet across" and "the cavern air" — all restored against the source (`docs/background/1073077-Candlekeep_Murders…json:4222`)*
@@ -56,13 +56,13 @@ source: gmassist
 **Thorin** — *approving*
 > "Love it. Go analog, man."
 
-**Grygum** — *orienting on the sketch*
+**Gyrgum** — *orienting on the sketch*
 > "And that 200 feet is up and down, right?"
 
 **GM** — *placing the party*
 > "Yeah, it's like, you arrive… you are at 100 feet."
 
-**Grygum** — *confirming position*
+**Gyrgum** — *confirming position*
 > "And we're on the purple line?"
 
 **GM** — *confirming*
@@ -72,19 +72,19 @@ source: gmassist
 > "Alright, directly ahead in the center of the chamber is a three-floor"
 > "A three-floor stone tower, similar in style to some of the older spires in the Great Library."
 
-**Grygum** — *questioning the physics (garbled)*
+**Gyrgum** — *questioning the physics (garbled)*
 > "in the light lava? Yes."
 
 **GM** — *meta-defending the module*
 > "Yes, but it's, of course, not in the lava, because, you know, whoever wrote the module realized that somebody would observe that, is it in the lava? So why isn't it melting?"
 
-**Grygum** — *shrugging*
+**Gyrgum** — *shrugging*
 > "Well, I mean, it's DnD, so the answer is magic."
 
 **GM** — *mock-scandalized*
 > "No, no, it's… have you not read the Candlekeep archive?"
 
-**Grygum** — *admitting*
+**Gyrgum** — *admitting*
 > "I guess I'm not… I have not read all of the canon."
 
 **GM** — *Edvaldo launches his architecture lecture; the architect's name is garbled beyond recovery in the transcript and appears nowhere else in the campaign*
@@ -103,23 +103,23 @@ source: gmassist
 **Thorin** — *riffing*
 > "It's like a remote, you can, like, turn somebody down."
 
-**Grygum** — *citing prior art*
+**Gyrgum** — *citing prior art*
 > "You know, Discord has that for, if you use the Discord chat feature, you can pop people down."
 
 **GM** — *describing the pedestal, doors, walkway and bridge*
 > "Okay, the tower is mounted on a thin pedestal made of glassy black obsidian that soars from the pool of lava, while a double door of the same material"
 > "stands opposite you, but 30 feet away with no obvious way of getting there. Well, I mean, not if this… not with this group. The base of the tower is surrounded by a narrow walkway, and on the opposite side of the walkway, a flat stone bridge leads from the back of the tower to a second tunnel opposite the one you came down."
 
-**Grygum** — *reading the sketch*
+**Gyrgum** — *reading the sketch*
 > "There's… there's a tunnel out of the top layer of the layer cake there."
 
-**Grygum** — *sizing up the crossing*
+**Gyrgum** — *sizing up the crossing*
 > "And we'd… we'd have to figure out how to get over to it somehow."
 
 **GM** — *confident in the party*
 > "Yes, I mean, but with this party, that should be…"
 
-**Grygum** — *nostalgic*
+**Gyrgum** — *nostalgic*
 > "This reminds me of an old, you know, sort of platform jumper video game."
 
 **GM** — *describing the ledge machinery*
@@ -134,7 +134,7 @@ source: gmassist
 **GM** — *reminding them of the tools*
 > "Yeah, so you have the… don't forget, you have the mechanist tool, so you can try using that."
 
-**Grygum** — *investigating*
+**Gyrgum** — *investigating*
 > "So, I think it would be worthwhile looking at the mechanical components. Any idea what they're for?"
 
 **GM** — *calling for a roll*
@@ -159,7 +159,7 @@ source: gmassist
 **GM** — *the finding*
 > "All right. So, what you've uncovered is that this mechanical system is, in fact, a way to extend the bridge."
 
-**Grygum** — *relieved*
+**Gyrgum** — *relieved*
 > "Oh, well, that would be more convenient than just trying to jump across the lava."
 
 **GM** — *noting the tool requirement*
@@ -168,7 +168,7 @@ source: gmassist
 **Daz** — *confirming the plan*
 > "So if we use the tool, we can basically expand the bridge. Yes, yes. And we don't have to… okay."
 
-**Grygum** — *urging*
+**Gyrgum** — *urging*
 > "Try it."
 
 **Daz** — *committing*
@@ -182,14 +182,14 @@ source: gmassist
 **GM** — *drawing the implication*
 > "So you couldn't just use magic to fly."
 
-**Grygum** — *connecting it to the citadel-wide ward*
+**Gyrgum** — *connecting it to the citadel-wide ward*
 > "Wasn't that supposed to be this whole, this whole central area?"
 > "But I guess we… what we found out was that it was disabled anyway."
 
 **GM** — *distinguishing the two fields — the citadel-wide ward, now disabled, is what also blocked fire; transcript garbled "prevented teleportation and magic"*
 > "Yeah, so no, this, there was a… there was a field, force field, that prevented teleportation and magic from coming in or out to Candlekeep. It also prevented fire from being cast."
 
-**Grygum** — *noting scope (truncated)*
+**Gyrgum** — *noting scope (truncated)*
 > "more general."
 
 **GM** — *classifying it, then narrating the bridge*
@@ -200,7 +200,7 @@ source: gmassist
 > "I really like the soundboard that,"
 > "That our GM uses for DnD."
 
-**Grygum** — *playing along*
+**Gyrgum** — *playing along*
 > "I don't know if that was a soundboard."
 
 **GM** — *owning the joke*

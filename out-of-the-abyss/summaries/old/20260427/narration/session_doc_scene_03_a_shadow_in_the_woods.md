@@ -1,7 +1,7 @@
 ---
 scene: 03
 slug: a_shadow_in_the_woods
-narrator: Grygum
+narrator: Gyrgum
 scene_name: A Shadow in the Woods
 session: 20260427
 ---

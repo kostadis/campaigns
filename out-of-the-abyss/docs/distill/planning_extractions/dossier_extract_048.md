@@ -6,7 +6,7 @@ In combat, the Pudding King utilized his lair's green slime ceiling hazards and 
 
 At some point during the battle, the Pudding King and Glabbagool swapped bodies or positions, causing significant confusion—the party accidentally attacked Glabbagool before realizing what had happened. The Pudding King attempted to use the green slime against the party even after being dragged from his lair.
 
-Under a coordinated assault—including Daz's third-level Magic Missile (20 damage), Grygum's Inflict Wounds (23 damage), Thorin's Dawnbringer strikes (12 radiant damage), and Zalthir's devastating flurry of strikes enhanced by Eldritch Claw tentacles (37 damage)—the Pudding King was unable to maintain his form. He dissolved completely with a final telepathic scream: "Behold the true feast, the soul's final blend!" His consciousness dissipated and his physical form melted into inert puddles.
+Under a coordinated assault—including Daz's third-level Magic Missile (20 damage), Gyrgum's Inflict Wounds (23 damage), Thorin's Dawnbringer strikes (12 radiant damage), and Zalthir's devastating flurry of strikes enhanced by Eldritch Claw tentacles (37 damage)—the Pudding King was unable to maintain his form. He dissolved completely with a final telepathic scream: "Behold the true feast, the soul's final blend!" His consciousness dissipated and his physical form melted into inert puddles.
 
 ## Glabbagool
 
@@ -22,7 +22,7 @@ One of the Pudding King's ooze allies who fought in the throne room battle. Prin
 
 ## Princess Ebonmire
 
-One of the Pudding King's ooze allies who fought in the throne room battle. She attacked by hurling blobs of acidic ooze at the party, initially targeting Thorin but missing. She later charged at Thorin during the mopping-up phase. She took the full twenty-nine points of damage from Daz's Fireball and was further struck by Grygum's Inflict Wounds (eighteen damage) and Zalthir's grapple attacks before Thorin delivered the killing blow. After her death, the party discovered a spellbook containing numerous magical formulas inside her stomach.
+One of the Pudding King's ooze allies who fought in the throne room battle. She attacked by hurling blobs of acidic ooze at the party, initially targeting Thorin but missing. She later charged at Thorin during the mopping-up phase. She took the full twenty-nine points of damage from Daz's Fireball and was further struck by Gyrgum's Inflict Wounds (eighteen damage) and Zalthir's grapple attacks before Thorin delivered the killing blow. After her death, the party discovered a spellbook containing numerous magical formulas inside her stomach.
 
 ## Juiblex
 

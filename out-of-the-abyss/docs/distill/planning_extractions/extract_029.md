@@ -1,13 +1,13 @@
 ## NPC Activity
 
 **Zugtomy**
-- Referenced but absent. Grygum and Thoring (Thorin) reported encountering her in the Whorlestone caves prior to this session. She approached them and made an offer, which Thorin refused. No further details of the offer's content are revealed.
+- Referenced but absent. Gyrgum and Thoring (Thorin) reported encountering her in the Whorlestone caves prior to this session. She approached them and made an offer, which Thorin refused. No further details of the offer's content are revealed.
 
 **Grogluk**
 - Duergar gate officer operating at the checkpoint into the West Cleft District/Ladueger's Furrow.
 - Confronted the party at the gate, scrutinizing their identities against the Ember Vanguard wanted poster.
 - Demanded either weapons/magic items for inspection or the Stone Guard's secret recognition ritual.
-- Accepted a 20 gold bribe from Grygum after the ritual was performed correctly.
+- Accepted a 20 gold bribe from Gyrgum after the ritual was performed correctly.
 - Wears a clenched fist pendant indicating loyalty to the Deepking.
 - Currently stationed at the West Cleft District gate checkpoint.
 
@@ -28,7 +28,7 @@
 **Gartokkar**
 - Received the party at his residence; was surprised they returned.
 - Accepted the dragon egg and inspected it, noting the strange occult markings with visible worry.
-- Consulted Grygum as a cleric of Bahamut regarding the egg's nature.
+- Consulted Gyrgum as a cleric of Bahamut regarding the egg's nature.
 - Completed the agreed payment, producing a bag full of coins.
 - Issued an unprompted warning to the party: Deepking's agents are searching everywhere for the mercenary band (the Ember Vanguard), whom street rumor has inflated into shadowy assassins from Menzoberanzan wielding soul-rending blades.
 - His voluntary warning indicates he is afraid of the current political instability and does not want the party to trigger an explosion of violence.
@@ -95,8 +95,8 @@
 
 ## Revealed Information
 
-- **Zugtomy made an offer to Grygum and Thorin** in the Whorlestone caves. Thorin refused. The nature of the offer is not specified in the session notes.
-- **The Ember Vanguard wanted poster** describes the party's alter-ego as: an ancient Drow wizard, a gold dragonborn (now depicted as red), a dwarf (flattering likeness of Thorin), and an orc (depicted more fiercely than Grygum's actual demeanor).
+- **Zugtomy made an offer to Gyrgum and Thorin** in the Whorlestone caves. Thorin refused. The nature of the offer is not specified in the session notes.
+- **The Ember Vanguard wanted poster** describes the party's alter-ego as: an ancient Drow wizard, a gold dragonborn (now depicted as red), a dwarf (flattering likeness of Thorin), and an orc (depicted more fiercely than Gyrgum's actual demeanor).
 - **Grogluk wears a clenched fist pendant**, confirming he is a direct agent of the Deepking.
 - **The Duergar informant confirmed** that the Stone Guard attributes the deaths of Derro High Council members to the Ember Vanguard and that this has put the entire city on edge.
 - **Gartokkar's warning** reveals that the Deepking's agents have received heavily embellished intelligence about the Ember Vanguard — now described in city rumor as shadowy assassins from Menzoberanzan with soul-rending blades and powerful magic.

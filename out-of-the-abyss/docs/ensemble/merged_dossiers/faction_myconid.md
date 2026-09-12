@@ -68,7 +68,7 @@ chapters: 27-32
 - **Allegiance/faction:** Servants and heralds of Zuggtmoy  
 - **Current possessions / notable items, spells, feats, wounds:** None (deceased)  
 - **Current assignment / role and key relationships:** Vessels and heralds of Zuggtmoy; communicated telepathically and sought to initiate others into the Demon Queen’s dreamscape via physical contact  
-- **Defining recent actions:** Two Myconids confronted the party in chapter 32; one was wounded by Zalthir’s guiding bolt, then all three were killed — two by Daz and Grygum, the last by Zalthir  
+- **Defining recent actions:** Two Myconids confronted the party in chapter 32; one was wounded by Zalthir’s guiding bolt, then all three were killed — two by Daz and Gyrgum, the last by Zalthir  
 
 ## Uncertainty
 - The exact number of Myconids encountered is ambiguous: chapter 27 implies a singular entity (“the Myconid”), but chapter 32 refers to “two Myconids” and then “the last one,” suggesting three total. It is unclear if the chapter 27 Myconid is one of the three slain in chapter 32, or if a separate entity was referenced earlier.  

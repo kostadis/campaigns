@@ -15,14 +15,14 @@
 - Recalled that Sylvira Savikas has an Abyss-born son kept in a magical sanctuary. [cite: "Sylvira Savikas Sylvira Savikas has a son. Abyss-born."]
 - Fired three force darts at the stunned fiend, holding reserves. [cite: "Three darts of plain force, first level, unerring, while he held the rest of himself in reserve."]
 
-### Grygum
-- Current location: North Gallery rotunda, Candlekeep. [cite: "Grygum knelt over Tadric and closed him back up"]
+### Gyrgum
+- Current location: North Gallery rotunda, Candlekeep. [cite: "Gyrgum knelt over Tadric and closed him back up"]
 - Faction: adventuring party; newly deputized Watcher.
 - Current state: holds the fake key. [cite: "I still have the fake key, right?"]
 - Recent actions: cast detect magic (via scroll reading by Daral) confirming the key was not magical. [cite: "The key sat in the middle of all that light and stayed dark."]
 - Threw a lightning javelin at the fiend and missed. [cite: "hurled his javelin, the lightning one he'd been saving...and hit nothing"]
 - Healed Tadric, stopping his bleeding. [cite: "closed him back up, the blood slowing and then stopping under his hands"]
-- Has a background in information security. [cite: "Grygum, who has spent as many years in information security as I have"]
+- Has a background in information security. [cite: "Gyrgum, who has spent as many years in information security as I have"]
 
 ### Thorin
 - Current location: North Gallery rotunda, Candlekeep. [cite: "The stair put us out at the top of a dome."]
@@ -46,7 +46,7 @@
 - Current location: Candlekeep, brought the party to Bookwyrm's office. [cite: "Fembris Lancer Fembris Lancer and Daral Yashenti Daral Yashenti brought us up to her office."]
 - Faction: Candlekeep Watcher/staff.
 - Current state: under suspicion by the party. [cite: "So we now suspect Fembris Lancer Fembris Lancer?"]
-- Recent actions: watched the key pass from Grygum to Daz before the armor attack. [cite: "Fembris Lancer had watched the key pass from Grygum's hand to Daz's"]
+- Recent actions: watched the key pass from Gyrgum to Daz before the armor attack. [cite: "Fembris Lancer had watched the key pass from Gyrgum's hand to Daz's"]
 - Admitted that A'lai Aivenmore was in the room when he reported the key to Bookwyrm. [cite: "when he reported the key to Bookwyrm (First Reader), A'lai Aivenmore A'lai Aivenmore had been in the room"]
 
 ### Kalan Strongbranch
@@ -96,7 +96,7 @@
 ### Tadric
 - Current location: North Gallery rotunda, Candlekeep. [cite: "It was on Tadric, had him grappled to the floor"]
 - Faction: Candlekeep Watchers.
-- Current state: wounded but healed by Grygum; holds the real key. [cite: "The boy came around grabbing for the key before his eyes had finished focusing."]
+- Current state: wounded but healed by Gyrgum; holds the real key. [cite: "The boy came around grabbing for the key before his eyes had finished focusing."]
 - A short, young human Watcher who had guarded Janussi's door. [cite: "Short human, young, Tadric."]
 - His first concern after waking was whether Kalan was alive. [cite: "Is Kalan Strongbranch alive?"]
 
@@ -122,7 +122,7 @@
 - Key members: Kalan Strongbranch (Gate Warden), Tadric, Fembris Lancer, Daral Yashenti. [cite: "Kalan Strongbranch tried to come with us."]
 - Maintain armed swordsmen in addition to magic-users. [cite: "Yes, we have some swordsmen. It's always important to have one."]
 
-### The adventuring party (Zalthir, Daz, Grygum, Thorin)
+### The adventuring party (Zalthir, Daz, Gyrgum, Thorin)
 - Current goals: secure the real key, confront A'lai Aivenmore in the High Tower, then extract a boon. [cite: "we can extract whatever boon we like, since we deferred negotiation"]
 - Recent actions: killed Moziqodo and saved Tadric and the real key. [cite: "we saved Tadric. Held the position and kept the prize on the board."]
 - Relationship to Candlekeep: hired to solve one murder, now deputized Watchers. [cite: "We were hired to solve one murder."]
@@ -136,7 +136,7 @@
 - Bookwyrm (First Reader) was found murdered, throat torn, heart intact. [cite: "Bookwyrm (First Reader)'s throat opened somewhere above us"]
 - A note in Bookwyrm's hand read "He is using the beast to—" cut off mid-sentence. [cite: "*He is using the beast to—*"]
 - Daz discovered Candlekeep's protective wards had been breached unevenly. [cite: "somebody hacked the firewall and opened another port"]
-- Grygum tested the anti-fire ward with Thaumaturgy; the flame evaporated instantly. [cite: "the flame erupted, touched, and evaporated in the same instant"]
+- Gyrgum tested the anti-fire ward with Thaumaturgy; the flame evaporated instantly. [cite: "the flame erupted, touched, and evaporated in the same instant"]
 - The party ran (via magical fast halls) to the Sea Warden's Tower to find Kalan. [cite: "The halls of Candlekeep went by faster than legs should carry anyone"]
 - Kalan revealed the decoy scheme and that Tadric holds the real key. [cite: "Tadric has the key."]
 - Kalan deputized the party and gave Thorin a Watcher's Stair key shortcut. [cite: "He pushed a key into my hand. A Watcher's Stair key"]
@@ -173,7 +173,7 @@
 ## Threads & Mysteries
 
 - Who orchestrated the two attacks — the surgical removal of Janussi's heart versus the animal throat-tearing killings are attributed to different hands. [cite: "The two killings were not the same hand. One surgical, one animal."]
-- The identity of "the beast" in Bookwyrm's note and how it is being "used." [cite: "Grygum read it aloud and asked Daral Yashenti what the beast was."]
+- The identity of "the beast" in Bookwyrm's note and how it is being "used." [cite: "Gyrgum read it aloud and asked Daral Yashenti what the beast was."]
 - A'lai Aivenmore sits in the High Tower unaware his courier Moziqodo is dead and unaware the party holds the real key. [cite: "Every hour he waits, the terrain gets better for us"]
 - The party holds one real key and one fake, planning to use the decoy to fake out those who don't know. [cite: "Anybody who doesn't know we have a fake key, we can fake them out with it somehow."]
 - The "thrice-fold proof" — two of three pillars captured (dead woman, confessed decoy) against the traitor. [cite: "You've captured two of the pillars of the thrice-fold proof."]

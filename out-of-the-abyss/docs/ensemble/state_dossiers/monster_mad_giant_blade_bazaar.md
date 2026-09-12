@@ -11,7 +11,7 @@ chapters: 14-14
 **Current location:** Blade Bazaar  
 **Current possessions / notable items, spells, feats, wounds:** Blind; affected by necrotic damage and the divine power of Bahamut (recently inflicted)  
 **Current assignment / role and key relationships:** None assigned; acts as a hostile, uncontrolled entity. Last seen attacking Thorin.  
-**Defining recent actions:** Roared and smashed Thorin; howled; was burned by necrotic damage infused with Bahamut’s power through Grygum’s invocation.
+**Defining recent actions:** Roared and smashed Thorin; howled; was burned by necrotic damage infused with Bahamut’s power through Gyrgum’s invocation.
 
 ## Uncertainty
 - The exact current condition of the necrotic damage (e.g., whether it is still active, fading, or causing ongoing effects) is not specified beyond the initial burning.

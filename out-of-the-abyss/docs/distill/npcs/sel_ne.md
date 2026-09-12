@@ -14,7 +14,7 @@ source_extracts: [60]
 - No information in the source notes.
 
 ## History with the Party
-- Referenced (not met) during the party's study of the Midnight Tears poison treatise. The pairing of Selûne (moon) and Shar (darkness) in the treatise's footnotes explained to Grygum why the poison's "midnight" trigger is defined as a *place* — the far side of the globe from the sun — rather than a clock time.
+- Referenced (not met) during the party's study of the Midnight Tears poison treatise. The pairing of Selûne (moon) and Shar (darkness) in the treatise's footnotes explained to Gyrgum why the poison's "midnight" trigger is defined as a *place* — the far side of the globe from the sun — rather than a clock time.
 
 ## Current Status
 - Not applicable — appears only as lore/deity reference, not an active NPC.
@@ -23,7 +23,7 @@ source_extracts: [60]
 
 ## Relationships
 - **Shar:** Paired with Selûne in the Midnight Tears treatise footnotes (moon-goddess and darkness-goddess).
-- **Grygum:** The party member for whom the Selûne/Shar pairing resolved the mechanics of the poison's midnight trigger.
+- **Gyrgum:** The party member for whom the Selûne/Shar pairing resolved the mechanics of the poison's midnight trigger.
 
 ## Arc Score Events
 - None recorded in the source notes.

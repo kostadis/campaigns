@@ -1,7 +1,7 @@
 ---
 scene: 05
 slug: zalthir_s_trial_of_the_broken_mirror
-narrator: Grygum
+narrator: Gyrgum
 scene_name: Zalthir's Trial of the Broken Mirror
 session: 20260511
 ---

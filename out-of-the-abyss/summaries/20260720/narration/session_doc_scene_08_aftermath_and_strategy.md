@@ -28,9 +28,9 @@ Of course it was. Cut the last thread and lift off, key and all, gone before any
 
 "I mean, like, not only did we keep them from fleeing," I said, "we saved Tadric." Two things at once. Held the position, kept the prize on the board. Giants would call that a good day.
 
-"Yes, you saved Tadric." Then, to Grygum: "Are you going to heal him or are you going to let him bleed out to death?"
+"Yes, you saved Tadric." Then, to Gyrgum: "Are you going to heal him or are you going to let him bleed out to death?"
 
-Grygum knelt and put his hand on Tadric and said the words, and the blood stopped and the gashes pulled themselves shut. Tadric came back into himself, grabbed for the key, then looked at the dead thing on the floor, and something in his face fell in.
+Gyrgum knelt and put his hand on Tadric and said the words, and the blood stopped and the gashes pulled themselves shut. Tadric came back into himself, grabbed for the key, then looked at the dead thing on the floor, and something in his face fell in.
 
 "Moziqodo," he said. "Sylvira Savikas' son. What has happened here?"
 
@@ -42,13 +42,13 @@ He sat down hard when he heard it. "Is Kalan Strongbranch alive?"
 
 And then it came. That quiet knock inside the chest that means you've crossed some threshold you didn't notice crossing. Not a hit. Given the last while, worth specifying. Just the other kind of thing, the one that settles into your arms and legs and says *you're more than you were an hour ago.* I kept it to myself.
 
-"Evil geniuses have more than one plan," someone said, and Grygum lit up.
+"Evil geniuses have more than one plan," someone said, and Gyrgum lit up.
 
 "What fun. So we have one real key and one fake key, and anybody who doesn't know that we have a fake key, we can fake them out with it somehow. And eventually, the person that has the real key will be like, how are these guys saying they have two keys?"
 
 "Yeah, that's a good idea," Daz said. "Interesting."
 
-"I'm going to ferret him out," Grygum said. "Him or her. Or they. Or it."
+"I'm going to ferret him out," Gyrgum said. "Him or her. Or they. Or it."
 
 So there it was, all of it on the ground where I could see it. A'lai up in the tower with the other key, waiting for a dead man's report. Us with a real key and Kalan's decoy: a thing that isn't a key but pays like one against anybody who can't tell.
 

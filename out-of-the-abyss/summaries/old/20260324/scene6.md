@@ -29,7 +29,7 @@ I have found purpose. I am the feared mage of the Ember Vanguard.
 
 The irony is almost invisible, even to me.
 
-Grygum's voice cuts through the settling heat: *"That worked better than I had any right to expect."*
+Gyrgum's voice cuts through the settling heat: *"That worked better than I had any right to expect."*
 
 It's an honest assessment, and I appreciate honesty in tactical partners. Two spells, two priority targets hit, the fight still live but the math changed in our favour. Not a perfect outcome. The icon is still standing. Ilvara is still standing. But twelve points is twelve points and the board looks different than it did thirty seconds ago, and that is the only metric that has ever mattered.
 

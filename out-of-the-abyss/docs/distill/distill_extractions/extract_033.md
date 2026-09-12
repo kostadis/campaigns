@@ -119,7 +119,7 @@
 **Severin**
 - Location: Not present; referenced
 - State: Unknown
-- Notes: Referenced by Grygum as a comparison — someone who led followers into destruction while convincing them it was a path to joy; does not appear in this chunk
+- Notes: Referenced by Gyrgum as a comparison — someone who led followers into destruction while convincing them it was a path to joy; does not appear in this chunk
 
 ---
 
@@ -146,7 +146,7 @@
 **The Party**
 - Current Goals: Survive; investigate Neverlight Grove; escape the Underdark
 - Recent Actions: Toured the Grove with Basidia; encountered and killed the fungal abomination and its spore servants; killed Xinaya at her request; are now approaching the giant mushroom and the wedding ceremony
-- Key Members: Thorin, Grygum, Zalthir, Daz, plus companions Jimjar, Eldeth, Spiderbait, Furuum, Aliza Argot (Sarith now dead)
+- Key Members: Thorin, Gyrgum, Zalthir, Daz, plus companions Jimjar, Eldeth, Spiderbait, Furuum, Aliza Argot (Sarith now dead)
 
 ---
 
@@ -230,6 +230,6 @@
 - **Rusharoo's Escape Routes**: Rusharoo has prepared nutrient caches and escape routes for potential evacuation of the Grove. These have not been used yet and may become critical.
 - **The Secret Passage into the Circle of Welcome**: Rusharoo offered to route the party in via a secret passage. Whether they used it or approached directly is unclear at chapter's end.
 - **Thorin and Z**: Thorin cryptically remarks "I think I dodged a bullet there with Z" after Sarith's transformation. The nature of this reference is unexplained.
-- **Severin**: Referenced by Grygum as a comparison to Phylo/cult leaders. Severin's identity and history within this campaign are unelaborated in this chunk.
+- **Severin**: Referenced by Gyrgum as a comparison to Phylo/cult leaders. Severin's identity and history within this campaign are unelaborated in this chunk.
 - **The Corrupted Sprouts**: Yrberop was singing Zuggtmoy's melody over fields of unhatched Myconid sprouts. What this means for the next generation of the colony is unresolved.
 - **Are the Party Guests or the Feast?**: Thorin's question at chapter's end — whether the party is invited as guests or intended as the meal/sacrifice at the wedding — is unresolved.

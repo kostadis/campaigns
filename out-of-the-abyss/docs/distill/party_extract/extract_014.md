@@ -4,12 +4,12 @@
 
 ## Arc Score Events
 
-- **Grygum**: Jimjar probed him about his faith in Bahamut, prompting internal reflection on the theological debate surrounding Protanther, Stroud, and divine agency. Grygum chose silence rather than engage—**neutral/introspective moment** tied to his faith identity as an orc cleric of Bahamut.
+- **Gyrgum**: Jimjar probed him about his faith in Bahamut, prompting internal reflection on the theological debate surrounding Protanther, Stroud, and divine agency. Gyrgum chose silence rather than engage—**neutral/introspective moment** tied to his faith identity as an orc cleric of Bahamut.
 - **Daz**: Earned genuine applause from the party after using Shape Water to solve the sandbar problem—**positive**. A moment of validation after repeatedly failing to deliver on the spell's promised potential. Suggests growing confidence and practical skill.
 
 ## Relationships & Decisions
 
-- **Grygum**: Chose not to answer Jimjar's question about his faith, maintaining his personal mystery and avoiding theological debate. This keeps his motivations and beliefs opaque to the party and NPCs.
+- **Gyrgum**: Chose not to answer Jimjar's question about his faith, maintaining his personal mystery and avoiding theological debate. This keeps his motivations and beliefs opaque to the party and NPCs.
 - **Daz**: Stepped up and insisted others stop before physically pushing the boat, asserting himself despite the group's established skepticism about his Shape Water claims. Successfully delivering built credibility with the group.
 
 ## Party State Updates

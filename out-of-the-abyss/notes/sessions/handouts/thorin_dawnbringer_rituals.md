@@ -42,7 +42,7 @@ Restores something the dark took. (Easy; anywhere with a horizon.)
 ### 2. Naming the captor
 
 Once, aloud, Thorin says **Brysis's** name to Dawnbringer. Then —
-also aloud — he tells the sword that Brysis is dead, that Grygum
+also aloud — he tells the sword that Brysis is dead, that Gyrgum
 killed her, that the dark she lived in is gone.
 
 Plain words. Single ritual; cannot be repeated. Landing it well is

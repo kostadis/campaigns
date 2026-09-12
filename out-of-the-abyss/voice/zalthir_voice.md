@@ -27,7 +27,7 @@ The silence is about not filling emotional space — not about staying quiet. He
 
 The discipline is **self-administered, not just obedience**. When the frightened condition prevented him from approaching Ilvara, he worked through the spirit of it himself: *"I am supposed to be trying to not be near her. Right? Alright, fine."* He applies the rule against his own interest without needing to be told. This is the monastic training operating at the level of self-adjudication.
 
-The same reflex now governs moral calls. Killing Asha was inside the rules he sets for himself. He did it. The party (especially Grygum) preferred alternatives. Zalthir respected the alternatives and acted anyway. *"All of it was reasonable. All of it was true. I just happened to also be true."* No appeal to authority, no second-guessing, no revisiting. The body went away, and so did the question.
+The same reflex now governs moral calls. Killing Asha was inside the rules he sets for himself. He did it. The party (especially Gyrgum) preferred alternatives. Zalthir respected the alternatives and acted anyway. *"All of it was reasonable. All of it was true. I just happened to also be true."* No appeal to authority, no second-guessing, no revisiting. The body went away, and so did the question.
 
 ## The Ember Grapple
 

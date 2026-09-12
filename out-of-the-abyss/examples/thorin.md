@@ -116,7 +116,7 @@ Then, from the opening in the roof where the armory is, Eldeth, Bupido, Shuushar
 "You should have taken that bet," everyone hears Jimjar say. The Deep Gnome has mastered Spool's telepathy and forces everyone to listen to him. 
 
 
-Grygum descends from the armory and walks towards Thorin. Grygum stands over the dwarf, and then, with a moment's incantation and a gentle touch, bloodless flesh becomes rosy, gashes close, and broken bones knit instantly with a rush of magical healing. Flush with renewed vigor, the formerly injured Thorin is ready to face the world once more.
+Gyrgum descends from the armory and walks towards Thorin. Gyrgum stands over the dwarf, and then, with a moment's incantation and a gentle touch, bloodless flesh becomes rosy, gashes close, and broken bones knit instantly with a rush of magical healing. Flush with renewed vigor, the formerly injured Thorin is ready to face the world once more.
 
 
 Daz has recovered from the disastrous opening gambit and remembers how magic missiles work. It's not one dart, but three darts. 
@@ -263,7 +263,7 @@ The dwarf watches how the Duergar gives the Stone Giant the briefest of scowls, 
 **Joe Beda (as Thorin)** — *acknowledging the range problem*
 > "Yeah, my darts will only… are not great for range, so… This is… I gotta figure something out."
 
-**Joe Beda (as Thorin)** — *borrowing Grygum's crossbow*
+**Joe Beda (as Thorin)** — *borrowing Gyrgum's crossbow*
 > "I'm gonna borrow your, like, crossbow, Ben."
 
 **Joe Beda (as Thorin)** — *the practical justification*

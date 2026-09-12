@@ -10,9 +10,9 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 
 #### The party realizes they need to find the missing key and that Kalan knows where it is. After considering the Gatehouse, Daz remembers Kalan's hint about his location, and Fembris deduces he is in the Sea Warden's Tower. The party rushes there and uncovers the full scope of the conspiracy.
 - Daz rolls Investigation (16) and recalls Kalan's line: "if I don't see you tomorrow, do not look for me at my post." Daral suggests he is most likely in the Sea Warden's Tower, "lost among the other watchers," rallying the troops with drink.
-- Grygum is surprised there are troops at all, having assumed Candlekeep was purely an academic tower; Daral confirms "we have some swordsmen. It's always important to have one."
+- Gyrgum is surprised there are troops at all, having assumed Candlekeep was purely an academic tower; Daral confirms "we have some swordsmen. It's always important to have one."
 - The party travels from the Great Library to the Sea Warden's Tower, moving at magical speed across a stretched, high-resolution map (the DM blaming lag on "AI").
-- Kalan is found frantically buckling on his armor upon hearing the alarm bell, rushing toward them: "Grygum, Daz, I heard the bell. Is everything okay?"
+- Kalan is found frantically buckling on his armor upon hearing the alarm bell, rushing toward them: "Gyrgum, Daz, I heard the bell. Is everything okay?"
 - The party informs Kalan that Bookwyrm is dead and that the key was not found on her body. Kalan's first question is "Does she have the key?"
 - Kalan initially takes comfort — "that's fortunate. They only have one of the two keys" — and blames "a maddening attack by Sylvira's son," recalling, "I told Bookwyrm that that creature would be the death of us."
 - When told the party was attacked by creatures seeking the key, Kalan reverses course: "Someone is definitely after the keys."
@@ -40,19 +40,19 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 > "Daz — you remember what he said: 'If I don't see you tomorrow, do not look for me at my post.' He's not in the gatehouse. You turn to Fembris — or Daral — and Daral says the most likely place for him is the Sea Warden's Tower, lost among the other Watchers."
 > "Rather than sitting in the gatehouse, he's probably out with the troops, trying to rally them, having a drink as he celebrates."
 
-**[Grygum]** — *surprised there are troops*
+**[Gyrgum]** — *surprised there are troops*
 > "There's troops here? I thought this was some kind of academic tower."
 
 **[GM]**
 > "Well — there's some."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Okay."
 
 **[GM]**
 > "We have some. We are not completely defenseless."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Well, you have plenty of magic, but I guess swords still have their place, huh?"
 
 **[GM]**
@@ -64,7 +64,7 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 **[GM]**
 > "Who Knows?"
 
-**[Grygum]**
+**[Gyrgum]**
 > "I still have the fake key, right?"
 
 **[GM]** — *reminding them the key was stolen*
@@ -100,19 +100,19 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 **[GM]**
 > "I always blame Ali. Alright, so..."
 
-**[Grygum]**
+**[Gyrgum]**
 > "I'm starting to believe that in this realm, magic is the equivalent of AI."
 
 **[GM]**
 > "It is, actually."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Okay, which number are we?"
 
 **[GM]**
 > "You're in 10 — the Great Library. Sorry, you're in the Great Library."
 
-**[Grygum]**
+**[Gyrgum]**
 > "That's where we're starting."
 
 **[GM]**
@@ -121,7 +121,7 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 **[Thorin]** — *as the map stretches*
 > "Whoa, what happened there?"
 
-**[Grygum]**
+**[Gyrgum]**
 > "We got stretched. That must be magic."
 
 **[Thorin]**
@@ -134,9 +134,9 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 - Kalan is discovered buckling on his armor, rushing toward the party after hearing the alarm bell.
 
 **[GM]**
-> "You find Kalan looking very frantic. As you head toward him, he's heading toward you — buckling on his armor, rushing to meet you. 'Grygum, Daz — I heard the bell. Is everything okay?'"
+> "You find Kalan looking very frantic. As you head toward him, he's heading toward you — buckling on his armor, rushing to meet you. 'Gyrgum, Daz — I heard the bell. Is everything okay?'"
 
-**[Grygum]**
+**[Gyrgum]**
 > "Uh, no, Bookwyrm is dead."
 
 **[GM]** — *Kalan's first question*
@@ -151,7 +151,7 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 **[GM]**
 > "Yes, you did."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Yeah, we did."
 
 **[GM]**
@@ -160,7 +160,7 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 **[Thorin]**
 > "We can't say with confidence that we couldn't find the key."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Oh, we did not find a key."
 
 **[GM]** — *Kalan takes false comfort*
@@ -193,7 +193,7 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 **[GM]**
 > "He straightens up. 'This is an important, urgent matter.' He looks at the four of you. 'You are adventurers.'"
 
-**[Grygum]**
+**[Gyrgum]**
 > "Aye, aye."
 
 **[GM]**
@@ -202,7 +202,7 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 **[Daz]**
 > "What does that mean? Does that give us any privileges and or change our ability to do the investigation?"
 
-**[Grygum]**
+**[Gyrgum]**
 > "So far we've done badly."
 
 **[Daz]**
@@ -217,13 +217,13 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 **[GM]**
 > "He looks at you. 'Tadric has the key.'"
 
-**[Grygum]**
+**[Gyrgum]**
 > "[inaudible]"
 
 **[GM]**
 > "Tadric — he's the one you met at Janussi's room. He was the Watcher guarding it, keeping people from coming in and out."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Okay, I'm confused now about where everyone thinks the keys are — didn't people think one was given to us?"
 
 **[Daz]**
@@ -239,9 +239,9 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 > "Wait, wait, so how did we get the key in the first place? I'm trying to remember."
 
 **[GM]**
-> "Kalan gave the key to Grygumite."
+> "Kalan gave the key to Gyrgumite."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Right."
 
 **[Daz]**
@@ -250,7 +250,7 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 **[GM]**
 > "Yes."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Okay."
 
 **[GM]**
@@ -307,19 +307,19 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 **[Thorin]**
 > "So they've got one key off Bookwyrm. The other one — if they'd succeeded against us, they'd have thought they had both keys, but they really wouldn't have, because Kalan pulled a switcheroo and gave us a fake."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Did... but we just..."
 
 **[Thorin]**
 > "So he could've imbued the fake key with some magic, so it registered on Detect Magic — since that just tells you something's magical, not what — and that would've made it a lot harder for us to figure this out. But okay."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Does Kalan know that we know it was fake?"
 
 **[GM]**
 > "He doesn't — and at this point, he doesn't care. He's just telling you the real key is held by Tadric."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Okay, he's basically admitting he gave us a fake."
 
 **[Thorin]**
@@ -340,7 +340,7 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 **[Thorin]**
 > "I don't know, I'm just reading the notes, and it just says 'short human, young — Tadric' — that's his whole role, according to the notes. His role is Tadric."
 
-**[Grygum]**
+**[Gyrgum]**
 > "My job is beach."
 
 **[Thorin]**
@@ -385,7 +385,7 @@ from: ../scene_extractions/05_racing_to_the_sea_warden_s_tower.md
 **[Thorin]**
 > "He's the brains behind the whole thing. So this is the second piece of evidence against A'lai — he had knowledge nobody else had, and it clearly wasn't Bookwyrm who started this, since it was likely the same person trying to recover both keys. That's the second piece against A'lai. Okay."
 
-**[Grygum]**
+**[Gyrgum]**
 > "I mean, there's other theories you could come up with, but that seems like a good start for sure."
 
 **[GM]** — *Kalan praises their deductions*

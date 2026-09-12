@@ -2,7 +2,7 @@
 
 **Jimjar**
 - Appeared aboard the boat during travel through the Darklake on the 9th day of the 3rd Tenday.
-- Questioned Grygum about his devotion to Bahamut, probing his beliefs about free will and divine agency. Received no verbal answer; Grygum smiled and said nothing.
+- Questioned Gyrgum about his devotion to Bahamut, probing his beliefs about free will and divine agency. Received no verbal answer; Gyrgum smiled and said nothing.
 
 **Sarith**
 - Present aboard the boat on the 10th day of the 3rd Tenday.

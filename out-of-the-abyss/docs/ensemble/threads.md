@@ -1,7 +1,7 @@
 ## Threads
 
 ### assassin's guild (Ghohlbrorn’s Lair)
-- [ch19] Grygum suggests Werz may have hired assassins and now is being targeted by another party.
+- [ch19] Gyrgum suggests Werz may have hired assassins and now is being targeted by another party.
   > "Maybe he ordered somebody to assassinate somebody, and now somebody else found out and they have ordered somebody to assassinate him."
 - [ch19] Werz claims assassins are not his enemies but professionals, and that he did not hire them.
   > "First, assassins are not your enemies. They are professionals. And before you ask, I did try to offer them a higher rate, but they are professionals."
@@ -82,15 +82,15 @@
   > "To free Entémoch and claim his boon, three sacrifices were required: wealth, a weapon, and blood."
 
 ### Existence of Leemooggoogoon (Sloobludop)
-- [ch10] It is unclear whether Leemooggoogoon, the Deep Father, is a real deity or a construct used to justify ritual violence. Grygum and others suspect the god may not exist, but the cult’s fervor and the bloodstained altar suggest otherwise.
+- [ch10] It is unclear whether Leemooggoogoon, the Deep Father, is a real deity or a construct used to justify ritual violence. Gyrgum and others suspect the god may not exist, but the cult’s fervor and the bloodstained altar suggest otherwise.
   > "It’s also unclear if a god named Leemooggoogoon even exists."
 - [ch10] It is unclear whether Leemooggoogoon, the Deep Father, is a real deity or a delusion of Bloppblippodd’s. The escapees and even Gloog question the legitimacy of the god, and the rituals surrounding the idol may be the product of madness rather than faith.
   > "It’s also unclear if a god named Leemooggoogoon even exists."
 
 ### free Thermbachaude (Ghohlbrorn’s Lair)
-- [ch19] Grygum raises the unresolved thread of freeing Thermbachaude, indicating an additional obligation beyond current missions.
-- [ch19] There is an unresolved objective to free Thermbachaude, mentioned by Grygum. The identity and location of Thermbachaude are unknown.
-  > "Grygum coughs, “And free Thermbachaude.”"
+- [ch19] Gyrgum raises the unresolved thread of freeing Thermbachaude, indicating an additional obligation beyond current missions.
+- [ch19] There is an unresolved objective to free Thermbachaude, mentioned by Gyrgum. The identity and location of Thermbachaude are unknown.
+  > "Gyrgum coughs, “And free Thermbachaude.”"
 
 ### Fuurm’s Missing Sister (Lost Tomb of Khaem)
 - [ch30] Fuurm Coppernose entered the Underdark searching for his sister, whose fate remains unknown. Her disappearance is the driving motivation behind his survival and current presence in the group.
@@ -99,7 +99,7 @@
   > "He had lost his sister and went looking for her in the Underdark."
 
 ### Glabbagool
-- [ch51] The identity and status of Glabbagool remain unresolved after the battle, with Grygum explicitly asking about it as the first question once the spores cleared, suggesting it is a key future concern.
+- [ch51] The identity and status of Glabbagool remain unresolved after the battle, with Gyrgum explicitly asking about it as the first question once the spores cleared, suggesting it is a key future concern.
   > "My first real question, once the cloud was thin enough to breathe through, was about Glabbagool."
 - [ch51] The narrator's first real question after the spore cloud thinned was about Glabbagool, indicating an unresolved mystery or impending threat tied to that entity.
   > "My first real question, once the cloud was thin enough to breathe through, was about Glabbagool."
@@ -129,7 +129,7 @@
 ### identity of the killer (Keeper's Chamber)
 - [ch57] The killer had intimate knowledge of the safe’s combination, access to the chamber, and a specific goal — to silence Janussi permanently and steal a single sapphire for a spell; they struck before death, returned after, and were patient enough to desecrate the body without haste.
   > "Who had been certain enough to want him silent on both sides of death."
-- [ch57] The killer had no need to force entry, knew the safe’s combination, carried a method to mask poison, and took only a single arcane component. The assault on Grygum’s nose, the removal of his necklace, and the force darts aimed at the chair suggest personal motive — not mere theft. The killer may be someone connected to Grygum’s research, or a rival spellwright seeking to complete the sapphire spell before him.
+- [ch57] The killer had no need to force entry, knew the safe’s combination, carried a method to mask poison, and took only a single arcane component. The assault on Gyrgum’s nose, the removal of his necklace, and the force darts aimed at the chair suggest personal motive — not mere theft. The killer may be someone connected to Gyrgum’s research, or a rival spellwright seeking to complete the sapphire spell before him.
   > "Daz's reading and Zalthir's logic only got us to the moment of death. I had the part before it."
 
 ### Ilvara’s Pursuit (Blingdenstone)
@@ -173,8 +173,8 @@
   > "His unusual knowledge and the deference shown to him by the other gnomes suggested he held some significant but unstated position in Blingdenstone."
 
 ### Juiblex
-- [ch38] Juiblex, the Faceless Lord, is a demon mentioned by a ghost and referenced by Glabbagool and Grygum as the ancient force behind ooze creation and chaos, hinting at a deeper cosmic threat.
-  > "Grygum recalled that a ghost had previously mentioned Juiblex, also known as the Faceless Lord, a demon who infuses power to create chaos... a disembodied voice... proclaiming the coming of a Faceless Lord to enhance Blingdenstone."
+- [ch38] Juiblex, the Faceless Lord, is a demon mentioned by a ghost and referenced by Glabbagool and Gyrgum as the ancient force behind ooze creation and chaos, hinting at a deeper cosmic threat.
+  > "Gyrgum recalled that a ghost had previously mentioned Juiblex, also known as the Faceless Lord, a demon who infuses power to create chaos... a disembodied voice... proclaiming the coming of a Faceless Lord to enhance Blingdenstone."
 
 ### Juiblex's rebirth (throne room)
 - [ch47] A demonic voice declared Juiblex would be reborn and consume Zuggtmoy’s banquet to grow stronger, foreshadowing a future conflict between the demon lords of oozes and fungi.
@@ -227,7 +227,7 @@
 
 ### nature of death and sleep (Buppido’s lair)
 - [ch25] A philosophical thread introduced by Pelek/Derro, who questions whether death is a form of sleep. The party does not resolve it, but it lingers as an existential undercurrent, especially as Pelek is bound and half-dead.
-- [ch25] Pelek muses on whether death is a form of sleep, sparking philosophical interest in Grygum. The thread remains open, as no definitive answer is provided, and the group must continue their mission. The question lingers as a thematic undercurrent, especially given Pelek’s ghostly nature and the Myconid’s zombie conversion process.
+- [ch25] Pelek muses on whether death is a form of sleep, sparking philosophical interest in Gyrgum. The thread remains open, as no definitive answer is provided, and the group must continue their mission. The question lingers as a thematic undercurrent, especially given Pelek’s ghostly nature and the Myconid’s zombie conversion process.
 
 ### Ogrémoch's Bane
 - [ch42] Ogrémoch's Bane is an evil force from the elemental plane of earth that has infected the temple, preventing Galeb Duhr guardians from performing their sacred duty; its full nature and origin remain unknown, and its defeat requires freeing all guardians.
@@ -274,7 +274,7 @@
 
 ### Stool's home (Darklake)
 - [ch03] Stool wants to return home, but the location of his home is not specified in this session.
-  > "He knew Grygum would bring him home."
+  > "He knew Gyrgum would bring him home."
 - [ch28] Stool wants to return home, but the location of his home is not specified in this session.
   > "Stool just wanted to go home"
 
@@ -373,7 +373,7 @@
 ### Themberchaud’s true nature (Gracklstugh)
 - [ch16] The truth that Themberchaud is being manipulated by the Keepers of the Flame, and that he is not the sovereign he believes himself to be, is a dangerous secret that could collapse the power structure of Gracklstugh if revealed.
   > "Themberchaud thinks we work for him. What Themberchaud doesn’t realize is that he works for us."
-- [ch16] Whether Themberchaud is a prisoner, a weapon, a deity, or a corrupted guardian is unknown. Grygum’s reverence and Thorin’s willingness to weaponize it suggest it holds deeper significance than mere beasthood — its revelation could shatter Duergar dogma or awaken an ancient power.
+- [ch16] Whether Themberchaud is a prisoner, a weapon, a deity, or a corrupted guardian is unknown. Gyrgum’s reverence and Thorin’s willingness to weaponize it suggest it holds deeper significance than mere beasthood — its revelation could shatter Duergar dogma or awaken an ancient power.
 
 ### Themberchaud’s true role (Gracklstugh)
 - [ch29] The party is aware that Themberchaud is not a sovereign but a glorified lighter for the Duergar, yet they must conceal this knowledge to survive. His delusions of power and the group’s need to manipulate him create a fragile, high-stakes tension. Uncovering his true function could destabilize the Duergar’s control — or trigger his wrath.
@@ -440,7 +440,7 @@
 ### Zuggtmoy
 - [ch27] A mysterious psionic entity or hallucinatory force invoked by affected myconids and Sarith. It is described as singing through spores, promising 'becoming' and 'true purpose.' Its origin and nature are unknown, but it may be a collective unconscious projection or a sentient entity emerging from the spores.
   > "The Dark Lady is calling me! She sings in the spores, a song of becoming!"
-- [ch31] Phylo speaks of the Great Seeder as a divine entity beyond the Garden of Welcome. Daz and Grygum suspect this is a corrupted or false deity, possibly a manifestation of Zuggtomy’s will. The entity’s true nature and location remain unknown.
+- [ch31] Phylo speaks of the Great Seeder as a divine entity beyond the Garden of Welcome. Daz and Gyrgum suspect this is a corrupted or false deity, possibly a manifestation of Zuggtomy’s will. The entity’s true nature and location remain unknown.
   > "‘She lives beyond the Garden. She is a wonderful entity who will help all of us get closer to her beauty!’"
 - [ch31] The Great Seeder is a mysterious entity referenced by Phylo as the source of wisdom and help, but is unknown to the party and possibly a myth, a false deity, or the true source of the corruption masquerading as benevolent.
   > "She lives beyond the Garden. She is a wonderful entity who will help all of us get closer to her beauty!"

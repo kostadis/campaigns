@@ -1,6 +1,6 @@
 ## NPCs
 
-**Grygum**
+**Gyrgum**
 - Current location: Underdark, most recently the White Shell Mine summoning circle chamber
 - Current state: Active, mid-ritual
 - Recent actions: Welcomed by Galeb Duhr (erroneously as cleric of Bahamut entering "the Realm of the Dragon"); corrected by Galeb Duhr; helped cleanse the temple of Ogremoch's corruption; recognized the "Lady of Rot" reference as Zuggtmoy; summoned a bat familiar to scout the Festering Fissure; performed warding prayer during lichen harvest; punched then stabbed Zalthir to break him from hypnotic pattern trance; provided blessing to aid Zalthir at the White Shell Mine temporal anomaly
@@ -18,7 +18,7 @@
 **Zalthir**
 - Current location: White Shell Mine summoning circle chamber
 - Current state: Active, recovering; mid-ritual
-- Recent actions: Attempted to teleport in and cut Ghost Hold Lichen; ruptured a poisonous sac, taking significant damage; was caught in Daz's hypnotic pattern; was punched then stabbed by Grygum to break the trance; grappled the shambling mound in return, preventing engulfment; pummeled the grappled shambling mound; executed a shadow monk maneuver to safely redirect a magical blast through shadow space, breaking the time-snagged wall; engaged a basilisk in close combat while averting his eyes
+- Recent actions: Attempted to teleport in and cut Ghost Hold Lichen; ruptured a poisonous sac, taking significant damage; was caught in Daz's hypnotic pattern; was punched then stabbed by Gyrgum to break the trance; grappled the shambling mound in return, preventing engulfment; pummeled the grappled shambling mound; executed a shadow monk maneuver to safely redirect a magical blast through shadow space, breaking the time-snagged wall; engaged a basilisk in close combat while averting his eyes
 - Faction: Allied with the party
 - Motivations/Secrets: Trained as a monk in gardens under The Garden Shadow, who taught him how to cut lichen and tend trees; dismissed that training as irrelevant to his goal of changing the world; recalled the training involuntarily mid-harvest
 
@@ -125,7 +125,7 @@
 
 **The Three Galeb Duhr (Temple)**
 - Current goals: Acknowledged the party's success in hallowing the temple; directed the party toward obtaining Entemoch's boon
-- Recent actions: Emerged from the ancient menhir after it shone white light; welcomed Grygum (erroneously invoking "Realm of the Dragon," corrected to "Realm of the Rock"); found Thorin's hollow/hallowed pun amusing as ancient dwarf humor; questioned Thorin about his giant clothes; argued amongst themselves about Entemoch's location before deferring to the deep gnomes
+- Recent actions: Emerged from the ancient menhir after it shone white light; welcomed Gyrgum (erroneously invoking "Realm of the Dragon," corrected to "Realm of the Rock"); found Thorin's hollow/hallowed pun amusing as ancient dwarf humor; questioned Thorin about his giant clothes; argued amongst themselves about Entemoch's location before deferring to the deep gnomes
 - Relationships: Friendly to the party; hostile to Ogremoch's corruption; allied with Entemoch's domain
 
 **The Four Galeb Duhr (Pickshine Mine)**
@@ -166,14 +166,14 @@
 - The party revealed they had defeated four insane earth elementals and a Medusa, earning Naomi's respect.
 - Naomi tasked the party with investigating the strange vibrations and finding the lost path to Entemoch's boon.
 - Kazook Pickshine reported sending his scout Bimble to investigate a legend about a garden of stone in the rock blight; Bimble returned infected and raving about a singing garden and the Lady of Rot feeding the soil.
-- Grygum identified the Lady of Rot as Zuggtmoy, alarming the assembled leaders of Blingdenstone.
+- Gyrgum identified the Lady of Rot as Zuggtmoy, alarming the assembled leaders of Blingdenstone.
 - The party examined Bimble's ramblings, smells, and rock textures to pinpoint the Festering Fissure's exact location.
 - The party traveled to the Festering Fissure and used a bat familiar to scout the cave.
 - The bat discovered a shambling mound tending a bizarre garden containing violet fungi hybrids and a giant's corpse from which Ghost Hold Lichen was growing.
 - Zalthir teleported in to cut the lichen, ruptured a poisonous sac, took significant damage, and alerted the shambling mound.
 - Zalthir recalled his monastic training under The Garden Shadow on how to cut lichen, reflecting that he had dismissed such training.
 - Daz cast a hypnotic pattern that incapacitated the violet fungi and briefly caught Zalthir in its effect; the shambling mound barely resisted.
-- Grygum punched Zalthir (dealing no damage), then stabbed him with a dagger to break him from the hypnotic pattern trance.
+- Gyrgum punched Zalthir (dealing no damage), then stabbed him with a dagger to break him from the hypnotic pattern trance.
 - Zalthir and the shambling mound grappled each other, preventing the mound from engulfing him.
 - Thorin attacked the shambling mound with Dawnbringer multiple times, weakening it and causing it to fight at a disadvantage.
 - Daz unleashed a sculpted fire explosion, avoiding Zalthir and the lichen, which helped bring down the shambling mound.
@@ -186,7 +186,7 @@
 - A geode now acting as a beacon locator led the party deeper into the earth to the White Shell Mine.
 - Perigrog Scrapedust reported an impassable tunnel—impossibly dry, blinding crystallite walls, absolute silence, and shadows appearing painted rather than flickering.
 - Zalthir identified the phenomenon as a time-snag caused by magical pressure, solvable only by a Shadow Monk creating a hole for backed-up reality to pass through.
-- The gnomes provided specialized explosives; Zalthir meditated, received Grygum's blessing, and executed a shadow monk maneuver to redirect the magical blast through shadow space.
+- The gnomes provided specialized explosives; Zalthir meditated, received Gyrgum's blessing, and executed a shadow monk maneuver to redirect the magical blast through shadow space.
 - The wall shattered without collapsing the tunnels; the gnomes celebrated.
 - Beyond the breached wall, the party discovered a large cavern with a summoning circle inscribed in giant runes, guarded by two basilisks moving with mechanical precision.
 - Zalthir engaged one basilisk in close combat while averting his eyes; Daz enchanted the other, freezing it in place.

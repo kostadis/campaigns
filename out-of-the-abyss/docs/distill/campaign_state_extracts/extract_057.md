@@ -59,9 +59,9 @@
 - Marble statue and pedestal on floor; chair toppled.
 - Speak with Dead already spent on corpse (Kalan, 11 am inspection); rite cannot be reused for some time; corpse preservation (ice) flagged as a concern.
 
-**Grygumite School of Thought founded**
-- Grygum proposed a fourth theological framework (strong-weak fixed-point hypothesis) in conversation with Vareth; Vareth accepted it as a genuine new school and departed to begin research.
-- Grygum named as founder; stack of Stroudite papers handed over for review.
+**Gyrgumite School of Thought founded**
+- Gyrgum proposed a fourth theological framework (strong-weak fixed-point hypothesis) in conversation with Vareth; Vareth accepted it as a genuine new school and departed to begin research.
+- Gyrgum named as founder; stack of Stroudite papers handed over for review.
 
 **Chapter House council dynamics mapped**
 - Twelve Great Readers present; key positions noted: A'lai Aivenmore (pro-vote, cautiously cooperative), Daral (skeptical, hostile to party, asked after Sylvira), Bookwyrm (delegating, withholding).
@@ -105,7 +105,7 @@
 - Status: Completed. Present at meeting; one of two discoverers of body; cooperated with delegation decision.
 
 **Sylvira Sashenstar — first contact and demon-lord-evidence handoff (Day One)**
-- Status: Referenced. Daral asked why Sylvira was absent from Chapter House meeting; Grygum noted she was likely still unwell. No formal interview yet.
+- Status: Referenced. Daral asked why Sylvira was absent from Chapter House meeting; Gyrgum noted she was likely still unwell. No formal interview yet.
 
 **Daral — first contact (Chapter House)**
 - Status: Completed. Hostile to party's involvement; questioned their credentials; asked after Sylvira.
@@ -132,10 +132,10 @@
 - Status: New fragment noted this session: *"On the longest night of winter's deepest cold, the keeper falls, the heart is sold"* — heard by Thorin at Refectory dinner; retained.
 
 **Five Books, Five Questions — gate admission and scholar pairings established**
-- Status: Active. Grygum/Vareth pairing produced Grygumite School founding this session.
+- Status: Active. Gyrgum/Vareth pairing produced Gyrgumite School founding this session.
 
-**Grygum / Vareth scholar arc — Stroud Wake stations (Stations 1–10)**
-- Status: Active. Session produced fourth-school theological breakthrough; Vareth departed to begin research; Grygum retains Stroudite papers for review.
+**Gyrgum / Vareth scholar arc — Stroud Wake stations (Stations 1–10)**
+- Status: Active. Session produced fourth-school theological breakthrough; Vareth departed to begin research; Gyrgum retains Stroudite papers for review.
 
 **Glabbagool — bad night / Juiblex reach (Session 5)**
 - Status: Ongoing. Glabbagool was confined to bag of holding most of the day; described as unsettled and wanting "out" in the evening. No Juiblex contact noted this session. Currently in bag of holding, peering out.

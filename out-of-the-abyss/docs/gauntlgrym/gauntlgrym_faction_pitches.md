@@ -48,16 +48,16 @@ He rolls up one of the maps and hands it over without ceremony.
 
 **Location:** The Iron Tabernacle, in a small restored side-shrine to Bahamut. Candlelight. Clean stone. A carved platinum dragon no larger than a hand sits on the altar.
 
-**Her read on the party:** She has already noticed Grygum. The rest of the party are context. Grygum is the question she is here to ask.
+**Her read on the party:** She has already noticed Gyrgum. The rest of the party are context. Gyrgum is the question she is here to ask.
 
-**Opening (to the group, but watching Grygum):**
+**Opening (to the group, but watching Gyrgum):**
 > "Every age produces a moment where the wrong move, made by the wrong person, at the wrong time, changes nothing. And occasionally the right move, made by the right person — who should by all accounts have no business being in that room — changes everything. Bahamut does not explain himself. He just places people."
 
 She lets that sit.
 
 > "I can offer you sanctuary. A sealed location inside the city, warded against casual surveillance, safe for rest and planning. No cost in blood. The cost is a promise: when you have the opportunity to spare or remove civilians from the path of what you are about to do, you take it. Not every time. Not at mission cost. But when the choice is available, you make it."
 
-**On Grygum specifically (if he engages):**
+**On Gyrgum specifically (if he engages):**
 She turns to him directly.
 
 > "I know who you were before you were this. I know what name is attached to the legend people are already whispering in this hall. I am not here to place that weight on you. I am here to ask one question, and you do not have to answer it now."
@@ -179,7 +179,7 @@ She folds the sheet and holds it out.
 **Pacing:** Run 3-4 pitches in one session. Let the others happen off-screen or at player request.
 
 **Order that creates best drama:**
-1. Caldra (sets theological tone, activates Grygum story)
+1. Caldra (sets theological tone, activates Gyrgum story)
 2. Barundin (grounds it in pragmatism, contrast with Caldra)
 3. Kheldrim (destabilizes the Stroud legend mid-session)
 4. Any of the remaining four based on player interest
@@ -187,7 +187,7 @@ She folds the sheet and holds it out.
 **What to watch for:**
 - If players take both Whisper Chain and Counter-Doctrine Brief, plan one session with contradictory intel
 - If players skip Caldra's sanctuary, they have no guaranteed safe rest location in-city — that is a real consequence
-- If Grygum does not engage with Caldra's question in this session, leave it open. She will ask again.
+- If Gyrgum does not engage with Caldra's question in this session, leave it open. She will ask again.
 
 **The question that should be unanswered when they leave Gauntlgrym:**
 Kheldrim's observation about the second move. He is talking about the Stroud game. That is all he is talking about. Do not frame it as foreshadowing in play, in notes, or in NPC dialogue. It is a general caution about inflated legends and incomplete histories. If it rhymes with something the party discovers later, that resonance belongs to them — not to a clue you planted.

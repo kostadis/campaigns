@@ -20,9 +20,9 @@ A moment of calculation amid chaos — Thorin weighed the politics of drow vende
 ---
 
 **[Ilvara Conjures the Insect Plague]**
-Ilvara cast Insect Plague at the cave entrance. A swirling, deafening sphere of biting insects filled the air, catching Grygum, Daz, and Glabbagool in its maelstrom. The fungal minions were annihilated instantly — 13 hit points meant nothing against the swarm.
+Ilvara cast Insect Plague at the cave entrance. A swirling, deafening sphere of biting insects filled the air, catching Gyrgum, Daz, and Glabbagool in its maelstrom. The fungal minions were annihilated instantly — 13 hit points meant nothing against the swarm.
 
-Ben Pfaff (Grygum): "Oh, how about Globagool?"
+Ben Pfaff (Gyrgum): "Oh, how about Globagool?"
 Kostadis (GM): "He takes 26 points of damage as well."
 Gabe: "Is he alive?"
 Kostadis (GM): "Yes, he's still alive."
@@ -37,7 +37,7 @@ Growing increasingly frustrated by his inability to find a target in a battle wh
 
 Thorin (Joe): "Is there anything I need to... anything I know about the fungus in terms of, like, is it, like, resistant to stuff or whatever?"
 Kostadis (GM): "It's resistant to the usual stuff that funguses are resistant to, but if you hit it hard enough, it should die."
-Ben Pfaff (Grygum): "It's not resistant to swords."
+Ben Pfaff (Gyrgum): "It's not resistant to swords."
 Kostadis (GM): "It actually is doubly not resistant to radiant damage."
 
 The confirmation was all Thorin needed. Dawnbringer hummed with anticipation in his grip.
@@ -50,10 +50,10 @@ Thorin brought Dawnbringer down on the massive heart fungus. The sentient sun-bl
 Kostadis (GM): "And so you kill it. So it wilts."
 Thorin (Joe): "I do what I can."
 Kostadis (GM): "I spent so much time creating this icon."
-Ben Pfaff (Grygum): "I know, it was beautiful."
+Ben Pfaff (Gyrgum): "I know, it was beautiful."
 Gabe as Zalthir: "It was pretty."
 Kostadis (GM): "Actually, it took more time trying to convert it into a cutting... anyway."
-Ben Pfaff (Grygum): "I liked it very much, Gustatus."
+Ben Pfaff (Gyrgum): "I liked it very much, Gustatus."
 
 A single devastating round. The DM's elaborate creation — meant to be a centerpiece of the encounter — never had a chance to show what it could do. Dawnbringer's radiant energy was simply too much for it. Thorin stood amid the wilting remains, understated as ever.
 
@@ -71,7 +71,7 @@ A brief moment of compassion — or perhaps dry humor — from Thorin, wanting t
 
 **[Asha Vandree's Continued Deception]**
 Kostadis (GM): "Vandree is very much, you know, enemy of my enemy situation, and plus she believes that Daz is an insane mage who's converted to Lothheism."
-Ben Pfaff (Grygum): "Accurate."
+Ben Pfaff (Gyrgum): "Accurate."
 Kostadis (GM): "What's important? The fact that she thinks it, or that it's real? That she thinks it."
 
 Thorin was aware that Daz's earlier deception continued to hold — Asha Vandree still believed the party's wizard was a devoted follower of Lolth. The absurdity of it wasn't lost on anyone, but it was keeping a dangerous drow priestess on their side, and that was what mattered.
@@ -81,14 +81,14 @@ Thorin was aware that Daz's earlier deception continued to hold — Asha Vandree
 **[Five Drow Emerge — The Battle Escalates]**
 Kostadis (GM): "Just when you thought everything was under control..."
 Gabe as Zalthir: "5 Dark Elves, it looks like? 5 Drow? That's awesome."
-Ben Pfaff (Grygum): "This is turning into the 12 days of Christmas."
+Ben Pfaff (Gyrgum): "This is turning into the 12 days of Christmas."
 Kostadis (GM): "I hope more pleasantly!"
 
 From the shadows at the cavern's edge, five drow warriors of House T'sarran emerged. The insect plague blocked their line of sight, but their arrival signaled that the fight was far from over. Thorin, standing amid the remains of the heart fungus, braced for the next wave.
 
 ---
 
-**[Grygum Drops Concentration — The Fungal Threat is Over]**
-Ben Pfaff (Grygum): "Now that the fungus is gone, I'm gonna drop concentration, so that spell disappears."
+**[Gyrgum Drops Concentration — The Fungal Threat is Over]**
+Ben Pfaff (Gyrgum): "Now that the fungus is gone, I'm gonna drop concentration, so that spell disappears."
 
-With the heart fungus destroyed by Thorin's hand, the primary fungal threat was neutralized. Grygum let his earlier spell fade, and the party's focus shifted entirely to Ilvara and the chaos of drow politics unfolding around them. The cavern felt different now — the oppressive, living presence of the fungus was gone, replaced by the cold stone and the distant buzzing of insects.
+With the heart fungus destroyed by Thorin's hand, the primary fungal threat was neutralized. Gyrgum let his earlier spell fade, and the party's focus shifted entirely to Ilvara and the chaos of drow politics unfolding around them. The cavern felt different now — the oppressive, living presence of the fungus was gone, replaced by the cold stone and the distant buzzing of insects.

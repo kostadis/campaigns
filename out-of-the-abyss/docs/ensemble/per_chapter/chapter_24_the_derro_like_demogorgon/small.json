@@ -1,9 +1,9 @@
 [
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a cleric of Bahamut who uses theatrical divine incantations to inspire belief, though he finds Bahamut boring and was once inspired by Stroud. He is currently leading the Ember Guard through the tunnels of Gracklstugh, interrogating Derro and manipulating their fears. He pushed Skiit into the pit and later adopted the name 'Ember Guard' to project authority.",
-    "source_quote": "\u2018We are the Ember Guard,\u2019 shouts Grygum. I smile. I like that name.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a cleric of Bahamut who uses theatrical divine incantations to inspire belief, though he finds Bahamut boring and was once inspired by Stroud. He is currently leading the Ember Guard through the tunnels of Gracklstugh, interrogating Derro and manipulating their fears. He pushed Skiit into the pit and later adopted the name 'Ember Guard' to project authority.",
+    "source_quote": "\u2018We are the Ember Guard,\u2019 shouts Gyrgum. I smile. I like that name.",
     "quote_verified": false
   },
   {
@@ -16,7 +16,7 @@
   {
     "type": "npc",
     "subject": "Skiit",
-    "fact": "Skiit is a Derro laborer working on the Great Project of Ulnara, obsessed with Pliinki\u2019s promises and devoted to Demogorgon. He is mentally unstable, muttering to himself, and believes following Demogorgon makes the Derro proud. He was pushed into the pit by Grygum, resurrected as a corpse, and then killed by Daz\u2019s Toll the Dead.",
+    "fact": "Skiit is a Derro laborer working on the Great Project of Ulnara, obsessed with Pliinki\u2019s promises and devoted to Demogorgon. He is mentally unstable, muttering to himself, and believes following Demogorgon makes the Derro proud. He was pushed into the pit by Gyrgum, resurrected as a corpse, and then killed by Daz\u2019s Toll the Dead.",
     "source_quote": "\u2018I am a follower of Demogorgon! Pliinki has said that anybody who follows Demogorgon is making the Derro proud and powerful.\u2019",
     "quote_verified": false
   },
@@ -37,8 +37,8 @@
   {
     "type": "faction",
     "subject": "Ember Guard",
-    "fact": "The Ember Guard is a self-proclaimed faction led by Grygum and Daz, presented as a powerful, mysterious group to intimidate Derro and other denizens of Gracklstugh. The name was chosen by Grygum to project authority, though its true nature and allegiance are ambiguous and possibly fabricated.",
-    "source_quote": "\u2018We are the Ember Guard,\u2019 shouts Grygum. I smile. I like that name.",
+    "fact": "The Ember Guard is a self-proclaimed faction led by Gyrgum and Daz, presented as a powerful, mysterious group to intimidate Derro and other denizens of Gracklstugh. The name was chosen by Gyrgum to project authority, though its true nature and allegiance are ambiguous and possibly fabricated.",
+    "source_quote": "\u2018We are the Ember Guard,\u2019 shouts Gyrgum. I smile. I like that name.",
     "quote_verified": false
   },
   {
@@ -65,7 +65,7 @@
   {
     "type": "monster",
     "subject": "Zombies",
-    "fact": "Numerous zombies populate the pit beneath the Derro\u2019s work site, reanimated corpses used as laborers or components in Ulnara\u2019s necromantic project. Grygum observes them and uses their presence to manipulate Skiit\u2019s fear and ambition.",
+    "fact": "Numerous zombies populate the pit beneath the Derro\u2019s work site, reanimated corpses used as laborers or components in Ulnara\u2019s necromantic project. Gyrgum observes them and uses their presence to manipulate Skiit\u2019s fear and ambition.",
     "source_quote": "\u2018I see a lot of zombies.\u2019",
     "quote_verified": false
   },
@@ -107,7 +107,7 @@
   {
     "type": "thread",
     "subject": "Identity of Stroud",
-    "fact": "Stroud is referenced by Grygum as a figure who once inspired him, contrasting with his current boredom with Bahamut. Stroud\u2019s nature, role, and connection to the current events remain unknown, suggesting a deeper backstory yet to be revealed.",
+    "fact": "Stroud is referenced by Gyrgum as a figure who once inspired him, contrasting with his current boredom with Bahamut. Stroud\u2019s nature, role, and connection to the current events remain unknown, suggesting a deeper backstory yet to be revealed.",
     "source_quote": "Bahamut is boring. Stroud was exciting. Bahamut, not so much.",
     "quote_verified": true
   },
@@ -127,8 +127,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a zealous preacher who reveres Bahamut and repeatedly interrupts tense situations with religious declarations, inadvertently provoking hostile Derro. His actions are driven by faith, not strategy, and he often fails to recognize the danger he creates.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a zealous preacher who reveres Bahamut and repeatedly interrupts tense situations with religious declarations, inadvertently provoking hostile Derro. His actions are driven by faith, not strategy, and he often fails to recognize the danger he creates.",
     "source_quote": "I worship Bahamut!",
     "quote_verified": true
   },
@@ -204,9 +204,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum's Bahamut Declaration",
-    "fact": "Grygum\u2019s religious proclamation triggers immediate violent hostility from the Derro, who perceive Bahamut as a heretical blasphemy against their two-headed deity. This event forces the party into combat despite prior non-confrontational intentions.",
-    "source_quote": "The moment that Grygum mentioned 'Bahamut,' I knew we were in for it.",
+    "subject": "Gyrgum's Bahamut Declaration",
+    "fact": "Gyrgum\u2019s religious proclamation triggers immediate violent hostility from the Derro, who perceive Bahamut as a heretical blasphemy against their two-headed deity. This event forces the party into combat despite prior non-confrontational intentions.",
+    "source_quote": "The moment that Gyrgum mentioned 'Bahamut,' I knew we were in for it.",
     "quote_verified": false
   },
   {

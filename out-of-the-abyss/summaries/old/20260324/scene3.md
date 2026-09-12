@@ -3,7 +3,7 @@
 
 ---
 
-## Grygum — Planning the Assassination of Ilvara
+## Gyrgum — Planning the Assassination of Ilvara
 
 The plan began, as most plans do, with me laying out what I had.
 
@@ -57,7 +57,7 @@ She was right. I hate when that happens.
 
 Then came the question of who could safely touch what.
 
-"Basically pointing out," Asha said, her voice shifting to the register of someone delivering information they find tedious, "that if Thorin and Grygum grab it — I think they were the two that went to visit, what's her name, right? — yeah, you two probably don't want to be near it, but everybody else is fine."
+"Basically pointing out," Asha said, her voice shifting to the register of someone delivering information they find tedious, "that if Thorin and Gyrgum grab it — I think they were the two that went to visit, what's her name, right? — yeah, you two probably don't want to be near it, but everybody else is fine."
 
 Whatever we'd picked up in Neverlight Grove, apparently it had left a marker on us. The mushroom artifact could exploit it. Good to know before I walked up and tried to destroy it with my hands.
 

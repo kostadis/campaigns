@@ -10,18 +10,18 @@
 
 ### Shrieker Encounter — Fungal Forest
 - **Session/Date**: 3rd day of 2nd tenday of Myrkhul, 1495
-- **Outcome**: Resolved without harm. Grygum threw a crystal at a shrieker; it had no magical effect but the shriekers continued their alarm noise. The fungi were determined to be loud alarms only, not directly harmful.
+- **Outcome**: Resolved without harm. Gyrgum threw a crystal at a shrieker; it had no magical effect but the shriekers continued their alarm noise. The fungi were determined to be loud alarms only, not directly harmful.
 
 ### Second Crystal Cave — Additional Scavenging
 - **Session/Date**: 3rd day of 2nd tenday of Myrkhul, 1495
-- **Outcome**: Success. The party collected more crystals from a second cave. Eldeth expressed concern about leaving environmental traces for Drow pursuers. Jimjar and Grygum made a bet on the crystals' future usefulness.
+- **Outcome**: Success. The party collected more crystals from a second cave. Eldeth expressed concern about leaving environmental traces for Drow pursuers. Jimjar and Gyrgum made a bet on the crystals' future usefulness.
 
 ### Lost Tomb of Khaem — Netherese Tomb Exploration (Partially Completed)
 - **Session/Date**: 5th day of 2nd tenday of Myrkhul, 1495
 - **Outcome**: In progress but significant milestones achieved:
   - **Entry**: The party was lured to the tomb by a soft feminine voice pleading for help, which turned out to align with their intended travel direction (confirmed by Sarith).
   - **Upper Tomb**: Explored the entry chamber with stone diorama of Brysis of Khaem and Netherese floating city murals. Found a Netherese Calendar Stone on a landing. Explored a shrine with dusty tapestries.
-  - **Sarcophagi Room — Spectre Battle**: Discovered four stone sarcophagi. Found the northeast sarcophagus on hidden stone rollers. Zalthir cast Darkness, Thorin pushed the sarcophagus aside revealing a hidden passage. Four Spectres emerged and attacked. Daz used Magic Missile effectively. Grygum attempted Turn Undead but failed. Zalthir killed two Spectres with unarmed strikes. All four Spectres defeated. Daz sustained significant necrotic life drain damage.
+  - **Sarcophagi Room — Spectre Battle**: Discovered four stone sarcophagi. Found the northeast sarcophagus on hidden stone rollers. Zalthir cast Darkness, Thorin pushed the sarcophagus aside revealing a hidden passage. Four Spectres emerged and attacked. Daz used Magic Missile effectively. Gyrgum attempted Turn Undead but failed. Zalthir killed two Spectres with unarmed strikes. All four Spectres defeated. Daz sustained significant necrotic life drain damage.
   - **Sarcophagi Treasure**: All sarcophagi opened, containing mummified remains, ancient burial garments, and Netherese treasure of significant gold value and collector interest.
   - **Lower Tomb — Wraith Encounter**: Descended to the true burial chamber with murals of Brysis of Khaem, a gilded sarcophagus, and an invisible stone chest. A Wraith emerged declaring it would kill them and turn them into spectres. Daz hit it with Magic Missile (resistant to fire, so Fireball rejected). The Wraith attacked Thorin but missed. The Wraith retreated into its sarcophagus. Zalthir cast Darkness and moved the sarcophagus lid. The feminine voice directed them to look inside the sarcophagus, claiming "I can help you!" — encounter is unresolved at chunk's end.
 
@@ -42,7 +42,7 @@
 - **Status**: Alive, riding contentedly on Thorin's back.
 
 ### Jimjar
-- **Status**: Alive, actively making bets with party members. Grygum turned the tables by initiating a bet with him about the crystals' usefulness.
+- **Status**: Alive, actively making bets with party members. Gyrgum turned the tables by initiating a bet with him about the crystals' usefulness.
 
 ### Sarith Kzekarit
 - **Status**: Alive, serving as navigator/guide. Confirmed the direction toward the Lost Tomb of Khaem was their intended path.
@@ -55,7 +55,7 @@
 
 ## Party Accomplishments & Acquisitions
 
-- **Faerzress Quartz Crystals**: Large collection of fist-sized glowing quartz crystals gathered from two separate caves. Shed dim 10-foot radiance. Potential utility unknown (subject of Grygum/Jimjar's bet).
+- **Faerzress Quartz Crystals**: Large collection of fist-sized glowing quartz crystals gathered from two separate caves. Shed dim 10-foot radiance. Potential utility unknown (subject of Gyrgum/Jimjar's bet).
 - **Netherese Tomb Treasure**: Treasure of Netherese origin recovered from four sarcophagi — described as worth a great deal as gold and potentially even more to collectors.
 - **Two New Companions**: Fuurm Coppernose and Baedora added to the party.
 - **Arcane Knowledge**: Daz recalled that Spectres may return when the central evil force creating them persists; the Wraith can turn those it kills into Spectres.

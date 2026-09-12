@@ -19,7 +19,7 @@ Scarred male drow fighter, formerly stationed at Velkynvelve outpost; brother of
 ## History with the Party
 1. **Velkynvelve (Prison):** First encountered escorting the party to their prison cell. Was identified by Jimjar as Ilvara's former romantic partner, replaced by Shoor after his injury.
 2. **Escape Offer:** Approached Thorin during a food delivery and proposed helping the prisoners escape — leaving the prison door open, creating a distraction, and clearing the path to the armory. His motive was purely to embarrass Shoor and make Ilvara regret choosing him. Acknowledged the party's distrust: *"You are wise not to trust me."*
-3. **Bridge Battle:** The party allied with Asha Vandree over Jorlan. Jorlan was positioned across the bridge from the party. Grygum (or Thorin — accounts vary on who taunted) called out *"Come get it, idiot!"* and Jorlan charged across, triggering a Glyph of Warding for 21 damage that also destroyed a spore servant and damaged the Heart Fungus. Thorin followed up with a critical hit from Dawnbringer (14 damage) and applied the Sap technique, imposing disadvantage.
+3. **Bridge Battle:** The party allied with Asha Vandree over Jorlan. Jorlan was positioned across the bridge from the party. Gyrgum (or Thorin — accounts vary on who taunted) called out *"Come get it, idiot!"* and Jorlan charged across, triggering a Glyph of Warding for 21 damage that also destroyed a spore servant and damaged the Heart Fungus. Thorin followed up with a critical hit from Dawnbringer (14 damage) and applied the Sap technique, imposing disadvantage.
 4. **Fungal Cavern Battle:** During the later engagement, when Ilvara appeared wounded, he abandoned his position and charged across swarm-infested terrain screaming her name. Thorin had an opportunity attack on him (rolled an 8) but chose to let him pass, reasoning Jorlan was functionally useful going after Ilvara. Zalthir assessed the situation as "the tides have turned." Jorlan and Ilvara traded blows on the cavern floor after both survived the bridge collapse. Was struck by a lightning bolt from his own sister, Nym Duskryn, and left staggering.
 
 ## Current Status
@@ -31,7 +31,7 @@ Scarred male drow fighter, formerly stationed at Velkynvelve outpost; brother of
 - **Nym Duskryn:** Sister. She hit him with a lightning bolt during the battle, described as channeling professional frustrations — suggesting a strained or hostile sibling relationship.
 - **Asha Vandree:** Fellow uninfected drow. Asha expressed exhaustion at being caught between Jorlan and Ilvara's drama for months. The party chose Asha's side over Jorlan's.
 - **Thorin:** Initially approached Thorin to broker the escape deal; now direct combat enemies. Thorin landed a critical hit on him during the bridge fight but pragmatically allowed him to pass during the fungal cavern battle.
-- **Grygum:** Inscribed the Glyph of Warding that Jorlan triggered; may have been the one to taunt him into charging.
+- **Gyrgum:** Inscribed the Glyph of Warding that Jorlan triggered; may have been the one to taunt him into charging.
 - **Zalthir:** Observed and commented on Jorlan's charge; no direct interaction noted.
 
 ## Arc Score Events

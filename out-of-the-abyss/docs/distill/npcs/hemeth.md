@@ -20,7 +20,7 @@ Duergar weapons trader/arms dealer, originally from Gracklstugh. One of the cast
 - Carries the innate cultural cynicism of the duergar, but desperation overrides it when his life is on the line
 
 ## History with the Party
-- **Kuo-toa Altar Encounter:** Found bloodied and bound among sacrificial captives. He had been dealing weapons to the Archpriest of the Deep Father (Bloppblippodd), who betrayed him — declaring his sacrifice would be "weapon enough." He pleaded with Grygum for help. Grygum told him cryptically, "there's more than meets the eye," which surprised and comforted him. He agreed to act on the party's signal and asked them to find him in Gracklstugh if they survived. A battle then broke out.
+- **Kuo-toa Altar Encounter:** Found bloodied and bound among sacrificial captives. He had been dealing weapons to the Archpriest of the Deep Father (Bloppblippodd), who betrayed him — declaring his sacrifice would be "weapon enough." He pleaded with Gyrgum for help. Gyrgum told him cryptically, "there's more than meets the eye," which surprised and comforted him. He agreed to act on the party's signal and asked them to find him in Gracklstugh if they survived. A battle then broke out.
 - **Joined as castaway:** Picked up by the party during their Underdark journey after the kuo-toa encounter.
 - **Kuo-Toan boat:** Suggested the party take a Kuo-Toan boat they spotted, sharing his story about nearly being sacrificed by Kuo-Toans during his weapons deal.
 - **Duergar Keelboat discovery:** Identified an abandoned boat as a Duergar Keelboat by recognizing the crates.
@@ -33,7 +33,7 @@ Last known: Traveling with the party, arriving at or near Gracklstugh. Serves as
 
 ## Relationships
 - **Party (general):** Cooperative but self-interested; useful as a guide and informant
-- **Grygum:** Pleaded directly with Grygum for rescue at the altar; received cryptic reassurance. Appears to trust Grygum as a result.
+- **Gyrgum:** Pleaded directly with Gyrgum for rescue at the altar; received cryptic reassurance. Appears to trust Gyrgum as a result.
 - **Zalthir:** Direct interaction over the tattoo request; mild friction when bypassed as a merchant
 - **Brannum Redmarch:** Rival/competitor in the party's eyes; Hemeth resents being passed over for him
 - **Bloppblippodd (Archpriest of the Deep Father):** Former business partner turned betrayer. She reneged on their weapons deal and marked him for sacrifice. Likely harbors significant resentment.

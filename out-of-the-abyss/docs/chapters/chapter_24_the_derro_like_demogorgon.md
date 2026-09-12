@@ -1,5 +1,5 @@
 # Chapter 20 The Derro like Demogorgon
-### Grygum.
+### Gyrgum.
 
 
 The battle was terrifying. But I am alive. Wounded. But alive. So let me do a bit of Divine magic and heal myself. And that friendly dwarf, the one Thorin likes. 
@@ -23,7 +23,7 @@ Zalthir, the good old monk, is scouting ahead, keeping us safe. Good for him.
 “Something’s up ahead.” 
 
 
-I have to assume it’s not good. So I follow Grygum and Thorin around the turn of the tunnel and see a single Derro standing over a pit, with an unbelievable smell emanating from it.  
+I have to assume it’s not good. So I follow Gyrgum and Thorin around the turn of the tunnel and see a single Derro standing over a pit, with an unbelievable smell emanating from it.  
 
 
 I look at him carefully.  He  has blue, gray skin and pale eyes that lack both irises and pupils. He has thin, stringy hair, dull white, constantly looking greasy and unkempt. The creature is wearing scraps of tattered leather and cloth stained with grime and the foul odors of wherever he has been working. Now that’s interesting, he seems to be muttering to himself. Bah, it’s a common trait among the irrevocably insane of the Derro. 
@@ -36,7 +36,7 @@ I stare at him. I wonder is he the true-believing kind that has warped his world
 
 
 I look at him carefully to see some spark of genius. I see nothing. He’s a dummy. I recall the stories of the Derro, creatures that served the mind flayers and had their minds destroyed. They are not well in the best of times. 
-### Grygum 
+### Gyrgum 
 
 
 I approach the poor creature. And examine what he is doing. 
@@ -96,7 +96,7 @@ From there, a voice and an Ogre Zombie emerge.
 “What is the meaning of this? Who are you? Who do you think you are?” 
 
 
-“We are the Ember Guard,” shouts Grygum. I smile. I like that name. 
+“We are the Ember Guard,” shouts Gyrgum. I smile. I like that name. 
 
 
 “Who do you work for?” she shouts. 
@@ -105,7 +105,7 @@ From there, a voice and an Ogre Zombie emerge.
 I pause and try to answer. However, we have struck numerous deals with various other parties, and I'm no longer sure what to say. 
 
 
-Grygum answers - "Ah, my friend, you've just asked him a simple question: "So, Grygum, who do you work for, truly?"
+Gyrgum answers - "Ah, my friend, you've just asked him a simple question: "So, Gyrgum, who do you work for, truly?"
 
 
 He looks at her with a mix of weariness and a peculiar Orcish amusement. "That is a question that requires more than a simple answer. It is, in fact, a Divine Scrutiny, a profound act of investigation into the very threads of our intertwined fates, here in this churning city of Gracklstugh."
@@ -123,7 +123,7 @@ Clerics of Bahamut.
 Now let’s take a look at her more closely. She’s the necromancer in charge of this operation. But she’s a cultist of Demogorgon, and she’s a derro, and fear works well for keeping these creatures at bay. 
 
 
-The Derro named Skiit, which Grygum tossed into the pit, is starting to wake up. I know what to do. 
+The Derro named Skiit, which Gyrgum tossed into the pit, is starting to wake up. I know what to do. 
 
 
 I cast Maximillian’s Earthen Grasp and start to crush the poor unfortunate creature. 
@@ -150,7 +150,7 @@ I look at Ulnara, who realizes that I am Drow. And that the Drow do not mess aro
 “Thank you for this new supply! I know you will tell Plinki that I Ulnara did much to help the Ember Vanguard!” 
 
 
-“We shall, certainly,” says Grygum in his preacher’s voice. 
+“We shall, certainly,” says Gyrgum in his preacher’s voice. 
 
 
 ### Thorin
@@ -185,7 +185,7 @@ I notice two Derro in front of a tent, near a tent. Both are talking while ignor
 The other intones as it stares intently into the murky bubbling cauldron, tracing an invisible pattern with a dirty finger, “Water it chips, not like the dark lake. There, I pulled something from the dark ones, A scale smooth, this polished obsidian, but it shimmered like madness. In the dim light came from the deep, the deepest part with voices seeing.”
 
 
-Grygum mutters, “They are mad.”
+Gyrgum mutters, “They are mad.”
 
 
 Zalthir asks - “Do we need to fight them?”
@@ -206,16 +206,16 @@ Daz insists we march as if we own this place. And it works. The creatures are fe
 Just a few more yards and we will be past them. 
 
 
-But Grygum notices something, and he can’t keep quiet. 
+But Gyrgum notices something, and he can’t keep quiet. 
 
 
 “I worship Bahamut!” 
 
 
-The moment that Grygum mentioned "Bahamut," I knew we were in for it. These Derro, bless their simple, deranged minds, don't take kindly to anything outside their two-headed deity. And sure enough, they immediately attack. 
+The moment that Gyrgum mentioned "Bahamut," I knew we were in for it. These Derro, bless their simple, deranged minds, don't take kindly to anything outside their two-headed deity. And sure enough, they immediately attack. 
 
 
-Grygum shouts, “I thought we could have a deep Phylosophical conversation!” 
+Gyrgum shouts, “I thought we could have a deep Phylosophical conversation!” 
 
 
 I roll my eyes. 
@@ -227,16 +227,16 @@ The Derro are Dwarves that were slaves of the mindflayers, who corrupted their f
 I moved forward, my heavy armor clanking, but I ignored the sound. My focus was on the nearest Derro. He was a scrawny one, probably thought he was tough. I swung my longsword, a satisfying *thwack* as it connected. "Take that, you blithering fool!" I yelled, though I'm sure it was lost in the chaos. A hit, but not enough to drop him, but enough to know he'd messed with the wrong dwarf. 
 
 
-The Derro themselves were predictably clumsy. One swung at me, but my armor held. The other landed a hit on Grygum, but our allies were quick to retaliate, dealing a good chunk of damage to him. Zalthir, bless his arcane heart, summoned his darkness, enveloping a couple of them. Then, in a burst of brilliant speed, he critically struck one of the Darrow. Impressive.
+The Derro themselves were predictably clumsy. One swung at me, but my armor held. The other landed a hit on Gyrgum, but our allies were quick to retaliate, dealing a good chunk of damage to him. Zalthir, bless his arcane heart, summoned his darkness, enveloping a couple of them. Then, in a burst of brilliant speed, he critically struck one of the Darrow. Impressive.
 
 
 Daz, always quick with a spell, launched his magic missiles. A flurry of arcane energy streaked across the tunnel, and the Derro had struck, already reeling, and fell. One down. Good.
 
 
-The remaining Derro, true to their limited intellect, continued their mindless attacks. One swung wildly at Zalthir, missing entirely. Another charged Grygum, screaming some incoherent babble about their master. My armor held, and I parried his pathetic attack. "One head is better than two!" I roared, pushing him back.
+The remaining Derro, true to their limited intellect, continued their mindless attacks. One swung wildly at Zalthir, missing entirely. Another charged Gyrgum, screaming some incoherent babble about their master. My armor held, and I parried his pathetic attack. "One head is better than two!" I roared, pushing him back.
 
 
-My chance came again, and I didn't hesitate. I brought my longsword down hard on the Derro, attacking Grygum. The sword cut through his flimsy armor and into his chest, and it dropped like a sack of rocks. Dead. "This is how the Bahamut walks!" I declared, standing over his fallen form, ready to take on the next fool who dared challenge us.
+My chance came again, and I didn't hesitate. I brought my longsword down hard on the Derro, attacking Gyrgum. The sword cut through his flimsy armor and into his chest, and it dropped like a sack of rocks. Dead. "This is how the Bahamut walks!" I declared, standing over his fallen form, ready to take on the next fool who dared challenge us.
 
 
 But they were all dead. 
@@ -258,7 +258,7 @@ I walk in quietly. We don’t need light, because we can all see in the dark.
 As I walk in, I can see the light of campfires. 
 
 
-Grygum shouts, “Watch it!” 
+Gyrgum shouts, “Watch it!” 
 
 
 I look down at what he is pointing at, and it’s a poorly disguised pit trap. Whatever is here is at least trying to keep out outsiders. 

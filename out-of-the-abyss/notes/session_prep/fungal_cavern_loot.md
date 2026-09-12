@@ -29,7 +29,7 @@ The whole haul is Asha-brokered: she decides what's on the table. If the party p
 - **Coin:** 480 gp in drow-minted coin (spider-marked), 1,200 sp, 300 ep. Drow mintage sells at a discount outside the Underdark — roughly 60% face among surface merchants who recognize it; full value among any drow-friendly fence.
 - **Trade bars:** Six iron-banded silver bars, ~50 gp each. Velkynvelve's payroll float.
 - **Gems (mixed):** Four pieces of black star sapphire (~100 gp each), a cluster of eighteen small moonstones (~10 gp each), one uncut bloodstone (~50 gp) set aside as a Lolth offering.
-- **Jailers' ring of keys.** Opens every manacle and cell in the outpost. Narrative value only — the outpost is gone — but amusing souvenir / Grygum will want it.
+- **Jailers' ring of keys.** Opens every manacle and cell in the outpost. Narrative value only — the outpost is gone — but amusing souvenir / Gyrgum will want it.
 
 ### Prisoner effects (callback stash — confiscated from past captives)
 Ilvara kept a locked chest of items taken from prisoners who broke early. Anything here should be a callback — props from earlier chapters, things NPCs lost, things that re-surface character threads. Suggested contents (pick 2–3, leave the rest for later sessions):
@@ -86,7 +86,7 @@ Five warriors incinerated by Daz's Fireball; one mage killed by Zalthir; one war
 Search this one carefully. He is the reason the party now has a House problem.
 - **Arcane focus** — obsidian wand tipped with a captive spider in amber. ~150 gp. Functional focus, not a magic item.
 - **Component pouch**, standard.
-- **Signet ring — House T'sarran.** This is the one that matters. Confirms the attacking House, provides a seal for forgery, and is worth keeping hidden from Asha (Houses-playing-Houses is not her theology's problem). Grygum flagged the need to identify the Matron Mother; this ring is a thread Vizeran or any drow-facing broker can pull.
+- **Signet ring — House T'sarran.** This is the one that matters. Confirms the attacking House, provides a seal for forgery, and is worth keeping hidden from Asha (Houses-playing-Houses is not her theology's problem). Gyrgum flagged the need to identify the Matron Mother; this ring is a thread Vizeran or any drow-facing broker can pull.
 - **Folded parchment** — partial orders in Undercommon cipher. References "the mage Daz" by name, confirms the extraction contract is "alive, unharmed, paid on delivery." No contracting party named.
 - **Coin purse:** 110 gp, 3 small amethysts (~50 gp each).
 

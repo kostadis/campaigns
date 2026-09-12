@@ -14,7 +14,7 @@ source_extracts: [60]
 - No personality traits or motivations demonstrated in the source notes.
 
 ## History with the Party
-- Encountered textually rather than in person. Her mention in *On the Punctual Tears* (paired with Selûne) helped Grygum grasp the "Underdark conundrum": in the Underdark, no one can see the moon or the dark, complicating exactly when "midnight" occurs.
+- Encountered textually rather than in person. Her mention in *On the Punctual Tears* (paired with Selûne) helped Gyrgum grasp the "Underdark conundrum": in the Underdark, no one can see the moon or the dark, complicating exactly when "midnight" occurs.
 
 ## Current Status
 - No location or activity established.
@@ -23,7 +23,7 @@ source_extracts: [60]
 
 ## Relationships
 - **Selûne:** Named together with Shar in the treatise footnotes (thematic darkness/moon pairing).
-- **Grygum (party member):** His reading of the treatise, aided by her mention, led to his insight about the "midnight" problem in the Underdark.
+- **Gyrgum (party member):** His reading of the treatise, aided by her mention, led to his insight about the "midnight" problem in the Underdark.
 
 ## Arc Score Events
 - None recorded in source notes.

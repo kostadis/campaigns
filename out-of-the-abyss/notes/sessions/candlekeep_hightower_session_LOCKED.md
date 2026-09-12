@@ -88,7 +88,7 @@ arcane-locked (9th), `mordenkainen's private sanctum`, alarm keyed to the dead K
   does not fight. He aims them.**
 - **Mid-approach the wards flex** (narrative, no mechanics): each PC gets a one-round
   vision — Daz → Vaelissa's face; Zalthir → Jimjar's voice; Thorin → Brysis's hand;
-  Grygum → ⭐ **Bahamut absent** (negative space); Glabbagool → *"Mother."*
+  Gyrgum → ⭐ **Bahamut absent** (negative space); Glabbagool → *"Mother."*
 - **The door is SEALED and holding** — A'lai is one key short. **A'lai is OUTSIDE
   it, at the Skyscraping Lobby**, and turns as they arrive — **because he needs the
   key the party is carrying. This is an ambush for key #2, not a breach.**

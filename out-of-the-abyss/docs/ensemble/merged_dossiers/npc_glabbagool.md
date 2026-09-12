@@ -88,7 +88,7 @@ chapters: 34-61
 - Functions as a non-combative, absorptive tool of subterfuge for Zalthir  
 - Acts as an extension of Zalthir’s senses and capabilities, absorbing environmental knowledge and neutralizing hazards  
 - Autonomous: seeks magical abilities and is no longer merely a companion but an entity with its own goals  
-- Previously worked with Grygum, Eldev, Jimjar, and the party; now exclusively bound to Zalthir  
+- Previously worked with Gyrgum, Eldev, Jimjar, and the party; now exclusively bound to Zalthir  
 - Maintains persistent, hopeful nature — still attempts to assist, even when unasked  
 
 **Defining recent actions:**  
@@ -108,7 +108,7 @@ chapters: 34-61
 - Whether Glabbagool’s autonomy is fully independent or still partially influenced by Zalthir’s will is unclear.  
 - The origin of the bone die’s influence on Glabbagool remains unexplained; it may be tied to his sentience, but this is not confirmed.  
 - The exact mechanism by which Glabbagool absorbed the Potion of Flying (e.g., through skin, blood, or psychic resonance) is unspecified.  
-- Whether Glabbagool’s previous companions (Grygum, Jimjar, etc.) are still alive or aware of his current state is unknown — no recent contact is noted.  
+- Whether Glabbagool’s previous companions (Gyrgum, Jimjar, etc.) are still alive or aware of his current state is unknown — no recent contact is noted.  
 - The permanence of his fusion to Zalthir’s arm is uncertain — could he detach, or is this irreversible?
 
 ---
@@ -125,19 +125,19 @@ chapters: 39-61
 ### Glabbagool
 
 **Current status:** Alive  
-**Current location:** Fused along Grygum’s forearm  
-**Current possession / notable items:** Fused with Grygum’s forearm; capable of absorbing and neutralizing liquids (including tea and potion of flying)  
-**Current assignment / role:** Arcane companion bound to Grygum; used for stealth absorption of liquids and combat acid dissolution  
+**Current location:** Fused along Gyrgum’s forearm  
+**Current possession / notable items:** Fused with Gyrgum’s forearm; capable of absorbing and neutralizing liquids (including tea and potion of flying)  
+**Current assignment / role:** Arcane companion bound to Gyrgum; used for stealth absorption of liquids and combat acid dissolution  
 **Defining recent actions:**  
-- Consumed tea and a potion of flying at Grygum’s command, neutralizing them without detection.  
-- Dissolved plate armor from helmed horrors during combat by spewing acid while riding Grygum’s arm.  
+- Consumed tea and a potion of flying at Gyrgum’s command, neutralizing them without detection.  
+- Dissolved plate armor from helmed horrors during combat by spewing acid while riding Gyrgum’s arm.  
 - Internally expressed approval of the flying skill after consuming the potion.  
 
-**Key relationships:** Bound to and controlled by Grygum; previously associated with Daz and Zalthir, but current allegiance and physical fusion are with Grygum.  
+**Key relationships:** Bound to and controlled by Gyrgum; previously associated with Daz and Zalthir, but current allegiance and physical fusion are with Gyrgum.  
 **Revealed motivations / secrets:** Sentient; capable of internal monologue and emotional response (e.g., expressed pleasure at the flying skill); willingly accepted being mislabeled as a “familiar” in prior contexts.
 
 ## Uncertainty
-- Contradictory attribution of physical form: [ch61] describes Glabbagool as fused to Grygum’s forearm, but also as “riding Zalthir’s arm” during the same chapter — unclear if this is a temporal shift, misstatement, or simultaneous dual presence.  
-- Contradictory current host: [ch55] places Glabbagool in a bag with a miniaturized spy; [ch61] places it fused to Grygum’s arm — the latter is chronologically later, so the bag reference is stale, but the transition event is unrecorded.  
+- Contradictory attribution of physical form: [ch61] describes Glabbagool as fused to Gyrgum’s forearm, but also as “riding Zalthir’s arm” during the same chapter — unclear if this is a temporal shift, misstatement, or simultaneous dual presence.  
+- Contradictory current host: [ch55] places Glabbagool in a bag with a miniaturized spy; [ch61] places it fused to Gyrgum’s arm — the latter is chronologically later, so the bag reference is stale, but the transition event is unrecorded.  
 - Unclear if Glabbagool is still capable of “blinking” (per [ch50]) or “ticking” (per [ch47]) in its current fused state.  
 - No confirmation whether Daz or Zalthir still have any active connection to Glabbagool beyond past association.

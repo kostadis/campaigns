@@ -42,11 +42,11 @@
 
 **Location:** Items section ("Real High Tower Key")
 
-**Issue:** The Items section states: *"Grygum held this key along with the sapphire."* But the recap's own Scenes and Summary indicate that the sapphire (the stolen gem) was held by Grygum, while the key sequence is as follows: the real key was recovered from Tadric (prior session), and subsequently one key was passed from Daz to Zalthir and hidden in Glabbagool. The Items section conflates the sapphire and the key as simultaneously in Grygum's possession, which is ambiguous/inconsistent with the scene narrative.
+**Issue:** The Items section states: *"Gyrgum held this key along with the sapphire."* But the recap's own Scenes and Summary indicate that the sapphire (the stolen gem) was held by Gyrgum, while the key sequence is as follows: the real key was recovered from Tadric (prior session), and subsequently one key was passed from Daz to Zalthir and hidden in Glabbagool. The Items section conflates the sapphire and the key as simultaneously in Gyrgum's possession, which is ambiguous/inconsistent with the scene narrative.
 
-**Evidence:** Summary: "Daz quietly slipped one key to Zalthir, and it was ultimately tucked away inside Glabbagool." Scenes ("The Capture of A'lai Avainmore..."): "Daz uses sleight of hand to secretly pass one of the keys to Zalthir." The sapphire had been passed to Grygum earlier. There is no scene where Grygum holds both the key and the sapphire simultaneously as the primary carrier.
+**Evidence:** Summary: "Daz quietly slipped one key to Zalthir, and it was ultimately tucked away inside Glabbagool." Scenes ("The Capture of A'lai Avainmore..."): "Daz uses sleight of hand to secretly pass one of the keys to Zalthir." The sapphire had been passed to Gyrgum earlier. There is no scene where Gyrgum holds both the key and the sapphire simultaneously as the primary carrier.
 
-**Suggested fix:** Clarify the Real High Tower Key's chain of custody: recovered from Tadric → held by Daz → passed (via sleight of hand) to Zalthir → stored inside Glabbagool. The sapphire remains separately with Grygum. Remove the statement that Grygum held the key.
+**Suggested fix:** Clarify the Real High Tower Key's chain of custody: recovered from Tadric → held by Daz → passed (via sleight of hand) to Zalthir → stored inside Glabbagool. The sapphire remains separately with Gyrgum. Remove the statement that Gyrgum held the key.
 
 ---
 
@@ -114,8 +114,8 @@
 
 **Location:** Summary (opening sentence)
 
-**Issue:** The Summary's opening sentence states A'lai directed the surviving thug toward Daz because *"Daz had the gem."* Per the prior session's established facts (grounding_docs_stale_20260803.md), the sapphire was **already secretly passed to Grygum** in the 2026-07-27 session before this session began. A'lai would be mistaken in this belief — which is a legitimate story beat — but the recap should clarify whether A'lai *believed* Daz had the gem (which is the dramatic irony) vs. whether the recap is presenting this as factually true.
+**Issue:** The Summary's opening sentence states A'lai directed the surviving thug toward Daz because *"Daz had the gem."* Per the prior session's established facts (grounding_docs_stale_20260803.md), the sapphire was **already secretly passed to Gyrgum** in the 2026-07-27 session before this session began. A'lai would be mistaken in this belief — which is a legitimate story beat — but the recap should clarify whether A'lai *believed* Daz had the gem (which is the dramatic irony) vs. whether the recap is presenting this as factually true.
 
-**Evidence:** grounding_docs_stale_20260803.md: "A'lai's sapphire was seized by Daz (telekinesis) and covertly passed to Grygum." The Scenes section later correctly states: *"Daz had secretly passed it to Grygum."*
+**Evidence:** grounding_docs_stale_20260803.md: "A'lai's sapphire was seized by Daz (telekinesis) and covertly passed to Gyrgum." The Scenes section later correctly states: *"Daz had secretly passed it to Gyrgum."*
 
 **Suggested fix:** Revise the opening to clarify it is A'lai's (mistaken) belief, not a factual statement: e.g., *"A'lai — believing Daz still held the gem — told the surviving thug to target the wizard."*

@@ -10,11 +10,11 @@
 **Thorin**
 - Current location: Whorlstone Tunnels / cave system
 - Current state: Active, uninjured
-- Recent actions: Shouted to confirm the group was fine after darkness was dispelled; found a baby dragon rattle made by Clan Thrazgad; proposed naming the group "The Ember Vanguard"; led the group west through the cavern rather than south toward Empty Scabbard Killers territory; heard a yelp that revealed the Trapper attack on Grygum
+- Recent actions: Shouted to confirm the group was fine after darkness was dispelled; found a baby dragon rattle made by Clan Thrazgad; proposed naming the group "The Ember Vanguard"; led the group west through the cavern rather than south toward Empty Scabbard Killers territory; heard a yelp that revealed the Trapper attack on Gyrgum
 - Faction: The Ember Vanguard
 - Notes: Made an inadvertent offensive remark to Zalthir about wanting a "pure dragon"; previously considered riding Themberchaude out of Gracklstugh; proposed the plan to give the egg to Gartokkar
 
-**Grygum**
+**Gyrgum**
 - Current location: Whorlstone Tunnels / cave system
 - Current state: Injured and covered in acid slime from a Trapper; alive
 - Recent actions: Shouted asking where the egg was; searched bodies of dead derro; read the journal and letters Zalthir found; declared the egg should be returned to Gartokkar; examined the baby dragon rattle; proposed the name "The Second Faction" (rejected); was enveloped and attacked by a Trapper creature; freed with assistance from party; received silvery barbs spell from Daz
@@ -24,7 +24,7 @@
 **Daz**
 - Current location: Whorlstone Tunnels / cave system
 - Current state: Active, uninjured
-- Recent actions: Announced he had the egg after darkness was dispelled; exchanged pleasantries with Pelek; used dancing lights to impersonate a Drow Archmage summoning a meteor swarm, intimidating the derro guards; congratulated by companions for the ruse; cast silvery barbs to attempt to free Grygum from the Trapper; cast toll the dead against the Trapper
+- Recent actions: Announced he had the egg after darkness was dispelled; exchanged pleasantries with Pelek; used dancing lights to impersonate a Drow Archmage summoning a meteor swarm, intimidating the derro guards; congratulated by companions for the ruse; cast silvery barbs to attempt to free Gyrgum from the Trapper; cast toll the dead against the Trapper
 - Faction: The Ember Vanguard
 - Notes: Self-identified as "the feared mage of the Ember Vanguard"; found purpose in the group's new identity
 
@@ -75,7 +75,7 @@
 - Current state: Unknown; alive (referenced)
 - Recent actions: Not present; described as paranoid in letters; unaware of the egg's true destiny
 - Faction: Keepers of the Flame (implied leader or senior member)
-- Notes: Referenced as believing the egg is merely a replacement for Themberchaude; the party plans to return the egg to him and use him to escape Gracklstugh; Grygum believes when the abomination hatches, Themberchaude will take revenge on those who tried to control it; Narrak's letter mentions "the genocidal war against the derro that Gartokkar so desires"
+- Notes: Referenced as believing the egg is merely a replacement for Themberchaude; the party plans to return the egg to him and use him to escape Gracklstugh; Gyrgum believes when the abomination hatches, Themberchaude will take revenge on those who tried to control it; Narrak's letter mentions "the genocidal war against the derro that Gartokkar so desires"
 
 **Errde Blackskull**
 - Current location: Unknown; not present
@@ -96,7 +96,7 @@
 - Current state: Unknown; alive (referenced)
 - Recent actions: Referenced only in discussion
 - Faction: Keepers of the Flame (their dragon)
-- Notes: Described as a "fat dragon"; Grygum's reasoning is that Themberchaude will take revenge on those who tried to control it once the mutated egg hatches; Keepers are in panic over the egg's loss, keeping this secret from the Deep King
+- Notes: Described as a "fat dragon"; Gyrgum's reasoning is that Themberchaude will take revenge on those who tried to control it once the mutated egg hatches; Keepers are in panic over the egg's loss, keeping this secret from the Deep King
 
 **Buppido**
 - Current location: Unknown; not present
@@ -126,7 +126,7 @@
 - Current goals: Escape Gracklstugh with minimum chaos; return the egg to Gartokkar; use Gartokkar to facilitate escape
 - Recent actions: Named themselves in this session; cleared the derro on the mesa; intimidated a derro guard post using illusion; defeated a Trapper creature; recovered Pliinki's journal and letters
 - Relationships: Formed a deal with the Stone Guard (Errde Blackskull); plan to leverage Gartokkar; avoiding Empty-Scabbard Killers
-- Key members: Thorin, Zalthir, Grygum, Daz, Eldeth, Pelek (new addition, occupying derro body)
+- Key members: Thorin, Zalthir, Gyrgum, Daz, Eldeth, Pelek (new addition, occupying derro body)
 - Notes: Now feared (by derro) as a Drow incursion from Menzoberranzan; name proposed by Thorin; references made to prior legendary groups "The First Faction" and "The Three Half Pints and the Pint (3HPP)"
 
 **Cult of Demogorgon**
@@ -181,7 +181,7 @@
 - Pelek, a ghost, announced they had occupied the body of a living derro and introduced themselves
 - Zalthir retrieved a statue of Demogorgon from an alcove in the northeast corner of the mesa
 - Zalthir found and read Pliinki's journal and four letters at a desk in the northwest corner of the mesa
-- Grygum read the documents and declared the egg must be returned to Gartokkar, reasoning the mutated abomination will prompt Themberchaude's revenge
+- Gyrgum read the documents and declared the egg must be returned to Gartokkar, reasoning the mutated abomination will prompt Themberchaude's revenge
 - Thorin found a baby dragon rattle manufactured by Clan Thrazgad on the mesa
 - Thorin made an inadvertently offensive remark to Zalthir about wanting a "pure dragon"
 - The party decided on a plan: return the egg to Gartokkar, use him to escape, and tell him a "crazed group" (not the derro) stole the egg; leverage the threat of torture-induced story changes as pressure
@@ -192,10 +192,10 @@
 - Diirdeklin ordered his squad to let the party pass; the party exited through the double doors
 - Diinarnnmyr concluded the Ember Vanguard were Drow working with Duergar
 - Thorin led the group west through a 20-foot-wide cavern rather than south toward Empty Scabbard Killers territory
-- Grygum was enveloped and attacked by a Trapper (manta ray-like creature) in the cavern
-- Daz cast silvery barbs to attempt to free Grygum and then cast toll the dead against the Trapper
-- Zalthir struck the Trapper multiple times; the Trapper died before Grygum could escape on his own
-- Grygum survived but is covered in the Trapper's acid slime
+- Gyrgum was enveloped and attacked by a Trapper (manta ray-like creature) in the cavern
+- Daz cast silvery barbs to attempt to free Gyrgum and then cast toll the dead against the Trapper
+- Zalthir struck the Trapper multiple times; the Trapper died before Gyrgum could escape on his own
+- Gyrgum survived but is covered in the Trapper's acid slime
 
 ---
 
@@ -233,7 +233,7 @@
 
 **20-foot-wide cavern (west of the double doors)**
 - What it is: A large cavern tunnel west of the double doors
-- What happened there: The Ember Vanguard were walking through it when a Trapper attacked Grygum; the Trapper was killed
+- What happened there: The Ember Vanguard were walking through it when a Trapper attacked Gyrgum; the Trapper was killed
 - Current state: Trapper dead; party proceeding
 
 **Gracklstugh**
@@ -249,7 +249,7 @@
 
 ## Threads & Mysteries
 
-- **The mutated egg**: The egg is in the party's possession; it has been magically altered to develop into a two-headed wyrmling intended as a mount/gift for Demogorgon. The party plans to return it to Gartokkar. What will happen when it hatches remains unresolved. Grygum believes Themberchaude will take revenge on those involved.
+- **The mutated egg**: The egg is in the party's possession; it has been magically altered to develop into a two-headed wyrmling intended as a mount/gift for Demogorgon. The party plans to return it to Gartokkar. What will happen when it hatches remains unresolved. Gyrgum believes Themberchaude will take revenge on those involved.
 - **Return to Gartokkar**: The party plans to give the egg to Gartokkar, lie about who stole it, and leverage his assistance to escape Gracklstugh. How Gartokkar will react—and whether the deception will hold—is unresolved.
 - **The Obelisk**: Still cracked and unrepaired; its quasi-magical energy is still leaking. The cult failed to repair it with Thrazgad ore. Whether another method exists or whether anyone will now attempt to repair or destroy it is unresolved.
 - **The Demogorgon cult's remaining leadership**: Narrak and Aliinka are still alive and at large. Their operations in Gracklstugh continue. The party possesses documents that implicate them but has not yet acted on this information.
@@ -260,7 +260,7 @@
 - **The deal with Errde Blackskull / Stone Guard**: The party has a prior arrangement with the Stone Guard that constrains their options; the terms and consequences are not fully detailed in this chunk.
 - **Empty-Scabbard Killers**: The party is actively avoiding them, suggesting a prior conflict or threat. Whether they will encounter them again is unresolved.
 - **The Demogorgon statue**: Zalthir picked it up. Its properties or significance have not been established.
-- **The Clan Thrazgad baby dragon rattle**: Found on the mesa; its purpose (why it was made and why it was there) is openly questioned by Grygum and unresolved.
+- **The Clan Thrazgad baby dragon rattle**: Found on the mesa; its purpose (why it was made and why it was there) is openly questioned by Gyrgum and unresolved.
 - **Documents as political leverage**: Zalthir noted he has enough documentation to condemn the derro and duergar and trigger a genocidal war. He explicitly questioned whether using it would be the right thing to do. This is an open ethical and plot thread.
 - **Buppido's fate**: Referenced as "lost" in a way that affected the party emotionally. No details given in this chunk about what happened to Buppido.
 - **The spectator near Eldeth**: A spectator (beholder-like creature) was present near Eldeth at the tunnel entrance. Its allegiance and purpose are not explained in this chunk.

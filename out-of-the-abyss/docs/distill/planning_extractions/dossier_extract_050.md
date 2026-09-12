@@ -24,15 +24,15 @@ She called up four spore servants — former Velkynvelve guards whose bodies had
 
 Jorlan was identified by Asha as one of only two drow in the group who remained uninfected by Zuggtmoy's spores — his immunity attributed to his hatred rather than devotion. He was positioned across the bridge from the party.
 
-During the battle, Grygum baited him by calling out "Come get it, idiot," and Jorlan charged across the bridge without hesitation, running directly into the Glyph of Warding that Grygum had inscribed into the stone. The glyph detonated for 21 damage, hitting Jorlan and his accompanying spore servants — one servant was destroyed outright. Jorlan took the full force. Immediately after, Thorin closed on him and landed a critical hit with Dawnbringer for 14 damage, then applied the Sap technique to impose disadvantage on Jorlan's next attack. He is described as reeling from the combined punishment but still standing.
+During the battle, Gyrgum baited him by calling out "Come get it, idiot," and Jorlan charged across the bridge without hesitation, running directly into the Glyph of Warding that Gyrgum had inscribed into the stone. The glyph detonated for 21 damage, hitting Jorlan and his accompanying spore servants — one servant was destroyed outright. Jorlan took the full force. Immediately after, Thorin closed on him and landed a critical hit with Dawnbringer for 14 damage, then applied the Sap technique to impose disadvantage on Jorlan's next attack. He is described as reeling from the combined punishment but still standing.
 
 ## Glabbagool
 
 Glabbagool attempted to pass as a rock during Daz's negotiation with Asha Vandree. The deception failed — his eyes drifted left and right with unhurried curiosity, giving him away. Daz told him "I'm taking care of this. It's fine." Asha accepted Glabbagool as a bound familiar, which actually reinforced her framework of Daz as a deluded but powerful mage. Daz privately reflected that Glabbagool's presence may have done more to sell his credibility than the Dancing Lights illusion.
 
-## Grygum
+## Gyrgum
 
-Grygum lent his light crossbow to Thorin before the fight. He inscribed a Glyph of Warding onto the bridge on Jorlan's side, triggered by any hostile creature crossing — it became invisible once finished. He committed the Dust of Suleiman directly onto the Big Heart Fungus. He baited Jorlan across the bridge by calling "Come get it, idiot," triggering the glyph detonation that dealt 21 damage and destroyed one spore servant. He had one 4th-level spell slot, treated as a non-renewable resource. He assessed the combined effect of the Dust and Daz's Fireball with: "That worked better than I had any right to expect."
+Gyrgum lent his light crossbow to Thorin before the fight. He inscribed a Glyph of Warding onto the bridge on Jorlan's side, triggered by any hostile creature crossing — it became invisible once finished. He committed the Dust of Suleiman directly onto the Big Heart Fungus. He baited Jorlan across the bridge by calling "Come get it, idiot," triggering the glyph detonation that dealt 21 damage and destroyed one spore servant. He had one 4th-level spell slot, treated as a non-renewable resource. He assessed the combined effect of the Dust and Daz's Fireball with: "That worked better than I had any right to expect."
 
 ## Valen
 

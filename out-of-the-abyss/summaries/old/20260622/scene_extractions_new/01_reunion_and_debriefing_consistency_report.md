@@ -14,15 +14,15 @@
 
 ---
 
-## 2. Grygum's Deity Attribution — Daral's Flattery
+## 2. Gyrgum's Deity Attribution — Daral's Flattery
 
 **Location:** Verbatim Moments — Daral flatters about the quadrangle issue
 
-**Issue:** Daral says "as a cleric of Bahamut" while addressing Grygum — this is correct. No contradiction here, but the flattery about the "quadrangle issue" implies this refers to Grygum's philosophical school debates (the strong-weak hypothesis / triangle / fourth position). The recap does not identify what "the quadrangle issue" is, which could cause confusion in future sessions about established lore.
+**Issue:** Daral says "as a cleric of Bahamut" while addressing Gyrgum — this is correct. No contradiction here, but the flattery about the "quadrangle issue" implies this refers to Gyrgum's philosophical school debates (the strong-weak hypothesis / triangle / fourth position). The recap does not identify what "the quadrangle issue" is, which could cause confusion in future sessions about established lore.
 
-**Evidence:** world_state and entity_registry — Grygum proposed a "fourth school" (fixed points around which choices constrain), which Vareth named the "strong-weak hypothesis." The triangle/fourth position is documented. The term "quadrangle issue" is not used in any context document; the established term is the "strong-weak hypothesis" or the "fourth school."
+**Evidence:** world_state and entity_registry — Gyrgum proposed a "fourth school" (fixed points around which choices constrain), which Vareth named the "strong-weak hypothesis." The triangle/fourth position is documented. The term "quadrangle issue" is not used in any context document; the established term is the "strong-weak hypothesis" or the "fourth school."
 
-**Suggested Fix:** Clarify in a note that Daral's "quadrangle issue" refers to Grygum's fourth-school philosophical contribution (the strong-weak hypothesis), or update the term to match established in-world language.
+**Suggested Fix:** Clarify in a note that Daral's "quadrangle issue" refers to Gyrgum's fourth-school philosophical contribution (the strong-weak hypothesis), or update the term to match established in-world language.
 
 ---
 
@@ -66,7 +66,7 @@
 
 **Location:** Scene Summary, bullet 11; Scene Tag — "The Unopened Safe"; Verbatim Moments — the safe discussion
 
-**Issue:** The recap refers to "Alkrist's still-unopened safe" and Grygum quotes the open threads document as saying "Alkrist lock safe, unopened." The campaign_state confirms this safe exists and is unresolved. However, Zalthir's comment — "if the goal was to be destructive, I could have just punched the safe" — is presented as his rationale for not opening it. This is consistent with Zalthir's established character (shadow monk emphasizing stealth), but the recap does not clarify *when* the party attempted the safe or what intelligence they hoped to recover, which may matter for continuity.
+**Issue:** The recap refers to "Alkrist's still-unopened safe" and Gyrgum quotes the open threads document as saying "Alkrist lock safe, unopened." The campaign_state confirms this safe exists and is unresolved. However, Zalthir's comment — "if the goal was to be destructive, I could have just punched the safe" — is presented as his rationale for not opening it. This is consistent with Zalthir's established character (shadow monk emphasizing stealth), but the recap does not clarify *when* the party attempted the safe or what intelligence they hoped to recover, which may matter for continuity.
 
 **Evidence:** campaign_state Active Threads — safe listed as an open thread. party.md and world_state — no specific reference to what the safe is expected to contain. The attempt is established canon (Glabbagool tried to squeeze through a 1-inch crack).
 
@@ -74,13 +74,13 @@
 
 ---
 
-## 7. Grygum's Cleric Domain — Lesser Restoration
+## 7. Gyrgum's Cleric Domain — Lesser Restoration
 
 **Location:** Scene Summary, bullet 2; Verbatim Moments — Daral pleads for restoration
 
-**Issue:** The recap correctly states that Grygum (and Dawnbringer) can cast *Lesser Restoration*. This is consistent with Grygum being a Life Cleric (Life domain grants access to healing spells). The campaign_state and party.md both confirm Grygum has this spell. No error here, but the recap's phrasing "Grygum, too, could cast Lesser Restoration" (with Dawnbringer also able to cast it) should be noted: Dawnbringer is a sentient sunblade. The context documents do not establish that Dawnbringer has *Lesser Restoration* as a spell ability; sunblades in D&D 5e do not typically grant this spell.
+**Issue:** The recap correctly states that Gyrgum (and Dawnbringer) can cast *Lesser Restoration*. This is consistent with Gyrgum being a Life Cleric (Life domain grants access to healing spells). The campaign_state and party.md both confirm Gyrgum has this spell. No error here, but the recap's phrasing "Gyrgum, too, could cast Lesser Restoration" (with Dawnbringer also able to cast it) should be noted: Dawnbringer is a sentient sunblade. The context documents do not establish that Dawnbringer has *Lesser Restoration* as a spell ability; sunblades in D&D 5e do not typically grant this spell.
 
-**Evidence:** entity_registry and party.md — Dawnbringer is a "sentient sunblade." campaign_state Key Resources — "*Lesser Restoration* — Grygum and Dawnbringer can both cast it." This is explicitly stated in campaign_state, so it is canon for this campaign.
+**Evidence:** entity_registry and party.md — Dawnbringer is a "sentient sunblade." campaign_state Key Resources — "*Lesser Restoration* — Gyrgum and Dawnbringer can both cast it." This is explicitly stated in campaign_state, so it is canon for this campaign.
 
 **Suggested Fix:** No error — the campaign_state explicitly establishes Dawnbringer can cast *Lesser Restoration* as a campaign-specific property. The recap is consistent with this. No correction needed; this note is for future reference only.
 
@@ -90,7 +90,7 @@
 
 **Location:** Scene Summary, bullet 7; Verbatim Moments — monograph negotiation
 
-**Issue:** The recap describes the negotiation settling on "a spot in the acknowledgement section." The verbatim confirms this. Fembris says "I'll produce a draft by tomorrow." This implies Fembris expects Grygum to review or respond to a draft for the acknowledgment-section arrangement. This is not a contradiction, but it sets up a pending obligation (Fembris producing a draft) that is not currently listed in any open threads document.
+**Issue:** The recap describes the negotiation settling on "a spot in the acknowledgement section." The verbatim confirms this. Fembris says "I'll produce a draft by tomorrow." This implies Fembris expects Gyrgum to review or respond to a draft for the acknowledgment-section arrangement. This is not a contradiction, but it sets up a pending obligation (Fembris producing a draft) that is not currently listed in any open threads document.
 
 **Evidence:** No context document tracks this. Fembris Lancer is listed as "acolyte adjutant" in entity_registry and "friendly scholar; gave research notes to Glabbagool; fetched Kalan for the interrogation" in campaign_state NPC table.
 

@@ -18,11 +18,11 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 - Sylvira is too weak from her illness to act herself, but feels it is her duty to help Candlekeep.
 - Sylvira identifies the 'Eastern Light of Mystra's Mantle' — **Limniz** — as an obscure star that can be found on the star charts in the Orrery of the Astronomicon — "again, a trivial, trivial, trivial question."
 - Sylvira mentions that when she passed the Astronomicon, she noticed three people inside who did not work there — "which, you know, could be 3 members of the Avowed doing research, or somebody fighting" — a potential warning of enemy activity.
-- The GM offers to simply hand over the decoded text, noting past groups have either spent hours on it or refused because it was "too much like my day job." Grygum: "That's me on different days, honestly."
-- The party works together to decode the letter substitution cipher of the cryptogram, with Thorin leading the effort. Thorin uses a cryptogram-solver site that fills in letters as you type ("clearly there's gonna be random-ass words like Alaundo"); Grygum solves in parallel: "The hardest part was trying to type in all of the original while still trying to listen."
+- The GM offers to simply hand over the decoded text, noting past groups have either spent hours on it or refused because it was "too much like my day job." Gyrgum: "That's me on different days, honestly."
+- The party works together to decode the letter substitution cipher of the cryptogram, with Thorin leading the effort. Thorin uses a cryptogram-solver site that fills in letters as you type ("clearly there's gonna be random-ass words like Alaundo"); Gyrgum solves in parallel: "The hardest part was trying to type in all of the original while still trying to listen."
 - A running argument over I versus J: "There's two J's. I'm gonna call that one an I." "It doesn't matter as long as you're consistent." The GM's "OCD" finally confirms the J in Black Knight was an I.
-- The party successfully deciphers the full text: instructions to feed the quill of Alaundo the Seer, tread as many steps as he lived in years, utter the original prophecy to unseen ears, sprinkle dust of Mechanus on dormant gears, one last guardian of knowledge remains to verify the chosen Reader's claims, and that those well-versed in Candlekeep's lore may fearlessly pass the obsidian door. Grygum supplies the line Thorin skipped: "Utter the original prophecy to unseen ears." Thorin: "Okay, that rhymes with years."
-- The GM on the scholars' reaction: "how first a dwarf convinces Protanther, and now another dwarf solves a riddle that protects an ancient artifact" — "the endless debate of the great question of our age." *(GM ruling 2026-08-24: the first dwarf is **Stroud** — the dwarf rogue who beat an ancient gold dragon at chess with a move it had not seen in four hundred years of study. The second is **Thorin**, a dwarf raised by hill giants, who solved a riddle he had no business solving. Not a reference to Grygum, who is an orc. This is why the Avowed treat it as fresh evidence in the great question of our age.)*
+- The party successfully deciphers the full text: instructions to feed the quill of Alaundo the Seer, tread as many steps as he lived in years, utter the original prophecy to unseen ears, sprinkle dust of Mechanus on dormant gears, one last guardian of knowledge remains to verify the chosen Reader's claims, and that those well-versed in Candlekeep's lore may fearlessly pass the obsidian door. Gyrgum supplies the line Thorin skipped: "Utter the original prophecy to unseen ears." Thorin: "Okay, that rhymes with years."
+- The GM on the scholars' reaction: "how first a dwarf convinces Protanther, and now another dwarf solves a riddle that protects an ancient artifact" — "the endless debate of the great question of our age." *(GM ruling 2026-08-24: the first dwarf is **Stroud** — the dwarf rogue who beat an ancient gold dragon at chess with a move it had not seen in four hundred years of study. The second is **Thorin**, a dwarf raised by hill giants, who solved a riddle he had no business solving. Not a reference to Gyrgum, who is an orc. This is why the Avowed treat it as fresh evidence in the great question of our age.)*
 - Kalan Strongbranch arrives late, eager to contribute, only to find the party has already solved the cipher. "There's a moment of stunned silence, but he recovers... yes, well, I'm relieved to see that." *(GM ruling 2026-08-24 — new canon: Kalan spent the decode out stabilising the situation, and came back with a clue because **one of his agents** told him the party was working a puzzle he knew the answer to.)*
 - Kalan insists on being useful: "As a member of the guards, I've walked these grounds many times and am very familiar with all of the points of interest" — and identifies the first line as pointing to the statue of Alaundo in Founders Court. The GM likens him to "that executive who shows up at the meeting and has nothing useful to say."
 
@@ -40,7 +40,7 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 **Thorin**
 > "I'm using this site where you can type in letters, and it actually fills it all out so that you can…"
 
-**Grygum**
+**Gyrgum**
 > "Oh, I'm not sure."
 
 **Thorin**
@@ -70,7 +70,7 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 **GM** — *as A'lai*
 > "…wondering what… when A'lai hears about this, he says: I think I can help you, but I suggest we go to the investigator's office, where we can put these notes on the floor and bring all of our best minds to see what we can do."
 
-**Grygum**
+**Gyrgum**
 > "Good idea."
 
 **GM**
@@ -91,7 +91,7 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 **GM** — *(GM ruling 2026-08-24: **keep exactly as spoken.** Addressed to the players, not to the fiction — the GM remarking on how cold the party is being about Sylvira, who does not yet know they killed her son. Not a mishearing. GM flags this as a thread that will explode later.)*
 > "You're beautiful."
 
-**Grygum**
+**Gyrgum**
 > "I'm sure she doesn't mind."
 
 **GM**
@@ -223,7 +223,7 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 **Thorin**
 > "I'm solving this, give me a second here, I had to type everything in."
 
-**Grygum**
+**Gyrgum**
 > "Yeah, I'm looking at it, too."
 
 **GM**
@@ -301,7 +301,7 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 **GM**
 > "Anybody — either roll 4 intelligence checks, or somebody roll with Advantage."
 
-**Grygum**
+**Gyrgum**
 > "I'm busy trying to decipher this."
 
 **Daz**
@@ -335,15 +335,15 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 > "I guess I can roll it with advantage if no one has better than me."
 
 **GM**
-> "Grygum said—"
+> "Gyrgum said—"
 
 **Daz**
 > "…zero."
 
 **GM**
-> "Grygum, what's your performance?"
+> "Gyrgum, what's your performance?"
 
-**Grygum**
+**Gyrgum**
 > "Performance. Performance. Performance plus 2, yeah."
 
 **GM**
@@ -361,19 +361,19 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 **Thorin**
 > "Tread as many steps as he lived in years. Sprinkle dust of Mechanus on dormant gears."
 
-**Grygum**
+**Gyrgum**
 > "I think you missed a… I think you missed a line."
 
 **Thorin**
 > "Did I?"
 
-**Grygum**
+**Gyrgum**
 > "I see a line beginning with utter the original prophecy."
 
 **Thorin**
 > "Well, this is what I got, in case you—"
 
-**Grygum**
+**Gyrgum**
 > "Oh, okay, go on."
 
 **Thorin**
@@ -416,9 +416,9 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 > "The dwarven… the dwarf and the—"
 
 **GM**
-> "—and Grygum solving this. I think, for a moment here, this becomes a part of the endless debate of the great question of our age."
+> "—and Gyrgum solving this. I think, for a moment here, this becomes a part of the endless debate of the great question of our age."
 
-**Grygum**
+**Gyrgum**
 > "Haha."
 
 **GM**
@@ -430,22 +430,22 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 **GM**
 > "—solves a riddle that protects an ancient artifact."
 
-**Grygum**
+**Gyrgum**
 > "I have pretty much the same thing here, too."
 
 **GM**
 > "Yes, it is."
 
 **Thorin**
-> "How'd you get there, Grygum?"
+> "How'd you get there, Gyrgum?"
 
-**Grygum**
+**Gyrgum**
 > "I think I might have mixed up one or two letters, but…"
 
 **Thorin**
 > "Yeah, the I and the J."
 
-**Grygum**
+**Gyrgum**
 > "That's yours."
 
 **Thorin**
@@ -457,13 +457,13 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 **Daz**
 > "Fantastic."
 
-**Grygum**
+**Gyrgum**
 > "This website that he found is a little eccentric, but works well enough."
 
 **Thorin**
 > "I did a search for cryptogram solver, and a lot of them try to look at dictionaries and solve it for you. I'm like — clearly there's gonna be random-ass words like…"
 
-**Grygum**
+**Gyrgum**
 > "Yeah, Alaundo."
 
 **GM**
@@ -475,7 +475,7 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 **GM**
 > "Yes."
 
-**Grygum**
+**Gyrgum**
 > "Yeah, so the line that you missed, I think, says: Utter the original prophecy to unseen ears."
 
 **Thorin**
@@ -484,7 +484,7 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 **GM**
 > "Alright. I see. Okay. So you guys solved it. Well done. This is actually good."
 
-**Grygum**
+**Gyrgum**
 > "The hardest part was trying to type in all of the original while still trying to listen."
 
 **Thorin**
@@ -496,19 +496,19 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 **Thorin** — *(raw capture said "dust of methane"; glossary maps `Mechanis, Mechanists, Machinus, methanus → Mechanus`)*
 > "We still need the dust of Mechanus, to know how long…"
 
-**Grygum**
+**Gyrgum**
 > "No."
 
 **Thorin**
 > "…Alaundo lived — the Seer lived — and…"
 
-**Grygum**
+**Gyrgum**
 > "Yeah, are we supposed to learn something important from this, or was it just a puzzle?"
 
 **GM**
 > "It's just a puzzle. Alright. No, no, no — you were supposed to learn something important from it. I'm just giving—"
 
-**Grygum**
+**Gyrgum**
 > "Oh, well, now I have to try to interpret it."
 
 **GM**
@@ -523,7 +523,7 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 **GM**
 > "Fortunately, you're in a room with Sylvira, and at that point in time, Kalan Strongbranch arrives, huffing and puffing, explaining that he has the answer to clue number 5."
 
-**Grygum**
+**Gyrgum**
 > "Wait, sorry, we already solved it."
 
 **GM** — *as Kalan Strongbranch*
@@ -532,7 +532,7 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 **GM**
 > "Bleh."
 
-**Grygum**
+**Gyrgum**
 > "And that was one that we all knew anyway, that was Bow."
 
 **GM**
@@ -544,22 +544,22 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 **GM**
 > "He's standing there looking for someone to acknowledge him."
 
-**Grygum**
+**Gyrgum**
 > "Good, excellent."
 
 **GM**
 > "Yeah, he wants to feel that he's participating, he's adding his two cents — he's that executive who shows up at the meeting and has nothing useful to say, and wants everybody to acknowledge their uselessness."
 
-**Grygum**
+**Gyrgum**
 > "Oh yeah, that's the sort of person you put in charge of the…"
 
-**Grygum**
+**Gyrgum**
 > "…convening speech, and tell them to keep it at 10 minutes."
 
 **GM**
 > "Yes — and that security in a wizard's tower that never needed security. Alright, he then explains that the first line of the riddle is instructing you to locate the statue of Alaundo."
 
-**Grygum**
+**Gyrgum**
 > "Is this the thing that's in the basement and nobody knew about it?"
 
 **Daz**
@@ -568,7 +568,7 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 **GM**
 > "The House of Alaundo stands in the middle of Founders Court. Oh."
 
-**Grygum**
+**Gyrgum**
 > "It is not a… okay, we do know about it."
 
 **[The Riddles Fall]**
@@ -579,7 +579,7 @@ from: ../scene_extractions/03_deciphering_the_vault_riddles.md
 - Sylvira supplies the true name of Miirym, the Sentinel Wyrm, from a conversation about demonic possession and true names, answering riddle one.
 - Too weak from illness to act herself, Sylvira answers riddle two — the easternmost star of an obscure constellation, findable in the Orrery of the Astronomicon — and mentions three strangers she saw inside the Astronomicon.
 - The GM's OCD confirms the J in Black Knight was an I.
-- The GM calls for a performance check with advantage; Grygum, at plus two, is elected to roll while the others cheer him on.
-- Thorin decodes the full cryptogram; Grygum, solving in parallel, supplies the line Thorin skipped: utter the original prophecy to unseen ears.
+- The GM calls for a performance check with advantage; Gyrgum, at plus two, is elected to roll while the others cheer him on.
+- Thorin decodes the full cryptogram; Gyrgum, solving in parallel, supplies the line Thorin skipped: utter the original prophecy to unseen ears.
 - The GM imagines the scholars debating how a dwarf (Stroud) convinced Protanther and now another dwarf (Thorin) solved the riddle guarding an ancient artifact.
 - Kalan Strongbranch arrives with the answer to clue five only to find it already solved, recovers, and identifies the first line as the statue of Alaundo in Founders Court.

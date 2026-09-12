@@ -16,7 +16,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - Intensely curious and obsessive about surface architecture — fixated on precise structural details like materials, shapes, windows, and doors. Demonstrates a childlike wonder about concepts he's never experienced. Readily engages in extended technical discussions and is captivated by visual demonstrations.
 
 ## History with the Party
-1. **Northern Terraces (Neverlight Grove):** Approached the party with undisguised curiosity, asking if they were from "above." When Grygum confirmed they were from "the Great Bright," Gasbide launched into a barrage of architectural questions. Zalthir used Minor Illusion to conjure a small-scale building, which captivated Gasbide — he asked if Zalthir was an architect. Daz engaged him in extended technical discussions about construction and design. Gasbide revealed his dream of the fungal tower and his hope to use Araumycos, though he admitted he doesn't understand what Araumycos actually is — only that it is "part of a great celebration to come" promised by Phylo. He was distraught to learn the sun would harm myconids and asked about building protections against it.
+1. **Northern Terraces (Neverlight Grove):** Approached the party with undisguised curiosity, asking if they were from "above." When Gyrgum confirmed they were from "the Great Bright," Gasbide launched into a barrage of architectural questions. Zalthir used Minor Illusion to conjure a small-scale building, which captivated Gasbide — he asked if Zalthir was an architect. Daz engaged him in extended technical discussions about construction and design. Gasbide revealed his dream of the fungal tower and his hope to use Araumycos, though he admitted he doesn't understand what Araumycos actually is — only that it is "part of a great celebration to come" promised by Phylo. He was distraught to learn the sun would harm myconids and asked about building protections against it.
 2. **Referenced by Yrberop:** Mentioned as having a plan to send myconids to the surface to share their stories. Rusharoo found this idea repulsive, noting myconids thrive in the dark.
 
 ## Current Status
@@ -31,7 +31,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Rusharoo:** Opposes Gasbide's vision of reaching the surface; finds the idea repulsive
 - **Zalthir:** Fascinated by Zalthir's illusion magic; sees him as a potential architect
 - **Daz:** Engaged in extended technical construction discussions
-- **Grygum:** Source of confirmation about the surface world
+- **Gyrgum:** Source of confirmation about the surface world
 
 ## Arc Score Events
 No explicit arc score changes noted in the source material.

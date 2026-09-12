@@ -38,7 +38,7 @@
 - Current state: Active, unharmed
 - Recent actions: Bluntly challenged Ploopploopeen on why the group should care about Kuo-toan religious problems
 
-**Grygum**
+**Gyrgum**
 - Current location: Travelling with the escapee group
 - Current state: Active, unharmed
 - Recent actions: Suppressed laughter at Ploopploopeen's name; commented sardonically on pitting religions against each other; noted the group's temporal need for reward
@@ -73,7 +73,7 @@
 - Current goals: Escape the Underdark; agreed to assist the Sea Mother cult in exchange for reward
 - Recent actions: Survived ambush by eight Kuo-toans; negotiated reward terms with Ploopploopeen; agreed to act as bait/infiltrators in Sloobludop
 - Relationships: Newly allied with the Sea Mother cult (transactional); Shuushar is a travelling companion
-- Key members: Sethir, Topsy, Grygum, Daz, Zalthir (named members present)
+- Key members: Sethir, Topsy, Gyrgum, Daz, Zalthir (named members present)
 
 ---
 

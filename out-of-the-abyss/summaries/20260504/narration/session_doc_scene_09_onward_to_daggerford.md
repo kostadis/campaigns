@@ -22,11 +22,11 @@ The Sword Coast rolls past in shades of green and grey. Somewhere behind us, Wat
 
 Milo Goodbarrel, in chapter eleven of his annoyingly readable book, described this feeling as *standing at the edge of the question that changes everything.* He meant it as an encouragement. I have been trying, for most of a week, to decide whether it is.
 
-Grygum broke my auditing somewhere on the second day's walk with the particular energy of a man who has been waiting to show you something.
+Gyrgum broke my auditing somewhere on the second day's walk with the particular energy of a man who has been waiting to show you something.
 
 "Oh," he said, with the satisfaction of a scholar who has located a citation, "I figured out one of the things I want to buy."
 
-He had, apparently, acquired it before we left Waterdeep — a javelin of lightning, produced from wherever Grygum keeps things he is pleased with, displayed to the group with the reverence of a cleric presenting a relic. Which, in his theology, it possibly was. The man will find a way to make any weapon feel like a sacrament. I noted it. Filed it under *Grygum: ranged options now exist, adjust formation assumptions accordingly.* 
+He had, apparently, acquired it before we left Waterdeep — a javelin of lightning, produced from wherever Gyrgum keeps things he is pleased with, displayed to the group with the reverence of a cleric presenting a relic. Which, in his theology, it possibly was. The man will find a way to make any weapon feel like a sacrament. I noted it. Filed it under *Gyrgum: ranged options now exist, adjust formation assumptions accordingly.* 
 
 Milo would have said something warm about it. I noted the placement.
 
@@ -40,7 +40,7 @@ I did not mention this to anyone. I made a note.
 
 We arrive at Daggerford in the early evening, and it is a settlement the way a crossroads is a destination — useful by virtue of being on the way to somewhere else. The smell of river mud and tallow candles. Low buildings. The kind of town that generates stories about itself mostly to have something to talk about during winter.
 
-There is the ordinary hum of a settlement going about its business. Someone is healing someone. Grygum has probably already found them. I take a moment to locate the angles — entrances, exits, who is watching the watching — and find nothing that requires immediate attention, which I treat as provisional rather than reassuring.
+There is the ordinary hum of a settlement going about its business. Someone is healing someone. Gyrgum has probably already found them. I take a moment to locate the angles — entrances, exits, who is watching the watching — and find nothing that requires immediate attention, which I treat as provisional rather than reassuring.
 
 Candlekeep is ahead. Khell-Vire is ahead. The answer to the question I can't reconcile is ahead, somewhere in the stacks, if we ask the right thing of the right book.
 

@@ -24,35 +24,35 @@ What I had not anticipated was Stroud.
 
 He was everywhere. A bronze bust at the Smiths Guildhall — larger than life, squared jaw, that expression carved into every representation I'd seen of him, the one that means *I have considered the odds and found them immaterial*. A tavern near the market called The Knight Beneath the Knight, which I noted was either a clever joke about lineage or something more theological. And in the corner of the market square, a man in a worn traveler's cloak standing on what appeared to be a permanently borrowed crate, preaching to anyone who'd hold still long enough.
 
-He spotted Grygum immediately.
+He spotted Gyrgum immediately.
 
-I don't know what it is about Grygum that reads as theologically adjacent. He's an orc cleric of Bahamut who cooks elaborate meals and argues about dragon metaphysics at the dinner table, and somehow this man at thirty paces could see all of that at once. He came down off his crate with the practiced speed of someone who has had to convert people on the move.
+I don't know what it is about Gyrgum that reads as theologically adjacent. He's an orc cleric of Bahamut who cooks elaborate meals and argues about dragon metaphysics at the dinner table, and somehow this man at thirty paces could see all of that at once. He came down off his crate with the practiced speed of someone who has had to convert people on the move.
 
 "Brother, have you heard the witness call? Are you walking the road for Stroud?"
 
-Grygum's face did something complicated. I could see him calculating whether this man was worth engaging with, and I could see the theological curiosity win out over the caution, which is always what happens with Grygum.
+Gyrgum's face did something complicated. I could see him calculating whether this man was worth engaging with, and I could see the theological curiosity win out over the caution, which is always what happens with Gyrgum.
 
-The polemicist — he identified himself as Stroudite school — laid it out cleanly: mortal agency had produced the outcome of the dragon war, not divine intervention, not Protanther's strategy, not Bahamut's long game. Stroud was proof that mortals, not gods or dragons, were the decisive force in history. Did Grygum stand for mortal agency?
+The polemicist — he identified himself as Stroudite school — laid it out cleanly: mortal agency had produced the outcome of the dragon war, not divine intervention, not Protanther's strategy, not Bahamut's long game. Stroud was proof that mortals, not gods or dragons, were the decisive force in history. Did Gyrgum stand for mortal agency?
 
-"Oh, I, I, I stand for, for strength and luck," Grygum said.
+"Oh, I, I, I stand for, for strength and luck," Gyrgum said.
 
 The polemicist rejected this with the polite authority of a man who has heard every soft answer and come prepared for all of them. That, he said, was the cult of the Bahamutian hypothesis in different clothing.
 
-Grygum tried a different angle: "But, but — who, who, who really won in the end? The dragons."
+Gyrgum tried a different angle: "But, but — who, who, who really won in the end? The dragons."
 
-That didn't land either. The debate continued for a few minutes, and I watched Grygum attempt his most persuasive case, and I watched it fail to persuade. The preacher handed him a pamphlet instead. Grygum turned it over in his hands.
+That didn't land either. The debate continued for a few minutes, and I watched Gyrgum attempt his most persuasive case, and I watched it fail to persuade. The preacher handed him a pamphlet instead. Gyrgum turned it over in his hands.
 
 "What's the title?"
 
 "*Stroud and the Human Agency Hypothesis: A Critique — Dragons and Gods Do Not Rule.*"
 
-There was a pause while Grygum assessed the pamphlet the way a builder assesses a load-bearing beam.
+There was a pause while Gyrgum assessed the pamphlet the way a builder assesses a load-bearing beam.
 
 "Are — are there any illustrations?"
 
-No illustrations. Grygum asked about the layout. Paragraphs, the preacher said, well-formed. Grygum tucked it away for later — at least, I gathered, it wasn't a wall of text. He had opinions about walls of text as a marker of the epistemically unmoored, which I found both accurate and slightly ironic given his own theological convictions.
+No illustrations. Gyrgum asked about the layout. Paragraphs, the preacher said, well-formed. Gyrgum tucked it away for later — at least, I gathered, it wasn't a wall of text. He had opinions about walls of text as a marker of the epistemically unmoored, which I found both accurate and slightly ironic given his own theological convictions.
 
-I had stayed back through this exchange. Not because I lacked opinions about Stroud — I have read the relevant scholarship, and the question of whether a single mortal's actions can redirect the course of divine-scale history is not, in fact, a boring question — but because this was Grygum's conversation, and I was more interested in what the exchange told me about Mirabar. The religious factionalism here ran deep. Stroud wasn't just a historical figure; he was a theological pressure point, and someone was pressing it hard enough to send polemicists into the market.
+I had stayed back through this exchange. Not because I lacked opinions about Stroud — I have read the relevant scholarship, and the question of whether a single mortal's actions can redirect the course of divine-scale history is not, in fact, a boring question — but because this was Gyrgum's conversation, and I was more interested in what the exchange told me about Mirabar. The religious factionalism here ran deep. Stroud wasn't just a historical figure; he was a theological pressure point, and someone was pressing it hard enough to send polemicists into the market.
 
 *The first rule of the House: know who holds the debt before you decide whether to collect it.* I didn't know yet who held what, in this city's religious economy. I noted it and moved on.
 
@@ -62,11 +62,11 @@ I had read Milo for tactics, the first time. His account of the dragon cult camp
 
 The painting on the back wall was nearly floor to ceiling. *Malfire, the Vindicator of Nature* — a figure in weathered green at the edge of a forest, longbow at his side, a wolf beside him the size of a small horse, and overhead the stars coming up behind his shoulder like a second argument. Milo had painted it. The detail in the wolf's coat alone suggested he'd spent time with his subject.
 
-Thorin asked Grygum if he knew what it meant to vindicate nature. This was a mistake.
+Thorin asked Gyrgum if he knew what it meant to vindicate nature. This was a mistake.
 
 "Clearly, you're not connected to nature," Thorin said, "if you're even asking that."
 
-Grygum conceded he'd just revealed his ignorance and buried his nose in his pamphlet. I looked at the painting a moment longer than I strictly needed to.
+Gyrgum conceded he'd just revealed his ignorance and buried his nose in his pamphlet. I looked at the painting a moment longer than I strictly needed to.
 
 Milo Goodbarrel was, by every account I'd read, an optimist. The kind who believes that doing the right thing tends, over a long enough arc, to work out. The kind who writes about it afterward with complete sincerity, unselfconsciously, as though the sentiment doesn't require apology. I have always assumed this was partly rationalization. I have occasionally suspected, lately, that I was wrong about that in ways I am not yet ready to specify.
 

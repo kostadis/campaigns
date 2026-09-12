@@ -10,11 +10,11 @@ Fembris Lancer is not a man who idles. He had been filling the air with noise si
 
 I let him talk. He would arrive at the point eventually.
 
-We had three problems and roughly the same number of people willing to go chase them. The third-story apartment in Janussi's chambers was still unvisited — we knew the wrapping paper from the poisoned book had been taken there, and we hadn't gone back. There was something to find. Grygum saw it at the same moment I did.
+We had three problems and roughly the same number of people willing to go chase them. The third-story apartment in Janussi's chambers was still unvisited — we knew the wrapping paper from the poisoned book had been taken there, and we hadn't gone back. There was something to find. Gyrgum saw it at the same moment I did.
 
 "Somebody go talk to Alkrist," he said. "There's something listed as a third-story apartment with an open door we haven't gone into. I'm gonna go look into that."
 
-A clean split. I approved of it silently. The apartment was in Janussi's chambers — the wrapping paper trail led there, and there was still evidence about Kalan we hadn't turned over. The kind of thing that didn't need an interview to yield. "Yeah, I'll head up and check that out," Grygum said, and that was settled.
+A clean split. I approved of it silently. The apartment was in Janussi's chambers — the wrapping paper trail led there, and there was still evidence about Kalan we hadn't turned over. The kind of thing that didn't need an interview to yield. "Yeah, I'll head up and check that out," Gyrgum said, and that was settled.
 
 Which left Alkrist.
 
@@ -40,14 +40,14 @@ No elaboration. Sylvira was framed for the murder and dying slowly under the poi
 
 "Happy to talk to Sylvira in the meantime, or whoever can," I added, leaving the door open.
 
-Grygum was already moving for the stairs. He stopped, turned back — the deliberate pause of someone who has just remembered the one thing that shouldn't be forgotten.
+Gyrgum was already moving for the stairs. He stopped, turned back — the deliberate pause of someone who has just remembered the one thing that shouldn't be forgotten.
 
 "When you talk to Alkrist, there's something in the list about what Alkrist burned at the feast — you should ask about that."
 
-I hadn't flagged that one. I had been working through the zone-of-truth architecture, the dragonborn angle, the sequencing of Kalan's arrival. The feast detail had been sitting in the back of my thinking like an unread note. Grygum had read it.
+I hadn't flagged that one. I had been working through the zone-of-truth architecture, the dragonborn angle, the sequencing of Kalan's arrival. The feast detail had been sitting in the back of my thinking like an unread note. Gyrgum had read it.
 
 "He apparently burnt something at the feast," came the confirmation. "That's what it says." A good call-out. Filed.
 
-Three lines of inquiry. Three investigators. The work divided cleanly — cleaner than most things we attempted. Grygum heading upstairs for the physical evidence. Daz taking Sylvira while she still could be taken. Kalan being hunted so the Alkrist interview could be done properly, with something binding in the room.
+Three lines of inquiry. Three investigators. The work divided cleanly — cleaner than most things we attempted. Gyrgum heading upstairs for the physical evidence. Daz taking Sylvira while she still could be taken. Kalan being hunted so the Alkrist interview could be done properly, with something binding in the room.
 
 I stood in the space between all of it. Waiting. Watching. Ready to be wherever I was needed first.

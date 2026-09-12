@@ -25,7 +25,7 @@ The land told its own story without asking us to listen. The Silver Marches had 
 
 There was a refugee family on the road. Three generations, hand cart, one ox. No grandfather. I counted the generations and noted the gap without marking it further. They were heading south. So were we.
 
-Grygum slowed near the Tempus shrine. I watched him register the defilement, perform the small internal calculation of a cleric confronted with desecration that is not his god's desecration, and arrive at the reasonable middle position: a brief reverence, a muttered blessing, the genuflection of someone who doesn't like seeing sacred things mistreated regardless of which name they were sacred to. He was a practical man under the theology. I had noticed this repeatedly and not mentioned it once, because it was not my business and was not a threat.
+Gyrgum slowed near the Tempus shrine. I watched him register the defilement, perform the small internal calculation of a cleric confronted with desecration that is not his god's desecration, and arrive at the reasonable middle position: a brief reverence, a muttered blessing, the genuflection of someone who doesn't like seeing sacred things mistreated regardless of which name they were sacred to. He was a practical man under the theology. I had noticed this repeatedly and not mentioned it once, because it was not my business and was not a threat.
 
 Thorin did not respond to the shrine in any particular way. He was present. His grapple with whatever the months underground had done to him was ongoing and I was not going to name it for him.
 
@@ -53,7 +53,7 @@ It mostly felt like reading a body to see how much damage has accumulated.
 
 The Silver Marches had taken a beating. Burned hamlets, foundations gone gray and cold, the kind of ruin that's already stopped smoking and started just being the new shape of things. A standing stone broken at the waist. We passed a Tempus shrine — defaced, whatever icon had been mounted there pried loose or smashed, the stone around it discolored where someone had been thorough about it.
 
-Grygum didn't say anything, just slowed, genuflected, muttered something I couldn't quite hear, and moved on. It was quick and quiet and meant. I watched him do it, and I thought: that's the right-sized response. Not a funeral. Not a ceremony. Just the acknowledgment that leaving it like that would be wrong.
+Gyrgum didn't say anything, just slowed, genuflected, muttered something I couldn't quite hear, and moved on. It was quick and quiet and meant. I watched him do it, and I thought: that's the right-sized response. Not a funeral. Not a ceremony. Just the acknowledgment that leaving it like that would be wrong.
 
 We kept walking.
 
@@ -69,7 +69,7 @@ I let it sit.
 
 The local had something else to say after the history lesson, though, and this was the part that sharpened my attention. Bears fewer this year. Pixies not singing in the sown lands. His grandmother thought it was weather. He didn't seem certain.
 
-Grygum went still in the way he goes still when he's actually processing something fast. He'd been spending time adjacent to the Fey — I didn't have all the details, but I knew enough — and I watched his face do the quick calculation.
+Gyrgum went still in the way he goes still when he's actually processing something fast. He'd been spending time adjacent to the Fey — I didn't have all the details, but I knew enough — and I watched his face do the quick calculation.
 
 "I spent all weekend just across the way from the Fey," he said, with the particular flatness that meant he was not done thinking about it. "So I'm a little suspicious."
 
@@ -105,15 +105,15 @@ Stroud was everywhere.
 
 That was the other thing. A bronze bust of him at the Smiths Guildhall, catching the forge-light at a flattering angle. A tavern called The Knight Beneath the Knight, which I found either clever or insufferable depending on how charitable I was feeling. And in the corner of the market, a polemicist — a traveling one, the kind who carries his convictions in a satchel and deploys them wherever he finds an audience — preaching mortal agency to anyone within earshot.
 
-He found Grygum immediately. They always do.
+He found Gyrgum immediately. They always do.
 
 "Brother, have you heard the witness call? Are you walking the road for Stroud?"
 
-I watched Grygum's face do the thing it does when he is weighing whether an entity is useful or merely sincere. He is better at concealing this than most people. He is not as good at it as he thinks.
+I watched Gyrgum's face do the thing it does when he is weighing whether an entity is useful or merely sincere. He is better at concealing this than most people. He is not as good at it as he thinks.
 
-The polemicist was Stroudite in the specific sense — mortal agency as the decisive force, Protanther's neutrality a myth, the Bahamutian framework a comfortable fiction. He was organized and committed and had clearly had this argument many times before. When Grygum replied that he stood for "strength and luck," the man did not flinch. He just identified this as the Bahamutian hypothesis in another hat and kept moving.
+The polemicist was Stroudite in the specific sense — mortal agency as the decisive force, Protanther's neutrality a myth, the Bahamutian framework a comfortable fiction. He was organized and committed and had clearly had this argument many times before. When Gyrgum replied that he stood for "strength and luck," the man did not flinch. He just identified this as the Bahamutian hypothesis in another hat and kept moving.
 
-When Grygum pressed him — *but who really won in the end? The dragons* — the polemicist wasn't moved. He handed over a pamphlet instead. *Stroud and the Human Agency Hypothesis: A Critique — Dragons and Gods Do Not Rule.* Grygum accepted it. I watched him verify that it was divided into paragraphs before he committed to keeping it. He is, in his own way, methodical.
+When Gyrgum pressed him — *but who really won in the end? The dragons* — the polemicist wasn't moved. He handed over a pamphlet instead. *Stroud and the Human Agency Hypothesis: A Critique — Dragons and Gods Do Not Rule.* Gyrgum accepted it. I watched him verify that it was divided into paragraphs before he committed to keeping it. He is, in his own way, methodical.
 
 I noticed the texture of this without fully processing it until later. The factionalism wasn't about whether Stroud mattered. Everyone in Mirabar had clearly already decided Stroud mattered. The argument was about *why* — about the mechanism. Bahamut's hand or mortal will. Protanther's strategy or Stroud's choice. The distinction felt important to people who had very strong feelings about where credit was due.
 
@@ -129,11 +129,11 @@ I stood in front of it longer than I intended to.
 
 I had thought of him as a chronicler. A writer who was also, incidentally, an adventurer who had done significant things. Looking at that painting — the competence of it, the restraint of it, the fact that it had survived this long — I recalibrated. He was a chronicler the way I am a mage: the label is accurate and also substantially incomplete.
 
-Grygum, to his credit, asked the useful question. "What does it mean to vindicate nature?"
+Gyrgum, to his credit, asked the useful question. "What does it mean to vindicate nature?"
 
 Thorin told him, with great confidence, that this question revealed an insufficient connection to nature.
 
-Grygum buried himself in his pamphlet. I made a note.
+Gyrgum buried himself in his pamphlet. I made a note.
 
 Thorin circled back to something practical — he'd been looking at the armor vendors since we arrived, and Mirabar was, if you were going to acquire dwarven-made equipment, precisely the city in which to do it. He had chainmail. He had a shield. He began asking, in the methodical way he approaches resource acquisition, what the appropriate upgrade path was for a dwarf of his build in a city that had clearly been thinking about this question for generations.
 
@@ -143,7 +143,7 @@ This struck me as sensible. I wrote it down.
 
 ---
 
-## Grygum — The Ruins of Triboar
+## Gyrgum — The Ruins of Triboar
 
 Triboar had been a caravan town before the raids. You could still see what it had been — the wide staging areas, the permanent hitching posts, the kind of inn that exists to absorb several hundred travelers at once. One-third of it was rubble. Not old rubble. Recent rubble, with the raw edges of it still showing.
 
@@ -279,7 +279,7 @@ The road narrows and then opens and then the city is simply there — not visibl
 
 There was a class. I am fairly certain it was Brother Tareth — or possibly one of the morning-shift instructors, the one with the grey braid who always lectured with her back to the window — and the subject was environments of sensory saturation. How to move through them without the training becoming the noise. I remember the quality of the light through the shuttered window. I remember wanting to be in the courtyard. I do not remember what she said.
 
-The others take it differently. Grygum's head is on a swivel in the way that means *everything here is worth examining*, which is characteristic of him. Thorin is already looking at armor displays with the focused attention of someone who has made a decision he hasn't announced yet. Daz is quiet, but his kind of quiet is different from mine — it's the quiet of someone reading the room faster than the room knows it's being read.
+The others take it differently. Gyrgum's head is on a swivel in the way that means *everything here is worth examining*, which is characteristic of him. Thorin is already looking at armor displays with the focused attention of someone who has made a decision he hasn't announced yet. Daz is quiet, but his kind of quiet is different from mine — it's the quiet of someone reading the room faster than the room knows it's being read.
 
 The ooze ordinance, or whatever Waterdeep calls it, applies to Glabbagool from the moment we cross the gate. No oozes. In the city. At all.
 
@@ -289,7 +289,7 @@ I have approximately nothing against solidarity as a principle. The practical ge
 
 "But, sorry, doesn't he stay in his bag anyway?"
 
-Grygum floated something about disguise spells. The idea was not unreasonable. The practical ceiling on it was obvious to everyone within a few seconds, and the conversation ended the way these conversations end, with Glabbagool going into the bag and Thorin's moral objection going unresolved but noted.
+Gyrgum floated something about disguise spells. The idea was not unreasonable. The practical ceiling on it was obvious to everyone within a few seconds, and the conversation ended the way these conversations end, with Glabbagool going into the bag and Thorin's moral objection going unresolved but noted.
 
 I watched the bag. Glabbagool has an opinion about containment that he expresses by extruding two small eyeballs to observe proceedings. He did this. The eyeballs assessed the street, found it apparently adequate, and retreated. I have found that admirable — the curiosity without the complaint. He eats cheese when we can manage it, which is genuinely more dignity than the Underdark afforded him in most respects. I note this and do not say it.
 
@@ -299,21 +299,21 @@ I registered it the way I register most large objects — dimensions, sight line
 
 Stroud and Protanther, cast in bronze, slightly beyond the scale of living things. The chessboard between them is inlaid marble, pale and dark squares polished to a surface that collects the overcast light. The plaque at the base is small. The script is clean. *This is the position. The move is yours.*
 
-I stood with it for a moment. Not a long moment. The board is mid-game, and the position is not simple, and there are people in this city who have clearly spent years arguing about it — which I learn approximately twelve seconds after Grygum opens his mouth.
+I stood with it for a moment. Not a long moment. The board is mid-game, and the position is not simple, and there are people in this city who have clearly spent years arguing about it — which I learn approximately twelve seconds after Gyrgum opens his mouth.
 
-He looks at it with the expression he wears when a theological argument is assembling itself behind his eyes. "The game has been studied for years," he says. And then, because Grygum cannot be near a question without answering it: "If only Protanther had moved his Rook — all could have gone another way."
+He looks at it with the expression he wears when a theological argument is assembling itself behind his eyes. "The game has been studied for years," he says. And then, because Gyrgum cannot be near a question without answering it: "If only Protanther had moved his Rook — all could have gone another way."
 
 The crowd that manifests is immediate. They emerge from storefronts, from the flow of foot traffic, from what had appeared to be doorways people were passing through rather than loitering in. Everyone in earshot has a position. Everyone with a position has been waiting.
 
 I moved two steps to the side. Not retreat. Tactical repositioning. Daz did the same, without any signal, which is one of the reliable pleasures of traveling with him.
 
-Grygum absorbed the crowd with the expression of a man who has accidentally confirmed something he already suspected about the nature of cities.
+Gyrgum absorbed the crowd with the expression of a man who has accidentally confirmed something he already suspected about the nature of cities.
 
 Thorin, for his part, found armor. Mithril plate, which he announced with the flat satisfaction of someone whose problem has been efficiently solved. I have no criticism of the decision. If you intend to be the one things hit, you should be difficult to damage. The arithmetic of his protection is now considerably more favorable. I noted this and moved on.
 
-The rest of the afternoon has the texture of a city that has decided it will sell you anything, at the price it has decided anything costs. Grygum is hunting a Bahamut shrine and something that might function as adjacent to Bahamut for purposes he is characteristically indirect about. He mentioned a javelin of lightning in the same tone he might mention wanting eggs for breakfast — as though it were an ordinary item that happened to call lightning, which in Waterdeep it possibly is.
+The rest of the afternoon has the texture of a city that has decided it will sell you anything, at the price it has decided anything costs. Gyrgum is hunting a Bahamut shrine and something that might function as adjacent to Bahamut for purposes he is characteristically indirect about. He mentioned a javelin of lightning in the same tone he might mention wanting eggs for breakfast — as though it were an ordinary item that happened to call lightning, which in Waterdeep it possibly is.
 
-Grygum described the city as New Jersey, which I noted and filed under references I lack the context to evaluate. The comparison was delivered with the confidence of someone who has been to both places and found them structurally equivalent. I will take this on faith.
+Gyrgum described the city as New Jersey, which I noted and filed under references I lack the context to evaluate. The comparison was delivered with the confidence of someone who has been to both places and found them structurally equivalent. I will take this on faith.
 
 I walk the streets and catalogue the exits. I note the sightlines from the upper windows. I identify, by the way they move, three people who are watching the street with the same attention I give it, and I watch them back. None of them are watching us specifically. None of them have the posture of people who have already decided they've won.
 
@@ -357,7 +357,7 @@ I did not look at him. That was the correct move, and we both knew it.
 
 The redemption arc debate was thornier. The room was split along fairly clear lines: one faction held that Milo's account of Whistler's post-lycanthropy stage was too generous, glossing over a period that the text itself described as morally confused. The other faction — and this was the position I found more interesting — argued that Malfire's framing was the philosophical core of the entire book. *Operational expenses. Cost of living.* The argument being: you cannot assess a person's choices without accounting for the material conditions that structured those choices, and Milo's willingness to let Malfire speak that framing without refutation was itself a kind of authorial statement about the impossibility of uncomplicated heroism.
 
-Grygum, who I sometimes forget has a Sage's background until he deploys it at precisely the right moment, observed that the book also had an unreliable narrator, which was the most useful contribution anyone made to the discussion in the time we were there.
+Gyrgum, who I sometimes forget has a Sage's background until he deploys it at precisely the right moment, observed that the book also had an unreliable narrator, which was the most useful contribution anyone made to the discussion in the time we were there.
 
 "You say the real hero might have been the accountant?" he added, and the Whistlerites — this was the terminology, I gathered — did not know quite what to do with this.
 
@@ -403,7 +403,7 @@ The persuasion went poorly. The monks had their position. Zalthir had his. The m
 
 So Zalthir pulled Daz over to argue.
 
-Grygum, watching this, observed that if it were Whistler, he'd steal the roof tiles. Which is funny, and also the kind of observation that tells you exactly where you are: in a city where the options are *pay the shakedown*, *argue the shakedown*, or *steal the roof and call it even*. There's a version of me who would have picked the third. I'm trying to work out whether that version of me is the smarter one.
+Gyrgum, watching this, observed that if it were Whistler, he'd steal the roof tiles. Which is funny, and also the kind of observation that tells you exactly where you are: in a city where the options are *pay the shakedown*, *argue the shakedown*, or *steal the roof and call it even*. There's a version of me who would have picked the third. I'm trying to work out whether that version of me is the smarter one.
 
 Daz, being Daz, found the fourth option.
 
@@ -433,7 +433,7 @@ The broken rhythm. The interrupted thought that cycles back without landing. I'd
 
 I didn't say anything. The pattern was there and I was watching it assemble itself from pieces that didn't yet fit, and I know better than to speak before I know what I'm saying. Giants hold things a long time before speaking. I'm trying to remember that.
 
-Grygum started working through it aloud — *keep, Candlekeep, are we above water, yes we are, well that makes the kraken more likely* — which is the kind of sentence that sounds absurd and might be exactly right. He is frequently exactly right while sounding absurd. He has a gift for it.
+Gyrgum started working through it aloud — *keep, Candlekeep, are we above water, yes we are, well that makes the kraken more likely* — which is the kind of sentence that sounds absurd and might be exactly right. He is frequently exactly right while sounding absurd. He has a gift for it.
 
 We're going to Candlekeep. The preacher said *keep* and meant something. A man in Triboar said a warning in two voices. Both of them spoke in the same broken loop.
 
@@ -443,7 +443,7 @@ It said: *pay attention.*
 
 ---
 
-## Grygum — The Ooze Rights Confrontation
+## Gyrgum — The Ooze Rights Confrontation
 
 The bag never left my sight. Not really. Even sitting on Thorin's back, even carried by Zalthir, even crammed into a crowded Waterdeep street — I was always running a thread of attention back to where Glabbagool was. Old habit, from the Underdark. Once you've carried something fragile through the dark long enough, you stop being able to turn that off.
 
@@ -521,11 +521,11 @@ The Sword Coast rolls past in shades of green and grey. Somewhere behind us, Wat
 
 Milo Goodbarrel, in chapter eleven of his annoyingly readable book, described this feeling as *standing at the edge of the question that changes everything.* He meant it as an encouragement. I have been trying, for most of a week, to decide whether it is.
 
-Grygum broke my auditing somewhere on the second day's walk with the particular energy of a man who has been waiting to show you something.
+Gyrgum broke my auditing somewhere on the second day's walk with the particular energy of a man who has been waiting to show you something.
 
 "Oh," he said, with the satisfaction of a scholar who has located a citation, "I figured out one of the things I want to buy."
 
-He had, apparently, acquired it before we left Waterdeep — a javelin of lightning, produced from wherever Grygum keeps things he is pleased with, displayed to the group with the reverence of a cleric presenting a relic. Which, in his theology, it possibly was. The man will find a way to make any weapon feel like a sacrament. I noted it. Filed it under *Grygum: ranged options now exist, adjust formation assumptions accordingly.* 
+He had, apparently, acquired it before we left Waterdeep — a javelin of lightning, produced from wherever Gyrgum keeps things he is pleased with, displayed to the group with the reverence of a cleric presenting a relic. Which, in his theology, it possibly was. The man will find a way to make any weapon feel like a sacrament. I noted it. Filed it under *Gyrgum: ranged options now exist, adjust formation assumptions accordingly.* 
 
 Milo would have said something warm about it. I noted the placement.
 
@@ -539,7 +539,7 @@ I did not mention this to anyone. I made a note.
 
 We arrive at Daggerford in the early evening, and it is a settlement the way a crossroads is a destination — useful by virtue of being on the way to somewhere else. The smell of river mud and tallow candles. Low buildings. The kind of town that generates stories about itself mostly to have something to talk about during winter.
 
-There is the ordinary hum of a settlement going about its business. Someone is healing someone. Grygum has probably already found them. I take a moment to locate the angles — entrances, exits, who is watching the watching — and find nothing that requires immediate attention, which I treat as provisional rather than reassuring.
+There is the ordinary hum of a settlement going about its business. Someone is healing someone. Gyrgum has probably already found them. I take a moment to locate the angles — entrances, exits, who is watching the watching — and find nothing that requires immediate attention, which I treat as provisional rather than reassuring.
 
 Candlekeep is ahead. Khell-Vire is ahead. The answer to the question I can't reconcile is ahead, somewhere in the stacks, if we ask the right thing of the right book.
 

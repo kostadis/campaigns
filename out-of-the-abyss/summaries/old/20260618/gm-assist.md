@@ -3,9 +3,9 @@
 Date: Jun 18th, 2026
 
 ## Summary
-The academic community of Candlekeep erupted into a frenzy of intellectual excitement when Brother Vareth unveiled a startling new expansion of the Grygumite triangle, transforming it into a quadrangle with a fourth theoretical option. Despite the shadow of a recent murder hanging over the keep, every scholar and avowed member abandoned their duties and flooded toward the Grand Hall for an emergency debate. The chaos proved to be an unexpected gift for the party, as their ever-present minder, Fembris Lancer, sheepishly requested permission to attend the disputation in the Oval Theater — and with his departure, the keep's corridors were suddenly, gloriously empty.
+The academic community of Candlekeep erupted into a frenzy of intellectual excitement when Brother Vareth unveiled a startling new expansion of the Gyrgumite triangle, transforming it into a quadrangle with a fourth theoretical option. Despite the shadow of a recent murder hanging over the keep, every scholar and avowed member abandoned their duties and flooded toward the Grand Hall for an emergency debate. The chaos proved to be an unexpected gift for the party, as their ever-present minder, Fembris Lancer, sheepishly requested permission to attend the disputation in the Oval Theater — and with his departure, the keep's corridors were suddenly, gloriously empty.
 
-Daral, the paranoid and complicated scholar who had gifted the poisoned book to Janussi, clung to Thorin and Daz like a man drowning in a sea of his own guilt and fear. He was convinced that whoever had framed him for the murder would not stop there, and that the only two people standing between him and a swift, quiet death were the two adventurers he had only just met. He pointed the party toward the Oak Tree Apothecary, describing it as a wooden treehouse nestled in the boughs of a great evergreen oak, run by an elderly satyr druid named Leuwin, who might be able to definitively identify the poison used on the book. Meanwhile, Grygum had quietly slipped the key once worn around Kalan Strongbranch's neck into Daz's keeping, unwilling to hold onto it in a room full of distracted scholars. The party also turned their minds to the stolen sapphire, theorizing that it had been enchanted as a magical anchor — a way to summon a hidden item to its possessor's hand, provided the original owner was no longer alive to claim it.
+Daral, the paranoid and complicated scholar who had gifted the poisoned book to Janussi, clung to Thorin and Daz like a man drowning in a sea of his own guilt and fear. He was convinced that whoever had framed him for the murder would not stop there, and that the only two people standing between him and a swift, quiet death were the two adventurers he had only just met. He pointed the party toward the Oak Tree Apothecary, describing it as a wooden treehouse nestled in the boughs of a great evergreen oak, run by an elderly satyr druid named Leuwin, who might be able to definitively identify the poison used on the book. Meanwhile, Gyrgum had quietly slipped the key once worn around Kalan Strongbranch's neck into Daz's keeping, unwilling to hold onto it in a room full of distracted scholars. The party also turned their minds to the stolen sapphire, theorizing that it had been enchanted as a magical anchor — a way to summon a hidden item to its possessor's hand, provided the original owner was no longer alive to claim it.
 
 With their hour of freedom stretching before them, the party split their efforts. Thorin and Daral made for the Southern Dining Hall to question the waitstaff who had served the Deadwinter's Eve feast, while Daz slipped away toward the apothecary. Zalthir, the most shadow-footed of the group, set off with Glabbagool to search the private chambers of their most promising suspects. The investigation was moving on multiple fronts at once, and the clock was ticking.
 
@@ -57,10 +57,10 @@ By the time the party reconvened, the shape of the murder had grown considerably
 ### The Academic Distraction
 #### The party regroups as the academic community of Candlekeep becomes obsessed with a new theoretical debate, providing a window for investigation.
 - The party discusses the properties of Midnight Tears poison and how its timing is affected by planetary rotation and magic.
-- Grygum encounters Brother Vareth, whose new research on the 'Grygumite triangle' causes a massive stir among the scholars.
+- Gyrgum encounters Brother Vareth, whose new research on the 'Gyrgumite triangle' causes a massive stir among the scholars.
 - The Avowed community abandons their usual duties to hold an emergency debate in the Grand Hall, leaving several areas of the keep unmonitored.
 - Daral clings to Thorin and Daz, terrified that he is being framed for the murder of Janussi via a poisoned book.
-- Grygum hands over a significant key, previously belonging to Kalan Strongbranch, to Daz to keep it safe from the gathering crowd of scholars.
+- Gyrgum hands over a significant key, previously belonging to Kalan Strongbranch, to Daz to keep it safe from the gathering crowd of scholars.
 - The party analyzes the theft of a sapphire, theorizing it was intended for use with a summoning spell to retrieve an item from a deceased person.
 
 ### The Investigation Deepens
@@ -70,7 +70,7 @@ By the time the party reconvened, the shape of the murder had grown considerably
 - Thorin confronts Daral about the poisoned book and the necessity of solving the murder to clear his name.
 - Daral suggests visiting the Oak Tree Apothecary to identify the specific poison used on the book.
 - Fembris Lancer requests to leave the party's side to attend the academic disputation in the Oval Theater.
-- Daz casts a divination ritual on the key given to him by Grygum to determine if it is under the influence of any ongoing spells.
+- Daz casts a divination ritual on the key given to him by Gyrgum to determine if it is under the influence of any ongoing spells.
 - The party analyzes the significance of a stolen sapphire and its potential connection to a summoning spell used to retrieve hidden items.
 
 ### Investigation Strategy and the Timeline of the Book
@@ -136,7 +136,7 @@ A legendary library-fortress where the party is currently investigating a murder
 The site where the Avowed have gathered to debate new research, inadvertently leaving the rest of the keep open for the party's investigation.
 
 ### Oval Theater
-The venue within Candlekeep where the avowed community gathers for academic debates and disputations, where Fembris Lancer went to attend Grygum's disputation.
+The venue within Candlekeep where the avowed community gathers for academic debates and disputations, where Fembris Lancer went to attend Gyrgum's disputation.
 
 ### Deneir's Sanctum
 A location within Candlekeep where the party planned to meet up with Zalthir and Kalan Strongbranch.
@@ -164,10 +164,10 @@ Spacious and comfortable rooms occupying half of the top floor of the Readers' T
 A paranoid and complicated scholar who is terrified for his life after realizing he may have been framed for Janussi's murder via a poisoned book from his private collection. He clings to Thorin and Daz as the only people he trusts, and is deeply motivated to clear his name. He pointed the party toward the Oak Tree Apothecary and recalled the lead-lined chalice of Milil in the dining hall.
 
 ### Brother Vareth
-An elderly scholar whose new theoretical expansion of the 'Grygumite triangle' into a quadrangle caused a massive stir among the Avowed community, drawing everyone to the Grand Hall for a debate.
+An elderly scholar whose new theoretical expansion of the 'Gyrgumite triangle' into a quadrangle caused a massive stir among the Avowed community, drawing everyone to the Grand Hall for a debate.
 
 ### Kalan Strongbranch
-The former owner of a mysterious key that Grygum recently handed over to Daz for safekeeping. He had been acting paranoid about the key's safety.
+The former owner of a mysterious key that Gyrgum recently handed over to Daz for safekeeping. He had been acting paranoid about the key's safety.
 
 ### Janussi
 The murder victim whose death is the central focus of the party's investigation. His heart was discovered hidden in the lead-lined chalice of Milil in the Southern Dining Hall.
@@ -213,7 +213,7 @@ An intelligent gelatinous ooze accompanying the party who assisted Zalthir in se
 
 ## Items
 ### Kalan Strongbranch's Key
-A unique key previously worn around the neck of Kalan Strongbranch, handed to Daz by Grygum for safekeeping. Daz used a divination ritual on it and confirmed it is not currently linked to any summoning spell.
+A unique key previously worn around the neck of Kalan Strongbranch, handed to Daz by Gyrgum for safekeeping. Daz used a divination ritual on it and confirmed it is not currently linked to any summoning spell.
 
 ### Poisoned Book
 A volume from Daral's private collection that was given as a gift to Janussi during the Deadwinter's Eve feast. It is believed to be the primary delivery vector for the lethal Midnight Tears poison. The string on its wrapping was observed to have been cut and retied, suggesting it was tampered with while under the evergreen tree.

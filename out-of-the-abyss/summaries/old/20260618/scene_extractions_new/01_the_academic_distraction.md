@@ -10,10 +10,10 @@ source: gmassist
 #### The party regroups as the academic community of Candlekeep becomes obsessed with a new theoretical debate, providing a window for investigation.
 - The party discusses the properties of Midnight Tears poison and how its timing is affected by planetary rotation and magic, riffing off the DM's freshly-written treatise ("On the Punctual Tears," styled as an "internal topocentric protocol" — a joke born when a player asked whether the poison "uses time zones" and the DM took it as a "challenge accepted").
 - Countermeasures to the midnight trigger were laid out: keep riding west to outrun midnight, plane shift away, or have someone cast Lesser Restoration — with the observation that the poison is therefore poorly suited to use against mind flayers or githyanki, who can natively plane shift. "Explains why the drow love it, because nobody knows what time it's midnight."
-- Grygum encounters Brother Vareth, whose new research on the 'Grygumite triangle' (now a quadrangle) causes a massive stir among the scholars and was, per the DM, "about to get published."
+- Gyrgum encounters Brother Vareth, whose new research on the 'Gyrgumite triangle' (now a quadrangle) causes a massive stir among the scholars and was, per the DM, "about to get published."
 - The Avowed community abandons their usual duties to hold an emergency debate in the Oval Theater, leaving several areas of the keep — including the dining room — unmonitored.
 - Daral clings to Thorin and Daz, terrified that he is being framed for the murder of Janussi via a poisoned book, "hoping you won't tell Zalthir his opinion about Dragonborn" that he had voiced while drunk — "barroom talk, it wasn't meant to be taken seriously."
-- Grygum hands over a significant key, previously worn around Kalan Strongbranch's neck, to Daz to keep it safe from the gathering crowd of scholars.
+- Gyrgum hands over a significant key, previously worn around Kalan Strongbranch's neck, to Daz to keep it safe from the gathering crowd of scholars.
 - The party analyzes the theft of a sapphire, learning a key clarification: the summoning spell only works on an item "not in the possession of anyone," and "a dead person can't possess something. An undead can, but a dead person can't" — a point "the followers of Kelemvor have made very clear." This explains why Kalan Strongbranch was paranoid enough to hand off his key.
 
 ## Verbatim moments
@@ -30,13 +30,13 @@ source: gmassist
 **[GM]** — *defining midnight per the treatise*
 > "Okay, so, midnight is when…"
 
-**[Grygum]**
+**[Gyrgum]**
 > "The sun is directly on the other side of the globe from you."
 
 **[GM]**
 > "Yeah, apparently."
 
-**[Grygum]** — *deriving the countermeasure*
+**[Gyrgum]** — *deriving the countermeasure*
 > "Regardless of where you are. So if you did continue to ride west, you could essentially out, out."
 
 **[GM]**
@@ -55,20 +55,20 @@ source: gmassist
 > "Explains why the drow love it, because nobody knows what time it's midnight."
 > "Was it midnight now, or in an hour or so? I guess we'll find out."
 
-**[Grygum]**
+**[Gyrgum]**
 > "There's only one way to know!"
 
 **[GM]**
 > "It creates all sorts of diabolical drowisms that are made possible."
 
-**[Grygum thinking about what Zalthir would ask]** — *probing the physics of the "one true sun"*
+**[Gyrgum thinking about what Zalthir would ask]** — *probing the physics of the "one true sun"*
 > "Well, you say one true sun, and talk about its light being furthest."
 > "That's interesting. So does that imply, given any physical property that would slow light down, is it, like, physical distance?"
 
 
 **[scene tag — The Academic Stir Begins]**
-- Grygum is sitting in his library office, reading the note "On the Punctual Tears" about the Midnight Tears, when he heads toward the party.
-- Brother Vareth, the Avowed Grygum met, is excited about his Grygum's new answer to the Question of the Age. Browther Vareth has told everyone about Grygum turning it into a quadrangle with a fourth option.
+- Gyrgum is sitting in his library office, reading the note "On the Punctual Tears" about the Midnight Tears, when he heads toward the party.
+- Brother Vareth, the Avowed Gyrgum met, is excited about his Gyrgum's new answer to the Question of the Age. Browther Vareth has told everyone about Gyrgum turning it into a quadrangle with a fourth option.
 - The new research turns the whole Candlekeep community upside down despite the active murder investigation.
 
 
@@ -100,12 +100,12 @@ source: gmassist
 > "Totally, totally."
 
 **[scene tag — The Key Handover]**
-- As the party heads back toward Deneir's Sanctum after investigating the hearth, Grygum spots them.
-- Grygum, not wanting to hold the key in a room full of Avowed, hands it to Daz.
+- As the party heads back toward Deneir's Sanctum after investigating the hearth, Gyrgum spots them.
+- Gyrgum, not wanting to hold the key in a room full of Avowed, hands it to Daz.
 - The key was previously worn around Kalan Strongbranch's neck.
 
 **[GM]** — *the handoff*
-> "But Grygum sees you, and decides that he'd rather not hold onto this key while being in a room full of Avowed, and hands it over to Daz."
+> "But Gyrgum sees you, and decides that he'd rather not hold onto this key while being in a room full of Avowed, and hands it over to Daz."
 
 **[Daz]**
 > "Hands the key over to me."

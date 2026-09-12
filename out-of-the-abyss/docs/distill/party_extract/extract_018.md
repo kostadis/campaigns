@@ -7,7 +7,7 @@
 - **Items Gained:** Foraged various fungi from the thicket — barrelstalk, bluecap, ripplebark, trillimac, waterorb, zurkwhood, and torchstalk (useful for food, crafting, and light).
 - Demonstrated creative use of ice magic to cross the black lake (Shape Water or similar freezing spell used tactically).
 
-### Grygum
+### Gyrgum
 - Consumed a Pygmywort mushroom (shrink effect), though it was insufficient to pass through the crack. Effect presumably temporary.
 
 ## Arc Score Events
@@ -21,7 +21,7 @@
 - **Negative:** Failed multiple spell attempts against centipede swarms (Toll the Dead saved against), shaking his confidence in his spell choices.
 - **Positive:** Applied his deep knowledge of Underdark fungi to identify dangerous and useful mushrooms, protecting the party (warned Thorin about the timmask).
 
-### Grygum
+### Gyrgum
 - **Positive:** Made the pragmatic decision to free Buppido and use him as a guide through the Derro slums despite the risk, showing leadership and willingness to take calculated chances.
 - **Positive:** Cleverly used Pelek's ghost to scout through the crack in the wall — resourceful problem-solving.
 - **Negative (minor):** Acted impulsively by eating the Pygmywort mushroom without group discussion.
@@ -37,17 +37,17 @@
 - **Threatened Buppido** directly: "If you betray us, I will gut you." Established dominance but also mistrust.
 - **Relationship with Pelek (ghost):** Contentious. Thorin felt the ghost was freeloading and providing no useful intelligence in exchange for the bone-transport favor. Confrontational but ultimately agreed to cooperate.
 
-### Grygum
+### Gyrgum
 - **Freed Buppido** from captivity to use as a guide — a risky decision the rest of the party was uncertain about.
 - **New obligation:** Agreed (implicitly) to collect Pelek's bones and transport them to Blingdenstone for proper rest.
-- **Buppido killed by the party:** After Buppido revealed his murderous "shrine" and attacked, the party destroyed him. Grygum showed some sadness over the loss.
+- **Buppido killed by the party:** After Buppido revealed his murderous "shrine" and attacked, the party destroyed him. Gyrgum showed some sadness over the loss.
 
 ### Daz
 - **Killed Buppido** with Magic Missile, delivering the final blow. Declared: "Your divine mission is now over." Cold, decisive closure.
 - **Philosophical reflection:** Internally concluded that slavery is always wrong, comparing Duergar and Drow practices — "Free people are the basis of any society." This may signal future decisions regarding enslaved peoples.
 
 ### Zalthir
-- **Urged caution** about freeing Buppido but was overruled by Grygum — a minor point of intra-party tension.
+- **Urged caution** about freeing Buppido but was overruled by Gyrgum — a minor point of intra-party tension.
 
 ### Whole Party
 - **New obligation accepted:** Transport Pelek's bones to Blingdenstone so the ghost can find rest.

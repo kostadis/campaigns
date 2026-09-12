@@ -59,7 +59,7 @@
 - **Stool — myconid sprout prisoner, first contact**: Present and active, identified Nilhogg's Nose mushroom.
 - **Buppido — derro prisoner, true nature as killer revealed**: Present and influential in group decisions. Advocating for Gracklstugh. Showed strong conviction about tracking/corpse disposal that Zalthir found persuasive. (Note: Yuk Yuk's murder by shortsword in the night is suspicious given Buppido's known nature as a killer.)
 - **Eldeth Feldrun — shield dwarf prisoner, fate determined**: Alive and serving as primary forager/tracker. Hostile toward Thorin over giant-related political tensions.
-- **Jimjar — deep gnome prisoner, first contact**: Active, making bets with Grygum, recruited the goblins, excited about the tinderbox.
+- **Jimjar — deep gnome prisoner, first contact**: Active, making bets with Gyrgum, recruited the goblins, excited about the tinderbox.
 - **Topsy and Turvy — svirfneblin twins, lycanthropy secret revealed**: Present, find Blingdenstone name off-putting.
 - **Ront — orc prisoner, first contact**: Not mentioned this chapter.
 - **Sarith Kzekarit — drow prisoner, demonic spore infection revealed**: Present as "Sethir," particularly affected by Faerzress, pushing to explore a lost temple, advocating Darklake travel.

@@ -11,10 +11,10 @@ source: gmassist
 - The party enters Waterdeep, with Glabbagool forced to remain hidden inside a bag due to the city's intolerance of oozes. Thorin considers taking a stand in solidarity; the DM acknowledges the moral outrage but notes the practical consequences.
 - Glabbagool peers out of his bag with two small eyeballs. He is allowed out occasionally to eat cheese, but must minimize that activity for the duration of the visit.
 - They observe a larger-than-life bronze statue on Castle Road depicting the famous chess match between Stroud and Protanther, rendered in inlaid marble, with a small brass plaque reading: *This is the position. The move is yours.*
-- Grygum admires it, noting the game has been studied for years, and muses: "If only Protanther had moved his Rook, all could have gone another way" — immediately discovering that any expressed opinion draws a crowd of passionate strangers eager to debate the question of the age.
+- Gyrgum admires it, noting the game has been studied for years, and muses: "If only Protanther had moved his Rook, all could have gone another way" — immediately discovering that any expressed opinion draws a crowd of passionate strangers eager to debate the question of the age.
 - Thorin acquires mithril plate armor during the party's time in the city, bringing his armor class to 22.
-- Grygum expresses interest in a javelin of lightning and wants to visit a Bahamut shrine or temple, as well as something adjacent to Bahamut for recruiting purposes.
-- The party is told that Waterdeep is effectively a place where they can buy almost anything, but it is expensive — compared by Grygum to New Jersey.
+- Gyrgum expresses interest in a javelin of lightning and wants to visit a Bahamut shrine or temple, as well as something adjacent to Bahamut for recruiting purposes.
+- The party is told that Waterdeep is effectively a place where they can buy almost anything, but it is expensive — compared by Gyrgum to New Jersey.
 
 ## Verbatim moments
 
@@ -65,7 +65,7 @@ source: gmassist
 **[The Stroud/Protanther Statue on Castle Road]**
 - The GM describes a larger-than-life bronze statue on Castle Road depicting Stroud and Protanther mid-chess-game, the board rendered in inlaid marble.
 - A small brass plaque beneath the statue reads: "This is the position, the move is yours."
-- Grygum admires it, and immediately muses aloud about Protanther's rook, drawing the crowd into the question of the age.
+- Gyrgum admires it, and immediately muses aloud about Protanther's rook, drawing the crowd into the question of the age.
 
 **[GM]** — *describing the statue*
 > "As you're walking around, I mean, Stroud is everywhere. Like, there are statues in the castle road, shows Stroud and Protanther mid-game, bronze slightly larger than life, the chessboard between them rendered in inlaid marble."
@@ -97,7 +97,7 @@ source: gmassist
 
 ---
 
-**[Grygum's Purchases and Shrine Visit]**
+**[Gyrgum's Purchases and Shrine Visit]**
 
 **[Ben Pfaff]** — *figuring out what to buy*
 > "I'm trying to figure out what I want. I feel like I want some sort of a… oh."
@@ -118,7 +118,7 @@ source: gmassist
 > "It is awesome."
 
 **[Ben Pfaff]** — *on visiting a shrine*
-> "So, yeah, Grygum does want to visit, a Bahamut shrine or temple, but, you know, it would be good to, to visit something that's sort of adjacent to Bahamut, to, you know, recruit a little."
+> "So, yeah, Gyrgum does want to visit, a Bahamut shrine or temple, but, you know, it would be good to, to visit something that's sort of adjacent to Bahamut, to, you know, recruit a little."
 
 ---
 

@@ -1,8 +1,8 @@
 # Voice Critique — gm-assist-doc.md (Candlekeep crime-scene, 6 narrator blocks)
 
 **Narration:** `summaries/20260601/gm-assist-doc.md`
-**Voice specs:** `voice/daz_voice.md`, `voice/grygum_voice.md`, `voice/zalthir_voice.md`, `voice/thorin_voice.md` (all present)
-**Per-char examples:** `examples/daz.md`, `examples/grygum.md`, `examples/zalthir.md`, `examples/thorin.md` (all present)
+**Voice specs:** `voice/daz_voice.md`, `voice/gyrgum_voice.md`, `voice/zalthir_voice.md`, `voice/thorin_voice.md` (all present)
+**Per-char examples:** `examples/daz.md`, `examples/gyrgum.md`, `examples/zalthir.md`, `examples/thorin.md` (all present)
 
 > Single assembled doc, so one report with a section per `## <Name>` block. Review-only — every "Suggested rewrite" is a suggestion, not an edit. Nothing in `gm-assist-doc.md` was touched.
 
@@ -10,9 +10,9 @@
 
 These recur in more than one block and tie directly to standing feedback memory. Fixing the pattern is worth more than any single flag below.
 
-1. **Bookkeeping-verb convergence.** "I filed that / I filed it / I filed both," "column," "ledger," "balance to" now appear in *all four* narrators. The vocabulary is **canonical for Grygum** (`it's what I do` / `I took notes`) and **identity for Daz** — but Daz's spec explicitly says *rotate it, don't let one noun dominate a scene*, and **Thorin and Zalthir should not sound like clerks at all.** "I filed it" on Thorin (block 4) is the clearest off-voice instance: Thorin reads terrain, he doesn't keep books. See `[[feedback-oota-narration-systemic-tics]]`.
-2. **"the shape of X"** — banned Claude tic, three occurrences (Daz block 1, Grygum block 2, Daz block 6). See `[[feedback-narration-banned-words]]`.
-3. **"with the [quality] of a man / someone who…"** — banned construction, three occurrences (Daz block 1, Grygum block 2, Daz block 6). See `[[feedback-oota-narration-systemic-tics]]` ("with the particular X of someone who…").
+1. **Bookkeeping-verb convergence.** "I filed that / I filed it / I filed both," "column," "ledger," "balance to" now appear in *all four* narrators. The vocabulary is **canonical for Gyrgum** (`it's what I do` / `I took notes`) and **identity for Daz** — but Daz's spec explicitly says *rotate it, don't let one noun dominate a scene*, and **Thorin and Zalthir should not sound like clerks at all.** "I filed it" on Thorin (block 4) is the clearest off-voice instance: Thorin reads terrain, he doesn't keep books. See `[[feedback-oota-narration-systemic-tics]]`.
+2. **"the shape of X"** — banned Claude tic, three occurrences (Daz block 1, Gyrgum block 2, Daz block 6). See `[[feedback-narration-banned-words]]`.
+3. **"with the [quality] of a man / someone who…"** — banned construction, three occurrences (Daz block 1, Gyrgum block 2, Daz block 6). See `[[feedback-oota-narration-systemic-tics]]` ("with the particular X of someone who…").
 
 ---
 
@@ -38,27 +38,27 @@ These recur in more than one block and tie directly to standing feedback memory.
 
 ---
 
-## Block 2 — Grygum: Forensic Investigation of the Keeper's Chamber
+## Block 2 — Gyrgum: Forensic Investigation of the Keeper's Chamber
 
 ### [1] Banned construction
 > Daz worked the body over with the careful attention of a man reading the last page of someone else's diary.
 
-**Why:** Same "with the [quality] of a man who…" template. Grygum's narration is paratactic and plain; this is a nested literary appositive he wouldn't build.
+**Why:** Same "with the [quality] of a man who…" template. Gyrgum's narration is paratactic and plain; this is a nested literary appositive he wouldn't build.
 **Suggested rewrite:** "Daz worked the body over carefully. He had the eye for it, and the recent education — Milo's murder mystery, fresh in his head."
 
 ### [2] Banned phrase — "the shape of"
 > An hour of his evening I could suddenly see the shape of, even if I couldn't see the face that did it.
 
-**Why:** "see the shape of" is the banned gesture. Grygum's instinct is to *account for* a span of time, not to see its shape.
+**Why:** "see the shape of" is the banned gesture. Gyrgum's instinct is to *account for* a span of time, not to see its shape.
 **Suggested rewrite:** "An hour of his evening I could suddenly account for, even if I couldn't see the face that did it."
 
-### [3] Elevated/purple for Grygum
+### [3] Elevated/purple for Gyrgum
 > The chain remembered the weight even though the man no longer could.
 
-**Why:** Grygum does use a biblical-formal flourish, but it drops back to plain in the next breath; this line stays lyrical past his register and personifies the chain. "there is a particular grief in an empty setting" in the prior sentence is already carrying the feeling.
+**Why:** Gyrgum does use a biblical-formal flourish, but it drops back to plain in the next breath; this line stays lyrical past his register and personifies the chain. "there is a particular grief in an empty setting" in the prior sentence is already carrying the feeling.
 **Suggested rewrite:** "The links were worn where it had hung. Whatever it was, he'd carried it a long time."
 
-**Not flagged (correct as written):** "I filed it. A bruised nose into a timeline — it's what I do." This is canonical Grygum — do **not** strip "filed" here. `[[feedback-oota-narration-systemic-tics]]` specifically protects it for him.
+**Not flagged (correct as written):** "I filed it. A bruised nose into a timeline — it's what I do." This is canonical Gyrgum — do **not** strip "filed" here. `[[feedback-oota-narration-systemic-tics]]` specifically protects it for him.
 
 ---
 
@@ -79,7 +79,7 @@ These recur in more than one block and tie directly to standing feedback memory.
 ### [1] Bookkeeping bleed (off-voice for Thorin)
 > Two keys. One around a dead man's neck, gone. One with a gate warden. I filed it.
 
-**Why:** "I filed it" is a Daz/Grygum verb. Thorin doesn't keep books — he reads terrain, and the very next sentence ("That's the terrain now") proves he knows his own idiom. The imported "I filed it" sits on top of his actual voice.
+**Why:** "I filed it" is a Daz/Gyrgum verb. Thorin doesn't keep books — he reads terrain, and the very next sentence ("That's the terrain now") proves he knows his own idiom. The imported "I filed it" sits on top of his actual voice.
 **Suggested rewrite:** Delete "I filed it." and run straight into the terrain line: "Two keys. One around a dead man's neck, gone. One with a gate warden. That's the terrain now — not bridges and pits, just keys and grudges, but it works the same."
 
 ### [2] Generic mystery prose
@@ -92,18 +92,18 @@ These recur in more than one block and tie directly to standing feedback memory.
 
 ---
 
-## Block 5 — Grygum: The Housekeeper's Testimony
+## Block 5 — Gyrgum: The Housekeeper's Testimony
 
-### [1] Literary simile outside Grygum's image vocab
+### [1] Literary simile outside Gyrgum's image vocab
 > Hollypocket's apartment sat below the Keeper's tower like a footnote below the text — modest, but with room to breathe
 
-**Why:** Clever, but a bookish "footnote below the text" simile isn't in Grygum's concrete, paratactic image bank; it reads as the narrator-persona being witty rather than Grygum noticing a room.
+**Why:** Clever, but a bookish "footnote below the text" simile isn't in Gyrgum's concrete, paratactic image bank; it reads as the narrator-persona being witty rather than Gyrgum noticing a room.
 **Suggested rewrite:** "Hollypocket's apartment sat below the Keeper's tower — modest, but with room to breathe, and warm in a way the chamber above us had not been." (keep the second clause, drop the simile)
 
 ### [2] Mild generic tag
 > I wrote it down — slowly, the way you write the thing that matters.
 
-**Why:** "the way you write the thing that matters" is a soft generic flourish; Grygum's note-taking is canonical but lands harder when it's plain.
+**Why:** "the way you write the thing that matters" is a soft generic flourish; Gyrgum's note-taking is canonical but lands harder when it's plain.
 **Suggested rewrite:** "I wrote it down slowly. That one mattered."
 
 Otherwise strongly on-voice: the verbatim "These relationships are so complicated," the casual-Bahamut aside ("even Bahamut, who has rarely volunteered an opinion on anything, would not call that nothing"), and "They do not want to be interrogated. They want permission" are all dead-on.
@@ -113,10 +113,10 @@ Otherwise strongly on-voice: the verbatim "These relationships are so complicate
 ## Block 6 — Daz: Interrogating the Tower Cat
 
 ### [1] Banned construction + bookkeeping
-> "Well, that saves me money on potions," said Grygum, relieved in the way of a man who has just had an expense removed from his account by someone else's labor.
+> "Well, that saves me money on potions," said Gyrgum, relieved in the way of a man who has just had an expense removed from his account by someone else's labor.
 
 **Why:** "in the way of a man who…" is the banned template, *and* it's a fourth account/expense metaphor. Double tic in one sentence.
-**Suggested rewrite:** "'Well, that saves me money on potions,' said Grygum — relieved, the way a man is when someone else's work has just taken an expense off him."
+**Suggested rewrite:** "'Well, that saves me money on potions,' said Gyrgum — relieved, the way a man is when someone else's work has just taken an expense off him."
 
 ### [2] Banned phrase — "the shape of"
 > A negotiation, then. I know the shape of those.
@@ -142,4 +142,4 @@ Strong on-voice lines to keep: "The con never stops; I only ever recognize someo
 
 ## Verdict
 
-The dominant issue is **cross-narrator convergence on bookkeeping vocabulary** — "filed / column / ledger" has leaked out of Daz (where it's identity, but over-stacked) and Grygum (where it's canonical) into Thorin and Zalthir, flattening four distinct voices toward one clerk. Layered on top are two repeating banned forms — "the shape of X" (×3) and "with the [quality] of a man who…" (×3). These are systemic, not per-sentence: the cheapest durable fix is a find-pass for those three patterns across the whole doc, then spot-edits from the rewrites above. **Zalthir (block 3) is clean and not worth re-narrating; Thorin (block 4) needs only the two edits above to stop sounding like he keeps a ledger.** If you'd rather re-run than hand-edit, the bookkeeping convergence is a voice-file/genre-prompt problem (it's the same tic in every section), so re-running individual scenes won't fix it — tighten the anti-tic guidance first.
+The dominant issue is **cross-narrator convergence on bookkeeping vocabulary** — "filed / column / ledger" has leaked out of Daz (where it's identity, but over-stacked) and Gyrgum (where it's canonical) into Thorin and Zalthir, flattening four distinct voices toward one clerk. Layered on top are two repeating banned forms — "the shape of X" (×3) and "with the [quality] of a man who…" (×3). These are systemic, not per-sentence: the cheapest durable fix is a find-pass for those three patterns across the whole doc, then spot-edits from the rewrites above. **Zalthir (block 3) is clean and not worth re-narrating; Thorin (block 4) needs only the two edits above to stop sounding like he keeps a ledger.** If you'd rather re-run than hand-edit, the bookkeeping convergence is a voice-file/genre-prompt problem (it's the same tic in every section), so re-running individual scenes won't fix it — tighten the anti-tic guidance first.

@@ -17,7 +17,7 @@ scene: A Detour to Mirabar
 focus: Daz reads a dwarven trade city the way he reads a drow house — exits, leverage points, who is watching whom — and finds the surface world more familiar and more alien than he expected.
 
 ## Scene 4
-narrator: Grygum
+narrator: Gyrgum
 chunks: 1
 scene: The Ruins of Triboar
 focus: A cleric of Bahamut walks through the wreckage of a surface settlement and has to decide what his theology of individual agency means when entire communities are simply erased.
@@ -41,10 +41,10 @@ scene: Shadows and Shakedowns in Waterdeep
 focus: Thorin's blunt-instrument approach to faction games collides with a city built entirely on faction games, and he has to decide whether to admire the efficiency or hate it.
 
 ## Scene 8
-narrator: Grygum
+narrator: Gyrgum
 chunks: 1
 scene: The Ooze Rights Confrontation
-focus: Grygum's theology of agency and his parental protectiveness toward Glabbagool converge when someone challenges whether an ooze can have rights, and he answers with the full weight of a cleric who has thought about this longer than anyone else in the room.
+focus: Gyrgum's theology of agency and his parental protectiveness toward Glabbagool converge when someone challenges whether an ooze can have rights, and he answers with the full weight of a cleric who has thought about this longer than anyone else in the room.
 
 ## Scene 9
 narrator: Daz

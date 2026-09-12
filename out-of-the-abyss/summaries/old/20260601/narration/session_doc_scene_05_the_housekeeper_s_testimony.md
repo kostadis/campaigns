@@ -1,7 +1,7 @@
 ---
 scene: 05
 slug: the_housekeeper_s_testimony
-narrator: Grygum
+narrator: Gyrgum
 scene_name: The Housekeeper's Testimony
 session: 20260601
 ---

@@ -22,7 +22,7 @@
 
 **Zalthir** — Dragonborn shadow monk (Monk 8, Warrior of Shadow). Crystal spectacles (see invisible / through magical darkness). In Ch. 57 he found the murder-method book in Alkrist's chambers and revealed it.
 
-**Grygum** — Half-orc cleric of Bahamut (Life 8); founder of the "Grygumite School." Has Revivify, Mending, acid breath, Spirit Guardians. In Ch. 57 his *mending* on the wrapping paper proved premeditation. **(Note: he is a Life cleric — he does NOT have Polymorph; an earlier draft summary erroneously credited him.)**
+**Gyrgum** — Half-orc cleric of Bahamut (Life 8); founder of the "Gyrgumite School." Has Revivify, Mending, acid breath, Spirit Guardians. In Ch. 57 his *mending* on the wrapping paper proved premeditation. **(Note: he is a Life cleric — he does NOT have Polymorph; an earlier draft summary erroneously credited him.)**
 
 ---
 
@@ -30,7 +30,7 @@
 
 | Name | Status | Notes |
 |---|---|---|
-| **Glabbagool** | Active grey ooze, bonded to Zalthir | Sentient, gentle. Served as Grygum's ad-hoc "secretary" in Ch. 57 (rejected Fembris's notes as "not nutritious"). Jailer for the T'sarran spy. |
+| **Glabbagool** | Active grey ooze, bonded to Zalthir | Sentient, gentle. Served as Gyrgum's ad-hoc "secretary" in Ch. 57 (rejected Fembris's notes as "not nutritious"). Jailer for the T'sarran spy. |
 | **Dawnbringer** | Thorin's sentient sunblade | In "therapy" with Master Archivist Philemon. |
 | **Eldeth** | En route to Mithral Hall | Sworn to advocate for Thorin's clan acceptance. |
 | **Spiderbait** | At Candlekeep, seeking work | Goblin; first time on the surface. |
@@ -72,7 +72,7 @@
 - He stole the poison from the **Oak Tree Apothecary** (with A'lai; spilled ground peppermint), intercepted **Daral's gift**, coated the book, re-wrapped it, and burned the vial's label at the **Dead Winter tree** — nearly caught by the staffer **Irony**.
 - Post-midnight he brought wine to **Bookwyrm** to celebrate "the problem is solved"; she was appalled and stormed out.
 - Asked about the **heart**, Alkrist went **pale and genuinely shocked** — he knew nothing of its removal.
-- Grygum's **mending** on the discarded wrapping paper revealed a deliberate cut → **premeditation confirmed**.
+- Gyrgum's **mending** on the discarded wrapping paper revealed a deliberate cut → **premeditation confirmed**.
 
 **What is NOT resolved:**
 - **The heart.** Pointer to **Bookwyrm**, who knew of the **chalice** that would hide it from divination.
@@ -130,4 +130,4 @@
 **The Candlekeep arc (1495 DR):**
 1. **Arrival at Candlekeep** — Donated five books; assigned scholars; scholar-arc milestones reached.
 2. **Murder of Janussi, Keeper of Tomes** — Forensics: midnight-tears poison on a book; heart removed; nose broken pre-death; the Sylvira impersonator descending the tower.
-3. **Ch. 57 — The Colloquium / the confession** — Grygum returns from his colloquium; the party reviews the case; **Elian** delivers Kalan's **Threefold Proof**; Grygum (alone) finds the damning note in Janussi's chambers; Daz (alone) interviews the framed, dying **Sylvira**; Grygum *mends* the wrapping paper (premeditation); **Alkrist confesses** under Kalan's *zone of truth* — Alkrist + A'lai, with Bookwyrm complicit in the cover-up and suspected of taking the heart. Murder **broken but not proven**; the party must decide what to do with it.
+3. **Ch. 57 — The Colloquium / the confession** — Gyrgum returns from his colloquium; the party reviews the case; **Elian** delivers Kalan's **Threefold Proof**; Gyrgum (alone) finds the damning note in Janussi's chambers; Daz (alone) interviews the framed, dying **Sylvira**; Gyrgum *mends* the wrapping paper (premeditation); **Alkrist confesses** under Kalan's *zone of truth* — Alkrist + A'lai, with Bookwyrm complicit in the cover-up and suspected of taking the heart. Murder **broken but not proven**; the party must decide what to do with it.

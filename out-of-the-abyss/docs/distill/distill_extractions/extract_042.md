@@ -28,7 +28,7 @@
 - Faction: N/A (intelligent weapon)
 - Notes: Does not appear independently; referenced through dialogue with Thorin. Apparently has an aversion to darkness.
 
-**Grygum**
+**Gyrgum**
 - Current location: Medusa's chamber
 - Current state: Active
 - Recent actions: Summoned spectral guardians manifesting as fey spirits against elemental and gargoyle; recalled that the area is cursed by a malevolent entity causing summoned elementals to go mad; positioned himself among statues and summoned spectral guardians against animated statues; attempted to strike Medusa from a safe distance
@@ -53,7 +53,7 @@
 
 ## Factions
 
-**The Party (Zalthir, Daz, Thorin, Grygum, with companion Glabbagool)**
+**The Party (Zalthir, Daz, Thorin, Gyrgum, with companion Glabbagool)**
 - Current goals: Explore the cursed area; gather information about the dark malevolent entity before confronting it; defeat the Medusa
 - Recent actions: Defeated Earth Elemental and gargoyle; recovered yellow diamond gem; explored winding passageways; tested animated statue mechanics; constructed ice mirror; entered Medusa's chamber and engaged in combat
 - Relationships: Traveling with Glabbagool as a companion
@@ -63,15 +63,15 @@
 
 ## World Events
 
-- The party defeated a maddened Earth Elemental through combined attacks: Zalthir's shadow-teleportation strikes and grapple, Daz's fireball, and Grygum's spectral guardians.
+- The party defeated a maddened Earth Elemental through combined attacks: Zalthir's shadow-teleportation strikes and grapple, Daz's fireball, and Gyrgum's spectral guardians.
 - The party defeated a gargoyle in the same darkened chamber alongside the elemental.
 - A yellow diamond gem capable of summoning an Earth Elemental was recovered from the elemental's remains.
-- Grygum recalled that the entire area is cursed by a malevolent entity, causing any elemental summoned there to go mad and attack indiscriminately.
+- Gyrgum recalled that the entire area is cursed by a malevolent entity, causing any elemental summoned there to go mad and attack indiscriminately.
 - The party discussed using the yellow diamond gem as a weapon against enemies by exploiting the madness curse.
 - The party noted they possess a scroll capable of removing the curse.
 - The party traveled through winding passageways with Glabbagool and entered a chamber filled with statues of Drow warriors.
 - Six Drow warrior statues animated and attacked when the party entered the statue chamber.
-- Daz cast a shaped fireball, burning the first wave of animated statues while avoiding allies; Grygum's spectral guardians caused the first six to crumble.
+- Daz cast a shaped fireball, burning the first wave of animated statues while avoiding allies; Gyrgum's spectral guardians caused the first six to crumble.
 - A second wave of six statues immediately animated upon the destruction of the first.
 - The party deduced through testing that the malevolent entity can animate only six statues at a time.
 - Glabbagool played a game of entering and exiting the statue chamber to trigger the animation effect.

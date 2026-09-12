@@ -1,6 +1,6 @@
 ## NPCs
 
-**Grygum**
+**Gyrgum**
 - Current location: Gracklstugh, near the Blade Bazaar / Darklake Brewery area
 - Current state: Active, in combat and then exploration
 - Recent actions: Struck the two-headed stone giant with his mace; made a joke about kindling that amused Gartokkar; peeked inside the Darklake Brewery; approached the Drow and Halfling outside the brewery
@@ -31,7 +31,7 @@
 **The Two-Headed Stone Giant (unnamed)**
 - Current location: Gracklstugh, near the Blade Bazaar — deceased
 - Current state: Dead; killed by Duergar with flamethrower devices
-- Recent actions: Rampaged through the city; was attacked by the party and Duergar; withstood Bahamut's magic, fire from the Duergar devices, Zalthir's fists, Thorin's blade, and Grygum's mace before being killed
+- Recent actions: Rampaged through the city; was attacked by the party and Duergar; withstood Bahamut's magic, fire from the Duergar devices, Zalthir's fists, Thorin's blade, and Gyrgum's mace before being killed
 - Faction: None confirmed
 - Revealed information: Was an apprentice of Stonespeaker Hgraam alongside Dorhun and Rihaud (implied by Dorhun's question about whether Thorin killed "him" — referring to the two-headed giant as someone known to Dorhun and Rihaud)
 - Notes: Thorin whispered prayers over the body
@@ -39,7 +39,7 @@
 **Gartokkar Xundorn**
 - Current location: Gracklstugh; appeared near the Blade Bazaar, then disappeared
 - Current state: Active; made an offer to the party; offer expires tomorrow
-- Recent actions: Materialized behind Zalthir during the battle; identified himself; flashed a badge to disperse other Duergar; explained his role; offered the party employment in exchange for safe passage and protection from imprisonment; laughed at Grygum's joke; disappeared after delivering the offer
+- Recent actions: Materialized behind Zalthir during the battle; identified himself; flashed a badge to disperse other Duergar; explained his role; offered the party employment in exchange for safe passage and protection from imprisonment; laughed at Gyrgum's joke; disappeared after delivering the offer
 - Faction: Keepers of the Flame (chief / Custodian of the Flame)
 - Motivations/Secrets: Needs outside help with some unspecified service; the Keepers of the Flame are described as being "in a pickle" regarding the Gray Ghosts and the Crown; his ears bear four notches of scarring not self-inflicted
 - Notes: Offer expires the day after the session date; threatened that the next meeting would be less friendly if refused
@@ -80,7 +80,7 @@
 **The Halfling (unnamed)**
 - Current location: Outside the Darklake Brewery, Gracklstugh
 - Current state: Alive; drinking beer; chose not to accompany the party
-- Recent actions: Spoke with Daz and Grygum; identified them as newcomers; referenced the party having killed the crazed giant; warned against joining factions; explained the factions are trying to kill each other; explained the Deepking's madness; explained the Keepers of the Flame's situation; declined to accompany the party to the Keepers of the Flame; explained Themberchaud's role and the cycle of dragon replacement; signaled approval of Thorin's public disclaimer about the meeting with Errde
+- Recent actions: Spoke with Daz and Gyrgum; identified them as newcomers; referenced the party having killed the crazed giant; warned against joining factions; explained the factions are trying to kill each other; explained the Deepking's madness; explained the Keepers of the Flame's situation; declined to accompany the party to the Keepers of the Flame; explained Themberchaud's role and the cycle of dragon replacement; signaled approval of Thorin's public disclaimer about the meeting with Errde
 - Faction: None (self-described outsider, deliberately unaffiliated)
 - Motivations/Secrets: Deliberately maintains outsider status to remain non-threatening and gather information; shares information freely with those "not in the game"
 
@@ -171,7 +171,7 @@
 - Gartokkar Xundorn materialized behind Zalthir, identified himself as Custodian of the Flame and chief of the Keepers of the Flame, and offered the party employment, safe passage, and protection from imprisonment in exchange for a service; he set a one-day deadline and implied the next encounter would be hostile if they refused, then disappeared.
 - The party traveled from near the Blade Bazaar to the Darklake Brewery.
 - The Darklake Brewery was found to be closed to non-Duergar.
-- Daz and Grygum spoke with an unnamed Halfling and Drow drinking outside the Darklake Brewery; the halfling provided information about the Deepking's madness, faction conflicts, and Themberchaud's role and replacement cycle.
+- Daz and Gyrgum spoke with an unnamed Halfling and Drow drinking outside the Darklake Brewery; the halfling provided information about the Deepking's madness, faction conflicts, and Themberchaud's role and replacement cycle.
 - Errde Blackskull, captain of the Stone Guards on the lake, approached the party outside the brewery with Stone Guards and requested they accompany her.
 - Daz challenged whether Errde was threatening them; Errde clarified it was a friendly invitation.
 - Thorin publicly declared the meeting with Errde was "just a friendly meeting, not that kind of meeting," which the halfling approved of.
@@ -197,7 +197,7 @@
 **Darklake Brewery**
 - What it is: A brewery in Gracklstugh; closed to non-Duergar
 - Current state: Open but inaccessible to the party; described internally as a dour place with hushed whispers; the halfling and Drow were drinking outside it
-- Recent events: Party attempted to enter; Grygum peeked inside; party spoke with the halfling and Drow just outside
+- Recent events: Party attempted to enter; Gyrgum peeked inside; party spoke with the halfling and Drow just outside
 
 **Overlake Hold**
 - What it is: The local guard house / Stone Guards headquarters in Gracklstugh; situated on or near the Darklake

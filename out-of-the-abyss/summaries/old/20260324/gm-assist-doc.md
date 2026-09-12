@@ -134,7 +134,7 @@ I knew where the shadows fell in the cavern ahead. I knew the shape of what we w
 
 ---
 
-## Grygum — Planning the Assassination of Ilvara
+## Gyrgum — Planning the Assassination of Ilvara
 
 The plan began, as most plans do, with me laying out what I had.
 
@@ -188,7 +188,7 @@ She was right. I hate when that happens.
 
 Then came the question of who could safely touch what.
 
-"Basically pointing out," Asha said, her voice shifting to the register of someone delivering information they find tedious, "that if Thorin and Grygum grab it — I think they were the two that went to visit, what's her name, right? — yeah, you two probably don't want to be near it, but everybody else is fine."
+"Basically pointing out," Asha said, her voice shifting to the register of someone delivering information they find tedious, "that if Thorin and Gyrgum grab it — I think they were the two that went to visit, what's her name, right? — yeah, you two probably don't want to be near it, but everybody else is fine."
 
 Whatever we'd picked up in Gracklstugh in the Whorestone Caverns when we visited the pocket dimension, had left a marker on us. The mushroom artifact could exploit it. Good to know before I walked up and tried to destroy it with my hands.
 
@@ -326,7 +326,7 @@ I don't have a ranged option worth mentioning. Dawnbringer is a sword, and I am 
 
 And then I see Jorlan.
 
-He's across the cavern, bitter-eyed, nursing whatever wound his pride has taken since Ilvara discarded him. He's armed. He's furious. He's also standing exactly twenty feet from the Glyph of Warding that Grygum spent real patience setting into the stone of the bridge.
+He's across the cavern, bitter-eyed, nursing whatever wound his pride has taken since Ilvara discarded him. He's armed. He's furious. He's also standing exactly twenty feet from the Glyph of Warding that Gyrgum spent real patience setting into the stone of the bridge.
 
 Jorlan doesn't know about the glyph. Jorlan just needs to take about four steps in the right direction.
 
@@ -356,7 +356,7 @@ Then a spore walker climbs up behind me, because of course it does, and the firs
 
 I adjust my footing.
 
-Behind me, deeper in the cavern, Grygum is grinding the Heart Fungus down with something that sounds like the word *Suleiman* and delivers twenty force damage per turn like a promise. The thing shudders. Good. Let it shudder. And then Daz opens up with a Fireball shaped so precisely around his allies that it catches Ilvara and her precious mushroom icon in the center of it, 24 damage worth of fire finding her even through her save, and the icon smolders.
+Behind me, deeper in the cavern, Gyrgum is grinding the Heart Fungus down with something that sounds like the word *Suleiman* and delivers twenty force damage per turn like a promise. The thing shudders. Good. Let it shudder. And then Daz opens up with a Fireball shaped so precisely around his allies that it catches Ilvara and her precious mushroom icon in the center of it, 24 damage worth of fire finding her even through her save, and the icon smolders.
 
 The mushroom is burning. Ilvara is bleeding. The math has changed.
 

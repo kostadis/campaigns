@@ -16,10 +16,10 @@
 **Joe Beda as Thorin** — *Explaining why his AC allowed the hit*
 > "Well, because I was going sand shield, it was 17, otherwise I would have done it, but, you know, okay, so I take a hit."
 
-**Ben Pfaff as Grygum** — *Casting Dust of Suleiman on the heart fungus despite nearby threats*
+**Ben Pfaff as Gyrgum** — *Casting Dust of Suleiman on the heart fungus despite nearby threats*
 > "A little nervous about these shamblers, but I think I'm gonna stick to the plan. I'm going to cast Dust of Suleiman, centered on the big heart fungus."
 
-**Ben Pfaff as Grygum** — *Confirming the damage dealt to the heart fungus*
+**Ben Pfaff as Gyrgum** — *Confirming the damage dealt to the heart fungus*
 > "20 points of damage of the force type."
 
 **Mike Hall as Daz** — *Planning his fireball to hit both Ilvara and the mushroom artifact*

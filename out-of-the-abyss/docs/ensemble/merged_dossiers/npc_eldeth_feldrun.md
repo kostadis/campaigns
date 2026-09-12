@@ -15,7 +15,7 @@ chapters: 1-54
 **Key relationships:**  
 - Sworn to ensure Thorin is embraced by her clan — has explicitly declared, “I swear.”  
 - Respects and trusts Daz, having revised her lifelong prejudice against drow after personal experience.  
-- Formerly part of the core survival group including Jimjar, Spiderbait, Grygum, and Aliza Argot; now travels independently toward the surface dwarven holds.  
+- Formerly part of the core survival group including Jimjar, Spiderbait, Gyrgum, and Aliza Argot; now travels independently toward the surface dwarven holds.  
 **Defining recent actions:**  
 - Survived the Underdark journey through foraging, track-hiding, and pragmatic problem-solving (e.g., silk rope for web falls, identifying Tinmmasks and waterorbs).  
 - Shifted from believing all drow are evil to recognizing the cult of Lolth as the true enemy, and drow like Daz as redeemable.  

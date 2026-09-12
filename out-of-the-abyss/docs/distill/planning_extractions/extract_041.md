@@ -16,7 +16,7 @@
 
 **Udhask (deceased)** — One of the ghosts Burrow Warden Jadger tasked the party with rescuing. Skeletal remains identified inside the burrow the ghost fled to. Bones showed no signs of violent death, suggesting a peaceful or natural end. Remains collected by the party.
 
-**Gargoyles (two, destroyed/engaged)** — Animated stone winged statues perched on a ledge above a stream. Attacked when Glabbagool approached. One destroyed by Thorin via darts; the second engaged Grygum with bites and claws before the encounter was interrupted by a crazed earth elemental.
+**Gargoyles (two, destroyed/engaged)** — Animated stone winged statues perched on a ledge above a stream. Attacked when Glabbagool approached. One destroyed by Thorin via darts; the second engaged Gyrgum with bites and claws before the encounter was interrupted by a crazed earth elemental.
 
 **Crazed Earth Elemental** — Erupted from the ground during the gargoyle battle. Confirmed prior warnings that earth elementals in the rock blight cavern area have been driven mad. Combat ongoing at session end.
 

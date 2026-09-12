@@ -19,7 +19,7 @@ I had been standing in the open because the alternative was cowering behind cove
 
 Nym was more direct. *Can you please keep your head down and out of combat. We only get paid if you live.*
 
-I find transactional arguments interesting when they're offered as though they should be persuasive to the person whose life is being treated as currency. The logic runs: *Daz, you should hide, because we get paid when you live.* The invisible premise is that I should care about whether Nym gets paid. I don't, particularly. What I care about is that Thorin and Grygum and Zalthir are in active combat with a corrupted high priestess and a field of biting insects and what appears to be an inexhaustible supply of Drow reinforcements, and the idea of standing in a shadow while that happens is — I want to find a precise word — *unacceptable.*
+I find transactional arguments interesting when they're offered as though they should be persuasive to the person whose life is being treated as currency. The logic runs: *Daz, you should hide, because we get paid when you live.* The invisible premise is that I should care about whether Nym gets paid. I don't, particularly. What I care about is that Thorin and Gyrgum and Zalthir are in active combat with a corrupted high priestess and a field of biting insects and what appears to be an inexhaustible supply of Drow reinforcements, and the idea of standing in a shadow while that happens is — I want to find a precise word — *unacceptable.*
 
 So I told her: *I am not going to leave. Everyone here is fighting for me without me participating. I don't give a damn if you get paid. The best way for you to get paid is to continue the fight and prevent all of us from dying.*
 
@@ -31,7 +31,7 @@ What had just happened on the battlefield, while I was establishing these princi
 
 And then, just as the smoke from the fungal deaths was still settling, five more Drow stepped out of the dark.
 
-Zalthir counted them with the tone of someone who has been told dinner will be delayed again. Grygum observed that this was turning into the twelve days of Christmas. I looked at the five new arrivals and performed a rapid assessment: armed, positioned, and immediately furious, because Ilvara's own Insect Plague — the spell she had just cast to devastate our side of the field — was now swirling around *them* as well. They had been hiding in the affected area. They stepped out into it.
+Zalthir counted them with the tone of someone who has been told dinner will be delayed again. Gyrgum observed that this was turning into the twelve days of Christmas. I looked at the five new arrivals and performed a rapid assessment: armed, positioned, and immediately furious, because Ilvara's own Insect Plague — the spell she had just cast to devastate our side of the field — was now swirling around *them* as well. They had been hiding in the affected area. They stepped out into it.
 
 I want to be balanced about this. These were soldiers following orders, and being stung to pieces by your own mistress's magic is genuinely unpleasant, and they had not chosen to be born into a society where that was an occupational hazard. But they had just fired crossbow bolts at me. Three of them. In a coordinated volley. With crossbows.
 
@@ -51,7 +51,7 @@ When the five Drow arrived and Asha's immediate instinct was that they must be t
 
 There is a quality of statement that is so completely confident that it skips over the step where someone decides whether to believe it. You simply assert the thing. You use the target's own categories against them. Asha is a Lolth-devotee; she has a ready-made slot in her worldview for "Lolth-aligned drow who are here to help." I put the Duskryn sisters in that slot and moved on. The lie barely costs anything when you're already committed to the architecture.
 
-Grygum, at some point in this sequence, observed that the situation was "accurately described" by Asha's characterization of me as an insane mage who had converted to Lolthism. He meant it kindly. Or as kindly as Grygum observes anything, which is with the steady, clear-eyed precision of a man keeping accurate records.
+Gyrgum, at some point in this sequence, observed that the situation was "accurately described" by Asha's characterization of me as an insane mage who had converted to Lolthism. He meant it kindly. Or as kindly as Gyrgum observes anything, which is with the steady, clear-eyed precision of a man keeping accurate records.
 
 *What's important? That she thinks it, or that it's real?*
 
@@ -67,7 +67,7 @@ The fungus wilted. One round. Radiant damage against something with deep vulnera
 
 Thorin said: *I do what I can.*
 
-The GM — and I say this with genuine sympathy — mentioned that he had spent a great deal of time on the icon for the Heart Fungus. Grygum said it had been beautiful. Zalthir agreed it had been pretty. There was a brief, sincere memorial for a carefully crafted encounter piece that lasted approximately six seconds of game time. I found I did not have anything to add, because Dawnbringer had already moved on, and so had the fight, and there were still Drow warriors in the cavern who had fired crossbow bolts at me and then been Fireballed and might need to be addressed again, and Ilvara was still somewhere in the dark, howling about Zuggtmoy and the bride and what was coming.
+The GM — and I say this with genuine sympathy — mentioned that he had spent a great deal of time on the icon for the Heart Fungus. Gyrgum said it had been beautiful. Zalthir agreed it had been pretty. There was a brief, sincere memorial for a carefully crafted encounter piece that lasted approximately six seconds of game time. I found I did not have anything to add, because Dawnbringer had already moved on, and so had the fight, and there were still Drow warriors in the cavern who had fired crossbow bolts at me and then been Fireballed and might need to be addressed again, and Ilvara was still somewhere in the dark, howling about Zuggtmoy and the bride and what was coming.
 
 We were not done. But the geometry of the battlefield had shifted, and I was still standing, and the shield had held when it mattered.
 

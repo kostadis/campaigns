@@ -48,7 +48,7 @@ She broke down. Not performance; it came from somewhere real and arrived without
 
 I let her have a moment and steered toward motive. What I was trying to understand, I said, was whether she was a target of convenience — someone easy to point at — or whether there was something more specific. A research proposal with enemies. Something she'd found and hadn't published yet.
 
-Grygum put it more plainly from beside me: "Is there a motive here?"
+Gyrgum put it more plainly from beside me: "Is there a motive here?"
 
 Sylvira looked at us, and I supplied the context she was quietly asking for. We'd recently come up from the Underdark, I said. Born and raised in the Overbright, but absent from it for some time. Which was, I realized, the most straightforwardly true thing I'd said in the entire conversation.
 
@@ -68,7 +68,7 @@ The timeline she gave was orderly despite the fever. Kalan Strongbranch had come
 
 The end-of-year meeting had been at 11:30 PM, and they'd spent most of it planning a new library dedicated to the Great Wheel of Planes — a joint vision that had clearly mattered enormously to both of them. It ended in an argument about a personal, private matter, she said. But she had *never*, she insisted, called him a genus traitor. The word "never" had a specificity that suggested she'd anticipated being asked, which was itself worth noting.
 
-The feast she described as the same drab affair it always was, right down to the dishes, and she'd left early when the flu began coming on. Grygum asked about Alkrist burning something at the feast; she received the question with the diplomatic silence of someone choosing not to comment on something they either hadn't witnessed or had already assessed as irrelevant.
+The feast she described as the same drab affair it always was, right down to the dishes, and she'd left early when the flu began coming on. Gyrgum asked about Alkrist burning something at the feast; she received the question with the diplomatic silence of someone choosing not to comment on something they either hadn't witnessed or had already assessed as irrelevant.
 
 Then she stopped mid-thought and doubled back to Zalthir's earlier question. "Did you ask me if anyone saw me, after? I did sneak out. To visit my son." She had a son, born in the Abyss, living in a Mordenkainen's Mansion she'd constructed specifically for his protection. She'd been trying to coax him back into it.
 
@@ -84,7 +84,7 @@ She'd returned to her chambers around 12:30, she thought. "Oh, so what happened 
 
 After 12:30, she came to her room and saw no one. Her son, it emerged, had infected her with an abyssal plague — born in the Abyss, which has consequences — and if anyone claimed to have seen her after that, she said with pointed precision, it would be members of the avowed who had long nurtured hostility toward her. Great Readers included. She named Teles Ahvoste directly.
 
-Grygum asked about Kalan's motive. I echoed it: what would their motive be?
+Gyrgum asked about Kalan's motive. I echoed it: what would their motive be?
 
 Sylvira's answer was the clearest thing she'd said. Teles had remained hostile toward Janussi for nearly twenty years, passed over for Keeper of Tomes despite being older than Janussi and generally considered the more skilled practitioner. "Jealousy is a powerful motivator," she said. "For revenge. Murder." Clean and precise, the way she delivered it. A researcher naming a mechanism.
 

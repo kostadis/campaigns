@@ -1,15 +1,15 @@
 [
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is an academic who analyzed a treatise on poison tied to celestial mechanics and realized the trigger is location-based, not temporal. He passed a key to Daz after recognizing the keep\u2019s security is compromised by scholarly distraction.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is an academic who analyzed a treatise on poison tied to celestial mechanics and realized the trigger is location-based, not temporal. He passed a key to Daz after recognizing the keep\u2019s security is compromised by scholarly distraction.",
     "source_quote": "I had the treatise open in front of me. *On the Punctual Tears.*",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a pragmatic investigator who received a key from Grygum and is now entangled in the murder mystery. He understands the academic distraction has left the keep vulnerable and is aware of Daral\u2019s precarious position.",
+    "fact": "Daz is a pragmatic investigator who received a key from Gyrgum and is now entangled in the murder mystery. He understands the academic distraction has left the keep vulnerable and is aware of Daral\u2019s precarious position.",
     "source_quote": "Totally, totally,\" Zalthir said, in a voice that recorded everything.",
     "quote_verified": true
   },
@@ -30,7 +30,7 @@
   {
     "type": "npc",
     "subject": "Brother Vareth",
-    "fact": "Brother Vareth has appropriated Grygum\u2019s incomplete answer to the Question of the Age and turned it into a published thesis, sparking mass academic frenzy and diverting attention from the ongoing murder investigation.",
+    "fact": "Brother Vareth has appropriated Gyrgum\u2019s incomplete answer to the Question of the Age and turned it into a published thesis, sparking mass academic frenzy and diverting attention from the ongoing murder investigation.",
     "source_quote": "He'd taken my answer to the Question of the Age... and he'd turned it into a thing. A fourth corner.",
     "quote_verified": false
   },
@@ -72,7 +72,7 @@
   {
     "type": "event",
     "subject": "publication of the fourth corner",
-    "fact": "Brother Vareth published a revision of Grygum\u2019s incomplete answer to the Question of the Age, triggering a mass academic frenzy that diverted all attention from the murder investigation and left the keep unguarded.",
+    "fact": "Brother Vareth published a revision of Gyrgum\u2019s incomplete answer to the Question of the Age, triggering a mass academic frenzy that diverted all attention from the murder investigation and left the keep unguarded.",
     "source_quote": "He'd turned it into a thing. A fourth corner. And he had told everyone.",
     "quote_verified": false
   },
@@ -163,21 +163,21 @@
   {
     "type": "npc",
     "subject": "Fembris",
-    "fact": "Fembris is the avowed minder assigned to prevent the four strangers from accessing the library's contents, who left his post to attend Grygum's theological debate, inadvertently granting the investigators an hour of unsupervised time.",
+    "fact": "Fembris is the avowed minder assigned to prevent the four strangers from accessing the library's contents, who left his post to attend Gyrgum's theological debate, inadvertently granting the investigators an hour of unsupervised time.",
     "source_quote": "Fembris asked to leave. Our minder, the avowed assigned to ensure four armed strangers didn't help themselves to the contents of the world's most dangerous library, wanted to attend a debate.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is the orc theologian whose new theology is the subject of a major debate in the Oval Theater, drawing half the avowed and forcing Bookwyrm to attend despite political risk.",
-    "source_quote": "Grygum's debate, as it turned out \u2014 a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is the orc theologian whose new theology is the subject of a major debate in the Oval Theater, drawing half the avowed and forcing Bookwyrm to attend despite political risk.",
+    "source_quote": "Gyrgum's debate, as it turned out \u2014 a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Bookwyrm",
-    "fact": "Bookwyrm is a high authority in the library who could not politically afford to miss Grygum\u2019s debate, indicating her influence and the political weight of the theological conflict.",
+    "fact": "Bookwyrm is a high authority in the library who could not politically afford to miss Gyrgum\u2019s debate, indicating her influence and the political weight of the theological conflict.",
     "source_quote": "Bookwyrm herself unable to politically afford to miss it.",
     "quote_verified": true
   },
@@ -191,7 +191,7 @@
   {
     "type": "faction",
     "subject": "the Avowed",
-    "fact": "The Avowed are the organized guardians of the library, tasked with preventing unauthorized access by strangers, and are sufficiently numerous and politically engaged to have members attending Grygum\u2019s debate.",
+    "fact": "The Avowed are the organized guardians of the library, tasked with preventing unauthorized access by strangers, and are sufficiently numerous and politically engaged to have members attending Gyrgum\u2019s debate.",
     "source_quote": "the avowed assigned to ensure four armed strangers didn't help themselves to the contents of the world's most dangerous library... half the avowed already in attendance.",
     "quote_verified": false
   },
@@ -219,7 +219,7 @@
   {
     "type": "location",
     "subject": "the Oval Theater",
-    "fact": "The Oval Theater is the venue for Grygum\u2019s theological debate, a site of high political and religious significance where Bookwyrm and half the Avowed were compelled to attend.",
+    "fact": "The Oval Theater is the venue for Gyrgum\u2019s theological debate, a site of high political and religious significance where Bookwyrm and half the Avowed were compelled to attend.",
     "source_quote": "a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it.",
     "quote_verified": true
   },
