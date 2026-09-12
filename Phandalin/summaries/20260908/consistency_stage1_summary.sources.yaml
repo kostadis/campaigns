@@ -1,0 +1,181 @@
+{
+  "consistency_check": {
+    "timestamp": "2026-09-12",
+    "campaign": "Phandalin",
+    "session_date": "2026-09-08",
+    "document_checked": "summaries/20260908/session-summary.md",
+    "document_class": "enhanced recap",
+    "report": "consistency_report_stage1_summary.md",
+    "config": "/tmp/consistency_20260908_config.yaml",
+    "backend": "codex-cli",
+    "model": "Codex subscription default; no override",
+    "issues_found": 15,
+    "manual_findings": 1,
+    "review_items": 4,
+    "session_prep_used": true,
+    "entity_registry_used": true,
+    "sources": {
+      "auto_loaded": [
+        "docs/campaign_state.md",
+        "docs/world_state.md",
+        "docs/mechanics.md",
+        "docs/planning.md",
+        "docs/party.md"
+      ],
+      "context": [
+        "docs/party.md",
+        "docs/entity_registry.yaml",
+        "notes/vtt_transcription_corrections.md",
+        "notes/vtt_known_additions.md",
+        "notes/session_prep/20260909_the_ninth_crate.md",
+        "notes/neverwinter/harper_doctrine.md",
+        "notes/neverwinter/the_commission.md",
+        "summaries/20260908/gm-assist.md"
+      ]
+    },
+    "notes": "10 context documents reported (configured plus explicit inputs after CLI handling). No context-file-not-found warning. Automatic registry discovery under /tmp skipped; registry explicitly supplied as context. Model report advisory; target text and tape checked before review. No automatic content changes.",
+    "speaker_map": {
+      "Kostadis Roussos": "GM",
+      "Gary Young": [
+        "Valphine",
+        "Brewbarry (GM confirmed)"
+      ],
+      "Wade Brown": "Soma",
+      "David Mendenhall": "Vukradin"
+    },
+    "quote_verification": {
+      "transcript": "session_2026_09_08_chapter_52_combat_at_last_transcript.cleaned.vtt",
+      "report": "quote_report_stage1.md",
+      "report_only": true,
+      "verified": 15,
+      "near": 1,
+      "unverified": 0,
+      "refused": 0,
+      "coverage": "Blockquotes only; not inline prose or attribution. Near one-egg quote revealed wrong character attribution."
+    },
+    "vtt_adjudicated": {
+      "wording": "session_2026_09_08_chapter_52_combat_at_last_transcript.cleaned.vtt",
+      "attribution": "GMT20260909-040128_Recording.transcript.vtt",
+      "sequences": [
+        "00:28:11–00:28:39 Harper principle",
+        "00:35:41–00:37:02 repair, ninth crate, party identifies Rift Weavers",
+        "00:46:20–00:46:40 dinner tonight and concert tomorrow",
+        "00:54:38–00:56:05 renewed sewer discussion and price bargaining",
+        "01:32:44–01:33:09 GM spider joke and David reroll"
+      ],
+      "numeric_checks": [
+        "28 damage explicitly confirmed by GM at Zoom line 5101",
+        "24 damage on second Spray of Cards target explicitly confirmed at Zoom lines 5669–5685",
+        "Prime teleport 40 feet appears cleaned VTT line 5225",
+        "Reroll 13 appears Zoom line 5945 and cleaned VTT line 5299",
+        "200 to 250 gold explicitly spoken at Zoom lines 3273–3297"
+      ]
+    },
+    "resolution": {
+      "status": "Stage 1 review complete; all four decisions resolved",
+      "applied": [
+        "s1-01",
+        "s1-02",
+        "s1-03",
+        "s1-04"
+      ],
+      "pending": [],
+      "retained_model_findings": [
+        1,
+        9,
+        11
+      ],
+      "filtered": [
+        {
+          "finding": 2,
+          "reason": "Tape explicitly says guy supposed to repair it (00:35:51); prior ruling reverified."
+        },
+        {
+          "finding": 3,
+          "reason": "Bimbo already explicitly labelled party nickname; do not inject hidden identity. Tape places ninth-crate recipient in sewers (00:36:06), so registry lower-docks truth does not justify overwriting party knowledge."
+        },
+        {
+          "finding": 4,
+          "reason": "Target allegation absent: scene explicitly says party recognizes Rift Weavers at summary line 193."
+        },
+        {
+          "finding": 5,
+          "reason": "Dinner tonight explicitly spoken by David and confirmed by GM at 00:46:20–30."
+        },
+        {
+          "finding": 6,
+          "reason": "Tomorrow night Common Chord explicitly spoken at 00:46:30–33 and repeated at 00:47:45; prep stale relative to tape."
+        },
+        {
+          "finding": 7,
+          "reason": "Live 200→250 bargaining present on tape. Summary already says Rsolk remembers Vukradin and does not claim their first-ever contract. Prep instruction not to replay cannot erase played exchange."
+        },
+        {
+          "finding": 8,
+          "reason": "Quoted wrong reaction absent; summary NPC description already says less enthusiastic about armed expedition."
+        },
+        {
+          "finding": 10,
+          "reason": "GM already approved species-wide observed fixation. Summary uses appeared/seem, not a causal claim; adding sword clue would risk revealing GM-only overlay."
+        },
+        {
+          "finding": 12,
+          "reason": "Trivial metaphor: stronghold need not mean fortification; defer wording, no canon conflict established."
+        },
+        {
+          "finding": 13,
+          "reason": "Alleged prevention wording absent. Spell section explicitly describes initial restraint then five-foot escape."
+        },
+        {
+          "finding": 14,
+          "reason": "Alleged rolled-through-tunnels wording absent. Spell section already says placed near Rift Weaver/webs."
+        },
+        {
+          "finding": 15,
+          "reason": "Alleged ownership wording absent. Location section explicitly identifies Harper supply route crossing Dead Rat territory."
+        }
+      ],
+      "gm_rulings": {
+        "savedAt": "2026-09-12 14:18 UTC",
+        "approved": [
+          "s1-01",
+          "s1-02",
+          "s1-03"
+        ],
+        "discuss_resolved": {
+          "s1-04": "The representative came from downstairs. Corrected all arrival descriptions in gm-assist and session-summary; removed unsupported upstairs-meeting claim. Explicit GM ruling overrides raw transcript upstairs wording; VTT unchanged."
+        }
+      }
+    },
+    "carry_forward": [
+      {
+        "status": "DONE",
+        "item": "All four Stage 1 cards resolved. s1-01 and downstairs clarification propagated to gm-assist; quote attribution and Cambians fixed in summary."
+      },
+      {
+        "status": "OPEN",
+        "item": "Stage 1 gate closed; resume requested remove-recap detection and rescue analysis. No boundary approved."
+      },
+      {
+        "status": "OPEN",
+        "item": "Stage 2 NOT RUN: scene extraction artifacts absent."
+      },
+      {
+        "status": "OPEN",
+        "item": "Stage 3 NOT RUN: narration artifacts absent."
+      },
+      {
+        "status": "NOTE",
+        "item": "Cleaned VTT prior glossary collateral damage remains: Kostadis quo and action Stirge. VTT not edited in this review."
+      },
+      {
+        "status": "DONE",
+        "item": "Enhanced summary generated; Doom Sphere, Rsolk, Sotorra, Spray of Cards, Freedom of Movement escape, Prime half damage and species-wide observed fixation survived. No stale Arcan or old tavern name found."
+      },
+      {
+        "status": "NOTE",
+        "item": "Grounding/prep dinner and concert schedules are older than this tape. Do not propagate stale schedules into summary; grounding files not edited."
+      }
+    ]
+  }
+}

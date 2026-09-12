@@ -1,0 +1,701 @@
+{
+  "session_dir": "/home/kostadis/phandalin/Phandalin/summaries/20260908",
+  "target_vtt": "/home/kostadis/phandalin/Phandalin/summaries/20260908/session_2026_09_08_chapter_52_combat_at_last_transcript.vtt",
+  "summary": {
+    "known_names_count": 2089,
+    "existing_glossary_replacements": 7,
+    "raw_unknown_tokens": 149,
+    "raw_unknown_occurrences": 284,
+    "review_pairs": 28,
+    "review_occurrences": 37,
+    "filtered_tokens": 121,
+    "filtered_occurrences": 247,
+    "filter_reason": "Clear stopwords, mechanics, real-world terms, saved ignores, and false residuals containing an already-correct name."
+  },
+  "items": [
+    {
+      "id": "kassatas__kostadis",
+      "token": "Kassatas",
+      "canonical": "Kostadis",
+      "section": "table",
+      "count": 4,
+      "chapters": 1,
+      "context": "Can you hear us now, Kassatas?",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.897,
+        "line": 113,
+        "text": "Can you hear us now, Kostadis?"
+      },
+      "sibling_verdict": "approve_correction",
+      "recommended_decision": "approve_correction",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Zoom has “Kostadis” at score 0.897."
+    },
+    {
+      "id": "sartori__sotorra",
+      "token": "Sartori",
+      "canonical": "Sotorra",
+      "section": "pcs",
+      "count": 2,
+      "chapters": 1,
+      "context": "Sartori.",
+      "reason": [
+        "edit_distance",
+        "campaign_context"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.632,
+        "line": 2417,
+        "text": "satori, yeah."
+      },
+      "sibling_verdict": "approve_correction",
+      "recommended_decision": "approve_correction",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "The cue explicitly asks for Valphine’s house name; both ASRs heard Sartori/satori."
+    },
+    {
+      "id": "zentarim__zhentarim",
+      "token": "Zentarim",
+      "canonical": "Zhentarim",
+      "section": "factions",
+      "count": 2,
+      "chapters": 1,
+      "context": "And they also hate the Zentarim because the Zentarim believe that, no,",
+      "reason": [
+        "edit_distance",
+        "module"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.527,
+        "line": 1233,
+        "text": "That's why they hate the Zantarim. The Zantarim believe in concentrated… people with concentrated power having to fuse power through…"
+      },
+      "sibling_verdict": "approve_correction",
+      "recommended_decision": "approve_correction",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Campaign doctrine and published D&D canon spell the faction Zhentarim; Zoom has Zantarim."
+    },
+    {
+      "id": "the_zentarim__the_zhentarim",
+      "token": "The Zentarim",
+      "canonical": "The Zhentarim",
+      "section": "factions",
+      "count": 1,
+      "chapters": 1,
+      "context": "The Zentarim believe in concentrated people with con",
+      "reason": [
+        "edit_distance",
+        "module"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.565,
+        "line": 1233,
+        "text": "That's why they hate the Zantarim. The Zantarim believe in concentrated… people with concentrated power having to fuse power through…"
+      },
+      "sibling_verdict": "approve_correction",
+      "recommended_decision": "approve_correction",
+      "edit_mode": "targeted",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Same faction; targeted because the bare Zentarim rule is the reusable correction."
+    },
+    {
+      "id": "zentari__zhentarim",
+      "token": "Zentari",
+      "canonical": "Zhentarim",
+      "section": "factions",
+      "count": 1,
+      "chapters": 1,
+      "context": "That's why they hate the Zentari.",
+      "reason": [
+        "edit_distance",
+        "campaign_context"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.6,
+        "line": 889,
+        "text": "That's co-author. And then when he said."
+      },
+      "sibling_verdict": "approve_correction",
+      "recommended_decision": "approve_correction",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "The surrounding discussion is explicitly about the Zhentarim."
+    },
+    {
+      "id": "arcan__rsolk",
+      "token": "Arcan",
+      "canonical": "Rsolk",
+      "section": "npcs",
+      "count": 1,
+      "chapters": 1,
+      "context": "anding, you head down, and uh, there is Arcan and his gang, the Dead Rats.",
+      "reason": [
+        "sibling_context",
+        "previous_session"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.835,
+        "line": 3097,
+        "text": "Alright, and standing, you head down, and there is Arsok, and his gang, the Dead Rats."
+      },
+      "sibling_verdict": "approve_correction",
+      "recommended_decision": "approve_correction",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Zoom has Arsok; the previous session and current Dead Rats context identify the speaker as Rsolk."
+    },
+    {
+      "id": "walt__lolth",
+      "token": "Walt",
+      "canonical": "Lolth",
+      "section": "npcs",
+      "count": 1,
+      "chapters": 1,
+      "context": "We need to take her down to show that Walt is weak.",
+      "reason": [
+        "campaign_context"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.876,
+        "line": 2297,
+        "text": "Take her down to show that Walt is weak."
+      },
+      "sibling_verdict": "approve_correction",
+      "recommended_decision": "approve_correction",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "The line discusses drow society and showing the drow goddess Lolth to be weak."
+    },
+    {
+      "id": "drowser__drow",
+      "token": "Drowser",
+      "canonical": "Drow",
+      "section": "npcs",
+      "count": 1,
+      "chapters": 1,
+      "context": "ike all in all of Kassatas's campaigns, Drowser just say that you support Lathander.",
+      "reason": [
+        "sibling_context"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.55,
+        "line": 1069,
+        "text": "Rouss are just inherently evil, don't you know that? Like, all… in all of Kostadis' campaigns, Drous are just… You say that you support Lathander, on the other hand, Lathander is dead. But, you know…"
+      },
+      "sibling_verdict": "approve_correction",
+      "recommended_decision": "approve_correction",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Zoom has “Drous are just”; the sentence is about drow in Kostadis’s campaigns."
+    },
+    {
+      "id": "cambians__ambience",
+      "token": "Cambians",
+      "canonical": "ambience",
+      "section": "table",
+      "count": 1,
+      "chapters": 1,
+      "context": "Sounds like Cambians.",
+      "reason": [
+        "sibling_context"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.667,
+        "line": 1885,
+        "text": "Well, sounds like ambience, yep."
+      },
+      "sibling_verdict": "approve_correction",
+      "recommended_decision": "approve_correction",
+      "edit_mode": "targeted",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Zoom clearly has the ordinary phrase “sounds like ambience.”"
+    },
+    {
+      "id": "noble_adventures__noble_adventurers",
+      "token": "Noble Adventures",
+      "canonical": "noble adventurers",
+      "section": "table",
+      "count": 1,
+      "chapters": 1,
+      "context": "So when we last left our Noble Adventures, and by Noble, I mean Vukradin.",
+      "reason": [
+        "sibling_context"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.702,
+        "line": 1013,
+        "text": "Yep, yeah, that just convinced me of that. All right, okay, so when we last left our noble adventurers, and by noble, I mean Vukradin."
+      },
+      "sibling_verdict": "approve_correction",
+      "recommended_decision": "approve_correction",
+      "edit_mode": "targeted",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Zoom clearly has lowercase “our noble adventurers.”"
+    },
+    {
+      "id": "technters__tech_turn",
+      "token": "Technters",
+      "canonical": "tech turn",
+      "section": "table",
+      "count": 1,
+      "chapters": 1,
+      "context": "Down to Technters.",
+      "reason": [
+        "sibling_context"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.605,
+        "line": 785,
+        "text": "Alright, down to tech turn."
+      },
+      "sibling_verdict": "approve_correction",
+      "recommended_decision": "approve_correction",
+      "edit_mode": "targeted",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Zoom has “down to tech turn.”"
+    },
+    {
+      "id": "whit_rift_weaver_prime__rift_weaver_prime",
+      "token": "Whit Rift Weaver Prime",
+      "canonical": "Rift Weaver Prime",
+      "section": "npcs",
+      "count": 1,
+      "chapters": 1,
+      "context": "Whit Rift Weaver Prime.",
+      "reason": [
+        "sibling_agreement",
+        "campaign_context"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 1.0,
+        "line": 4001,
+        "text": "Whit Rift Weaver Prime."
+      },
+      "sibling_verdict": "approve_correction",
+      "recommended_decision": "approve_correction",
+      "edit_mode": "targeted",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Both ASRs have Whit, but the GM is answering “Does the boss have a name?” with Rift Weaver Prime."
+    },
+    {
+      "id": "rift_weaver__new_canon",
+      "token": "Rift Weaver",
+      "canonical": null,
+      "section": "npcs",
+      "count": 2,
+      "chapters": 1,
+      "context": "Rift Weaver.",
+      "reason": [
+        "campaign_context"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.667,
+        "line": 4001,
+        "text": "Whit Rift Weaver Prime."
+      },
+      "sibling_verdict": "new_canon",
+      "recommended_decision": "new_canon",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Established campaign creature; add the singular form to the known-name source."
+    },
+    {
+      "id": "rift_weavers__new_canon",
+      "token": "Rift Weavers",
+      "canonical": null,
+      "section": "npcs",
+      "count": 1,
+      "chapters": 1,
+      "context": "Have they call them Rift Weavers or something?",
+      "reason": [
+        "sibling_agreement",
+        "campaign_context"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.854,
+        "line": 3937,
+        "text": "Probably call them Rift Weavers or something?"
+      },
+      "sibling_verdict": "new_canon",
+      "recommended_decision": "new_canon",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Zoom confirms the plural form; established campaign creatures."
+    },
+    {
+      "id": "aletra__new_canon",
+      "token": "Aletra",
+      "canonical": null,
+      "section": "npcs",
+      "count": 1,
+      "chapters": 1,
+      "context": "Aletra?",
+      "reason": [
+        "campaign_context"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.769,
+        "line": 2397,
+        "text": "Elektra?"
+      },
+      "sibling_verdict": "new_canon",
+      "recommended_decision": "new_canon",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Campaign documents identify Aletra Sotorra; Zoom heard Elektra."
+    },
+    {
+      "id": "dead_rats__new_canon",
+      "token": "Dead Rats",
+      "canonical": null,
+      "section": "factions",
+      "count": 1,
+      "chapters": 1,
+      "context": "nd uh, there is Arcan and his gang, the Dead Rats.",
+      "reason": [
+        "sibling_agreement",
+        "module"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.687,
+        "line": 3097,
+        "text": "Alright, and standing, you head down, and there is Arsok, and his gang, the Dead Rats."
+      },
+      "sibling_verdict": "new_canon",
+      "recommended_decision": "new_canon",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Zoom agrees, and Guide to Neverwinter names the Dead Rats gang."
+    },
+    {
+      "id": "the_manifold__new_canon",
+      "token": "The Manifold",
+      "canonical": null,
+      "section": "items",
+      "count": 2,
+      "chapters": 1,
+      "context": "The Manifold.",
+      "reason": [
+        "sibling_agreement",
+        "previous_session"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 1.0,
+        "line": 2565,
+        "text": "the manifold."
+      },
+      "sibling_verdict": "new_canon",
+      "recommended_decision": "new_canon",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Both ASRs agree; the previous session also uses this shorthand for the Displacement Manifold."
+    },
+    {
+      "id": "universal_basic_treasure__new_canon",
+      "token": "Universal Basic Treasure",
+      "canonical": null,
+      "section": "concepts",
+      "count": 1,
+      "chapters": 1,
+      "context": "Don't forget Universal Basic Treasure.",
+      "reason": [
+        "sibling_agreement",
+        "campaign_context"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.949,
+        "line": 2865,
+        "text": "And don't forget Universal Basic Treasure."
+      },
+      "sibling_verdict": "new_canon",
+      "recommended_decision": "new_canon",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Both ASRs agree; this is an established campaign policy."
+    },
+    {
+      "id": "mendenhall__new_canon",
+      "token": "Mendenhall",
+      "canonical": null,
+      "section": "table",
+      "count": 2,
+      "chapters": 1,
+      "context": "Mendenhall, your character die.",
+      "reason": [
+        "mixed_context"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.776,
+        "line": 3737,
+        "text": "End of the whole, your character died."
+      },
+      "sibling_verdict": "discuss",
+      "recommended_decision": "discuss",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "One occurrence is likely “end of the whole”; another may correctly address player David Mendenhall. Do not globally rewrite without a ruling."
+    },
+    {
+      "id": "mike__new_canon",
+      "token": "Mike",
+      "canonical": null,
+      "section": "table",
+      "count": 2,
+      "chapters": 1,
+      "context": "Mike told me he fixed a bug.",
+      "reason": [
+        "sibling_agreement"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 1.0,
+        "line": 41,
+        "text": "Mike told me he fixed a bug."
+      },
+      "sibling_verdict": "new_canon",
+      "recommended_decision": "new_canon",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Zoom confirms Mike in both bug-report references."
+    },
+    {
+      "id": "caroline__new_canon",
+      "token": "Caroline",
+      "canonical": null,
+      "section": "table",
+      "count": 1,
+      "chapters": 1,
+      "context": "I tried to set that up with Caroline long, long, long ago.",
+      "reason": [
+        "sibling_exact"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.479,
+        "line": 3309,
+        "text": "I got a date with the Lord tonight. What?"
+      },
+      "sibling_verdict": "new_canon",
+      "recommended_decision": "new_canon",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "The raw Zoom transcript contains the same Caroline sentence exactly; the fuzzy aligner chose the wrong span."
+    },
+    {
+      "id": "picard__new_canon",
+      "token": "Picard",
+      "canonical": null,
+      "section": "table",
+      "count": 1,
+      "chapters": 1,
+      "context": "I guess Picard didn't really come back with any info,",
+      "reason": [
+        "sibling_disagreement"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.722,
+        "line": 2157,
+        "text": "Yeah, did we ever get the DL? I guess Picardin didn't really come back with any info, did he?"
+      },
+      "sibling_verdict": "discuss",
+      "recommended_decision": "discuss",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Zoom has the different plausible name Picardin; neither source establishes the canonical."
+    },
+    {
+      "id": "crom__new_canon",
+      "token": "Crom",
+      "canonical": null,
+      "section": "table",
+      "count": 1,
+      "chapters": 1,
+      "context": "Aim for Crom?",
+      "reason": [
+        "sibling_ordinary_words"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.571,
+        "line": 5521,
+        "text": "Okay, for cotton?"
+      },
+      "sibling_verdict": "discuss",
+      "recommended_decision": "discuss",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Zoom has “Okay, for cotton?” at modest score; the evidence is inconclusive."
+    },
+    {
+      "id": "levant_agad__new_canon",
+      "token": "Levant Agad",
+      "canonical": null,
+      "section": "table",
+      "count": 1,
+      "chapters": 1,
+      "context": "It was an Anthropic mathematician, Levant Agad.",
+      "reason": [
+        "sibling_disagreement"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.915,
+        "line": 937,
+        "text": "It was an anthropic mathematician, Levant Apulus."
+      },
+      "sibling_verdict": "discuss",
+      "recommended_decision": "discuss",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Zoom has the different plausible name Levant Apulus; this is table discussion of an Anthropic mathematician."
+    },
+    {
+      "id": "lord_lamm__new_canon",
+      "token": "Lord Lamm",
+      "canonical": null,
+      "section": "npcs",
+      "count": 1,
+      "chapters": 1,
+      "context": "And we still haven't seen Lord Lamm for tea.",
+      "reason": [
+        "sibling_disagreement",
+        "module_no_match"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.977,
+        "line": 2737,
+        "text": "And we still haven't seen Lord… Lammy for tea."
+      },
+      "sibling_verdict": "discuss",
+      "recommended_decision": "discuss",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Zoom has Lord Lammy; neither Neverwinter reference book contains Lamm/Lammy."
+    },
+    {
+      "id": "mel_gatmer_gaster__new_canon",
+      "token": "Mel Gatmer Gaster",
+      "canonical": null,
+      "section": "table",
+      "count": 1,
+      "chapters": 1,
+      "context": "Well, Mel Gatmer Gaster delivers on time because everyone else",
+      "reason": [
+        "sibling_disagreement"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.678,
+        "line": 1513,
+        "text": "He goes, the shipping services. Well, Mel Gatner Gaster delivers on time, because everyone else pays for the privilege."
+      },
+      "sibling_verdict": "discuss",
+      "recommended_decision": "discuss",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Zoom has Mel Gatner Gaster; the line is a delivery-service joke and does not establish spelling."
+    },
+    {
+      "id": "rift__new_canon",
+      "token": "Rift",
+      "canonical": null,
+      "section": "concepts",
+      "count": 1,
+      "chapters": 1,
+      "context": "We had Rift in Gnomes, didn't we?",
+      "reason": [
+        "sibling_agreement"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.614,
+        "line": 3953,
+        "text": "We had Rift and Gnomes, didn't we? No, that was in the Counting House."
+      },
+      "sibling_verdict": "discuss",
+      "recommended_decision": "discuss",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Zoom has “Rift and Gnomes”; unclear whether Rift is a name or an ASR fragment."
+    },
+    {
+      "id": "withers__new_canon",
+      "token": "Withers",
+      "canonical": null,
+      "section": "table",
+      "count": 1,
+      "chapters": 1,
+      "context": "Hey, isn't this the room where you meet Withers?",
+      "reason": [
+        "sibling_agreement",
+        "module_other_source"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 1.0,
+        "line": 3541,
+        "text": "Hey, isn't this the room where you meet Withers?"
+      },
+      "sibling_verdict": "discuss",
+      "recommended_decision": "discuss",
+      "edit_mode": "global",
+      "decision": null,
+      "note": null,
+      "evidence_note": "Both ASRs agree, but the cue refers to meeting Withers in a room; likely out-of-campaign game chatter."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "consistency_check": {
+    "timestamp": "2026-09-12",
+    "campaign": "Phandalin",
+    "document_checked": "summaries/20260908/gm-assist.md",
+    "document_class": "first-pass recap",
+    "report": "consistency_report_stage0_gmassist.md",
+    "config": "/tmp/consistency_20260908_config.yaml",
+    "backend": "codex-cli",
+    "issues_found": 11,
+    "manual_findings": 3,
+    "review_items": 10,
+    "session_prep_used": true,
+    "entity_registry_used": true,
+    "speaker_map": {
+      "Kostadis Roussos": "GM",
+      "Gary Young": [
+        "Valphine",
+        "Brewbarry (GM confirmed)"
+      ],
+      "Wade Brown": "Soma",
+      "David Mendenhall": "Vukradin"
+    },
+    "sources": {
+      "context": [
+        "docs/party.md",
+        "docs/entity_registry.yaml",
+        "notes/vtt_transcription_corrections.md",
+        "notes/vtt_known_additions.md",
+        "notes/session_prep/20260909_the_ninth_crate.md",
+        "notes/neverwinter/harper_doctrine.md",
+        "notes/neverwinter/the_commission.md"
+      ],
+      "auto_loaded": [
+        "docs/campaign_state.md",
+        "docs/world_state.md",
+        "docs/mechanics.md",
+        "docs/planning.md",
+        "docs/party.md"
+      ]
+    },
+    "vtt_adjudicated": {
+      "wording": "session_2026_09_08_chapter_52_combat_at_last_transcript.cleaned.vtt",
+      "attribution": "GMT20260909-040128_Recording.transcript.vtt",
+      "notes": "Read relevant dialogue sequences, including shipping, sister identity, dinner calendar, web escape, Prime saving throw, Vukradin cone and final reaction. No deterministic Stage 1/2 quote verification: those artifacts absent."
+    },
+    "resolution": {
+      "status": "Stage 0 review complete; all 10 decisions resolved",
+      "applied": [
+        "s0-01",
+        "s0-02",
+        "s0-03",
+        "s0-04",
+        "s0-07",
+        "s0-09",
+        "s0-10",
+        "s0-06",
+        "s0-08"
+      ],
+      "filtered": [
+        {
+          "finding": 4,
+          "reason": "Dinner tonight explicitly confirmed at 00:46:24–00:46:29; stale prep/state must not overwrite tape."
+        },
+        {
+          "finding": 6,
+          "reason": "Bimbo deliberately retained by GM; recap already identifies it as party nickname. Adding full hidden identity may exceed player knowledge."
+        },
+        {
+          "finding": 7,
+          "reason": "Supposed to repair does not imply newly appointed; transcript explicitly says repair. No contradiction established."
+        },
+        {
+          "finding": 10,
+          "reason": "Recap does not claim Freedom of Movement supplies vision; narrower manual finding corrects force-of-will escape."
+        }
+      ],
+      "gm_rulings": [
+        {
+          "id": "s0-04",
+          "ruling": "Bard deck of cards spell",
+          "resolved": "Spray of Cards; character sheet docs/party/Vukradin.md:210, BMT p50, force damage."
+        },
+        {
+          "id": "s0-05",
+          "ruling": "Species-wide fixation; retain recap",
+          "evidence": "Prep lines 412 and 453 give shared Anomaly Fixation; GM confirms overlay applies."
+        },
+        {
+          "id": "s0-06",
+          "ruling": "Tavern should conform to prep: House of a Thousand Faces."
+        },
+        {
+          "id": "s0-08",
+          "ruling": "Arcan is Rsolk."
+        }
+      ],
+      "unmarked": []
+    },
+    "carry_forward": [
+      {
+        "status": "DONE",
+        "item": "Applied s0-06 and s0-08 throughout gm-assist.md after explicit GM confirmation."
+      },
+      {
+        "status": "OPEN",
+        "item": "Stage 1 NOT RUN: session-summary.md absent."
+      },
+      {
+        "status": "OPEN",
+        "item": "Stage 2 NOT RUN: scene_extractions_new absent."
+      },
+      {
+        "status": "OPEN",
+        "item": "Stage 3 NOT RUN: narration absent."
+      },
+      {
+        "status": "NOTE",
+        "item": "Cleaned VTT contains prior glossary collateral damage: status quo became Kostadis quo and action surge became action Stirge. Preserve raw Zoom for adjudication; fixes outside present recap review remain to address."
+      },
+      {
+        "status": "OPEN",
+        "item": "GM approved Doom Sphere for recap; source VTT retains Doomtide. Apply session-specific ruling at future pipeline boundaries; no global transcript rewrite authorized."
+      }
+    ],
+    "propagation": "Swept gm-assist and current grounding documents. Approved bad forms removed from recap; species fixation retained. Downstream artifacts absent. Grounding already names Spray of Cards and Doom Sphere."
+  }
+}
