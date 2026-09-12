@@ -1,0 +1,38 @@
+{
+  "title": "Chapter 52 — Stage 1 consistency",
+  "reviewId": "staged-consistency:20260908:stage-1",
+  "outputName": "staged_consistency_stage_1_decisions.json",
+  "eyebrow": "Phandalin / 20260908 / enhanced summary",
+  "lede": "Four rulings after transcript adjudication of 15 model findings and an attribution spot-check. No edits applied. Recap removal waits for this gate.",
+  "footer": "Applied without asking: 0 corrections. Quotes: 15 verified, 1 near, 0 unverified; this does not validate attribution. Stage 2 and Stage 3 NOT RUN: artifacts absent.",
+  "items": [
+    {
+      "id": "s1-01",
+      "t": "Moderate — Credit the Harper, not Valphine, with the anti-control principle.",
+      "y": "In session-summary.md:9, describe Valphine saying people must understand power, then the bartender answering that power should be used only against equally powerful opponents, not for control. Preserve Valphine’s declaration against evildoers. Propagate that attribution to gm-assist.md:8 and :64; the enhanced scene bullet at :155 already credits the bartender.",
+      "n": "Leave the summary and recap unchanged, retaining their contradiction with the detailed scene and speaker-labelled transcript.",
+      "ev": "session-summary.md:9 says “Valphine answered with a philosophy of using power against the powerful rather than for control.” Zoom GMT20260909-040128_Recording.transcript.vtt:1697–1717 (00:28:11–00:28:39) separates Gary’s general statement from Kostadis’s principle and explicitly adds “Says the Harper, back to you.”"
+    },
+    {
+      "id": "s1-02",
+      "t": "Moderate — Label the one-egg insult as a GM joke voiced for the spider, not Vukradin’s dialogue.",
+      "y": "In session-summary.md:116–119, preserve “Your mother only laid one egg.” but change its attribution to “GM, joking in the Rift Weaver Prime’s voice.” Replace the explanation with “The GM supplies an insult in spider parlance as the Prime attacks Vukradin.” Do not invent speech for Vukradin or alter either VTT.",
+      "n": "Leave the quote credited to Vukradin, despite the recorded speaker and “it says” framing.",
+      "ev": "Quote verifier calls this near (0.97): the source includes “it says.” Zoom transcript:5917–5925, 01:32:49–01:32:58, records Kostadis saying the joke, “It says,” and “In spider parlance.” David then responds to the critical attack with his reroll reaction. Neither tape credits this insult to David."
+    },
+    {
+      "id": "s1-03",
+      "t": "Moderate — Preserve the GM-approved Cambians identity and allied relationship.",
+      "y": "Replace “the cambion Margasters” with “the Cambians allied with House Margaster” in session-summary.md:17 and :205. This prevents implying the Margaster family members themselves are cambions. Leave verbatim transcripts unchanged.",
+      "n": "Retain the tape-derived “cambion Margasters” wording in the enhanced summary; record its divergence from the explicit GM ruling.",
+      "ev": "notes/vtt_known_additions.md:145 records “Cambians — House Margaster’s allied fiends; GM confirmed the transcript’s spelling.” The GM’s review note says House Margaster is allied with Cambians. Counter-evidence: cleaned VTT:2155 does say “You don’t know about the cambion Margasters”; this is why the proposed correction is a ruling, not automatic normalization."
+    },
+    {
+      "id": "s1-04",
+      "t": "Minor — Remove the unsupported claim that upstairs is used for private meetings.",
+      "y": "Delete “, and an upstairs area used for private meetings” from the House of a Thousand Faces descriptions in session-summary.md:387 and gm-assist.md:135, adjusting the list punctuation. Keep the representative’s descent from upstairs in the account. Do not add a basement scene that was not played.",
+      "n": "Leave the upstairs-meeting-space claim in both documents, despite the lack of supporting dialogue.",
+      "ev": "Both affected descriptions assert the upstairs function. Zoom transcript:1777 establishes only that the representative comes from upstairs; :2033 describes the party’s private meeting without placing it upstairs. docs/entity_registry.yaml:1488 identifies the basement as the secret chapter meeting place. Upstairs use is not disproved, but it was inferred rather than established."
+    }
+  ]
+}

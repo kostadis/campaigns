@@ -10,13 +10,13 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 
 | Wrong | Right |
 |---|---|
-| Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukradin, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden, Vucrodan, Vukriddin, Vukroden, Vukra Dinh, Vucra, Craden, Rukraden, Vucruden, Vukridan, Vukrod, Vukrudin, Ryan, Vakujin, Bob Vukrin, But Rucrative, Merton, Vucherdin, Vucrajin, Vucherjin, McCraden, Vukerton, Bukridin, Vugrid, Vucardin, Bukratin, Vokodoen, Lucradine, Vikron, Vucirdan, Vucradin, Vucridin, Vucardina, Vucarin, Vuckardin, Vucardid, Vukadin, Vukran, Vucrad, Vucraden, Vukradine, Vukarden, Vucaran, Kroden, Vucarad, Vucarydyn, Vuckratum, Vucrdan, Vercideen, Prodin, Vook Reading, Vucaron, Vucrdin, Kroten, Bucherding, Bucret, Bukerdin, Lucardin, Lukerdin, Lukritan, Rukerton, Vucarydin, Vuchert, Buchradin, Rickroden, Vickers, Vucrative, Vucraut, Vukara, Vukrada, Vukraddin, Vukradein, Vukretin, Vukrid, Avukriddin, Bookerdin, Buchert, Bucherton, Bukroutine, Do Crawdin, Rukund, Vickerton, Vrukerdin, Vukrotin, Vukurten, Wukrin, Bucherdin, Bukriddin, Rukordin, Vooker, Vucerdin, Vugranian, Vuk Rutin, Vukraderne, Vukrilin, Vukridine, Fukrid, Rukridan, Rukriddin, Vu Kradin, Rakuten, Lucrotten, Booker, Vukruddin, Booker Dean, Bukhruddin, Bukrudan, Vucradit, Bukrudin, Mukridan, Rukerdin, Rut Radin, Vucraidin, Vukkridan, Wuchrdin, Rudin, Rukutin, Vukardin, Brukerdin, Brewerdin, Rucrative, Bucraut, Caradine, Varoujan, Vukredin, Vucurdean, Brucriddian, Rooker, Damage Recruiting, Rukrotin, Vocron, Vucraddin, Vakraden, Kraden, Vukar, Vukrad, Vukrotend | **Vukradin** |
+| Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukradin, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden, Vucrodan, Vukriddin, Vukroden, Vukra Dinh, Vucra, Craden, Rukraden, Vucruden, Vukridan, Vukrod, Vukrudin, Ryan, Vakujin, Bob Vukrin, But Rucrative, Merton, Vucherdin, Vucrajin, Vucherjin, McCraden, Vukerton, Bukridin, Vugrid, Vucardin, Bukratin, Vokodoen, Lucradine, Vikron, Vucirdan, Vucradin, Vucridin, Vucardina, Vucarin, Vuckardin, Vucardid, Vukadin, Vukran, Vucrad, Vucraden, Vukradine, Vukarden, Vucaran, Kroden, Vucarad, Vucarydyn, Vuckratum, Vucrdan, Vercideen, Prodin, Vook Reading, Vucaron, Vucrdin, Kroten, Bucherding, Bucret, Bukerdin, Lucardin, Lukerdin, Lukritan, Rukerton, Vucarydin, Vuchert, Buchradin, Rickroden, Vickers, Vucrative, Vucraut, Vukara, Vukrada, Vukraddin, Vukradein, Vukretin, Vukrid, Avukriddin, Bookerdin, Buchert, Bucherton, Bukroutine, Do Crawdin, Rukund, Vickerton, Vrukerdin, Vukrotin, Vukurten, Wukrin, Bucherdin, Bukriddin, Rukordin, Vooker, Vucerdin, Vugranian, Vuk Rutin, Vukraderne, Vukrilin, Vukridine, Fukrid, Rukridan, Rukriddin, Vu Kradin, Rakuten, Lucrotten, Booker, Vukruddin, Booker Dean, Bukhruddin, Bukrudan, Vucradit, Bukrudin, Mukridan, Rukerdin, Rut Radin, Vucraidin, Vukkridan, Wuchrdin, Rudin, Rukutin, Vukardin, Brukerdin, Brewerdin, Rucrative, Bucraut, Caradine, Varoujan, Vukredin, Vucurdean, Brucriddian, Rooker, Damage Recruiting, Rukrotin, Vocron, Vucraddin, Vakraden, Kraden, Vukar, Vukrad, Vukrotend, Picard | **Vukradin** |
 | Sona, Big Elk, Soma Elk, Zoma Elk, Silma Bear, Silma Spider, Lee, Sana, Somas, Sama, Selma, Sema, Somna, Summa, So Malk, Salma, Sovo, Sova, Masuma, Soba, Sobob, Omai, Thelma, Thoma | **Soma** |
 | Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina, Velfina, Velphine, Alfuna, Delphina, Pelfina, Valfinay, Valfino, Valfining, Balfina, Valfinha, Valfinis, Belafina, Valfin, Valhine, Valthini, Valveine, Valfinia, Balfine, Galfina, Valfinum, Valhima, Athena, Belfinay, Ralfini, Malfine, Valfini, Valfein, Delphine, Zalthine, Alfine, Alfinie, Belfine, Belphine, Melfine, Valfeen, Valfiene, Valfinae, Velfine, Zelphina, Valtheir, Zalthir, Belfines, Philipine, Thalne, Valfeena, Valfeenay, Balthina, Balphine, Belfin, Valfide, Valfinah, Valfeinia, Vivalfini, Valfey, Valfenna, Malfein, Dalthina, Delfine, Ralphine, Valfeini, Valfene, Valfinne, Finne, Alfino, Balthine, Delfino, Elphina, Finney, Valfiane, Valfield, Valfienne, Valtina, Valvine, Velfini, Velphina, Falfina, Galfinay, Melfina, Valfinays, Valfinh, Valpine, Valpinia, Velo, Balafide, Balfinay, Belthina, Milfina, Valfinier, Valthina, Valvina, Alfinio, Valcida, Valcine, Velphia, Valefar, Malphine, Alfie, Alfinae, Alphinae, Dalfean, Pina, Valfean, Falpina, Velcine, Volcine, Vaspina, Valfeet, Felfie, Valfinu, Valfyn, Felkur, Valfi, Valphina, Elfien, Valsminae, Volfina, Balfini, Val Fide | **Valphine** |
 | Brewberry, Frewbury, Blueberry, Brewery, Breweri, Brubberry, Burberry, Burbury, Burger, Blueberry Europe, Brewberry Stroop, Bright Blueberry, Brubbery, Crewberry, Ruby, Brew Perry, Prueberry, Gruberry, Rubberry, Rubbery, Brubber, Brewbary, Bruberry, Brubury, Gryberry, Rueberry, Brubari, Brubery, Proberry, Rubery, Brugar, Barberry, Brewbrewry, Furberry, Rubber, Rubry, Brubberg, Burgerberry, Crewbury, Groupberry, Newberry, Rubari, Rubarai, Bernberry, Rieber, Vubert, Rueberg, Bray, Brubaria, Bourbury, Brube, Roomberg, Brewbeary, Rubir, Brubit, Rubary | **Brewbarry** |
 | Bukradinhos, Vukravenius | **Vukradinious** |
 | An Asimer, Asimar, Asimer | **Aasimar** |
-| Satora | **Sotorra** |
+| Satora, Sartori | **Sotorra** |
 
 ## NPCs and creatures
 
@@ -54,7 +54,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | The Centauri | **Centauri** |
 | Dorthok, Garthuk, Gorthak, Gorthock, Gorthox, Gorthuk, Korthak, Vorthok, Gorth | **Gorthok** |
 | Cryovane, Krabein, cryo and Vein, Cryo Vein | **Cryovain** |
-| Loth | **Lolth** |
+| Loth, Walt | **Lolth** |
 | Torque, Ork, Orban | **Orc** |
 | Vorgalong memory, Vorgalong, Orga | **Vorga Long-Memory** |
 | Dernhardt | **Tovrak** |
@@ -103,7 +103,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Aldous, Aldis | **Aldus** |
 | Morning Ford | **Morninglord** |
 | Gnercli | **Gnerkli** |
-| Rsalk | **Rsolk** |
+| Rsalk, Arcan | **Rsolk** |
 | Sylvine | **Syleen** |
 | Alliganders | **Alagondars** |
 | Paranalegander, pair an Alagondar | **Perrin Alagondar** |
@@ -166,9 +166,9 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Lothian | **Lolthian** |
 | Overbriders | **Overbrighters** |
 | Overbrite | **Overbright** |
-| Zhintarin, Zintarim, Zhintarim, Zendarim | **Zhentarim** |
+| Zhintarin, Zintarim, Zhintarim, Zendarim, Zentarim, Zentari | **Zhentarim** |
 | Magaster, Marcaster, Mergaster, Maragaster, Mercaster, Mark Haster, Millin Lane, Smargaster, Helspergaster, Mark Castor, Smart Caster, Mark Astor, Morgastian | **Margaster** |
-| Housemarghaster, Hasma Gaster, Hausmergaster, Haasmark, Haasmarkaster, Smuggaster, SmartGaster, Smagaster, Housemargaster, Housemarcaster, House Smergaster, Hasmicaster, Hausma Gaster, House Bargaster, House Marghastor, House Muccaster, Housemar Gaster, Housemart Gaster, How Smart Gaster, House Mach Astro, House Mucky, Hausmer Gaster, Horace McCaster, Houseman Gaster, Housemont Gaster, Mas Magastor, Smock Master, House Market, Housemergaster, House Macaster, House Mayor Gaster, House of McCaster | **House Margaster** |
+| Housemarghaster, Hasma Gaster, Hausmergaster, Haasmark, Haasmarkaster, Smuggaster, SmartGaster, Smagaster, Housemargaster, Housemarcaster, House Smergaster, Hasmicaster, Hausma Gaster, House Bargaster, House Marghastor, House Muccaster, Housemar Gaster, Housemart Gaster, How Smart Gaster, House Mach Astro, House Mucky, Hausmer Gaster, Horace McCaster, Houseman Gaster, Housemont Gaster, Mas Magastor, Smock Master, House Market, Housemergaster, House Macaster, House Mayor Gaster, House of McCaster, Mel Gatmer Gaster | **House Margaster** |
 | Neverwork Commission,Never Work Commission,Neverwinner Commission,The Neverwork Commission | **Neverwinter Commission** |
 | Assassin Guild, Athens Guild | **Assassin's Guild** |
 | Syrian Pain | **Searing Pain** |
@@ -224,7 +224,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Beiroon | **Faerun** |
 
 ## Real-world / table
-| Costatus, Castadis, And Cassadis, Cassadis, Christatis, Castados, Costas, Kostas, Cassadas, Status, Kostad | **Kostadis** |
+| Costatus, Castadis, And Cassadis, Cassadis, Christatis, Castados, Costas, Kostas, Cassadas, Status, Kostad, Kassatas | **Kostadis** |
 | Todd Billing | **Top Billing** |
 | We Cumberry News | **we come bearing news** |
 | Yusoma | **you, Soma** |
@@ -467,7 +467,7 @@ Laid Bare** in `## Locations`; and `Pimbo` onto the **Bimbo** row above.
 
 | Wrong | Right |
 |---|---|
-| Trow, Drowl | **Drow** |
+| Trow, Drowl, Drowser | **Drow** |
 
 - `Trow` -> **Drow** is Soma echoing the GM's *"Lord Neverember has taken a drow advisor"*
   (cleaned VTT 4593); the second transcription reads *"Drow."* at the same cue (txt 1452).

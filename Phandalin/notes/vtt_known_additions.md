@@ -139,3 +139,14 @@ Confirmed real by the GM in the batch review artifact "Chapter 51 Name Rulings".
 - 2026-09-05 | **Commission Harbor** — Neverwinter dock authority whose mark the smuggled crates lack. Named 6x in prep.
 - 2026-09-05 | **Uncle Tom** — GM-approved as a name this session; the tape's "Michael Tom" (cue 1066) maps to it.
 - 2026-09-05 | **Lord Neverflaming** / **Lord Never Flaming** — GM: "a Slang term for Lord Neverember that Soma uses." Recorded in the glossary's DO NOT CORRECT section, not as a wrong-form.
+
+## 2026-09-12 — from `summaries/20260908/session_2026_09_08_chapter_52_combat_at_last_transcript.vtt` (ch52)
+
+- **Cambians** — House Margaster's allied fiends; GM confirmed the transcript's spelling rather than Zoom's competing “ambience.” — 2026-09-12
+- **Aletra** — short form of Aletra Sotorra, Valphine's sister; GM confirmed the spelling. — 2026-09-12
+- **Mendenhall** — David Mendenhall, Vukradin's player; GM confirmed the surname. — 2026-09-12
+- **Rift Weaver** — established planar creature, singular form. — 2026-09-12
+- **Rift Weavers** — established planar creatures, plural form; independently present in Zoom. — 2026-09-12
+- **Dead Rats** — Neverwinter wererat gang; independently present in Zoom and *Guide to Neverwinter*. — 2026-09-12
+- **The Manifold** — established shorthand for the Displacement Manifold; independently present in Zoom and the previous session. — 2026-09-12
+- **Universal Basic Treasure** — established campaign policy; independently present in Zoom. — 2026-09-12

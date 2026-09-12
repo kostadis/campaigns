@@ -1,0 +1,79 @@
+{
+  "title": "Chapter 52 — Stage 0 consistency rulings",
+  "reviewId": "staged-consistency:20260908:stage-0",
+  "outputName": "staged_consistency_stage_0_decisions.json",
+  "lede": "10 rulings after transcript adjudication. Gary ran both Valphine and Brewbarry. The audit found 11 issues; three additional findings came from manual review.",
+  "footer": "No recap edits applied. Stages 1, 2 and 3 NOT RUN: artifacts absent. Bimbo remains the approved table nickname; dinner tonight is supported by the transcript.",
+  "items": [
+    {
+      "id": "s0-01",
+      "t": "Moderate: Narrow Margaster’s control to harbor distribution",
+      "y": "Replace broad shipping-monopoly claims with control of distribution out of Neverwinter’s harbor. Apply to gm-assist.md only, then inspect related artifacts for propagation.",
+      "n": "Leave gm-assist.md unchanged on this point and record the finding as deferred.",
+      "ev": "gm-assist.md:8; notes/neverwinter/the_commission.md. The transcript uses broad conversational language, while the standing doctrine leaves overland trade available."
+    },
+    {
+      "id": "s0-02",
+      "t": "Moderate: Describe Brewbarry escaping the web through Freedom of Movement",
+      "y": "Replace 'shake it off through sheer force of will' with escape enabled by Valphine’s Freedom of Movement; retain the separate halberd-reach account. Apply to gm-assist.md only, then inspect related artifacts for propagation.",
+      "n": "Leave gm-assist.md unchanged on this point and record the finding as deferred.",
+      "ev": "gm-assist.md:18; cleaned VTT:4793–4799, 01:24:47–01:25:03. The GM accepts the spell as the escape mechanism."
+    },
+    {
+      "id": "s0-03",
+      "t": "Moderate: Restore Vukradin’s reaction and forced reroll",
+      "y": "Replace quick-reflex deflection in Summary and Ambush bullets with a reaction forcing the critical hit to be rerolled into a miss. Do not invent a spell name. Apply to gm-assist.md only, then inspect related artifacts for propagation.",
+      "n": "Leave gm-assist.md unchanged on this point and record the finding as deferred.",
+      "ev": "gm-assist.md:20; Zoom VTT:5917–5953, 01:32:58–01:33:11: critical, reaction, reroll, 13, miss."
+    },
+    {
+      "id": "s0-04",
+      "t": "Moderate: Leave Vukradin’s cone damage type unspecified",
+      "y": "Replace 'radiant energy' with a cone-shaped attack and remove unsupported burning imagery in Summary and Ambush bullets; preserve one spider killed and another damaged. Apply to gm-assist.md only, then inspect related artifacts for propagation.",
+      "n": "Leave gm-assist.md unchanged on this point and record the finding as deferred.",
+      "ev": "gm-assist.md:20; Zoom VTT:5633–5685, 01:28:37–01:29:26 gives a cone, Dexterity save and 24 damage but no damage type. GM ruling needed if radiant was intended."
+    },
+    {
+      "id": "s0-05",
+      "t": "Moderate: Limit fixation on Vukradin to the observed Prime",
+      "y": "Replace the species-wide fixation claim in the Rift Weavers NPC entry with the Prime’s observed pursuit of Vukradin. Apply to gm-assist.md only, then inspect related artifacts for propagation.",
+      "n": "Leave gm-assist.md unchanged on this point and record the finding as deferred.",
+      "ev": "gm-assist.md NPCs/Rift Weavers; cleaned VTT:3572 only says creatures are interested in particular things. Prep marks broader fixation as an overlay."
+    },
+    {
+      "id": "s0-06",
+      "t": "Minor: Use House of a Thousand Faces as the location name",
+      "y": "Replace every 'Tavern of the Thousand Faces' in gm-assist.md with 'House of a Thousand Faces'. Apply to gm-assist.md only, then inspect related artifacts for propagation.",
+      "n": "Leave gm-assist.md unchanged on this point and record the finding as deferred.",
+      "ev": "gm-assist.md:6 and location/scene headings; docs/entity_registry.yaml and selected prep name House of a Thousand Faces."
+    },
+    {
+      "id": "s0-07",
+      "t": "Minor: Correct Sartora to Sotorra",
+      "y": "Replace every Sartora in gm-assist.md with Sotorra. Apply to gm-assist.md only, then inspect related artifacts for propagation.",
+      "n": "Leave gm-assist.md unchanged on this point and record the finding as deferred.",
+      "ev": "gm-assist.md:12 and repeated scene/quote glosses; entity registry and the reviewed cleaned VTT:2260,2302 identify Valphine’s house as Sotorra."
+    },
+    {
+      "id": "s0-08",
+      "t": "Minor: Correct Arcan to Rsolk",
+      "y": "Replace every Arcan in gm-assist.md with Rsolk. Apply to gm-assist.md only, then inspect related artifacts for propagation.",
+      "n": "Leave gm-assist.md unchanged on this point and record the finding as deferred.",
+      "ev": "gm-assist.md:16 and NPC/scene entries; user-approved spell-pass mapping and cleaned VTT:2782."
+    },
+    {
+      "id": "s0-09",
+      "t": "Minor: Rename Doomtide to Doom Sphere — GM ruling needed",
+      "y": "Replace Doomtide throughout gm-assist.md with Doom Sphere only if you confirm the spell was the older signature spell. Reject retains Doomtide; Discuss can identify a distinct/new spell. Apply to gm-assist.md only, then inspect related artifacts for propagation.",
+      "n": "Leave gm-assist.md unchanged on this point and record the finding as deferred.",
+      "ev": "gm-assist.md Spells/Doomtide; party reference uses Doom Sphere, but cleaned VTT:4049–4052 explicitly says Doomtide. Current table terminology may supersede older docs."
+    },
+    {
+      "id": "s0-10",
+      "t": "Minor: Make the Prime’s successful save and half damage explicit",
+      "y": "Replace 'partially resist' / 'legendary resilience' with use of Legendary Resistance to succeed on the save while still taking half psychic damage. Apply to gm-assist.md only, then inspect related artifacts for propagation.",
+      "n": "Leave gm-assist.md unchanged on this point and record the finding as deferred.",
+      "ev": "gm-assist.md Ambush and Doomtide entries; cleaned VTT:4172–4184 explicitly records successful save and 11 psychic damage versus 22 full damage."
+    }
+  ]
+}
