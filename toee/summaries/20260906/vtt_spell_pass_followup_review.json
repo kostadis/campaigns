@@ -1,0 +1,463 @@
+{
+  "session_dir": "/home/kostadis/toee/toee/summaries/20260906",
+  "target_vtt": "/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt",
+  "source_vtt": "/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.vtt",
+  "summary": {
+    "previously_unmarked": 11,
+    "pending_context_rulings": 2,
+    "additional_candidates": 2,
+    "source_sha256": "0c76085a8ad99594cd1939e4ef3141ea69154e62b88b3b3ea8e1ffa433e16d95",
+    "cleaned_sha256_before_followup": "b4ec52d98935513766106694576783d787b72d7ad309eebaef1ff5002c32daef"
+  },
+  "items": [
+    {
+      "id": "keddah__ketta",
+      "token": "Keddah",
+      "canonical": "Ketta",
+      "section": "npcs",
+      "count": 1,
+      "context": "GMT20260906-150142_Recording.transcript.vtt:1661 | 00:51:06.880 --> 00:51:11.910\nThomas Kolivakis: It is.\nKostadis Roussos: Okay.\nKostadis Roussos: Let me see…\nKostadis Roussos: Okay, so, Taleb looks at Keddah.\nKostadis Roussos: And says, What do you mean there's a dangerous game?\nKostadis Roussos: They're playing a dangerous game, and what are you saying this is from Zephyr? Zephyr's dead!",
+      "reason": [
+        "metaphone"
+      ],
+      "confidence": "medium",
+      "sibling_verdict": "unavailable",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null,
+      "edit_mode": "glossary",
+      "evidence_note": " No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.",
+      "source_lines": [
+        1661
+      ],
+      "occurrences": [
+        {
+          "line": 1661,
+          "start": 43,
+          "end": 49,
+          "text": "Keddah"
+        }
+      ]
+    },
+    {
+      "id": "solentis__selentis",
+      "token": "Solentis",
+      "canonical": "Selentis",
+      "section": "npcs",
+      "count": 2,
+      "context": "GMT20260906-150142_Recording.transcript.vtt:2521 | 01:07:32.340 --> 01:07:34.860\nThomas Kolivakis: Alright, well…\nKostadis Roussos: So I just… those are the things that you learn from the notes.\nThomas Kolivakis: So, we will have that… Shipment…\nThomas Kolivakis: We should still go meet Solentis.\nKostadis Roussos: You're gonna still go meet Cilentis?\nThomas Kolivakis: Yes, wherever she is.\n\nGMT20260906-150142_Recording.transcript.vtt:2585 | 01:08:46.140 --> 01:08:48.819\nKostadis Roussos: It's, like, kind of the afternoon, so it's approaching dusk when the Eric's caravan's gonna be taken.\nThomas Kolivakis: Oh, so, the caravan is today?\nKostadis Roussos: Yeah, yeah, the caravan's today, it's later this evening.\nThomas Kolivakis: Can we meet, Solentis before that?\nKostadis Roussos: You're gonna try to meet her before that? Well, the only danger is if you meet her before that, you might not be able to make it in time for Eric, so that's a choice you have to make.\nThomas Kolivakis: Let's go meet Santos. Do this fast.",
+      "reason": [
+        "edit_distance,edit_distance,edit_distance,edit_distance,edit_distance,edit_distance,edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling_verdict": "unavailable",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null,
+      "edit_mode": "glossary",
+      "evidence_note": " No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.",
+      "source_lines": [
+        2521,
+        2585
+      ],
+      "occurrences": [
+        {
+          "line": 2521,
+          "start": 42,
+          "end": 50,
+          "text": "Solentis"
+        },
+        {
+          "line": 2585,
+          "start": 31,
+          "end": 39,
+          "text": "Solentis"
+        }
+      ]
+    },
+    {
+      "id": "stellantis__selentis",
+      "token": "Stellantis",
+      "canonical": "Selentis",
+      "section": "npcs",
+      "count": 2,
+      "context": "GMT20260906-150142_Recording.transcript.vtt:2685 | 01:10:14.100 --> 01:10:18.549\nThomas Kolivakis: Wow.\nThomas Kolivakis: You just know.\nKostadis Roussos: So, it's up to you guys.\nThomas Kolivakis: Well, if it's Stellantis' plan, I would like to know about the caravan.\nKostadis Roussos: So, you're gonna.\nThomas Kolivakis: So we'll hide in the bushes around it.\n\nGMT20260906-150142_Recording.transcript.vtt:2809 | 01:12:40.290 --> 01:12:44.399\nKostadis Roussos: Yeah, she's there… no, she's there at the… she's there at the mayor's house. We've arrived at the mayor's house. She's talking to Sirina right now at the mayor's house.\nThomas Kolivakis: Fuck.\nKostadis Roussos: You guys are inside it, you're overhearing the conversation.\nThomas Kolivakis: Yeah, let's not spy on Stellantis if you want to do business with her.\nKostadis Roussos: Okay, so you want to step outside?\nThomas Kolivakis: Yes.",
+      "reason": [
+        "edit_distance,edit_distance,edit_distance,edit_distance,edit_distance,edit_distance,edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling_verdict": "unavailable",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null,
+      "edit_mode": "glossary",
+      "evidence_note": " No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.",
+      "source_lines": [
+        2685,
+        2809
+      ],
+      "occurrences": [
+        {
+          "line": 2685,
+          "start": 32,
+          "end": 42,
+          "text": "Stellantis"
+        },
+        {
+          "line": 2809,
+          "start": 41,
+          "end": 51,
+          "text": "Stellantis"
+        }
+      ]
+    },
+    {
+      "id": "celinda__selentis",
+      "token": "Celinda",
+      "canonical": "Selentis",
+      "section": "npcs",
+      "count": 1,
+      "context": "GMT20260906-150142_Recording.transcript.vtt:1365 | 00:43:51.610 --> 00:43:53.620\nKostadis Roussos: Yes, or Celenta, or you can try to negotiate with her.\nKostadis Roussos: Right, so just keep that in mind. The other thing to remember is that, you know, you actually don't know all the routes that the temple takes, and, you know, this might be an opportunity to learn more.\nThomas Kolivakis: Sure. Should we… should we go meet Madame Santes?\nKostadis Roussos: Do you want to meet Tulip or Celinda's first?\nThomas Kolivakis: Let's go to the…\nThomas Kolivakis: Boatsman Tavern to find Taleb.",
+      "reason": [
+        "context_and_local_notes"
+      ],
+      "confidence": "medium",
+      "sibling_verdict": "unavailable",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null,
+      "edit_mode": "glossary",
+      "evidence_note": "Additional source inspection caught a token missed by the scanner. No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.",
+      "source_lines": [
+        1365
+      ],
+      "occurrences": [
+        {
+          "line": 1365,
+          "start": 47,
+          "end": 54,
+          "text": "Celinda"
+        }
+      ]
+    },
+    {
+      "id": "shenzhak__senshock",
+      "token": "Shenzhak",
+      "canonical": "Senshock",
+      "section": "npcs",
+      "count": 1,
+      "context": "GMT20260906-150142_Recording.transcript.vtt:3229 | 01:20:59.260 --> 01:21:07.839\nKostadis Roussos: Remember the scarab? So Comer's been carrying this scarab that says TZGY.\nKostadis Roussos: You guys found it… you guys found it eons ago.\nThomas Kolivakis: Okay, let's right over.\nKostadis Roussos: Yeah, and so this… and you had all forgotten about it until Valorant had pointed out that Barkinar, Shenzhak, and Hedrach would find it very interesting.\nThomas Kolivakis: Rakutenur, and Hydra, okay.\nKostadis Roussos: that the temple leadership would find it very interesting, and he recommended you don't make it very visible to anyone. So, trying to find out information about it might be something… you might want to try to see if you can find out some information about it in Nulb.",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling_verdict": "unavailable",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null,
+      "edit_mode": "glossary",
+      "evidence_note": " No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.",
+      "source_lines": [
+        3229
+      ],
+      "occurrences": [
+        {
+          "line": 3229,
+          "start": 118,
+          "end": 126,
+          "text": "Shenzhak"
+        }
+      ]
+    },
+    {
+      "id": "talev__tolub",
+      "token": "Talev",
+      "canonical": "Tolub",
+      "section": "npcs",
+      "count": 1,
+      "context": "GMT20260906-150142_Recording.transcript.vtt:593 | 00:23:54.960 --> 00:24:06.560\nKostadis Roussos: Right? Remember, you guys.\nThomas Kolivakis: Wow.\nKostadis Roussos: You guys… so, clearly, Taleb…\nKostadis Roussos: Right? Then Tau knows you're alive, right? Because remember, you can't… you came here, you came back, you got in his face, you stole Dren, so clearly this is something about Talev acting, you know, tough.\nKostadis Roussos: I killed them.\nThomas Kolivakis: He's… he said he killed us?",
+      "reason": [
+        "cross-unknown"
+      ],
+      "confidence": "medium",
+      "sibling_verdict": "unavailable",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null,
+      "edit_mode": "glossary",
+      "evidence_note": " No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.",
+      "source_lines": [
+        593
+      ],
+      "occurrences": [
+        {
+          "line": 593,
+          "start": 192,
+          "end": 197,
+          "text": "Talev"
+        }
+      ]
+    },
+    {
+      "id": "barak_solet__varek_solain",
+      "token": "Barak Solet",
+      "canonical": "Varek Solain",
+      "section": "npcs",
+      "count": 1,
+      "context": "GMT20260906-150142_Recording.transcript.vtt:149 | 00:07:08.570 --> 00:07:22.899\nKostadis Roussos: No one had a suitable fire spell. Calmer admitted this was a mistake, and laughed when Zephyr asked about Meteor Storm. So Zephyr and Sequoia headed to the Fire Temper, while Xenia stayed behind to keep an eye on Colmer.\nKostadis Roussos: Taking an unexpected dark corridor on the way, they emerged into familiar territory. Offered the choice of approaching Burakol directly, they went instead to the captain of the card.\nKostadis Roussos: Captain Barric Solain.\nKostadis Roussos: Barak Solet, no longer defeated in demeanor, offered them and confirmed that the Rufi's room was where the Fire Temple habitually dumped its garbage. When told that a necromancer was quietly taking control of skeletons, he finally connected the threat to an old political grievance.\nKostadis Roussos: The necromancer had served under Barkinar and disappeared after Romag removed the promotion he believed should have been his.\nKostadis Roussos: Barak did not know where the necromancer was hiding, or even whether he remained inside the temple, but insisted that if undead were appearing, he's around. Varic had warned Aralim about the danger, but Alarim had ignored him, instead of finding the necromancer and making an alliance.",
+      "reason": [
+        "context_and_local_notes"
+      ],
+      "confidence": "medium",
+      "sibling_verdict": "unavailable",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null,
+      "edit_mode": "targeted",
+      "evidence_note": "Additional source inspection caught a token missed by the scanner. No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.",
+      "source_lines": [
+        149
+      ],
+      "occurrences": [
+        {
+          "line": 149,
+          "start": 18,
+          "end": 29,
+          "text": "Barak Solet"
+        }
+      ]
+    },
+    {
+      "id": "clay__unresolved",
+      "token": "Clay",
+      "canonical": null,
+      "section": "npcs",
+      "count": 1,
+      "context": "GMT20260906-150142_Recording.transcript.vtt:209 | 00:10:21.090 --> 00:10:39.310\nKostadis Roussos: Probably from carrying off the remaining foodstuffs. The temple's food supplies were plainly running low, and nobody was currently managing them. Beyond that lay an oddly shaped chamber packed with jars, boxes, barrels, crates, chests, sacks, casks, bales, bags, and hampers.\nKostadis Roussos: Some were broken or empty, but many remained full. Bales had a black cloth and finished garments. Zinnias inside roll of 25. Identified these as supplies.\nKostadis Roussos: And uniforms belonging to the greater temple. The party's Arcana checks failed to reveal anything further. Sequoia nevertheless looked up, explaining, the answer is always on the ceiling. An investigation result of 21 vindicated him.\nKostadis Roussos: Four creatures hung overhead by their tails. Clay's claws paused. I was right, Segui said in belief. I was saying a joke. Oh my god, the creatures were nightmarish, gaunt, ape-like predators with ash gray hides, four long, muscular arms ending in hooked black claws, powerful jaws, filled with uneven fangs.\nKostadis Roussos: Three alert eyes and thick, prehensile tails wrapped around the stonework. Their limbs were unnaturally jointed for climbing, ambushing, and faint violet psychic energy pushed around their skulls.\nKostadis Roussos: Zephter acted first, but missed both pistol shots. Xenia and Sequoia concentrated their attacks on the same creature, while the predators unleashed psychic blasts against the party. Xenia, Zephyr, and Calmer resisted. Sequoia failed the DC-17 Wisdom save, suffered 17 points of damage, and was stunned. Guardians, creating a 15-fort aura that damaged and slowed several attackers.",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling_verdict": "unavailable",
+      "recommended_decision": "discuss",
+      "decision": null,
+      "note": null,
+      "edit_mode": "targeted",
+      "evidence_note": " Unresolved: choose Discuss and specify the intended name or words, Reject to ignore, or Approve only if this exact term is real. No new-canon claim is being made. No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.",
+      "source_lines": [
+        209
+      ],
+      "occurrences": [
+        {
+          "line": 209,
+          "start": 63,
+          "end": 67,
+          "text": "Clay"
+        }
+      ]
+    },
+    {
+      "id": "jessica__unresolved",
+      "token": "Jessica",
+      "canonical": null,
+      "section": "npcs",
+      "count": 1,
+      "context": "GMT20260906-150142_Recording.transcript.vtt:621 | 00:24:42.870 --> 00:24:44.369\nKostadis Roussos: And what you notice is that… and so as you're walking by somebody, somebody looks at you and points, and then somebody… and is about to blurt something out, and somebody hits them.\nKostadis Roussos: Right, and so… What you're gathering is that as s… sec… Xenia Roll and Investigation Check.\nKostadis Roussos: with Advantage.\ngeorge: Jessica, can I do insight?\nKostadis Roussos: Okay, insight.\ngeorge: To anyone?",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling_verdict": "unavailable",
+      "recommended_decision": "discuss",
+      "decision": null,
+      "note": null,
+      "edit_mode": "glossary",
+      "evidence_note": " Unresolved: choose Discuss and specify the intended name or words, Reject to ignore, or Approve only if this exact term is real. No new-canon claim is being made. No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.",
+      "source_lines": [
+        621
+      ],
+      "occurrences": [
+        {
+          "line": 621,
+          "start": 8,
+          "end": 15,
+          "text": "Jessica"
+        }
+      ]
+    },
+    {
+      "id": "jude__unresolved",
+      "token": "Jude",
+      "canonical": null,
+      "section": "npcs",
+      "count": 1,
+      "context": "GMT20260906-150142_Recording.transcript.vtt:3701 | 01:30:11.770 --> 01:30:13.159\ngeorge: Okay.\nKostadis Roussos: Not the whole truth, but not the whole truth.\nKostadis Roussos: Not the whole truth.\ngeorge: Jude, I told him to follow me.\nKostadis Roussos: You want him to keep following you?\ngeorge: Modern…",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling_verdict": "unavailable",
+      "recommended_decision": "discuss",
+      "decision": null,
+      "note": null,
+      "edit_mode": "glossary",
+      "evidence_note": " Unresolved: choose Discuss and specify the intended name or words, Reject to ignore, or Approve only if this exact term is real. No new-canon claim is being made. No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.",
+      "source_lines": [
+        3701
+      ],
+      "occurrences": [
+        {
+          "line": 3701,
+          "start": 8,
+          "end": 12,
+          "text": "Jude"
+        }
+      ]
+    },
+    {
+      "id": "lakers__unresolved",
+      "token": "Lakers",
+      "canonical": null,
+      "section": "npcs",
+      "count": 1,
+      "context": "GMT20260906-150142_Recording.transcript.vtt:3105 | 01:18:13.170 --> 01:18:15.689\nThomas Kolivakis: Yes, yes.\nKostadis Roussos: She looks at you and says, interesting. Finally, she says, do you want… Tolub useful, frightened, or gone?\nThomas Kolivakis: Pub.\nKostadis Roussos: Yes.\nThomas Kolivakis: Gone.\nKostadis Roussos: You want them gone.\nThomas Kolivakis: He… Hmm.\nThomas Kolivakis: Yeah, no, gone. He has no use.\nKostadis Roussos: Is that… everybody's good with that?\nThomas Kolivakis: I don't think there's any tall Lakers here.\nKostadis Roussos: Alright.\nKostadis Roussos: Alright.",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "low",
+      "sibling_verdict": "unavailable",
+      "recommended_decision": "discuss",
+      "decision": null,
+      "note": null,
+      "edit_mode": "glossary",
+      "evidence_note": "Selentis asks whether they want Tolub useful, frightened, or gone. Thomas chooses gone, then says this line. Could be garbled ordinary speech; intended words need a GM ruling. No independent transcript exists.",
+      "source_lines": [
+        3105
+      ],
+      "occurrences": [
+        {
+          "line": 3105,
+          "start": 49,
+          "end": 55,
+          "text": "Lakers"
+        }
+      ]
+    },
+    {
+      "id": "marathon__unresolved",
+      "token": "Marathon",
+      "canonical": null,
+      "section": "npcs",
+      "count": 1,
+      "context": "GMT20260906-150142_Recording.transcript.vtt:3313 | 01:22:42.630 --> 01:22:43.460\nKostadis Roussos: No problem. Alright, morning arrives, and you've decided to go hunt down someone to learn about the scarab.\nKostadis Roussos: One person… one of the oldest people you know is, Varetha, who's the…\nKostadis Roussos: The person, the, the old, the, the, the diviner, maybe she knows something, you could ask her.\nThomas Kolivakis: Marathon.\nKostadis Roussos: Yeah, remember the person who… the diviner in the Rene camp who…\nKostadis Roussos: She's a fortune teller, sorry, fortune teller.",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling_verdict": "unavailable",
+      "recommended_decision": "discuss",
+      "decision": null,
+      "note": null,
+      "edit_mode": "glossary",
+      "evidence_note": "Vethra is introduced as the old diviner. Thomas responds with this token, and the GM recalls the fortune teller in the Rhennee camp. No confident replacement proposed; please provide the intended words or reject to leave unchanged.",
+      "source_lines": [
+        3313
+      ],
+      "occurrences": [
+        {
+          "line": 3313,
+          "start": 18,
+          "end": 26,
+          "text": "Marathon"
+        }
+      ]
+    },
+    {
+      "id": "merit__unresolved",
+      "token": "Merit",
+      "canonical": null,
+      "section": "npcs",
+      "count": 1,
+      "context": "GMT20260906-150142_Recording.transcript.vtt:1325 | 00:42:39.310 --> 00:42:41.740\nKostadis Roussos: Okay.\nKostadis Roussos: So you walk into the… so you're walking into the Boatsman's Tavern?\nKostadis Roussos: Towards the Boatsman Tavern.\nKostadis Roussos: Merit.\nKostadis Roussos: Okay, you walk towards the boatsman's Tavern.\nKostadis Roussos: As you're walking towards the Boastman's Tavern, you do remember one thing, or rather, what's his name? Xenia remembers one thing.",
+      "reason": [
+        "substring,substring"
+      ],
+      "confidence": "low",
+      "sibling_verdict": "unavailable",
+      "recommended_decision": "discuss",
+      "decision": null,
+      "note": null,
+      "edit_mode": "glossary",
+      "evidence_note": " Unresolved: choose Discuss and specify the intended name or words, Reject to ignore, or Approve only if this exact term is real. No new-canon claim is being made. No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.",
+      "source_lines": [
+        1325
+      ],
+      "occurrences": [
+        {
+          "line": 1325,
+          "start": 18,
+          "end": 23,
+          "text": "Merit"
+        }
+      ]
+    },
+    {
+      "id": "rakutenur__barkinar",
+      "token": "Rakutenur",
+      "canonical": "Barkinar",
+      "section": "npcs",
+      "count": 1,
+      "context": "GMT20260906-150142_Recording.transcript.vtt:3233 | 01:21:08.470 --> 01:21:10.170\nKostadis Roussos: Yeah, and so this… and you had all forgotten about it until Valorant had pointed out that Barkinar, Shenzhak, and Hedrach would find it very interesting.\nThomas Kolivakis: Rakutenur, and Hydra, okay.\nKostadis Roussos: that the temple leadership would find it very interesting, and he recommended you don't make it very visible to anyone. So, trying to find out information about it might be something… you might want to try to see if you can find out some information about it in Nulb.",
+      "reason": [
+        "adjacent_cue_context"
+      ],
+      "confidence": "medium",
+      "sibling_verdict": "unavailable",
+      "recommended_decision": "discuss",
+      "decision": null,
+      "note": null,
+      "edit_mode": "targeted",
+      "source_lines": [
+        3233
+      ],
+      "occurrences": [
+        {
+          "line": 3233,
+          "start": 18,
+          "end": 27,
+          "text": "Rakutenur"
+        }
+      ],
+      "evidence_note": "Additional candidate missed by the scanner. Immediately preceding cue names Barkinar, Shenzhak (approved as Senshock), and Hedrach (existing Hedrack correction). Proposed identity is inferred from that context, not confirmed by audio or another transcription. Discuss if a different character or ordinary words were spoken."
+    },
+    {
+      "id": "hydra__hedrack",
+      "token": "Hydra",
+      "canonical": "Hedrack",
+      "section": "npcs",
+      "count": 1,
+      "context": "GMT20260906-150142_Recording.transcript.vtt:3233 | 01:21:08.470 --> 01:21:10.170\nKostadis Roussos: Yeah, and so this… and you had all forgotten about it until Valorant had pointed out that Barkinar, Shenzhak, and Hedrach would find it very interesting.\nThomas Kolivakis: Rakutenur, and Hydra, okay.\nKostadis Roussos: that the temple leadership would find it very interesting, and he recommended you don't make it very visible to anyone. So, trying to find out information about it might be something… you might want to try to see if you can find out some information about it in Nulb.",
+      "reason": [
+        "adjacent_cue_context"
+      ],
+      "confidence": "medium",
+      "sibling_verdict": "unavailable",
+      "recommended_decision": "discuss",
+      "decision": null,
+      "note": null,
+      "edit_mode": "targeted",
+      "source_lines": [
+        3233
+      ],
+      "occurrences": [
+        {
+          "line": 3233,
+          "start": 33,
+          "end": 38,
+          "text": "Hydra"
+        }
+      ],
+      "evidence_note": "Additional candidate missed by the scanner. Immediately preceding cue names Barkinar, Shenzhak (approved as Senshock), and Hedrach (existing Hedrack correction). Proposed identity is inferred from that context, not confirmed by audio or another transcription. Discuss if a different character or ordinary words were spoken."
+    }
+  ]
+}
