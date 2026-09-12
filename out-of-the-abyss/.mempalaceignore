@@ -170,6 +170,16 @@ mempalace.yaml
 *.old
 *.v1
 
+# Source code, excluded 2026-09-11. The rebuild that day put
+# tools/combat_sim.py — a Monte Carlo encounter-balance script — in the top
+# five results for "Gyrgum character sheet hit points armor class", i.e. a
+# simulator outranking canon on a PC-mechanics query. Same principle as the
+# non-prose rules above: the palace exists for semantic search over prose.
+*.py
+*.pyc
+__pycache__/
+tools/
+
 # Experiment scratch. Already in .gitignore, but .mempalaceignore is a
 # separate list and does not inherit from it — the scratch/exp-*/ dirs were
 # being mined the whole time.

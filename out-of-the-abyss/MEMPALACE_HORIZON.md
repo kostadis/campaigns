@@ -11,8 +11,27 @@ explicit.
 - **Last campaign chapter played:** 59 — *The Key is Secured* (helmed horrors ambush Deneir's Sanctum hunting the key Daz carries; Detect Magic proves it a decoy; Bookwyrm murdered, throat torn out by the beast; Kalan Strongbranch confesses the real key was entrusted to Tadric and deputizes the party as Watchers of Candlekeep; Fembris places A'lai Aivenmore in the room; Moziqodo slain in the domed rotunda and Tadric saved; real key secured; party to level 9)
 - **Last bible chapter file:** `docs/chapters/chapter_62_the_key_is_secured.md`
 - **Last session date:** 2026-07-20
-- **Palace last fully (re)built:** 2026-07-27 — full rebuild. Not triggered by the split (that was already current: 62 headings, 62 files, nothing renamed) but by the **entity source of record moving** from `docs/npcs/` to `docs/ensemble/merged_dossiers/`. A source swap always needs a rebuild rather than a re-mine, because mining only ever *adds* drawers — the 6,554 `docs/npcs/` drawers and the ensemble-intermediate drawers had to be evicted by starting from empty.
-- **Embedding device:** openai-compat — `nomic-ai/nomic-embed-text-v1.5` via vLLM @ `http://192.168.1.147:8000` (DGX Spark). Switched from CPU onnxruntime this rebuild — old palace was unusable because the persisted collection's embedding fn (`default`) no longer matched the active mempalace config (`openai-compat`). Full Spark re-mine on 56 + 55 + 188 files completed in minutes.
+- **Palace last fully (re)built:** 2026-09-11 — full reset. Triggered by
+  three things landing together: the Gyrgum spelling pass (#244) rewrote
+  27,891 occurrences across 2,129 files, and #245/#246 fixed ten broken
+  `.mempalaceignore` rules. All three needed a reset rather than a forward
+  mine, because mining only ever *adds* — the old-spelling drawers and the
+  wrongly-admitted PC-sheet and pipeline drawers had to be evicted by
+  starting from empty. Mined 18:51–19:06 (~15 min) across all five wings.
+  **The campaign-chapter fields above were deliberately not bumped:**
+  sessions were played on 20260727, 20260809, 20260817 and 20260824, but
+  `docs/TheUnderdark.md` has not been extended or re-split, so the last
+  bible chapter file is still `chapter_62_…` (`# Chapter 59` internally).
+  Assigning those sessions chapter numbers is a GM call, not an inference.
+- **Embedding device:** openai-compat — `qwen3-embedding:0.6b` (1024-dim,
+  Ollama) @ `http://192.168.1.121:11434`, per
+  `~/.mempalace/config.json`. **This doc previously claimed
+  `nomic-ai/nomic-embed-text-v1.5` via vLLM @ `192.168.1.147:8000`; that is
+  wrong and was wrong before 2026-09-11** — the host answers ping but
+  nothing listens on 8000. Read the endpoint off `config.json`, not off
+  this line, and confirm it responds before a rebuild:
+  `curl -s http://192.168.1.121:11434/api/tags`. The LLM endpoint
+  (`qwen3.8-flash-next` @ `192.168.1.147:8001`) is separate and was live.
 
 > The campaign chapter number (59) and the bible chapter file number
 > (62) are different, and **the gap between them is not constant.**
@@ -40,20 +59,31 @@ explicit.
 | Wing | Source dir | Files (`.md`) | Drawers |
 |------|-----------|-------|---------|
 | `chronicle` | `docs/distill/distill_extractions/` | 65 | 3212 |
-| `narrative` | `docs/chapters/` | 62 | 1814 |
-| `abyss` | root campaign reference | 509 | 3265 |
-| `notes` | `notes/` | 47 | 1321 |
-| `summaries` | `summaries/` | 520 | 8357 |
-| **Total** | | **1203** | **17969** |
+| `narrative` | `docs/chapters/` | 62 | 1812 |
+| `abyss` | root campaign reference | 516 | 2631 |
+| `notes` | `notes/` | 64 | 1903 |
+| `summaries` | `summaries/` | 567 | 11188 |
+| **Total** | | **1274** | **20746** |
+
+Movement against the 2026-07-27 baseline (17969 total), so a future
+regression check is read against explained numbers rather than raw drift:
+
+| Wing | Then | Now | Why |
+|---|---|---|---|
+| `chronicle` | 3212 | 3212 | exact match — strongest evidence the mine was clean |
+| `narrative` | 1814 | 1812 | −2 on 62 unchanged files; chunker drift, not content loss |
+| `abyss` | 3265 | 2631 | −634. The 12 PC files now excluded (4 root sheets + 8 `docs/party/`) were dense stat tables, and `arcs` alone dropped 286 — that is where the PC sheets were being filed. |
+| `notes` | 1321 | 1903 | new prep/handout content since July |
+| `summaries` | 8357 | 11188 | five sessions added since July |
 
 Per-room breakdown of the two composite wings, since a lopsided room
 is the fastest way to spot a bad mine:
 
 | Wing | Rooms |
 |------|-------|
-| `abyss` | world 1250 · arcs 766 · npcs 618 · general 335 · dead 154 · mechanics 142 |
-| `notes` | prep 818 · design 250 · handouts 248 · references 5 |
-| `summaries` | summary 3251 · extractions 2430 · narration 2036 · general 640 |
+| `abyss` | world 1096 · npcs 633 · arcs 480 · dead 155 · mechanics 148 · general 119 |
+| `notes` | prep 1304 · handouts 381 · design 213 · references 5 |
+| `summaries` | summary 4277 · extractions 3521 · narration 2269 · general 1121 |
 
 Use these as the regression baseline — significant drift on a no-op
 re-mine probably means content was added/removed unintentionally.
@@ -149,6 +179,23 @@ back to onnxruntime embeddings without re-mining).
 ---
 
 ## Known caveats at this horizon
+
+- **Acceptance checks that were run after the 2026-09-11 rebuild.** Re-run
+  these after any rebuild; each one caught something real:
+  1. `search "Zuggtmoy wedding" --wing abyss` → must return dossiers
+     (`npc_araumycos.md`), never `TheUnderdark.md`. Passed.
+  2. `search "Gyrgum character sheet hit points armor class" --wing abyss`
+     → must return **prose**, never a PC sheet or a script. First run
+     returned `tools/combat_sim.py` in the top five, which is how the
+     missing `*.py` rule was found.
+  3. `search "canon guardrails hard rules"` / `"decision ladders"` /
+     `"risk levers"` → each must rank its own doc first. Passed; this is
+     the check that proves the new exclusions did not take canon with them.
+- **`mempalace sync` evicts drawers without a rebuild.** `sync . --wing
+  abyss --dry-run` lists drawers whose source is now ignored/deleted/moved;
+  `--apply` removes them. This removed the 31 `combat_sim.py` drawers in
+  seconds and saved a second 15-minute reset. Reach for it before assuming
+  a stray source needs a full rebuild — a *content* change still does.
 
 - **The pipeline output moved under `docs/distill/` and six
   `.mempalaceignore` rules were left behind (found 2026-09-11).**
