@@ -79,15 +79,32 @@ docs/ensemble/merged_dossiers/npc_gyrgum.md
 docs/ensemble/merged_dossiers/npc_thorin.md
 docs/ensemble/merged_dossiers/npc_zalthir.md
 
-# PC backstory/sheet files
-docs/daz.md
+# PC backstory/sheet files.
+# The four sheet names here were wrong until 2026-09-11: they were written
+# lowercase (`docs/daz.md`) against files that are capitalised on disk
+# (`docs/Daz.md`), and Thorin's is not a case difference at all — the file
+# is `docs/Thorin Giantfriend.md`. .mempalaceignore matching is
+# case-sensitive on Linux, so none of the four ever fired and all four PC
+# sheets were mined into the abyss wing the whole time. The backstory lines
+# below were always correct; only the sheets were broken. Check these
+# against `ls docs/*.md` if a PC sheet ever shows up in a palace result.
+docs/Daz.md
 docs/daz_backstory.md
-docs/gyrgum.md
+docs/Gyrgum.md
 docs/gyrgum_backstory.md
-docs/thorin.md
+docs/Thorin Giantfriend.md
 docs/thorin_backstory.md
-docs/zalthir.md
+docs/Zalthir.md
 docs/zalthir_backstory.md
+
+# The per-level sheet directory, excluded 2026-09-11. It was never listed,
+# so all 8 files were mined: the 4 current `*-level-08.md` sheets and 4
+# stale `old/level/7/*.md` ones. A search for Gyrgum's sheet returned the
+# level-7 copy — `Cleric 7` — which is the same stale-outranks-current
+# failure the docs/v2/npcs/ and docs/npcs/ rules above exist to prevent.
+# PC mechanics come from the sheets in git, not from semantic search.
+# (old/*.pdf was already caught by the *.pdf rule below.)
+docs/party/
 
 # Pipeline rendering inputs
 voice/
