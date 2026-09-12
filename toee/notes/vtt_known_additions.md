@@ -33,3 +33,10 @@ relevant. Treat this file as a staging holding area, not canon.
 
 ## 2026-09-05 (session 20260830, Chapter 34 "The Sleeper in the Iron Coffin")
 - Rhennee — the Greyhawk river folk; the Velkori are a Rhennee clan. Spelling ruled by the GM during VTT spell-pass review (2026-09-05) after Zoom heard `Rene Riverfolk` and the second transcription heard `Renee River folk`. Canonical form comes from `notes/sessions/nulb-knows-now.md` (lines 93, 234, 341, 353, 358, 375, 1054), which spells it **Rhennee** throughout. **Not yet in `docs/entity_registry.yaml`** — promote it there (the four `* Velkori` NPCs are already registered, the people are not).
+
+## 2026-09-12 (session 20260906, batch review)
+- **Lower Temple** — Confirmed by GM batch decision, 2026-09-12; GMT20260906-150142_Recording.transcript.vtt:2897.
+- **Deep Temple** — Confirmed by GM batch decision, 2026-09-12; GMT20260906-150142_Recording.transcript.vtt:2433.
+- **It's Potion Shop** — Confirmed by GM batch decision, 2026-09-12; GMT20260906-150142_Recording.transcript.vtt:1269.
+- **Smithy** — Confirmed by GM batch decision, 2026-09-12; GMT20260906-150142_Recording.transcript.vtt:3833.
+- **mayor's house** — Selentis’s location; GM follow-up ruling, 2026-09-12: “Please use mayor’s house - canon.” This wording takes precedence over “Manor House” and the book’s “Old Mayor’s Manor.”

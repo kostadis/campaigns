@@ -17,10 +17,10 @@ without inflating this glossary with non-misspellings.
 
 | Wrong | Right |
 |---|---|
-| Colmer, Commer, Carmen, Comer, Palmer, Colmar, Conor, Connor, Gomer, Carmel, Colman, Kalma, Karlma, Commerce, call merges, Kalmer, Kalmu, Colbert, Culver, Zeb Calder, columnar, Karma, Culber, Homer, Calder, Kalmar, Camill, Kommer, Scott Comer, Bulmer, Columber, Convo, Karlmer, Colomar, Kolmer, Kulber, Kalbar | **Calmer** |
-| Zep, Ephra, Jeffrey, Zephy, Zeph | **Zephyr** |
+| Colmer, Commer, Carmen, Comer, Palmer, Colmar, Conor, Connor, Gomer, Carmel, Colman, Kalma, Karlma, Commerce, call merges, Kalmer, Kalmu, Colbert, Culver, Zeb Calder, columnar, Karma, Culber, Homer, Calder, Kalmar, Camill, Kommer, Scott Comer, Bulmer, Columber, Convo, Karlmer, Colomar, Kolmer, Kulber, Kalbar, Culbra, Kalmara | **Calmer** |
+| Zep, Ephra, Jeffrey, Zephy, Zeph, Zephter | **Zephyr** |
 | Zinnius, Xenia, Xemia, Sinia, Vinaya, Susania, Zinia, Xena, Sina | **Zinnia** |
-| Sequioa, Koya, Sequo, Sequoiah, Rosco | **Sequoia** |
+| Sequioa, Koya, Sequo, Sequoiah, Rosco, Segui | **Sequoia** |
 
 ## Players (real-world names — never replace, just flagged as known)
 
@@ -33,21 +33,21 @@ without inflating this glossary with non-misspellings.
 
 ## NPCs and creatures
 | Harsh, Harch, Hart, Jay Harsh, Harchus, Harches, Horsch, Arch, Hartsh | **Hartsch** |
-| Kelano, Keldo, Kelnose, Kelnose Air Temple, Kelneau, Kelnow, Kelnut, Kelnau, Kel No, Kilno, Kello, Kelna, Kalno, Kiano, Tangno, Telnell, Batal Noah | **Kelno** |
+| Kelano, Keldo, Kelnose, Kelnose Air Temple, Kelneau, Kelnow, Kelnut, Kelnau, Kel No, Kilno, Kello, Kelna, Kalno, Kiano, Tangno, Telnell, Batal Noah, Kono | **Kelno** |
 | Roman, Romegu, Robag, Romeg, Romag Elrond, Romarg, Romack, Rogue Mag | **Romag** |
-| Dren Helveth, Helveth, Dren Palvith, Dren Halvet, Captain Tren Helvet | **Dren Halveth** |
+| Dren Helveth, Helveth, Dren Palvith, Dren Halvet, Captain Tren Helvet, Drenhalveth | **Dren Halveth** |
 | Belsoring, Belsorning, Bill Sorenig, Bill Sordnink, All Sorenig, Vesorneg, Bellswording, Belzordnig, Belzordnigs, Belsor, Bell Zordding, Belzordding, Belzornig, Belzorning, Bill Sorbig, Bill Sortening, Bill Zornig, Belshordname, Belzorg, Bill Schwarning, Lordnig, Ordnigs, Elsnor Nick, Bolzorg, Velshornig, Bill Thorning, Cannonville Soaring, cannonball Soaring | **Belsornig** |
-| Alrim, Ulrim, Aldrum, Aurum, Alrem, Alroam, Alremm, Aurim, Balern | **Alrrem** |
+| Alrim, Ulrim, Aldrum, Aurum, Alrem, Alroam, Alremm, Aurim, Balern, Alarim, Alro, Aralim | **Alrrem** |
 | She's dead with Alremm, She's dead with Alrrem | **He's dead with Alrrem** (Alrrem is male) |
-| Barkiner, Birkin, Bacchanar, Barkunar, Bakunan, Barcanar, Barcadmare, Barcanair | **Barkinar** |
-| Senchak, Sandshock, Senchok, Senshot, Shenshok | **Senshock** |
+| Barkiner, Birkin, Bacchanar, Barkunar, Bakunan, Barcanar, Barcadmare, Barcanair, Markinar | **Barkinar** |
+| Senchak, Sandshock, Senchok, Senshot, Shenshok, Shenzhak | **Senshock** |
 | Gnules, Gnolds | **Gnolls** |
 | bug beer | **bugbear** |
 | Dretan, Jen, Jenna, Diren | **Dren** |
-| Falwinth, Valorant, Valorinth | **Falrinth** |
-| Verkal, Verkhall, Virkhal, Vorkal, Vorokhal, Vorakal, Vorkol, Vorko, Buddha, Voracol, Vorokal, Viracol, Vuracal, Workhal, Vurakal | **Vurakhal** |
+| Falwinth, Valorant, Valorinth, Falareth, Valerinth | **Falrinth** |
+| Verkal, Verkhall, Virkhal, Vorkal, Vorokhal, Vorakal, Vorkol, Vorko, Buddha, Voracol, Vorokal, Viracol, Vuracal, Workhal, Vurakal, Burakol | **Vurakhal** |
 | Juggerdot | **Juggernaut** |
-| Ilrich, Ildrich, Urlish, Ilitch, Irluj | **Eelrich** |
+| Ilrich, Ildrich, Urlish, Ilitch, Irluj, Eofish | **Eelrich** |
 | Maris Drone | **Maeris Dorn** |
 | Lucius Graham, Lucius Alrrem, Lucius Alremm | **Lucius Graeme** |
 | Varric Solein, Varick Salami, Varik Solane, Varik Sulane, Varik Sullen | **Varek Solain** |
@@ -55,7 +55,7 @@ without inflating this glossary with non-misspellings.
 | Fire Solomon | **fire salamander** |
 | Aldrin | **Aldren** |
 | Lucian | **Lucius** |
-| Hedrac, Hedrak, Hedrach | **Hedrack** |
+| Hedrac, Hedrak, Hedrach, Hadrik | **Hedrack** |
 | Albrith | **Albreth** |
 | Glannon Clee | **Glennon Clee** |
 | Palsmarie Clee | **Pasmarie Clee** |
@@ -69,11 +69,20 @@ without inflating this glossary with non-misspellings.
 | Albert | **owlbear** |
 | Brother Ulrichsvane | **Brother Eelrich Vane** |
 | Turgeon, Turjohn | **Terjon** |
-| Varic, Varric | **Varek** |
-| Tullub, Tolubb | **Tolub** |
+| Varic, Varric, Farric, Viren | **Varek** |
+| Tullub, Tolubb, Taleb, Talib, Talim, Tau, Toluv, Tull, Talev | **Tolub** |
 | Merito | **Minotaur** |
-| Valkyrie | **Velkori** |
+| Valkyrie, Valkyries | **Velkori** |
 | Skull says | **Skole says** |
+| Guthbert | **Cuthbert** |
+| Grood | **Grud** |
+| Larrith | **Lareth** |
+| Otisus | **Otis** |
+| Celenta, Cilentis, Santos, Selectus, Solentis, Stellantis, Celinda | **Selentis** |
+| Skoll | **Skole** |
+| Varetha | **Vethra** |
+| Yaday | **Y'dey** |
+| Keddah | **Ketta** |
 
 | Wrong | Right |
 |---|---|
@@ -84,12 +93,14 @@ without inflating this glossary with non-misspellings.
 | Earth-themporal | **Earth Elemental** |
 | Earth Temp, birth temple, Earth's Temple | **Earth Temple** |
 | Emery Meadows | **Emridy Meadows** |
-| Nub, Nolt, Nob, Null, Nobel | **Nulb** |
+| Nub, Nolt, Nob, Null, Nobel, Nolb | **Nulb** |
 | Sheernob, Sheernobb Hills | **Sheernobb** |
 | Waterdon, Water Tem | **Water Temple** |
 | Verdighi, Verdigi | **Verdigris** |
 | Homlet | **Hommlet** |
-| Verbabank | **Verbobonc** |
+| Verbabank, Vrbabank, Burbok, Verbabanka, Verbabonk, Verbabunk, Vrbabonk | **Verbobonc** |
+| Furi, Furyandi | **Furyondy** |
+| Vluna | **Veluna** |
 
 | Wrong | Right |
 |---|---|
@@ -107,13 +118,13 @@ without inflating this glossary with non-misspellings.
 |---|---|
 | Obsidian Vanguard, Zidian Edge | **Obsidian Edge** |
 | Crimson Guard | **Broken Blades** |
-| Rene Riverfolk, Renee Riverfolk | **Rhennee** |
+| Rene Riverfolk, Renee Riverfolk, Rene, Renee | **Rhennee** |
 
 ## Items / artifacts
 
 | Wrong | Right |
 |---|---|
-| Frostbradened, Fredinh, Frostband, Frostbread | **Frostbrand** |
+| Frostbradened, Fredinh, Frostband, Frostbread, Frostben, Frostbrett | **Frostbrand** |
 | Alamanders | **Salamanders** |
 | Elementary Evil, Elementoibo | **Elemental Evil** |
 | Tech Magic | **Detect Magic** |

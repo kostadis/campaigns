@@ -1,0 +1,352 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>VTT Spell Pass — Remaining Decisions</title><style id="css">
+:root {
+  --ground:#F1F3F1; --surface:#FAFBFA; --surface-2:#E6EAE7;
+  --rule:#CBD3CD; --rule-soft:#DDE3DE;
+  --ink:#171B19; --ink-2:#4A544E; --ink-3:#6E7A73;
+  --accent:#2F6F62; --accent-soft:#DCE9E5;
+  --ok:#2F6F62; --ok-bg:#DCE9E5;
+  --no:#A63446; --no-bg:#F5E2E5;
+  --talk:#A26A1F; --talk-bg:#F6EBDA;
+  --shadow:0 1px 2px rgba(23,27,25,.05),0 8px 24px -16px rgba(23,27,25,.18);
+  --serif:Georgia,"Times New Roman",serif;
+  --sans:"Helvetica Neue",Arial,sans-serif;
+  --mono:ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground:#101413; --surface:#171C1A; --surface-2:#1F2624;
+    --rule:#2E3835; --rule-soft:#242C2A;
+    --ink:#E0E6E2; --ink-2:#A9B4AE; --ink-3:#7C8882;
+    --accent:#6BBBA7; --accent-soft:#1B2E2A;
+    --ok:#6BBBA7; --ok-bg:#1B2E2A;
+    --no:#E28794; --no-bg:#34191E;
+    --talk:#DDAA5E; --talk-bg:#33280F;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -18px rgba(0,0,0,.8);
+  }
+}
+:root[data-theme="dark"] {
+  --ground:#101413; --surface:#171C1A; --surface-2:#1F2624;
+  --rule:#2E3835; --rule-soft:#242C2A;
+  --ink:#E0E6E2; --ink-2:#A9B4AE; --ink-3:#7C8882;
+  --accent:#6BBBA7; --accent-soft:#1B2E2A;
+  --ok:#6BBBA7; --ok-bg:#1B2E2A;
+  --no:#E28794; --no-bg:#34191E;
+  --talk:#DDAA5E; --talk-bg:#33280F;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -18px rgba(0,0,0,.8);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:940px;margin:0 auto;padding:0 24px 100px}
+
+.top{padding:56px 0 26px}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:0;text-transform:uppercase;color:var(--accent);margin-bottom:14px}
+h1{font-family:var(--serif);font-weight:800;font-size:3rem;line-height:1.04;letter-spacing:0;margin:0 0 14px;text-wrap:balance}
+.lede{font-family:var(--serif);font-size:1.16rem;color:var(--ink-2);max-width:60ch;margin:0;line-height:1.5}
+
+.bar{position:sticky;top:0;z-index:20;background:var(--ground);border-bottom:1px solid var(--rule);
+  padding:12px 0;margin-bottom:6px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.prog{font-family:var(--mono);font-size:13px;color:var(--ink-2);font-variant-numeric:tabular-nums}
+.prog b{color:var(--ink);font-size:15px}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font-family:var(--mono);font-size:11px;letter-spacing:0;text-transform:uppercase;padding:3px 8px;border-radius:2px;font-weight:500}
+.chip.a{background:var(--ok-bg);color:var(--ok)}
+.chip.r{background:var(--no-bg);color:var(--no)}
+.chip.d{background:var(--talk-bg);color:var(--talk)}
+.spacer{flex:1 1 auto}
+
+button{font-family:inherit;font-size:inherit;cursor:pointer}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.save{background:var(--accent);color:var(--ground);border:1px solid var(--accent);
+  border-radius:3px;padding:9px 20px;font-family:var(--mono);font-size:12.5px;letter-spacing:0;
+  text-transform:uppercase;font-weight:500;transition:opacity .15s}
+.save[disabled]{opacity:.35;cursor:not-allowed}
+:root[data-theme="dark"] .save,:root:not([data-theme="light"]) .save{color:#0D1211}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]) .save{color:#FAFBFA}}
+
+.bulk{background:transparent;border:1px solid var(--rule);color:var(--ink-2);border-radius:3px;
+  padding:8px 13px;font-family:var(--mono);font-size:11.5px;letter-spacing:0;text-transform:uppercase}
+.bulk:hover{border-color:var(--talk);color:var(--talk)}
+
+.msg{font-family:var(--mono);font-size:12px;padding:10px 14px;border-radius:3px;margin:10px 0 0;
+  background:var(--surface-2);color:var(--ink-2);border-left:2px solid var(--accent)}
+.msg.warn{border-left-color:var(--talk);color:var(--talk)}
+.msg[hidden]{display:none}
+
+.items{display:flex;flex-direction:column;gap:14px;margin-top:22px}
+
+.item{background:var(--surface);border:1px solid var(--rule);border-left:3px solid var(--rule);
+  border-radius:3px;padding:20px 22px 18px;display:flex;flex-direction:column;gap:12px;box-shadow:var(--shadow)}
+.item[data-choice="approve"]{border-left-color:var(--ok)}
+.item[data-choice="reject"]{border-left-color:var(--no)}
+.item[data-choice="discuss"]{border-left-color:var(--talk)}
+
+.item-head{display:flex;gap:12px;align-items:baseline}
+.num{font-family:var(--mono);font-size:12px;color:var(--ink-3);flex:none;padding-top:4px;font-variant-numeric:tabular-nums}
+.item h2{font-family:var(--serif);font-size:1.24rem;font-weight:600;line-height:1.28;margin:0;text-wrap:balance}
+
+.outcomes{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px}
+.outcome{background:var(--surface-2);border-radius:3px;padding:11px 13px;font-size:13.4px;line-height:1.5;color:var(--ink-2)}
+.outcome b{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:0;
+  text-transform:uppercase;margin-bottom:4px}
+.outcome.y b{color:var(--ok)}
+.outcome.n b{color:var(--no)}
+.outcome code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere;color:var(--ink)}
+
+.ev{font-size:13px;color:var(--ink-3);line-height:1.55;margin:0;padding-left:12px;border-left:2px solid var(--rule-soft)}
+.ev code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere}
+.ev em{color:var(--ink-2);font-style:italic}
+
+.choices{display:flex;gap:8px;flex-wrap:wrap}
+.ch{flex:1 1 auto;min-width:104px;background:transparent;border:1px solid var(--rule);color:var(--ink-2);
+  border-radius:3px;padding:10px 14px;font-family:var(--mono);font-size:12px;letter-spacing:0;
+  text-transform:uppercase;font-weight:500;transition:background .12s,border-color .12s,color .12s}
+.ch:hover{border-color:var(--ink-3);color:var(--ink)}
+.ch[aria-pressed="true"][data-choice="approve"]{background:var(--ok-bg);border-color:var(--ok);color:var(--ok)}
+.ch[aria-pressed="true"][data-choice="reject"]{background:var(--no-bg);border-color:var(--no);color:var(--no)}
+.ch[aria-pressed="true"][data-choice="discuss"]{background:var(--talk-bg);border-color:var(--talk);color:var(--talk)}
+
+.note{width:100%;background:var(--ground);border:1px solid var(--rule);border-radius:3px;color:var(--ink);
+  font-family:var(--sans);font-size:13.5px;padding:9px 12px}
+.note::placeholder{color:var(--ink-3)}
+.note:focus-visible{outline:2px solid var(--accent);outline-offset:-1px}
+.note[hidden]{display:none}
+
+.foot{margin-top:56px;padding-top:26px;border-top:2px solid var(--ink);font-size:13.4px;color:var(--ink-2);line-height:1.6}
+.foot code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere}
+.foot .applied{margin:0 0 14px}
+
+.search{width:min(260px,100%);height:37px;padding:0 10px;border:1px solid var(--rule);border-radius:3px;
+  background:var(--surface);color:var(--ink);font-family:var(--sans);font-size:13px}
+.search:focus-visible{outline:2px solid var(--accent);outline-offset:-1px}
+.filters{display:flex;gap:5px;flex-wrap:wrap}
+.filter{height:37px;padding:0 10px;border:1px solid var(--rule);border-radius:3px;background:transparent;
+  color:var(--ink-2);font-family:var(--mono);font-size:11px;text-transform:uppercase}
+.filter[aria-pressed="true"]{background:var(--surface-2);border-color:var(--ink-3);color:var(--ink)}
+
+@media (max-width:600px){
+  .wrap{padding:0 16px 80px}.item-head{flex-direction:column;gap:4px}
+  h1{font-size:2.2rem}.lede{font-size:1rem}.search{width:100%}.filters{width:100%}
+  .filter{flex:1 1 30%;min-width:0}.save,.bulk{flex:1 1 auto}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style></head><body><div id="app"></div><script type="application/json" id="state">{"decisions": {}, "notes": {}, "savedAt": null}</script><script type="text/plain" id="src">
+var TITLE = "VTT Spell Pass — Remaining Decisions";
+var EYEBROW = "/home/kostadis/toee/toee/summaries/20260906 / VTT spell pass";
+var LEDE = "15 decisions: 11 previously unmarked, 2 awaiting context rulings, and 2 newly noticed candidates. All choices start unmarked. Use Discuss with the intended words; Reject leaves the token unchanged. Approve a new-term card only if the exact token is real.";
+var FOOTER = "Previously approved corrections are already applied. Canonical location wording is mayor’s house. This page makes no further edits; export decisions for application.";
+var ITEMS = [{"id": "keddah__ketta", "t": "Correct \u003ccode>Keddah\u003c/code> to \u003ccode>Ketta\u003c/code>", "y": "Add \u003ccode>Keddah\u003c/code> to \u003ccode>Ketta\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code>.", "n": "Leave \u003ccode>Keddah\u003c/code> unchanged in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> GMT20260906-150142_Recording.transcript.vtt:1661 | 00:51:06.880 --&gt; 00:51:11.910\nThomas Kolivakis: It is.\nKostadis Roussos: Okay.\nKostadis Roussos: Let me see…\nKostadis Roussos: Okay, so, Taleb looks at Keddah.\nKostadis Roussos: And says, What do you mean there&#x27;s a dangerous game?\nKostadis Roussos: They&#x27;re playing a dangerous game, and what are you saying this is from Zephyr? Zephyr&#x27;s dead!\u003cbr>\u003cb>Note:\u003c/b>  No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.\u003cbr>\u003cb>Classification:\u003c/b> medium confidence; 1 occurrence(s); glossary edit."}, {"id": "solentis__selentis", "t": "Correct \u003ccode>Solentis\u003c/code> to \u003ccode>Selentis\u003c/code>", "y": "Add \u003ccode>Solentis\u003c/code> to \u003ccode>Selentis\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code>.", "n": "Leave \u003ccode>Solentis\u003c/code> unchanged in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> GMT20260906-150142_Recording.transcript.vtt:2521 | 01:07:32.340 --&gt; 01:07:34.860\nThomas Kolivakis: Alright, well…\nKostadis Roussos: So I just… those are the things that you learn from the notes.\nThomas Kolivakis: So, we will have that… Shipment…\nThomas Kolivakis: We should still go meet Solentis.\nKostadis Roussos: You&#x27;re gonna still go meet Cilentis?\nThomas Kolivakis: Yes, wherever she is.\n\nGMT20260906-150142_Recording.transcript.vtt:2585 | 01:08:46.140 --&gt; 01:08:48.819\nKostadis Roussos: It&#x27;s, like, kind of the afternoon, so it&#x27;s approaching dusk when the Eric&#x27;s caravan&#x27;s gonna be taken.\nThomas Kolivakis: Oh, so, the caravan is today?\nKostadis Roussos: Yeah, yeah, the caravan&#x27;s today, it&#x27;s later this evening.\nThomas Kolivakis: Can we meet, Solentis before that?\nKostadis Roussos: You&#x27;re gonna try to meet her before that? Well, the only danger is if you meet her before that, you might not be able to make it in time for Eric, so that&#x27;s a choice you have to make.\nThomas Kolivakis: Let&#x27;s go meet Santos. Do this fast.\u003cbr>\u003cb>Note:\u003c/b>  No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.\u003cbr>\u003cb>Classification:\u003c/b> medium confidence; 2 occurrence(s); glossary edit."}, {"id": "stellantis__selentis", "t": "Correct \u003ccode>Stellantis\u003c/code> to \u003ccode>Selentis\u003c/code>", "y": "Add \u003ccode>Stellantis\u003c/code> to \u003ccode>Selentis\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code>.", "n": "Leave \u003ccode>Stellantis\u003c/code> unchanged in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> GMT20260906-150142_Recording.transcript.vtt:2685 | 01:10:14.100 --&gt; 01:10:18.549\nThomas Kolivakis: Wow.\nThomas Kolivakis: You just know.\nKostadis Roussos: So, it&#x27;s up to you guys.\nThomas Kolivakis: Well, if it&#x27;s Stellantis&#x27; plan, I would like to know about the caravan.\nKostadis Roussos: So, you&#x27;re gonna.\nThomas Kolivakis: So we&#x27;ll hide in the bushes around it.\n\nGMT20260906-150142_Recording.transcript.vtt:2809 | 01:12:40.290 --&gt; 01:12:44.399\nKostadis Roussos: Yeah, she&#x27;s there… no, she&#x27;s there at the… she&#x27;s there at the mayor&#x27;s house. We&#x27;ve arrived at the mayor&#x27;s house. She&#x27;s talking to Sirina right now at the mayor&#x27;s house.\nThomas Kolivakis: Fuck.\nKostadis Roussos: You guys are inside it, you&#x27;re overhearing the conversation.\nThomas Kolivakis: Yeah, let&#x27;s not spy on Stellantis if you want to do business with her.\nKostadis Roussos: Okay, so you want to step outside?\nThomas Kolivakis: Yes.\u003cbr>\u003cb>Note:\u003c/b>  No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.\u003cbr>\u003cb>Classification:\u003c/b> medium confidence; 2 occurrence(s); glossary edit."}, {"id": "celinda__selentis", "t": "Correct \u003ccode>Celinda\u003c/code> to \u003ccode>Selentis\u003c/code>", "y": "Add \u003ccode>Celinda\u003c/code> to \u003ccode>Selentis\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code>.", "n": "Leave \u003ccode>Celinda\u003c/code> unchanged in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> GMT20260906-150142_Recording.transcript.vtt:1365 | 00:43:51.610 --&gt; 00:43:53.620\nKostadis Roussos: Yes, or Celenta, or you can try to negotiate with her.\nKostadis Roussos: Right, so just keep that in mind. The other thing to remember is that, you know, you actually don&#x27;t know all the routes that the temple takes, and, you know, this might be an opportunity to learn more.\nThomas Kolivakis: Sure. Should we… should we go meet Madame Santes?\nKostadis Roussos: Do you want to meet Tulip or Celinda&#x27;s first?\nThomas Kolivakis: Let&#x27;s go to the…\nThomas Kolivakis: Boatsman Tavern to find Taleb.\u003cbr>\u003cb>Note:\u003c/b> Additional source inspection caught a token missed by the scanner. No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.\u003cbr>\u003cb>Classification:\u003c/b> medium confidence; 1 occurrence(s); glossary edit."}, {"id": "shenzhak__senshock", "t": "Correct \u003ccode>Shenzhak\u003c/code> to \u003ccode>Senshock\u003c/code>", "y": "Add \u003ccode>Shenzhak\u003c/code> to \u003ccode>Senshock\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code>.", "n": "Leave \u003ccode>Shenzhak\u003c/code> unchanged in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> GMT20260906-150142_Recording.transcript.vtt:3229 | 01:20:59.260 --&gt; 01:21:07.839\nKostadis Roussos: Remember the scarab? So Comer&#x27;s been carrying this scarab that says TZGY.\nKostadis Roussos: You guys found it… you guys found it eons ago.\nThomas Kolivakis: Okay, let&#x27;s right over.\nKostadis Roussos: Yeah, and so this… and you had all forgotten about it until Valorant had pointed out that Barkinar, Shenzhak, and Hedrach would find it very interesting.\nThomas Kolivakis: Rakutenur, and Hydra, okay.\nKostadis Roussos: that the temple leadership would find it very interesting, and he recommended you don&#x27;t make it very visible to anyone. So, trying to find out information about it might be something… you might want to try to see if you can find out some information about it in Nulb.\u003cbr>\u003cb>Note:\u003c/b>  No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "talev__tolub", "t": "Correct \u003ccode>Talev\u003c/code> to \u003ccode>Tolub\u003c/code>", "y": "Add \u003ccode>Talev\u003c/code> to \u003ccode>Tolub\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code>.", "n": "Leave \u003ccode>Talev\u003c/code> unchanged in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> GMT20260906-150142_Recording.transcript.vtt:593 | 00:23:54.960 --&gt; 00:24:06.560\nKostadis Roussos: Right? Remember, you guys.\nThomas Kolivakis: Wow.\nKostadis Roussos: You guys… so, clearly, Taleb…\nKostadis Roussos: Right? Then Tau knows you&#x27;re alive, right? Because remember, you can&#x27;t… you came here, you came back, you got in his face, you stole Dren, so clearly this is something about Talev acting, you know, tough.\nKostadis Roussos: I killed them.\nThomas Kolivakis: He&#x27;s… he said he killed us?\u003cbr>\u003cb>Note:\u003c/b>  No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.\u003cbr>\u003cb>Classification:\u003c/b> medium confidence; 1 occurrence(s); glossary edit."}, {"id": "barak_solet__varek_solain", "t": "Correct \u003ccode>Barak Solet\u003c/code> to \u003ccode>Varek Solain\u003c/code>", "y": "Apply \u003ccode>Barak Solet\u003c/code> to \u003ccode>Varek Solain\u003c/code> only at the reviewed location in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Barak Solet\u003c/code> unchanged in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> GMT20260906-150142_Recording.transcript.vtt:149 | 00:07:08.570 --&gt; 00:07:22.899\nKostadis Roussos: No one had a suitable fire spell. Calmer admitted this was a mistake, and laughed when Zephyr asked about Meteor Storm. So Zephyr and Sequoia headed to the Fire Temper, while Xenia stayed behind to keep an eye on Colmer.\nKostadis Roussos: Taking an unexpected dark corridor on the way, they emerged into familiar territory. Offered the choice of approaching Burakol directly, they went instead to the captain of the card.\nKostadis Roussos: Captain Barric Solain.\nKostadis Roussos: Barak Solet, no longer defeated in demeanor, offered them and confirmed that the Rufi&#x27;s room was where the Fire Temple habitually dumped its garbage. When told that a necromancer was quietly taking control of skeletons, he finally connected the threat to an old political grievance.\nKostadis Roussos: The necromancer had served under Barkinar and disappeared after Romag removed the promotion he believed should have been his.\nKostadis Roussos: Barak did not know where the necromancer was hiding, or even whether he remained inside the temple, but insisted that if undead were appearing, he&#x27;s around. Varic had warned Aralim about the danger, but Alarim had ignored him, instead of finding the necromancer and making an alliance.\u003cbr>\u003cb>Note:\u003c/b> Additional source inspection caught a token missed by the scanner. No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.\u003cbr>\u003cb>Classification:\u003c/b> medium confidence; 1 occurrence(s); targeted edit."}, {"id": "clay__unresolved", "t": "Treat \u003ccode>Clay\u003c/code> as a new campaign term", "y": "Keep \u003ccode>Clay\u003c/code> unchanged in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> and add the confirmed spelling to the campaign's canonical-name source. Include a note if the spelling should change.", "n": "Treat \u003ccode>Clay\u003c/code> as non-campaign speech and leave \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> unchanged.", "ev": "\u003cb>VTT context:\u003c/b> GMT20260906-150142_Recording.transcript.vtt:209 | 00:10:21.090 --&gt; 00:10:39.310\nKostadis Roussos: Probably from carrying off the remaining foodstuffs. The temple&#x27;s food supplies were plainly running low, and nobody was currently managing them. Beyond that lay an oddly shaped chamber packed with jars, boxes, barrels, crates, chests, sacks, casks, bales, bags, and hampers.\nKostadis Roussos: Some were broken or empty, but many remained full. Bales had a black cloth and finished garments. Zinnias inside roll of 25. Identified these as supplies.\nKostadis Roussos: And uniforms belonging to the greater temple. The party&#x27;s Arcana checks failed to reveal anything further. Sequoia nevertheless looked up, explaining, the answer is always on the ceiling. An investigation result of 21 vindicated him.\nKostadis Roussos: Four creatures hung overhead by their tails. Clay&#x27;s claws paused. I was right, Segui said in belief. I was saying a joke. Oh my god, the creatures were nightmarish, gaunt, ape-like predators with ash gray hides, four long, muscular arms ending in hooked black claws, powerful jaws, filled with uneven fangs.\nKostadis Roussos: Three alert eyes and thick, prehensile tails wrapped around the stonework. Their limbs were unnaturally jointed for climbing, ambushing, and faint violet psychic energy pushed around their skulls.\nKostadis Roussos: Zephter acted first, but missed both pistol shots. Xenia and Sequoia concentrated their attacks on the same creature, while the predators unleashed psychic blasts against the party. Xenia, Zephyr, and Calmer resisted. Sequoia failed the DC-17 Wisdom save, suffered 17 points of damage, and was stunned. Guardians, creating a 15-fort aura that damaged and slowed several attackers.\u003cbr>\u003cb>Note:\u003c/b>  Unresolved: choose Discuss and specify the intended name or words, Reject to ignore, or Approve only if this exact term is real. No new-canon claim is being made. No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.\u003cbr>\u003cb>Classification:\u003c/b> low confidence; 1 occurrence(s); targeted edit."}, {"id": "jessica__unresolved", "t": "Treat \u003ccode>Jessica\u003c/code> as a new campaign term", "y": "Keep \u003ccode>Jessica\u003c/code> unchanged in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> and add the confirmed spelling to the campaign's canonical-name source. Include a note if the spelling should change.", "n": "Treat \u003ccode>Jessica\u003c/code> as non-campaign speech and leave \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> unchanged.", "ev": "\u003cb>VTT context:\u003c/b> GMT20260906-150142_Recording.transcript.vtt:621 | 00:24:42.870 --&gt; 00:24:44.369\nKostadis Roussos: And what you notice is that… and so as you&#x27;re walking by somebody, somebody looks at you and points, and then somebody… and is about to blurt something out, and somebody hits them.\nKostadis Roussos: Right, and so… What you&#x27;re gathering is that as s… sec… Xenia Roll and Investigation Check.\nKostadis Roussos: with Advantage.\ngeorge: Jessica, can I do insight?\nKostadis Roussos: Okay, insight.\ngeorge: To anyone?\u003cbr>\u003cb>Note:\u003c/b>  Unresolved: choose Discuss and specify the intended name or words, Reject to ignore, or Approve only if this exact term is real. No new-canon claim is being made. No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.\u003cbr>\u003cb>Classification:\u003c/b> low confidence; 1 occurrence(s); glossary edit."}, {"id": "jude__unresolved", "t": "Treat \u003ccode>Jude\u003c/code> as a new campaign term", "y": "Keep \u003ccode>Jude\u003c/code> unchanged in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> and add the confirmed spelling to the campaign's canonical-name source. Include a note if the spelling should change.", "n": "Treat \u003ccode>Jude\u003c/code> as non-campaign speech and leave \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> unchanged.", "ev": "\u003cb>VTT context:\u003c/b> GMT20260906-150142_Recording.transcript.vtt:3701 | 01:30:11.770 --&gt; 01:30:13.159\ngeorge: Okay.\nKostadis Roussos: Not the whole truth, but not the whole truth.\nKostadis Roussos: Not the whole truth.\ngeorge: Jude, I told him to follow me.\nKostadis Roussos: You want him to keep following you?\ngeorge: Modern…\u003cbr>\u003cb>Note:\u003c/b>  Unresolved: choose Discuss and specify the intended name or words, Reject to ignore, or Approve only if this exact term is real. No new-canon claim is being made. No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.\u003cbr>\u003cb>Classification:\u003c/b> low confidence; 1 occurrence(s); glossary edit."}, {"id": "lakers__unresolved", "t": "Treat \u003ccode>Lakers\u003c/code> as a new campaign term", "y": "Keep \u003ccode>Lakers\u003c/code> unchanged in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> and add the confirmed spelling to the campaign's canonical-name source. Include a note if the spelling should change.", "n": "Treat \u003ccode>Lakers\u003c/code> as non-campaign speech and leave \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> unchanged.", "ev": "\u003cb>VTT context:\u003c/b> GMT20260906-150142_Recording.transcript.vtt:3105 | 01:18:13.170 --&gt; 01:18:15.689\nThomas Kolivakis: Yes, yes.\nKostadis Roussos: She looks at you and says, interesting. Finally, she says, do you want… Tolub useful, frightened, or gone?\nThomas Kolivakis: Pub.\nKostadis Roussos: Yes.\nThomas Kolivakis: Gone.\nKostadis Roussos: You want them gone.\nThomas Kolivakis: He… Hmm.\nThomas Kolivakis: Yeah, no, gone. He has no use.\nKostadis Roussos: Is that… everybody&#x27;s good with that?\nThomas Kolivakis: I don&#x27;t think there&#x27;s any tall Lakers here.\nKostadis Roussos: Alright.\nKostadis Roussos: Alright.\u003cbr>\u003cb>Note:\u003c/b> Selentis asks whether they want Tolub useful, frightened, or gone. Thomas chooses gone, then says this line. Could be garbled ordinary speech; intended words need a GM ruling. No independent transcript exists.\u003cbr>\u003cb>Classification:\u003c/b> low confidence; 1 occurrence(s); glossary edit."}, {"id": "marathon__unresolved", "t": "Treat \u003ccode>Marathon\u003c/code> as a new campaign term", "y": "Keep \u003ccode>Marathon\u003c/code> unchanged in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> and add the confirmed spelling to the campaign's canonical-name source. Include a note if the spelling should change.", "n": "Treat \u003ccode>Marathon\u003c/code> as non-campaign speech and leave \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> unchanged.", "ev": "\u003cb>VTT context:\u003c/b> GMT20260906-150142_Recording.transcript.vtt:3313 | 01:22:42.630 --&gt; 01:22:43.460\nKostadis Roussos: No problem. Alright, morning arrives, and you&#x27;ve decided to go hunt down someone to learn about the scarab.\nKostadis Roussos: One person… one of the oldest people you know is, Varetha, who&#x27;s the…\nKostadis Roussos: The person, the, the old, the, the, the diviner, maybe she knows something, you could ask her.\nThomas Kolivakis: Marathon.\nKostadis Roussos: Yeah, remember the person who… the diviner in the Rene camp who…\nKostadis Roussos: She&#x27;s a fortune teller, sorry, fortune teller.\u003cbr>\u003cb>Note:\u003c/b> Vethra is introduced as the old diviner. Thomas responds with this token, and the GM recalls the fortune teller in the Rhennee camp. No confident replacement proposed; please provide the intended words or reject to leave unchanged.\u003cbr>\u003cb>Classification:\u003c/b> low confidence; 1 occurrence(s); glossary edit."}, {"id": "merit__unresolved", "t": "Treat \u003ccode>Merit\u003c/code> as a new campaign term", "y": "Keep \u003ccode>Merit\u003c/code> unchanged in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> and add the confirmed spelling to the campaign's canonical-name source. Include a note if the spelling should change.", "n": "Treat \u003ccode>Merit\u003c/code> as non-campaign speech and leave \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> unchanged.", "ev": "\u003cb>VTT context:\u003c/b> GMT20260906-150142_Recording.transcript.vtt:1325 | 00:42:39.310 --&gt; 00:42:41.740\nKostadis Roussos: Okay.\nKostadis Roussos: So you walk into the… so you&#x27;re walking into the Boatsman&#x27;s Tavern?\nKostadis Roussos: Towards the Boatsman Tavern.\nKostadis Roussos: Merit.\nKostadis Roussos: Okay, you walk towards the boatsman&#x27;s Tavern.\nKostadis Roussos: As you&#x27;re walking towards the Boastman&#x27;s Tavern, you do remember one thing, or rather, what&#x27;s his name? Xenia remembers one thing.\u003cbr>\u003cb>Note:\u003c/b>  Unresolved: choose Discuss and specify the intended name or words, Reject to ignore, or Approve only if this exact term is real. No new-canon claim is being made. No independent transcript exists for this session. Local inventory/notes provide spelling context, not audio corroboration.\u003cbr>\u003cb>Classification:\u003c/b> low confidence; 1 occurrence(s); glossary edit."}, {"id": "rakutenur__barkinar", "t": "Correct \u003ccode>Rakutenur\u003c/code> to \u003ccode>Barkinar\u003c/code>", "y": "Apply \u003ccode>Rakutenur\u003c/code> to \u003ccode>Barkinar\u003c/code> only at the reviewed location in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Rakutenur\u003c/code> unchanged in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> GMT20260906-150142_Recording.transcript.vtt:3233 | 01:21:08.470 --&gt; 01:21:10.170\nKostadis Roussos: Yeah, and so this… and you had all forgotten about it until Valorant had pointed out that Barkinar, Shenzhak, and Hedrach would find it very interesting.\nThomas Kolivakis: Rakutenur, and Hydra, okay.\nKostadis Roussos: that the temple leadership would find it very interesting, and he recommended you don&#x27;t make it very visible to anyone. So, trying to find out information about it might be something… you might want to try to see if you can find out some information about it in Nulb.\u003cbr>\u003cb>Note:\u003c/b> Additional candidate missed by the scanner. Immediately preceding cue names Barkinar, Shenzhak (approved as Senshock), and Hedrach (existing Hedrack correction). Proposed identity is inferred from that context, not confirmed by audio or another transcription. Discuss if a different character or ordinary words were spoken.\u003cbr>\u003cb>Classification:\u003c/b> medium confidence; 1 occurrence(s); targeted edit."}, {"id": "hydra__hedrack", "t": "Correct \u003ccode>Hydra\u003c/code> to \u003ccode>Hedrack\u003c/code>", "y": "Apply \u003ccode>Hydra\u003c/code> to \u003ccode>Hedrack\u003c/code> only at the reviewed location in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Hydra\u003c/code> unchanged in \u003ccode>/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> GMT20260906-150142_Recording.transcript.vtt:3233 | 01:21:08.470 --&gt; 01:21:10.170\nKostadis Roussos: Yeah, and so this… and you had all forgotten about it until Valorant had pointed out that Barkinar, Shenzhak, and Hedrach would find it very interesting.\nThomas Kolivakis: Rakutenur, and Hydra, okay.\nKostadis Roussos: that the temple leadership would find it very interesting, and he recommended you don&#x27;t make it very visible to anyone. So, trying to find out information about it might be something… you might want to try to see if you can find out some information about it in Nulb.\u003cbr>\u003cb>Note:\u003c/b> Additional candidate missed by the scanner. Immediately preceding cue names Barkinar, Shenzhak (approved as Senshock), and Hedrach (existing Hedrack correction). Proposed identity is inferred from that context, not confirmed by audio or another transcription. Discuss if a different character or ordinary words were spoken.\u003cbr>\u003cb>Classification:\u003c/b> medium confidence; 1 occurrence(s); targeted edit."}];
+var REVIEW_ID = "vtt-spell-pass:/home/kostadis/toee/toee/summaries/20260906/GMT20260906-150142_Recording.transcript.cleaned.vtt:followup-1";
+var OUTPUT_NAME = "vtt_spell_pass_followup_decisions.json";
+
+var LABEL = {approve:"Approve", reject:"Reject", discuss:"Discuss"};
+
+function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+
+function readState(){
+  try { return JSON.parse(document.getElementById("state").textContent); }
+  catch(e){ return {decisions:{},notes:{},savedAt:null}; }
+}
+
+var state = readState();
+if(!state.decisions) state.decisions = {};
+if(!state.notes) state.notes = {};
+state.filter = 'all';
+state.search = '';
+try {
+  var stored = JSON.parse(localStorage.getItem('codex-review:' + REVIEW_ID) || '{}');
+  if(stored.decisions) state.decisions = stored.decisions;
+  if(stored.notes) state.notes = stored.notes;
+} catch(e) {}
+
+function persist(){
+  try { localStorage.setItem('codex-review:' + REVIEW_ID, JSON.stringify({decisions:state.decisions,notes:state.notes})); }
+  catch(e) {}
+}
+
+function counts(){
+  var c = {approve:0,reject:0,discuss:0};
+  ITEMS.forEach(function(it){ var d = state.decisions[it.id]; if(d) c[d]++; });
+  return c;
+}
+
+function render(){
+  var c = counts(), done = c.approve + c.reject + c.discuss;
+  var query = state.search.toLowerCase();
+  var visible = ITEMS.filter(function(it){
+    var choice = state.decisions[it.id] || '';
+    var filterMatch = state.filter === 'all' || (state.filter === 'unmarked' ? !choice : choice === state.filter);
+    var searchMatch = !query || [it.id,it.t,it.y,it.n,it.ev || ''].join(' ').toLowerCase().indexOf(query) !== -1;
+    return filterMatch && searchMatch;
+  });
+  var h = '';
+
+  h += '<div class="wrap">';
+  h += '<div class="top">';
+  h += '<div class="eyebrow">' + esc(EYEBROW) + '</div>';
+  h += '<h1>' + esc(TITLE) + '</h1>';
+  h += '<p class="lede">' + esc(LEDE) + '</p>';
+  h += '</div>';
+
+  h += '<div class="bar">';
+  h += '<span class="prog"><b>' + done + '</b> of ' + ITEMS.length + ' decided</span>';
+  h += '<span class="chips">';
+  if(c.approve) h += '<span class="chip a">' + c.approve + ' approve</span>';
+  if(c.reject)  h += '<span class="chip r">' + c.reject + ' reject</span>';
+  if(c.discuss) h += '<span class="chip d">' + c.discuss + ' discuss</span>';
+  h += '</span>';
+  h += '<span class="spacer"></span>';
+  h += '<input class="search" id="search" type="search" placeholder="Search findings" value="' + esc(state.search) + '">';
+  h += '<span class="filters">';
+  [['all','All'],['unmarked','Unmarked'],['approve','Approved'],['reject','Rejected'],['discuss','Discuss']].forEach(function(pair){
+    h += '<button class="filter" data-filter="' + pair[0] + '" aria-pressed="' + (state.filter === pair[0]) + '">' + pair[1] + '</button>';
+  });
+  h += '</span>';
+  h += '<button class="bulk" id="allDiscuss">Discuss all ' + ITEMS.length + '</button>';
+  h += '<button class="bulk" id="copy">Copy output</button>';
+  h += '<button class="save" id="save">Save output</button>';
+  h += '</div>';
+
+  h += '<div class="msg" id="msg" hidden></div>';
+
+  h += '<div class="items">';
+  visible.forEach(function(it){
+    var i = ITEMS.indexOf(it);
+    var d = state.decisions[it.id] || '';
+    h += '<div class="item"' + (d ? ' data-choice="' + d + '"' : '') + '>';
+    h += '<div class="item-head"><span class="num">' + (i+1 < 10 ? '0' : '') + (i+1) + '</span>';
+    h += '<h2>' + it.t + '</h2></div>';
+    h += '<div class="outcomes">';
+    h += '<div class="outcome y"><b>If approved</b>' + it.y + '</div>';
+    h += '<div class="outcome n"><b>If rejected</b>' + it.n + '</div>';
+    h += '</div>';
+    if(it.ev) h += '<p class="ev">' + it.ev + '</p>';
+    h += '<div class="choices">';
+    ['approve','reject','discuss'].forEach(function(k){
+      h += '<button class="ch" data-item="' + it.id + '" data-choice="' + k + '" aria-pressed="' +
+           (d === k ? 'true' : 'false') + '">' + LABEL[k] + '</button>';
+    });
+    h += '</div>';
+    h += '<input class="note" data-note="' + it.id + '" placeholder="Add a note for this one (optional)" value="' +
+         esc(state.notes[it.id] || '') + '"' + (d === 'discuss' || state.notes[it.id] ? '' : ' hidden') + '>';
+    h += '</div>';
+  });
+  if(!visible.length) h += '<div class="msg">No findings match this view.</div>';
+  h += '</div>';
+
+  h += '<div class="foot">';
+  if(FOOTER) h += '<p class="applied">' + esc(FOOTER) + '</p>';
+  h += 'Use Copy output to paste the rulings into chat, or Save output to download <code>' + esc(OUTPUT_NAME) + '</code>. ' +
+       'Unmarked findings remain unresolved; they are never treated as rejected.';
+  h += '</div>';
+  h += '</div>';
+
+  document.getElementById('app').innerHTML = h;
+  wire();
+}
+
+function flash(text, warn){
+  var m = document.getElementById('msg');
+  if(!m) return;
+  m.textContent = text;
+  m.className = warn ? 'msg warn' : 'msg';
+  m.hidden = false;
+}
+
+function wire(){
+  Array.prototype.forEach.call(document.querySelectorAll('.ch'), function(b){
+    b.addEventListener('click', function(){
+      var id = b.getAttribute('data-item'), k = b.getAttribute('data-choice');
+      state.decisions[id] = (state.decisions[id] === k) ? undefined : k;
+      if(!state.decisions[id]) delete state.decisions[id];
+      persist();
+      render();
+    });
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll('.note'), function(n){
+    n.addEventListener('input', function(){
+      var id = n.getAttribute('data-note');
+      if(n.value) state.notes[id] = n.value; else delete state.notes[id];
+      persist();
+    });
+  });
+
+  var all = document.getElementById('allDiscuss');
+  if(all) all.addEventListener('click', function(){
+    ITEMS.forEach(function(it){ state.decisions[it.id] = 'discuss'; });
+    persist();
+    render();
+  });
+
+  var search = document.getElementById('search');
+  if(search) search.addEventListener('input', function(){
+    state.search = search.value;
+    render();
+    var next = document.getElementById('search');
+    if(next){ next.focus(); next.setSelectionRange(next.value.length, next.value.length); }
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll('[data-filter]'), function(b){
+    b.addEventListener('click', function(){ state.filter = b.getAttribute('data-filter'); render(); });
+  });
+
+  var copy = document.getElementById('copy');
+  if(copy) copy.addEventListener('click', copyOutput);
+  var save = document.getElementById('save');
+  if(save) save.addEventListener('click', doSave);
+}
+
+function output(){
+  var c = counts();
+  var decisions = {}, notes = {}, unmarked = [];
+  ITEMS.forEach(function(it){
+    var choice = state.decisions[it.id];
+    if(choice) decisions[it.id] = choice; else unmarked.push(it.id);
+    if(state.notes[it.id]) notes[it.id] = state.notes[it.id];
+  });
+  return {
+    schemaVersion: 1,
+    reviewId: REVIEW_ID,
+    savedAt: new Date().toISOString().replace('T',' ').slice(0,16) + ' UTC',
+    decided: c.approve + c.reject + c.discuss,
+    tally: c,
+    decisions: decisions,
+    notes: notes,
+    discuss: ITEMS.filter(function(it){ return decisions[it.id] === 'discuss'; }).map(function(it){ return it.id; }),
+    unmarked: unmarked
+  };
+}
+
+function outputText(){ return JSON.stringify(output(), null, 2); }
+
+function copyOutput(){
+  var value = outputText();
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(value).then(function(){ flash('Decision output copied.'); }).catch(function(){ fallbackCopy(value); });
+  } else fallbackCopy(value);
+}
+
+function fallbackCopy(value){
+  var area = document.createElement('textarea');
+  area.value = value; area.style.position = 'fixed'; area.style.opacity = '0';
+  document.body.appendChild(area); area.select();
+  try {
+    if(document.execCommand('copy')) flash('Decision output copied.');
+    else window.prompt('Copy the decision output:', value);
+  } catch(e) { window.prompt('Copy the decision output:', value); }
+  area.remove();
+}
+
+function doSave(){
+  var blob = new Blob([outputText()], {type:'application/json'});
+  var url = URL.createObjectURL(blob);
+  var link = document.createElement('a');
+  link.href = url; link.download = OUTPUT_NAME;
+  document.body.appendChild(link); link.click(); link.remove();
+  URL.revokeObjectURL(url);
+  flash('Saved ' + OUTPUT_NAME + '.');
+}
+
+render();
+</script><script>new Function(document.getElementById("src").textContent)();</script></body></html>
