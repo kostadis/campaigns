@@ -18,6 +18,14 @@ desktop.ini
 gMarkdown
 gdrive
 
+# Python build artifacts. Added 2026-09-12 with tools/combat_sim.py, the
+# first Python in this campaign — there was no rule because there was no
+# Python. The .pyc is regenerable and platform-tagged; only the source
+# belongs in git. (tools/ is excluded from the palace separately, via
+# .mempalaceignore.)
+__pycache__/
+*.pyc
+
 # Operational artifacts leaked into repo root (should live outside the repo)
 /abyss/
 /docs/.cg/
