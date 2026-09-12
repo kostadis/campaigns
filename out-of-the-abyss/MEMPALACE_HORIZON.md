@@ -39,7 +39,7 @@ explicit.
 
 | Wing | Source dir | Files (`.md`) | Drawers |
 |------|-----------|-------|---------|
-| `chronicle` | `docs/distill_extractions/` | 65 | 3212 |
+| `chronicle` | `docs/distill/distill_extractions/` | 65 | 3212 |
 | `narrative` | `docs/chapters/` | 62 | 1814 |
 | `abyss` | root campaign reference | 509 | 3265 |
 | `notes` | `notes/` | 47 | 1321 |
@@ -87,9 +87,9 @@ When the user says **"now we have chapter N"**:
 2. Re-mine the affected wings (mempalace's file-hash check skips
    unchanged drawers):
    ```bash
-   mp="/home/kroussos/.venv/main/bin/mempalace --palace abyss"
+   mp="/home/kroussos/.venvs/main/bin/mempalace --palace abyss"
    cd /home/kroussos/out-of-the-abyss/out-of-the-abyss
-   $mp mine docs/distill_extractions   # chronicle
+   $mp mine docs/distill/distill_extractions   # chronicle
    $mp mine docs/chapters              # narrative
    $mp mine .                          # abyss (root)
    $mp mine notes                      # notes      <- explicit path required
@@ -150,6 +150,30 @@ back to onnxruntime embeddings without re-mining).
 
 ## Known caveats at this horizon
 
+- **The pipeline output moved under `docs/distill/` and six
+  `.mempalaceignore` rules were left behind (found 2026-09-11).**
+  `docs/distill_extractions/`, `docs/planning_extractions/`,
+  `docs/campaign_state_extracts/` and `docs/party_extract/` all still
+  named the pre-reorganisation paths, so 310 pipeline intermediates plus
+  the 65-file chronicle wing were unexcluded from the root mine — and
+  because `distill_extractions/` *is* the chronicle source, a root mine
+  would have double-mined it into `abyss` too. `docs/npcs/` and
+  `docs/v2/npcs/` are gone entirely; their successor
+  `docs/distill/npcs/` (173 dossiers + 42 `new_notes` fragments) was
+  likewise unexcluded and is now excluded on the same one-entity-source
+  grounds. The rebuild command block in this file named the old
+  chronicle path too, so following it verbatim mined *nothing* for
+  chronicle and silently dropped 3,212 drawers.
+  **When a path in `.mempalaceignore` stops matching, the rule is dead,
+  not satisfied.** Validate before every rebuild:
+  ```bash
+  grep -vE '^#|^$' .mempalaceignore | grep '/$' \
+    | while read d; do [ -d "$d" ] || echo "STALE $d"; done
+  ```
+  The same check with `grep '\.md$'` and `[ -e ]` catches broken file
+  rules — which is how the four PC-sheet lines were found to have never
+  fired (they were lowercase against capitalised filenames).
+
 - **Two checkouts of this repo exist on disk.** `kostadis/campaigns.git`
   is cloned at *both* `/home/kroussos/out-of-the-abyss/` (current, used
   for the chapter 59 release) and `/home/kroussos/campaigns/` (as of
@@ -162,7 +186,9 @@ back to onnxruntime embeddings without re-mining).
   Confirm which tree you are in before mining or tagging; the palace is
   a single shared store at `~/.mempalace/palaces/abyss/`, so mining from
   the stale clone would quietly overwrite good drawers with old content.
-- **mempalace binary moved.** It is `/home/kroussos/.venv/main/bin/mempalace`.
+- **mempalace binary moved.** It is `/home/kroussos/.venvs/main/bin/mempalace`
+  (note the plural `.venvs`; `/home/kroussos/.venv/main/bin/mempalace`, as
+  this doc said until 2026-09-11, does not exist).
   The path in the older docs and in the release skill
   (`/home/kroussos/worldanvil_pipeline/venv/bin/mempalace`) no longer
   exists — that venv is gone, though the `worldanvil_pipeline/` directory
@@ -261,7 +287,7 @@ back to onnxruntime embeddings without re-mining).
   semantic space differ between providers, so existing drawers
   aren't reusable).
 - **Per-wing yaml is local-only (gitignored).**
-  `docs/distill_extractions/mempalace.yaml` and
+  `docs/distill/distill_extractions/mempalace.yaml` and
   `docs/chapters/mempalace.yaml` are both excluded by the campaign's
   root `.gitignore` (line 3: `mempalace.yaml`). They live on disk
   but never enter version control. If the chronicle yaml is missing

@@ -1,11 +1,25 @@
 # Separate wings (mined independently)
 docs/chapters/
-docs/distill_extractions/
+docs/distill/distill_extractions/
 
-# Pipeline intermediates (not indexed)
-docs/planning_extractions/
-docs/campaign_state_extracts/
-docs/party_extract/
+# Pipeline intermediates (not indexed).
+# REPOINTED 2026-09-11. These four rules named the pre-reorganisation paths
+# (`docs/distill_extractions/`, `docs/planning_extractions/`,
+# `docs/campaign_state_extracts/`, `docs/party_extract/`) and had silently
+# matched nothing since the pipeline output moved under `docs/distill/`.
+# 310 intermediate files plus the 65-file chronicle wing were therefore
+# unexcluded from the root mine. `distill_extractions/` is the chronicle
+# wing's own source, so a root mine would have double-mined it into abyss
+# as well. This is the pollution the docs/ensemble/ comment below
+# documents, arriving by a different route: the rules were never removed,
+# the directories moved out from under them.
+# When a path here stops matching, the rule is dead, not satisfied. Verify
+# with: grep -vE '^#|^$' .mempalaceignore | grep '/$' | while read d; do
+#   [ -d "$d" ] || echo "STALE $d"; done
+docs/distill/planning_extractions/
+docs/distill/campaign_state_extracts/
+docs/distill/party_extract/
+docs/distill/party_extractions/
 
 # Ensemble: docs/ensemble/merged_dossiers/ is THE entity source of record
 # as of the chapter 59 release. Everything else under docs/ensemble/ is the
@@ -61,13 +75,18 @@ notes/
 # (vareth.md AND brother_vareth.md; asha.md, asha_vandree.md AND
 # asha_vandry.md), so a raw name-set diff overstates any gap. Query the
 # palace before declaring something missing. See MEMPALACE_HORIZON.md.
-docs/v2/npcs/
+# DEAD RULE as of 2026-09-11: docs/v2/npcs/ no longer exists on disk. Kept
+# commented for the coverage audit and the retraction above, which stop a
+# settled false alarm being re-raised.
+#docs/v2/npcs/
 
 # Superseded by docs/ensemble/merged_dossiers/ as of the chapter 59 release.
 # merged_dossiers/ carries 456 entities (npc/object/location/monster/faction)
 # against 214 here, so it is a superset, not a swap. The files stay in git as
 # working reference for the GM; they just no longer feed the palace.
-docs/npcs/
+# DEAD RULE as of 2026-09-11: docs/npcs/ no longer exists on disk. Its
+# successor is docs/distill/npcs/, excluded below on the same grounds.
+#docs/npcs/
 
 # Party PC files (PCs, not NPCs). These moved with the source switch — the
 # same four PCs appear under merged_dossiers/, so the exclusion has to be
@@ -105,6 +124,14 @@ docs/zalthir_backstory.md
 # PC mechanics come from the sheets in git, not from semantic search.
 # (old/*.pdf was already caught by the *.pdf rule below.)
 docs/party/
+
+# The third entity source, excluded 2026-09-11 on the same one-source
+# grounds as docs/npcs/ and docs/v2/npcs/ above: 173 base dossiers plus 42
+# per-chapter `*.new_notes.NNN.md` fragments, against the 483 entities in
+# docs/ensemble/merged_dossiers/, which remains the source of record. A
+# 173-entity set competing with it is the same stale-outranks-current risk,
+# and the new_notes files are pipeline intermediates by definition.
+docs/distill/npcs/
 
 # Pipeline rendering inputs
 voice/
