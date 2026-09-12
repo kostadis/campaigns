@@ -8,17 +8,17 @@
 
 **Jimjar (Goblin)**
 - Convinced Yuk-Yuk and Spiderbait to join the group for 20 gold.
-- Made a bet with Grygum over whether Thorin would successfully cross the gorge (lost).
+- Made a bet with Gyrgum over whether Thorin would successfully cross the gorge (lost).
 - Excited by the discovery of a tinderbox for cooking Ripplebark.
 - Believed monsters attracted to the bandit corpses would impede pursuers rather than leave a trail.
-- Engaged in a late-night betting discussion with Grygum about what monsters might be in the lost tomb.
+- Engaged in a late-night betting discussion with Gyrgum about what monsters might be in the lost tomb.
 
 **Eldeth (Shield Dwarf)**
 - Primary forager for the group; located Ripplebark and Waterorbs.
 - Identified and warned the group about a field of Timmasks, preventing mass poisoning.
 - Discovered a corpse in the Timmask field, identified as the bandit who escaped the gorge ambush.
 - Expressed discomfort with Thorin's association with giants due to the devastation caused by the War of the Giants in the North.
-- Co-identified (alongside Grygum and Zalthir) that the bandit leader's story about being lost was fabricated.
+- Co-identified (alongside Gyrgum and Zalthir) that the bandit leader's story about being lost was fabricated.
 
 **Suushar the Awakened (Kuo-Toa)**
 - Observed Thorin's episode of madness and suggested the archpriest Ploopploopeen in Sloopbludop could help.
@@ -46,7 +46,7 @@
 **Bandit Leader (Unnamed)**
 - Arrived with surviving bandits under a flag of truce the evening of the 10th day.
 - Offered information about escaping the Underdark in exchange for food; the deal was accepted.
-- Claimed the group had taken too many wrong turns exploring a dungeon — identified as a fabrication by Grygum, Eldeth, and Zalthir.
+- Claimed the group had taken too many wrong turns exploring a dungeon — identified as a fabrication by Gyrgum, Eldeth, and Zalthir.
 - Provided the intel that Blingdenstone offers the best chance of escape to the surface.
 
 **Bandit Group (Unnamed, Multiple)**

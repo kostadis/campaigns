@@ -24,11 +24,11 @@ Topsy is a female deep gnome prisoner at Velkynvelve. She introduced herself and
 
 ## Turvy
 
-Turvy is a male deep gnome prisoner at Velkynvelve and Topsy's twin brother. He is quiet and mumbles rather than speaking clearly. Topsy translates for him, relaying his greetings to Grygum and his suggestion about Blingdenstone.
+Turvy is a male deep gnome prisoner at Velkynvelve and Topsy's twin brother. He is quiet and mumbles rather than speaking clearly. Topsy translates for him, relaying his greetings to Gyrgum and his suggestion about Blingdenstone.
 
 ## Sarith
 
-Sarith is a Drow prisoner at Velkynvelve who is covered in some kind of fungal rot. He was convicted of murdering a fellow Drow but insists it was a setup—though he immediately contradicts himself, wondering aloud if he actually did commit the crime. He is terrified of being sent to Menzoberranzan to be sacrificed or turned into a drider. Daz assessed him as not sane. Despite this, Grygum concluded that Sarith is a genuine prisoner rather than a spy. Later, Sarith provided useful intelligence, warning the group about a gray ooze in the pools at the bottom of the cave that could be a hazard during an escape attempt, though he devolved into muttering while sharing this information.
+Sarith is a Drow prisoner at Velkynvelve who is covered in some kind of fungal rot. He was convicted of murdering a fellow Drow but insists it was a setup—though he immediately contradicts himself, wondering aloud if he actually did commit the crime. He is terrified of being sent to Menzoberranzan to be sacrificed or turned into a drider. Daz assessed him as not sane. Despite this, Gyrgum concluded that Sarith is a genuine prisoner rather than a spy. Later, Sarith provided useful intelligence, warning the group about a gray ooze in the pools at the bottom of the cave that could be a hazard during an escape attempt, though he devolved into muttering while sharing this information.
 
 ## Shuushar the Awakened
 
@@ -44,7 +44,7 @@ Stool is a Myconid child prisoner at Velkynvelve—a sentient mushroom creature 
 
 ## Buppido
 
-Buppido is a Derro prisoner at Velkynvelve. Despite derro having a reputation as "some kind of dwarven perversion" (according to Eldeth), Buppido presents as personable, gregarious, and talkative. He claims to be guided by a "divine plan" and urged the group to escape, saying "there is only one path forward." He showed interest in Grygum as a fellow follower of gods and suggested future cooperation. However, he also coldly proposed sending Runc ahead as a distraction so the rest could escape, and when asked why he wouldn't do it himself, he called himself "more of a big-picture thinker" and cryptically hinted at hidden power he doesn't want to reveal. He refused to let Jimjar bet on the divine plan, calling it sacrilege.
+Buppido is a Derro prisoner at Velkynvelve. Despite derro having a reputation as "some kind of dwarven perversion" (according to Eldeth), Buppido presents as personable, gregarious, and talkative. He claims to be guided by a "divine plan" and urged the group to escape, saying "there is only one path forward." He showed interest in Gyrgum as a fellow follower of gods and suggested future cooperation. However, he also coldly proposed sending Runc ahead as a distraction so the rest could escape, and when asked why he wouldn't do it himself, he called himself "more of a big-picture thinker" and cryptically hinted at hidden power he doesn't want to reveal. He refused to let Jimjar bet on the divine plan, calling it sacrilege.
 
 ## Eldeth
 
@@ -52,7 +52,7 @@ Eldeth is a female dwarf prisoner at Velkynvelve. She was happy to meet fellow d
 
 ## Runc
 
-Runc is an orc prisoner at Velkynvelve. He was disappointed to learn that Grygum is a cleric of Bahamut rather than Gruumsh, as Runc had fought poorly and was seeking absolution from his god. Eldeth mocked him for the orcish defeat at Gauntlygrym. Buppido proposed using Runc as a sacrificial distraction during an escape attempt.
+Runc is an orc prisoner at Velkynvelve. He was disappointed to learn that Gyrgum is a cleric of Bahamut rather than Gruumsh, as Runc had fought poorly and was seeking absolution from his god. Eldeth mocked him for the orcish defeat at Gauntlygrym. Buppido proposed using Runc as a sacrificial distraction during an escape attempt.
 
 ## Jimjar
 

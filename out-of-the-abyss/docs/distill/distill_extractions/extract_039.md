@@ -28,7 +28,7 @@
 - Faction: Aligned with Jubilex/the Faceless Lord
 - Motivations/secrets: Seeks to "cleanse" Blingdenstone; source of the ooze problem; identified as the source of the disembodied voice in the cavern; confirmed as a gnome
 
-**Grygum**
+**Gyrgum**
 - Current location: Blingdenstone / returning from ooze caves
 - Current state: Active
 - Recent actions: Suggested using Glabbagool to clear the rubble path; claimed the magical short sword found after the gelatinous cube battle; recalled information about Jubilex (the Faceless Lord); presented the plan to Chief Dorbo Diggermattock
@@ -91,7 +91,7 @@
 **Jubilex (the Faceless Lord)**
 - Current location: Does not appear in this session; referenced only
 - Current state: Not present; referenced as a demon lord
-- Notes: Previously mentioned by a ghost (in a prior session); recalled by Grygum as a demon who infuses power to create chaos; the Pudding King is proclaiming Jubilex's coming to Blingdenstone; Glabbagool may be experiencing influence connected to Jubilex via the voices he is hearing
+- Notes: Previously mentioned by a ghost (in a prior session); recalled by Gyrgum as a demon who infuses power to create chaos; the Pudding King is proclaiming Jubilex's coming to Blingdenstone; Glabbagool may be experiencing influence connected to Jubilex via the voices he is hearing
 
 ---
 
@@ -139,7 +139,7 @@
 
 - The party fought and defeated gelatinous cubes in the Trader's Grotto, saving lives but causing destruction in the process.
 - A sergeant credited Chief Dorbo Diggermattock for hiring the adventurers to manage the crowd's reaction; a citizen accused Dorbo of caring only for wealth.
-- A magical short sword was discovered in the aftermath of the gelatinous cube battle; Grygum claimed it.
+- A magical short sword was discovered in the aftermath of the gelatinous cube battle; Gyrgum claimed it.
 - An unnamed merchant from the Chamber of Commerce gave the party a ten percent discount coupon as a reward.
 - The sergeant directed the party toward a rubble path leading to the source of the ooze problem.
 - Glabbagool spent approximately one hour clearing a passageway through the rubble; a gnome from the mining operations observed this and expressed interest in hiring him for future work.
@@ -152,7 +152,7 @@
 - The bat familiar discovered the Pudding King seated on a slime-covered throne in a cave lit by phosphorescent lichen, holding mad court and speaking of cleansing Blingdenstone.
 - The party confirmed the Pudding King as the source of the ooze problem and the disembodied voice.
 - The party returned to Blingdenstone and reported their findings to Chief Dorbo Diggermattock.
-- Grygum presented the plan: the gnome army would distract the oozes while Zalthir captured or eliminated the Pudding King.
+- Gyrgum presented the plan: the gnome army would distract the oozes while Zalthir captured or eliminated the Pudding King.
 - Chief Dorbo called the plan the dumbest he had ever heard; Senni silenced him and asked if he had a better one.
 - Zalthir demonstrated his shadow movement abilities to the deep gnomes (lights were dimmed).
 - Jimjar placed a bet with Chief Dorbo expressing confidence in the adventurers.

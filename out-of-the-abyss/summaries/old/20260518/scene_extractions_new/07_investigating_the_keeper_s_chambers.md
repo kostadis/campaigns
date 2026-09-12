@@ -20,7 +20,7 @@ source: gmassist
 - Thorin notes the tobacco smoke is lingering even though the candles burned out long ago — a detail flagged for follow-up.
 - The party deduces from the burned-down candles that Janussi must have been murdered many hours before the body was found. Tadric confirms Miss Hollypocket would never have allowed the Keeper to spend the night with candles burning down to nothing like that.
 - The party rolls Medicine and Investigation to examine the body. Zalthir rolls a 17 and confirms: the Keeper's rib cage was smashed by what appears to be an axe or similar weapon, using several precise blows all very close to one another. Only the heart is missing — no other organs. The blood is surprisingly localized around the wound, far less than one would expect from such a violent injury — suggesting Janussi may already have been dead before the chest was opened.
-- Grygum immediately recognizes the implication: Raise Dead is impossible if the vital organs are not present. The heart was taken specifically to prevent resurrection.
+- Gyrgum immediately recognizes the implication: Raise Dead is impossible if the vital organs are not present. The heart was taken specifically to prevent resurrection.
 - Thorin asks whether they can still Speak with Dead without the heart — they only need the brain and a mouth. Tadric reveals that someone already tried — and the dead were not speaking. The party considers that the spell may have already been cast (which would block further attempts for ten days), or that some other effect is preventing it.
 - Thorin asks whether waiting ten days would allow them to try again. The answer is yes — though the corpse will be considerably more fragrant by then. Thorin asks whether there is any ice available to preserve the body.
 - The session ends with the party mid-investigation, the crime scene rich with unanswered questions: the identity of the hooded Avowed seen at dinner; the significance of The Golden Ass and the ink change; who cast Speak with Dead and when; what Kalan found during his inspection; and what was taken from the safe.
@@ -188,8 +188,8 @@ source: gmassist
 
 **[The Heart Is Missing — Resurrection Implications]**
 
-**GM** — *Grygum's clerical insight*
-> "because Grygum is a cleric, he immediately realizes what's going on, was Zalthir is speculating about the deaths. He goes, oh! you can't raise the dead of somebody if the vital organs are not there."
+**GM** — *Gyrgum's clerical insight*
+> "because Gyrgum is a cleric, he immediately realizes what's going on, was Zalthir is speculating about the deaths. He goes, oh! you can't raise the dead of somebody if the vital organs are not there."
 
 **Zalthir**
 > "I was gonna ask about that, okay."

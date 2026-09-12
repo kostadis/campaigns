@@ -113,7 +113,7 @@
   {
     "type": "event",
     "subject": "Fargas admits to keeping his bargain",
-    "fact": "Fargas Rumblefoot admits he must keep his end of the bargain after Grygum repeats his words.",
+    "fact": "Fargas Rumblefoot admits he must keep his end of the bargain after Gyrgum repeats his words.",
     "source_quote": "He sighs, \u201cI suppose I should keep my end of the bargain.\u201d",
     "quote_verified": false,
     "passes": [
@@ -135,7 +135,7 @@
   {
     "type": "event",
     "subject": "Fargas\u2019s revelation",
-    "fact": "Fargas Rumblefoot disclosed knowledge of Brysis\u2019s tomb\u2019s hidden chamber and its false burial site, admitting he does not know the exact location but believes it to be near the eastern edge of the Darklake. His statements were corroborated by Grygum\u2019s notes and deemed truthful.",
+    "fact": "Fargas Rumblefoot disclosed knowledge of Brysis\u2019s tomb\u2019s hidden chamber and its false burial site, admitting he does not know the exact location but believes it to be near the eastern edge of the Darklake. His statements were corroborated by Gyrgum\u2019s notes and deemed truthful.",
     "source_quote": "I don\u2019t know the precise location. But I do know where it is -sort- of. It\u2019s on the eastern edge of the Darklake.",
     "quote_verified": true,
     "passes": [
@@ -255,9 +255,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum recalls what Fargas said by pulling out notes he took while Fargas was speaking.",
-    "source_quote": "Grygum pulls out a scrap of paper, says, \"I took notes while you were talking,\" and then repeats what Fargas said.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum recalls what Fargas said by pulling out notes he took while Fargas was speaking.",
+    "source_quote": "Gyrgum pulls out a scrap of paper, says, \"I took notes while you were talking,\" and then repeats what Fargas said.",
     "quote_verified": false,
     "passes": [
       "interiority"
@@ -266,8 +266,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum takes his handheld crossbow and fires at the Spectator after muttering about needing better-ranged spells.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum takes his handheld crossbow and fires at the Spectator after muttering about needing better-ranged spells.",
     "source_quote": "He then takes his handheld crossbow and fires at the creature.",
     "quote_verified": true,
     "passes": [
@@ -277,8 +277,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum fires crossbow at Spectator",
-    "fact": "Grygum fires his handheld crossbow at the Spectator.",
+    "subject": "Gyrgum fires crossbow at Spectator",
+    "fact": "Gyrgum fires his handheld crossbow at the Spectator.",
     "source_quote": "He then takes his handheld crossbow and fires at the creature.",
     "quote_verified": true,
     "passes": [
@@ -454,7 +454,7 @@
   {
     "type": "event",
     "subject": "Spectator's attack",
-    "fact": "The Spectator used a confusion ray on Thorin, a green paralysis ray on Zalthir, and a blue ray that failed to affect Thorin, before being slain by Thorin\u2019s sword, Daz\u2019s magic missiles, and Grygum\u2019s crossbow.",
+    "fact": "The Spectator used a confusion ray on Thorin, a green paralysis ray on Zalthir, and a blue ray that failed to affect Thorin, before being slain by Thorin\u2019s sword, Daz\u2019s magic missiles, and Gyrgum\u2019s crossbow.",
     "source_quote": "",
     "quote_verified": false,
     "passes": [
@@ -1424,8 +1424,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum concludes that Fargas was not lying and is not lying.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum concludes that Fargas was not lying and is not lying.",
     "source_quote": "Fargas wasn\u2019t -lying- and he isn\u2019t lying.",
     "quote_verified": true,
     "passes": [
@@ -1435,9 +1435,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum declares that Fargas wasn\u2019t lying and he isn\u2019t lying, based on how the halfling speaks.",
-    "source_quote": "Grygum looks at Fargas, takes a measure of how the halfling speaks, and declares, \"Fargas wasn\u2019t -lying- and he isn\u2019t lying.\"",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum declares that Fargas wasn\u2019t lying and he isn\u2019t lying, based on how the halfling speaks.",
+    "source_quote": "Gyrgum looks at Fargas, takes a measure of how the halfling speaks, and declares, \"Fargas wasn\u2019t -lying- and he isn\u2019t lying.\"",
     "quote_verified": false,
     "passes": [
       "interiority"
@@ -1446,8 +1446,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a friendly goblin who questioned the Spectator, made a bet with Jimjar that the creature could not be convinced of their benign intent, and later muttered about needing better-ranged spells before firing his handheld crossbow.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a friendly goblin who questioned the Spectator, made a bet with Jimjar that the creature could not be convinced of their benign intent, and later muttered about needing better-ranged spells before firing his handheld crossbow.",
     "source_quote": "",
     "quote_verified": false,
     "passes": [
@@ -1457,8 +1457,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a note-taker who records conversations verbatim and later confirms Fargas Rumblefoot\u2019s statements. He is observant, methodical, and declares that Fargas was not lying and is not lying, despite the ambiguity in his claims.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a note-taker who records conversations verbatim and later confirms Fargas Rumblefoot\u2019s statements. He is observant, methodical, and declares that Fargas was not lying and is not lying, despite the ambiguity in his claims.",
     "source_quote": "I took notes while you were talking,",
     "quote_verified": true,
     "passes": [
@@ -1468,9 +1468,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum mutters to himself that he needs better-ranged spells.",
-    "source_quote": "Grygum mutters to himself, \"I need better-ranged spells.\"",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum mutters to himself that he needs better-ranged spells.",
+    "source_quote": "Gyrgum mutters to himself, \"I need better-ranged spells.\"",
     "quote_verified": false,
     "passes": [
       "interiority"
@@ -1479,8 +1479,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum took notes while Fargas spoke about Brysis\u2019s tomb.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum took notes while Fargas spoke about Brysis\u2019s tomb.",
     "source_quote": "I took notes while you were talking,",
     "quote_verified": true,
     "passes": [
@@ -1490,8 +1490,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum took notes while Fargas was speaking and repeated his claims verbatim.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum took notes while Fargas was speaking and repeated his claims verbatim.",
     "source_quote": "I took notes while you were talking,\" and then repeats what Fargas said.",
     "quote_verified": false,
     "passes": [
@@ -1501,8 +1501,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum's note-taking",
-    "fact": "Grygum took notes while Fargas was speaking and later repeated his claims.",
+    "subject": "Gyrgum's note-taking",
+    "fact": "Gyrgum took notes while Fargas was speaking and later repeated his claims.",
     "source_quote": "I took notes while you were talking,",
     "quote_verified": true,
     "passes": [
@@ -1524,8 +1524,8 @@
   {
     "type": "npc",
     "subject": "Jimjar",
-    "fact": "Jimjar accepts a bet from Grygum that he cannot convince the Spectator they are not demons, and fails.",
-    "source_quote": "Grygum says, \"Jimjar, I\u2019ll make a bet you can\u2019t convince him that we are not demons and not enemies.\" Jimjar takes the bet and fails.",
+    "fact": "Jimjar accepts a bet from Gyrgum that he cannot convince the Spectator they are not demons, and fails.",
+    "source_quote": "Gyrgum says, \"Jimjar, I\u2019ll make a bet you can\u2019t convince him that we are not demons and not enemies.\" Jimjar takes the bet and fails.",
     "quote_verified": false,
     "passes": [
       "interiority",
@@ -1537,7 +1537,7 @@
   {
     "type": "npc",
     "subject": "Jimjar",
-    "fact": "Jimjar is a goblin who took and lost a bet with Grygum about convincing the Spectator, and later offered to pay the goblin guides for their services but deferred payment until he gets the money.",
+    "fact": "Jimjar is a goblin who took and lost a bet with Gyrgum about convincing the Spectator, and later offered to pay the goblin guides for their services but deferred payment until he gets the money.",
     "source_quote": "",
     "quote_verified": false,
     "passes": [
@@ -1970,7 +1970,7 @@
   {
     "type": "object",
     "subject": "Handheld crossbow",
-    "fact": "Grygum uses a handheld crossbow to fire at the Spectator after admitting he needs better-ranged spells.",
+    "fact": "Gyrgum uses a handheld crossbow to fire at the Spectator after admitting he needs better-ranged spells.",
     "source_quote": "",
     "quote_verified": false,
     "passes": [
@@ -2059,8 +2059,8 @@
   {
     "type": "object",
     "subject": "scrap of paper",
-    "fact": "Grygum holds a scrap of paper containing notes on Fargas\u2019s description of Brysis\u2019s tomb.",
-    "source_quote": "Grygum pulls out a scrap of paper, says, \u201cI took notes while you were talking,\u201d",
+    "fact": "Gyrgum holds a scrap of paper containing notes on Fargas\u2019s description of Brysis\u2019s tomb.",
+    "source_quote": "Gyrgum pulls out a scrap of paper, says, \u201cI took notes while you were talking,\u201d",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -2201,8 +2201,8 @@
   },
   {
     "type": "thread",
-    "subject": "Grygum\u2019s assessment of Fargas",
-    "fact": "Grygum declares that Fargas was not lying and is not lying now.",
+    "subject": "Gyrgum\u2019s assessment of Fargas",
+    "fact": "Gyrgum declares that Fargas was not lying and is not lying now.",
     "source_quote": "Fargas wasn\u2019t -lying- and he isn\u2019t lying.",
     "quote_verified": true,
     "passes": [
@@ -2302,7 +2302,7 @@
   {
     "type": "thread",
     "subject": "Zalthir\u2019s trust in Fargas",
-    "fact": "Zalthir is uncertain whether Fargas is lying now about the tomb\u2019s location, despite Grygum\u2019s assessment.",
+    "fact": "Zalthir is uncertain whether Fargas is lying now about the tomb\u2019s location, despite Gyrgum\u2019s assessment.",
     "source_quote": "The monk realizes that Fargas\u2019 claims were either made out of desperation or bravado, but he is uncertain if Farga is lying now.",
     "quote_verified": true,
     "passes": [

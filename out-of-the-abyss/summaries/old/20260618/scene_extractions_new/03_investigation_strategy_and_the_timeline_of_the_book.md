@@ -212,7 +212,7 @@ source: gmassist
 > "So if someone were able to speak to animals, they might be able to get something from them."
 
 **[GM]** — *Daz has Speak with Animals*
-> "Grygum, it turns out Daz has the ability to speak with animals. That was Daz."
+> "Gyrgum, it turns out Daz has the ability to speak with animals. That was Daz."
 
 **[Daz]**
 > "I do."

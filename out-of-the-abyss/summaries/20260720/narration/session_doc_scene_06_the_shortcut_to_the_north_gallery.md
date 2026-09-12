@@ -24,7 +24,7 @@ And there it was. The whole thing, laid out in three words, and every one of the
 
 "And the other one wasn't?" I said.
 
-Grygum lost it. Somewhere off my shoulder the orc just cracked open. "Ha ha ha ha ha ha ha ha!" I'll give myself this much: it was a good line. I meant it and it was true and it was funny, which is the best kind. But the terrain doesn't wait for a laugh. Tadric was up ahead getting torn apart by something we couldn't see yet, and standing in a hall arguing about a man's honor wasn't going to close the distance.
+Gyrgum lost it. Somewhere off my shoulder the orc just cracked open. "Ha ha ha ha ha ha ha ha!" I'll give myself this much: it was a good line. I meant it and it was true and it was funny, which is the best kind. But the terrain doesn't wait for a laugh. Tadric was up ahead getting torn apart by something we couldn't see yet, and standing in a hall arguing about a man's honor wasn't going to close the distance.
 
 "Okay, wait, never mind, never mind," I said. "Let's go. We run. Okay, we can argue about this later."
 
@@ -60,7 +60,7 @@ The question hung there a second, and then came back: would I like that.
 
 "Okay," I said, "if you could write that in, that'd be cool."
 
-And it was in. Officially in. A whispering gallery, mine to use. Grygum liked it too. "I like the idea of having something special in a rotunda. That sounds like fun." A rock in the right place is a wall. That's the terrain now.
+And it was in. Officially in. A whispering gallery, mine to use. Gyrgum liked it too. "I like the idea of having something special in a rotunda. That sounds like fun." A rock in the right place is a wall. That's the terrain now.
 
 Then the situation came clear, and there wasn't anything special about it at all.
 

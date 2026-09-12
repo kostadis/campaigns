@@ -66,7 +66,7 @@
 ---
 
 ### No issues found with:
-- Grygum's Mending attribution (correctly attributed to Grygum, not Thorin)
+- Gyrgum's Mending attribution (correctly attributed to Gyrgum, not Thorin)
 - A'lai described as "the brains" of the conspiracy (matches Alkrist's confession per campaign state)
 - Daral being named in context of the investigation (consistent)
 - The poisoned book being in party possession (consistent)

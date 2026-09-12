@@ -12,11 +12,11 @@ Focus: Daz is the only party member who can read the spy's Menzoberranzan tells 
 
 - Thorin attempts Intimidation with a roll of 15, suggesting the party could just let her go and report her failure to her matron, which would be "a fate worse than death for somebody like that." Since the stun has just worn off, she stares at him. He tries again later and fails; the spy laughs in his face.
 
-- Grygum rolls Insight (result not stated, but reads her successfully) and concludes she is low on the food chain, stuck with a miserable above-ground posting, and putting on a brave face. He casually offers her a job. She is visibly confused at the possibility of surviving.
+- Gyrgum rolls Insight (result not stated, but reads her successfully) and concludes she is low on the food chain, stuck with a miserable above-ground posting, and putting on a brave face. He casually offers her a job. She is visibly confused at the possibility of surviving.
 
-- Grygum then hands her the prayer beads of Bahamut and tells her to put them on. No further words of threat are needed. The religious implications — unknown Bahamut rituals, the half-orc presenting them, her drow racial prejudices all colliding — cause visible panic.
+- Gyrgum then hands her the prayer beads of Bahamut and tells her to put them on. No further words of threat are needed. The religious implications — unknown Bahamut rituals, the half-orc presenting them, her drow racial prejudices all colliding — cause visible panic.
 
-- Grygum rolls Persuasion: 19. The spy's demeanor shifts: "I was just assigned to track you, not to engage. My orders were to report your surface destination, your contact, who approaches you... My matron was waiting for you to surface, and she sent me up — she sent a couple of us up to the overbright. I got lucky and I spotted you."
+- Gyrgum rolls Persuasion: 19. The spy's demeanor shifts: "I was just assigned to track you, not to engage. My orders were to report your surface destination, your contact, who approaches you... My matron was waiting for you to surface, and she sent me up — she sent a couple of us up to the overbright. I got lucky and I spotted you."
 
 - Thorin: "Probably not feeling so lucky right now."
 
@@ -36,11 +36,11 @@ Focus: Daz is the only party member who can read the spy's Menzoberranzan tells 
 
 - The spy proposes a mutual information-sharing arrangement: she reports to House T'sarran, the party shares what they find, and everyone learns who is protecting Daz. Thorin is skeptical: "The minute she has the information she needs, she's off, and we get jack shit."
 
-- The party briefly discusses temporarily killing Daz to draw out his protector. Grygum notes he has a Revivify spell, making it "just a death light." Thorin agrees: "do it, but make sure we can bring them back." Daz is visibly uncomfortable.
+- The party briefly discusses temporarily killing Daz to draw out his protector. Gyrgum notes he has a Revivify spell, making it "just a death light." Thorin agrees: "do it, but make sure we can bring them back." Daz is visibly uncomfortable.
 
 - The spy suggests being escorted to Candlekeep and turned over to the guards, implying she knows how to escape, which the party notes is not a good argument for bringing her into their stronghold.
 
-- Thorin and Grygum conspire loudly in front of her: Thorin asks if the prayer beads retain full power even when shrunken; Grygum confirms they may in fact be more potent at reduced size.
+- Thorin and Gyrgum conspire loudly in front of her: Thorin asks if the prayer beads retain full power even when shrunken; Gyrgum confirms they may in fact be more potent at reduced size.
 
 <!-- Move each quote below under the beat where it belongs. -->
 <!-- Remove OOC lines (damage calls, mechanic announcements) before narrating. -->
@@ -80,9 +80,9 @@ Focus: Daz is the only party member who can read the spy's Menzoberranzan tells 
 <!-- confirming the failure -->
 [GM]: "She, she, she, she laughs in your face."
 
-### [Grygum Reads Her — Insight Roll]
+### [Gyrgum Reads Her — Insight Roll]
 
-<!-- to Grygum, conveying what he perceives -->
+<!-- to Gyrgum, conveying what he perceives -->
 [GM]: "you're a half-orc, and you know that drow on the surface really hate the sun, and they're very miserable, and, you know, this… whoever this person is, they're probably very low on the food chain, or, you know, they got stuck with this job, and, you know, they're putting on a brave face."
 
 <!-- offering her a job -->
@@ -91,7 +91,7 @@ Focus: Daz is the only party member who can read the spy's Menzoberranzan tells 
 <!-- the spy's confused reaction -->
 [GM]: "She's, like, very confused, like, wait, I might live? She's got that kind of, like, wait, I might walk out of this with my head still attached to my shoulders, these people will not kill me. She's very confused at this point in time, right?"
 
-### [Grygum Hands Over the Prayer Beads]
+### [Gyrgum Hands Over the Prayer Beads]
 
 <!-- the effect of the prayer beads -->
 [GM]: "Like, that actually freaks her out. Like, that, that… Like, all of a sudden, you know, she's part of a deeply… a religious cult, and, like, now she's, like, really worried. Like, when the priest hands over the beads, that actually is a moment of pure intimidation."
@@ -218,7 +218,7 @@ Focus: Daz is the only party member who can read the spy's Menzoberranzan tells 
 <!-- on why this is a bad idea -->
 [Thorin]: "She's so confident she can escape, I don't think we want to be taking her into the stronghold."
 
-### [Thorin and Grygum Conspire Loudly About the Prayer Beads]
+### [Thorin and Gyrgum Conspire Loudly About the Prayer Beads]
 
 <!-- loudly, for the spy's benefit -->
 [Thorin]: "So those prayer beads are at full power, even though they're shrunken, right?"

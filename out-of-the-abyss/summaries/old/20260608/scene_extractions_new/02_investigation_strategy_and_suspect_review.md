@@ -14,7 +14,7 @@ source: gmassist
 - The investigators debate the reliability of physical evidence versus trying to parse who is lying, leaning toward the physical evidence as more reliable.
 - A theory emerges that two separate actors may have been at the scene: one who knew exactly where the locket-key was, and one who did not and rifled the safe instead.
 - The party considers whether Bookwyrm should be on the suspect list, but agrees that any accusation would require strong evidence beforehand.
-- The party divides responsibilities: Grygum will research the poison in the library; others will pursue suspect interviews including Fheminor Scrivenbark, Daral Yashenti, and Kalan Strongbranch.
+- The party divides responsibilities: Gyrgum will research the poison in the library; others will pursue suspect interviews including Fheminor Scrivenbark, Daral Yashenti, and Kalan Strongbranch.
 
 ## Verbatim moments
 
@@ -30,7 +30,7 @@ source: gmassist
 > "I mean, it's nice and all to offer up that, like, we can use the office, and that they'll go fetch people, and all of those sorts of things, but it's also a little suspect."
 > "Like, maybe they're involved, and somehow…"
 
-**[Grygum]** — *reading the offer as not purely friendly*
+**[Gyrgum]** — *reading the offer as not purely friendly*
 > "It doesn't seem just friendly."
 > "I mean, it could be that they genuinely want to get to the bottom of this."
 
@@ -55,7 +55,7 @@ source: gmassist
 > "We're gonna talk to anybody who might be involved, so, you know,"
 > "Not quite sure who we're gonna talk to next, but you shouldn't read into that."
 
-**[Grygum]** — *spotting the nameless suspect entry*
+**[Gyrgum]** — *spotting the nameless suspect entry*
 > "You know, there is somebody in our list of characters who seems to have the same priorities that we do. maybe that would be someone to interview to sort of get tips on what to do next, or their suspicions."
 > "It isn't… for some reason, there's no name on that entry. It just says, Fheminor Scrivenbark."
 
@@ -83,7 +83,7 @@ source: gmassist
 **[Thorin]**
 > "So, there are other events that'll happen contemporaneously with us doing the investigation."
 
-**[Grygum]**
+**[Gyrgum]**
 > "There'll be more murders."
 
 **[GM]** — *on splitting the party*
@@ -93,7 +93,7 @@ source: gmassist
 **[Thorin]**
 > "I like us sticking together, I just think it's more imposing to have all, like, you know, 4, 5, 7, 8, 10 of us show up in a room."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Well, I feel like at this point, we should start out the investigation together. Maybe at some point, we'll, you know, there'll be two people we want to go see at once."
 
 **[GM]** — *laying out the interview options*
@@ -102,13 +102,13 @@ source: gmassist
 **[scene tag — Recalling the Council of Great Readers]**
 - The party pages through their notes; the LLM-generated suspect table has confused/duplicated names, prompting back-and-forth with the GM.
 
-**[Grygum]** — *parsing the table*
+**[Gyrgum]** — *parsing the table*
 > "Yeah, yeah, so there's… the last one with the name is Kazryn Ntantani, and then the three below that don't have names listed."
 
 **[GM]** — *recapping council reactions*
 > "Kazryn Ntantani, a slender human female with black hair, gray hair, and heavy wrinkles around her eyes, has said, first you must find the murderer."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Right, and then below Kazryn Ntantani is a bronze dragonborn counselor."
 
 **[GM]**
@@ -123,7 +123,7 @@ source: gmassist
 > "Daral was, Why isn't Sylvira Savikas here?"
 > "So she wasn't at the, at the council meeting."
 
-**[Grygum]** — *flagging Sylvira as worth talking to*
+**[Gyrgum]** — *flagging Sylvira as worth talking to*
 > "And, and, okay, so Sylvira Savikas, also seems worth talking to. Did, did we learn anything, about…"
 
 **[GM]** — *Sylvira background*
@@ -145,7 +145,7 @@ source: gmassist
 > "The third question is, you might want to go look up the murder point… the poison."
 > "Yes, the, you know, go investigate the substance and go into the library. Fembris would be more than happy to drag you there."
 
-**[Grygum]** — *proposing the split*
+**[Gyrgum]** — *proposing the split*
 > "Okay, well, what if, what if a couple of us go look up the poison, and the others go to interview Sylvira Savikas?"
 
 **[GM]**
@@ -155,7 +155,7 @@ source: gmassist
 > "We got a sample of it, right?"
 > "Yes, I'm assuming you have a sample of it."
 
-**[Grygum]**
+**[Gyrgum]**
 > "How did we get a sample? Was it on something?"
 
 **[GM]**
@@ -173,7 +173,7 @@ source: gmassist
 **[Thorin]**
 > "But, you know, maybe that's from watching too much CSI, what do I know?"
 
-**[Grygum]** — *volunteering for library duty*
+**[Gyrgum]** — *volunteering for library duty*
 > "I'm happy to do the library research."
 > "Poison section, please."
 
@@ -254,7 +254,7 @@ source: gmassist
 > "One of the things that, one of the vibes that you did get from Bookwyrm, was that…"
 > "She definitely wanted you guys to go talk to Sylvira Savikas."
 
-**[Grygum]**
+**[Gyrgum]**
 > "I think it makes a lot of sense. Somebody was impersonating her, and she might have an idea who…"
 
 **[scene tag — The Two-Actor Theory]**
@@ -281,7 +281,7 @@ source: gmassist
 **[Thorin]** — *the heart-taker theory*
 > "Right, but at the end of the day, I'm pretty sure that the person that killed him is the one that took the heart."
 
-**[Grygum / GM]** — *the sapphires question*
+**[Gyrgum / GM]** — *the sapphires question*
 > "Oh, I have a, I have a question. Sapphires were stolen as a spell component. Are those expensive or rare?"
 > "They are expensive, not particularly rare."
 > "Are they, expensive enough to kill someone over?"
@@ -291,14 +291,14 @@ source: gmassist
 > "And so, what you do know is that Janussi had one of the two keys to the high towers."
 > "Right? And so whoever walked in there, one person knew to take… some knew to take the locket, and another person went through the safe."
 
-**[Grygum / GM]** — *who holds the other key*
+**[Gyrgum / GM]** — *who holds the other key*
 > "Bookwyrm have the other one?"
 > "No, Kalan Strongbranch has the other one."
 
 **[Zalthir]** — *adding the sapphire research to the library task*
 > "I mean, if you're going to the library anyway, Ben, maybe you can check to see if sapphires are significant, either with respect to the High Tower somehow, or a particular spell."
 
-**[Grygum]**
+**[Gyrgum]**
 > "That's a good idea. Huh?"
 > "Yeah, I will include in my research,"
 > "Spells that sapphires are particular to."
@@ -312,7 +312,7 @@ source: gmassist
 **[Thorin]**
 > "Who's, who's gonna interview Kalan?"
 
-**[Grygum]**
+**[Gyrgum]**
 > "Well, who do we have left?"
 
 **[Thorin]** — *settling the split*

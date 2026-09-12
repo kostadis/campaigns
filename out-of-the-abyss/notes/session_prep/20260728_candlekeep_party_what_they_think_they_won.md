@@ -61,7 +61,7 @@ a misdirection to protect the stone.
 Mike plays Daz as the running audit. **This is a line in the ledger he can't
 close, entered by his own hand.**
 
-### Grygum — holding everything, seen by no one
+### Gyrgum — holding everything, seen by no one
 
 Holds **real key #2 and the sapphire**. Concentrating on *Tasha's Caustic Brew*;
 killed Thug 1 outright; Thug 2 is dissolving on the clock.
@@ -74,7 +74,7 @@ blind spot.
 passive 18, and a voice file built on reading people before places. Two things
 are sitting in front of him for free:
 
-- **A'lai never once tried to save his own men.** Grygum notices exactly this
+- **A'lai never once tried to save his own men.** Gyrgum notices exactly this
   kind of thing.
 - **A man with ~108 damage a round who is not killing anyone.** He put Zalthir
   down while rolling two natural 1s and hasn't pressed since.
@@ -115,7 +115,7 @@ room has said that out loud yet.
 
 ---
 
-## ⭐ The fake ace — the sapphire in Grygum's pocket
+## ⭐ The fake ace — the sapphire in Gyrgum's pocket
 
 The end-of-session board says the party holds *"a sapphire that calls Manshoon
 whenever they decide."* **They believe that. It is false.**
@@ -134,8 +134,8 @@ What it actually is:
 > fire at a time and place of their choosing, into a prepared ambush. Then they
 > crush it.
 >
-> Key #2 is **carried**, by Grygum. The recall fails. The stone helpfully informs
-> them that **Grygum has the key.**
+> Key #2 is **carried**, by Gyrgum. The recall fails. The stone helpfully informs
+> them that **Gyrgum has the key.**
 >
 > Nothing arrives. Nothing happens. It is the most anticlimactic possible
 > outcome for the thing they've been hoarding — and it is a lesson about taking
@@ -166,7 +166,7 @@ conclusion.**
 2. **"He couldn't wait."** The assassin's only line. It implies a schedule that
    existed independently of tonight — Manshoon was always coming.
 3. **A'lai spent an attack on his own thug.** Insight against a man more fluent
-   when lying, but Grygum has the numbers.
+   when lying, but Gyrgum has the numbers.
 4. **The assassin walked past Daz.** If Daz thinks about why, he learns the
    professionals weren't hunting *him* — which means A'lai's accusation didn't
    even register as intelligence. He was that unimportant to them.
@@ -181,7 +181,7 @@ conclusion.**
    to learn it tonight — A'lai is the only one who knew and he's dead. Leaving
    them wrong is the better story; just be sure *you* track it so you don't
    accidentally validate the false belief later.
-2. **Does anyone try to save A'lai?** Grygum has range and theology; Thorin has
+2. **Does anyone try to save A'lai?** Gyrgum has range and theology; Thorin has
    the grab. Whether anyone spends a reaction on Janussi's murderer, seconds
    after he pointed a knife at Daz, is a real character question. **Don't
    prompt it.**

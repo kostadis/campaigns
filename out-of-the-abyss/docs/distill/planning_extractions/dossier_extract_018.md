@@ -62,7 +62,7 @@ Pelek requests that the party collect some of his bones and bring them to Blingd
 
 He offers practical advice about Blingdenstone: the party should deny any association to Lolth or Menzoberranzan, and avoid any references to the number eight or spiders.
 
-Pelek also assists the party by scouting through a crack in the wall too small for anyone to fit through. He reports that the tunnel is "tiny all the way through" and identifies Pygmywort and Bigwig mushrooms on the other side — magical fungi that shrink and enlarge the consumer, respectively. He accompanies the party as they continue through the Whorlstone Caverns, carried via one of his bones by Grygum.
+Pelek also assists the party by scouting through a crack in the wall too small for anyone to fit through. He reports that the tunnel is "tiny all the way through" and identifies Pygmywort and Bigwig mushrooms on the other side — magical fungi that shrink and enlarge the consumer, respectively. He accompanies the party as they continue through the Whorlstone Caverns, carried via one of his bones by Gyrgum.
 
 ## Errde Blackstaff
 

@@ -71,13 +71,13 @@ As the basket bounces, Zalthir notices a piece of paper with some names of peopl
 He notices that Elspeth sees him pocket the paper. He notices that she finds a comb. She pockets the comb. He has little use for combs. 
 
 
-As the basket comes up, he notices Grygum entering a cave.
+As the basket comes up, he notices Gyrgum entering a cave.
 
 ---
 
 ## From chapter_04_pursuit.md: Drow pursuit — Zalthir invokes the teaching of Korrh Erann and chooses to run
 
-Zalthir notices that Sarith is not under the rocks and thinks, "We have not lost the guide." He sees Thorin reach for Grygum and thinks, "We need the healer." 
+Zalthir notices that Sarith is not under the rocks and thinks, "We have not lost the guide." He sees Thorin reach for Gyrgum and thinks, "We need the healer." 
 
 
 He looks at Daz, "If I don't get him  out of there, he will die." He braces against some rocks and shoves them out of the way. Daz is injured and unconcious but alive.
@@ -89,7 +89,7 @@ Stool is relieved to see that Gyrgum is alive. Gyrgum tells the frightened Mycon
 And Buppido shouts, "The divine plan said you would rescue me, Sarith!" 
 
 
-In the darkness, something shifts, legs clicking. Zalthir sees the bulbous shape of a massive, ghastly insect leaving behind a meal of exhumed remains. The thing clicks its mandibles, feather-like feelers probing the darkness for its next meal. It screeches, and the smell of rot and loam overwhelms him. Before the centipede-like creature wraps its entire, staggering length around him, he breathes fire and runs behind Thorin and Grygum. 
+In the darkness, something shifts, legs clicking. Zalthir sees the bulbous shape of a massive, ghastly insect leaving behind a meal of exhumed remains. The thing clicks its mandibles, feather-like feelers probing the darkness for its next meal. It screeches, and the smell of rot and loam overwhelms him. Before the centipede-like creature wraps its entire, staggering length around him, he breathes fire and runs behind Thorin and Gyrgum. 
 
 
 So, the creature wraps its tentacle around Grygyum, knocking him out. 
@@ -137,7 +137,7 @@ Stool jumps on and releases his rapport spores. A few moments later, he asks eve
 Zalthir dashes off ahead, using his monk training to speed ahead. As he runs, he looks for anything to use as a weapon or a hiding spot. He sees a tunnel and chooses the one veering left. As his lungs burn, he's about to give up when he notices a space behind some stalagmites that they could hide behind. Using the mind link created by Stool, he lets the group know. 
 
 
-Thorin, Daz,  Grygum, and the remaining prisoners run to the hiding space. 
+Thorin, Daz,  Gyrgum, and the remaining prisoners run to the hiding space. 
 
 
 Meanwhile, the pursuing Drow, hearing the running, start sprinting and, in their haste, barely avoid a sudden drop in the cave tunnels.
@@ -146,7 +146,7 @@ Meanwhile, the pursuing Drow, hearing the running, start sprinting and, in their
 Soon, the Drow scouts arrive at the stalagmites. They hear a large thump. Zalthir has fallen from his hiding place. Nym draws his weapon. He looks around. Then, he feels a tremor. Worried that this cave will collapse and seeing no evidence of the prisoners, he turns to leave. As they leave, Nym mutters, "I told you it was the other tunnel." 
 
 
-What Nym didn't know was that Grygum's Thaumaturgy was the source of the tremor. 
+What Nym didn't know was that Gyrgum's Thaumaturgy was the source of the tremor. 
 
 ---
 
@@ -209,7 +209,7 @@ Sensing this could get violent, Daz steps in, "It's my understanding that Zalthi
 Jimjar is stunned, "I'm so sorry. I didn't know." 
 
 
-But then Grygum steps forward, "I'll make that bet." 
+But then Gyrgum steps forward, "I'll make that bet." 
 
 
 Jimjar gets to work and, a little bit later, announces, "You won the bet." 
@@ -224,7 +224,7 @@ Jimjar gets to work and, a little bit later, announces, "You won the bet."
 Zalthir is baffled and intrigued, "He bet against himself even though he knew the odds of winning that bet were terrible. His willingness to make these bad bets implies he will make further bad bets going forward." 
 
 
-Grygum turns to him, "Interesting." 
+Gyrgum turns to him, "Interesting." 
 Zalthir tries to test his theory, "I'll bet you can't fly to the roof of this cavern?" 
 
 
@@ -240,7 +240,7 @@ Zalthir can only see that Jimjar is an infinite cash machine. If he can only fig
 ### Zalthir
 
 
-The dragonborn sighs. He wonders how Thorin managed to stay alive all of these years. In fact he's beginning to wonder if he will survive next to Thorin, Daz, and Grygum. 
+The dragonborn sighs. He wonders how Thorin managed to stay alive all of these years. In fact he's beginning to wonder if he will survive next to Thorin, Daz, and Gyrgum. 
 
 
 "We could check to see if there is any blood or gore on the boat?" 

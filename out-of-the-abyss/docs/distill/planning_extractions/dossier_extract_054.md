@@ -36,13 +36,13 @@ Kaelira and her sister departed after the contract was fulfilled, without ceremo
 
 Asha Vandree, a Lolth cleric who had also become affiliated with Zuggtmoy, declared herself in charge of the group immediately following the combat, with the absolute confidence of someone who had survived chaos and reframed it as divine favor. The declaration landed as a stone dropped into still water and produced immediate responses from multiple party members.
 
-Grygum attempted to counter her with a directed burst of divine light; the attack missed. Asha converted the miss into a declaration that she was blessed by Lolth. Thorin then crossed the distance and grappled her, clamping a hand over her mouth before she could invoke anything further. This was effective as immediate containment but not as a solution, as a Lolth cleric with her mouth uncovered retains the ability to pray, command, and curse — and a grapple holds only as long as the grappler.
+Gyrgum attempted to counter her with a directed burst of divine light; the attack missed. Asha converted the miss into a declaration that she was blessed by Lolth. Thorin then crossed the distance and grappled her, clamping a hand over her mouth before she could invoke anything further. This was effective as immediate containment but not as a solution, as a Lolth cleric with her mouth uncovered retains the ability to pray, command, and curse — and a grapple holds only as long as the grappler.
 
 Nym advised that one does not simply grapple a Lolth cleric; one removes the head. Nym also observed, after the fact, that Asha could probably be killed by Daz in a few seconds, and that if Daz could not protect himself from a low-level cult initiate, whoever paid for his survival deserved to lose their money.
 
 Zalthir made the call and killed her using the Eldritch Claw Tattoo — precise, quick, and before Asha could get another word out. Kaelira responded with slow applause. Thorin maintained that he could have handled it if he'd wanted to.
 
-Asha's body was subsequently looted by Grygum. Items recovered included her holy symbol of Lolth, chain mail, prayer beads, and a sealed wax pouch. Zalthir took her fine spider-silk Drow cloak. The wax pouch contained a lengthy theological document arguing that Lolth and Zuggtmoy were the same entity — close, careful script that Grygum characterized as very tedious and boring, but which represented the written record of a mind having worked its way toward the conclusion that two incompatible things were secretly one. Grygum noted the argument was well-constructed and completely mad, and could not determine from the text whether the author had known she was no longer moving in her own direction.
+Asha's body was subsequently looted by Gyrgum. Items recovered included her holy symbol of Lolth, chain mail, prayer beads, and a sealed wax pouch. Zalthir took her fine spider-silk Drow cloak. The wax pouch contained a lengthy theological document arguing that Lolth and Zuggtmoy were the same entity — close, careful script that Gyrgum characterized as very tedious and boring, but which represented the written record of a mind having worked its way toward the conclusion that two incompatible things were secretly one. Gyrgum noted the argument was well-constructed and completely mad, and could not determine from the text whether the author had known she was no longer moving in her own direction.
 
 ---
 
@@ -58,7 +58,7 @@ The exchange had the comfortable rhythm of repetition, suggesting this was not t
 
 ## Glabbagool
 
-Glabbagool, the gelatinous cube companion who had by this point become a grey ooze, was present in the bag of holding during the ascent to the surface. Upon emergence into the Overbright, Grygum opened the bag just enough for Glabbagool to look out.
+Glabbagool, the gelatinous cube companion who had by this point become a grey ooze, was present in the bag of holding during the ascent to the surface. Upon emergence into the Overbright, Gyrgum opened the bag just enough for Glabbagool to look out.
 
 Glabbagool peered at the surface world — the text uses that word specifically — taking in direct sunlight and open sky for the first time. His response was characterized as taking it in the way a child takes in a first ocean, the sheer scale producing a silence adjacent to awe. He swept his attention across the surface world with a focus that made Zalthir's own response to the Overbright seem measured by comparison.
 
@@ -70,21 +70,21 @@ Zalthir observed the response, noted it, and found Glabbagool's curiosity rather
 
 Ilvara does not appear alive in this chunk; she was already dead when the looting of the outpost began. Her body and possessions were present and examined.
 
-Grygum approached her prayer book with deliberate care, opening it to find a standard Lolth liturgical text that had been annotated in the margins by a different hand — or, in the reading that settled more heavily, by Ilvara herself in a state so altered that the handwriting had changed. The marginalia documented a corruption timeline: early entries neat and formal, then gradually, around the margins, a second voice creeping in, less structured, more associative, sentences that did not always end, questions answering themselves with other questions. Grygum compared the effect to a bardic curse he had observed, coherent on the surface with something working against the grain beneath. The timeline was legible: Ilvara had been a functioning, politically dangerous high priestess, and then something had found the edge of her and begun pulling. Whether she had known she was not resisting was, Grygum noted, ambiguous and the most troubling part.
+Gyrgum approached her prayer book with deliberate care, opening it to find a standard Lolth liturgical text that had been annotated in the margins by a different hand — or, in the reading that settled more heavily, by Ilvara herself in a state so altered that the handwriting had changed. The marginalia documented a corruption timeline: early entries neat and formal, then gradually, around the margins, a second voice creeping in, less structured, more associative, sentences that did not always end, questions answering themselves with other questions. Gyrgum compared the effect to a bardic curse he had observed, coherent on the surface with something working against the grain beneath. The timeline was legible: Ilvara had been a functioning, politically dangerous high priestess, and then something had found the edge of her and begun pulling. Whether she had known she was not resisting was, Gyrgum noted, ambiguous and the most troubling part.
 
-The Living Serpent Head Scourge was recovered from Ilvara's body — a scourge whose head was an actual living serpent or had been, in some intermediate state. Grygum characterized it as a great museum piece and noted the tradition of displaying terrible-in-origin but remarkable-in-craft items without pretending they are not what they are.
+The Living Serpent Head Scourge was recovered from Ilvara's body — a scourge whose head was an actual living serpent or had been, in some intermediate state. Gyrgum characterized it as a great museum piece and noted the tradition of displaying terrible-in-origin but remarkable-in-craft items without pretending they are not what they are.
 
 A chest of confiscated prisoner belongings, which Ilvara had apparently been carrying, was also recovered. Among its contents was Thorin's tooth, chipped off during the original capture at Velkynvelve and displayed by Ilvara as a trophy. Thorin retrieved it and called it very sentimental. Also recovered from the chest was a water-damaged journal from an unknown prisoner.
 
 Sealed orders from House Mizzrym found at the outpost — increasingly frantic inquiries about Ilvara's whereabouts — established that her disappearance had been noted and that the correspondence had gone unanswered. A letter from Neverlight Grove documented a missed meeting, political correspondence that had gone nowhere because Ilvara had already gone somewhere else.
 
-A fungal mass at the center of the chamber was identified as having been Ilvara's ritual anchor. Grygum dissolved the pulsing outer layers with acid. Thorin found a finished, fist-sized object at the core — smooth, dense, and radiating what Thorin assessed as necromantic energy — and pocketed it. Beneath the platform Ilvara had built, Thorin found a leather-wrapped bundle containing incense cones, a small silver bowl, and a cloth stitched with both Lolth's web and Zuggtmoy's mark woven inside each other. Thorin characterized it as evidence of Ilvara's madness made physical.
+A fungal mass at the center of the chamber was identified as having been Ilvara's ritual anchor. Gyrgum dissolved the pulsing outer layers with acid. Thorin found a finished, fist-sized object at the core — smooth, dense, and radiating what Thorin assessed as necromantic energy — and pocketed it. Beneath the platform Ilvara had built, Thorin found a leather-wrapped bundle containing incense cones, a small silver bowl, and a cloth stitched with both Lolth's web and Zuggtmoy's mark woven inside each other. Thorin characterized it as evidence of Ilvara's madness made physical.
 
 ---
 
 ## Gorg'Bahamut
 
-Gorg'Bahamut does not appear in this chunk. He is referenced by Grygum as his mentor, invoked briefly in Grygum's internal reflection during the looting of Asha Vandree. Grygum notes that Gorg'Bahamut would have wanted him to say something pious about the dignity of the dead. Grygum does not say something pious about the dignity of the dead, and instead loots Asha's body with what he characterizes as efficient respect.
+Gorg'Bahamut does not appear in this chunk. He is referenced by Gyrgum as his mentor, invoked briefly in Gyrgum's internal reflection during the looting of Asha Vandree. Gyrgum notes that Gorg'Bahamut would have wanted him to say something pious about the dignity of the dead. Gyrgum does not say something pious about the dignity of the dead, and instead loots Asha's body with what he characterizes as efficient respect.
 
 ---
 
@@ -96,4 +96,4 @@ Jimjar does not appear in this chunk. He is referenced in the context of the par
 
 ## Protanther
 
-Protanther does not appear in this chunk. He is referenced briefly by Grygum in a reflective aside during the examination of Ilvara's prayer book. Grygum thinks of Stroud sitting across from Protanther — four hundred years of preparation, still with a blind spot — as an illustration of the principle that the thing that undoes you is often not the opponent you have been studying but something you did not know to look for. This is Grygum's frame for understanding Ilvara's corruption by Zuggtmoy.
+Protanther does not appear in this chunk. He is referenced briefly by Gyrgum in a reflective aside during the examination of Ilvara's prayer book. Gyrgum thinks of Stroud sitting across from Protanther — four hundred years of preparation, still with a blind spot — as an illustration of the principle that the thing that undoes you is often not the opponent you have been studying but something you did not know to look for. This is Gyrgum's frame for understanding Ilvara's corruption by Zuggtmoy.

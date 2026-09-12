@@ -66,7 +66,7 @@ Snapshot of `wing=abyss` drawers in `~/.mempalace/palaces/chat/` ChromaDB taken 
 | npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/turvy.md` |
 | npcs | 6 | 6 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/yukyuk.md` |
 | npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/droki.md` |
-| npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/gauntlgrym/grygum_stroud_echo_scene_packet.md` |
+| npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/gauntlgrym/gyrgum_stroud_echo_scene_packet.md` |
 | npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/hemeth.md` |
 | npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ulnara.md` |
 | npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/rusharoo.md` |

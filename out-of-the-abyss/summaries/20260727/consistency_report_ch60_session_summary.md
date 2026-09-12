@@ -32,17 +32,17 @@
 ## 3. Fembris — Title and Current Status
 
 **Location:** NPCs → Fembris
-**Issue:** The recap describes Fembris as "an acolyte." The entity registry lists him as "acolyte adjutant," and campaign_state.md notes he is the party's **captive** held in Deneir's Sanctum serving as food taster, and is "the only witness to Grygum handing the Hightower key to Daz." The recap's description of his role — confessing that A'lai was in the room when the key's location was reported — is accurate, but omits his current imprisoned status and his identity as sole witness to the key handoff.
-**Evidence:** campaign_state.md: "Fembris Lancer | Imprisoned | Deneir's Sanctum (party's captive) | Unwilling; sole witness to key handoff." world_state.md: "Fembris Lancer — Alive, held in Deneir's Sanctum, unwilling companion serving as food taster. The only witness to Grygum handing the Hightower key to Daz."
+**Issue:** The recap describes Fembris as "an acolyte." The entity registry lists him as "acolyte adjutant," and campaign_state.md notes he is the party's **captive** held in Deneir's Sanctum serving as food taster, and is "the only witness to Gyrgum handing the Hightower key to Daz." The recap's description of his role — confessing that A'lai was in the room when the key's location was reported — is accurate, but omits his current imprisoned status and his identity as sole witness to the key handoff.
+**Evidence:** campaign_state.md: "Fembris Lancer | Imprisoned | Deneir's Sanctum (party's captive) | Unwilling; sole witness to key handoff." world_state.md: "Fembris Lancer — Alive, held in Deneir's Sanctum, unwilling companion serving as food taster. The only witness to Gyrgum handing the Hightower key to Daz."
 **Suggested fix:** Add to the NPC blurb that Fembris is currently the party's captive food taster, held in Deneir's Sanctum, and is the sole witness to the key handoff — context that matters for continuity.
 
 ---
 
-## 4. Grygum's History Check Roll Attributed Incorrectly
+## 4. Gyrgum's History Check Roll Attributed Incorrectly
 
-**Location:** Summary ("The party's history checks (Grygum 22, Daz 21)"), Scenes → Confrontation at the High Tower ("Daz and Grygum both roll History (22 and 21 respectively)")
-**Issue:** The Summary assigns the 22 to Grygum and the 21 to Daz. The Scenes section assigns "22 and 21 respectively" to "Daz and Grygum" — i.e., Daz rolled 22, Grygum rolled 21. These two sections contradict each other.
-**Evidence:** Summary: "Grygum 22, Daz 21." Scenes: "Daz and Grygum both roll History (22 and 21 respectively)" — "respectively" here means Daz=22, Grygum=21. The Memorable Moments section doesn't include this roll to break the tie.
+**Location:** Summary ("The party's history checks (Gyrgum 22, Daz 21)"), Scenes → Confrontation at the High Tower ("Daz and Gyrgum both roll History (22 and 21 respectively)")
+**Issue:** The Summary assigns the 22 to Gyrgum and the 21 to Daz. The Scenes section assigns "22 and 21 respectively" to "Daz and Gyrgum" — i.e., Daz rolled 22, Gyrgum rolled 21. These two sections contradict each other.
+**Evidence:** Summary: "Gyrgum 22, Daz 21." Scenes: "Daz and Gyrgum both roll History (22 and 21 respectively)" — "respectively" here means Daz=22, Gyrgum=21. The Memorable Moments section doesn't include this roll to break the tie.
 **Suggested fix:** Verify against the VTT transcript which player rolled which score. Pick one assignment and apply it consistently throughout the recap.
 
 ---
@@ -74,10 +74,10 @@
 
 ---
 
-## 8. Grygum's Tasha's Caustic Brew Damage — Inconsistency Between Summary and Scenes
+## 8. Gyrgum's Tasha's Caustic Brew Damage — Inconsistency Between Summary and Scenes
 
 **Location:** Summary ("one died instantly as the corrosive brew melted through him (8 damage on top of Thorin's previous blows)") vs. Scenes → Confrontation ("one raider takes 8 acid damage at the start of his turn and dies instantly")
-**Issue:** The Summary says the 8 damage came "on top of Thorin's previous blows" (implying Thorin already reduced the thug's HP before Grygum finished him). The Scenes section describes the 8 acid damage as occurring "at the start of his turn" — i.e., the ongoing acid damage from a prior round, not direct damage from the spell. These are consistent with each other (the acid from a previous cast of Tasha's ticking at the start of the thug's turn), but the Summary's phrasing is ambiguous enough that it could be misread as Grygum dealing 8 direct damage this turn.
+**Issue:** The Summary says the 8 damage came "on top of Thorin's previous blows" (implying Thorin already reduced the thug's HP before Gyrgum finished him). The Scenes section describes the 8 acid damage as occurring "at the start of his turn" — i.e., the ongoing acid damage from a prior round, not direct damage from the spell. These are consistent with each other (the acid from a previous cast of Tasha's ticking at the start of the thug's turn), but the Summary's phrasing is ambiguous enough that it could be misread as Gyrgum dealing 8 direct damage this turn.
 **Evidence:** Tasha's Caustic Brew deals ongoing acid damage at the start of the target's turn on a failed save. The NPC entry for Zhentarim Raiders confirms: "one died instantly when the acid dealt 8 damage at the start of his turn (on top of Thorin's prior damage)."
 **Suggested fix:** Minor phrasing cleanup in the Summary: "one died as the ongoing acid ate through him (8 damage at the start of his turn, on top of Thorin's prior strikes)" to make the sequence unambiguous.
 
@@ -92,10 +92,10 @@
 
 ---
 
-## 10. "Guiding Bolt" — Correct Spell for Grygum, But Description Says "Deflected by Mage Armor"
+## 10. "Guiding Bolt" — Correct Spell for Gyrgum, But Description Says "Deflected by Mage Armor"
 
 **Location:** Memorable Moments → "The Wizard's Defense," Scenes → Confrontation
-**Issue:** The recap states Grygum's Guiding Bolt "missed" because A'lai has Mage Armor. Mage Armor sets AC — it doesn't deflect spells; a spell attack roll simply fails to meet AC. This is mechanically correct but the narrative phrasing ("magical defenses deflected it entirely") in the Summary implies a different mechanic (like a Shield spell or Counterspell) rather than a miss. The Scenes section correctly identifies it as an attack roll that failed to meet AC.
+**Issue:** The recap states Gyrgum's Guiding Bolt "missed" because A'lai has Mage Armor. Mage Armor sets AC — it doesn't deflect spells; a spell attack roll simply fails to meet AC. This is mechanically correct but the narrative phrasing ("magical defenses deflected it entirely") in the Summary implies a different mechanic (like a Shield spell or Counterspell) rather than a miss. The Scenes section correctly identifies it as an attack roll that failed to meet AC.
 **Evidence:** Summary: "A'lai Aivenmore's magical defenses deflected it entirely." Scenes: "A'lai's mage armor deflects the attack" (accurate mechanically).
 **Suggested fix:** Update the Summary's phrasing from "deflected it entirely" to "fell short of the wizard's mage-armored defenses" or similar, to avoid implying a reactive spell was used.
 
@@ -118,11 +118,11 @@ However: the recap's NPCs section for Moziqodo includes the line "He was slain b
 
 ---
 
-## 13. Grygum "Cast Bless" — Number of Targets
+## 13. Gyrgum "Cast Bless" — Number of Targets
 
-**Location:** Scenes → The Path to the High Tower ("Grygum casts Bless on the three party members who are present")
-**Issue:** The recap says Grygum cast Bless on "three party members who are present." Bless (1st level) targets up to 3 creatures, which is consistent. However, the party at this point includes Daz, Zalthir, Thorin, Grygum, Tadric, and Glabbagool. If Grygum is one of the three targets, the remaining two would be two of the other PCs. The recap doesn't specify which three, which could matter for future sessions (concentration, who had the bonus, etc.).
-**Evidence:** Memorable Moments → "The Wizard's Defense": "Grygum's subsequent roll with Bless yields a 1 on the d4" — confirming Grygum himself was under Bless (or that Bless had been cast; the d4 applies to attack rolls and saving throws for *blessed* targets). The three targets are unspecified.
+**Location:** Scenes → The Path to the High Tower ("Gyrgum casts Bless on the three party members who are present")
+**Issue:** The recap says Gyrgum cast Bless on "three party members who are present." Bless (1st level) targets up to 3 creatures, which is consistent. However, the party at this point includes Daz, Zalthir, Thorin, Gyrgum, Tadric, and Glabbagool. If Gyrgum is one of the three targets, the remaining two would be two of the other PCs. The recap doesn't specify which three, which could matter for future sessions (concentration, who had the bonus, etc.).
+**Evidence:** Memorable Moments → "The Wizard's Defense": "Gyrgum's subsequent roll with Bless yields a 1 on the d4" — confirming Gyrgum himself was under Bless (or that Bless had been cast; the d4 applies to attack rolls and saving throws for *blessed* targets). The three targets are unspecified.
 **Suggested fix:** Clarify which three party members received Bless. Minor but useful for continuity.
 
 ---
@@ -140,7 +140,7 @@ However: the recap's NPCs section for Moziqodo includes the line "He was slain b
 
 **Location:** Scenes → Confrontation ("Daz casts Maximilian's Earthen Grasp (2nd level)"), general
 **Issue:** The stale-docs issue report explicitly flags that party.md lists all four PCs at **level 8**, but the party milestoned to **level 9** at the end of Chapter 62. The working doc header states "Level 9 as of this session." If the High Tower session is post-level-up, the characters' capabilities should reflect level 9, but no level-up events are described in the recap.
-**Evidence:** Stale-docs report: "⭐ The party milestoned to 9 at the end of Ch.62." Working doc (resume): "Daz | Level 9 as of this session." party.md: "Zalthir — Monk 8 / Thorin — Fighter 8 / Grygum — Cleric 8 / Daz — Wizard 8."
+**Evidence:** Stale-docs report: "⭐ The party milestoned to 9 at the end of Ch.62." Working doc (resume): "Daz | Level 9 as of this session." party.md: "Zalthir — Monk 8 / Thorin — Fighter 8 / Gyrgum — Cleric 8 / Daz — Wizard 8."
 **Suggested fix:** If the milestone happened at the *end* of Chapter 62 (the session before this one), the recap's session should reflect Level 9 characters. If the milestone happens at the end of *this* session, it should be noted in the carry-forward. Either way, the party.md needs updating to Level 9 before the next session prep.
 
 ---
@@ -150,6 +150,6 @@ However: the recap's NPCs section for Moziqodo includes the line "He was slain b
 | Severity | Issue |
 |---|---|
 | **Critical** | Session numbering mismatch (#1); Telekinesis vs. Telekinetic feat (#7); Zalthir unconscious sequence contradiction (#5) |
-| **High** | Grygum/Daz history roll attribution contradiction (#4); Sapphire identity/Threefold Proof beat omitted (#14); Party level (#15) |
+| **High** | Gyrgum/Daz history roll attribution contradiction (#4); Sapphire identity/Threefold Proof beat omitted (#14); Party level (#15) |
 | **Medium** | Bookwyrm status and title (#1b, #2); Fembris current status omitted (#3); Tasha's Brew damage sequence ambiguity (#8) |
 | **Low** | Guiding Bolt narrative phrasing (#10); Bless targets unspecified (#13); Passive Investigation score unverified (#9) |

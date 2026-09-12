@@ -1,10 +1,10 @@
-**Grygum (Ben Pfaff)** — *Pre-game banter, suggesting they get started*
+**Gyrgum (Ben Pfaff)** — *Pre-game banter, suggesting they get started*
 > "Let's go kill some mushrooms?"
 
 **Thorin (Joe)** — *Agreeing to start the session*
 > "Death to mushrooms."
 
-**Grygum (Ben Pfaff)** — *Qualifying the mushroom-killing agenda*
+**Gyrgum (Ben Pfaff)** — *Qualifying the mushroom-killing agenda*
 > "Death to some mushrooms, anyway."
 
 ---
@@ -52,7 +52,7 @@
 **Thorin (Joe)** — *Reacting to the crit with a quip*
 > "Tell me about Nazis, punch them, I mean, why not, right?"
 
-**Grygum (Ben Pfaff)** — *Joining the joke*
+**Gyrgum (Ben Pfaff)** — *Joining the joke*
 > "Nazis? I hate those guys."
 
 **Gabe (as Zalthir)** — *Reporting Flurry of Blows damage*
@@ -133,10 +133,10 @@
 **Gabe (as Zalthir)** — *Using Deflect Missiles/Attacks*
 > "I deflected 12 of that bludgeoning damage."
 
-**Grygum (Ben Pfaff)** — *Marveling at the low deflect roll*
+**Gyrgum (Ben Pfaff)** — *Marveling at the low deflect roll*
 > "Wow, you got a 1 and added an oven there."
 
-**Grygum (Ben Pfaff)** — *Teasing Zalthir's optimization*
+**Gyrgum (Ben Pfaff)** — *Teasing Zalthir's optimization*
 > "Oh, you're such a master of the minimaxing on characters."
 
 ---
@@ -147,7 +147,7 @@
 **Mike Hall (as Daz)** — *Reacting*
 > "Insects plague, that doesn't sound good."
 
-**Grygum (Ben Pfaff)** — *Quipping*
+**Gyrgum (Ben Pfaff)** — *Quipping*
 > "I bet insects like to eat fungus."
 
 ---
@@ -155,7 +155,7 @@
 **GM (Kostadis)** — *Announcing the insect plague kills the fungal minions*
 > "Alright, the minions all die. They had 13… they had 13 hit points, you know."
 
-**Grygum (Ben Pfaff)** — *Asking about the ooze companion*
+**Gyrgum (Ben Pfaff)** — *Asking about the ooze companion*
 > "Oh, how about Glabbagool?"
 
 **GM (Kostadis)** — *Reporting damage to Glabbagool*
@@ -172,13 +172,13 @@
 
 ---
 
-**Grygum (Ben Pfaff)** — *Offering to use Revivify on fallen minions*
+**Gyrgum (Ben Pfaff)** — *Offering to use Revivify on fallen minions*
 > "If anybody is too saddened by the loss of any of our minions, I do have a Revivify spell that I could use to bring one of them back."
 
 **GM (Kostadis)** — *Correcting*
 > "No, they're not your minions, they're her minions."
 
-**Grygum (Ben Pfaff)** — *Sheepish*
+**Gyrgum (Ben Pfaff)** — *Sheepish*
 > "So, we… sorry, we used to have so many people traveling with us, I forgot."
 
 ---
@@ -189,13 +189,13 @@
 **GM (Kostadis)** — *Revealing the critical weakness*
 > "I mean, it's resistant to the usual stuff that funguses are resistant to, but if you hit it hard enough, it should die. But, it actually is doubly not resistant to radiant damage."
 
-**Grygum (Ben Pfaff)** — *Excited*
+**Gyrgum (Ben Pfaff)** — *Excited*
 > "Oh, that's good to know."
 
 **GM (Kostadis)** — *Announcing the fungus is destroyed by Thorin's Dawnbringer strikes*
 > "And so you kill it. So it wilts."
 
-**Grygum (Ben Pfaff)** — *Surprised*
+**Gyrgum (Ben Pfaff)** — *Surprised*
 > "Oh, the giant fungus?"
 
 **GM (Kostadis)** — *Confirming*
@@ -209,13 +209,13 @@
 **GM (Kostadis)** — *Lamenting the quick death of his carefully prepared encounter*
 > "I spent so much time creating this icon."
 
-**Grygum (Ben Pfaff)** — *Consoling*
+**Gyrgum (Ben Pfaff)** — *Consoling*
 > "I know, it was beautiful."
 
 **Gabe (as Zalthir)** — *Agreeing*
 > "It was pretty."
 
-**Grygum (Ben Pfaff)** — *With genuine sympathy*
+**Gyrgum (Ben Pfaff)** — *With genuine sympathy*
 > "I liked it very much, Costadis."
 
 **GM (Kostadis)** — *Graciously accepting*
@@ -226,7 +226,7 @@
 **GM (Kostadis)** — *Explaining Asha Vandree's current belief about Daz*
 > "Vandree is very much, you know, enemy of my enemy situation, and plus she believes that Daz is a insane… an insane mage who's converted to Lothheism."
 
-**Grygum (Ben Pfaff)** — *Dryly agreeing*
+**Gyrgum (Ben Pfaff)** — *Dryly agreeing*
 > "Accurate."
 
 **Mike Hall (as Daz)** — *Clarifying*
@@ -240,21 +240,21 @@
 
 ---
 
-**Grygum (Ben Pfaff)** — *Explaining his approach to the Jorlan/Ilvara situation*
+**Gyrgum (Ben Pfaff)** — *Explaining his approach to the Jorlan/Ilvara situation*
 > "I don't want to get in the middle of it, but I'll follow up if necessary."
 
-**GM (Kostadis)** — *Narrating Grygum's position relative to the drow lovers' quarrel*
+**GM (Kostadis)** — *Narrating Gyrgum's position relative to the drow lovers' quarrel*
 > "Your line, this is between you and you're doing your Bahamut, you know, like, this is… you guys obviously have got some couples issues, and I don't want to be in… I don't want to be between them."
 
 ---
 
-**Grygum (Ben Pfaff)** — *Targeting Ilvara with a ranged spell*
+**Gyrgum (Ben Pfaff)** — *Targeting Ilvara with a ranged spell*
 > "Ilvara seems like she's still trouble, so, I'm going to cast a guiding bolt in that direction."
 
 **GM (Kostadis)** — *On the miss*
 > "That is a miss."
 
-**Grygum (Ben Pfaff)** — *Disappointed*
+**Gyrgum (Ben Pfaff)** — *Disappointed*
 > "Oh, well, that's a shame."
 
 ---
@@ -275,7 +275,7 @@
 
 ---
 
-**Grygum (Ben Pfaff)** — *Dropping concentration after the fungus dies*
+**Gyrgum (Ben Pfaff)** — *Dropping concentration after the fungus dies*
 > "So now that the fungus is gone, I'm gonna drop concentration, so that spell disappears."
 
 ---
@@ -283,13 +283,13 @@
 **Gabe (as Zalthir)** — *Spotting the new arrivals on the map*
 > "5 Dark Elves, it looks like? 5 Drow? That's awesome."
 
-**Grygum (Ben Pfaff)** — *On the escalating encounter*
+**Gyrgum (Ben Pfaff)** — *On the escalating encounter*
 > "This is turning into the 12 days of Christmas."
 
 **GM (Kostadis)** — *Hopeful*
 > "I hope more pleasantly!"
 
-**Grygum (Ben Pfaff)** — *Singing/announcing*
+**Gyrgum (Ben Pfaff)** — *Singing/announcing*
 > "Dark Elves!"
 
 ---
@@ -308,16 +308,16 @@
 
 ---
 
-**Grygum (Ben Pfaff)** — *Noting the new drow emerged into the insect plague zone*
+**Gyrgum (Ben Pfaff)** — *Noting the new drow emerged into the insect plague zone*
 > "How long have they been hiding there? They might have gotten hit by the plague of insects."
 
 **GM (Kostadis)** — *Describing the drow's frustration*
 > "They were hiding in the area, they've come out now, they're going to get hit by the poison. They're very irritated that they're about to get hit by the poison. They were kind of really hoping to not have to deal with this."
 
-**Grygum (Ben Pfaff)** — *Sympathetically*
+**Gyrgum (Ben Pfaff)** — *Sympathetically*
 > "It's tough being a minion."
 
 ---
 
-**Grygum (Ben Pfaff)** — *Offering healing to the group*
+**Gyrgum (Ben Pfaff)** — *Offering healing to the group*
 > "If people are in need of healing, we can do that this next round."

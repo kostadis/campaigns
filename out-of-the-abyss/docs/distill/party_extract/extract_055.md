@@ -8,7 +8,7 @@
 - Demonstrated successful Stunning Strike against the drow spy (grapple + stun in open forest terrain).
 - Assigned a Candlekeep scholar named Khell-Vire to investigate the Jimjar thread.
 
-**Grygum**
+**Gyrgum**
 - Used Reduce spell on the drow spy (shrinking her via mushroom to small size, sustained).
 - Successfully used Persuasion to break the spy's interrogation composure.
 - Assigned Vareth, a half-elf scholar specializing in half-orc Bahamut converts, as his primary research contact at Candlekeep.
@@ -27,7 +27,7 @@
 **Zalthir — Positive**
 - Witnessed Glabbagool's first experience of sunlight and recognized it as a meaningful moment. Noted Glabbagool's earnest, unblinking surveillance of the prisoner as evidence of genuine purpose and trust in Zalthir's instruction.
 
-**Grygum — Positive**
+**Gyrgum — Positive**
 - Coined the term "Stroud's Gambit" in conversation with Vareth, which Vareth immediately recognized as a significant contribution to the field of Bahamut half-orc conversion scholarship.
 
 **Daz — Negative (situational)**
@@ -46,9 +46,9 @@
 - *Glabbagool*: Accepted ongoing informal responsibility for Glabbagool's surface-world orientation. Assigned Glabbagool as the spy's guard inside the bag of holding — a practical decision that also extended Glabbagool's role and sense of purpose.
 - *Drow spy*: Chose non-lethal incapacitation over killing, consistent with stated position of not harming those who don't mean them harm.
 
-**Grygum**
+**Gyrgum**
 - *Drow spy*: First party member to offer the spy an alternative to death ("are you looking for a new job?"), which functionally broke her interrogation composure. Used prayer beads as psychological leverage without explicit threat.
-- *Vareth*: Formed a new scholarly relationship with a Candlekeep avowed deeply invested in half-orc Bahamut theology. Vareth's research funding and conference invitations are now tied to access to Grygum.
+- *Vareth*: Formed a new scholarly relationship with a Candlekeep avowed deeply invested in half-orc Bahamut theology. Vareth's research funding and conference invitations are now tied to access to Gyrgum.
 
 **Daz**
 - *Drow spy interrogation*: Identified that the spy was deliberately avoiding looking at him — recognized the Menzoberranzan social training behind the misdirection and called it directly. This forced the spy's disclosure.
@@ -79,6 +79,6 @@
 - House T'sarran: Adversarial. Spy captured. House will send more agents; this is confirmed by the spy herself.
 
 **Active obligations**:
-- Five Candlekeep questions to allocate: Zalthir (Jimjar), Thorin/Dawnbringer (Philemon/therapy track), Daz (who is protecting him), Grygum (Bahamut/personal theology), Glabbagool (one question — content unknown, party curious).
+- Five Candlekeep questions to allocate: Zalthir (Jimjar), Thorin/Dawnbringer (Philemon/therapy track), Daz (who is protecting him), Gyrgum (Bahamut/personal theology), Glabbagool (one question — content unknown, party curious).
 - Spiderbait integration into surface society: informal, ongoing.
 - Drow spy: no resolution plan established. Still in the bag.

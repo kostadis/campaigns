@@ -1,7 +1,7 @@
 ---
 scene: 01
 slug: the_immortal_chambers_and_the_question_of_the_age
-narrator: Grygum
+narrator: Gyrgum
 scene_name: The Immortal Chambers And The Question Of The Age
 session: 20260518
 ---
@@ -24,7 +24,7 @@ I tucked it into my satchel and told him I would read it in due time. This is wh
 
 Vareth's side office had the quality of a room that had not changed in forty-one years because there had been no reason for it to change. Papers exactly where they should be. A window positioned for reading. The posture of a man who had been rehearsing this conversation in his head and was pleased to finally be having it.
 
-"Brother Grygum," he said — you could feel the prepared nature of what was coming — "we are now confronted with the problem of our age."
+"Brother Gyrgum," he said — you could feel the prepared nature of what was coming — "we are now confronted with the problem of our age."
 
 "Yes," I said. "The question of our age. Of course."
 
@@ -82,6 +82,6 @@ He went. I sat with the papers in my hands, in an office that had not changed in
 
 "I feel like I handled that competently," I said to nobody in particular.
 
-"Yes," I thought. "The Grygum school of thought."
+"Yes," I thought. "The Gyrgum school of thought."
 
 I took notes. It's what I do.

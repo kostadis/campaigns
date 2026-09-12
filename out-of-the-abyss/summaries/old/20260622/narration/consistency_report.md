@@ -21,10 +21,10 @@
 
 ## Item / Ability Errors
 
-**Location**: Spells — Lesser Restoration ("Both Grygum and others in the party can cast it")
-**Issue**: Overbroad claim. Per sheets, Lesser Restoration is available to **Grygum** (Life Cleric) and via **Dawnbringer** (Thorin's sunblade can cast Lesser Restoration). It is not a general party capability.
-**Evidence**: party.md — Dawnbringer "can cast Lesser Restoration"; Grygum is a Life Domain Cleric. Daz (Evoker wizard) and Zalthir (monk) cannot.
-**Suggested fix**: Specify the casters are Grygum and Dawnbringer.
+**Location**: Spells — Lesser Restoration ("Both Gyrgum and others in the party can cast it")
+**Issue**: Overbroad claim. Per sheets, Lesser Restoration is available to **Gyrgum** (Life Cleric) and via **Dawnbringer** (Thorin's sunblade can cast Lesser Restoration). It is not a general party capability.
+**Evidence**: party.md — Dawnbringer "can cast Lesser Restoration"; Gyrgum is a Life Domain Cleric. Daz (Evoker wizard) and Zalthir (monk) cannot.
+**Suggested fix**: Specify the casters are Gyrgum and Dawnbringer.
 
 **Location**: Memorable Moments / Summary — Dawnbringer
 **Issue**: Dawnbringer is repeatedly treated as a separate "investigator partner" / person ("his charming partner, Dawnbringer, is a stunning, absolutely stunning..."). This is in-character flattery from Daral, but the recap risks presenting Dawnbringer as an NPC rather than Thorin's sentient sunblade.

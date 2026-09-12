@@ -13,7 +13,7 @@
 - Recent actions: Wanted to rush into the ritual immediately; restrained himself on Daz's advice; attacked the Ettin after fear was broken
 - Faction: Ember Vanguard
 
-**Grygum**
+**Gyrgum**
 - Current location: Cultist cavern, Gracklstugh
 - Current state: Active combatant; has been struck by Derro attackers (missed both times noted); noted his spells were nearly expended before the fight
 - Recent actions: Observed or divined that Hgraam could reverse the Stone Giant affliction; won a bet against JimJar that his knots on Pelek/Derro would hold; untied Pelek in the morning; cast Acid (vomit-wave spell) in combat; cast Guiding Bolt at the Ettin (partial effect)
@@ -27,7 +27,7 @@
 
 **Narrak**
 - Current location: Cultist cavern; currently trapped inside Zalthir's relocated magical darkness; grappled by Maximillian's Earthen Grasp
-- Current state: Active; was leading the ritual rehearsal; used a fear spell (white feather component) targeting Thorin, Grygum, and Zalthir successfully; now enveloped in darkness and earthen grasp
+- Current state: Active; was leading the ritual rehearsal; used a fear spell (white feather component) targeting Thorin, Gyrgum, and Zalthir successfully; now enveloped in darkness and earthen grasp
 - Recent actions: Announced successful conversion of another of Hgraam's giants to a two-headed form; stated intent to convert one more giant to destroy Gracklstugh; led ritual chant rehearsal; cast fear spell; shouted commentary during combat; declared "the curse spreads"
 - Faction: Demogorgon cult (Derro cultists of Whorlstone)
 - Motivations: Spreading Demogorgon's madness; converting Stone Giants into two-headed creatures to lay waste to Gracklstugh; referred to as having a "vision" in the ritual chant ("Narrak's vision, sharp and keen")
@@ -35,13 +35,13 @@
 
 **The Ettin**
 - Current location: Cultist cavern, Gracklstugh
-- Current state: Active combatant; struck by Scorching Ray (Daz) and Guiding Bolt (Grygum, partial effect); struck Thorin with morning star
+- Current state: Active combatant; struck by Scorching Ray (Daz) and Guiding Bolt (Gyrgum, partial effect); struck Thorin with morning star
 - Recent actions: Pointed out the party members to Narrak during the darkness; attacked Thorin (axe missed, morning star hit); smiled after taking the Guiding Bolt, suggesting resilience
 - Faction: Allied with Narrak's Demogorgon cult
 
 **Pelek (ghost possessing a Derro body)**
 - Current location: Bupido's lair (did not accompany the party to the cavern this session)
-- Current state: Tied up overnight at his own request; untied by Grygum in the morning; alive and in control of the Derro body
+- Current state: Tied up overnight at his own request; untied by Gyrgum in the morning; alive and in control of the Derro body
 - Recent actions: Requested to be tied up fearing loss of control over the Derro host; was tied up and remained bound through the night; mused philosophically about death and sleep upon waking
 - Faction: None stated; travelling with Ember Vanguard
 - Motivations: Concerned about safety of companions; uncertain about the metaphysics of his own existence
@@ -49,7 +49,7 @@
 **JimJar**
 - Current location: Bupido's lair
 - Current state: Active; present with the group
-- Recent actions: Offered a bet that Grygum's knots on Pelek/Derro would not hold; lost the bet
+- Recent actions: Offered a bet that Gyrgum's knots on Pelek/Derro would not hold; lost the bet
 - Faction: Travelling with Ember Vanguard
 - Notes: Does not appear in the combat scene; last noted at Bupido's lair
 
@@ -72,7 +72,7 @@
 - Current state: Unknown
 - Recent actions: None directly; two of his Stone Giants have now been converted to two-headed form by Narrak's cult
 - Faction: Stone Giants of Gracklstugh
-- Notes: Grygum stated (or divined or claimed) that Hgraam should be able to reverse the ill effects on the Stone Giants
+- Notes: Gyrgum stated (or divined or claimed) that Hgraam should be able to reverse the ill effects on the Stone Giants
 
 **Bupido**
 - Current location: Dead; his lair is used as the party's resting place
@@ -89,7 +89,7 @@
 - Current goals: Destroy Narrak's Demogorgon cult; stop the Stone Giant conversion ritual; retrieve the two-headed giant statues for Hgraam
 - Recent actions: Infiltrated the cultist cavern twice; engaged the cult in combat; strategically used darkness and positioning
 - Relationships: Allied with Pelek (ghost/Derro), JimJar, and the Myconid companion; seeking cooperation with Hgraam's Stone Giants
-- Key members: Daz, Thorin, Grygum, Zalthir
+- Key members: Daz, Thorin, Gyrgum, Zalthir
 
 **Derro Demogorgon Cult (Narrak's cult)**
 - Current goals: Convert Stone Giants into two-headed creatures via ritual to Demogorgon; use converted giants to destroy Gracklstugh; bring about the fall of the Deepking
@@ -117,18 +117,18 @@
 
 - The Ember Vanguard observed the Derro cult performing (or rehearsing) a ritual to Demogorgon in a cavern, involving five Derro chanting, eerie green lights, brimstone, campfires, an Ettin, and a two-headed Stone Giant statue on a platform.
 - Daz identified the ritual as a summoning/conversion rite intended to cause Stone Giants to sprout a second head, connecting it to the two-headed Stone Giant previously encountered in the Dark Lake District.
-- Grygum informed the party that Hgraam should be able to reverse the ill effects on afflicted Stone Giants, persuading Thorin not to attack immediately to protect the giants.
-- The party rested in Bupido's lair; Pelek requested to be tied up overnight for the group's safety; JimJar bet Grygum the knots would not hold.
-- On waking (2nd day of the 2nd tenday of Myrtul), Grygum won the bet; Pelek remained bound and in control of the Derro body; he was untied.
+- Gyrgum informed the party that Hgraam should be able to reverse the ill effects on afflicted Stone Giants, persuading Thorin not to attack immediately to protect the giants.
+- The party rested in Bupido's lair; Pelek requested to be tied up overnight for the group's safety; JimJar bet Gyrgum the knots would not hold.
+- On waking (2nd day of the 2nd tenday of Myrtul), Gyrgum won the bet; Pelek remained bound and in control of the Derro body; he was untied.
 - The Myconid companion pressed Zalthir about retrieving Rump-a-dump; Zalthir deflected repeatedly; the Myconid fell asleep after Zalthir invoked the need for rest.
 - The Ember Vanguard re-infiltrated the cultist cavern and observed Narrak rehearsing the ritual chant with his Derro subordinates.
 - Narrak announced that a second of Hgraam's Stone Giants had been successfully converted to a two-headed form, and declared intent to convert one more before unleashing them on Gracklstugh.
 - Zalthir and Daz agreed on tactics; Zalthir deployed magical darkness over the clustered Derro and breathed fire into it.
 - Zalthir warned the party about a madness effect triggered by entering the ritual circle; he resisted it through monk training.
-- Narrak cast a fear spell (using a white feather) successfully affecting Thorin, Grygum, and Zalthir.
+- Narrak cast a fear spell (using a white feather) successfully affecting Thorin, Gyrgum, and Zalthir.
 - The Ettin attacked the frightened Thorin; the axe missed but the morning star connected, leaving Thorin battered.
 - Zalthir moved his magical darkness to cover Narrak, breaking line of sight and ending the fear effect on the party.
-- Grygum cast Guiding Bolt on the Ettin; it had partial effect (the Ettin smiled and appeared resilient).
+- Gyrgum cast Guiding Bolt on the Ettin; it had partial effect (the Ettin smiled and appeared resilient).
 - Thorin struck the Ettin after the fear was broken.
 - Daz cast Scorching Ray at the Ettin and Maximillian's Earthen Grasp targeting Narrak's position inside the darkness.
 - Narrak, now enveloped in darkness and under earthen grasp, shouted "You cannot stop the inevitable... the curse spreads!"
@@ -167,7 +167,7 @@
 ## Threads & Mysteries
 
 - **The Stone Giant conversion ritual**: Narrak claims two of Hgraam's giants have already been converted to two-headed form; he intends to convert at least one more before unleashing them on Gracklstugh. The combat to stop this is ongoing and unresolved.
-- **The converted Stone Giants**: At least two giants are already afflicted. Whether Hgraam can actually reverse the effect, and how, is unconfirmed (Grygum's claim of this was noted as potentially being divine inspiration or a priestly lie by Daz).
+- **The converted Stone Giants**: At least two giants are already afflicted. Whether Hgraam can actually reverse the effect, and how, is unconfirmed (Gyrgum's claim of this was noted as potentially being divine inspiration or a priestly lie by Daz).
 - **The two-headed Stone Giant from the Dark Lake District**: Previously encountered; now explained as a product of this ritual. Its current whereabouts and state are unresolved.
 - **Narrak's ritual book**: The source of the ritual; held by Narrak. Not yet secured or destroyed by the party.
 - **The madness effect of the ritual circle**: Zalthir was affected and resisted; nature and full extent of the effect are not yet known. Other party members may be vulnerable.

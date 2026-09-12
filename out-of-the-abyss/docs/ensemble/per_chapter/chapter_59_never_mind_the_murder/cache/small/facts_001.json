@@ -1,15 +1,15 @@
 [
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is an academic who analyzed a treatise on poison tied to celestial mechanics and realized the trigger is location-based, not temporal. He passed a key to Daz after recognizing the keep\u2019s security is compromised by scholarly distraction.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is an academic who analyzed a treatise on poison tied to celestial mechanics and realized the trigger is location-based, not temporal. He passed a key to Daz after recognizing the keep\u2019s security is compromised by scholarly distraction.",
     "source_quote": "I had the treatise open in front of me. *On the Punctual Tears.*",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a pragmatic investigator who received a key from Grygum and is now entangled in the murder mystery. He understands the academic distraction has left the keep vulnerable and is aware of Daral\u2019s precarious position.",
+    "fact": "Daz is a pragmatic investigator who received a key from Gyrgum and is now entangled in the murder mystery. He understands the academic distraction has left the keep vulnerable and is aware of Daral\u2019s precarious position.",
     "source_quote": "Totally, totally,\" Zalthir said, in a voice that recorded everything.",
     "quote_verified": true
   },
@@ -30,7 +30,7 @@
   {
     "type": "npc",
     "subject": "Brother Vareth",
-    "fact": "Brother Vareth has appropriated Grygum\u2019s incomplete answer to the Question of the Age and turned it into a published thesis, sparking mass academic frenzy and diverting attention from the ongoing murder investigation.",
+    "fact": "Brother Vareth has appropriated Gyrgum\u2019s incomplete answer to the Question of the Age and turned it into a published thesis, sparking mass academic frenzy and diverting attention from the ongoing murder investigation.",
     "source_quote": "He'd taken my answer to the Question of the Age... and he'd turned it into a thing. A fourth corner.",
     "quote_verified": false
   },
@@ -72,7 +72,7 @@
   {
     "type": "event",
     "subject": "publication of the fourth corner",
-    "fact": "Brother Vareth published a revision of Grygum\u2019s incomplete answer to the Question of the Age, triggering a mass academic frenzy that diverted all attention from the murder investigation and left the keep unguarded.",
+    "fact": "Brother Vareth published a revision of Gyrgum\u2019s incomplete answer to the Question of the Age, triggering a mass academic frenzy that diverted all attention from the murder investigation and left the keep unguarded.",
     "source_quote": "He'd turned it into a thing. A fourth corner. And he had told everyone.",
     "quote_verified": false
   },

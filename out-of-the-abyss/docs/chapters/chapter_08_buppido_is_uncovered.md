@@ -2,7 +2,7 @@
 ### 1st day of the 3rd Tenday of Taraskh 1493
 
 
-Grygum mutters, “I am so upset that the person I have known for a day is dead!” 
+Gyrgum mutters, “I am so upset that the person I have known for a day is dead!” 
 
 
 Spiderbait screams at Jimjar, “Give me money. I am leaving now!” 
@@ -20,7 +20,7 @@ Zalthir, whose pleasant dream about what Monks dream about was interrupted, look
 Shuushar whispers, “No. Yuk Yuk was murdered, and Spiderbait is very upset.” 
 
 
-Grygum looks around and says, “Well, we have no other option but to continue and be alert.” 
+Gyrgum looks around and says, “Well, we have no other option but to continue and be alert.” 
 
 
 But Daz, who finds mysteries to be interesting, thinks otherwise. “I want to figure out what happened.”
@@ -43,11 +43,11 @@ First, he questions Spiderbait.
 Then Spiderbait glares, “I’ll tell you who I think it is - Shuushar. Kuo-toan’s go mad. And when they go mad, they snap, and then they kill people!” 
 
 
-Daz turns to Zalthir, Grygum, and Thorin - “What do we know? Buppido always talks about the divine plan. Sethir seems a bit off. Topsy and Turvy are lycanthropes. Jimjar makes bets all the time. Eldeth is trying to keep it together and make sure we all arrive in one piece. And Shuushar claims to have figured out the cure to Kuo-toan insanity.” 
+Daz turns to Zalthir, Gyrgum, and Thorin - “What do we know? Buppido always talks about the divine plan. Sethir seems a bit off. Topsy and Turvy are lycanthropes. Jimjar makes bets all the time. Eldeth is trying to keep it together and make sure we all arrive in one piece. And Shuushar claims to have figured out the cure to Kuo-toan insanity.” 
 
 
 Just then, Shuushar approaches them and says, “ I propose we head to Sloobludop, where we can meet the arch-cleric of the Seamother, who can cast the zone of truth, and we can learn what happened.”
-Grygum mutters, “That’s the easy way out. Let’s do it the hard way by applying intelligence, deduction, insight, and perception.” 
+Gyrgum mutters, “That’s the easy way out. Let’s do it the hard way by applying intelligence, deduction, insight, and perception.” 
 
 
 Daz shrugs, “I guess I could ask Buppido.” 
@@ -86,7 +86,7 @@ Daz is fed up, so he casts a mind-sliver on the derro, stares him in the eye, an
 “Ouch!! That hurt. It wasn’t me! It was the agent of the divine plan.” 
 
 
-Grygum looks at him and says, “That’s what they all say.” 
+Gyrgum looks at him and says, “That’s what they all say.” 
 
 
 “It’s not my fault,” Buppido whimpers. 

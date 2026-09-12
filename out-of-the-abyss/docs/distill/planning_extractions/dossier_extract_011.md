@@ -2,7 +2,7 @@
 
 Ploopploopeen is the archpriest of the Sea Mother in the kuo-toa village of Sloobludop. He stares unblinkingly at the escapees when presenting his plan, then clarifies his intentions when the Tongues spell fails to convey his meaning properly. His plan is to use the escapees as a false offering to lure his daughter, Bloppblippodd, into a trap: the escapees will be presented to her as sacrifices for Leemoogoogon, Ploopploopeen will insist on accompanying them, and then his followers will attack. He explains that an unwilling sacrifice is better for the evil god Leemoogoogon, and that the escapees' role will essentially be over once the ambush begins. He mentions he previously tried a "white flag" approach with his daughter, but she refused.
 
-He is delighted when Grygum and Thorin spit on the altar of the Sea Mother as an offering. He assures Thorin that kuo-toa eat cooked fish, not raw rotting food. After eating, he falls asleep and walks outside standing up, as is kuo-toan custom.
+He is delighted when Gyrgum and Thorin spit on the altar of the Sea Mother as an offering. He assures Thorin that kuo-toa eat cooked fish, not raw rotting food. After eating, he falls asleep and walks outside standing up, as is kuo-toan custom.
 
 His relationship with his daughter Bloppblippodd is deeply strained — she leads a rival faction worshipping the Deep Father. His son Glooglugogg believes Ploopploopeen showed Bloppblippodd too much deference and let her get away with too much, contributing to the current crisis.
 

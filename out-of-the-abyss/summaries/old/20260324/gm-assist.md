@@ -9,9 +9,9 @@ Daz pressed the illusion further, adopting the persona of a vessel possessed by 
 
 Asha wasted little time in laying out the grim situation. Ilvara, once a high priestess of Lolth, had been seduced by the heretical "bride" cult of the demon princess Zuggtmoy after visiting the Neverlight Grove, and now carried a corrupted mushroom artifact that served as a conduit for Zuggtmoy's influence. She had turned most of her followers into mindless fungal servants and commanded a massive, pulsing Heart Fungus at the center of the cavern that could lash out with tendrils and belch clouds of poisonous spores. Asha made her terms clear: kill Ilvara, destroy the mushroom, and the party could claim whatever treasures and magical items Ilvara had accumulated — even if they technically belonged to Asha's house. The party slipped away to confer, weighing the risks of fungal infection against the promise of loot and survival, and ultimately agreed that Ilvara had to die.
 
-The group spent the next hour preparing carefully. Grygum inscribed a powerful magical trap on one of the bridges leading into the cavern, designed to detonate against anyone approaching from Jorlan's side — a bitter, lovelorn drow warrior who was one of the few not yet consumed by the spores. Asha, for her part, promised to rush in and defend the party from any spore servants Ilvara might summon, then retreated to wait for the signal. When combat finally erupted, Zalthir teleported directly to Ilvara and unleashed a furious flurry of blows, grappling her and attempting to haul her over the Heart Fungus to drop her into the area of Grygum's impending magical assault. Ilvara, however, dissolved into a fungal patch and reappeared elsewhere in the cavern, screaming in fury, while the Heart Fungus retaliated by releasing a choking cloud of poisonous spores that left Zalthir gasping before he managed to fly upward out of the haze.
+The group spent the next hour preparing carefully. Gyrgum inscribed a powerful magical trap on one of the bridges leading into the cavern, designed to detonate against anyone approaching from Jorlan's side — a bitter, lovelorn drow warrior who was one of the few not yet consumed by the spores. Asha, for her part, promised to rush in and defend the party from any spore servants Ilvara might summon, then retreated to wait for the signal. When combat finally erupted, Zalthir teleported directly to Ilvara and unleashed a furious flurry of blows, grappling her and attempting to haul her over the Heart Fungus to drop her into the area of Gyrgum's impending magical assault. Ilvara, however, dissolved into a fungal patch and reappeared elsewhere in the cavern, screaming in fury, while the Heart Fungus retaliated by releasing a choking cloud of poisonous spores that left Zalthir gasping before he managed to fly upward out of the haze.
 
-The battle erupted in earnest across the cavern. Thorin taunted the bitter Jorlan into charging forward — directly into Grygum's waiting trap — and the resulting explosion tore through Jorlan and several of the shambling spore walkers that Ilvara had summoned from the earth, destroying one outright and leaving the others badly wounded. Thorin then waded into melee with Jorlan, striking him with the blazing sun-blade Dawnbringer. Grygum unleashed a devastating sphere of force energy centered on the Heart Fungus, shaking the massive creature to its roots, while Daz hurled a carefully shaped fireball that engulfed both Ilvara and her precious Zuggtmoy mushroom. Ilvara partially shielded herself from the worst of the flames, but the mushroom smoldered, and the tide of the battle had unmistakably turned against the corrupted priestess.
+The battle erupted in earnest across the cavern. Thorin taunted the bitter Jorlan into charging forward — directly into Gyrgum's waiting trap — and the resulting explosion tore through Jorlan and several of the shambling spore walkers that Ilvara had summoned from the earth, destroying one outright and leaving the others badly wounded. Thorin then waded into melee with Jorlan, striking him with the blazing sun-blade Dawnbringer. Gyrgum unleashed a devastating sphere of force energy centered on the Heart Fungus, shaking the massive creature to its roots, while Daz hurled a carefully shaped fireball that engulfed both Ilvara and her precious Zuggtmoy mushroom. Ilvara partially shielded herself from the worst of the flames, but the mushroom smoldered, and the tide of the battle had unmistakably turned against the corrupted priestess.
 
 ## Memorable Moments
 **Glabbagool attempts to disguise himself as an inanimate rock, but cannot stop his eyes from blinking and looking left and right, completely undermining the illusion.**
@@ -27,7 +27,7 @@ The battle erupted in earnest across the cavern. Thorin taunted the bitter Jorla
 
 *Zalthir had successfully grappled Ilvara and was carrying her toward the heart fungus when she used her legendary ability to escape.*
 
-**Thorin lures Jorlan directly into Grygum's pre-set Glyph of Warding by taunting him, triggering a massive explosion that damages Jorlan and several spore walkers simultaneously.**
+**Thorin lures Jorlan directly into Gyrgum's pre-set Glyph of Warding by taunting him, triggering a massive explosion that damages Jorlan and several spore walkers simultaneously.**
 
 *Nobody expected the taunt to work so cleanly; the trap detonated perfectly, turning the tide of the opening round of combat.*
 
@@ -54,17 +54,17 @@ The battle erupted in earnest across the cavern. Thorin taunted the bitter Jorla
 #### The party negotiates with Asha Vandry to coordinate an attack on the corrupted priestess Ilvara and her fungal heart.
 - Asha explains that Ilvara must be killed and her magical mushroom artifact destroyed to stop the spread of Zuggtmoy's influence.
 - Asha warns the party about the 'Big Heart Fungus' in the center of the cavern, which can release dangerous spore bursts and lash out with tendrils.
-- Grygum suggests using a magical glyph that takes an hour to prepare, and the DM confirms they have the time as Ilvara is currently preoccupied.
+- Gyrgum suggests using a magical glyph that takes an hour to prepare, and the DM confirms they have the time as Ilvara is currently preoccupied.
 - The party observes Ilvara from a distance, noting her corrupted, fungal appearance while she remains armed with her signature scourge.
-- Grygum and Thorin are warned to stay away from the mushroom artifact due to their previous encounter with a demon princess.
+- Gyrgum and Thorin are warned to stay away from the mushroom artifact due to their previous encounter with a demon princess.
 - The party debates various tactical approaches, including using a Glyph of Warding or the Dust of Suleiman spell.
 - Zalthir considers grappling Ilvara and dropping her into the nearby pools to trap her within area-of-effect spells.
 - Asha Vandry questions the party's tactical awareness but is eventually convinced of their caution regarding the fungal spores.
 - The group decides to prioritize destroying the large heart fungus to weaken Ilvara's control over the area.
 - Asha reveals that the only drow not yet infected by spores are herself and Jorlan, and that Ilvara can summon spore walkers from the ground.
-- Grygum prepares a defensive Glyph of Warding on a bridge to catch potential reinforcements or a retreating Jorlan.
+- Gyrgum prepares a defensive Glyph of Warding on a bridge to catch potential reinforcements or a retreating Jorlan.
 - The party coordinates a plan to use Dust of Suleiman on the heart fungus while Zalthir attempts to grapple Ilvara into the area of effect.
-- Thorin prepares for perimeter defense, borrowing a light crossbow from Grygum to compensate for his lack of ranged options.
+- Thorin prepares for perimeter defense, borrowing a light crossbow from Gyrgum to compensate for his lack of ranged options.
 - The party passes off Glabbagool as Daz's familiar to avoid alarming Asha, who is impressed by the notion of an ooze familiar.
 
 ### The Battle of the Heart Fungus
@@ -76,7 +76,7 @@ The battle erupted in earnest across the cavern. Thorin taunted the bitter Jorla
 - Ilvara summons several spore walkers—reanimated, fungal versions of former drow guards—from the ground to defend her.
 - Jorlan is lured into a magical trap that explodes, damaging him and several nearby spore walkers, destroying one outright.
 - Thorin engages Jorlan in melee combat, striking him with the sun-blade Dawnbringer.
-- Grygum casts Dust of Suleiman centered on the big heart fungus, dealing significant force damage to it.
+- Gyrgum casts Dust of Suleiman centered on the big heart fungus, dealing significant force damage to it.
 - Daz unleashes a high-level fireball, carefully shaping the flames to strike Ilvara and her fungal mushroom icon while sparing his allies.
 - A spore walker climbs up and attacks Thorin, landing a hit before being cut down.
 
@@ -88,7 +88,7 @@ A drow priestess who has remained loyal to Lolth and opposes Ilvara's fungal 'br
 A former high priestess of Lolth who has been corrupted by Zuggtmoy's influence after visiting the Neverlight Grove. She carries a small magical mushroom artifact that serves as a conduit for Zuggtmoy's control. She possesses the ability to meld into fungal patches and reappear elsewhere, and can command the heart fungus and summon reanimated spore servants.
 
 ### Jorlan
-A drow warrior and former lover of Ilvara who harbors deep bitterness toward her following their breakup. He is one of the few drow in the cavern not yet turned into a spore servant. He is lured into Grygum's magical trap during the battle.
+A drow warrior and former lover of Ilvara who harbors deep bitterness toward her following their breakup. He is one of the few drow in the cavern not yet turned into a spore servant. He is lured into Gyrgum's magical trap during the battle.
 
 ### Glabbagool
 An intelligent gelatinous cube who accompanies the party. He attempts to disguise himself as an inanimate rock but struggles to remain motionless and keep his blinking eyes still. The party successfully passes him off as Daz's familiar to Asha Vandry, who is impressed by the notion of an ooze familiar.
@@ -111,7 +111,7 @@ Daz's familiar, used to facilitate a magical ruse by appearing to carry the bles
 A small, corrupted mushroom carried by Ilvara since her visit to the Neverlight Grove. It serves as a conduit for Zuggtmoy's control and must be destroyed to break the demon princess's influence over Ilvara. It is located near Ilvara and is targeted by Daz's fireball at the end of the session.
 
 ### Light Crossbow
-A ranged weapon Grygum lends to Thorin to provide him with better combat options during the ranged engagement against Ilvara.
+A ranged weapon Gyrgum lends to Thorin to provide him with better combat options during the ranged engagement against Ilvara.
 
 ### Dawnbringer
 A sentient sun-blade wielded by Thorin, used to strike Jorlan during the battle.
@@ -121,16 +121,16 @@ A sentient sun-blade wielded by Thorin, used to strike Jorlan during the battle.
 Used by Daz to create a dazzling, shrinking light effect that mimicked the form of Lolth being absorbed into his spider familiar and then into his body, as part of the ruse to convince Asha Vandry.
 
 ### Glyph of Warding
-A magical trap inscribed by Grygum on a bridge, set to trigger if anyone approached from Jorlan's side of the cavern. When Jorlan was lured into it, it detonated in a large explosion, dealing area-of-effect damage to Jorlan and several nearby spore walkers.
+A magical trap inscribed by Gyrgum on a bridge, set to trigger if anyone approached from Jorlan's side of the cavern. When Jorlan was lured into it, it detonated in a large explosion, dealing area-of-effect damage to Jorlan and several nearby spore walkers.
 
 ### Dust of Suleiman
-A powerful spell cast by Grygum that creates a twenty-foot sphere of damaging force energy. It was centered on the big heart fungus, dealing significant damage to it.
+A powerful spell cast by Gyrgum that creates a twenty-foot sphere of damaging force energy. It was centered on the big heart fungus, dealing significant damage to it.
 
 ### Fireball
 A destructive evocation cast by Daz at a higher level, carefully shaped to strike Ilvara and her fungal mushroom icon while sparing allies. Ilvara partially resisted the blast, taking reduced damage.
 
 ### Phantasmal Killer
-A fourth-level illusion spell in Grygum's arsenal, discussed during planning as an option to frighten and deal psychic damage to Ilvara, though ultimately not used this session.
+A fourth-level illusion spell in Gyrgum's arsenal, discussed during planning as an option to frighten and deal psychic damage to Ilvara, though ultimately not used this session.
 
 ### Teleportation
 Used by Zalthir to instantly close the distance to Ilvara at the start of the engagement, granting him an advantage on his initial strike.

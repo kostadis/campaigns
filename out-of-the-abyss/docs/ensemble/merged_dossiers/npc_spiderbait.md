@@ -17,7 +17,7 @@ chapters: 5-54
 - Last known companion: Thorin’s group (now his primary protective circle)  
 - Former close companion: Yukyuk (deceased; killed by unknown party, Spiderbait accused Shuushar)  
 - Former employer: Jimjar (promised 20 gold; Spiderbait demanded payment and left after Yukyuk’s death, but later rejoined)  
-- Endorsed by: Grygum, who supports his survival plan  
+- Endorsed by: Gyrgum, who supports his survival plan  
 
 **Defining recent actions:**  
 - After Yukyuk’s death, accused Shuushar of murder due to Kuo-toan madness.  

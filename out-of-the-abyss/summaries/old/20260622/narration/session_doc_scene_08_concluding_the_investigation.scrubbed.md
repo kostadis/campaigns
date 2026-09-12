@@ -8,7 +8,7 @@ session: 20260622
 
 The confession had gone into the account, and there was nothing left to dispute. Alkrist had given us the accounting of it: A'lai as the one who set it in motion, himself as the hand that carried it out, and at least two others swept into his orbit. Kalan had been standing just outside through all of it, which meant the man who'd been fired now held a rather complete account.
 
-The inventory I ran was brief. We had a confession, a poisoned book reclaimed from Daral, Grygum's carefully reassembled wrapping paper, a note in Janussi's own hand found on the third floor. We had the zone of truth as a mechanism, which had worked without waste and which I would not pretend was anything other than what it was: a shortcut, and an elegant one.
+The inventory I ran was brief. We had a confession, a poisoned book reclaimed from Daral, Gyrgum's carefully reassembled wrapping paper, a note in Janussi's own hand found on the third floor. We had the zone of truth as a mechanism, which had worked without waste and which I would not pretend was anything other than what it was: a shortcut, and an elegant one.
 
 "I think we go to the guy that was fired," Thorin said. "Give it to him, let him clean house."
 
@@ -20,7 +20,7 @@ I had no serious objection. Kalan was the party who had been wronged, Kalan had 
 
 "Definitely helped put a bow on it. But we probably would have gotten there anyway — they all were looking pretty guilty."
 
-"It turns out they were all guilty, yes," Grygum said.
+"It turns out they were all guilty, yes," Gyrgum said.
 
 The observation was complete. I said nothing.
 
@@ -34,7 +34,7 @@ Kalan asked it, and it was the right question, and it had been sitting with me s
 
 "You have to clean up the mess, whoever's in charge, and all that, right?"
 
-And then Grygum, in the tone of a man introducing an agenda item: "We could always decide to blackmail one or more of them."
+And then Gyrgum, in the tone of a man introducing an agenda item: "We could always decide to blackmail one or more of them."
 
 I had been waiting for someone else to say it.
 
@@ -44,7 +44,7 @@ Books are valuable. We had earned something here. But I was already running a di
 
 "Right, and just to be clear — information that's very hard to come by, blackmail may be a way to get it."
 
-"True," Grygum said.
+"True," Gyrgum said.
 
 "A'lai, moreover, is a drow. He might have information that Daz needs."
 
@@ -62,7 +62,7 @@ The group's attention turned to Janussi, and the mood shifted in the way it does
 
 "Right, and not only do you decide to fire them, but you decide to trash somebody's research, tell somebody he's getting fired, tell somebody he has to cancel his research, right? All in the same day."
 
-"Well, it's clear he may have high intelligence, but not high wisdom," Grygum said.
+"Well, it's clear he may have high intelligence, but not high wisdom," Gyrgum said.
 
 The distinction is real. Intelligence tells you what the options are. Wisdom tells you which ones you survive. In Menzoberranzan, you do not get to accumulate that many enemies before the city resolves the problem for you, which is one of the less subtle things the city got right.
 
@@ -70,11 +70,11 @@ The distinction is real. Intelligence tells you what the options are. Wisdom tel
 
 "That's an angle you haven't checked. Maybe there were some budgetary pressures on Candlekeep."
 
-"Some RIFs planned?" Grygum said.
+"Some RIFs planned?" Gyrgum said.
 
 I appreciated the framing. File the assassination under *workforce restructuring*. Enter it in the column marked *organizational efficiency*. This is, I noticed, exactly the narrative A'lai would have constructed for himself, and had probably already constructed, somewhere in the months between deciding Janussi needed to die and watching us pull the whole account apart in an afternoon. The man who treats blackmail as a kind of career knows how to make his own history sound administrative.
 
-"In these murder mysteries," Grygum said, "you often find somebody who treats blackmail as a kind of career."
+"In these murder mysteries," Gyrgum said, "you often find somebody who treats blackmail as a kind of career."
 
 A drow scholar with Underdark connections, sitting inside a conspiracy that had just been exposed. The intersection didn't need forcing.
 

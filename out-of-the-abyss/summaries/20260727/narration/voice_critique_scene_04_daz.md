@@ -10,7 +10,7 @@
 
 ### [1] The section still opens on scene 03's closing beats *(recurrence — but the cause is upstream)*
 
-> Grygum wanted a blessing before we did anything irreversible. "I'll cast Bless on… the three of us who are here." Then, sorting his priorities out loud: "I'm more worried about the wizard than about these raiders…"
+> Gyrgum wanted a blessing before we did anything irreversible. "I'll cast Bless on… the three of us who are here." Then, sorting his priorities out loud: "I'm more worried about the wizard than about these raiders…"
 >
 > …He loosed it before anyone answered. The bolt splashed against nothing at all, a hand's breadth from A'lai's chest — mage armor, laid down long before we arrived.
 
@@ -26,7 +26,7 @@
 
 > **Correct on both counts.** A'lai Aivenmore was a powerful wizard — and powerful wizards share one trait with Menzoberranzan matrons: they are far more invested in staying alive than in dying well. *(scene 04, Daz)*
 
-**Why:** Two different narrators respond to the identical Grygum line with the identical construction, three sentences apart in structure. This is exactly the convergence `_genre.md` warns about — the sentence is portable, which is why both reached for it. Daz's version is the better one (the matron comparison is his and only his); Zalthir's is the one to change.
+**Why:** Two different narrators respond to the identical Gyrgum line with the identical construction, three sentences apart in structure. This is exactly the convergence `_genre.md` warns about — the sentence is portable, which is why both reached for it. Daz's version is the better one (the matron comparison is his and only his); Zalthir's is the one to change.
 
 **Suggested rewrite:** Keep scene 04 as written. Change scene 03's to `He was right twice.`
 

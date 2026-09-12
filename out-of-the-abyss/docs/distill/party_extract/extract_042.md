@@ -2,7 +2,7 @@
 
 - **Daz**: Demonstrated advanced arcane knowledge — devised the ice mirror strategy using shaped water, gems, and ice to reflect the Medusa's gaze. Used fireball tactically in multiple encounters, including shaping flames around allies and igniting a bed for light.
 - **Zalthir**: Showcased monk combat prowess — teleported through shadows, grappled the Earth Elemental, delivered the killing blow. Carried the ice mirror into melee against the Medusa and used it to reflect her gaze. Poisoned by the Medusa's serpent hair bites.
-- **Grygum**: Summoned spectral guardians (manifesting as fey spirits) in multiple encounters to devastating effect. Recalled critical lore about the area's curse affecting summoned elementals.
+- **Gyrgum**: Summoned spectral guardians (manifesting as fey spirits) in multiple encounters to devastating effect. Recalled critical lore about the area's curse affecting summoned elementals.
 - **Thorin**: Negotiated with his intelligent sword **Dawnbringer**, promising it a finer scabbard in exchange for cooperation in darkness. Landed a devastating dart throw that knocked the Medusa prone.
 
 ## Arc Score Events

@@ -105,15 +105,15 @@
 
 ---
 
-**Ben Pfaff (Grygum)** — *Deciding to attack Ilvara despite the entertaining drow infighting*
+**Ben Pfaff (Gyrgum)** — *Deciding to attack Ilvara despite the entertaining drow infighting*
 > "I'm amused by the Jorlan-Ilvara drama, but I think I'm still going to go ahead and attack them."
 
 ---
 
-**GM** — *Announcing Ilvara's death from Grygum's Guiding Bolt*
+**GM** — *Announcing Ilvara's death from Gyrgum's Guiding Bolt*
 > "She is particularly vulnerable to radiant damage, so that actually causes her to die. She explodes in a puff of poisonous spores."
 
-**Ben Pfaff (Grygum)** — *Reacting to Ilvara exploding into spores*
+**Ben Pfaff (Gyrgum)** — *Reacting to Ilvara exploding into spores*
 > "Not ideal. How big is the cloud? I'm glad I was standing back."
 
 ---

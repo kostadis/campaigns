@@ -30,7 +30,7 @@ chapters: 15-29
 - Her stated goal of “protecting the city from corruption” is a cover for her personal ambition to rise in power by destroying the Council of Savants.  
 - She is consumed by paranoia and megalomania, selectively interpreting evidence to fit her narrative.  
 - She is emotionally manipulative, using promises of freedom and protection to exploit others.  
-- She is easily swayed by narrative control—Daz’s feigned ignorance and Grygum’s ambiguity have successfully shaped her perceptions.  
+- She is easily swayed by narrative control—Daz’s feigned ignorance and Gyrgum’s ambiguity have successfully shaped her perceptions.  
 - She is not acting in the city’s true interest, but in her own, and her actions are accelerating the city’s collapse.
 
 ## Uncertainty

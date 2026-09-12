@@ -9,9 +9,9 @@ source: gmassist
 
 #### The party reaches the great library of Candlekeep, where they meet the First Reader and must decide the fate of their miniature drow prisoner.
 - The party travels along the Way of the Lion, along the cliffs above the Sea of Swords; Candlekeep is visible from miles out.
-- As they approach, Daz's pressure headache intensifies noticeably — a trend Grygum confirms feels tenuous but real in its connection to whatever is spreading from the Underdark.
+- As they approach, Daz's pressure headache intensifies noticeably — a trend Gyrgum confirms feels tenuous but real in its connection to whatever is spreading from the Underdark.
 - Inside, the party is received by Bookwyrm, the First Reader — a dragonborn sage. The DM notes she has "heard them all" regarding her name and is entirely unbothered.
-- Bookwyrm assigns the party: Daz to Sister Yvonne, Zalthir to Brother Kel (Khell-Vire), Thorin to Master Archivist Philemon, and Grygum to Varith.
+- Bookwyrm assigns the party: Daz to Sister Yvonne, Zalthir to Brother Kel (Khell-Vire), Thorin to Master Archivist Philemon, and Gyrgum to Varith.
 - Before the party disperses, the matter of the shrunken House T'sarran spy in the bag of holding must be addressed — she was discovered when the party had to open the bag at the gate to show Glabbagool.
 - The Gate Warden, Callan Strongbench, is summoned and explains Candlekeep's position: "The bell tower has cells. Comfortable, localized anti-magic. They are very rarely used. Anyone we find guilty of a major offense is exiled rather than imprisoned. Which is to say, we hold prisoners. We do not keep them. If you give her to us, what you are giving us is a delay. We will not deliver to House T'sarran, and we will not execute her. Eventually, we will release her at our gate with a warning."
 - Callan leaves the decision entirely to the party, clarifying they are simply trying to be courteous — they noticed the party had a problem and offered to help.
@@ -60,21 +60,21 @@ source: gmassist
 
 ---
 
-**[Grygum Links Daz's Headache to the Spreading Madness]**
+**[Gyrgum Links Daz's Headache to the Spreading Madness]**
 
-**Grygum** — *asking about the connection*
+**Gyrgum** — *asking about the connection*
 > "Does it seem related at all to how the other person was hearing voices?"
 
 **GM**
 > "Role in investigation. Or, medicine. Medicine…"
 
-**Grygum** — *after rolling a 23*
+**Gyrgum** — *after rolling a 23*
 > "23."
 
 **GM**
 > "Alright, no, it isn't. And it is, in some curious way. Like, there's something, obviously. It's something you don't know anything about, but you do sense something is wrong. Right? So you can't pinpoint it, you don't have enough experience or knowledge about it, but it does feel that there is something…"
 
-**Grygum**
+**Gyrgum**
 > "There's some kind of tenuous connection there?"
 
 **GM**
@@ -87,13 +87,13 @@ source: gmassist
 **GM** — *announcing arrival*
 > "All right, and so finally, you arrive inside of Candlekeep. Yay! So we're inside of Candlekeep, and back to Day 1. Alright. So, you've just, you've just arrived. And you've given up your books, yes?"
 
-**Grygum**
+**Gyrgum**
 > "Yes?"
 
 **GM**
 > "Yes, right."
 
-**Grygum**
+**Gyrgum**
 > "Oh, I forgot about the books."
 
 **GM**
@@ -104,7 +104,7 @@ source: gmassist
 **[Meeting the First Reader — Bookwyrm]**
 
 **GM** — *introducing Bookwyrm and assigning handlers*
-> "Alright, the first reader, her name is Bookwyrm. He's a dragonborn sage. Yep, Bookwyrm. She's heard them all, she knows, and she assigns Daz to Sister Yvonne, Zalthir to Brother Kel, Thorin to Master Archivist Philemon, and Grygum to either Varith."
+> "Alright, the first reader, her name is Bookwyrm. He's a dragonborn sage. Yep, Bookwyrm. She's heard them all, she knows, and she assigns Daz to Sister Yvonne, Zalthir to Brother Kel, Thorin to Master Archivist Philemon, and Gyrgum to either Varith."
 
 ---
 
@@ -113,7 +113,7 @@ source: gmassist
 **GM** — *raising the matter before the party disperses*
 > "Okay, so as you, as you may have recalled, but before she goes. She, she notices that she wants to discuss the reduced housed siren spy in the bag of holding."
 
-**Grygum** — *reacting*
+**Gyrgum** — *reacting*
 > "We've been caught."
 
 ---
@@ -130,7 +130,7 @@ source: gmassist
 **Thorin** — *confused about the offer*
 > "Wait, I'm confused."
 
-**Grygum**
+**Gyrgum**
 > "This is all about Glabbagool?"
 
 **GM**

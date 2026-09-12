@@ -5,12 +5,12 @@
 - Was stroking and patting the obelisk's surface reverently; when it emitted a flash of light (causing faerzress to flare), she reacted with a squeal of glee, picked up an object from near its base, and recorded notes in a small notebook.
 - Revealed that the Grey Ghosts stole a large red dragon egg from an organization called the Keepers of the Flame, and that she subsequently brought the egg to this location.
 - Revealed she has been using the obelisk (described as a magical artifact) to infuse the egg with the spirit of a demon, as an act of worship to Demogorgon.
-- Declared that "the beating heart of a cleric of Bahamut will seal the ritual," indicating she lured or intended to sacrifice Grygum.
+- Declared that "the beating heart of a cleric of Bahamut will seal the ritual," indicating she lured or intended to sacrifice Gyrgum.
 - Directed six other derro to converge on the egg and surround the party.
-- Was grappled by Zalthir in the magical darkness and shouted "Let me go!"; subsequently targeted by Grygum's necromantic claw attack.
+- Was grappled by Zalthir in the magical darkness and shouted "Let me go!"; subsequently targeted by Gyrgum's necromantic claw attack.
 
 **Six Unnamed Derro**
-- Present on the upper tier of the mesa; motioned by Plinki to gather near the egg and surround Grygum and companions.
+- Present on the upper tier of the mesa; motioned by Plinki to gather near the egg and surround Gyrgum and companions.
 - Status during combat unclear beyond Plinki's grappling.
 
 ---
@@ -44,7 +44,7 @@
 - The obelisk is a magical artifact being used to channel demonic spirit into the egg; it shows signs of prior damage (small fragments chipped away from its surface).
 - The ritual requires the beating heart of a cleric of Bahamut as its final component to be sealed.
 - The egg's presence in this location is the result of a chain of custody: Keepers of the Flame → stolen by Grey Ghosts → acquired by Plinki.
-- Plinki mistook Grygum's arrival as a fulfillment of the ritual's requirements, suggesting she may have been expecting or seeking a cleric of Bahamut.
+- Plinki mistook Gyrgum's arrival as a fulfillment of the ritual's requirements, suggesting she may have been expecting or seeking a cleric of Bahamut.
 
 ---
 

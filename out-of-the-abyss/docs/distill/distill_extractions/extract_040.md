@@ -13,7 +13,7 @@
 - Recent actions: Wandered into Chief Dorbo's kitchen out of curiosity; claimed snacks were part of the party's deal; rolled a die to decide between a cautious and direct approach, with result favoring caution
 - Faction: The party
 
-**Grygum**
+**Gyrgum**
 - Current location: Blingdenstone
 - Current state: Active
 - Recent actions: Expressed genuine, non-judgmental interest in wererats, prompting an enthusiastic philosophical debate among the Gold Whisker guards
@@ -118,7 +118,7 @@
 - Current goals: Defeat the Pudding King; secure a path out of the Underdark; cleanse the Rock Blight; obtain acid-resistance ingredients from Neverlight Grove
 - Recent actions: Negotiated with Gold Whisker clan; convened grand moot; divided forces (Glabbagool, Eldev, Jimjar assigned to Barrow Warden quest; main party to handle Rock Blight and Neverlight Grove)
 - Relationships: Allied with Blingdenstone leadership, Gold Whisker clan, Barrow Wardens; previously visited Gracklstugh (departed under poor circumstances)
-- Key members: Daz, Thorin, Grygum, Glabbagool, Eldev, Jimjar
+- Key members: Daz, Thorin, Gyrgum, Glabbagool, Eldev, Jimjar
 
 **Gold Whisker Clan**
 - Current goals: Self-preservation and autonomy; agreed to assist against the ooze threat
@@ -158,7 +158,7 @@
 - Thorin wandered into Chief Dorbo's private kitchen; the party was given snacks before Dorbo appeared and redirected them to the Foaming Bug inn.
 - Glabbagool offered to clean Chief Dorbo's kitchen floor and was accepted by the gnome chef, earning the nickname "Roomba."
 - The party approached the Gold Whisker Warrens and knocked, announcing their purpose; a guard fetched Chief Chipgrin.
-- Grygum expressed genuine non-judgmental interest in wererats; guards responded positively and engaged in philosophical debate about rats' ecological niche.
+- Gyrgum expressed genuine non-judgmental interest in wererats; guards responded positively and engaged in philosophical debate about rats' ecological niche.
 - The party was escorted through the warrens and met Chief Chipgrin on a moss-covered plateau; he was seated on a stone chair draped with a cave badger pelt, flanked by two giant rats.
 - Chipgrin initially assumed the party was sent to remove his clan; Daz clarified their actual purpose.
 - Daz negotiated terms with Chipgrin: the Gold Whisker clan would help fight the ooze, would not be subordinated to Dorbo, and Daz personally accepted accountability for any casualties.

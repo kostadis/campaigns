@@ -19,7 +19,7 @@ Halfling adventurer, member of a lost adventuring band. *Also known as: Fargus R
 
 ## History with the Party
 1. **Silken Paths (Discovery):** Found cocooned by spiders, described as "spider snack for later." Communicated telepathically via Stool's rapport spores. Explained his adventuring band had been searching for a lost tomb when they were attacked by gnolls. Claimed he escaped the gnolls without being infected. Offered treasure information to incentivize rescue. Thorin was preparing to cut him free as spiders closed in.
-2. **Interrogation by Zalthir:** Pressed to reveal the treasure he'd mentioned. Tried to deny his earlier words but was caught out by Grygum's notes. Revealed detailed knowledge of the **floating tomb of Brysis of Khaem** — a half-elf sorcerer from the great empires of magic, whose tomb fell into the Underdark when Netheril collapsed. Shared the critical secret: most treasure hunters find a **false tomb** with a fake sarcophagus, but the real treasure is in a hidden chamber accessible via a secret passageway from the servants' tomb. Said the tomb is on the eastern edge of the Darklake but doesn't know the precise location. Grygum assessed he was telling the truth.
+2. **Interrogation by Zalthir:** Pressed to reveal the treasure he'd mentioned. Tried to deny his earlier words but was caught out by Gyrgum's notes. Revealed detailed knowledge of the **floating tomb of Brysis of Khaem** — a half-elf sorcerer from the great empires of magic, whose tomb fell into the Underdark when Netheril collapsed. Shared the critical secret: most treasure hunters find a **false tomb** with a fake sarcophagus, but the real treasure is in a hidden chamber accessible via a secret passageway from the servants' tomb. Said the tomb is on the eastern edge of the Darklake but doesn't know the precise location. Gyrgum assessed he was telling the truth.
 3. **Lost Tomb of Khaem exploration:** His warning about the false tomb proved accurate — the party encountered the fake sarcophagus, which was suspiciously easy to open and contained a magical trap. The party later discovered a hidden passage beneath the northeast sarcophagus during their exploration of the tomb, validating his intelligence about the secret room.
 
 ## Current Status
@@ -30,7 +30,7 @@ Halfling adventurer, member of a lost adventuring band. *Also known as: Fargus R
 
 ## Relationships
 - **Zalthir:** Adversarial dynamic — Zalthir pressed him hard for information and physically checked him for gnoll spawn, which offended him
-- **Grygum:** Took detailed notes on Fargas's promises, preventing him from backtracking; also served as a lie detector (assessed Fargas was truthful)
+- **Gyrgum:** Took detailed notes on Fargas's promises, preventing him from backtracking; also served as a lie detector (assessed Fargas was truthful)
 - **Thorin:** Moved to cut him free from the cocoon
 - **Stool:** Served as communication intermediary via rapport spores
 - **His adventuring band:** Status unknown; were attacked by gnolls before Fargas was captured by spiders

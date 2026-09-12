@@ -72,9 +72,9 @@ source: gmassist
 ---
 
 **[Nose Fracture and Bruising — Medical Examination]**
-- Grygum rolls an 18 on medicine to determine the timing of the nose injury.
+- Gyrgum rolls an 18 on medicine to determine the timing of the nose injury.
 
-**Grygum** — *noting the injury*
+**Gyrgum** — *noting the injury*
 > "And also broke his nose."
 
 **GM** — *directing a roll*
@@ -83,13 +83,13 @@ source: gmassist
 **GM** — *confirming timing*
 > "Yes, that happened before he died."
 
-**Grygum** — *summarising*
+**Gyrgum** — *summarising*
 > "Okay, so his nose was broken, he was killed, smashed on the face."
 
 **Zalthir** — *pressing on the bruising logic*
-> "Actually, sorry, real quick, Grygum, you rolled pretty good medicine, right? Yeah. How does bruising work if he's dead? Like, I would assume you don't really."
+> "Actually, sorry, real quick, Gyrgum, you rolled pretty good medicine, right? Yeah. How does bruising work if he's dead? Like, I would assume you don't really."
 
-**Grygum** — *confirming*
+**Gyrgum** — *confirming*
 > "You don't… you don't bruise after you're dead."
 
 **GM** — *confirming*
@@ -129,7 +129,7 @@ source: gmassist
 > "You do find a safety deposit box. Which has been left… Well, I mean, among… on his bookshelves, you find a safety deposit box."
 > "It's a 2-foot cubed metal box embedded into the tower stone wall. Its door is open."
 
-**Grygum** — *asking about contents*
+**Gyrgum** — *asking about contents*
 > "Oh, is anything inside?"
 
 **GM** — *describing scattered contents*
@@ -153,13 +153,13 @@ source: gmassist
 **GM** — *describing the untouched treasure*
 > "the other thing that's surprising is that whoever came in here came in here, stole one sapphire, and inside of the same chest is a… a raven, a figurine of wondrous power, a potion of supreme healing, a potion of water breathing, 5 large diamonds worth 5,000 GP each, a bag of 1,000 platinum pieces, and a bag of 1,000 gold pieces."
 
-**Grygum** — *reacting*
+**Gyrgum** — *reacting*
 > "In other words, score what they left them."
 
 **GM** — *confirming*
 > "Yes. So whoever came here came in and left a shit ton of treasure."
 
-**Grygum** — *deducing*
+**Gyrgum** — *deducing*
 > "I mean, well, that can eliminate some former adventurers."
 
 **Zalthir** — *asking about the lock*
@@ -227,7 +227,7 @@ source: gmassist
 **GM** — *explaining how the statue fell, via Tadric*
 > "As you're looking at it, it looks as if someone had dropped it off, and Tadric goes, oh, oh, yes, yes, yes, yes, I'm so sorry, but the great reader A'lai Aivenmore apparently knocked it over in shock when he visited the chamber at dawn."
 
-**Grygum** — *asking about its weight*
+**Gyrgum** — *asking about its weight*
 > "How, how heavy is it? Is it something that you could bump into and knock over?"
 
 **GM** — *confirming*

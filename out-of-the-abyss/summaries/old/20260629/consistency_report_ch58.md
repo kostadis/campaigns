@@ -46,7 +46,7 @@
 
 **Evidence:** party.md lists "Dawnbringer's lesser restoration" as a resource. The campaign_state active quest §6: "Dawnbringer's therapy — Two-stage process at Candlekeep (light therapy, then grief work). In progress." player_npc_tracker: Daral Yashenti is listed as "Prime suspect; under watch until midnight" — not as someone with an established affliction requiring magical cure. No prior session note establishes Daral's specific affliction.
 
-**Suggested fix:** Specify what Daral's affliction was and confirm it falls within the scope of Lesser Restoration. If the cure used a different mechanism, name it. Add a note clarifying that Dawnbringer cast Lesser Restoration (not a full Cure Disease or Remove Curse, which would require a cleric spell slot from Grygum or a different item).
+**Suggested fix:** Specify what Daral's affliction was and confirm it falls within the scope of Lesser Restoration. If the cure used a different mechanism, name it. Add a note clarifying that Dawnbringer cast Lesser Restoration (not a full Cure Disease or Remove Curse, which would require a cleric spell slot from Gyrgum or a different item).
 
 ---
 
@@ -98,15 +98,15 @@
 
 ---
 
-## Issue 9: "Grygum called down a burst of holy radiance" — Word of Radiance is mischaracterized as a burst, and its range is inconsistent with the scenario described
+## Issue 9: "Gyrgum called down a burst of holy radiance" — Word of Radiance is mischaracterized as a burst, and its range is inconsistent with the scenario described
 
 **Location:** Spells → Word of Radiance; Scenes → Ambush of the Helmed Horrors
 
-**Issue:** The Spells section describes Word of Radiance as "a burst of holy light, damaging two helmed horrors simultaneously that were standing near him." Word of Radiance (as a cantrip) affects all creatures of the caster's choice within 5 feet. The recap's description of this as a "burst" hitting two horrors is mechanically consistent only if two horrors were within 5 feet of Grygum simultaneously. The Summary describes Grygum releasing "a burst of holy radiance that scorched two of the horrors at once" which is plausible but worth noting — more critically, the Spells section calls it "a burst of holy light" which is accurate enough, but the scene description should confirm the horrors were adjacent to Grygum, not at range.
+**Issue:** The Spells section describes Word of Radiance as "a burst of holy light, damaging two helmed horrors simultaneously that were standing near him." Word of Radiance (as a cantrip) affects all creatures of the caster's choice within 5 feet. The recap's description of this as a "burst" hitting two horrors is mechanically consistent only if two horrors were within 5 feet of Gyrgum simultaneously. The Summary describes Gyrgum releasing "a burst of holy radiance that scorched two of the horrors at once" which is plausible but worth noting — more critically, the Spells section calls it "a burst of holy light" which is accurate enough, but the scene description should confirm the horrors were adjacent to Gyrgum, not at range.
 
-**Evidence:** Word of Radiance (PHB): each creature of the caster's choice within 5 feet. Grygum's sheet (party.md) lists "Spirit Guardians" as a known spell but does not list Word of Radiance explicitly; it is a standard cleric cantrip consistent with his class.
+**Evidence:** Word of Radiance (PHB): each creature of the caster's choice within 5 feet. Gyrgum's sheet (party.md) lists "Spirit Guardians" as a known spell but does not list Word of Radiance explicitly; it is a standard cleric cantrip consistent with his class.
 
-**Suggested fix:** Minor — confirm in the scene that the two horrors struck were within melee range of Grygum. No change needed if this is accurate; flag for future reference that Word of Radiance is a 5-foot-radius cantrip, not a ranged blast.
+**Suggested fix:** Minor — confirm in the scene that the two horrors struck were within melee range of Gyrgum. No change needed if this is accurate; flag for future reference that Word of Radiance is a 5-foot-radius cantrip, not a ranged blast.
 
 ---
 

@@ -11,9 +11,9 @@ from: ../scene_extractions_new/02_the_methodology_of_murder.md
 #### The party discusses why no single spell proves guilt on its own and receives a research memorandum on combining multiple investigative tools.
 - The party debates the mechanics of polymorph spells (any creature within 60 feet, one-hour duration) and how they might relate to the sighting of a lookalike near the crime scene. Zalthir flags a timeline problem: the Sylvira lookalike was seen in the kitchens around 1 AM and again coming down the stairs between 2 and 3 AM — too far apart for a single one-hour polymorph, suggesting "something more is going on." The DM noted he would have to consult Claude to resolve whether it was an error or a "special spell."
 - A clerk named Elian approaches Thorin to praise his "very thorough, deductive work" in the kitchens and presents a research memorandum on criminal investigation methodology, sharing it via the "Ember Grapple."
-- The paper was championed by Kalan Strongbranch, who believed that magic makes evidence adversarial rather than reliable, and that facts must be collected and combined. Grygum compared its thesis to real-world magicians' card tricks: "one of the best ways to do something as a trick is to do something that would take so much time and effort that people just assume you couldn't have done it that way."
+- The paper was championed by Kalan Strongbranch, who believed that magic makes evidence adversarial rather than reliable, and that facts must be collected and combined. Gyrgum compared its thesis to real-world magicians' card tricks: "one of the best ways to do something as a trick is to do something that would take so much time and effort that people just assume you couldn't have done it that way."
 - The party learns that Kalan's approach was met with significant pushback, and Elian implies this controversy may be connected to why Janussi wanted Kalan gone — "I'm telling you, there is something rotten here."
-- The group discusses the philosophical nature of truth and the unreliability of speaking with the dead. Thorin asks, "if we were able to actually make Speak to the dead, how do you know that they're a reliable narrator?" Grygum quips, "Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?" — claiming he "made it up myself."
+- The group discusses the philosophical nature of truth and the unreliability of speaking with the dead. Thorin asks, "if we were able to actually make Speak to the dead, how do you know that they're a reliable narrator?" Gyrgum quips, "Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?" — claiming he "made it up myself."
 - Elian, like Fembris, angled for credit on a "monograph," and was similarly corrected, eventually settling for Thorin writing an introduction or preface.
 
 ## Verbatim moments (voice-smoothed)
@@ -85,7 +85,7 @@ from: ../scene_extractions_new/02_the_methodology_of_murder.md
 **[Thorin]**
 > "Alright, this— thank you so much for the paper. This is too much for me to read right now, but I'll definitely study it at an appropriate time."
 
-**[Grygum]** — *comparing the thesis to magicians' tricks*
+**[Gyrgum]** — *comparing the thesis to magicians' tricks*
 > This thesis reminds me of what real-world magicians say — people who do card tricks. One of the best ways to pull off a trick is to do something that takes so much time and effort, people just assume you couldn't have done it that way.
 
 **[Thorin]**
@@ -100,7 +100,7 @@ from: ../scene_extractions_new/02_the_methodology_of_murder.md
 **[Thorin]**
 > "I'm sorry, it would not be a monograph if we wrote it together."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Right, yes."
 
 **[GM]**
@@ -139,7 +139,7 @@ from: ../scene_extractions_new/02_the_methodology_of_murder.md
 **[Thorin]** — *on the reliability of the dead*
 > Well, I'm interested — even if we were able to actually cast Speak with Dead, how do you know they're a reliable narrator? What are their motivations after they're dead? We don't know. Because they're dead.
 
-**[Grygum]**
+**[Gyrgum]**
 > "Well— we can bring them back, sometimes."
 
 **[GM]**
@@ -160,7 +160,7 @@ from: ../scene_extractions_new/02_the_methodology_of_murder.md
 **[Thorin]**
 > "Exactly. Oh wait, don't— please, I don't need another—"
 
-**[Grygum]** — *the quote he claims as his own*
+**[Gyrgum]** — *the quote he claims as his own*
 > "Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?"
 
 **[Thorin]**
@@ -169,7 +169,7 @@ from: ../scene_extractions_new/02_the_methodology_of_murder.md
 **[GM]**
 > "Exactly! That's very good. Can I use that?"
 
-**[Grygum]**
+**[Gyrgum]**
 > "Yes, I made it up myself."
 
 **[Thorin]** — *nostalgic aside*
@@ -202,13 +202,13 @@ from: ../scene_extractions_new/02_the_methodology_of_murder.md
 **[GM]**
 > "What I'm realizing is I have to now figure this out."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Boy, what's the time limit on a normal polymorph?"
 
 **[Zalthir]**
 > "One hour."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Well, maybe the cat."
 
 **[GM]**

@@ -20,7 +20,7 @@
 - Faction: Party
 - Revealed motivations/secrets: Has knowledge of contracts and negotiation from prior work with Giants
 
-**Grygum**
+**Gyrgum**
 - Current location: At the entrance to the Raucus Mesa cavern, observing the egg and obelisk
 - Current state: Active; saddened upon learning the egg is demon-possessed; resolved to harm the Derro magician
 - Recent actions: Registered sadness at learning no dragon is in the egg; observed the Raucus Mesa cavern, the red egg, the obelisk, and the female Derro
@@ -150,7 +150,7 @@
 **Cult of Demogorgon**
 - Current goals: Unknown; operating within Gracklstugh; associated with the Raucus Mesa and the egg
 - Recent actions: Represent an ongoing cost and problem to the Empty Scabbard Killers; implied to be operating at or around the Raucus Mesa
-- Relationships: Opposed by the Empty Scabbard Killers; opposed by the party; opposed by Grygum (Bahamut cleric)
+- Relationships: Opposed by the Empty Scabbard Killers; opposed by the party; opposed by Gyrgum (Bahamut cleric)
 - Key members: Unnamed female Derro at the obelisk (suspected member)
 
 **Council of Savants (Derro)**
@@ -159,10 +159,10 @@
 - Relationships: Unknown relationship to the Demogorgon cult; Daz identified a Derro magician connected to the egg situation
 - Key members: One unnamed member noted in the caves
 
-**Bahamut (Cleric faction — Grygum)**
+**Bahamut (Cleric faction — Gyrgum)**
 - Current goals: Stop the demonic possession/egg situation; harm the Derro magician responsible
-- Recent actions: Grygum resolved to hurt the Derro magician upon learning the egg is demon-possessed
-- Key members: Grygum
+- Recent actions: Gyrgum resolved to hurt the Derro magician upon learning the egg is demon-possessed
+- Key members: Gyrgum
 
 ---
 
@@ -174,7 +174,7 @@
 - Rust and Grimgrim of the Empty Scabbard Killers materialized and intercepted the party at the intersection leading to the assassins' lair
 - Thorin inadvertently confirmed the party's enmity toward Demogorgon and deduced the assassins' identity aloud
 - Rust confirmed the group's identity as the Empty Scabbard Killers
-- Rust conferred with leadership and brought the four core party members (Daz, Thorin, Zalthir, Grygum) to Eldgrim; the companion group was left outside
+- Rust conferred with leadership and brought the four core party members (Daz, Thorin, Zalthir, Gyrgum) to Eldgrim; the companion group was left outside
 - Flumph declined to enter, stating he wished to observe a tragedy rather than be in one
 - Eldgrim offered to move Werz Saltbaron to the "brightlist" in exchange for elimination of the Demogorgon cult, demanding an additional 20 gold
 - Thorin negotiated by reframing the value of the contract; Eldgrim ultimately agreed to brightlist Werz without additional gold if the cult is eliminated
@@ -222,7 +222,7 @@
 **The Raucus Mesa Cavern**
 - What it is: A massive underground cavern glowing with faerzress, bioluminescent fungi, and shafts of white light; contains a naturally shelved rocky mesa at its center with crude ramps connecting levels up to two topmost tiers linked by a bridge
 - Key features: A large red egg atop one of the topmost tiers; a 50-foot-tall smooth black metal obelisk with minor imperfections (as though small parts were chipped away) atop the other tier
-- What happened: Grygum and the party observed the cavern; a female Derro was seen interacting with the obelisk, which flashed and caused the faerzress to flare; she retrieved an object from the ground and recorded notes
+- What happened: Gyrgum and the party observed the cavern; a female Derro was seen interacting with the obelisk, which flashed and caused the faerzress to flare; she retrieved an object from the ground and recorded notes
 - Current state: Active; female Derro present; egg and obelisk present
 
 ---
@@ -236,7 +236,7 @@
 - **Werz Saltbaron's contract**: The Empty Scabbard Killers have agreed to brightlist Werz if the party eliminates the Demogorgon cult. The contract has not yet been formally cancelled; completion depends on the party's success.
 - **Errde's request for proof**: Errde wants proof that the Empty Scabbard Killers killed her family. The party has not yet obtained or delivered such proof. Eldgrim dismissed the possibility that any proof would be believed.
 - **The Demogorgon cult at the Raucus Mesa**: The party has agreed to eliminate the cult. The cult's membership, strength, and exact activities at the Mesa are not yet fully known.
-- **The Derro magician**: Grygum resolved to harm the Derro magician connected to the egg. This individual has not yet been encountered or identified beyond Grygum's awareness of them.
+- **The Derro magician**: Gyrgum resolved to harm the Derro magician connected to the egg. This individual has not yet been encountered or identified beyond Gyrgum's awareness of them.
 - **Thangus Ironhead**: Named in the Deepking's document as someone who encroached on the Deepking's family business and was marked for death. His current status and relevance to broader events are unknown.
 - **Captain Blackskull**: Named in the document as suspected of treason and marked for death; described as having "had an eye on the throne" for a long time. Her identity, current status, and role in Gracklstugh politics are unknown.
 - **The Wyrmsmith**: Named in the document and marked for death by freezing. The title "Wyrmsmith" may indicate a connection to dragon-related smithing. Identity and current status unknown.

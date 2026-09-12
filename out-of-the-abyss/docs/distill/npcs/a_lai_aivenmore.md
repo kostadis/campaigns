@@ -27,7 +27,7 @@ source_extracts: [57]
 ## Relationships
 - **Miss Hollypocket:** Jointly discovered Janussi's body with her; first point of contact for Kalan
 - **Bookwyrm:** Publicly deferred to Bookwyrm's judgment on the investigation, though without offering genuine support
-- **The Party:** No endorsement given; non-objection only. Grygum specifically noted the distinction as politically significant
+- **The Party:** No endorsement given; non-objection only. Gyrgum specifically noted the distinction as politically significant
 
 ## Arc Score Events
 - No arc score changes recorded.

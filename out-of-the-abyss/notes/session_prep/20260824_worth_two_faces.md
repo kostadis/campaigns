@@ -292,9 +292,9 @@ lines 166–186 — three GM lines, spoken last week without meaning any of this
 Alaundo.** You do not have to invent the window; you already gave it to him.
 
 And the recruitment itself is the other half of the joke, because it was
-**Grygum's idea and Grygum's reasoning**:
+**Gyrgum's idea and Gyrgum's reasoning**:
 
-> **Grygum:** *"No, no, a lot of these would have scorn for local history.
+> **Gyrgum:** *"No, no, a lot of these would have scorn for local history.
 > It's not their specialty."*
 
 The party went looking for a scholar in the one discipline that **nobody else
@@ -316,7 +316,7 @@ for the riddle and the riddle optimised back.
 | **Possibly** | one of Sylvira's **three figures in the Orrery**. Your call — the link is free and costs nothing if you never use it |
 | **Wants** | ⭐ **not** to fight, **not** to steal a key, and **not** to kill anyone. It wants to **be standing next to the Book when the door opens** |
 | **Its cover job** | riddle line 6 — *"those well-versed in Candlekeep's lore."* ⭐ **The fake is the credential.** The party's plan for the last door is to point at him |
-| **Read Thoughts** | it has been reading them since the grove. It knows the cryptogram, the plan, the marching order, and which of them Grygum will heal first |
+| **Read Thoughts** | it has been reading them since the grove. It knows the cryptogram, the plan, the marching order, and which of them Gyrgum will heal first |
 
 ### The tells — plant at least two before Scene 3
 
@@ -380,7 +380,7 @@ branch 2 or 3 and you have lost nothing.
 ⛔ **A CR 3 doppelganger is nothing to four L9 PCs and it will feel like a
 speed bump.** If you want it to matter, **use the `assassin` statblock (CR 8)
 wearing his face** — that is the creature the 0810 ambush ledger already
-budgeted for, and **Assassinate plus 4d6 sneak on a surprised Grygum** is a
+budgeted for, and **Assassinate plus 4d6 sneak on a surprised Gyrgum** is a
 genuinely frightening opening. Same shapeshifting, same Read Thoughts, real
 teeth.
 
@@ -508,7 +508,7 @@ What they actually have:
 - **The Potion of Flying** inside Glabbagool — the one the GM named on tape last
   week and which **nobody has ever drunk.** One character, one trip.
 - **Daz's `telekinesis`** — 5th-level slot, already spent one last week.
-- **Grygum** and rope and a lot of bad ideas.
+- **Gyrgum** and rope and a lot of bad ideas.
 - ⭐ **The actual answer: line 3.**
 
 ### The aha
@@ -586,7 +586,7 @@ the span across and stripped the teeth doing it.
 
 - Tools + one hour of modron-machined gear stock = **a pinch of dust of
   Mechanus.** Ten minutes at the table.
-- Grygum or Thorin can do it. Zalthir *should* do it — he owes Spanner an
+- Gyrgum or Thorin can do it. Zalthir *should* do it — he owes Spanner an
   interview about mechanical symmetry and he is about to hand-machine a modron
   lubricant a thousand feet underground. **Ask him how it feels.**
 - Dust on the gears: the housing turns over with a sound like a library
@@ -825,7 +825,7 @@ them.**
 ### Round structure
 
 - **R1 — A: `globe of invulnerability`, then talk.** It does not open with
-  violence. The globe shuts off Daz and Grygum at range and deals zero damage:
+  violence. The globe shuts off Daz and Gyrgum at range and deals zero damage:
   maximum menace, zero risk. **Let them discover they have to walk into it.**
   **B: nothing.** It moves to cut the doors and stands there.
 - **R2 — A: `mirror image`.** Zalthir's flurry starts eating duplicates.
@@ -921,7 +921,7 @@ Darkness on a cracked stone pedestal.** Touching it as a non-evil creature:
    have to keep deciding about, forever.
 2. **Leave it.** The Avowed reseal the Vault and Candlekeep owes them a debt it
    cannot discharge.
-3. **Destroy it.** ⭐ **Grygum's arc:** `dispel evil and good` → `holy aura` →
+3. **Destroy it.** ⭐ **Gyrgum's arc:** `dispel evil and good` → `holy aura` →
    holy fire. A Life cleric of Bahamut whose entire theology is *choice over
    determinism*, burning the book that argues the opposite. If Ben goes for
    this, **give him the whole table and do not interrupt.**

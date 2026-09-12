@@ -73,7 +73,7 @@ Supportive of good-aligned parties; neutral/evil parties must earn him. Travels 
 ## Optional Local Bonuses (Gauntlgrym-internal, not faction commitments)
 
 ### Sister Caldra Scale-Vigil — Bahamut-shrine local
-**Asset: Seventh Move Counsel** — keep as a Bahamut-shrine scene, Grygum-focused. Includes the Stroud/Grygum beat ("What do you think moved your hand?") and the optional obsidian tile retrieval from an unstable shrine below forge level. Does not consume a faction slot.
+**Asset: Seventh Move Counsel** — keep as a Bahamut-shrine scene, Gyrgum-focused. Includes the Stroud/Gyrgum beat ("What do you think moved your hand?") and the optional obsidian tile retrieval from an unstable shrine below forge level. Does not consume a faction slot.
 
 ### Guildmaster Torvin Ashpick — Forgewright Syndicate local
 **Asset: Black-Forge Kit** — custom ordnance (explosives, ward-breakers, chemical effects). Materials upfront, no credit. Refund on unused kits minus labor. Available because Bruenor signs his operating charter. Does not consume a faction slot.
@@ -89,7 +89,7 @@ Supportive of good-aligned parties; neutral/evil parties must earn him. Travels 
 | Emerald Enclave | Morista Malkin | Oathsafe Sanctuary | Passive | Spare/evacuate noncombatants when available |
 | Lords' Alliance | Eravien Haund | Counter-Doctrine Brief | Entry | Archive Witness survives one op |
 | Zhentarim | Davra Jassur ⚠ | Deep Route Ledger (+ Mantol-Derith) | Entry | Objective Lock before finale |
-| *Local bonus* | Caldra | Seventh Move Counsel | Flavor/Grygum | Optional tile retrieval |
+| *Local bonus* | Caldra | Seventh Move Counsel | Flavor/Gyrgum | Optional tile retrieval |
 | *Local bonus* | Torvin Ashpick | Black-Forge Kit | Consumable | Materials upfront |
 
 ## Module Gifts Preserved on the Side (separate from asset slots)
@@ -107,7 +107,7 @@ Supportive of good-aligned parties; neutral/evil parties must earn him. Travels 
 3. **Davra Jassur** — the critical one; plot gate to Mantol-Derith.
 4. **Lord Zelraun Roaringhorn** — chess match as the memorable set-piece scene.
 5. **Lord Eravien Haund** — political wrap-up; can slide to next session if needed.
-6. (Optional) **Sister Caldra** Grygum scene if there's time.
+6. (Optional) **Sister Caldra** Gyrgum scene if there's time.
 
 ## DM Note on the Zhent
 

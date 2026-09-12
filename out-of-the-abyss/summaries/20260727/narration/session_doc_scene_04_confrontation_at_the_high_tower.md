@@ -28,13 +28,13 @@ And then he stopped.
 
 "You've been so thorough. I want that on the record before anything else happens, because I don't expect either of us will have time for compliments. In the moment."
 
-"Oh, I always have time for compliments," Grygum said. "I mean, I also accept constructive criticism."
+"Oh, I always have time for compliments," Gyrgum said. "I mean, I also accept constructive criticism."
 
 "Oh, sorry, I'm just being a smartass, but why did you feel a need to kill everybody? What, is it just megalomania? Are you just trying to improve your impact factor in the journals?"
 
 "You understand me," A'lai said. And then it poured out of him. "Janussi gave me 10 days! Do you understand what he was offering me? Mercy! Genuinely, he thought 10 days was kind!"
 
-"10 days for what?" Grygum asked.
+"10 days for what?" Gyrgum asked.
 
 "I have been at Candlekeep for 31 years. I do not have a house, or a family, or a country. I have a chair! He proposed to take the chair! And I found, I was surprised at this, that I would do a great deal. To keep it!"
 
@@ -42,7 +42,7 @@ And then he stopped.
 
 "I didn't set out to be a murderer. I didn't set out to be exiled."
 
-"I understand now, you didn't… you were going to lose your academic honor and privilege," Grygum said.
+"I understand now, you didn't… you were going to lose your academic honor and privilege," Gyrgum said.
 
 "Right! Exactly! Thank you!"
 
@@ -50,11 +50,11 @@ And then he stopped.
 
 "Thank you! Thank you!"
 
-I watched Grygum work the man like a lockpick and decided to press. "Yeah, that's true. So, is there anything we can do to help you and to end this amicably, without us needing to destroy you and your thugs here?"
+I watched Gyrgum work the man like a lockpick and decided to press. "Yeah, that's true. So, is there anything we can do to help you and to end this amicably, without us needing to destroy you and your thugs here?"
 
 "You keep saying, I!" A'lai snapped. "I have been removing books from this library for 11 years, and I have never once chosen which ones. A list arrives, I fill it. The courier who brings the list wears a glove on his right hand, and under the glove the hand is metal, and I have never in 11 years worked up the nerve to ask why."
 
-"Who… who do you work for, then?" Grygum asked.
+"Who… who do you work for, then?" Gyrgum asked.
 
 "His name is Manshoon. You have not heard of it. That is not an accident. It is a career."
 
@@ -70,11 +70,11 @@ Then he raised the sapphire to smash it.
 
 *I have an alternative proposal.* Telekinesis — the heaviest thing I carry, and I spent it without hesitating. He strained against a grip he couldn't see, and lost, and the sapphire tore out of his fingers and crossed the room into my hand.
 
-"You, you have the useful spell," Grygum said. "I wish I'd had something like that. Good job, though."
+"You, you have the useful spell," Gyrgum said. "I wish I'd had something like that. Good job, though."
 
-Now the shell game. I ducked back toward the hallway, every line of my body announcing retreat, Misty Stepped to close the gap, and stumbled into Grygum: clumsy, apologetic, and in the half-second of contact pressing the sapphire into his hand so that he knew exactly what he held. He had the other key already. If everything converged on him, everything would be in one trustworthy place. Nobody saw it. I noted the symmetry: Grygum had once handed me a fake key with a perfectly straight face, and here I was planting a real sapphire on him. The item was sorted into the correct drawer, and the drawer was an orc.
+Now the shell game. I ducked back toward the hallway, every line of my body announcing retreat, Misty Stepped to close the gap, and stumbled into Gyrgum: clumsy, apologetic, and in the half-second of contact pressing the sapphire into his hand so that he knew exactly what he held. He had the other key already. If everything converged on him, everything would be in one trustworthy place. Nobody saw it. I noted the symmetry: Gyrgum had once handed me a fake key with a perfectly straight face, and here I was planting a real sapphire on him. The item was sorted into the correct drawer, and the drawer was an orc.
 
-"I now have one key and one sapphire," Grygum murmured.
+"I now have one key and one sapphire," Gyrgum murmured.
 
 A'lai, discovering himself robbed, came apart. Bolts of raw arcana filled the room, and most of them found Zalthir. The monk dropped where he stood. Glabbagool flowed over him and refused to move.
 
@@ -82,8 +82,8 @@ A'lai, discovering himself robbed, came apart. Bolts of raw arcana filled the ro
 
 "So I think what I'm gonna do is… try and actually just take out the thugs, because I don't want them sort of creating chaos," Thorin said. "What do you guys think?" Up close, the raiders resolved into what they were: Zhentarim men, hired hands of the same career we'd just been introduced to. Dawnbringer bit into one, bright but not blazing. "Because it's not undead, they're not undead, right?" Thorin asked, mid-swing, of no one. He snarled something meant to break the man's nerve. The man's nerve held; he was Zhentarim, after all. So Thorin simply hit him again.
 
-Grygum charged past me and threw Tasha's Caustic Brew across both thugs, his blessing lapsing as he let it go. Neither man was fast enough. One of them dissolved at the start of his next step, dead before he understood the problem. The other stayed on his feet, dripping.
+Gyrgum charged past me and threw Tasha's Caustic Brew across both thugs, his blessing lapsing as he let it go. Neither man was fast enough. One of them dissolved at the start of his next step, dead before he understood the problem. The other stayed on his feet, dripping.
 
-"I will note that they're covered in acid," Grygum said.
+"I will note that they're covered in acid," Gyrgum said.
 
 The surviving thug stood there, smoking. Zalthir lay under Glabbagool. And somewhere across the room, A'lai Aivenmore was still standing, empty-handed and very upset about it.

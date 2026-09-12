@@ -1,7 +1,7 @@
 ---
 scene: 08
 slug: the_ooze_rights_confrontation
-narrator: Grygum
+narrator: Gyrgum
 scene_name: The Ooze Rights Confrontation
 session: 20260504
 ---

@@ -17,7 +17,7 @@ source: gmassist
 - The party was escorted to Deneir's sanctum for 'protection' while the investigation continued — though Daz sensed it was equally about keeping them from poking their noses further into Candlekeep's affairs.
 - A brief detour to Alkrist's room yielded little: gold, a pair of potions, and, as Thorin put it, "Jimmy Hoffa's chest" — a gold coin engraved with a red herring.
 - Zalthir used Glabbagool to discreetly steal a potion of flying from Alkrist's safe while the Avowed were distracted.
-- The DM clarified a detail the summary missed: while Grygum was away giving his talk, Kalan's key had passed from Grygum to Daz, and Fembris was still present and noticed the handoff.
+- The DM clarified a detail the summary missed: while Gyrgum was away giving his talk, Kalan's key had passed from Gyrgum to Daz, and Fembris was still present and noticed the handoff.
 
 ## Verbatim moments
 
@@ -52,13 +52,13 @@ source: gmassist
 > "A gold coin with a red herring engraved upon it, a fitting symbol for an investigation full of misdirection. The Avowed declared the contents unremarkable and moved to close the matter. But Zalthir, never one to miss an opportunity, used Glabbagool to quietly pocket the potion of flying, while everyone else was distracted. No one noticed a thing."
 
 **[GM]** — *the clarification the summary missed*
-> "What the summary did not capture is that you suspected the one person you knew who had seen the drop of the key from Grygum to Daz was Fembris Lancer."
+> "What the summary did not capture is that you suspected the one person you knew who had seen the drop of the key from Gyrgum to Daz was Fembris Lancer."
 
-**[Grygum]**
+**[Gyrgum]**
 > "From Daz, too?"
 
 **[GM]** — *walking back the key handoff*
-> "Grygumite, you had originally, Kalan Strongbranch had given you the key."
+> "Gyrgumite, you had originally, Kalan Strongbranch had given you the key."
 
 **[Daz]**
 > "Right."
@@ -66,13 +66,13 @@ source: gmassist
 **[GM]**
 > "Then you had given Daz the key."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Oh, I forgot that part. Okay."
 
 **[GM]** — *when the handoff happened*
 > "Yes, that happened while you were out."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Ah, okay."
 
 **[GM]** — *the details of the handoff and Fembris noticing*

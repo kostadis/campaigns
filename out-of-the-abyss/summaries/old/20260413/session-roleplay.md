@@ -23,7 +23,7 @@
 > "Since I suck at range, if I can close faster, I'm in good shape."
 > "Not bad. Not great, but not bad."
 
-### Grygum (Player not present for extracted segments)
+### Gyrgum (Player not present for extracted segments)
 - No significant voice moments captured in this session's extractions.
 
 ### Kostadis (GM)

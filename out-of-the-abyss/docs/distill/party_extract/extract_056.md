@@ -4,7 +4,7 @@
 - Awarded a specialized shadow technique (Option C) following his trial in Candlekeep's Echoing Hall.
 - Received Resonant Slime for Glabbagool from a xenobiology sage.
 
-**Grygum**
+**Gyrgum**
 - Purchased a pewter Tarvis hand cast (minor item).
 
 ---
@@ -21,7 +21,7 @@
 **Daz — Positive**
 - Correctly identified the word *struck* in the Menzoberranzan house records as meaningfully distinct from elimination — an erasure rather than a destruction — demonstrating analytical insight that advanced the inquiry into his origins.
 
-**Grygum — Positive**
+**Gyrgum — Positive**
 - Connected Elin's symptoms and Daz's recurring headaches to the spreading Underdark madness, establishing a tenuous but meaningful link between the demon lords' influence and surface-world psychological disruption.
 
 ---
@@ -43,7 +43,7 @@
 - Sister Yvenne withheld information she visibly possessed when Daz asked whether his house might not have been fully eliminated. Her silence registered as confirmation.
 - Encountered the same degraded chant pattern in a young scholar at the Burning Wizard Inn that he had previously observed in Eldred and the Field Ward Preacher. Documented it precisely for Candlekeep research.
 
-**Grygum**
+**Gyrgum**
 - Confirmed the Stroudite inscription on Tarvis Ulain's monument was a known compromise: a gift accepted without the guild removing the secondary text. Added to his ongoing file on Stroud's reach into Bahamutian spaces.
 - Examined Elin at her mother Maerith's request; failed medically to diagnose the cause but correctly identified the Underdark madness as a likely vector and established the connection to Daz's symptoms. No resolution offered to the family.
 

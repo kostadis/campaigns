@@ -1,16 +1,16 @@
 # Pizwog's Tract — *On the Necessary Absence of the Gods Who Are Present*
 
-Handed to Grygum by Pizwog the Patient — ancient tortle, Avowed
+Handed to Gyrgum by Pizwog the Patient — ancient tortle, Avowed
 of Candlekeep (Aspirant) — in the corridor outside the Immortal
 Chambers en route to Brother Vareth's office (2026-05-18
 session, scene 1). Single folio, hand-set, deeply theoretical,
 internally inconsistent in ways that *feel* meaningful, and
 written in the style of a man who has strong views about what
-the word *however* is for. Grygum told Pizwog he would read it
+the word *however* is for. Gyrgum told Pizwog he would read it
 in due time. This was sincere.
 
 > **GM note:** intended as a player handout for Ben — hand it
-> over (or read aloud) when Grygum next opens his pack and
+> over (or read aloud) when Gyrgum next opens his pack and
 > remembers the satchel pamphlet. The four `however`s are
 > load-bearing; each one performs a structural reversal that
 > partially demolishes the paragraph that set it up. That is
@@ -18,7 +18,7 @@ in due time. This was sincere.
 >
 > The Stroud-Protanther paragraph reaches independently for a
 > "bracket-not-the-hand" argument that *almost* anticipates
-> Grygum's fourth-school "fixed points" theory from Vareth's
+> Gyrgum's fourth-school "fixed points" theory from Vareth's
 > office. Possible follow-up beat: Vareth reads Pizwog's tract,
 > goes very pale, and immediately writes a competing folio.
 >

@@ -3,7 +3,7 @@
 **Earth Elemental**
 - Location: Throne Room (formerly); dissolved back into the earth
 - State: Departed/dissolved; no longer present
-- Recent actions: Held open a passage in the throne room following the Pudding King's defeat; sustained damage with elemental energy leaking through fissures; was healed by Grygum's Mass Healing Word; stretched, dropped a glowing geode as a token of favor, and dissolved back into the earth
+- Recent actions: Held open a passage in the throne room following the Pudding King's defeat; sustained damage with elemental energy leaking through fissures; was healed by Gyrgum's Mass Healing Word; stretched, dropped a glowing geode as a token of favor, and dissolved back into the earth
 - Faction: None stated; associated with Entemoch (Prince of Good Elementals)
 - Motivations/Secrets: None stated beyond holding the passage open
 
@@ -24,7 +24,7 @@
 **Jimjar**
 - Location: Present throughout Blingdenstone; last seen vanishing from the Northern Exit Tunnels
 - State: Vanished entirely from existence after winking at the party; current whereabouts unknown
-- Recent actions: Commented on the party's knack for fixing things at the support beams; proposed a bet of ten platinum pieces to Grygum that he could stop the ooze threat; tossed a bone die onto Glabbagool triggering a mysterious blink; collected ten platinum pieces from Grygum; explained the die's origin (won from a blind Duergar in Gracklestugh, claimed carved from the knucklebone of a saint who never told a lie); returned Grygum's ten platinum winnings (noted in departure scene); pointed out a pale white puffball mushroom growing at impossible speed from a crack in the wall and warned of Zuggtmoy's encroachment; noticed Zalthir's scrutiny, winked, and vanished into thin air; left behind the faint sound of platinum coins clinking
+- Recent actions: Commented on the party's knack for fixing things at the support beams; proposed a bet of ten platinum pieces to Gyrgum that he could stop the ooze threat; tossed a bone die onto Glabbagool triggering a mysterious blink; collected ten platinum pieces from Gyrgum; explained the die's origin (won from a blind Duergar in Gracklestugh, claimed carved from the knucklebone of a saint who never told a lie); returned Gyrgum's ten platinum winnings (noted in departure scene); pointed out a pale white puffball mushroom growing at impossible speed from a crack in the wall and warned of Zuggtmoy's encroachment; noticed Zalthir's scrutiny, winked, and vanished into thin air; left behind the faint sound of platinum coins clinking
 - Faction: Unknown; true nature concealed
 - Revealed secrets: Zalthir used a special ability to inspect him and discovered he is immune to poison and psychic damage, cannot be charmed or frightened, and is resistant to radiant damage and non-magical physical attacks; the party assessed his profile as matching a divine or celestial being (resembling an angel or deity stat block); he is not an ordinary gnome
 - Motivations: Unknown; appears to act as a subtle guide or observer; his philosophy involves "world math" and probability; framed use of the bone die as applying "a little uncertainty" in a place where "the blink had turned the world's math into a bad joke"
@@ -85,9 +85,9 @@
 **Ember Vanguard (the party)**
 - Current goals: Departing Blingdenstone for the surface; escaping the Underdark
 - Recent actions: Stabilized the Earth Elemental; located the harmonic center of the Hall of Melting Mirrors; repaired support beams; defused the ooze breach via Jimjar's bone die and Glabbagool; mediated the Blingdenstone council factions; brokered a lasting peace agreement; prepared to depart for the surface
-- Key members: Daz, Grygum, Thorin, Zalthir
+- Key members: Daz, Gyrgum, Thorin, Zalthir
 - Relationships: Honored guests and heroes of Blingdenstone; allied with Gold Whisker wererats (Voucher of the Varmint); honored by Burrow Warden ghosts; recognized by Diggermattock miners (Thorin holds honorary membership); associated with Jimjar (nature now confirmed as non-mortal)
-- Reputation: Legends spreading through Blingdenstone tunnels with exaggerated accounts — Daz casting meteor swarms, Grygum shattering mountains, Zalthir cutting enemies at blinding speed, Thorin smashing solid rock barehanded
+- Reputation: Legends spreading through Blingdenstone tunnels with exaggerated accounts — Daz casting meteor swarms, Gyrgum shattering mountains, Zalthir cutting enemies at blinding speed, Thorin smashing solid rock barehanded
 
 **Gold Whisker Wererats**
 - Current goals: Securing the upper boroughs of Blingdenstone as their own territory; establishing themselves as a self-funded defense force
@@ -124,29 +124,29 @@
 
 - The Earth Elemental that had held the throne room passage open was found cracking under strain, leaking elemental energy through fissures in its body
 - Thorin attempted to physically mend the elemental's cracks and failed
-- Grygum cast Mass Healing Word, restoring the Earth Elemental's structural integrity
+- Gyrgum cast Mass Healing Word, restoring the Earth Elemental's structural integrity
 - The Earth Elemental stretched, dropped a glowing geode, and dissolved back into the earth
 - Fungi in the throne room were observed growing at an accelerated rate, indicating Zuggtmoy's lingering influence
 - The party arrived at the Hall of Melting Mirrors, where Chipgrin and his wererats were conducting a chanting vigil to suppress lingering psychic static from the mirrors
-- Daz and Grygum both attempted and failed to locate the harmonic center of the Hall of Melting Mirrors
+- Daz and Gyrgum both attempted and failed to locate the harmonic center of the Hall of Melting Mirrors
 - Thorin successfully identified the harmonic center of the room, impressing Chipgrin
 - Chipgrin remarked he should have asked the dwarf first, then awkwardly clarified to Zalthir he meant no offense
 - The party reached the support beams area and found Gnomish miners in heated debate over zurkhwood versus steel construction materials
-- Grygum used Lesser Restoration to treat miners suffering from burns
+- Gyrgum used Lesser Restoration to treat miners suffering from burns
 - Thorin winched a critical support beam into place with Daz's tactical guidance
 - Dorbo Diggermattock sewed a Diggermattock Miners patch onto Thorin's gear, making him an honorary member of the crew
-- Grygum used the Mending cantrip to attach the patch with exceptional precision, briefly more impressive than the engineering feat itself
+- Gyrgum used the Mending cantrip to attach the patch with exceptional precision, briefly more impressive than the engineering feat itself
 - Jimjar appeared at the support beams and commented on the party's knack for fixing things
 - A panicked gnome farmer in the farming area warned the party that the city was under attack by oozes
 - The party arrived at the Trader's Grotto to find a large Gnomish army before a breached wall facing an uncontrolled ooze army
 - Chief Dorbo Diggermattock and Chipgrin began arguing about dividing the newly opened territory while the ooze threat persisted
 - Thorin attempted to redirect their attention to the immediate threat; the argument continued
-- Jimjar approached Grygum and proposed a ten-platinum-piece wager that he could stop the ooze threat
+- Jimjar approached Gyrgum and proposed a ten-platinum-piece wager that he could stop the ooze threat
 - Jimjar tossed a small bone die onto Glabbagool; a strange blink rippled through the air
 - Glabbagool briefly became a telepathic bridge connecting every ooze in the cavern into one vast mind
 - Glabbagool communicated to the ooze horde that the world was fine and there was no need to kill anyone
 - The oozes became mindless and peaceful, dispersing into cracks and stonework — gelatinous cubes consuming others, black puddings slipping through cracks, gray oozes going still
-- Grygum paid Jimjar ten platinum pieces from party funds
+- Gyrgum paid Jimjar ten platinum pieces from party funds
 - The bone die rolled out of Glabbagool, spent and inert
 - Jimjar explained the die's origin: won from a blind Duergar in Gracklestugh who claimed it was carved from the knucklebone of a saint who never told a lie, with "a memory for the truth"
 - Jimjar gave the spent bone die to the party as a keepsake
@@ -161,7 +161,7 @@
 - Working-class gnomes lined the tunnels chanting a new rallying cry as the party prepared to depart
 - Burrow Warden ghosts dipped their spectral banners in salute at the party's departure
 - Chief Chipgrin pressed the Voucher of the Varmint (a braided rat's foot) into Daz's hand as a token of friendship
-- The party overheard exaggerated legends of their exploits spreading through the tunnels — Daz casting meteor swarms, Grygum shattering mountains, Zalthir cutting enemies at blinding speed, Thorin smashing solid rock barehanded
+- The party overheard exaggerated legends of their exploits spreading through the tunnels — Daz casting meteor swarms, Gyrgum shattering mountains, Zalthir cutting enemies at blinding speed, Thorin smashing solid rock barehanded
 - Jimjar pointed out a pale white puffball mushroom growing at impossible speed from a crack in the wall, smelling cloyingly sweet like a rotting feast, and warned that Zuggtmoy preferred to move in while people were sleeping
 - Jimjar turned and walked back toward Blingdenstone
 - Zalthir used a special ability to inspect Jimjar and discovered he is immune to poison and psychic damage, cannot be charmed or frightened, and is resistant to radiant damage and non-magical physical attacks — a profile inconsistent with an ordinary gnome and resembling a divine or celestial being
@@ -175,17 +175,17 @@
 
 **Throne Room (Pudding King's)**
 - What it is: The former seat of the Pudding King's power in Blingdenstone; site of his defeat prior to this session
-- What happened there: Earth Elemental found straining to hold the passage open; Grygum healed it; elemental dissolved, leaving a glowing geode; fungi observed growing at accelerated rate
+- What happened there: Earth Elemental found straining to hold the passage open; Gyrgum healed it; elemental dissolved, leaving a glowing geode; fungi observed growing at accelerated rate
 - Current state: Passage stabilized; fungi growing unnaturally fast, indicating Zuggtmoy's influence; Pudding King defeated
 
 **Hall of Melting Mirrors**
 - What it is: A chamber within Blingdenstone containing mirrors that left behind lingering psychic static
-- What happened there: Chipgrin and his wererats were maintaining a chanting vigil to suppress psychic noise; Daz, Grygum failed to locate the harmonic center; Thorin successfully identified it
+- What happened there: Chipgrin and his wererats were maintaining a chanting vigil to suppress psychic noise; Daz, Gyrgum failed to locate the harmonic center; Thorin successfully identified it
 - Current state: Psychic static addressed; Chipgrin's vigil presumably concluded
 
 **Support Beams Area**
 - What it is: A structural area of Blingdenstone featuring temporary bridges and load-bearing support beams, located near black ooze residue
-- What happened there: Gnomish miners argued over construction materials; Grygum healed burned miners; Thorin winched a critical support beam into place; Dorbo Diggermattock awarded Thorin the Diggermattock Miners patch; Jimjar briefly appeared
+- What happened there: Gnomish miners argued over construction materials; Gyrgum healed burned miners; Thorin winched a critical support beam into place; Dorbo Diggermattock awarded Thorin the Diggermattock Miners patch; Jimjar briefly appeared
 - Current state: Structural repairs completed successfully
 
 **Trader's Grotto**

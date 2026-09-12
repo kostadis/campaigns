@@ -14,7 +14,7 @@ chapters: 1-51
 - Scarred face and missing finger from acid disfigurement (past injury, still present).  
 - Inscribed Glyphs of Warding into terrain (tactical ability demonstrated, but no current evidence he is actively inscribing).  
 - Resists fungal corruption through hatred of Ilvara (confirmed immunological state).  
-- Sustains a severe wound from a lightning bolt (ch51), and prior damage from Grygum’s Glyph of Warding and Thorin’s Dawnbringer (ch49–50).  
+- Sustains a severe wound from a lightning bolt (ch51), and prior damage from Gyrgum’s Glyph of Warding and Thorin’s Dawnbringer (ch49–50).  
 - AC 18 (demonstrated in ch50).  
 
 **Current assignment / role and key relationships:**  

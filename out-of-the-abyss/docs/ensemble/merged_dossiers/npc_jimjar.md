@@ -12,7 +12,7 @@ chapters: 1-48
 **Allegiance/Faction:** Formerly associated with Blingdenstone; now implied to be a celestial or divine entity (possibly an angelic being)  
 **Current Possessions / Notable Items:**  
 - Bone die carved from the knucklebone of a saint who “never told a lie,” said to have a “memory for the truth” (won from a blind Duergar in Gracklstugh)  
-- 10 platinum pieces (returned to Grygum after winning a bet)  
+- 10 platinum pieces (returned to Gyrgum after winning a bet)  
 
 **Notable Spells / Feats / Resistances / Immunities:**  
 - Immune to poison and psychic damage  
@@ -24,10 +24,10 @@ chapters: 1-48
 - Last known relationships:  
   - Had a working alliance with Glabbagool (intelligent gelatinous cube), using the bone die to unify the ooze army through him.  
   - Was trusted by Thorin and respected by deep gnomes in Blingdenstone, who showed him deference suggesting an unstated high status.  
-  - Last interacted with Grygum, Zalthir, and the party before vanishing.  
+  - Last interacted with Gyrgum, Zalthir, and the party before vanishing.  
 
 **Defining Recent Actions:**  
-- Won a bet against Grygum: claimed Glabbagool had more sense than the Pudding King; collected 10 platinum pieces, then returned them.  
+- Won a bet against Gyrgum: claimed Glabbagool had more sense than the Pudding King; collected 10 platinum pieces, then returned them.  
 - Used the bone die to pacify an entire army of oozes by triggering a unifying “blink” through Glabbagool, transforming them into a single conscious network.  
 - Warned the party of Zuggtmoy as a silent, insidious threat (“prefers to move in while you’re sleeping”), contrasting Juiblex as merely “loud and messy.”  
 - Revealed profound innate resistances upon Zalthir’s scrutiny, then winked and vanished entirely, leaving no physical trace.  

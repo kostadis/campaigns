@@ -3,7 +3,7 @@
 
 *The Flumph was traumatized by the entire battle scene. Fortunately, it found a willing receptacle for a trauma dump that we share here. *
 Oh! Oh, thank goodness, a fresh mind! You have to listen, you just *have* to, I feel like I'm going to burst! It was... it was just the most awful, chaotic, LOUD thing I have ever had to feel!
-So there they were, my heroes! Standing before the mean lady-derro, Plinki. And the orc-cleric, Grygum, was trying to talk to her, something about choice and dragon gods. His thoughts were so... earnest and golden-yellow! But Plinki, her mind was just a screeching, red mess of "Sacrifice! Power! For the Big Baboon Demon!"
+So there they were, my heroes! Standing before the mean lady-derro, Plinki. And the orc-cleric, Gyrgum, was trying to talk to her, something about choice and dragon gods. His thoughts were so... earnest and golden-yellow! But Plinki, her mind was just a screeching, red mess of "Sacrifice! Power! For the Big Baboon Demon!"
 Then everything went wrong all at once! *Flumph!* Sharp little pings of malice from the dark! The nice lady-dwarf, Eldeth, her thoughts just went *AAAAH-PAIN!* and it was like gEttin g stabbed with a rusty-tasting needle!
 And then Zalthir—oh, Zalthir, the quiet, scaly one, his mind is usually like a still, cool pond, you know? But he just decided—no more light! *FWOOMP.* And the whole world went psychically gray and muffled! It was like trying to taste soup through a wool blanket! I couldn't get a clean read on *anything!* Just jumbled bits of "Where are they?!" and "Kill them!" It was so confusing!
 The Dwarf, Thorin, he just charged right into that black cloud. His mind was a simple, bright axe-blade of "HIT THE BAD THING." Very pure, but so loud!

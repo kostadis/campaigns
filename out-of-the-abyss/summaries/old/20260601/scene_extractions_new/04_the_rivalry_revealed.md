@@ -17,19 +17,19 @@ source: gmassist
 
 **[Fembris Asked About Janussi's Rivals]**
 - The party exits the murder chamber and Fembris solicits information, prompting them to ask about enemies.
-- Thorin and Grygum nearly simultaneously ask the same question about rivals/enemies.
+- Thorin and Gyrgum nearly simultaneously ask the same question about rivals/enemies.
 
 **Thorin** — *asking Fembris about Janussi's enemies*
 > "have any enemies, right? I'm sorry, but I didn't mean to stomp on you."
 
-**Grygum** — *same beat, same question*
+**Gyrgum** — *same beat, same question*
 > "Oh, I was gonna say, does he have any rivals?"
 > "Same question."
 
 **GM** — *Fembris identifies Daral Yashenti*
 > "Oh, that'll be Daral Yashenti. Those two have been at each other's throats for years. He's the one who called you sellswords."
 
-**Grygum** — *reacting to the sellswords remark*
+**Gyrgum** — *reacting to the sellswords remark*
 > "Hmm, well, I already don't like him."
 
 **GM** — *confirming Daral's earlier dismissiveness*
@@ -59,12 +59,12 @@ source: gmassist
 ---
 
 **[Decision to Seek Out Hollypocket]**
-- After exhausting initial questioning of Fembris, Grygum redirects the group toward the housekeeper.
+- After exhausting initial questioning of Fembris, Gyrgum redirects the group toward the housekeeper.
 
-**Grygum** — *proposing next steps*
+**Gyrgum** — *proposing next steps*
 > "One thing we need is somebody who knows what should be here, so they can tell us if anything's missing."
 
-**Grygum** — *later, formally suggesting the housekeeper*
+**Gyrgum** — *later, formally suggesting the housekeeper*
 > "Let me go over that one more time... go find, say, the housekeeper, and ask her, what is missing or out of place."
 
 **GM** — *confirming the plan and identifying Hollypocket*

@@ -43,7 +43,7 @@
 
 ### Trapper Encounter — Whorlstone Tunnels Cavern
 - **Session:** Chapter 19
-- **Outcome:** Success. A trapper (manta ray-like creature) ambushed Grygum. The party killed it with combined attacks from Zalthir (unarmed strikes), Thorin, and Daz (silvery barbs, toll the dead). Grygum was injured and covered in acid slime but survived.
+- **Outcome:** Success. A trapper (manta ray-like creature) ambushed Gyrgum. The party killed it with combined attacks from Zalthir (unarmed strikes), Thorin, and Daz (silvery barbs, toll the dead). Gyrgum was injured and covered in acid slime but survived.
 
 ### Pelek the Deep Gnome Ghost — Laid to Rest (Partial)
 - **Session:** Chapter 19 (referenced)
@@ -67,7 +67,7 @@
 - **Eldeth Feldrun** — Alive. Nearly died in the previous encounter but survived. Present with the party at the tunnel entrance alongside a spectator creature.
 - **Buppido** — Confirmed dead (referenced as a past loss).
 - **Diirdeklin** — Derro guard, alive. Intimidated into letting the party pass. Now believes a Drow incursion has occurred.
-- **Grygum** — Injured by trapper, covered in acid slime, but alive and with the party.
+- **Gyrgum** — Injured by trapper, covered in acid slime, but alive and with the party.
 - **Spectator** — A spectator creature (beholder-kin) is present near Eldeth at the tunnel entrance. Its allegiance/status is unclear but it is not hostile.
 
 ## Party Accomplishments & Acquisitions
@@ -94,7 +94,7 @@
 ## Party Current Situation
 
 - **Current Location:** Whorlstone Tunnels, heading west through a large cavern after passing through the derro guard post. They are trying to exit the tunnels while avoiding the Empty-Scabbard Killers to the south.
-- **Immediate Situation:** The party has just killed a trapper. They are carrying the mutated dragon egg and the collected intelligence. Their plan is to reach Gartokkar Xundorn, return the egg, and negotiate safe passage out of Gracklstugh. Grygum is injured and acid-covered but mobile.
+- **Immediate Situation:** The party has just killed a trapper. They are carrying the mutated dragon egg and the collected intelligence. Their plan is to reach Gartokkar Xundorn, return the egg, and negotiate safe passage out of Gracklstugh. Gyrgum is injured and acid-covered but mobile.
 
 ## Tracked Items
 

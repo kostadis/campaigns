@@ -12,7 +12,7 @@ It mostly felt like reading a body to see how much damage has accumulated.
 
 The Silver Marches had taken a beating. Burned hamlets, foundations gone gray and cold, the kind of ruin that's already stopped smoking and started just being the new shape of things. A standing stone broken at the waist. We passed a Tempus shrine — defaced, whatever icon had been mounted there pried loose or smashed, the stone around it discolored where someone had been thorough about it.
 
-Grygum didn't say anything, just slowed, genuflected, muttered something I couldn't quite hear, and moved on. It was quick and quiet and meant. I watched him do it, and I thought: that's the right-sized response. Not a funeral. Not a ceremony. Just the acknowledgment that leaving it like that would be wrong.
+Gyrgum didn't say anything, just slowed, genuflected, muttered something I couldn't quite hear, and moved on. It was quick and quiet and meant. I watched him do it, and I thought: that's the right-sized response. Not a funeral. Not a ceremony. Just the acknowledgment that leaving it like that would be wrong.
 
 We kept walking.
 
@@ -28,7 +28,7 @@ I let it sit.
 
 The local had something else to say after the history lesson, though, and this was the part that sharpened my attention. Bears fewer this year. Pixies not singing in the sown lands. His grandmother thought it was weather. He didn't seem certain.
 
-Grygum went still in the way he goes still when he's actually processing something fast. He'd been spending time adjacent to the Fey — I didn't have all the details, but I knew enough — and I watched his face do the quick calculation.
+Gyrgum went still in the way he goes still when he's actually processing something fast. He'd been spending time adjacent to the Fey — I didn't have all the details, but I knew enough — and I watched his face do the quick calculation.
 
 "I spent all weekend just across the way from the Fey," he said, with the particular flatness that meant he was not done thinking about it. "So I'm a little suspicious."
 

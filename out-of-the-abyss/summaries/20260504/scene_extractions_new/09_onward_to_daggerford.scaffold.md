@@ -4,7 +4,7 @@ Focus: Daz watches the road ahead and turns over the patron mystery in his mind,
 
 - The party hears persistent rumors and legends about the Ardragon and Whistler as they continue south.
 
-- Grygum had purchased a javelin of lightning in Waterdeep before they left and showed it to everyone as they walked towards Daggerford. 
+- Gyrgum had purchased a javelin of lightning in Waterdeep before they left and showed it to everyone as they walked towards Daggerford. 
 
 - The party arrives at the settlement of Daggerford as they continue their journey south, with Candlekeep and its master Khell-Vire still ahead.
 
@@ -18,19 +18,19 @@ Focus: Daz watches the road ahead and turns over the patron mystery in his mind,
 ### [Departing Waterdeep — Heading South]
 
 <!-- raising a purchase he wants to make -->
-Grygum: "Oh, I figured out one of the things I want to buy."
+Gyrgum: "Oh, I figured out one of the things I want to buy."
 
 <!-- acknowledging -->
 GM: "Okay."
 
 <!-- specifying the item and pasting a reference link -->
-Grygum: "I want a… I want a Javelin of lightning. Here, I'm pasting a link to…"
+Gyrgum: "I want a… I want a Javelin of lightning. Here, I'm pasting a link to…"
 
 <!-- confirming availability -->
 GM: "Yeah, that's fine, too."
 
 <!-- checking cost -->
-Grygum: "How much is it?"
+Gyrgum: "How much is it?"
 
 <!-- cutting off the price discussion to move on -->
 GM: "No, we'll stop here, we'll stop here since the… we'll stop… we'll stop here and continue next week."

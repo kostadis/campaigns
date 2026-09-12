@@ -25,7 +25,7 @@
 - Killed by Daz's Magic Missile after surviving a Fireball due to fire resistance.
 
 ### Princess Ebonmire — Dead
-- Killed by combined attacks from Grygum, Zalthir, and Thorin. A spellbook was found in her stomach.
+- Killed by combined attacks from Gyrgum, Zalthir, and Thorin. A spellbook was found in her stomach.
 
 ### Glabbagool — Alive, Form Changed
 - During the battle, Glabbagool and the Pudding King swapped bodies/forms. After the Pudding King's defeat, Glabbagool is now in an ooze form (no longer a gelatinous cube). He is enthusiastic about this change, viewing the smaller, more mobile form as an improvement. He proposed being carried in a jar or the Bag of Holding, serving as a "garbage disposal," and expressed interest in monk training.

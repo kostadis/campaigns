@@ -4,8 +4,8 @@ The node was worth something to the right buyer — approximately 300 gp — and
 
 ---
 
-**Grygum Burns the Corruption**
-Grygum turned his fire breath on the remaining spore corruption atop Ilvara's elevated stone platform, incinerating fungal corruption that bore Zuggtmoy's influence — not the demon lord herself, who remains active at Neverlight Grove, but a localized expression of her corrupting reach — and reducing it all to ash.
+**Gyrgum Burns the Corruption**
+Gyrgum turned his fire breath on the remaining spore corruption atop Ilvara's elevated stone platform, incinerating fungal corruption that bore Zuggtmoy's influence — not the demon lord herself, who remains active at Neverlight Grove, but a localized expression of her corrupting reach — and reducing it all to ash.
 The chamber smelled of scorched rot as the last of the fungal corruption collapsed.
 
 ---

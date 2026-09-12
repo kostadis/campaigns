@@ -1,6 +1,6 @@
 ## NPC Activity
 
-**Galeb Duhr (Three, unnamed)** — Emerged from the menhir after the temple was hallowed. Welcomed the party, corrected Grygum's "Realm of the Dragon" reference to "Realm of the Rock," laughed at Thorin's hollow/hallowed pun, questioned Thorin about his giant clothing, and explained that the party still needed Entemoch's boon to complete the cleansing. Argued amongst themselves about Entemoch's location before agreeing the deep gnomes would know.
+**Galeb Duhr (Three, unnamed)** — Emerged from the menhir after the temple was hallowed. Welcomed the party, corrected Gyrgum's "Realm of the Dragon" reference to "Realm of the Rock," laughed at Thorin's hollow/hallowed pun, questioned Thorin about his giant clothing, and explained that the party still needed Entemoch's boon to complete the cleansing. Argued amongst themselves about Entemoch's location before agreeing the deep gnomes would know.
 
 **Galeb Duhr (Four, unnamed, Pickshine Mine)** — Blocked the entrance to Pickshine Mine, vibrating rhythmically in an incomplete ancient resonance pattern. Unresponsive to physical force. Relaxed and opened the way after Daz completed the ancient "handshake protocol" using resonant geodes.
 

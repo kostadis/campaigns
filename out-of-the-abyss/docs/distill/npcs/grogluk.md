@@ -13,10 +13,10 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - First appeared when the party attempted to pass from the Derro slums into the city proper
 
 ## Personality & Motivations
-- Loyal to the Deepking and tasked with screening for the wanted Ember Vanguard. Opportunistic enough to shake down travelers for bribes once official business is settled. His seemingly bold, solitary posture at the checkpoint is a calculated act — he keeps at least five invisible guards hidden in the passageway behind him. He is pragmatic and can be intimidated by references to higher authority (visibly shaken when Grygum mentioned their mission from Errde).
+- Loyal to the Deepking and tasked with screening for the wanted Ember Vanguard. Opportunistic enough to shake down travelers for bribes once official business is settled. His seemingly bold, solitary posture at the checkpoint is a calculated act — he keeps at least five invisible guards hidden in the passageway behind him. He is pragmatic and can be intimidated by references to higher authority (visibly shaken when Gyrgum mentioned their mission from Errde).
 
 ## History with the Party
-- **West Cleft Checkpoint:** Confronted the party as they tried to enter the city. Showed them a wanted poster of the Ember Vanguard with inaccurate Derro-sourced depictions. Gave the party two options: surrender weapons and magic items for inspection, or perform the Stone Guard secret salute. Grygum performed the salute perfectly and name-dropped Errde, which intimidated Grogluk into accepting their identity. He then demanded a bribe of 20 gold to "pay off his guards," which Grygum paid. Allowed the party through.
+- **West Cleft Checkpoint:** Confronted the party as they tried to enter the city. Showed them a wanted poster of the Ember Vanguard with inaccurate Derro-sourced depictions. Gave the party two options: surrender weapons and magic items for inspection, or perform the Stone Guard secret salute. Gyrgum performed the salute perfectly and name-dropped Errde, which intimidated Grogluk into accepting their identity. He then demanded a bribe of 20 gold to "pay off his guards," which Gyrgum paid. Allowed the party through.
 
 ## Current Status
 - **Last known location:** The West Cleft District guardhouse checkpoint
@@ -26,8 +26,8 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 
 ## Relationships
 - **The Deepking:** Direct loyalty; enforces the Deepking's authority at the checkpoint
-- **Errde:** Name-dropped by Grygum; Grogluk was visibly intimidated, suggesting Errde outranks or commands respect over him
-- **Grygum:** Received the Stone Guard salute and 20 gold bribe from Grygum; seemed to accept Grygum as legitimate authority
+- **Errde:** Name-dropped by Gyrgum; Grogluk was visibly intimidated, suggesting Errde outranks or commands respect over him
+- **Gyrgum:** Received the Stone Guard salute and 20 gold bribe from Gyrgum; seemed to accept Gyrgum as legitimate authority
 - **The Derro:** Dismissive of their accuracy ("the Derro get details wrong"), suggesting low regard for the slum residents
 - **Invisible Guards (at least five):** Commands a hidden garrison at the checkpoint
 

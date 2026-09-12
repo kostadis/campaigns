@@ -4,7 +4,7 @@
 - **Daz**: No items gained or lost; expended significant spell slots (multiple Magic Missiles, Fireball).
 - **Zalthir**: Took acid damage from grappling the Pudding King and passing through Glabbagool; no items gained or lost. Demonstrated Shadow Step, Stunning Strike, Steps of the Wind, and Eldritch Claw (tentacle) abilities.
 - **Thorin**: Wielded Dawnbringer (radiant sword); used Second Wind to heal mid-combat; no items gained or lost.
-- **Grygum**: Expended spell slots (Guiding Bolt, two Inflict Wounds); no items gained or lost.
+- **Gyrgum**: Expended spell slots (Guiding Bolt, two Inflict Wounds); no items gained or lost.
 - **Party**: Acquired a **spellbook** containing numerous magical formulas (found inside Princess Ebonmire's stomach), significantly expanding arcane capabilities.
 
 ## Arc Score Events
@@ -13,7 +13,7 @@
 - **Zalthir** — Conceived the idea that Glabbagool should train as a monk to learn mental discipline over his body. *(Positive — mentorship/connection with Glabbagool)*
 - **Thorin** — Identified the Glabbagool/Pudding King body swap by asking Glabbagool a trust question ("where did we first meet?"), preventing the party from killing their ally. *(Positive — perceptiveness, loyalty to companions)*
 - **Daz** — Dealt the finishing blow to Prince Livid with Magic Missile, closing out the encounter. *(Positive — combat contribution)*
-- **Grygum** — Landed a devastating Inflict Wounds on the Pudding King for 23 damage, contributing significantly to his defeat. *(Positive — combat contribution)*
+- **Gyrgum** — Landed a devastating Inflict Wounds on the Pudding King for 23 damage, contributing significantly to his defeat. *(Positive — combat contribution)*
 
 ## Relationships & Decisions
 

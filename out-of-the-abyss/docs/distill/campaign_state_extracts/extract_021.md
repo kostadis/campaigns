@@ -16,7 +16,7 @@
 
 ### Dragon Egg Corruption Confirmed
 - **Details:** Daz identified from Flumph's shared image that the lettering on the red dragon egg indicates a demon has already possessed it — there is no dragon inside. The egg is beyond saving.
-- **Consequence:** Grygum (cleric of Bahamut) resolved to confront the Derro responsible
+- **Consequence:** Gyrgum (cleric of Bahamut) resolved to confront the Derro responsible
 
 ## NPC State Changes
 

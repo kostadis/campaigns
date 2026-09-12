@@ -8,7 +8,7 @@ We'd been on the road south out of the Silver Marches long enough that I'd stopp
 
 And yet.
 
-The hill giants I grew up with — they had a word for a silence that wasn't natural. Not the silence of snowfall or empty stone, but the silence of things not being said. The whole village had that. Townfolk walked around something none of them would point at. Nobody explained why. I watched a woman cross the road to avoid a conversation and then pretend she hadn't. Grygum noticed it too, I could tell, though he didn't say anything. Neither did I.
+The hill giants I grew up with — they had a word for a silence that wasn't natural. Not the silence of snowfall or empty stone, but the silence of things not being said. The whole village had that. Townfolk walked around something none of them would point at. Nobody explained why. I watched a woman cross the road to avoid a conversation and then pretend she hadn't. Gyrgum noticed it too, I could tell, though he didn't say anything. Neither did I.
 
 We found the River Shining Tavern and noted it for later. But we didn't go straight in, because Daz had already stopped in the square.
 
@@ -22,7 +22,7 @@ Zalthir looked at it the way he looks at most things: like he was deciding wheth
 
 He let the question sit where he'd put it. Fair question, honestly. It was a severed arm on a stick. The Underdark had less unsettling décor, and that's saying something.
 
-Daz was already reading the inscription. The primary text told us this was Tarvis Ulain, paladin, dead three years. Died here, in Daggerford itself, breaking up a Cult of the Dragon recruitment operation. Grygum made a sound when he got to the part confirming Tarvis had served Bahamut — not a word, just the noise a person makes when something clicks into place. The war had touched everywhere in the North. I knew that the way you know a fact you haven't had to live through. Tarvis Ulain's bronze arm made it concrete.
+Daz was already reading the inscription. The primary text told us this was Tarvis Ulain, paladin, dead three years. Died here, in Daggerford itself, breaking up a Cult of the Dragon recruitment operation. Gyrgum made a sound when he got to the part confirming Tarvis had served Bahamut — not a word, just the noise a person makes when something clicks into place. The war had touched everywhere in the North. I knew that the way you know a fact you haven't had to live through. Tarvis Ulain's bronze arm made it concrete.
 
 Then Daz found the secondary inscription. Dwarven, on the base.
 
@@ -32,19 +32,19 @@ Then Daz found the secondary inscription. Dwarven, on the base.
 
 Same line as the Castle Ward statue in Waterdeep. The one connected to Stroud. I read it twice because Dwarven is, you know, actually my language, or one of them, and I wanted to make sure I hadn't misread. I hadn't. Somebody had put a Stroudite inscription on a monument to a Bahamutian paladin in a town I'd barely heard of, and whoever commissioned it had either not noticed or not cared enough to remove it.
 
-There was a smaller inscription on the back. Common. *Witnessed and recorded for the Gauntlet.* Signed by Milo Goodbarrel, apparently head of some publisher, apparently Order of the Gauntlet. Milo had personally signed off on this. The whole thing was funded two years after the war by a Metalworkers Guild. Grygum was quiet. Not the usual quiet. The kind where he's adding something to the list.
+There was a smaller inscription on the back. Common. *Witnessed and recorded for the Gauntlet.* Signed by Milo Goodbarrel, apparently head of some publisher, apparently Order of the Gauntlet. Milo had personally signed off on this. The whole thing was funded two years after the war by a Metalworkers Guild. Gyrgum was quiet. Not the usual quiet. The kind where he's adding something to the list.
 
 We made it to the inn eventually. The River Shining. A village priest caught us in the doorway — walking in very pleased with himself and carrying a tray of small pewter reproductions of Tarvis's hand cast, miniature things, charm-sized. He was selling them for donations to the Order of the Gauntlet, and he was clearly delighted with his own enterprise.
 
 "Anybody want to buy a Tarvis hand cast in pewter?"
 
-Grygum looked at them. "Are they full size?"
+Gyrgum looked at them. "Are they full size?"
 
 They were not.
 
-The priest's eye landed on Grygum and lit up — another cleric of Bahamut, imagine that — and then he turned to take in the rest of us, and his expression did something complicated. A half-orc cleric of Bahamut. A Dragonborn. A dwarf. A drow. All walking in together.
+The priest's eye landed on Gyrgum and lit up — another cleric of Bahamut, imagine that — and then he turned to take in the rest of us, and his expression did something complicated. A half-orc cleric of Bahamut. A Dragonborn. A dwarf. A drow. All walking in together.
 
-"Kind of like the opening scene in a joke," Grygum said helpfully.
+"Kind of like the opening scene in a joke," Gyrgum said helpfully.
 
 "And they all walk into the inn," he added.
 
@@ -52,21 +52,21 @@ The priest recovered fast. Probably has to, in his line of work. He pivoted and 
 
 "Will any of you fair sirs be willing to buy one of these pewter hand casts?"
 
-Grygum dropped a gold piece in for his. The priest beamed. Then Grygum asked him to tell him more — he'd already paid, so he had the leverage — and the priest was very willing.
+Gyrgum dropped a gold piece in for his. The priest beamed. Then Gyrgum asked him to tell him more — he'd already paid, so he had the leverage — and the priest was very willing.
 
 The statue had been funded by the Metalworkers Guild, two years post-war. The guild may have had Stroudite members, the priest conceded, looking left, looking right, like the Stroudites might be listening. He himself was, he wanted us to know, *a pure Bahamutian*. He did not believe in the heresy.
 
-"As am I," Grygum said. "But the inscription shares language with Stroud. Why is that?"
+"As am I," Gyrgum said. "But the inscription shares language with Stroud. Why is that?"
 
 The priest considered this. "It was a gift," he said finally. "And since it was a gift, we decided the inscription could remain. After all — wasn't Tarvis trying to save us all, regardless of what actually happened in that game of chess?"
 
-I didn't have an answer to that. I'm not sure anyone did. Grygum went back to examine the statue more carefully anyway, looking for anything else unusual. There wasn't much. Just a fairly normal monument, as monuments to severed arms go. Just one more marker of a war that had touched everything north of here in some way — dragons, cult raids, fire, pillage. Daggerford had been far enough south to miss the Uthgardt barbarian hordes that had swept through after the giant war. They'd only gotten the cult. Only lost Tarvis.
+I didn't have an answer to that. I'm not sure anyone did. Gyrgum went back to examine the statue more carefully anyway, looking for anything else unusual. There wasn't much. Just a fairly normal monument, as monuments to severed arms go. Just one more marker of a war that had touched everything north of here in some way — dragons, cult raids, fire, pillage. Daggerford had been far enough south to miss the Uthgardt barbarian hordes that had swept through after the giant war. They'd only gotten the cult. Only lost Tarvis.
 
 The priest moved on to find other customers. I stood in the doorway of the River Shining and thought about how many towns north of here had a story like this, and just hadn't put up a bronze arm about it yet.
 
 ---
 
-## Grygum — The Silent Child of Maerith
+## Gyrgum — The Silent Child of Maerith
 
 Maerith of the Ford had the look of a woman who had already been turned away. You develop an eye for it, in this work — the specific exhaustion of someone who has walked into every room that was supposed to help and left each one carrying the same weight back out. She spotted my holy symbol during dinner, which is the usual trigger. People see the dragon-and-scale emblem and they think: well, at least this one won't say no before I finish asking.
 
@@ -164,13 +164,13 @@ There was a bard — a traveling one, by the look of her kit, set up in the perf
 
 *"Oh, the Kenku could not fly, but he flew in his black hood, in his black hood, in his black hood. The raven thief who learned to steal no more, save what was needed, said the small, wise man at his side."*
 
-Grygum, who has an irritating habit of noticing things I would have preferred to notice first, observed drily that the song's principle — steal what was needed — mapped rather well onto Whistler. The Kenku thief of some earlier age who, presented with the complete hoard of Tiamat, had apparently taken only what was necessary for legitimate expenses. Operating goals. Day-to-day funds. Per diems.
+Gyrgum, who has an irritating habit of noticing things I would have preferred to notice first, observed drily that the song's principle — steal what was needed — mapped rather well onto Whistler. The Kenku thief of some earlier age who, presented with the complete hoard of Tiamat, had apparently taken only what was necessary for legitimate expenses. Operating goals. Day-to-day funds. Per diems.
 
 I found that, I mean, genuinely impressive. The restraint of it. Most people, faced with the complete hoard of Tiamat, would either take everything or panic and take nothing. Whistler had apparently made a line-item budget.
 
-After her set, the bard invited requests. Grygum leaned forward — he has a scholar's interest in Stroud that he performs slightly harder than the interest actually requires — and offered her a silver piece for something about Stroud's famous chess game. She looked at his holy symbol and asked whether he was Bahamutian or Stroudite, and he explained that he was Bahamutian, with sentimentality for the other. She took the coin and proceeded to sing a love song. Involving flowers. And drinking. The chess game appeared as a metaphor for romantic longing, the grand theological stakes filed down into something a farmhand could hum on the way home.
+After her set, the bard invited requests. Gyrgum leaned forward — he has a scholar's interest in Stroud that he performs slightly harder than the interest actually requires — and offered her a silver piece for something about Stroud's famous chess game. She looked at his holy symbol and asked whether he was Bahamutian or Stroudite, and he explained that he was Bahamutian, with sentimentality for the other. She took the coin and proceeded to sing a love song. Involving flowers. And drinking. The chess game appeared as a metaphor for romantic longing, the grand theological stakes filed down into something a farmhand could hum on the way home.
 
-Grygum received this in the way he receives most things downgraded by translation: politely, and with the file already updated. "The only love I remember during the previous campaign," he said, "involved giants, and it wasn't Stroud's." He paused. "These things have to be done with a grain of salt."
+Gyrgum received this in the way he receives most things downgraded by translation: politely, and with the file already updated. "The only love I remember during the previous campaign," he said, "involved giants, and it wasn't Stroud's." He paused. "These things have to be done with a grain of salt."
 
 I had been cataloguing the room during all of this, which is not something I do consciously anymore. It is just what happens when I sit somewhere new: faces, patterns, the small deviations from baseline behavior. There was a young human scholar in the far corner — not a human scholar, a *young* human scholar, because those are meaningfully different things and I did not want to get the category wrong — who was reciting something under his breath. A chant of some kind. Rhythmic, almost liturgical.
 
@@ -212,15 +212,15 @@ Daz went quiet beside me somewhere around the second hour of walking. Not his us
 
 I noticed. I didn't say anything yet.
 
-Grygum noticed too, and asked whether it connected to the voices — the spreading madness we'd watched move through the Underdark like groundwater through stone. He couldn't pin it down, he said. Something wrong, something tenuous. I filed it. Whatever was happening to Daz had started below ground and apparently had not stopped at the surface. One more thing that needed answering. One more thing Candlekeep was presumably for.
+Gyrgum noticed too, and asked whether it connected to the voices — the spreading madness we'd watched move through the Underdark like groundwater through stone. He couldn't pin it down, he said. Something wrong, something tenuous. I filed it. Whatever was happening to Daz had started below ground and apparently had not stopped at the surface. One more thing that needed answering. One more thing Candlekeep was presumably for.
 
-We gave them the books at the gate. Bookwyrm — the First Reader, a dragonborn sage — assigned us each to a handler without ceremony. She had clearly been doing this for a long time and had no interest in making it interesting. Daz to Sister Yvenne. Zalthir to Brother  Khell-Vire. Thorin to Master Archivist Philemon. Grygum to Vareth. She said it the way you'd read a duty roster. I respected that.
+We gave them the books at the gate. Bookwyrm — the First Reader, a dragonborn sage — assigned us each to a handler without ceremony. She had clearly been doing this for a long time and had no interest in making it interesting. Daz to Sister Yvenne. Zalthir to Brother  Khell-Vire. Thorin to Master Archivist Philemon. Gyrgum to Vareth. She said it the way you'd read a duty roster. I respected that.
 
 Then she paused.
 
 She'd noticed the bag.
 
-Specifically, she'd noticed what was in the bag — because when we'd come through the gate, we'd had to open it to show the guards Glabbagool, and the miniaturized House T'sarran spy had been right there alongside him, which she apparently found unacceptable, and which Grygum summarized, with admirable brevity, as: *"We've been caught."*
+Specifically, she'd noticed what was in the bag — because when we'd come through the gate, we'd had to open it to show the guards Glabbagool, and the miniaturized House T'sarran spy had been right there alongside him, which she apparently found unacceptable, and which Gyrgum summarized, with admirable brevity, as: *"We've been caught."*
 
 They summoned someone called  Kalan Strongbranch. Gate Warden. He was efficient about it. He laid out Candlekeep's position without apology:
 
@@ -264,7 +264,7 @@ The spy was not happy. The decision was made. We kept her.
 
 ---
 
-## Grygum — Zalthir's Trial of the Broken Mirror
+## Gyrgum — Zalthir's Trial of the Broken Mirror
 
 The Echoing Hall earned its name. Stone corridors in Candlekeep's north inner ward have a habit of returning sound to you slightly altered — not an echo exactly, more like the library itself was taking notes. I approved of that.
 

@@ -12,17 +12,17 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 - The party travels to the grove where the keepers of tomes are buried and locates Alaundo's grave, discovering he died at the age of 97.
 - Thorin, ever practical: "before we walk down 97 and then say, what's the prophecy, and they have to walk 97 back up... that's a lot of stairs to walk."
 - Scholars from Candlekeep provide the party with the text of the original prophecy required for the next step of the riddle — "every scholar in Candlekeep knows this one by heart, and since you've managed to make so many friends." *(cleaned VTT reads "Castle Ward"; scene context — the grove, Alaundo's grave, Candlekeep scholars — and the second transcription both give **Candlekeep**, so corrected. NOTE for future cleanup passes: this is **not** the `Kendall Keep → Castle Ward` glossary row, and no blanket `Castle Ward → Candlekeep` rule should be added — Castle Ward is a live Waterdeep district in this campaign.)*
-- Grygum, knowing what scholars want, makes sure everyone knows who lent him the ink — and the correct spelling of his name. Daz: "He wants to get credit and citations?"
-- The party recruits a scholar who specializes in Candlekeep lore for the "obsidian door" clause ("you know a guy"); Grygum notes that most scholars "would have scorn for local history." The scholar asks to fetch a few things from his quarters first *(the tape says "the knobs and nabs" in both transcriptions — GM ruling 2026-08-24: rendered in the quote as `[inaudible — probable "nooks and crannies"]`. Not a place name; not a glossary or registry entry.)*.
-- Grygum asks whether the Dust of Mechanus is any relation to the Dust of Suleiman — it is not. Thorin: "Is the Dust of Mechanus Coke?" Grygum: "That would be an expensive lubricant."
+- Gyrgum, knowing what scholars want, makes sure everyone knows who lent him the ink — and the correct spelling of his name. Daz: "He wants to get credit and citations?"
+- The party recruits a scholar who specializes in Candlekeep lore for the "obsidian door" clause ("you know a guy"); Gyrgum notes that most scholars "would have scorn for local history." The scholar asks to fetch a few things from his quarters first *(the tape says "the knobs and nabs" in both transcriptions — GM ruling 2026-08-24: rendered in the quote as `[inaudible — probable "nooks and crannies"]`. Not a place name; not a glossary or registry entry.)*.
+- Gyrgum asks whether the Dust of Mechanus is any relation to the Dust of Suleiman — it is not. Thorin: "Is the Dust of Mechanus Coke?" Gyrgum: "That would be an expensive lubricant."
 - Zalthir proposes plane shifting to Mechanus to "kill some stuff and come back"; the GM instead reveals a House of Mechanus on the grounds.
 - The party arrives at the House of Mechanus, a rectangular building with a blue roof and a clock tower, dedicated to engineering and technology.
-- They meet Spanner, the gnome librarian, and thirteen modrons — box-like mechanical creatures from the plane of Mechanus — who work there. Thorin compares them to BMO from Adventure Time; Zalthir: "Not as cute as I was hoping"; Grygum: "I like the one that looks like two stacked boxes."
+- They meet Spanner, the gnome librarian, and thirteen modrons — box-like mechanical creatures from the plane of Mechanus — who work there. Thorin compares them to BMO from Adventure Time; Zalthir: "Not as cute as I was hoping"; Gyrgum: "I like the one that looks like two stacked boxes."
 - Thorin refuses to harm them: "We don't kill librarians. They're our friends." Zalthir: "Have we killed a librarian before?" Thorin: "But they attacked us first... It was justified."
 - Daz recalls the letter from the librarian in Milo's book, musing "that something like that would be useful now."
 - Spanner explains that Dust of Mechanus is the most perfect of lubricants — "it is a well-known fact that the dust from the plane of Mechanus is, in fact, the most perfect of all lubricants" — but the only known ways to obtain it are to kill a modron ("absolutely unacceptable") or to use special tools his modrons have created.
-- Grygum interrupts Spanner's exposition with "One of them asking politely," to stunned silence. Thorin: "It's not polite when you interrupt." Grygum: "Oh, I'm sorry, please, please, please continue. I apologize."
-- Spanner asks for collateral for the tools; Thorin counters, "We don't need to keep the tools, we just need the dust," which the GM rewards with a persuasion roll — Thorin's own modifier is −1 ("so you guys tell me"), so Grygum rolls it and gets 14. *(Thorin says "I'll do mine" a moment later; that roll is never resolved on tape.)*
+- Gyrgum interrupts Spanner's exposition with "One of them asking politely," to stunned silence. Thorin: "It's not polite when you interrupt." Gyrgum: "Oh, I'm sorry, please, please, please continue. I apologize."
+- Spanner asks for collateral for the tools; Thorin counters, "We don't need to keep the tools, we just need the dust," which the GM rewards with a persuasion roll — Thorin's own modifier is −1 ("so you guys tell me"), so Gyrgum rolls it and gets 14. *(Thorin says "I'll do mine" a moment later; that roll is never resolved on tape.)*
 - The party persuades Spanner to lend them the tools, with Spanner agreeing on the condition that Zalthir and Glabbagool remain behind for a symmetry study and interview. Zalthir: "We're game as long as you give us constructive feedbacks... so we may better symbiotically serve our Zen cause." GM: "Always be selling." The interview is deferred until after the descent.
 - The modrons perform a strange mechanized dance while communicating in a mechanistic language to discuss the arrangement — sounds the party "can't even figure out how a gnome is actually able to make."
 
@@ -58,7 +58,7 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **GM**
 > "There you have it. Okay."
 
-**Grygum**
+**Gyrgum**
 > "So, from knowledge of what scholars want, I make sure that everyone knows who lent me the ink."
 
 **GM**
@@ -70,7 +70,7 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **GM**
 > "He makes sure that everybody knows the correct spelling of his name."
 
-**Grygum**
+**Gyrgum**
 > "Yeah."
 
 **Daz**
@@ -82,25 +82,25 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **GM**
 > "Okay, so where do you want to stand when you read the citation — when you read the prophecy?"
 
-**Grygum**
+**Gyrgum**
 > "Oh."
 
-**Grygum**
+**Gyrgum**
 > "97 seconds."
 
 **Thorin**
 > "…steps down."
 
-**Grygum**
+**Gyrgum**
 > "Let's see. Tread as many steps as he lived in years, utter the original prophecy to unseen ears."
 
 **GM**
 > "Nope."
 
-**Grygum**
+**Gyrgum**
 > "Unseen ears."
 
-**Grygum**
+**Gyrgum**
 > "It could mean nothing in particular."
 
 **Zalthir**
@@ -109,16 +109,16 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **GM**
 > "Yeah, I understand."
 
-**Grygum**
+**Gyrgum**
 > "Well, let's… let's go 97 steps down, and…"
 
-**Grygum**
+**Gyrgum**
 > "Read the prophecy? Oh — do we have the dust? We need dust. Dust of Mechanus."
 
 **GM**
 > "Mechanus."
 
-**Grygum**
+**Gyrgum**
 > "Oh."
 
 **Thorin**
@@ -130,7 +130,7 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **Thorin**
 > "Mechanus."
 
-**Grygum**
+**Gyrgum**
 > "You know, it says: those well-versed in Candlekeep's lore may fearlessly pass the obsidian door. Should— we don't actually know it that well. Who knows it best?"
 
 **Zalthir**
@@ -139,16 +139,16 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **GM**
 > "—experts. Correct."
 
-**Grygum**
+**Gyrgum**
 > "Not all of them are experts on the… I'm sure there's some who know it better than others."
 
-**Grygum**
+**Gyrgum**
 > "There must be a specialty in local history."
 
 **GM**
 > "You could ask and see who volunteers."
 
-**Grygum**
+**Gyrgum**
 > "Oh, yeah, I'm asking. Who are the experts on Candlekeep itself?"
 
 **GM**
@@ -157,7 +157,7 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **GM**
 > "All right, to make this [inaudible]."
 
-**Grygum**
+**Gyrgum**
 > "No, no, a lot of these would have scorn for local history. It's not their specialty."
 
 **GM**
@@ -172,7 +172,7 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **GM**
 > "You know a guy."
 
-**Grygum**
+**Gyrgum**
 > "We've definitely talked to a lot of people while we've been here, so we've probably picked up on those who know the keep."
 
 **GM**
@@ -184,16 +184,16 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **GM**
 > "And asks whether he can just take a moment to go get a few things in the [inaudible — probable “nooks and crannies”]."
 
-**Grygum**
+**Gyrgum**
 > "Yeah, does he have the dust of Mechanus?"
 
 **GM**
 > "No, unfortunately, the dust of Mechanus… Mechanus is a particular plane, so… regardless of—"
 
-**Grygum**
+**Gyrgum**
 > "Oh, we might be in trouble if we can't get some."
 
-**Grygum**
+**Gyrgum**
 > "Unless it's just some sort of dry lubricant, it kind of implies that it is. It says to sprinkle it on dormant gears."
 
 **GM**
@@ -205,7 +205,7 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **GM**
 > "Nope."
 
-**Grygum**
+**Gyrgum**
 > "That would be an expensive lubricant."
 
 **Thorin**
@@ -244,16 +244,16 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **GM**
 > "Glabbagool says: no, I do not."
 
-**Grygum**
+**Gyrgum**
 > "I ask whether it's any relation to the Dust of Suleiman."
 
 **GM**
 > "No, no, it's not, hold on. But they do point out that they're… I just need to check something, give me one second."
 
-**Grygum**
+**Gyrgum**
 > "The description really makes it sound like it's a form of preventative maintenance for these gears."
 
-**Grygum**
+**Gyrgum**
 > "Yes."
 
 **GM**
@@ -280,19 +280,19 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **Zalthir**
 > "Oh!"
 
-**Grygum**
+**Gyrgum**
 > "Oh, my God."
 
 **Thorin**
 > "I don't want to kill any of them if they're just librarians, I don't."
 
-**Grygum**
+**Gyrgum**
 > "Why do we have to kill them?"
 
 **Thorin**
 > "Do they sneeze? Does it sneeze dust or something? I mean…"
 
-**Grygum**
+**Gyrgum**
 > "I think we can just ask them for their advice, or if they've got a bag of dust that we can borrow."
 
 **GM**
@@ -301,7 +301,7 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **GM**
 > "Yes, and you do not need to kill them. That is one of many solutions to the problem."
 
-**Grygum**
+**Gyrgum**
 > "Probably they're academics."
 
 **Thorin**
@@ -364,7 +364,7 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **Zalthir**
 > "It sounds cute. Is it cute?"
 
-**Grygum**
+**Gyrgum**
 > "Sounds like a little robot."
 
 **Thorin**
@@ -430,7 +430,7 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **Thorin**
 > "BMO."
 
-**Grygum**
+**Gyrgum**
 > "They look hilarious."
 
 **GM**
@@ -439,13 +439,13 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **Zalthir**
 > "Not as cute as I was hoping, but okay."
 
-**Grygum**
+**Gyrgum**
 > "I don't know, I like the one that looks like two stacked boxes."
 
 **Zalthir**
 > "Kinda creepy face."
 
-**Grygum**
+**Gyrgum**
 > "Mmm, yeah."
 
 **GM**
@@ -460,13 +460,13 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **GM**
 > "Everything carefully organized — it's sort of like an OCD person's wet dream."
 
-**Grygum**
+**Gyrgum**
 > "He looks…"
 
 **GM** — *as Spanner*
 > "The gnome looks at you and asks: What are you looking for? What is it that you're hoping to get?"
 
-**Grygum**
+**Gyrgum**
 > "Well, we believe we have a situation where we need to lubricate some machinery, and the suggested lubricant was dust of Mechanus, and we thought you might have a line on some."
 
 **GM**
@@ -475,16 +475,16 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **GM** — *as Spanner*
 > "He pauses and says: Well, it is a well-known fact that the dust from the plane of Mechanus is, in fact, the most perfect of all lubricants."
 
-**Grygum**
+**Gyrgum**
 > "Well, how… how may we obtain some?"
 
-**Grygum**
+**Gyrgum**
 > "We appreciate its positive qualities."
 
 **GM** — *as Spanner*
 > "He goes: That's an excellent question. So, there are two known ways to secure such a thing."
 
-**Grygum**
+**Gyrgum**
 > "One of them asking politely."
 
 **GM**
@@ -493,16 +493,16 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **Thorin**
 > "It's not polite when you interrupt."
 
-**Grygum**
+**Gyrgum**
 > "Oh, I'm sorry, please, please, please continue. I apologize."
 
 **GM**
 > "I mean, sorry — you've come to his place of work, and you're not going to give him an opportunity to meander for at least 10 minutes?"
 
-**Grygum**
+**Gyrgum**
 > "Well—"
 
-**Grygum**
+**Gyrgum**
 > "I actually don't know how urgent it is, but there might be a villain prepared to do villainous things if we're not in a hurry."
 
 **GM**
@@ -520,19 +520,19 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **Thorin**
 > "That sounds like a better—"
 
-**Grygum**
+**Gyrgum**
 > "Let's try it — although, is it ever awkward that you're full of extremely valuable things?"
 
 **GM** — *as Spanner*
 > "Up until today, it has never been an issue."
 
-**Grygum**
+**Gyrgum**
 > "Oh, okay. That's good. We won't make it an issue."
 
 **GM** — *as Spanner*
 > "Yes, he goes: Now, the problem is that these are very unique and special items."
 
-**Grygum**
+**Gyrgum**
 > "The tools?"
 
 **GM**
@@ -541,7 +541,7 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **GM** — *as Spanner*
 > "And so I will need something for collateral."
 
-**Grygum**
+**Gyrgum**
 > "Oh."
 
 **Thorin**
@@ -553,13 +553,13 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **GM**
 > "—idea."
 
-**Grygum**
+**Gyrgum**
 > "Thorin, why don't you…"
 
 **Thorin**
 > "My persuasion is negative 1, so you guys tell me."
 
-**Grygum**
+**Gyrgum**
 > "Oh, well… I'll do mine. 14."
 
 **Thorin**
@@ -610,13 +610,13 @@ from: ../scene_extractions/05_the_grave_of_alaundo_and_the_house_of_mechanus.md
 **[Age, Prophecy, and the Modrons' Tools]**
 - At the grove the party finds Alaundo's body and learns he died at 97.
 - Thorin wants the prophecy before descending to avoid climbing 97 steps back up; the scholars, now friends, all know it by heart.
-- Grygum makes sure everyone records who lent the ink and the correct spelling of his name.
-- Reading the riddle again, Grygum realizes they need Dust of Mechanus, and asks which scholar knows Candlekeep lore best for the obsidian door.
+- Gyrgum makes sure everyone records who lent the ink and the correct spelling of his name.
+- Reading the riddle again, Gyrgum realizes they need Dust of Mechanus, and asks which scholar knows Candlekeep lore best for the obsidian door.
 - A local-history scholar volunteers, excited, and asks to fetch a few things first; he has no dust.
 - The Dust of Mechanus is not Coke and not related to the Dust of Suleiman; the GM explains Mechanus is a plane and the dust could come from a dead modron.
 - Zalthir proposes plane shifting to kill some stuff; the GM instead reveals the House of Mechanus with thirteen modrons under Spanner the librarian.
 - Thorin refuses to kill librarians; Zalthir needles him about the last time; Daz recalls the librarian's letter in Milo's book.
 - The table compares modrons to BMO and inspects the GM's link.
-- Spanner offers two ways to obtain dust — killing a modron, unacceptable, or using his modrons' special tools; Grygum interrupts and apologizes.
-- Spanner demands collateral; Thorin's argument that they only need the dust earns the roll, and Grygum makes it — persuasion 14 carries it.
+- Spanner offers two ways to obtain dust — killing a modron, unacceptable, or using his modrons' special tools; Gyrgum interrupts and apologizes.
+- Spanner demands collateral; Thorin's argument that they only need the dust earns the roll, and Gyrgum makes it — persuasion 14 carries it.
 - Spanner agrees on condition Zalthir and Glabbagool sit for a symmetry interview after the descent; the modrons confer in a mechanized dance.

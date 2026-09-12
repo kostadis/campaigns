@@ -58,8 +58,8 @@
   {
     "type": "npc",
     "subject": "Dulgir",
-    "fact": "Dulgir is a Duergar merchant in the Blade Bazaar who initially curses Grygum but shifts to speaking with the stilted tongue of a Baldurian patriar after Grygum decides to buy instead of sell, and denies the existence of his brother who is visibly present during transactions.",
-    "source_quote": "The merchant, Dulgir, asks if he wants to buy or sell. 'Sell this mace?' ... the Duergar starts cursing Grygum ... the Duergar suddenly shifts, speaking with the stilted tongue of a Baldurian patriar. ... Grygum asks Dulgir, 'I guess his brother is invisible.' But Dulgir answers, 'His brother doesn\u2019t exist.'",
+    "fact": "Dulgir is a Duergar merchant in the Blade Bazaar who initially curses Gyrgum but shifts to speaking with the stilted tongue of a Baldurian patriar after Gyrgum decides to buy instead of sell, and denies the existence of his brother who is visibly present during transactions.",
+    "source_quote": "The merchant, Dulgir, asks if he wants to buy or sell. 'Sell this mace?' ... the Duergar starts cursing Gyrgum ... the Duergar suddenly shifts, speaking with the stilted tongue of a Baldurian patriar. ... Gyrgum asks Dulgir, 'I guess his brother is invisible.' But Dulgir answers, 'His brother doesn\u2019t exist.'",
     "quote_verified": false
   },
   {
@@ -71,22 +71,22 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a cleric of Bahamut who observes the irrational behavior of Duergar merchants and concludes that the madness afflicting Gracklstugh is not religious but political, stemming from competition over resources rather than divine conflict.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a cleric of Bahamut who observes the irrational behavior of Duergar merchants and concludes that the madness afflicting Gracklstugh is not religious but political, stemming from competition over resources rather than divine conflict.",
     "source_quote": "The orc has been puzzled by Eldeth\u2019s venom directed at the Duergar. He thinks there might be some rivalry between the Duergar gods and the Dwarven gods, but then he remembers something he read: that religious conflict is not always what it seems. The Dwarves and the Duergar compete for the same resources, and political conflict may matter more than any religious principle or dogma. 'This is not the will of any god. This is the will of the people,' he mutters.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Jimjar",
-    "fact": "Jimjar is a gnome who corrects Zalthir\u2019s misunderstanding of interplanar gate travel, explaining that summoning great powers like Demogorgon requires powerful artifacts and rituals, and is later revealed to be the target of Grygum\u2019s outburst about his annoying bEttin g.",
+    "fact": "Jimjar is a gnome who corrects Zalthir\u2019s misunderstanding of interplanar gate travel, explaining that summoning great powers like Demogorgon requires powerful artifacts and rituals, and is later revealed to be the target of Gyrgum\u2019s outburst about his annoying bEttin g.",
     "source_quote": "Jimjar roars with laughter. ... 'Obviously, you do not understand the first thing about interplanar or gate travel. There are a great many things Buppido could do, but that is not one of them.' ... 'Jimjar\u2019s bEttin g is so annoying! GIVE IT A REST.'",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is a dragonborn who uses Darkness magic to conceal enemies, seeks the Eldritch Claw Tattoo, and becomes increasingly aware of the irrationality and madness in Gracklstugh, while also developing a fondness for Grygum\u2019s blunt honesty.",
+    "fact": "Zalthir is a dragonborn who uses Darkness magic to conceal enemies, seeks the Eldritch Claw Tattoo, and becomes increasingly aware of the irrationality and madness in Gracklstugh, while also developing a fondness for Gyrgum\u2019s blunt honesty.",
     "source_quote": "Zalthir again moves the darkness to cover the enemies. ... Zalthir asks them, 'Can either of you get me Eldritch Claw Tattoo?' ... Zalthir smiles, 'I like him.'",
     "quote_verified": false
   },
@@ -114,7 +114,7 @@
   {
     "type": "event",
     "subject": "The Tongue of Madness Revelation",
-    "fact": "Buppido consumes the Tongue of Madness and reveals his true, unfiltered opinions of the party members, including criticisms of their physical traits and interpersonal dynamics, leading to a moment of collective unease and Grygum\u2019s unexpected defense of Zalthir\u2019s unclean scales.",
+    "fact": "Buppido consumes the Tongue of Madness and reveals his true, unfiltered opinions of the party members, including criticisms of their physical traits and interpersonal dynamics, leading to a moment of collective unease and Gyrgum\u2019s unexpected defense of Zalthir\u2019s unclean scales.",
     "source_quote": "And Buppido does and starts talking. ... 'You all have been so annoying. Daz has foul-smelling breath. Thorin thinks his muscles are impressive. Eldeth is -not- interested in him.' ... 'Zalthir\u2019s scales haven\u2019t been cleaned in ages.'",
     "quote_verified": false
   },
@@ -156,7 +156,7 @@
   {
     "type": "npc",
     "subject": "Eldeth",
-    "fact": "Eldeth is a member of the party who expresses intense racial animus toward the Duergar, calling them 'Demonic spawn of dwarven corruption' and 'slave traders who deserve to be sent to the nine hells,' which prompts Grygum to reflect on the political roots of their conflict.",
+    "fact": "Eldeth is a member of the party who expresses intense racial animus toward the Duergar, calling them 'Demonic spawn of dwarven corruption' and 'slave traders who deserve to be sent to the nine hells,' which prompts Gyrgum to reflect on the political roots of their conflict.",
     "source_quote": "Eldeth curse them out as 'Demonic spawn of dwarven corruption. Slave trader who deserves to be sent to the nine hells as punishment!'",
     "quote_verified": false
   },
@@ -177,7 +177,7 @@
   {
     "type": "npc",
     "subject": "Gyrgum",
-    "fact": "Gyrgum is a misspelled variant of Grygum, and should be corrected to Grygum; no separate entity exists.",
+    "fact": "Gyrgum is a misspelled variant of Gyrgum, and should be corrected to Gyrgum; no separate entity exists.",
     "source_quote": "Gyrgum asks, 'So what are we doing here?' ... 'Gyrgum asks Dulgir, 'I guess his brother is invisible.' ... 'Gyrgum has heard enough, 'I am done.'",
     "quote_verified": false
   },
@@ -247,8 +247,8 @@
   {
     "type": "npc",
     "subject": "Dulgir",
-    "fact": "Dulgir is a Duergar merchant in the Blade Bazaar who initially curses Grygum but shifts to speaking with the stilted tongue of a Baldurian patriar after Grygum decides to buy instead of sell, and denies the existence of his brother who is visibly present during transactions.",
-    "source_quote": "The merchant, Dulgir, asks if he wants to buy or sell. 'Sell this mace?' ... the Duergar starts cursing Grygum ... the Duergar suddenly shifts, speaking with the stilted tongue of a Baldurian patriar. ... Grygum asks Dulgir, 'I guess his brother is invisible.' But Dulgir answers, 'His brother doesn\u2019t exist.'",
+    "fact": "Dulgir is a Duergar merchant in the Blade Bazaar who initially curses Gyrgum but shifts to speaking with the stilted tongue of a Baldurian patriar after Gyrgum decides to buy instead of sell, and denies the existence of his brother who is visibly present during transactions.",
+    "source_quote": "The merchant, Dulgir, asks if he wants to buy or sell. 'Sell this mace?' ... the Duergar starts cursing Gyrgum ... the Duergar suddenly shifts, speaking with the stilted tongue of a Baldurian patriar. ... Gyrgum asks Dulgir, 'I guess his brother is invisible.' But Dulgir answers, 'His brother doesn\u2019t exist.'",
     "quote_verified": false
   },
   {
@@ -261,21 +261,21 @@
   {
     "type": "npc",
     "subject": "Jimjar",
-    "fact": "Jimjar is a gnome who corrects Zalthir\u2019s misunderstanding of interplanar gate travel, explaining that summoning great powers like Demogorgon requires powerful artifacts and rituals, and is later revealed to be the target of Grygum\u2019s outburst about his annoying bEttin g.",
+    "fact": "Jimjar is a gnome who corrects Zalthir\u2019s misunderstanding of interplanar gate travel, explaining that summoning great powers like Demogorgon requires powerful artifacts and rituals, and is later revealed to be the target of Gyrgum\u2019s outburst about his annoying bEttin g.",
     "source_quote": "Jimjar roars with laughter. ... 'Obviously, you do not understand the first thing about interplanar or gate travel. There are a great many things Buppido could do, but that is not one of them.' ... 'Jimjar\u2019s bEttin g is so annoying! GIVE IT A REST.'",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a cleric of Bahamut who observes the irrational behavior of Duergar merchants and concludes that the madness afflicting Gracklstugh is not religious but political, stemming from competition over resources rather than divine conflict.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a cleric of Bahamut who observes the irrational behavior of Duergar merchants and concludes that the madness afflicting Gracklstugh is not religious but political, stemming from competition over resources rather than divine conflict.",
     "source_quote": "The orc has been puzzled by Eldeth\u2019s venom directed at the Duergar. He thinks there might be some rivalry between the Duergar gods and the Dwarven gods, but then he remembers something he read: that religious conflict is not always what it seems. The Dwarves and the Duergar compete for the same resources, and political conflict may matter more than any religious principle or dogma. 'This is not the will of any god. This is the will of the people,' he mutters.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is a dragonborn who uses Darkness magic to conceal enemies, seeks the Eldritch Claw Tattoo, and becomes increasingly aware of the irrationality and madness in Gracklstugh, while also developing a fondness for Grygum\u2019s blunt honesty.",
+    "fact": "Zalthir is a dragonborn who uses Darkness magic to conceal enemies, seeks the Eldritch Claw Tattoo, and becomes increasingly aware of the irrationality and madness in Gracklstugh, while also developing a fondness for Gyrgum\u2019s blunt honesty.",
     "source_quote": "Zalthir again moves the darkness to cover the enemies. ... Zalthir asks them, 'Can either of you get me Eldritch Claw Tattoo?' ... Zalthir smiles, 'I like him.'",
     "quote_verified": false
   },
@@ -303,7 +303,7 @@
   {
     "type": "npc",
     "subject": "Buppido",
-    "fact": "Buppido is a former castaway who claims his actions were guided by the Divine Plan, and after eating the Tongue of Madness, reveals his true, unfiltered opinions of the party members, including criticisms of their physical traits and interpersonal dynamics, leading to a moment of collective unease and Grygum\u2019s unexpected defense of Zalthir\u2019s unclean scales.",
+    "fact": "Buppido is a former castaway who claims his actions were guided by the Divine Plan, and after eating the Tongue of Madness, reveals his true, unfiltered opinions of the party members, including criticisms of their physical traits and interpersonal dynamics, leading to a moment of collective unease and Gyrgum\u2019s unexpected defense of Zalthir\u2019s unclean scales.",
     "source_quote": "Buppido mutters, 'Look, I made mistakes. It was the divine plan. Just let me go. I won\u2019t bother you again.' ... 'I just wanted to return to my bolt hole in the caverns near the city and praise the Divine Plan.' ... 'You all have been so annoying. Daz has foul-smelling breath. Thorin thinks his muscles are impressive. Eldeth is -not- interested in him.'",
     "quote_verified": false
   },
@@ -317,7 +317,7 @@
   {
     "type": "npc",
     "subject": "Eldeth",
-    "fact": "Eldeth is a member of the party who expresses intense racial animus toward the Duergar, calling them 'Demonic spawn of dwarven corruption' and 'slave traders who deserve to be sent to the nine hells,' which prompts Grygum to reflect on the political roots of their conflict.",
+    "fact": "Eldeth is a member of the party who expresses intense racial animus toward the Duergar, calling them 'Demonic spawn of dwarven corruption' and 'slave traders who deserve to be sent to the nine hells,' which prompts Gyrgum to reflect on the political roots of their conflict.",
     "source_quote": "Eldeth curse them out as 'Demonic spawn of dwarven corruption. Slave trader who deserves to be sent to the nine hells as punishment!'",
     "quote_verified": false
   },
@@ -345,7 +345,7 @@
   {
     "type": "event",
     "subject": "The Tongue of Madness Revelation",
-    "fact": "Buppido consumes the Tongue of Madness and reveals his true, unfiltered opinions of the party members, including criticisms of their physical traits and interpersonal dynamics, leading to a moment of collective unease and Grygum\u2019s unexpected defense of Zalthir\u2019s unclean scales.",
+    "fact": "Buppido consumes the Tongue of Madness and reveals his true, unfiltered opinions of the party members, including criticisms of their physical traits and interpersonal dynamics, leading to a moment of collective unease and Gyrgum\u2019s unexpected defense of Zalthir\u2019s unclean scales.",
     "source_quote": "And Buppido does and starts talking. ... 'You all have been so annoying. Daz has foul-smelling breath. Thorin thinks his muscles are impressive. Eldeth is -not- interested in him.' ... 'Zalthir\u2019s scales haven\u2019t been cleaned in ages.'",
     "quote_verified": false
   },

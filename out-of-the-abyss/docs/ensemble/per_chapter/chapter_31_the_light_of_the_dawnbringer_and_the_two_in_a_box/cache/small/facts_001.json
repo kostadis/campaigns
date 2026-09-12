@@ -8,15 +8,15 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is an orc who is easily surprised by magical phenomena, especially those defying physical norms. He makes a belching sound before expelling acid, and frequently voices humorous comparisons to other magical items. He is emotionally expressive and awed by beauty.",
-    "source_quote": "Grygum shouts, \u201cNot a talking sword.\u201d ... Grygum mutters, \u201cA talking mace would have been nice.\u201d ... Grygum chortled, \u201cI guess they didn't like the tomb.\u201d",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is an orc who is easily surprised by magical phenomena, especially those defying physical norms. He makes a belching sound before expelling acid, and frequently voices humorous comparisons to other magical items. He is emotionally expressive and awed by beauty.",
+    "source_quote": "Gyrgum shouts, \u201cNot a talking sword.\u201d ... Gyrgum mutters, \u201cA talking mace would have been nice.\u201d ... Gyrgum chortled, \u201cI guess they didn't like the tomb.\u201d",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a spellcaster who is skeptical of magical oddities, rolls his eyes at Grygum\u2019s reactions, and is methodical in detecting and disarming traps. He uses fairy fire to reveal invisible objects and is attuned to magical residue. He is the one who recognizes the true nature of the Dawnbringer and the false tomb.",
+    "fact": "Daz is a spellcaster who is skeptical of magical oddities, rolls his eyes at Gyrgum\u2019s reactions, and is methodical in detecting and disarming traps. He uses fairy fire to reveal invisible objects and is attuned to magical residue. He is the one who recognizes the true nature of the Dawnbringer and the false tomb.",
     "source_quote": "Daz takes no chances and climbs out of the room into the passageway... I sense some kind of magical trap that was tied to this place.",
     "quote_verified": false
   },
@@ -128,14 +128,14 @@
   {
     "type": "event",
     "subject": "Death of Brysis",
-    "fact": "Brysis, the wraith, was slain by a combination of magical strikes and acid expelled by Grygum. Its death triggered the dissipation of a magical trap tied to the False Tomb and allowed the party to claim its treasure.",
+    "fact": "Brysis, the wraith, was slain by a combination of magical strikes and acid expelled by Gyrgum. Its death triggered the dissipation of a magical trap tied to the False Tomb and allowed the party to claim its treasure.",
     "source_quote": "The creature howls in pain and disappears. Killed by barf. What an odd way to go.",
     "quote_verified": false
   },
   {
     "type": "event",
     "subject": "Discovery of Neverlight Grove",
-    "fact": "The party arrived at Neverlight Grove after three uneventful days in the Underdark. The grove\u2019s bioluminescent beauty overwhelmed Grygum and the Myconids, who declared it home. It marked a turning point from hostile Underdark travel to a moment of awe and respite.",
+    "fact": "The party arrived at Neverlight Grove after three uneventful days in the Underdark. The grove\u2019s bioluminescent beauty overwhelmed Gyrgum and the Myconids, who declared it home. It marked a turning point from hostile Underdark travel to a moment of awe and respite.",
     "source_quote": "Today, we arrive at Neverlight Grove... Wow, this place is incredible.",
     "quote_verified": false
   },
@@ -178,7 +178,7 @@
     "type": "thread",
     "subject": "Dawnbringer's Origin",
     "fact": "The true origin of Dawnbringer \u2014 how it came to be sealed in the tomb, who bound it, and why it can read and write without eyes \u2014 remains unknown. Its sentience and magical abilities defy normal understanding.",
-    "source_quote": "Grygum is surprised it can read and write. The orc is confused that the creature can read without eyes.",
+    "source_quote": "Gyrgum is surprised it can read and write. The orc is confused that the creature can read without eyes.",
     "quote_verified": true
   },
   {

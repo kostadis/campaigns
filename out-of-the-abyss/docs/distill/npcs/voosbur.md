@@ -19,7 +19,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 ## History with the Party
 - The party approached the group of dancing Myconids; Voosbur paused his frantic dance momentarily before continuing.
 - He pitched Zuggtmoy's domain to the party and extended his hand, offering them a chance to enter the Dark Lady's dream.
-- Thorin and Grygum took his hand and were transported into a psychedelic vision of Zuggtmoy's domain.
+- Thorin and Gyrgum took his hand and were transported into a psychedelic vision of Zuggtmoy's domain.
 - After they woke and declined to join, Voosbur expressed mild disappointment: *"I guess you guys didn't want to join us. You still can if you want. But hurry."*
 - He then released glowing spores, and the dancing Myconids walked towards the moss at the cave's edge and disappeared.
 
@@ -31,5 +31,5 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 ## Relationships
 - **Zuggtmoy:** Fully devoted servant; regards her with reverence and acts as a recruiter/evangelist for her cause.
 - **Rump-a-dump:** Rump-a-dump identified Voosbur as the source of the corrupting spores — implying Voosbur is known (and likely feared/resented) among uncorrupted Myconids.
-- **Thorin & Grygum:** Briefly shared the psychedelic vision with them; parting was non-hostile but disappointed.
+- **Thorin & Gyrgum:** Briefly shared the psychedelic vision with them; parting was non-hostile but disappointed.
 - **The Party (general):** No animosity, but the party rejected his offer. He left the door open for them to follow.

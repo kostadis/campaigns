@@ -22,7 +22,7 @@
 - Faction: Party (Ember Vanguard implied); monastery background
 - Revealed motivations/secrets: Prefers "obscure specialisation" builds; trained at an unspecified monastery (instructor possibly Brother Heslin, or a different monk who taught falling — Zalthir is uncertain); previously dragged the Pudding King through his own throne room; killed an ettin with his hands; describes his philosophy as building "narrow and sharp"
 
-**Grygum**
+**Gyrgum**
 - Current location: Same post-combat position as party
 - Current state: Alive; present during levelling discussion
 - Recent actions: Made audible reactions during the "Ember Grapple" naming moment; found it funny
@@ -56,7 +56,7 @@
 **The Party / Ember Vanguard**
 - Current goals: Reach the surface; prepare tactically for post-Underdark threats
 - Recent actions: Reached level 8 milestone; conducting level-up deliberations; developing new tactical synergy (Ember Grapple) between Zalthir and Daz; identifying gap in ranged capability
-- Key members: Thorin, Daz, Zalthir, Grygum
+- Key members: Thorin, Daz, Zalthir, Gyrgum
 - Internal notes: No long rest available before next engagement; party lacks ranged weapons collectively
 
 **The Zhentarim** (referenced, not present)
@@ -81,7 +81,7 @@
 - The party held a level-up deliberation session that was expected to consume the rest of the day.
 - Daz decided on the Fey Touched feat, gaining free Misty Step and additional prepared spells.
 - Zalthir identified the Street Justice feat and developed the "Ember Grapple" tactical concept in collaboration with Daz.
-- The "Ember Grapple" was named during the deliberation session, apparently coined or popularised by Thorin, found amusing by Grygum.
+- The "Ember Grapple" was named during the deliberation session, apparently coined or popularised by Thorin, found amusing by Gyrgum.
 - The party confirmed they will have no long rest before the next engagement.
 
 ---

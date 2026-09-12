@@ -65,18 +65,18 @@
 
 ---
 
-**Grygum drily asks whether Asha's theological ravings predate or postdate her descent into madness.**
+**Gyrgum drily asks whether Asha's theological ravings predate or postdate her descent into madness.**
 
 *After reading the sealed wax pouch's contents — a tedious treatise arguing Lolth and Zuggtmoy are the same entity*
 
 > "Is this pre-craziness or post-craziness, do you think?"
-> — Grygum
+> — Gyrgum
 
 > "Post-craziness."
 > — GM
 
 > "Because I've seen some non-crazy people who can write some pretty boring stuff, too."
-> — Grygum
+> — Gyrgum
 
 ---
 
@@ -125,12 +125,12 @@
 
 ---
 
-**Grygum and Ben share a rueful moment of recognition about Ezra — and who was actually exploiting whom.**
+**Gyrgum and Ben share a rueful moment of recognition about Ezra — and who was actually exploiting whom.**
 
 *Discussing the quest giver whose career has been made by the party's rapid rise*
 
 > "But the whole time, we thought we were exploiting him."
-> — Grygum
+> — Gyrgum
 
 ---
 
@@ -142,7 +142,7 @@
 > — Thorin
 
 > "Well, when I say investments, in this case, I mean buy some stuff to help us in our adventures."
-> — Grygum
+> — Gyrgum
 
 > "No, I think we should actually look to consolidate all of the merchants of some sort, and take control — can we do a private equity play while we're in town?"
 > — Thorin
@@ -153,8 +153,8 @@
 
 Issues 2, 3, 5, 6, 8, 10, 11, and 14 from the prior consistency report have been resolved against canon and GM ruling, and the relevant text has been updated in `session-summary.md`, `session-roleplay.md`, and `04_thorin_looting_the_fallen_and_the_heart_fungus.md`. GM rulings of record:
 - Nym uses she/her (per `docs/npcs/nym_duskryn.md`, `docs/world_state.md`, `docs/party.md`).
-- Ilvara was killed by Grygum's Guiding Bolt; her body erupted in poisonous spores catching Zalthir and Thorin.
-- The fungal corruption Grygum incinerated was a localized expression of Zuggtmoy's influence, not a fragment of the demon lord (Zuggtmoy remains active at Neverlight Grove).
+- Ilvara was killed by Gyrgum's Guiding Bolt; her body erupted in poisonous spores catching Zalthir and Thorin.
+- The fungal corruption Gyrgum incinerated was a localized expression of Zuggtmoy's influence, not a fragment of the demon lord (Zuggtmoy remains active at Neverlight Grove).
 - House T'sarran appears on both sides of the Daz contracts — flagged as the central mystery for Candlekeep.
 - Jorlan Duskryn was killed in the same engagement that ended Ilvara.
 - Dawnbringer's cleansing of the serpent-head scourge was completed; the scourge is now a clean magical weapon.

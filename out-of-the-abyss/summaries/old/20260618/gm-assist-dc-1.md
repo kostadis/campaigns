@@ -3,7 +3,7 @@
 
 ---
 
-## Grygum — The Academic Distraction
+## Gyrgum — The Academic Distraction
 
 I had the treatise open in front of me. *On the Punctual Tears.* Someone had styled it as an internal topocentric protocol, which is an enormous amount of robe for a poison, but the Underdark teaches you that the people who kill you usually want it documented first.
 
@@ -69,7 +69,7 @@ Daral paid it. The Oak Tree Apothecary, he said, between the Sea Warden's Tower 
 
 "Yo!" said Thorin, and I think he was already reaching for the squirrel in his imagination, because Daral made a small horrified noise about *not the squirrel*. Thorin wanted to keep the man on the hook anyway — a warm introduction, he reasoned, and the timeline of the book itself, whether it was poisoned before or after Daral handed it over. He was right about that. If the poison lived in the binding, then the book's provenance became the entire case. I kept that.
 
-Then Fembris asked to leave. Our minder, the avowed assigned to ensure four armed strangers didn't help themselves to the contents of the world's most dangerous library, wanted to attend a debate. Grygum's debate, as it turned out — a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it. A keeper of the keep, leaving his post, to watch the orc argue dragons. I did not stop him. I did the only sensible thing, which was to note that his departure handed us an hour without supervision and to say nothing of the kind out loud.
+Then Fembris asked to leave. Our minder, the avowed assigned to ensure four armed strangers didn't help themselves to the contents of the world's most dangerous library, wanted to attend a debate. Gyrgum's debate, as it turned out — a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it. A keeper of the keep, leaving his post, to watch the orc argue dragons. I did not stop him. I did the only sensible thing, which was to note that his departure handed us an hour without supervision and to say nothing of the kind out loud.
 
 Which left the key.
 

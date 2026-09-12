@@ -42,13 +42,13 @@
 
 ---
 
-**Ben Pfaff as Grygum** — *taunting Jorlan into running toward the glyph trap*
+**Ben Pfaff as Gyrgum** — *taunting Jorlan into running toward the glyph trap*
 > "Come get it, idiot."
 
 **GM** — *narrating the result*
 > "He runs towards the trap."
 
-**Ben Pfaff as Grygum** — *genuinely surprised it worked*
+**Ben Pfaff as Gyrgum** — *genuinely surprised it worked*
 > "Kaboom! I didn't expect it to work."
 
 ---
@@ -61,5 +61,5 @@
 
 ---
 
-**Ben Pfaff as Grygum** — *after the Fireball and Dust of Suleiman combine to deal massive damage*
+**Ben Pfaff as Gyrgum** — *after the Fireball and Dust of Suleiman combine to deal massive damage*
 > "That worked better than I had any right to expect."

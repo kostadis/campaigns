@@ -11,7 +11,7 @@ source: gmassist
 - The party travels west for several days toward Candlekeep.
 - Dawnbringer is "totally thrilled" — there is sunlight, there are stars, and there is no such thing as perfect darkness. She tells the party she made the best decision hanging out with them.
 - On the third day at dusk, the DM calls for Insight and Investigation checks.
-- Grygum rolls a 9 and confidently concludes the presence is a deer; the DM confirms: "You conclude that what is following you is a deer." Grygum accepts this and prepares to nap.
+- Gyrgum rolls a 9 and confidently concludes the presence is a deer; the DM confirms: "You conclude that what is following you is a deer." Gyrgum accepts this and prepares to nap.
 - Thorin rolls a 20, Zalthir rolls a 16, and Daz rolls a 16. The three of them quickly realize someone has been following them for some time and is now very close — within 20 to 40 feet, coming from the northern area.
 - Thorin, frustrated that his Tremor Sense requires stone and the party is on a dirt road through a forest, launches into a brief rant: "I picked it because we were gonna be fucking underground all the time, and I figured there would always be some stone, and then the one time I need it... we're not underground, and we're not surrounded by fucking stone." Dawnbringer comments that he has anger issues.
 - The tracker has been moving sides to stay out of view, using the terrain effectively to remain hidden.
@@ -69,7 +69,7 @@ source: gmassist
 **Ben Pfaff** — *after rolling*
 > "9?"
 
-**GM** — *confirming Grygum's result*
+**GM** — *confirming Gyrgum's result*
 > "No, that, that, you, you, you, you, conclude that what is following you is a deer."
 
 **Ben Pfaff** — *comparing rolls*
@@ -99,7 +99,7 @@ source: gmassist
 **Ben Pfaff**
 > "Okay, good."
 
-**GM** — *prompting Grygum*
+**GM** — *prompting Gyrgum*
 > "Right, and so you've concluded this is a deer, and, you know, everybody else being paranoid, do you, like, sort of put your head down and go back to sleep, because…"
 
 **Ben Pfaff**

@@ -31,7 +31,7 @@
 - Stool insists Rumpadump is at Neverlight Grove and needs to be found. Stool explains that myconids use a zombie-like process on dead enemies. This quest remains unresolved — Zalthir told Stool they would "revisit later."
 
 ### Jimjar — deep gnome prisoner
-- Still alive and traveling with the party. Still making bets (bet Grygum that his knots wouldn't hold on Pelek/Derro; lost the bet).
+- Still alive and traveling with the party. Still making bets (bet Gyrgum that his knots wouldn't hold on Pelek/Derro; lost the bet).
 
 ## Party Accomplishments & Acquisitions
 
@@ -71,7 +71,7 @@
 - Not yet attempted. Stool is pressing the party to go find Rumpadump at Neverlight Grove.
 
 ### Stonespeaker Hgraam — stone giant elder, audience
-- Not yet visited in this chunk, but the party intends to bring him the statue and intelligence about the ritual. Grygum stated Hgraam can reverse the two-headed curse on affected giants.
+- Not yet visited in this chunk, but the party intends to bring him the statue and intelligence about the ritual. Gyrgum stated Hgraam can reverse the two-headed curse on affected giants.
 
 ### Jimjar — deep gnome prisoner, first contact
 - Alive, still with the party, still gambling.

@@ -8,7 +8,7 @@
 ### Buppido's Shrine and Killings — Revealed and Confronted in Whorlstone Tunnels
 - **Session**: ~Session 18-19
 - **Outcome**: Success. Buppido's true nature as a serial killer was fully revealed. He had constructed a shrine of humanoid remains arranged in a spiral pattern in the Whorlstone Tunnels.
-- **Consequences**: Buppido attacked the party claiming divine status. The party killed Buppido in combat (Daz delivered the killing blow with Magic Missiles after Grygum turned undead to neutralize skeleton minions). Buppido is dead. His madness was connected to the Faerzress fluctuation.
+- **Consequences**: Buppido attacked the party claiming divine status. The party killed Buppido in combat (Daz delivered the killing blow with Magic Missiles after Gyrgum turned undead to neutralize skeleton minions). Buppido is dead. His madness was connected to the Faerzress fluctuation.
 
 ### Pelek the Deep Gnome Ghost — Encountered, Quest Accepted
 - **Session**: ~Session 19
@@ -17,7 +17,7 @@
 
 ### Droki Delivery Interception — In Progress (Trail Found)
 - **Session**: ~Session 18-19
-- **Outcome**: Partial/in progress. The party successfully located and followed Droki through the Derro slums of West Cleft into the Whorlstone Tunnels entrance (a narrow fissure hidden behind cloth and canvas). Droki entered a crack too small for the party to follow. They discovered Pygmywort (shrinking) and Bigwig (enlarging) mushrooms that Droki uses to traverse narrow passages. Grygum tried Pygmywort but still couldn't fit through the crack. Daz froze a thermal lake to cross to the other side, finding Droki's trail continuing east through a fungal thicket.
+- **Outcome**: Partial/in progress. The party successfully located and followed Droki through the Derro slums of West Cleft into the Whorlstone Tunnels entrance (a narrow fissure hidden behind cloth and canvas). Droki entered a crack too small for the party to follow. They discovered Pygmywort (shrinking) and Bigwig (enlarging) mushrooms that Droki uses to traverse narrow passages. Gyrgum tried Pygmywort but still couldn't fit through the crack. Daz froze a thermal lake to cross to the other side, finding Droki's trail continuing east through a fungal thicket.
 - **Status**: Still pursuing Droki through the Whorlstone Tunnels.
 
 ## Resolved Plot Threads
@@ -26,7 +26,7 @@
 - Buppido, the derro prisoner from Velkynvelve, has been definitively revealed as a deranged serial killer who believed himself a divine figure. He constructed a shrine of humanoid remains in the Whorlstone Tunnels. His madness was exacerbated by a Faerzress fluctuation. He was killed by the party in combat. This thread is closed.
 
 ### Faerzress Anomaly — Partial Revelation
-- Through Pelek's testimony and the party's own deductions, it is now established that the Faerzress "blinked" (went dark then returned brighter) a few months ago. Daz theorized this could have broken the walls between planes, potentially explaining the demon lord incursions. Stonespeaker Hgraam's prophecy corroborates that something evil stirs in the Underdark. Grygum noted that the end of the Sundering should prevent gods/demons from walking freely, meaning powerful magic must be enabling this. This is a partial revelation — cause not yet identified.
+- Through Pelek's testimony and the party's own deductions, it is now established that the Faerzress "blinked" (went dark then returned brighter) a few months ago. Daz theorized this could have broken the walls between planes, potentially explaining the demon lord incursions. Stonespeaker Hgraam's prophecy corroborates that something evil stirs in the Underdark. Gyrgum noted that the end of the Sundering should prevent gods/demons from walking freely, meaning powerful magic must be enabling this. This is a partial revelation — cause not yet identified.
 
 ## NPC State Changes
 
@@ -76,7 +76,7 @@
 - **Whorlstone Tunnels — beneath Gracklstugh**: Party has entered and is actively exploring.
 - **Cairngorm Cavern — stone giant home in Gracklstugh**: Visited; audience with Hgraam completed.
 - **Shuushar — guide to Sloobludop**: Referenced indirectly — Shuushar not present but Jimjar mentioned route to Blingdenstone was validated.
-- **Discovery of demon lords loose in the Underdark — party awareness moment**: Further reinforced in this session. Zalthir explicitly connects the demonic appearances (Velkynvelve, beholder, demonic manta rays, Demogorgon) as a pattern. Grygum notes powerful magic must be enabling demons to walk freely. Hgraam's prophecy confirms evil stirring. Pelek's Faerzress testimony adds evidence.
+- **Discovery of demon lords loose in the Underdark — party awareness moment**: Further reinforced in this session. Zalthir explicitly connects the demonic appearances (Velkynvelve, beholder, demonic manta rays, Demogorgon) as a pattern. Gyrgum notes powerful magic must be enabling demons to walk freely. Hgraam's prophecy confirms evil stirring. Pelek's Faerzress testimony adds evidence.
 - **Gracklstugh — duergar city, City of Blades**: Party is currently operating here. Key details learned: the Deep King's paranoia is worsened by advisor "Shal"; opposition to the Deep King has gone underground into Derro territory/Whorlstone Tunnels because clearing them would trigger a bloodbath with the Derro.
 - **Errde Blackskull — Stone Guard captain, employment offer**: Referenced — confirmed that she (called "Blackstaff" in text, likely Blackskull) was anxious to find non-Duergar to enter Derro territory.
 - **Gartokkar Xundorn — Keeper of the Flame, quest giver**: Referenced — the Keepers of the Flame also wanted non-Duergar help. Party has Keeper badges.

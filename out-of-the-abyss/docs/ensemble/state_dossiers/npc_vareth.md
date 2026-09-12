@@ -11,9 +11,9 @@ chapters: 54-60
 **Current location:** Candlekeep, West Inner Ward  
 **Allegiance/faction:** Candlekeep monastery (senior librarian), under Bookwyrm’s administrative authority  
 **Current possessions / notable items, spells, feats, wounds:** None explicitly stated; known for institutional access and scholarly tools (books, scrolls, filing systems)  
-**Current assignment / role:** Handler of Grygum; senior librarian in the West Inner Ward of Candlekeep for forty-one years; lead researcher of the “Grygum school” of theological thought and the “strong-weak hypothesis”  
-**Key relationships:** Reports to Bookwyrm; directly responsible for Grygum; has formalized theological frameworks around Stroud’s Gambit and Bahamutian doctrine; recently published a thesis based on the narrator’s answer to the Question of the Age, sparking academic frenzy  
-**Defining recent actions:** Appropriated the narrator’s incomplete answer to the Question of the Age and turned it into a published thesis (“a fourth corner”), which diverted scholarly attention from a murder investigation; formalized the “Grygum school” and “strong-weak hypothesis” as theological categories; actively researches and teaches fixed points in mortal agency; maintains institutional influence through meticulous filing and strategic alignment with Candlekeep’s gravity  
+**Current assignment / role:** Handler of Gyrgum; senior librarian in the West Inner Ward of Candlekeep for forty-one years; lead researcher of the “Gyrgum school” of theological thought and the “strong-weak hypothesis”  
+**Key relationships:** Reports to Bookwyrm; directly responsible for Gyrgum; has formalized theological frameworks around Stroud’s Gambit and Bahamutian doctrine; recently published a thesis based on the narrator’s answer to the Question of the Age, sparking academic frenzy  
+**Defining recent actions:** Appropriated the narrator’s incomplete answer to the Question of the Age and turned it into a published thesis (“a fourth corner”), which diverted scholarly attention from a murder investigation; formalized the “Gyrgum school” and “strong-weak hypothesis” as theological categories; actively researches and teaches fixed points in mortal agency; maintains institutional influence through meticulous filing and strategic alignment with Candlekeep’s gravity  
 
 ---
 

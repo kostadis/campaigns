@@ -1,7 +1,7 @@
 # Session — 2026-04-24
 
 ## Overview
-This session covered the final confrontation with Ilvara at a corrupted fungal outpost, followed by the conclusion of the party's long journey through the Underdark. The session opened mid-preparation, with Daz executing an elaborate deception to recruit Asha Vandree as a temporary ally against Ilvara, framing himself as a useful-if-delusional mage rather than a vessel of Lolth. Combat then erupted against Ilvara, Jorlan Duskryn, the Big Heart Fungus, and a wave of drow spore servants, with the session cutting off mid-fight. Per the GM reference summary (gm-assist.md), the battle was subsequently resolved: Ilvara was killed by Grygum's Guiding Bolt (her body erupting in poisonous spores), Jorlan was killed in the same engagement, Asha Vandree survived the fight only to be slain by Zalthir when she attempted to assert divine authority over the party, and Nym and Kaelira Duskryn revealed their contract to protect Daz had been issued in Menzoberranzan by an unknown benefactor targeting House Mizzrym and House T'sarran as threats — even as a burnt contract on the drow mage's body revealed that House T'sarran itself had hired the kidnapping, putting T'sarran on both sides of the Daz puzzle. The party looted the outpost extensively, uncovered disturbing evidence of Ilvara's Zuggtmoy corruption, persuaded Dawnbringer to cleanse the corrupted serpent-head scourge, and ultimately escaped the Underdark into the surface world—the Overbright—for the first time in months.
+This session covered the final confrontation with Ilvara at a corrupted fungal outpost, followed by the conclusion of the party's long journey through the Underdark. The session opened mid-preparation, with Daz executing an elaborate deception to recruit Asha Vandree as a temporary ally against Ilvara, framing himself as a useful-if-delusional mage rather than a vessel of Lolth. Combat then erupted against Ilvara, Jorlan Duskryn, the Big Heart Fungus, and a wave of drow spore servants, with the session cutting off mid-fight. Per the GM reference summary (gm-assist.md), the battle was subsequently resolved: Ilvara was killed by Gyrgum's Guiding Bolt (her body erupting in poisonous spores), Jorlan was killed in the same engagement, Asha Vandree survived the fight only to be slain by Zalthir when she attempted to assert divine authority over the party, and Nym and Kaelira Duskryn revealed their contract to protect Daz had been issued in Menzoberranzan by an unknown benefactor targeting House Mizzrym and House T'sarran as threats — even as a burnt contract on the drow mage's body revealed that House T'sarran itself had hired the kidnapping, putting T'sarran on both sides of the Daz puzzle. The party looted the outpost extensively, uncovered disturbing evidence of Ilvara's Zuggtmoy corruption, persuaded Dawnbringer to cleanse the corrupted serpent-head scourge, and ultimately escaped the Underdark into the surface world—the Overbright—for the first time in months.
 
 ---
 
@@ -20,7 +20,7 @@ This session covered the final confrontation with Ilvara at a corrupted fungal o
 - Party placed a Glyph of Warding (triggered) on the bridge on Jorlan's side of the cavern as a defensive trap.
 - Zalthir placed magical Darkness behind the party's position.
 - Tactics discussed: Glyph of Warding (placed), Dust of Suleiman on the heart fungus, Phantasmal Killer and Fireball as options against Ilvara. Noted that most high-impact options required 4th-level slots and only one was available.
-- Thorin borrowed Grygum's light crossbow as a backup ranged option.
+- Thorin borrowed Gyrgum's light crossbow as a backup ranged option.
 
 **Combat with Ilvara and the Big Heart Fungus**
 - Zalthir teleported to Ilvara and struck for 16 damage, established a grapple, struck again for 15 (advantage from grapple), then attempted to fly-carry her into the Dust of Suleiman area—foiled by Ilvara's legendary action (fungal meld/teleport). She reappeared elsewhere and screamed in fury.
@@ -28,15 +28,15 @@ This session covered the final confrontation with Ilvara at a corrupted fungal o
 - Ilvara summoned four drow spore servants (former Velkynvelve prison guards, fungal not undead).
 - Thorin called out to Jorlan, luring him into the Glyph of Warding; explosion dealt 21 damage. One spore servant destroyed outright; Jorlan and others variously damaged. Thorin attacked Jorlan with Dawnbringer—hit for 14 damage (natural 20), second attack missed (rolled 2). Sap maneuver applied: Jorlan has disadvantage on next attack.
 - A spore servant directed by Ilvara's legendary action attacked Thorin—rolled natural 1 on first strike, hit for 5 on second.
-- Grygum cast Dust of Suleiman centered on the Big Heart Fungus: 20 force damage, no save.
+- Gyrgum cast Dust of Suleiman centered on the Big Heart Fungus: 20 force damage, no save.
 - Daz cast 4th-level Fireball (Sculpt Spells) centered between Ilvara and the Zuggtmoy icon. Ilvara saved (DC 15, rolled 19) for 12 damage. The Zuggtmoy icon also took 12 damage.
 - Total damage dealt to Ilvara at cut-off: approximately 43 (Zalthir 31, Fireball 12). Session ended mid-combat.
 
 **Resolution (per gm-assist.md reference summary)**
-- Ilvara was killed by Grygum's Guiding Bolt. Her body erupted in a cloud of poisonous spores that caught Zalthir and Thorin in the blast. Combat concluded; Jorlan Duskryn fell in the same engagement.
+- Ilvara was killed by Gyrgum's Guiding Bolt. Her body erupted in a cloud of poisonous spores that caught Zalthir and Thorin in the blast. Combat concluded; Jorlan Duskryn fell in the same engagement.
 - Asha Vandree survived the fight convinced she was divinely blessed by Lolth. She immediately attempted to assert command over the party, treating non-drow members with contempt.
-- Thorin grappled Asha and covered her mouth. Grygum attempted a second Guiding Bolt—this one missed. Zalthir killed Asha with a sustained assault. Nym and Kaelira Duskryn offered sardonic applause.
-- Grygum used fire breath to incinerate remaining fungal corruption on Ilvara's platform — corrupted matter bearing Zuggtmoy's influence, not a fragment of the demon lord herself, who remains active at Neverlight Grove. Beneath the ash: a leather-wrapped ceremonial bundle (incense cones, silver bowl, cloth bearing fused Lolth/Zuggtmoy sigils).
+- Thorin grappled Asha and covered her mouth. Gyrgum attempted a second Guiding Bolt—this one missed. Zalthir killed Asha with a sustained assault. Nym and Kaelira Duskryn offered sardonic applause.
+- Gyrgum used fire breath to incinerate remaining fungal corruption on Ilvara's platform — corrupted matter bearing Zuggtmoy's influence, not a fragment of the demon lord herself, who remains active at Neverlight Grove. Beneath the ash: a leather-wrapped ceremonial bundle (incense cones, silver bowl, cloth bearing fused Lolth/Zuggtmoy sigils).
 - Thorin found a fist-sized pearl-like node at the heart fungus's center, radiating necromantic energy (estimated value: 300 gp to right buyer).
 
 **The Mercenary Revelation**
@@ -70,7 +70,7 @@ This session covered the final confrontation with Ilvara at a corrupted fungal o
 - Glabbagool experienced sunlight for the first time, peering from the bag of holding.
 - Drow cloak of elvenkind (Zalthir's) disintegrates in sunlight (noted as a constraint).
 - Party agreed to travel to Candlekeep to research House T'sarran, Jimjar, and the mystery of why Daz was worth such investment.
-- Individual downtime intentions noted: Thorin considering finding a "sword whisperer" for Dawnbringer; Grygum planning Bahamut lore research.
+- Individual downtime intentions noted: Thorin considering finding a "sword whisperer" for Dawnbringer; Gyrgum planning Bahamut lore research.
 - Party chose to invest recovered wealth in adventuring gear rather than business ventures.
 
 ---
@@ -78,10 +78,10 @@ This session covered the final confrontation with Ilvara at a corrupted fungal o
 ## NPC Interactions
 
 **Asha Vandree (deceased)**
-Allied with the party against Ilvara after Daz's deception succeeded. Provided key intelligence: Ilvara is infected by Zuggtmoy via a Neverlight Grove mushroom artifact; the Big Heart Fungus does not transmit the infection; she and Jorlan are the only uninfected members of Ilvara's party. After Ilvara's death, became delusional about her divine election by Lolth and attempted to command the party. Was grappled by Thorin, survived a missed Guiding Bolt from Grygum, and was killed by Zalthir. **Status: Dead.**
+Allied with the party against Ilvara after Daz's deception succeeded. Provided key intelligence: Ilvara is infected by Zuggtmoy via a Neverlight Grove mushroom artifact; the Big Heart Fungus does not transmit the infection; she and Jorlan are the only uninfected members of Ilvara's party. After Ilvara's death, became delusional about her divine election by Lolth and attempted to command the party. Was grappled by Thorin, survived a missed Guiding Bolt from Gyrgum, and was killed by Zalthir. **Status: Dead.**
 
 **Ilvara (deceased)**
-Boss combatant. Used legendary actions (fungal meld/teleport to escape Zalthir's grapple; directing spore servants). Summoned four drow spore servants. Took approximately 43 damage before session cut-off; **killed by Grygum's Guiding Bolt** in the post-extract resolution. On death, her body erupted in a cloud of poisonous spores that caught Zalthir and Thorin in the blast. Her belongings confirm full Zuggtmoy corruption and ongoing House Mizzrym contact until her disappearance. **Status: Dead. Threat closed.**
+Boss combatant. Used legendary actions (fungal meld/teleport to escape Zalthir's grapple; directing spore servants). Summoned four drow spore servants. Took approximately 43 damage before session cut-off; **killed by Gyrgum's Guiding Bolt** in the post-extract resolution. On death, her body erupted in a cloud of poisonous spores that caught Zalthir and Thorin in the blast. Her belongings confirm full Zuggtmoy corruption and ongoing House Mizzrym contact until her disappearance. **Status: Dead. Threat closed.**
 
 **Jorlan Duskryn (deceased)**
 Estranged brother of Nym and Kaelira Duskryn; Ilvara's former favored consort, demoted and discarded after his facial scarring. Lured into the Glyph of Warding by Thorin; took 21 damage. Failed saving throw. Attacked by Thorin (14 damage, Sap maneuver applied). Asha confirmed his motivation was personal bitterness toward Ilvara, not Zuggtmoy loyalty. Killed in the same engagement that ended Ilvara. **Status: Dead. Closes the Velkynvelve-era grudge thread; the Duskryn sisters now have one fewer blood relative to despise.**
@@ -117,7 +117,7 @@ Objected strenuously to use as a purification tool for the serpent-head scourge;
 7. **Necromantic pearl node and spore sacks.** Valuable to a specific buyer/alchemist. Party has not identified where to sell these.
 8. **Cleansed serpent-head scourge.** Now a clean magical weapon (Dawnbringer cleansed it post-combat). No corruption; party-controlled. Track as a recovered asset rather than an open hazard.
 9. **Entemoch's Boon and Burrow Warden Jadger's two unused truthful-answer boons (pre-existing).** Still unresolved from Blingdenstone — party now on the surface, confirming these were not cashed in before departure. Both remain claimable.
-10. **Downtime goals.** Thorin's "sword whisperer" for Dawnbringer, Grygum's Bahamut research—these are intentions, not completed events; flag for next session framing.
+10. **Downtime goals.** Thorin's "sword whisperer" for Dawnbringer, Gyrgum's Bahamut research—these are intentions, not completed events; flag for next session framing.
 
 ---
 

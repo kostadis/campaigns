@@ -32,7 +32,7 @@
 - Motivations: Wants to identify who paid for his protection; investigating why he is being watched
 - Notes: Is drow; has been away from Menzoberranzan; has a habit of citing "Malfire" frequently, specifically Volume 3; party is somewhat worn by this habit
 
-**Grygum**
+**Gyrgum**
 - Current location: Candlekeep
 - Current state: Active; rapidly becoming notable in academic circles as a living half-orc cleric of Bahamut
 - Recent actions: Rolled dice to assess the follower (concluded "deer"; incorrect); moved through forest toward Daz's signal; used Reduce spell on spy; offered spy a job; placed prayer beads on spy; persuaded spy to talk; gave all five books to Candlekeep; coined the term "Stroud's Gambit" in conversation with Vareth
@@ -67,18 +67,18 @@
 **The Drow Spy (unnamed, House T'sarran)**
 - Current location: Inside bag of holding with Glabbagool; Candlekeep
 - Current state: Alive but miniaturised (shrunk by mushroom); frustrated; under Glabbagool's surveillance
-- Recent actions: Followed the party for an unspecified period while surface-tracking them; was detected; was stunned and grappled by Zalthir; was reduced by Grygum's spell; was interrogated; disclosed House T'sarran affiliation, matron's two-hundred-year rule, mission parameters; was miniaturised via mushroom; placed in bag of holding; warned party that killing her would not stop House T'sarran from sending more agents; announced her presence at Candlekeep ("House T'sarran will have its vengeance!")
+- Recent actions: Followed the party for an unspecified period while surface-tracking them; was detected; was stunned and grappled by Zalthir; was reduced by Gyrgum's spell; was interrogated; disclosed House T'sarran affiliation, matron's two-hundred-year rule, mission parameters; was miniaturised via mushroom; placed in bag of holding; warned party that killing her would not stop House T'sarran from sending more agents; announced her presence at Candlekeep ("House T'sarran will have its vengeance!")
 - Faction: House T'sarran
 - Motivations: Was assigned to track the party to the surface and report their destination, contacts, and who approaches them; primary target of intelligence gathering was identifying who paid for Daz's protection, not Daz himself
 - Revealed secrets: Her matron has been waiting for the party to surface; she is treating Daz as bait; her matron mother has ruled House T'sarran for two hundred years; multiple agents were sent to the surface; she was confident she could escape Candlekeep if handed to guards there
 
 **Vareth**
 - Current location: Candlekeep
-- Current state: Active; agitated with delight; has grabbed Grygum and is conducting or preparing an interview
-- Recent actions: Burst into the entry hall complaining he had not been informed of a cleric of Bahamut's arrival; found Grygum; explained his academic field; showed eagerness to interview Grygum; reacted with excitement to the phrase "Stroud's Gambit"
+- Current state: Active; agitated with delight; has grabbed Gyrgum and is conducting or preparing an interview
+- Recent actions: Burst into the entry hall complaining he had not been informed of a cleric of Bahamut's arrival; found Gyrgum; explained his academic field; showed eagerness to interview Gyrgum; reacted with excitement to the phrase "Stroud's Gambit"
 - Faction: Candlekeep avowed (described as a scholar/academic)
 - Motivations: Decades-long specialty in half-orc Bahamut converts; his previously niche field became suddenly prominent after Stroud beat Protanther at chess; now has funding, conference invitations, and academic attention and wants a living data point
-- Notes: Half-elf; elderly; moves quickly despite his age; explicitly named; has theories he wishes to test on Grygum
+- Notes: Half-elf; elderly; moves quickly despite his age; explicitly named; has theories he wishes to test on Gyrgum
 
 **Philemon**
 - Current location: Candlekeep
@@ -114,7 +114,7 @@
 - Current state: Not present; historical or legendary figure
 - Recent actions: None in this chunk; referenced as a dwarf who beat Protanther at chess despite not knowing how to play
 - Faction: Unknown
-- Notes: Does not appear in this chunk; his chess victory over Protanther caused Protanther to join an unspecified alliance and triggered a surge of interest in half-orc Bahamut conversions; Grygum coined the term "Stroud's Gambit" to describe his decisive move
+- Notes: Does not appear in this chunk; his chess victory over Protanther caused Protanther to join an unspecified alliance and triggered a surge of interest in half-orc Bahamut conversions; Gyrgum coined the term "Stroud's Gambit" to describe his decisive move
 
 **Protanther**
 - Current location: Not present; referenced
@@ -125,7 +125,7 @@
 
 **Asha Vandree**
 - Current location: Not present; referenced
-- Current state: Not present; described as having pressed a theological document into Grygum's hands at some prior point
+- Current state: Not present; described as having pressed a theological document into Gyrgum's hands at some prior point
 - Recent actions: None in this chunk; her document (theological argument about Lolth and Zuggtmoy as equivalents) is among the five books donated to Candlekeep
 - Faction: Unknown (drow; theological writer)
 - Notes: Does not appear in this chunk; Zalthir notes she treated him as furniture (structural erasure, not personal); her document will now be studied at Candlekeep, which Zalthir notes she would have hated
@@ -166,7 +166,7 @@
 - Current goals: Reach Candlekeep; obtain information about who is protecting Daz; research Jimjar; address Thorin/Dawnbringer relationship; allow Glabbagool to ask one question
 - Recent actions: Surfaced from the Underdark; said farewell to Eldeth; detected, captured, and interrogated a drow spy; donated five books to Candlekeep; gained access to avowed scholars
 - Relationships: Eldeth (departed ally, made an oath to Thorin); House T'sarran (being watched/targeted as bait); Candlekeep (currently guests/petitioners)
-- Key members: Thorin, Daz, Zalthir, Grygum, Glabbagool (de facto), Spiderbait (de facto travelling companion)
+- Key members: Thorin, Daz, Zalthir, Gyrgum, Glabbagool (de facto), Spiderbait (de facto travelling companion)
 
 **House T'sarran**
 - Current goals: Identify who paid for Daz's protection; using Daz as bait to reveal this unknown party
@@ -177,7 +177,7 @@
 **Candlekeep**
 - Current goals: Acquiring knowledge; interviewing primary sources; studying the donated books
 - Recent actions: Received the Ember Vanguard; accepted five books; assigned avowed scholars to party questions; First Reader expressed particular excitement about the Velkynvelve Prisoner Journal
-- Relationships: Neutral/hospitable to the party; Vareth is an avowed with interest in Grygum
+- Relationships: Neutral/hospitable to the party; Vareth is an avowed with interest in Gyrgum
 - Key members: The First Reader (gatekeeper/administrator); Vareth (avowed, half-elf, scholar of half-orc Bahamut conversions); Philemon (avowed, specialises in sentient artifact psychology); Khell-Vire (avowed, interest connects to Jimjar thread)
 
 **Mithril Hall dwarves / Clan (Eldeth's)**
@@ -187,10 +187,10 @@
 - Key members: Eldeth (emissary/returned member); unnamed lords of Mithril Hall and Gauntlgrym
 
 **Bahamut (faith/institution)**
-- Current goals: Unknown specific intent toward Grygum; broader opposition to Tiamat implied
+- Current goals: Unknown specific intent toward Gyrgum; broader opposition to Tiamat implied
 - Recent actions: None directly; Vareth's field exploded academically following Stroud's chess victory over Protanther
-- Relationships: Grygum is a cleric; Vareth is an academic studying the conversion phenomenon; Protanther (gold dragon) joined an alliance after the chess event
-- Key members: Grygum (cleric); Stroud (historical catalyst); Protanther (gold dragon, joined alliance)
+- Relationships: Gyrgum is a cleric; Vareth is an academic studying the conversion phenomenon; Protanther (gold dragon) joined an alliance after the chess event
+- Key members: Gyrgum (cleric); Stroud (historical catalyst); Protanther (gold dragon, joined alliance)
 
 ---
 
@@ -201,22 +201,22 @@
 - Eldeth made a sworn oath to Thorin: after briefing the lords of Gauntlgrym and Mithril Hall, she will work to have him embraced by her clan.
 - Spiderbait announced he had never been to the surface, attempted to explore independently, was warned about the state of goblin integration, and proposed attaching himself to the party and seeking work at Candlekeep.
 - Glabbagool witnessed sunlight for the first time; Zalthir watched him do so.
-- On the third day of travel, Zalthir, Thorin, and Daz detected something following them in the northern treeline; Grygum's dice roll concluded it was a deer (incorrect).
+- On the third day of travel, Zalthir, Thorin, and Daz detected something following them in the northern treeline; Gyrgum's dice roll concluded it was a deer (incorrect).
 - The three who succeeded on perception checks confirmed the follower was a person, not a deer.
 - Daz misty stepped into a tree to gain position during the surveillance.
 - Zalthir stunned and grappled the drow spy.
-- Grygum used a Reduce spell on the spy.
-- Grygum placed prayer beads around the spy's neck.
+- Gyrgum used a Reduce spell on the spy.
+- Gyrgum placed prayer beads around the spy's neck.
 - Under interrogation, the spy identified herself as belonging to House T'sarran, refused to give her name, and eventually disclosed her mission parameters under persuasion.
 - The spy revealed that House T'sarran is using Daz as bait to identify whoever paid for his protection; the matron mother is the interested party.
 - The spy proposed a mutual information-sharing deal; the party was sceptical and did not formally agree.
 - The spy was miniaturised via a mushroom and placed in the bag of holding with Glabbagool to watch her.
 - The party arrived at Candlekeep.
 - The party donated five books to Candlekeep: Princess Ebonmire's spellbook, Ilvara's prayer book with Zuggtmoy marginalia, Asha Vandree's theological document on Lolth and Zuggtmoy, the Velkynvelve Prisoner Journal, and Pliinki's journal from the Whirlstone Caverns.
-- The First Reader assigned avowed scholars: Vareth to Grygum, Philemon to Thorin and Dawnbringer, and Khell-Vire (via the Jimjar thread) to Zalthir.
+- The First Reader assigned avowed scholars: Vareth to Gyrgum, Philemon to Thorin and Dawnbringer, and Khell-Vire (via the Jimjar thread) to Zalthir.
 - Glabbagool was assigned one question by Thorin and is reportedly confused by the limit.
-- Vareth burst into the entry hall upset he had not been informed of Grygum's arrival; he took Grygum away for an interview.
-- Grygum coined the term "Stroud's Gambit" during conversation with Vareth; Vareth reacted with excitement.
+- Vareth burst into the entry hall upset he had not been informed of Gyrgum's arrival; he took Gyrgum away for an interview.
+- Gyrgum coined the term "Stroud's Gambit" during conversation with Vareth; Vareth reacted with excitement.
 - The miniaturised spy announced herself in the Candlekeep entry hall; Daz responded "tiny, tiny little vengeance."
 - Glabbagool produced multiple proliferating eyes to intimidate the spy.
 
@@ -241,7 +241,7 @@
 
 **Candlekeep**
 - What it is: A major library/fortress; described as the world's most famous library; run by avowed monks/sages/professors; entry requires donation of one book per group; more books grant more access to avowed scholars
-- What happened there: Party arrived and donated five books; scholars were assigned; Vareth took Grygum for an interview; spy announced herself; Glabbagool intimidated spy with proliferating eyes; party is now inside
+- What happened there: Party arrived and donated five books; scholars were assigned; Vareth took Gyrgum for an interview; spy announced herself; Glabbagool intimidated spy with proliferating eyes; party is now inside
 - Current state: Active; party is distributed among scholars; Glabbagool is watching the spy
 
 **Mithril Hall**
@@ -284,7 +284,7 @@
 - **The drow spy's fate**: She is currently miniaturised and in the bag of holding. Her longer-term fate — release, continued captivity, death, or some deal — is unresolved. She expressed confidence she could escape if handed to Candlekeep guards.
 - **What does the spy's matron want beyond identifying Daz's protector?** The matron's two-hundred-year rule and active surface surveillance suggest resources and patience, but her deeper agenda is unknown.
 - **Spiderbait's integration into Candlekeep**: He proposed seeking employment there doing something innocuous. Whether this succeeds is unresolved.
-- **Grygum's specific divine assignment from Bahamut**: He arrived at Candlekeep explicitly wanting to understand Bahamut's personal assignment for him, beyond general doctrine. Vareth's interview may begin to address this.
+- **Gyrgum's specific divine assignment from Bahamut**: He arrived at Candlekeep explicitly wanting to understand Bahamut's personal assignment for him, beyond general doctrine. Vareth's interview may begin to address this.
 - **"Stroud's Gambit" and the half-orc Bahamut conversion phenomenon**: Vareth's excited reception of the term and his theories suggest this is an active academic controversy with broader theological implications not yet explored in this chunk.
 - **The books donated to Candlekeep**: Ilvara's prayer book with Zuggtmoy corruption marginalia, Asha Vandree's Lolth/Zuggtmoy theological argument, Pliinki's demonic birthing documentation, and Princess Ebonmire's spellbook — what the avowed scholars discover in them may generate new information or plot threads.
 - **Princess Ebonmire's spellbook**: Origin and significance of this spellbook is not explained in this chunk; it is donated without elaboration.

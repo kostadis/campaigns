@@ -69,9 +69,9 @@
 ## ISSUE 7 — The inert key: who held it before this session
 **Location:** Items (The Inert Key), Summary, Scenes (Ambush of the Helmed Horrors)
 
-**Issue:** The recap treats the mysterious inert key as something Daz held throughout this session, and states it "appeared completely inert to magical detection." The campaign state notes: "Both High Tower Library keys (Janussi's via missing locket — untraced; Kalan's — held by Daz, passed from Grygum before he left for the disputation, Ch. 56)." The GM working doc (The Keys, the Decoy & A'lai's Two Fronts) reveals this key is a *decoy* planted by Kalan, and the real key is with Tadric. The recap does not resolve whether the party made the decoy realization — a critical plot beat.
+**Issue:** The recap treats the mysterious inert key as something Daz held throughout this session, and states it "appeared completely inert to magical detection." The campaign state notes: "Both High Tower Library keys (Janussi's via missing locket — untraced; Kalan's — held by Daz, passed from Gyrgum before he left for the disputation, Ch. 56)." The GM working doc (The Keys, the Decoy & A'lai's Two Fronts) reveals this key is a *decoy* planted by Kalan, and the real key is with Tadric. The recap does not resolve whether the party made the decoy realization — a critical plot beat.
 
-**Evidence:** GM doc: "The tell is already on the table: the party cast detect magic and got nothing. A real Vault key would blaze; theirs is inert. They have the clue; they haven't connected it." The recap's Scenes section notes: "Zalthir noted only Kalan knew Daz held it, but the horrors went straight for Daz even after Grygum had briefly held it — implying somehow they could... detect or sense the key."
+**Evidence:** GM doc: "The tell is already on the table: the party cast detect magic and got nothing. A real Vault key would blaze; theirs is inert. They have the clue; they haven't connected it." The recap's Scenes section notes: "Zalthir noted only Kalan knew Daz held it, but the horrors went straight for Daz even after Gyrgum had briefly held it — implying somehow they could... detect or sense the key."
 
 **Issue:** The recap ends the session with the party still treating the key as genuinely mysterious rather than as a confirmed decoy. This is consistent with the session ending mid-mystery — but the recap should clearly state that the decoy realization had *not* been made by session end, so the next session can open with this as an open thread rather than assumed knowledge.
 
@@ -79,12 +79,12 @@
 
 ---
 
-## ISSUE 8 — Helmed Horrors described as tracking the key even after Grygum held it
+## ISSUE 8 — Helmed Horrors described as tracking the key even after Gyrgum held it
 **Location:** Scenes (Ambush of the Helmed Horrors), Items (The Inert Key)
 
-**Issue:** The recap states: "the horrors went straight for Daz even though the party thought Grygum held the key, suggesting the constructs could sense the key itself rather than acting on secondhand knowledge." This implies the constructs were tracking Daz, not the key — which is a significant alternative interpretation that the recap does not flag as such.
+**Issue:** The recap states: "the horrors went straight for Daz even though the party thought Gyrgum held the key, suggesting the constructs could sense the key itself rather than acting on secondhand knowledge." This implies the constructs were tracking Daz, not the key — which is a significant alternative interpretation that the recap does not flag as such.
 
-**Evidence:** The GM working doc establishes that A'lai sent the constructs for the *decoy key* (held by Daz). The constructs targeting Daz when Grygum held the key would mean either (a) they were tracking Daz personally, not the key, or (b) the key-exchange was very brief and the constructs hadn't updated their target. The recap presents option (b) as the implied explanation but phrases it ambiguously ("suggesting they could detect or sense the key itself").
+**Evidence:** The GM working doc establishes that A'lai sent the constructs for the *decoy key* (held by Daz). The constructs targeting Daz when Gyrgum held the key would mean either (a) they were tracking Daz personally, not the key, or (b) the key-exchange was very brief and the constructs hadn't updated their target. The recap presents option (b) as the implied explanation but phrases it ambiguously ("suggesting they could detect or sense the key itself").
 
 **Suggested fix:** Clarify the recap to state this is an open question — the party's working theory is that the constructs could sense the key regardless of holder, but this has not been confirmed. Flag it as an unresolved mystery for the next session.
 
@@ -112,10 +112,10 @@
 
 ---
 
-## ISSUE 11 — "Grygum called down a burst of holy radiance" — Word of Radiance targeting
+## ISSUE 11 — "Gyrgum called down a burst of holy radiance" — Word of Radiance targeting
 **Location:** Summary, Spells (Word of Radiance)
 
-**Issue:** The Summary states "Grygum called down a burst of holy radiance that scorched two of the horrors at once." The Spells section correctly identifies this as Word of Radiance, a cantrip that targets creatures of the caster's choice within 5 feet. The Summary's phrasing "called down" implies a ranged or area-of-effect drop, which could mislead readers into thinking it functions like Radiance of the Dawn or Sunburst (which do "call down" light from above). Word of Radiance is an emanation centered on the caster.
+**Issue:** The Summary states "Gyrgum called down a burst of holy radiance that scorched two of the horrors at once." The Spells section correctly identifies this as Word of Radiance, a cantrip that targets creatures of the caster's choice within 5 feet. The Summary's phrasing "called down" implies a ranged or area-of-effect drop, which could mislead readers into thinking it functions like Radiance of the Dawn or Sunburst (which do "call down" light from above). Word of Radiance is an emanation centered on the caster.
 
 **Evidence:** Word of Radiance (PHB): creatures of your choice within 5 feet must make a Constitution save. It is not a called-down effect.
 
@@ -148,7 +148,7 @@
 ## ISSUE 14 — Kalan "gave 2nd High Tower key" — key provenance ambiguity
 **Location:** Campaign state cross-reference with this recap
 
-**Issue:** The campaign state notes "Kalan's — held by Daz, passed from Grygum before he left for the disputation, Ch. 56." The GM working doc establishes this key is a *decoy* and the real key is with Tadric. The recap treats the key Daz holds as "Kalan's key" without flagging the decoy status. Relatedly, the recap's NPCs section for Kalan states "gave 2nd High Tower key" — which is accurate but incomplete given that the party holds a fake.
+**Issue:** The campaign state notes "Kalan's — held by Daz, passed from Gyrgum before he left for the disputation, Ch. 56." The GM working doc establishes this key is a *decoy* and the real key is with Tadric. The recap treats the key Daz holds as "Kalan's key" without flagging the decoy status. Relatedly, the recap's NPCs section for Kalan states "gave 2nd High Tower key" — which is accurate but incomplete given that the party holds a fake.
 
 **Evidence:** GM doc: "Key #2 — the DECOY: the party (Daz). Kalan half-distrusts the adventurers and won't bet everything on one holder, so he split it — a fake to the party, the real one to Tadric."
 

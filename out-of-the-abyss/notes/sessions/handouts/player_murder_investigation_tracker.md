@@ -40,8 +40,8 @@ Candlekeep "Who's Who" handout for people you'd met before.*
 | Name | Where | What |
 |---|---|---|
 | **Fembris** *(adjutant)* | Pounded on your door before dawn; ran the tour of the Bastion; vomited out the window at the crime scene. | Boyish, commoner-born, helpfully enthusiastic. Genuinely on your side, within the legal end of the word *anything*. |
-| **Pizwog** *(ancient tortle)* | Intercepted Grygum outside the Immortal Chambers. | Distributed a personal research tract — a syncretic analysis of Sword Coast religions. *Internally inconsistent in ways that feel meaningful.* Read it. |
-| **Brother Vareth** *(Grygum's handler)* | Side office, Immortal Chambers. | Walked Grygum through the three theological schools. Reacted with academic delight when Grygum invented a **fourth** ("fixed points") — christened it the **strong-weak hypothesis** and the **Grygumite school**. Treats it as the question of the age. |
+| **Pizwog** *(ancient tortle)* | Intercepted Gyrgum outside the Immortal Chambers. | Distributed a personal research tract — a syncretic analysis of Sword Coast religions. *Internally inconsistent in ways that feel meaningful.* Read it. |
+| **Brother Vareth** *(Gyrgum's handler)* | Side office, Immortal Chambers. | Walked Gyrgum through the three theological schools. Reacted with academic delight when Gyrgum invented a **fourth** ("fixed points") — christened it the **strong-weak hypothesis** and the **Gyrgumite school**. Treats it as the question of the age. |
 
 ### Referenced but absent (worth chasing)
 
@@ -60,7 +60,7 @@ Candlekeep "Who's Who" handout for people you'd met before.*
 - Rib cage **caved in** by something like **an axe** — multiple deliberate blows, close together. (Zalthir's read.)
 - **Heart missing.** No other organs taken.
 - Blood pattern **wrong for the wound** — far less than a violent kill should produce, and localised. He was almost certainly **dead before his chest was opened.**
-- Grygum: removing the heart prevents resurrection by ritual. Not a souvenir. A **precaution.**
+- Gyrgum: removing the heart prevents resurrection by ritual. Not a souvenir. A **precaution.**
 
 ### The room (3rd-floor apartment)
 - **Tobacco smoke** still hanging in the closed room hours after sunrise. No one had been smoking recently. The smoke says the room had been sealed for hours.
@@ -141,7 +141,7 @@ findings below; everything in Part 1 still stands.*
   substance** — and Glabbagool has eaten most of the Underdark — so it is
   something genuinely unusual.
 - **He was beaten *before* he died.** Clotted blood under the nose; the
-  **nose was fractured and bruised pre-mortem** (Grygum: bruising can't form
+  **nose was fractured and bruised pre-mortem** (Gyrgum: bruising can't form
   on a corpse). A **violent assault happened earlier in the evening**,
   separate from the killing.
 - **He fell face-first.** A **chipped front tooth**; the fragment turned up a
@@ -334,8 +334,8 @@ Two things worth keeping:
 ## Kalan Strongbranch — the corridor handoff
 
 Kalan stepped out of a doorway you hadn't clocked, swept the corridor left
-then right, and pressed a **small brass key** into Grygum's palm. He chose
-the cleric. **Grygum now holds the second Hightower Library key.**
+then right, and pressed a **small brass key** into Gyrgum's palm. He chose
+the cleric. **Gyrgum now holds the second Hightower Library key.**
 
 What he said, standing in the hallway:
 
@@ -371,15 +371,15 @@ face the night of the murder. He went still. *"You are very good at this."*
 | Key | Who holds it | Status |
 |---|---|---|
 | Janussi's key | The murderer | Inside the stolen locket |
-| Kalan's key | **Grygum** | The brass key in his pocket |
+| Kalan's key | **Gyrgum** | The brass key in his pocket |
 
 Both keys are required together to open the Hightower Library.
 
 ---
 
-## The poison — named (Grygum, Flora Theca)
+## The poison — named (Gyrgum, Flora Theca)
 
-Grygum researched the black residue in the Pavilion Naturalis (Flora
+Gyrgum researched the black residue in the Pavilion Naturalis (Flora
 Theca). Found it faster than expected, in *Fey-mous Flowers & Fungi* by
 Archibald Roots Jr.
 
@@ -409,7 +409,7 @@ Archibald Roots Jr.
 
 ---
 
-## The stolen sapphire — what spell it's for (Grygum, library)
+## The stolen sapphire — what spell it's for (Gyrgum, library)
 
 The parchment scrap taken from the safe described an **old summoning
 working**: you place an object somewhere, and later you can **call it back
@@ -462,7 +462,7 @@ pages and he ingested any, he dies at the stroke of twelve. If he survives,
 he's clean on the poison — he wouldn't have been licking a book he'd
 prepared. If he dies, he's innocent of the killing.
 
-Grygum has **Revivify** and Dawnbringer can draw poison. Daral is being
+Gyrgum has **Revivify** and Dawnbringer can draw poison. Daral is being
 kept close.
 
 Other names Daral threw at the board (with motivation to deflect, noted):
@@ -495,7 +495,7 @@ actors**, not a lone killer.
 - Poison **named**: Midnight Tears (Feywild, midnight trigger). ✓
 - Sapphire spell **identified**: recall-object summoning. ✓
 - Daral **interviewed** — not the poisoner (probably). Book in evidence. ✓
-- Kalan **partially interviewed** — key now with Grygum. ✓
+- Kalan **partially interviewed** — key now with Gyrgum. ✓
 
 **Suspects — updated picture:**
 
@@ -504,7 +504,7 @@ actors**, not a lone killer.
 | **Daral Yashenti** | Interviewed. Alive until midnight = test pending. Probably not the poisoner. Still possible Handler B (safe). | Medium |
 | **Sylvira Savikas** | Uninterviewed. Someone wore her face. She called Janussi a "traitor." | High — but framed? |
 | **Teles Ahvoste** | Uninterviewed. Screamed "hypocrite" and stormed out. | Unknown |
-| **Kalan Strongbranch** | Partially interviewed. Morning rage, second key now with Grygum, truth-magic available. | Medium — possibly assets |
+| **Kalan Strongbranch** | Partially interviewed. Morning rage, second key now with Gyrgum, truth-magic available. | Medium — possibly assets |
 | **Fheminor Scrivenbark** | Uninterviewed. Quiet 8 pm visit; Daral flagged her; she watched Daz at the Council. | Low–medium |
 | **Bookwyrm** | Steered toward Sylvira. Said "catch." | Open column |
 | **A'lai Aivenmore** | Found the body, pushed hardest for leadership vote, voted in your appointment. | Open column |
@@ -514,7 +514,7 @@ actors**, not a lone killer.
 **Open physical threads:**
 - ***The Golden Ass*** — in your possession. Do not touch the pages.
 - **Janussi's locket / his Hightower key** — stolen; location unknown.
-- **Grygum holds Kalan's key** — both keys together open the Hightower.
+- **Gyrgum holds Kalan's key** — both keys together open the Hightower.
 - **The third-floor apartment** with the conspicuously open door —
   **still unentered.**
 - **The hooded Avowed** from the Refectory — **still unidentified.**
@@ -529,7 +529,7 @@ need Speak with Dead on Janussi, he is the person to ask — or persuade.
 
 # PART 4 — Never mind the murders (Ch. 56)
 
-*The whole keep emptied into the Oval Theater to argue about Grygum's
+*The whole keep emptied into the Oval Theater to argue about Gyrgum's
 theology, and your minder went with them. You got one unsupervised hour and
 spent all of it. You found the heart. You found a poison-theft conspiracy
 run by two people. And you found, in a Great Reader's bedroom, what reads
@@ -539,14 +539,14 @@ like the murder's instruction manual. Everything in Parts 1–3 still stands.*
 
 ## The window — how you got an hour alone
 
-- Brother Vareth expanded the **Grygumite triangle into a quadrangle** (a
+- Brother Vareth expanded the **Gyrgumite triangle into a quadrangle** (a
   fourth theoretical option), and the entire avowed community abandoned its
   posts to debate it in the **Oval Theater**. "Nothing says academic
   institution like blowing off a murder for new research."
 - **Fembris Lancer** — your minder — sheepishly asked to attend. Bookwyrm
   would be there ("a political statement; she can't afford not to be"). His
   leaving bought you **one hour, unwatched.**
-- **Grygum handed Kalan's key to Daz** before going to the disputation —
+- **Gyrgum handed Kalan's key to Daz** before going to the disputation —
   unwilling to carry it in a crowd. **Daz cast Identify on it: the key is
   NOT linked to any summoning spell.** It's clean.
 
@@ -661,13 +661,13 @@ his bedroom. Another keeps **doves he's been sending somewhere.**
 - **What Alkrist burned** at the feast, and **where A'lai's three doves
   flew.**
 - **Who wore Sylvira's face** at 1 am — the shapeshifter is still unnamed.
-- **Janussi's locket / his Hightower key** — still missing. (Grygum still
+- **Janussi's locket / his Hightower key** — still missing. (Gyrgum still
   holds Kalan's key; both are needed together.)
 - **The third-floor apartment** with the open door — **still unentered.**
 - **The hooded Avowed** from the Refectory (Part 1) — **still unidentified.**
 - **Daral's midnight test is still running.** If the *Golden Ass* pages he
   licked carried Midnight Tears, the bells kill him — and prove him innocent.
-  Grygum has Revivify; Dawnbringer can draw poison; keep him close.
+  Gyrgum has Revivify; Dawnbringer can draw poison; keep him close.
 - **Your hour is over** the moment the disputation ends and Fembris comes
   back. Two clocks now: the minder's return, and **midnight on Daral.**
 
@@ -677,8 +677,8 @@ his bedroom. Another keeps **doves he's been sending somewhere.**
 
 # PART 5 — The confession (Ch. 57)
 
-*Grygum came back from his colloquium and the four of you split up to close
-the net. Elian handed you Kalan's investigative paper. Grygum finally got
+*Gyrgum came back from his colloquium and the four of you split up to close
+the net. Elian handed you Kalan's investigative paper. Gyrgum finally got
 into the third-floor apartment. Daz sat with the real Sylvira. And in
 Alkrist's chambers — with Kalan's truth-magic working unseen from the
 corridor — the whole conspiracy came apart in one man's mouth. You know who
@@ -706,9 +706,9 @@ delivered via the Ember Grapple.
 > *Keep this paper close.* You have a confession coming — but by the standard
 > now in your own hands, **one spell is not proof.** Hold both thoughts at once.
 
-## The third-floor apartment — finally entered *(Grygum, alone)*
+## The third-floor apartment — finally entered *(Gyrgum, alone)*
 
-The long-open door on the third-floor landing: Grygum went up alone. It's
+The long-open door on the third-floor landing: Gyrgum went up alone. It's
 Janussi's **private love nest** — confirming the rumors about the Keeper's
 "habits."
 
@@ -749,9 +749,9 @@ out the chairs.
 > her alibi holds. The frame was easy because a tiefling who studies devils is
 > who people already want to blame.
 
-## The wrapping paper — premeditation confirmed *(Grygum, alone)*
+## The wrapping paper — premeditation confirmed *(Gyrgum, alone)*
 
-Grygum fished the **discarded gift-wrapping** out of the dining-hall trash and
+Gyrgum fished the **discarded gift-wrapping** out of the dining-hall trash and
 reassembled it with **Mending**. The restored paper showed a **precise,
 deliberate cut**, separate from the natural tearing. The gift was **carefully
 opened, tampered with, and re-wrapped** by someone who knew exactly what they
@@ -843,7 +843,7 @@ working** — and you still have no name for whoever wore her face.
   sightings don't fit one polymorph.**
 - **Janussi's heart** — found in the chalice (Part 4); **who put it there?**
   (Points at Bookwyrm.)
-- **Janussi's locket / his Hightower key** — still missing. (Grygum still holds
+- **Janussi's locket / his Hightower key** — still missing. (Gyrgum still holds
   Kalan's key; both are needed together.)
 - **Alkrist's locked safe** — still unopened.
 - **A'lai's three doves** — sent where, to whom? Still unknown.

@@ -126,7 +126,7 @@
     "type": "event",
     "subject": "Daz",
     "fact": "Daz is silent after the rockfall.",
-    "source_quote": "Grygum shouts that he\u2019s fine, but Daz is silent.",
+    "source_quote": "Gyrgum shouts that he\u2019s fine, but Daz is silent.",
     "quote_verified": true,
     "passes": [
       "interiority"
@@ -214,8 +214,8 @@
   {
     "type": "event",
     "subject": "group trapped under rocks",
-    "fact": "Topsy, Buppido, Jimjar, Eldeth, Grygum, and Shuushar are trapped under the rocks after the rockfall.",
-    "source_quote": "Topsy, Buppido, Jimjar, Eldeth, Grygum, and Shuushar are trapped under the rocks.",
+    "fact": "Topsy, Buppido, Jimjar, Eldeth, Gyrgum, and Shuushar are trapped under the rocks after the rockfall.",
+    "source_quote": "Topsy, Buppido, Jimjar, Eldeth, Gyrgum, and Shuushar are trapped under the rocks.",
     "quote_verified": true,
     "passes": [
       "small"
@@ -224,8 +224,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum recalls the Giants eating prisoners who tried to steal rather than escape.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum recalls the Giants eating prisoners who tried to steal rather than escape.",
     "source_quote": "He remembers when some Giants\u2019 prisoners tried to steal goods from them instead of escaping, and the prisoners made a good meal.",
     "quote_verified": true,
     "passes": [
@@ -235,9 +235,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum takes Stool's hand.",
-    "source_quote": "When stool extended his hand, Grygum took it.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum takes Stool's hand.",
+    "source_quote": "When stool extended his hand, Gyrgum took it.",
     "quote_verified": true,
     "passes": [
       "interiority"
@@ -636,7 +636,7 @@
   {
     "type": "location",
     "subject": "Blingdenstone",
-    "fact": "Blingdenstone is a drow-adjacent location to the south, requiring passage through the pitched battle between Drow and Demons; Grygum deemed it too dangerous.",
+    "fact": "Blingdenstone is a drow-adjacent location to the south, requiring passage through the pitched battle between Drow and Demons; Gyrgum deemed it too dangerous.",
     "source_quote": "Going south to Blingdenstone would require going through the pitched battle between Drow and Demons.",
     "quote_verified": true,
     "passes": [
@@ -784,7 +784,7 @@
   {
     "type": "location",
     "subject": "Menzoberranzan",
-    "fact": "Menzoberranzan is a Drow city full of cultists, located to the north of the cavern; Grygum considered it a dangerous option for escape.",
+    "fact": "Menzoberranzan is a Drow city full of cultists, located to the north of the cavern; Gyrgum considered it a dangerous option for escape.",
     "source_quote": "To the north is Menzoberranzan, a city full of Drow Cultists.",
     "quote_verified": true,
     "passes": [
@@ -1119,7 +1119,7 @@
     "type": "npc",
     "subject": "Buppido",
     "fact": "Buppido is trapped under rocks after the rockfall.",
-    "source_quote": "Topsy, Buppido, Jimjar, Eldeth, Grygum, and Shuushar are trapped under the rocks.",
+    "source_quote": "Topsy, Buppido, Jimjar, Eldeth, Gyrgum, and Shuushar are trapped under the rocks.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -1197,7 +1197,7 @@
     "type": "npc",
     "subject": "Daz",
     "fact": "Daz is silent after being trapped under rocks.",
-    "source_quote": "Grygum shouts that he\u2019s fine, but Daz is silent.",
+    "source_quote": "Gyrgum shouts that he\u2019s fine, but Daz is silent.",
     "quote_verified": true,
     "passes": [
       "large"
@@ -1286,7 +1286,7 @@
     "type": "npc",
     "subject": "Eldeth",
     "fact": "Eldeth is trapped under rocks after the rockfall.",
-    "source_quote": "Topsy, Buppido, Jimjar, Eldeth, Grygum, and Shuushar are trapped under the rocks.",
+    "source_quote": "Topsy, Buppido, Jimjar, Eldeth, Gyrgum, and Shuushar are trapped under the rocks.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -1295,8 +1295,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum acknowledges that having a myconid allows the group to surprise enemies using Stool\u2019s telepathic powers.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum acknowledges that having a myconid allows the group to surprise enemies using Stool\u2019s telepathic powers.",
     "source_quote": "But it wasn\u2019t only altruism. Having a myconid would allow the group to surprise enemies using the telepathic powers Stool imbued his allies with.",
     "quote_verified": true,
     "passes": [
@@ -1307,9 +1307,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum finds poisoned hand crossbow bolts and a vial of Drow poison.",
-    "source_quote": "Grygum finds some poisoned hand crossbow bolts and a vial of what Sarith explains is Drow poison.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum finds poisoned hand crossbow bolts and a vial of Drow poison.",
+    "source_quote": "Gyrgum finds some poisoned hand crossbow bolts and a vial of what Sarith explains is Drow poison.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -1318,8 +1318,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum found poisoned hand crossbow bolts and a vial of Drow poison, attached them to his armor, and recalled a past incident where Giant prisoners tried to steal goods from them instead of escaping, resulting in a good meal; he agreed with Thorin\u2019s decision to leave equipment behind and ran toward the Darklake tunnel.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum found poisoned hand crossbow bolts and a vial of Drow poison, attached them to his armor, and recalled a past incident where Giant prisoners tried to steal goods from them instead of escaping, resulting in a good meal; he agreed with Thorin\u2019s decision to leave equipment behind and ran toward the Darklake tunnel.",
     "source_quote": "He remembers when some Giants\u2019 prisoners tried to steal goods from them instead of escaping, and the prisoners made a good meal.",
     "quote_verified": true,
     "passes": [
@@ -1329,9 +1329,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is trapped under rocks after the rockfall but says he is fine.",
-    "source_quote": "Grygum shouts that he\u2019s fine",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is trapped under rocks after the rockfall but says he is fine.",
+    "source_quote": "Gyrgum shouts that he\u2019s fine",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -1340,8 +1340,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum recognizes Stool is seeking an adult figure to protect him.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum recognizes Stool is seeking an adult figure to protect him.",
     "source_quote": "he could tell when a child was looking for an adult figure to protect it.",
     "quote_verified": true,
     "passes": [
@@ -1351,9 +1351,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum shouts that he is fine after being trapped under rocks.",
-    "source_quote": "Grygum shouts that he\u2019s fine",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum shouts that he is fine after being trapped under rocks.",
+    "source_quote": "Gyrgum shouts that he\u2019s fine",
     "quote_verified": true,
     "passes": [
       "large",
@@ -1363,9 +1363,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum silently shares his thoughts with his friends and the other prisoners.",
-    "source_quote": "Grygum silently shares his thoughts with his friends and the other prisoners.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum silently shares his thoughts with his friends and the other prisoners.",
+    "source_quote": "Gyrgum silently shares his thoughts with his friends and the other prisoners.",
     "quote_verified": true,
     "passes": [
       "large"
@@ -1374,9 +1374,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum takes Stool\u2019s hand and agrees to be friends.",
-    "source_quote": "When stool extended his hand, Grygum took it.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum takes Stool\u2019s hand and agrees to be friends.",
+    "source_quote": "When stool extended his hand, Gyrgum took it.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -1385,9 +1385,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum takes Stool\u2019s hand.",
-    "source_quote": "When stool extended his hand, Grygum took it.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum takes Stool\u2019s hand.",
+    "source_quote": "When stool extended his hand, Gyrgum took it.",
     "quote_verified": true,
     "passes": [
       "large",
@@ -1397,8 +1397,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum tells Stool they can be friends.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum tells Stool they can be friends.",
     "source_quote": "He sighed and told the creature that they could be friends.",
     "quote_verified": true,
     "passes": [
@@ -1455,7 +1455,7 @@
     "type": "npc",
     "subject": "Jimjar",
     "fact": "Jimjar is trapped under rocks after the rockfall.",
-    "source_quote": "Topsy, Buppido, Jimjar, Eldeth, Grygum, and Shuushar are trapped under the rocks.",
+    "source_quote": "Topsy, Buppido, Jimjar, Eldeth, Gyrgum, and Shuushar are trapped under the rocks.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -1509,8 +1509,8 @@
   {
     "type": "npc",
     "subject": "prisoners trapped under rocks",
-    "fact": "Six prisoners are trapped under the rocks: Topsy, Buppido, Jimjar, Eldeth, Grygum, and Shuushar.",
-    "source_quote": "Topsy, Buppido, Jimjar, Eldeth, Grygum, and Shuushar are trapped under the rocks",
+    "fact": "Six prisoners are trapped under the rocks: Topsy, Buppido, Jimjar, Eldeth, Gyrgum, and Shuushar.",
+    "source_quote": "Topsy, Buppido, Jimjar, Eldeth, Gyrgum, and Shuushar are trapped under the rocks",
     "quote_verified": true,
     "passes": [
       "temporal"
@@ -1709,7 +1709,7 @@
     "type": "npc",
     "subject": "Shuushar",
     "fact": "Shuushar is trapped under rocks after the rockfall.",
-    "source_quote": "Topsy, Buppido, Jimjar, Eldeth, Grygum, and Shuushar are trapped under the rocks.",
+    "source_quote": "Topsy, Buppido, Jimjar, Eldeth, Gyrgum, and Shuushar are trapped under the rocks.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -1741,8 +1741,8 @@
   {
     "type": "npc",
     "subject": "Stool",
-    "fact": "Stool believes Grygum will bring him home.",
-    "source_quote": "he knew Grygum would bring him home.",
+    "fact": "Stool believes Gyrgum will bring him home.",
+    "source_quote": "he knew Gyrgum would bring him home.",
     "quote_verified": false,
     "passes": [
       "small"
@@ -1752,7 +1752,7 @@
   {
     "type": "npc",
     "subject": "Stool",
-    "fact": "Stool cries when Grygum tries to push him away.",
+    "fact": "Stool cries when Gyrgum tries to push him away.",
     "source_quote": "when the orc tried to push him away, the myconid cried.",
     "quote_verified": false,
     "passes": [
@@ -1775,7 +1775,7 @@
   {
     "type": "npc",
     "subject": "Stool",
-    "fact": "Stool is curled against Grygum after waking up.",
+    "fact": "Stool is curled against Gyrgum after waking up.",
     "source_quote": "Stool, whom they had met as a fellow prisoner in Velkynvelve, was curled against him.",
     "quote_verified": true,
     "passes": [
@@ -1786,7 +1786,7 @@
   {
     "type": "npc",
     "subject": "Stool",
-    "fact": "Stool is curled against Grygum when he wakes up.",
+    "fact": "Stool is curled against Gyrgum when he wakes up.",
     "source_quote": "When he woke up, Stool, whom they had met as a fellow prisoner in Velkynvelve, was curled against him.",
     "quote_verified": true,
     "passes": [
@@ -1811,8 +1811,8 @@
   {
     "type": "npc",
     "subject": "Stool",
-    "fact": "Stool says he knows Grygum will bring him home.",
-    "source_quote": "he knew Grygum would bring him home.",
+    "fact": "Stool says he knows Gyrgum will bring him home.",
+    "source_quote": "he knew Gyrgum would bring him home.",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -1822,8 +1822,8 @@
   {
     "type": "npc",
     "subject": "Stool",
-    "fact": "Stool says he wants to be Grygum\u2019s best friend.",
-    "source_quote": "He knew Grygum would bring him home. He knew he wanted to be Grygum\u2019s best friend.",
+    "fact": "Stool says he wants to be Gyrgum\u2019s best friend.",
+    "source_quote": "He knew Gyrgum would bring him home. He knew he wanted to be Gyrgum\u2019s best friend.",
     "quote_verified": false,
     "passes": [
       "interiority",
@@ -1938,7 +1938,7 @@
     "type": "npc",
     "subject": "Topsy",
     "fact": "Topsy is trapped under rocks after the rockfall.",
-    "source_quote": "Topsy, Buppido, Jimjar, Eldeth, Grygum, and Shuushar are trapped under the rocks.",
+    "source_quote": "Topsy, Buppido, Jimjar, Eldeth, Gyrgum, and Shuushar are trapped under the rocks.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -2071,7 +2071,7 @@
   {
     "type": "object",
     "subject": "Drow Poison",
-    "fact": "A vial of Drow poison was found by Grygum and explained by Sarith; it was attached to his armor along with poisoned bolts.",
+    "fact": "A vial of Drow poison was found by Gyrgum and explained by Sarith; it was attached to his armor along with poisoned bolts.",
     "source_quote": "a vial of what Sarith explains is Drow poison.",
     "quote_verified": true,
     "passes": [
@@ -2115,7 +2115,7 @@
   {
     "type": "object",
     "subject": "Hand Crossbow",
-    "fact": "Sarith placed a hand crossbow in a strap on his armor; Grygum later used poisoned hand crossbow bolts with it.",
+    "fact": "Sarith placed a hand crossbow in a strap on his armor; Gyrgum later used poisoned hand crossbow bolts with it.",
     "source_quote": "places one of the hand crossbows in a strap on the armor.\" ... \"poisoned hand crossbow bolts",
     "quote_verified": false,
     "passes": [
@@ -2137,8 +2137,8 @@
   {
     "type": "object",
     "subject": "poisoned hand crossbow bolts",
-    "fact": "Grygum finds some poisoned hand crossbow bolts.",
-    "source_quote": "Grygum finds some poisoned hand crossbow bolts",
+    "fact": "Gyrgum finds some poisoned hand crossbow bolts.",
+    "source_quote": "Gyrgum finds some poisoned hand crossbow bolts",
     "quote_verified": true,
     "passes": [
       "large"
@@ -2148,7 +2148,7 @@
   {
     "type": "object",
     "subject": "poisoned hand crossbow bolts",
-    "fact": "Grygum hooks poisoned hand crossbow bolts into a loop on his armor.",
+    "fact": "Gyrgum hooks poisoned hand crossbow bolts into a loop on his armor.",
     "source_quote": "He hooks them into a loop on his armor.",
     "quote_verified": true,
     "passes": [
@@ -2236,7 +2236,7 @@
   {
     "type": "object",
     "subject": "vial of Drow poison",
-    "fact": "Grygum finds a vial of what Sarith explains is Drow poison.",
+    "fact": "Gyrgum finds a vial of what Sarith explains is Drow poison.",
     "source_quote": "a vial of what Sarith explains is Drow poison.",
     "quote_verified": true,
     "passes": [
@@ -2247,7 +2247,7 @@
   {
     "type": "object",
     "subject": "vial of Drow poison",
-    "fact": "Grygum hooks a vial of Drow poison into a loop on his armor.",
+    "fact": "Gyrgum hooks a vial of Drow poison into a loop on his armor.",
     "source_quote": "He hooks them into a loop on his armor.",
     "quote_verified": true,
     "passes": [
@@ -2279,8 +2279,8 @@
   },
   {
     "type": "thread",
-    "subject": "Grygum's protective role",
-    "fact": "Grygum takes on a protective role toward Stool, recognizing him as a child seeking an adult figure.",
+    "subject": "Gyrgum's protective role",
+    "fact": "Gyrgum takes on a protective role toward Stool, recognizing him as a child seeking an adult figure.",
     "source_quote": "he could tell when a child was looking for an adult figure to protect it.",
     "quote_verified": true,
     "passes": [
@@ -2336,7 +2336,7 @@
     "type": "thread",
     "subject": "Stool's home",
     "fact": "Stool wants to return home, but the location of his home is not specified in this session.",
-    "source_quote": "He knew Grygum would bring him home.",
+    "source_quote": "He knew Gyrgum would bring him home.",
     "quote_verified": false,
     "passes": [
       "interiority"

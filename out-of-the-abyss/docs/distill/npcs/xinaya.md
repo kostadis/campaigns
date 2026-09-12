@@ -16,7 +16,7 @@ Xinaya was a capable tracker who correctly predicted the party would seek refuge
 
 ## History with the Party
 1. **Neverlight Grove — Garden of Welcome:** The party discovered Xinaya half-fused with fungal growth, mushrooms sprouting from her rotting face, her spider medallion of Lolth merged into her body. She called out in Common begging to be killed. She explained she had been sent by Ilvara to capture them, had tracked them to Neverlight Grove, but made the fatal mistake of accepting Phylo's invitation to visit the Circle of Welcome. Her entire squad fell victim to the madness there. She recognized Daz as being from Menzoberranzan and demanded he warn the Drow about the "Demon Queen of the Fungi" (Zuggtmoy). After a battle in the area, Thorin consulted with Dawnbringer and then mercifully killed her at her own request.
-2. **Return from the mock wedding:** The party passed her corpse again on their way back. Zalthir rushed ahead and looted everything from the body before anyone else could act, including scrolls that Grygum had wanted.
+2. **Return from the mock wedding:** The party passed her corpse again on their way back. Zalthir rushed ahead and looted everything from the body before anyone else could act, including scrolls that Gyrgum had wanted.
 
 ## Current Status
 - **Dead.** Mercy-killed by Thorin in the Garden of Welcome.
@@ -26,6 +26,6 @@ Xinaya was a capable tracker who correctly predicted the party would seek refuge
 - **Ilvara:** Xinaya's commander; sent Xinaya specifically to capture (not kill) the party.
 - **Daz:** Recognized him as a Drow from Menzoberranzan; demanded he carry a warning about Zuggtmoy to his people.
 - **Thorin:** Delivered the mercy kill at her request, after consulting Dawnbringer.
-- **Zalthir:** Looted her corpse, causing friction with Grygum over the scrolls.
-- **Grygum:** Wanted the scrolls from Xinaya's body but was beaten to them by Zalthir.
+- **Zalthir:** Looted her corpse, causing friction with Gyrgum over the scrolls.
+- **Gyrgum:** Wanted the scrolls from Xinaya's body but was beaten to them by Zalthir.
 - **Phylo:** The Myconid leader whose invitation to the Circle of Welcome led to Xinaya's and her squad's downfall.

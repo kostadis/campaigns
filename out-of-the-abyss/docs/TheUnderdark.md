@@ -19,7 +19,7 @@ New adventurers, however, still tried to ply their trade. And there was always a
 And if you can’t find adventure above ground, there is always below ground. 
 
 
-Or at least that’s what the half-orc Grygum thought to himself as he sat in a prison cell - again. 
+Or at least that’s what the half-orc Gyrgum thought to himself as he sat in a prison cell - again. 
 
 
 At least this time, he wasn’t alone; there was Daz, the Drow Elf Magic User, Thorin Giantfriend, whose experience with giants was radically different than his, and the very quiet Zalthir, a dragonborn monk. 
@@ -43,7 +43,7 @@ A group of Drows found them unconscious in the chute. When they woke up, they we
 Daz shook his head. Daz explained that the City of Menzoberranzan was a city where the Cult of Lolth was very powerful, and enslaved people didn’t have a very long and healthy life. Drow who were apostates tended to have an even shorter life than other slaves. And apostates that were male Drow Elves, the shortest-lived of all. 
 
 
-Grygum sighed and thought, “Not again.” 
+Gyrgum sighed and thought, “Not again.” 
 
 
 The journey through the Underdark took two, or was it three days? With no sunlight to guide them, the only things that gave him a sense of time were the long periods of rest and the feeling of exhaustion at the end of the day. 
@@ -51,7 +51,7 @@ The journey through the Underdark took two, or was it three days? With no sunlig
 
 “You will be dropped off here,” said Welnaste Mizzrym, the caravan leader. “This is Velkynvelve. I have secured a reasonable price for you. Another caravan will come to pick you up in a ten day or so to take you to Menzoberranzan.” 
 
-Grygum looks up and sees Velkynvelve. It's a Drow outpost high in a cavern 100 feet above the rocky floor. The outpost consists of small caves in the cavern walls and four hanging towers. These are hollowed-out stalactites connected by walkways, stairs, and rope bridges. The towers are concealed by the thick webs of giant spiders that stretch below them, so only the lowermost parts of the stalactites are visible from the cavern floor. 
+Gyrgum looks up and sees Velkynvelve. It's a Drow outpost high in a cavern 100 feet above the rocky floor. The outpost consists of small caves in the cavern walls and four hanging towers. These are hollowed-out stalactites connected by walkways, stairs, and rope bridges. The towers are concealed by the thick webs of giant spiders that stretch below them, so only the lowermost parts of the stalactites are visible from the cavern floor. 
 
 
 As they climb up, he notes that the small amount of dim light used in the outpost, shielded from the cavern floor below, allows one to walk the entire length of the cleft without becoming aware of the outpost overhead, hidden in the darkness above the ranges of torches and lanterns. 
@@ -75,7 +75,7 @@ Ilvara turns to the disfigured Drow: “Jorlan, take them to the cell. We will u
 Welnaste looks at Ilvara and mutters, “Remember, house sister, money has been exchanged, and you will be held to account if they are lost or die before the caravan arrives.” 
 
 
-Grygum then is made aware of Drow soldiers surrounding the group and putting bags over his friend's head. Before he can protest, a bag is placed over his. 
+Gyrgum then is made aware of Drow soldiers surrounding the group and putting bags over his friend's head. Before he can protest, a bag is placed over his. 
 
 
 ### Zalthir
@@ -85,7 +85,7 @@ The dragonborn had taken a vow of silence. Not so much about not speaking but on
 Looking around, he saw ten fellow prisoners - a fish man, a mushroom with legs, two deep gnomes that looked like twins, a deep gnome that didn’t, a derro, a hulking quagoth, a half-orc, another drow that was covered in some kind of fungal rot, and a dwarf. 
 
 
-He was carefully considering what to do next and how to get information about his cellmates when Grygum decided to ask. 
+He was carefully considering what to do next and how to get information about his cellmates when Gyrgum decided to ask. 
 
 
 “How novel?” he thought. 
@@ -97,7 +97,7 @@ He was carefully considering what to do next and how to get information about hi
 Turvy mumbles. 
 
 
-“He says a pleasure to meet you too, Grygum. And I am pleased as well. By the way, everyone is looking at the other Drow.” 
+“He says a pleasure to meet you too, Gyrgum. And I am pleased as well. By the way, everyone is looking at the other Drow.” 
 
 
 Zalthir had noticed the stares and wondered why. Again, he thought to ask, but the deep gnome just gave away information—“They’re all wondering if you are like Sarith. Sarith was convicted of the murder of one of his fellow drow. The problem is he got caught.” 
@@ -110,7 +110,7 @@ Sarith reacts to that comment - “I didn’t! It was a setup! Or was it? Maybe 
 Zalthir notes Daz’s shudder and can read his body language; Sarith is not sane. 
 
 
-Grygum approaches Zarith and mutters, “And he’s not a spy. He’s a prisoner just like us.” 
+Gyrgum approaches Zarith and mutters, “And he’s not a spy. He’s a prisoner just like us.” 
 ### 
 Thorin
 
@@ -136,7 +136,7 @@ Conversely, the derro looks personable, gregarious, and talkative. He introduces
 “We must escape from this place. It is part of the divine plan.” 
 
 
-Grygum intrudes, “Divine plan? Yes, it involves many dragons.” 
+Gyrgum intrudes, “Divine plan? Yes, it involves many dragons.” 
 
 
 Buppido smiles, “You are a cleric and a follower of gods. In the future, perhaps, we will work together. And shortly, perhaps, we will work together to escape. For I know that the divine plan tells us, there is only one path forward!” 
@@ -194,19 +194,19 @@ Daz stares at him, uncertain of what he is—and surprised to see a mushroom wit
 He is repulsed but can tell this is a child of whatever species it belongs to. 
 
 
-### Grygum 
+### Gyrgum 
 
 
 “A fellow orc,” he thinks. 
 
 
-The orc introduces himself as Ronc and is disappointed when he discovers that Grygum is a cleric but not Gruumsh. Ronc had fought poorly and was looking for absolution from his god. 
+The orc introduces himself as Ronc and is disappointed when he discovers that Gyrgum is a cleric but not Gruumsh. Ronc had fought poorly and was looking for absolution from his god. 
 
 
 Eldeth sneers at him and mocks him - “You and your kind were defeated at Gauntlgrym. The Shield Dwarves captured their castle, and we will keep it from your kind.” 
 
 
-Grygum sighs. The dwarves can be so bigoted. 
+Gyrgum sighs. The dwarves can be so bigoted. 
 
 
 “We should go there, to Gauntlgrym. It’s the best place for us to escape!” 
@@ -231,13 +231,13 @@ Turvy mumbles something to her; she pauses and then shouts, “We should go to B
 Jimjar smiles and says, “I’ll make you bet nobody agrees to go there.” 
 
 
-Eldeth then turns to Grygum, “The mushroom is a Myconid. A conscious form of mycelium.” 
+Eldeth then turns to Gyrgum, “The mushroom is a Myconid. A conscious form of mycelium.” 
 
 
 “Yes, I am a Myconid. And my sovereign is mighty. And he will be thrilled to see me. And I can get you to the Neverlight grove! And it will be safe.” 
 
 
-Grygum hears no sounds and is about to ask how he heard that when Buppido explains, “They release these spores that allow them to communicate without speaking.” 
+Gyrgum hears no sounds and is about to ask how he heard that when Buppido explains, “They release these spores that allow them to communicate without speaking.” 
 
 
 ### Thorin 
@@ -258,7 +258,7 @@ Eldeth turns to Thorin, “I like your spunk. And it’s a good look. But there 
 The “Prince” adds, “And there are three Drow guards right across the door.” 
 
 
-Grygum turns to Thorin, “Maybe we rethink the charge at a pack of drow with no weapons a little more?”
+Gyrgum turns to Thorin, “Maybe we rethink the charge at a pack of drow with no weapons a little more?”
 
 
 Buppido then whispers, “Let’s send Runc ahead. He can distract them, and the rest of us can escape.” 
@@ -270,7 +270,7 @@ Thorin asks, “Why don’t you do it?”
 “I am more of a big-picture thinker. And frankly, if I reveal my power, then …” 
 
 
-Grygum is frustrated, “Time to do the big reveal?”
+Gyrgum is frustrated, “Time to do the big reveal?”
 
 
 “No.” 
@@ -285,21 +285,21 @@ The group stares at him.
 “The Drow with the ugly scratch marks on his face, Jorlans is his name, used to be the number one squeeze, but now Shoor is the primary squeeze after Jorlan got injured. Jorlan used to have a wand of globs. Meanwhile, Ashar’s angling for the top job.”
 
 
-Sarith, seeing how Jimjar has become the center of attention, shouts, “I too have information.” He starts to speak and then begins to mutter. Thorin then watches as Grygum reassures the Drow, who explains, “At the bottom of the cave is a gray ooze in the pools. If we escape that way, we have to be careful.” 
+Sarith, seeing how Jimjar has become the center of attention, shouts, “I too have information.” He starts to speak and then begins to mutter. Thorin then watches as Gyrgum reassures the Drow, who explains, “At the bottom of the cave is a gray ooze in the pools. If we escape that way, we have to be careful.” 
 # Chapter 02 Exploring the prison
 
 
 ## 3rd day of the 2nd tenday of Taraskh, 1492
-### Grygum
+### Gyrgum
 
 
 The prison door creeks open, and a voice rings, “Wake up.” 
 
 
-Grygum opens his eyes. “How much time has passed?” he wonders. From his time as a prisoner the last time, he’s learned not to worry about how much time has passed. 
+Gyrgum opens his eyes. “How much time has passed?” he wonders. From his time as a prisoner the last time, he’s learned not to worry about how much time has passed. 
 
 
-The voice speaks in undercommon—a language Grygum doesn’t understand. 
+The voice speaks in undercommon—a language Gyrgum doesn’t understand. 
 
 
 But he can gather from the gestures that Ront and Prince Derendil, the deluded Quaggoth, are to follow this Drow. 
@@ -320,7 +320,7 @@ Another Drow points at Daz, Sarith, and Stool. Daz has a very sour expression.
 “Oh dear, Guldor has the dirty job of cleaning chamber pots. I wonder what he failed at.” 
 
 
-Then, at last, it’s Grygum’s turn. A Drow appears and points at Shuushar, Topsy, Turvy, and Grygum. Shuushar smiles, or his mouth spreads in a way that might be a smile, “Excellent, Imbros wants us to cook.” 
+Then, at last, it’s Gyrgum’s turn. A Drow appears and points at Shuushar, Topsy, Turvy, and Gyrgum. Shuushar smiles, or his mouth spreads in a way that might be a smile, “Excellent, Imbros wants us to cook.” 
 
 
 ## ![image]()
@@ -390,10 +390,10 @@ As the basket bounces, Zalthir notices a piece of paper with some names of peopl
 He notices that Elspeth sees him pocket the paper. He notices that she finds a comb. She pockets the comb. He has little use for combs. 
 
 
-As the basket comes up, he notices Grygum entering a cave. 
-### Grygum 
+As the basket comes up, he notices Gyrgum entering a cave. 
+### Gyrgum 
 . 
-As Grygum walks towards the mess hall, the orc thinks, “Not speaking undercommon is awkward, but then again, understanding the language of your captors may be a problem. And anyway, I’ve got plenty of folks around me who can translate.” 
+As Gyrgum walks towards the mess hall, the orc thinks, “Not speaking undercommon is awkward, but then again, understanding the language of your captors may be a problem. And anyway, I’ve got plenty of folks around me who can translate.” 
 
 
 Just before the mess hall door, he can hear Balok laughing as a basket appears to bob up and down. 
@@ -408,7 +408,7 @@ There are a pair of Drow sitting at a table, looking hungry. Shuushar mutters: �
 Guldor sits with them. 
 
 
-Topsy and Turvy whisper to each other. Shuushar turns to Grygum, “The twins wonder if you could create a distraction by talking to the drow while they steal some food?” 
+Topsy and Turvy whisper to each other. Shuushar turns to Gyrgum, “The twins wonder if you could create a distraction by talking to the drow while they steal some food?” 
 
 
 “I don’t speak undercommon.” 
@@ -417,7 +417,7 @@ Topsy and Turvy whisper to each other. Shuushar turns to Grygum, “The twins wo
 Shuushar mutters, “I see.” 
 
 
-The drow speaks, and Shuushar turns to Grygum, “Can you cook? That would be a better distraction.” 
+The drow speaks, and Shuushar turns to Gyrgum, “Can you cook? That would be a better distraction.” 
 
 
 The drow laughs and says something. 
@@ -432,7 +432,7 @@ Shuushar translates, “Something tasty.”
 “Yes. As part of my attempt to find spiritual balance and cope with the madness of my race, I have chosen not to repeat offensive words.” And then Shuushar proceeds to translate every insult the drow used. 
 
 
-Grygum smiles at the Drow, “Yes, I am the inferior race.” 
+Gyrgum smiles at the Drow, “Yes, I am the inferior race.” 
 
 
 He then turns to the kitchen, looks around, and realizes that he’s not a great cook and that many ingredients are unfamiliar, but he can put on a great show. 
@@ -441,13 +441,13 @@ He then turns to the kitchen, looks around, and realizes that he’s not a great
 And it's a great show he does. 
 
 
-As the lunch progresses, Grygum notices a knife and tries to steal it. Guldor notices and Grygum explains that he is just trying to sharpen the knife. Guldor takes the knife and says a bunch of words whose intent is quite clear. 
+As the lunch progresses, Gyrgum notices a knife and tries to steal it. Guldor notices and Gyrgum explains that he is just trying to sharpen the knife. Guldor takes the knife and says a bunch of words whose intent is quite clear. 
 
 
 Shuushar translates, “They will do awful things to you if you steal a  knife.” 
 
 
-Grygum again realizes that Shuushar has left out many details. 
+Gyrgum again realizes that Shuushar has left out many details. 
 
 
 ### Thorin
@@ -525,13 +525,13 @@ Later that day, Daz is back in the prison cell, surrounded by his fellow prisone
 Daz notes that this allows them to coordinate any plans without being discovered. 
 
 
-Topsy and Turvy are very excited about Grygum’s cooking. Even Shuushar seems excited, although he cautions the orc, “If you were to show this cooking to my people, they might imagine a god like you.” 
+Topsy and Turvy are very excited about Gyrgum’s cooking. Even Shuushar seems excited, although he cautions the orc, “If you were to show this cooking to my people, they might imagine a god like you.” 
 
 
 It’s then that Buppido speaks, or instead projects his mind, “The Divine plan says we must collaborate and share information.” 
 
 
-Grygum has a peculiar expression as Buppido says the word divine. Later, Daz learns from the cleric that Buppido thinks he is some kind of god, or he is a god. 
+Gyrgum has a peculiar expression as Buppido says the word divine. Later, Daz learns from the cleric that Buppido thinks he is some kind of god, or he is a god. 
 
 
 After sharing the information, Buppido says, “The divine plan requires that you create a distraction while I escape.”
@@ -546,7 +546,7 @@ Buppido looks surprised, “We?”
 Thorin, who also picked up on the derro’s insanity, says, “Well, how else will we protect you so that you can fulfill the divine plan?” 
 
 
-The derro stares at Grygum and says, “You are quite right. You have pledged your swords and your spells! And your lives.” 
+The derro stares at Gyrgum and says, “You are quite right. You have pledged your swords and your spells! And your lives.” 
 
 
 Daz thinks, “At least we have that.” 
@@ -559,8 +559,8 @@ Buppido, like any mysterious god or charlatan masquerading as a god, would say, 
 
 
 ## 4th day of the 2nd Tenday of Taraskh
-### Grygum
-The next day, Grygum goes to the kitchen again. This time, six Drow soldiers are present. 
+### Gyrgum
+The next day, Gyrgum goes to the kitchen again. This time, six Drow soldiers are present. 
 
 
 Shuushar explains that they heard about his fantastic show and wanted to experience it themselves.
@@ -569,7 +569,7 @@ Shuushar explains that they heard about his fantastic show and wanted to experie
 The orc is pleased but wonders how to steal a knife. Topsy and Turvy look at him and wink. Seeing how they successfully stole food, he guesses they might be better placed to steal a knife. 
 
 
-As Grygum, with theatrical flair, tosses ingredients into the air, moves like a dancer, and hums a tune, Topsy and Turvy steal several knives. 
+As Gyrgum, with theatrical flair, tosses ingredients into the air, moves like a dancer, and hums a tune, Topsy and Turvy steal several knives. 
 
 
 The drow soldiers, delighted at this entertainment, ignore the two deep gnomes who make off with a knife. 
@@ -663,7 +663,7 @@ Zalthir says, “You seem to be confident we will escape and live.”
 “Wanna bet?” 
 
 
-Grygum asks, “Where will we find safety?” 
+Gyrgum asks, “Where will we find safety?” 
 
 
 Eldeth laughs, “Safety? This is the Underdark.  There is not enough resources or space for anyone. Survival depends on your wits. People tend to distrust outsiders and view them as a resource to be used.” 
@@ -729,7 +729,7 @@ The rest of the prisoners, led by Buppido, take advantage of the distraction, ru
 Prince Derendil declares, “I am already armed in this hideous form, and it would bring me great joy to kill this drow.” He then charges at Imbros. 
 
 
-Grygum decides that an armed cleric is better than a disarmed cleric and follows his fellow prisoners to the armory.
+Gyrgum decides that an armed cleric is better than a disarmed cleric and follows his fellow prisoners to the armory.
 
 
 Imbros realizes that this revolt has become much more dangerous. He strikes Thorin, who falls, bleeding and unconscious. 
@@ -750,7 +750,7 @@ Then, from the opening in the roof where the armory is, Eldeth, Buppido, Shuusha
 “You should have taken that bet,” everyone hears Jimjar say. The Deep Gnome has mastered Spool’s telepathy and forces everyone to listen to him. 
 
 
-Grygum descends from the armory and walks towards Thorin. Grygum stands over the dwarf, and then, with a moment’s incantation and a gentle touch, bloodless flesh becomes rosy, gashes close, and broken bones knit instantly with a rush of magical healing. Flush with renewed vigor, the formerly injured Thorin is ready to face the world once more.
+Gyrgum descends from the armory and walks towards Thorin. Gyrgum stands over the dwarf, and then, with a moment’s incantation and a gentle touch, bloodless flesh becomes rosy, gashes close, and broken bones knit instantly with a rush of magical healing. Flush with renewed vigor, the formerly injured Thorin is ready to face the world once more.
 
 
 Daz has recovered from the disastrous opening gambit and remembers how magic missiles work. It’s not one dart, but three darts. 
@@ -777,7 +777,7 @@ The fellow escapees armed with hand crossbows fire at Imbros, who is struck thre
 Imbros is still standing. 
 
 
-Grygum points his finger at Imbros, and the dolorous sound of a bell fills the room. Imbros, for a moment, feels the necrotic power consume him but rejects the spell’s powers. 
+Gyrgum points his finger at Imbros, and the dolorous sound of a bell fills the room. Imbros, for a moment, feels the necrotic power consume him but rejects the spell’s powers. 
 
 
 Daz strikes with three more magic missiles. Imbros looks battered and barely alive, but he is still snarling. 
@@ -789,13 +789,13 @@ And an injured Drow is still a deadly Drow. Prince Derendil’s journey ends wit
 Sarith suddenly goes mad. He is about to start screaming at the top of his lungs. For some reason, this death affected him deeply. 
 
 
-Grygum notices and reaches into Sarith’s mind to tell Sarith to focus on his spirituality and how much better things will be if he chooses to focus his rage on the divine rather than on the material. 
+Gyrgum notices and reaches into Sarith’s mind to tell Sarith to focus on his spirituality and how much better things will be if he chooses to focus his rage on the divine rather than on the material. 
 
 
 Sarith is confused and calmed. 
 
 
-Grygum smiles. The lessons of his cult have served him well.
+Gyrgum smiles. The lessons of his cult have served him well.
 
 
 And Sarith smiles, too, when his sword cuts Imbros down. 
@@ -815,7 +815,7 @@ Zalthir shows no sentimentality and quickly scours the bodies for any weapons. T
 Sarith arms himself with studded leather armor, picks up a shield, and places one of the hand crossbows in a strap on the armor. Equipped with the Drow weapons, he looks every part of the warrior caste of the Cult of Lolth. 
 
 
-Grygum finds some poisoned hand crossbow bolts and a vial of what Sarith explains is Drow poison. He hooks them into a loop on his armor. 
+Gyrgum finds some poisoned hand crossbow bolts and a vial of what Sarith explains is Drow poison. He hooks them into a loop on his armor. 
 
 
 Daz stares mournfully at the armor and mutters, “I will not be wearing armor.” 
@@ -845,7 +845,7 @@ Zalthir stares, “How?”
 Thorin looks at his Drow weapons and decides that leaving everything behind is good. A good, fresh start. He shouts, “Nah, let’s take advantage of the distraction.”
 
 
-Grygum agrees. He remembers when some Giants’ prisoners tried to steal goods from them instead of escaping, and the prisoners made a good meal. 
+Gyrgum agrees. He remembers when some Giants’ prisoners tried to steal goods from them instead of escaping, and the prisoners made a good meal. 
 ![image]()
 Topsy and Turvy sigh and then transform into rats. 
 
@@ -865,10 +865,10 @@ With that, the prisoners decided that escaping now was the best option. So they 
 Although aware of a gray ooze, the creature is invisible until it strikes. And strikes it does, landing a pseudopod with a crushing blow on Thorin. 
 
 
-Above, the demons are fighting amongst themselves and the Drow. On the cavern floor, Grygum takes stock of the options. To the north is Menzoberranzan, a city full of Drow Cultists. Going south to Blingdenstone would require going through the pitched battle between Drow and Demons. He sees Topsy and Turvy transform back into gnomes and head down the passage that leads to the Darklake. 
+Above, the demons are fighting amongst themselves and the Drow. On the cavern floor, Gyrgum takes stock of the options. To the north is Menzoberranzan, a city full of Drow Cultists. Going south to Blingdenstone would require going through the pitched battle between Drow and Demons. He sees Topsy and Turvy transform back into gnomes and head down the passage that leads to the Darklake. 
 
 
-Grygum silently shares his thoughts with his friends and the other prisoners. They all agree, disengage from the ooze, and run towards the tunnel to the Darklake. 
+Gyrgum silently shares his thoughts with his friends and the other prisoners. They all agree, disengage from the ooze, and run towards the tunnel to the Darklake. 
 
 
 Even Thorin, tempted to smash the creature with his sword, decides it’s not worth it and rushes off. 
@@ -935,13 +935,13 @@ There is a moment of silence, and then they all agree.
 The group begins the long march through the darkness after the long rest. The tunnels alternate between pitch-pure darkness or lit with the surreal magic of the *Faerzress (*Fay-YERR-zess).
 
 
-As Grygum marched, he took note of his new friend. When he woke up, Stool, whom they had met as a fellow prisoner in Velkynvelve, was curled against him. When the orc tried to push him away, the myconid cried. 
+As Gyrgum marched, he took note of his new friend. When he woke up, Stool, whom they had met as a fellow prisoner in Velkynvelve, was curled against him. When the orc tried to push him away, the myconid cried. 
 
 
-Stool explained that he was lonely, scared, and terrified. He remembered Grygum's inspirational speech yesterday and knew Grygum would bring him home. He knew he wanted to be Grygum’s best friend. 
+Stool explained that he was lonely, scared, and terrified. He remembered Gyrgum's inspirational speech yesterday and knew Gyrgum would bring him home. He knew he wanted to be Gyrgum’s best friend. 
 
 
-Grygum stared at the creature. Although its behavior was different, he could tell when a child was looking for an adult figure to protect it. He sighed and told the creature that they could be friends. When stool extended his hand, Grygum took it. And so they marched. 
+Gyrgum stared at the creature. Although its behavior was different, he could tell when a child was looking for an adult figure to protect it. He sighed and told the creature that they could be friends. When stool extended his hand, Gyrgum took it. And so they marched. 
 
 
 But it wasn’t only altruism. Having a myconid would allow the group to surprise enemies using the telepathic powers Stool imbued his allies with. 
@@ -995,29 +995,29 @@ Buppido looks at him, funny.
 Once they have eaten, the group continues their journey into the dark. They arrive at a large cavern, and as they stretch their arms, a tremor can be felt. And then, before anyone can react, rocks fall. 
 
 
-Once the dust has settled, Zalthir looks around. Topsy, Buppido, Jimjar, Eldeth, Grygum, and Shuushar are trapped under the rocks. Grygum shouts that he’s fine, but Daz is silent.  
+Once the dust has settled, Zalthir looks around. Topsy, Buppido, Jimjar, Eldeth, Gyrgum, and Shuushar are trapped under the rocks. Gyrgum shouts that he’s fine, but Daz is silent.  
 
 
 Zalthir examines the mage and concludes that he’s unconscious. And will die if he doesn’t get him out in time. 
 # Chapter 05 Pursuit
 
 
-Zalthir notices that Sarith is not under the rocks and thinks, “We have not lost the guide.” He sees Thorin reach for Grygum and thinks, “We need the healer.” 
+Zalthir notices that Sarith is not under the rocks and thinks, “We have not lost the guide.” He sees Thorin reach for Gyrgum and thinks, “We need the healer.” 
 
 
 He looks at Daz, “If I don’t get him  out of there, he will die.” He braces against some rocks and shoves them out of the way. Daz is injured and unconcious but alive.
 
 
-Stool is relieved to see that Grygum is alive. Grygum tells the frightened Myconid child, “Go help Shuushar.” 
+Stool is relieved to see that Gyrgum is alive. Gyrgum tells the frightened Myconid child, “Go help Shuushar.” 
 
 
 And Buppido shouts, “The divine plan said you would rescue me, Sarith!” 
 
 
-In the darkness, something shifts, legs clicking. Zalthir sees the bulbous shape of a massive, ghastly insect leaving behind a meal of exhumed remains. The thing clicks its mandibles, feather-like feelers probing the darkness for its next meal. It screeches, and the smell of rot and loam overwhelms him. Before the centipede-like creature wraps its entire, staggering length around him, he breathes fire and runs behind Thorin and Grygum. 
+In the darkness, something shifts, legs clicking. Zalthir sees the bulbous shape of a massive, ghastly insect leaving behind a meal of exhumed remains. The thing clicks its mandibles, feather-like feelers probing the darkness for its next meal. It screeches, and the smell of rot and loam overwhelms him. Before the centipede-like creature wraps its entire, staggering length around him, he breathes fire and runs behind Thorin and Gyrgum. 
 
 
-So, the creature wraps its tentacle around Grygum, knocking him out. 
+So, the creature wraps its tentacle around Gyrgum, knocking him out. 
 
 
 Sarith, Buppido, Topsy, Turvy, and Sarith shoot the creature with hand-held crossbows. The bolts land on the beast, which, in its attempt to avoid gEttin g hurt, exposes its soft, fleshy parts to more bolts. 
@@ -1035,7 +1035,7 @@ Thorin shouts to the twins, “Save Eldeth and Jimjar.”
 Buppido and Sarith kill the creature with their bolts. And then Sarith shouts, “Rations!” 
 
 
-Zalthir wakes up Daz and Grygum. When Daz hears about Thorin’s decision, he mutters, “Good decision. Maybe, just maybe, our traveling companions will see our actions and choose to help.” 
+Zalthir wakes up Daz and Gyrgum. When Daz hears about Thorin’s decision, he mutters, “Good decision. Maybe, just maybe, our traveling companions will see our actions and choose to help.” 
 
 
 An hour later,  Daz tells Zalthir, “Did you notice that?” 
@@ -1062,7 +1062,7 @@ Stool jumps on and releases his rapport spores. A few moments later, he asks eve
 Zalthir dashes off ahead, using his monk training to speed ahead. As he runs, he looks for anything to use as a weapon or a hiding spot. He sees a tunnel and chooses the one veering left. As his lungs burn, he’s about to give up when he notices a space behind some stalagmites that they could hide behind. Using the mind link created by Stool, he lets the group know. 
 
 
-Thorin, Daz,  Grygum, and the remaining prisoners run to the hiding space. 
+Thorin, Daz,  Gyrgum, and the remaining prisoners run to the hiding space. 
 
 
 Meanwhile, the pursuing Drow, hearing the running, start sprinting and, in their haste, barely avoid a sudden drop in the cave tunnels.
@@ -1071,7 +1071,7 @@ Meanwhile, the pursuing Drow, hearing the running, start sprinting and, in their
 Soon, the Drow scouts arrive at the stalagmites. They hear a large thump. Zalthir has fallen from his hiding place. Nym draws his weapon. He looks around. Then, he feels a tremor. Worried that this cave will collapse and seeing no evidence of the prisoners, he turns to leave. As they leave, Nym mutters, “I told you it was the other tunnel.” 
 
 
-What Nym didn’t know was that Grygum’s Thaumaturgy was the source of the tremor. 
+What Nym didn’t know was that Gyrgum’s Thaumaturgy was the source of the tremor. 
 
 
 Sathir whispers in their skulls, “Ilvara has found us and, worse, has caught up with us. We must put some distance between us and them. Or we can keep going slowly and have someone cover our trail.” 
@@ -1080,13 +1080,13 @@ Sathir whispers in their skulls, “Ilvara has found us and, worse, has caught u
 The dwarf whispers, “I was taught to cover our tracks in the Underdark.” 
 
 
-Grygum asks, “Where are the drow? Are they ahead of us? Behind us?” 
+Gyrgum asks, “Where are the drow? Are they ahead of us? Behind us?” 
 
 
 Sarith mutters, “Overbriters that cannot fly are the easiest prey in the Underdark.” He then explains, “The Underdark is not flat. And the tunnels don’t move in a straight line. They twist, and they turn. Worse, the tunnel system is constantly changing. And so an enemy can appear far away, only to appear in front of you. What’s important is that we move. And we hope no tunnel gives them a shortcut to find us.” 
 
 
-Grygum thinks, “Like a Maze?” 
+Gyrgum thinks, “Like a Maze?” 
 
 
 The Drow soldier nods.
@@ -1104,10 +1104,10 @@ As they run through the Underdark, they rush through a cave with plenty of *Faer
 Jim Jar mutters, “That’s what happens with Kuo-Toans, who think they aren’t mad. They are insane, but their madness seems reasonable. The *Faerzress* has never affected a living thing. Its only magical power is to prevent teleportation spells.”
 
 
-Sathir mutters about the need to find a path through the cave to the next tunnel and is about to give up when Grygum shouts, “Is this what you are looking for?”
+Sathir mutters about the need to find a path through the cave to the next tunnel and is about to give up when Gyrgum shouts, “Is this what you are looking for?”
 
 
-Sathir mutters, “Yes, I saw that.” He looks annoyed, “I didn’t need your help. But it’s good that you can help.” And then rushes down towards the tunnel that Grygum saw. 
+Sathir mutters, “Yes, I saw that.” He looks annoyed, “I didn’t need your help. But it’s good that you can help.” And then rushes down towards the tunnel that Gyrgum saw. 
 
 
 As the day ends, Sathir explains, “We did well to put some distance. But we have no water. And if we don’t find some soon, things will get unpleasant. Tomorrow, we must go slow. Eldeth, it’s up to you to hide us.” 
@@ -1134,7 +1134,7 @@ Fortunately, the escapees find both in the form of a few Barrelstalk mushrooms. 
 Eldeth covers the rear as they travel, trying to obscure any evidence of their travels. Buppido seems particularly interested in her tricks. 
 
 
-Daz, Grygum, Thorin, and Zalthir try to help the dwarf. Eldeth tries not to be annoyed at all of the help. 
+Daz, Gyrgum, Thorin, and Zalthir try to help the dwarf. Eldeth tries not to be annoyed at all of the help. 
 
 
 As the day progresses, they arrive at a narrow passageway lined with bioluminescent green moss. This moss grows in warm and damp areas and is particularly common near steam tunnels and vents. 
@@ -1203,7 +1203,7 @@ Sensing this could get violent, Daz steps in, “It’s my understanding that Za
 Jimjar is stunned, “I’m so sorry. I didn’t know.” 
 
 
-But then Grygum steps forward, “I’ll make that bet.” 
+But then Gyrgum steps forward, “I’ll make that bet.” 
 
 
 Jimjar gets to work and, a little bit later, announces, “You won the bet.” 
@@ -1218,7 +1218,7 @@ Jimjar gets to work and, a little bit later, announces, “You won the bet.”
 Zalthir is baffled and intrigued, “He bet against himself even though he knew the odds of winning that bet were terrible. His willingness to make these bad bets implies he will make further bad bets going forward.” 
 
 
-Grygum turns to Zalthir, “Interesting.” 
+Gyrgum turns to Zalthir, “Interesting.” 
 Zalthir tries to test his theory, “I’ll bet you can’t fly to the roof of this cavern?” 
 
 
@@ -1243,7 +1243,7 @@ And so they do, deeper into the Underdark, hopefully heading to Sloobludop.
 After an hour of marching, Thorin finds a pool of water. Daz immediately starts creating blocks of water for the group. When all the blocks are made, there is no more water. 
 
 
-A little bit later, Grygum finds some more Trillimac. Jimjar, a botanist, explains it is a mushroom that grows to a height of four to five feet and has a broad gray-green cap and a light gray stalk. The cap’s leathery surface can be cut and cleaned for use in making maps, hats, and scrolls (its surface takes on dyes and inks well). The stalk can be cleaned, soaked in water for an hour, then dried to make a palatable food akin to bread. 
+A little bit later, Gyrgum finds some more Trillimac. Jimjar, a botanist, explains it is a mushroom that grows to a height of four to five feet and has a broad gray-green cap and a light gray stalk. The cap’s leathery surface can be cut and cleaned for use in making maps, hats, and scrolls (its surface takes on dyes and inks well). The stalk can be cleaned, soaked in water for an hour, then dried to make a palatable food akin to bread. 
 
 
 “That one will be worth 6 pounds of food.” 
@@ -1258,7 +1258,7 @@ A little bit later, Grygum finds some more Trillimac. Jimjar, a botanist, explai
 Zalthir glares at him. 
 
 
-The rest of the crew cannot find any more of the mushroom. Eldeth shouts at Grygum, “Will you look?”
+The rest of the crew cannot find any more of the mushroom. Eldeth shouts at Gyrgum, “Will you look?”
 
 
 The half-orc interrupts his reverie and looks around. He shouts, “There!” 
@@ -1327,19 +1327,19 @@ Jimjar then turns to the two goblins, “I’ll bet you 20 gold you can’t navi
 “Done!” 
 
 
-As they head to the web, Grygum realizes that the Jimjar doesn’t have 20 gold. He wonders whether to say anything to the goblins and realizes that Jimjar will pay when he has money. “And they are goblins; we could easily deal with them if it comes to that,” he thinks. 
+As they head to the web, Gyrgum realizes that the Jimjar doesn’t have 20 gold. He wonders whether to say anything to the goblins and realizes that Jimjar will pay when he has money. “And they are goblins; we could easily deal with them if it comes to that,” he thinks. 
 
 
 Thorin observes them coat their shoes with a peculiar substance and start running. 
 
 
-Grygum stares at them, slides on the strands, and mutters, “They are good at surfing the web.” 
+Gyrgum stares at them, slides on the strands, and mutters, “They are good at surfing the web.” 
 
 
 Daz nods, “It’s almost as if we are on a Safari that surfs the web.” 
 
 
-Grygum asks Jimjar, “Do they know which side of the bet they made?” 
+Gyrgum asks Jimjar, “Do they know which side of the bet they made?” 
 
 
 He looks at the cleric and, with a twinkle in his eye, says, “No.” 
@@ -1366,10 +1366,10 @@ And with the deal closed, the stiff, formal nature of the two goblins dissolves.
 Topsy stares at him, confused. 
 
 
-Grygum, always excited with new forms of speech, shouts, “That was an amazing triple spin!” 
+Gyrgum, always excited with new forms of speech, shouts, “That was an amazing triple spin!” 
 
 
-Spiderbait, seeing Grygum’s interest, mutters, “Yuk Yuk took the easy route. I went around the spider and through its legs.”
+Spiderbait, seeing Gyrgum’s interest, mutters, “Yuk Yuk took the easy route. I went around the spider and through its legs.”
 
 
 Zalthir takes note of the spider and asks, “Spiders?” 
@@ -1450,20 +1450,20 @@ After an hour of walking, Daz notices a cocoon. Zalthir notices it is moving and
 Stool is very excited, “I’m helpful, aren’t I? I love being helpful.” 
 
 
-Grygum turns to him and smiles, “And we love you for it.” 
+Gyrgum turns to him and smiles, “And we love you for it.” 
 
 
 “Are you going to come with me?” 
 
 
-Grygum smiles at Stool and says, “Yes, I will. Now let’s go together.” 
+Gyrgum smiles at Stool and says, “Yes, I will. Now let’s go together.” 
 
 
-So Stool and Grygum advance on the cocoon, and then they hear the voice of a still living halfling in their heads. “I am Fargas Rumblefoot.” The voice turns demanding, “Can you please get me out of here?” 
+So Stool and Gyrgum advance on the cocoon, and then they hear the voice of a still living halfling in their heads. “I am Fargas Rumblefoot.” The voice turns demanding, “Can you please get me out of here?” 
 
 
-Grygum is about to cut through the cocoon when Thorin says, “Perhaps we should have him tell us who he is?” 
-Grygum stops, “He can't be evil with a name like that. But you’re right.” 
+Gyrgum is about to cut through the cocoon when Thorin says, “Perhaps we should have him tell us who he is?” 
+Gyrgum stops, “He can't be evil with a name like that. But you’re right.” 
 
 
 “I was a member of an adventuring band looking for a lost tomb. Gnolls attacked us.” 
@@ -1511,7 +1511,7 @@ Zalthir turns to Thorin, “Can you carry him, or will we need to spend minutes 
 Thorin takes his blade, saying, “I can cut him loose in a few seconds.” 
 
 
-Grygum, Zalthir, Daz, and Thorin take a look around. Spiders are walking on strands. Those strands can be cut with fire or a blade. They can stop the spiders and escape if they cut the strands in the right places. They will get trapped if they cut the strands in the wrong place. 
+Gyrgum, Zalthir, Daz, and Thorin take a look around. Spiders are walking on strands. Those strands can be cut with fire or a blade. They can stop the spiders and escape if they cut the strands in the right places. They will get trapped if they cut the strands in the wrong place. 
 
 
 They remember this as a game from their childhood called ‘Cut the Graph.” 
@@ -1551,13 +1551,13 @@ Zalthir then turns to the halfing, “About the treasure?”
 Fargas Rumblefoot is tempted to deny what he said, but the look on Zalthir’s face dissuades him. 
 
 
-Furthermore, Grygum pulls out a scrap of paper, says, “I took notes while you were talking,” and then repeats what Fargas said. 
+Furthermore, Gyrgum pulls out a scrap of paper, says, “I took notes while you were talking,” and then repeats what Fargas said. 
 
 
 The halfling adventurer sighs, “I suppose I should keep my end of the bargain.” He sits down, picks some spiderweb still in his hair and his equipment, and begins - “In ages past, at the height of Faerûn’s great empires of magic, the half-elf sorcerer Brysis of Khaem was interred in a floating tomb. After the fall of the empire of Netheril and its flying cities, Brysis’s tomb plummeted into a crevasse and wound up in the Underdark, where it has remained for centuries.”  
 
 
-Grygum looks up from his notes, “And it’s full of treasure?” 
+Gyrgum looks up from his notes, “And it’s full of treasure?” 
 
 
 Thorin asks, “Is it full of Bris?” 
@@ -1581,7 +1581,7 @@ Zalthir turns to his fellow escapees - “It is interesting that he said he knew
 The monk realizes that Fargas’ claims were either made out of desperation or bravado, but he is uncertain if Farga is lying now. 
 
 
-Grygum looks at Fargas, takes a measure of how the halfling speaks, and declares, “Fargas wasn’t -lying- and he isn’t lying.” 
+Gyrgum looks at Fargas, takes a measure of how the halfling speaks, and declares, “Fargas wasn’t -lying- and he isn’t lying.” 
 
 
 Zalthir then walks up to Fargas and touches his belly. The halfling is very miffed. “What was that about?” 
@@ -1603,7 +1603,7 @@ Sarith sighs, “Probably best if I draw a map.” He uses the Ormu that Zalthir
 “We started in Velkynvelve. We have been heading towards Sloobludop. We are at the Silken Paths. The Darklake is a large body of water. Unlike the overbrite, it doesn’t have a surface in the conventional sense. It’s a large water balloon in the Underdark, where intersecting caverns, caves, and tunnels allow navigation. After we get to Sloobludop, Buppido says we should go to Gracklstugh. Gracklstugh is a large Derro city. I agree with him. That’s where we can get weapons and gear. The tomb is on the way.” 
 
 
-“How many days are we from Sloobludop?” asks Grygum. 
+“How many days are we from Sloobludop?” asks Gyrgum. 
 
 
 Sethir answers, “Three days.” 
@@ -1625,7 +1625,7 @@ A few hours later, as they walk along a strand of web far removed from other str
 It reaches out with its mind and starts talking - “I bring warnings!” 
 
 
-Grygum, always friendly, asks, “What warning?” 
+Gyrgum, always friendly, asks, “What warning?” 
 
 
 “I have escaped from my imprisonment to a long-dead drow wizard.” 
@@ -1634,13 +1634,13 @@ Grygum, always friendly, asks, “What warning?”
 Zalthir adds, “Us too.” 
 
 
-The large eye and one eye stalk focus on Zalthir, and the other three eyestalks focus on Grygum, Thorin, and Daz. 
+The large eye and one eye stalk focus on Zalthir, and the other three eyestalks focus on Gyrgum, Thorin, and Daz. 
 
 
 “I bring warnings of Demons,” it broadcasts. 
 
 
-“Where and what kind of demons?” asks Grygum 
+“Where and what kind of demons?” asks Gyrgum 
 
 
 “Why do you want to know?” It pauses and then stares at Zalthir, “Maybe you are a demon! Maybe you weren’t prisoners of the Drow but worked for the Drow. Maybe that Drow is your master!” 
@@ -1652,7 +1652,7 @@ Two eyestalks now stare at Daz.
 Zalthir reaches out through the mind network of the myconid and wonders who can try to convince this creature of its benign intent. 
 
 
-Grygum says, “Jimjar, I’ll make a bet you can’t convince him that we are not demons and not enemies.” 
+Gyrgum says, “Jimjar, I’ll make a bet you can’t convince him that we are not demons and not enemies.” 
 
 
 Jimjar takes the bet and fails. 
@@ -1670,7 +1670,7 @@ Daz strikes with magic missiles.
 Zalthir runs towards Thorin, who is blocking his approach to the creature. He looks at the strand and realizes he can go under it by holding onto the spider webs. While hanging on the spiderweb, he attempts to strike the creature. Unfortunately, the effort to hold on and attack is too much, and he misses. 
 
 
-Grygum mutters to himself, “I need better-ranged spells.” He then takes his handheld crossbow and fires at the creature. 
+Gyrgum mutters to himself, “I need better-ranged spells.” He then takes his handheld crossbow and fires at the creature. 
 
 
 One of the eyestalks, meanwhile, emits an eerie green ray, and Zalthir is now paralyzed. 
@@ -1762,13 +1762,13 @@ But it is Thorin who suddenly loses it abruptly. He starts screaming, laughing, 
 Shuushar the Awakened sees Thorin’s bout of madness and remarks that perhaps in Sloobludop, the archpriest Ploopploopeen can help. “Ploopploopeen is a follower of the Sea Mother, and she will be most welcoming of my awakening to the end of our people’s madness.” 
 
 
-Grygum hears the name of the archpriest and mutters, “That’s quite a bit of tongue twister.” 
+Gyrgum hears the name of the archpriest and mutters, “That’s quite a bit of tongue twister.” 
 
 
 Shuushar is confused - “It isn’t. It’s pretty simple to say. Ploopploopeen, Ploopploopeen, Ploopploopeen!” 
 
 
-Grygum raises an eyebrow and is about to speak, but the tunnels turn left, and he finds himself in a massive cavern with what appears to be a bottomless gorge. 
+Gyrgum raises an eyebrow and is about to speak, but the tunnels turn left, and he finds himself in a massive cavern with what appears to be a bottomless gorge. 
 
 
 Zalthir mutters, “If only I could fly, I could get across. But I don’t, and there is no way to climb across it.” 
@@ -1783,7 +1783,7 @@ Zalthir looks up and suddenly realizes he’s in a cave with a ceiling that allo
 Thorin volunteers. 
 
 
-As Thorin is about to start his climb, Grygum asks Jimjar - “Wanna make a bet?”
+As Thorin is about to start his climb, Gyrgum asks Jimjar - “Wanna make a bet?”
 
 
 Jimjar smiles, “That’s the spirit. He makes it, or doesn’t it?” 
@@ -1879,7 +1879,7 @@ A group of bandits arrive under the flag of truce, offering information about ho
 The bandit leader explains, “We were exploring a dungeon and made one too many wrong turns, ending up deeper into the ground than we wanted to.” 
 
 
-Grygum, Eldeth, and Zalthir realize that the story is a fabrication and that the details are not that important. 
+Gyrgum, Eldeth, and Zalthir realize that the story is a fabrication and that the details are not that important. 
 
 
 He offers the information for food. The deal is agreed upon, and he shares with him that the best chance of escape is through the town of Blingdenstone. 
@@ -1893,7 +1893,7 @@ Shuushar says he has no interest in traveling past Sloobludop but may be willing
 The debate continues, but eventually, everyone tires of it and falls asleep. 
 
 
-Grygum, enjoying the taste of toasted Ripplebark, asks Jimjar, “Wanna bet that we’ll find monsters in the tomb?” 
+Gyrgum, enjoying the taste of toasted Ripplebark, asks Jimjar, “Wanna bet that we’ll find monsters in the tomb?” 
 
 
 Jimjar mutters, “It’s a lost tomb; of course, we will; the better question is -what kind of monsters-.” 
@@ -1926,14 +1926,14 @@ The group wakes up to the sounds of screaming.
 Spiderbait is staring at the ground at his friend Yuk Yuk. The rest of the group examines the ground, and there is the corpse of Yuk Yuk, his throat cut with a blade. 
 
 
-Grygum examines the cut and notes, “It’s a shortsword. Any one of us could have done it.” 
+Gyrgum examines the cut and notes, “It’s a shortsword. Any one of us could have done it.” 
 
 
 # Chapter 09 Buppido is uncovered! 
 ### 1st day of the 3rd Tenday of Taraskh 1493
 
 
-Grygum mutters, “I am so upset that the person I have known for a day is dead!” 
+Gyrgum mutters, “I am so upset that the person I have known for a day is dead!” 
 
 
 Spiderbait screams at Jimjar, “Give me money. I am leaving now!” 
@@ -1951,7 +1951,7 @@ Zalthir, whose pleasant dream about what Monks dream about was interrupted, look
 Shuushar whispers, “No. Yuk Yuk was murdered, and Spiderbait is very upset.” 
 
 
-Grygum looks around and says, “Well, we have no other option but to continue and be alert.” 
+Gyrgum looks around and says, “Well, we have no other option but to continue and be alert.” 
 
 
 But Daz, who finds mysteries to be interesting, thinks otherwise. “I want to figure out what happened.”
@@ -1974,11 +1974,11 @@ First, he questions Spiderbait.
 Then Spiderbait glares, “I’ll tell you who I think it is - Shuushar. Kuo-toan’s go mad. And when they go mad, they snap, and then they kill people!” 
 
 
-Daz turns to Zalthir, Grygum, and Thorin - “What do we know? Buppido always talks about the divine plan. Sethir seems a bit off. Topsy and Turvy are lycanthropes. Jimjar makes bets all the time. Eldeth is trying to keep it together and make sure we all arrive in one piece. And Shuushar claims to have figured out the cure to Kuo-toan insanity.” 
+Daz turns to Zalthir, Gyrgum, and Thorin - “What do we know? Buppido always talks about the divine plan. Sethir seems a bit off. Topsy and Turvy are lycanthropes. Jimjar makes bets all the time. Eldeth is trying to keep it together and make sure we all arrive in one piece. And Shuushar claims to have figured out the cure to Kuo-toan insanity.” 
 
 
 Just then, Shuushar approaches them and says, “ I propose we head to Sloobludop, where we can meet the arch-cleric of the Seamother, who can cast the zone of truth, and we can learn what happened.”
-Grygum mutters, “That’s the easy way out. Let’s do it the hard way by applying intelligence, deduction, insight, and perception.” 
+Gyrgum mutters, “That’s the easy way out. Let’s do it the hard way by applying intelligence, deduction, insight, and perception.” 
 
 
 Daz shrugs, “I guess I could ask Buppido.” 
@@ -2017,7 +2017,7 @@ Daz is fed up, so he casts a mind-sliver on the derro, stares him in the eye, an
 “Ouch!! That hurt. It wasn’t me! It was the agent of the divine plan.” 
 
 
-Grygum looks at him and says, “That’s what they all say.” 
+Gyrgum looks at him and says, “That’s what they all say.” 
 
 
 “It’s not my fault,” Buppido whimpers. 
@@ -2096,7 +2096,7 @@ Just then, his interlocutor casts a spell, and suddenly, not only is their langu
 “This is Ploopploopeen, archpriest of the Seamother.” 
 
 
-Grygum finds the name very funny and tries not to laugh out loud.  
+Gyrgum finds the name very funny and tries not to laugh out loud.  
 
 
 The archpriest is excited and says, “The Seamother has answered my prayers!” 
@@ -2126,7 +2126,7 @@ Zalthir looks at her, unimpressed.
 The archpriest of the Sea Mother explains he wants to use them as bait. The archpriest of the Deep Father needs humanoid sacrifices, and the party represents a prize collection in that regard. Ploopploopeen will offer them as a “token of peace and reconciliation” to get closer to the archpriest of the Deep Father — except the adventurers will not be helpless prisoners but infiltrators. Ploopploopeen wants them to disrupt the upstart faction’s rituals, allowing his true believers of the Sea Mother to cut off the head of the cult. The archpriest promises that the characters will be “well rewarded” for their aid.
 
 
-Grygum mutters, “Oh great, pit one weird religion against another!” 
+Gyrgum mutters, “Oh great, pit one weird religion against another!” 
 
 
 Ploopploopeen is offended. “The Seamother is not a weird religion. It is the traditional faith of the Kuo-toans! It is Leemooggoogoon the Deep Father that is the real evil!” 
@@ -2153,7 +2153,7 @@ Shuushar continues to drone on but thankfully walks away.
 Zalthir shouts to the archpriest, “You said reward?” 
 
 
-Grygum adds, “I am all about the spiritual stuff, but the temporal have needs too.” 
+Gyrgum adds, “I am all about the spiritual stuff, but the temporal have needs too.” 
 
 
 The archpriest promises 500 gold and two potions of healing. But she sees how they are unimpressed, “Two boats and guides to navigate the Darklake?” 
@@ -2184,19 +2184,19 @@ Ploopploopeen realizes that the Tongues spell didn’t translate his intent as w
 “No, this is wrong. You will arrive in Sloobludop and stay in my quarters. I will send message to the followers of Leemooggoogoon that I have an offering for him. In the morning, my daughter, Bloppblippodd, the high priestess of the Deep Father, will demand to see the offering. I will present you to her, and I will insist that I come with you. She will accept. And then all of my followers will attack. Your role in this will be over.” 
 
 
-Grygum finally understands, “This is like a flag of parley. Have you considered a white flag?” 
+Gyrgum finally understands, “This is like a flag of parley. Have you considered a white flag?” 
 
 
 “I tried that, but she didn’t bite. She needs sacrifices for her false god.”
 
 
-Grygum tries to probe if the sacrifice must be willing. 
+Gyrgum tries to probe if the sacrifice must be willing. 
 
 
 “I am not certain how your rituals work, but in the rituals of Leemooggoogoon, the sacrifice is essential, not the provenance.” 
 
 
-Grygum nods, “Yes, our rituals are different.” 
+Gyrgum nods, “Yes, our rituals are different.” 
 
 
 Thorin probes, “But willing sacrifices are sweeter?” 
@@ -2205,7 +2205,7 @@ Thorin probes, “But willing sacrifices are sweeter?”
 “No. An unwilling sacrifice is better. This is an evil god.” 
 
 
-Grygum looks at Ploopploopeen and wonders what he has heard. He and his daughter have problems with their relationship, and it’s also unclear if a god named Leemooggoogoon even exists. 
+Gyrgum looks at Ploopploopeen and wonders what he has heard. He and his daughter have problems with their relationship, and it’s also unclear if a god named Leemooggoogoon even exists. 
 
 
 Topsy and Turvy, on the other hand, realize that a free-for-all is an excellent opportunity to steal. 
@@ -2244,10 +2244,10 @@ Ploop stops in front of the sizeable nine-foot-tall statue. The statue is roughl
 Four stern kuo-toa slowly circle the statue, alert and on guard, while a few others move about, gazing up at the statue and bowing repeatedly while chanting.
 
 
-Grygum recalls from somewhere that the Deep Sea Mother is a scavenger goddess and that regurgitating and spitting on her altar is perhaps the perfect form of offering. 
+Gyrgum recalls from somewhere that the Deep Sea Mother is a scavenger goddess and that regurgitating and spitting on her altar is perhaps the perfect form of offering. 
 
 
-Ploop is delighted when Grygum and Thorin both spit on the altar. 
+Ploop is delighted when Gyrgum and Thorin both spit on the altar. 
 
 
 Meanwhile, Daz, overcome by the rank smell, has his hand over his mouth and tries to rub the smell out of his nose with his thumb. Ploop looks at him, and he smiles weakly as he pretends his nose is itchy. 
@@ -2334,9 +2334,9 @@ Just then Thorin notices a duergar. He looks at the creature. And then remembers
 From the shadowed depths of the earth, where light fears to tread, crawl the duergar or deep dwarves, a grim reflection of their mountain kin. No warmth graces their granite hearts, and no laughter echoes in their echoing halls. Instead, a gnawing hunger, bottomless greed, drives their every deed. Gold, not glory, fuels their forges, and the clang of hammer on steel is a dirge, not a song. They are masters of the craft, yet beauty withers beneath their touch, replaced by cold, utilitarian perfection. Each creation is a testament not to artistry but to acquisition, a step on the endless climb to hoard more than their brethren.
 Their faces, etched with the lines of ceaseless toil and bitter resentment, rarely soften. Kindness is a forgotten word, and mercy is a weakness they despise. The suffering of others, a twisted reflection of joy, brings a fleeting smile to their lips. They are bound by clan, yet kinship is a hollow word, for trust is a bauble they cast aside long ago. Each duergar toils in their designated role, a cog in the great machine of their subterranean empire, individuality crushed beneath the weight of conformity. They envy those who have more and scorn those who have less, their hearts poisoned by the belief that the world owes them a debt they can never repay. To a duergar, life is a brutal, unending struggle, a journey from the cradle to the grave spent in joyless labor, a hollow echo of the dwarven spirit. Even the treasures they amass bring no satisfaction, only the gnawing need for more, a hunger that can never be sated. They are the gray dwarves, and their existence is a testament to the darkness that can fester in the heart of even the most steadfast race.
 “Please help me. Do something.” 
-Grygum answers, “We were told we would have to do nothing.” 
-The duergar looks at Grygum, surprised yet somehow comforted. His desire to live overcomes his innate cultural cynicism. “What? You are just going to show up here and die?” 
-Grygum realizes that this creature doesn’t know the plan and recognizes that this may be an opportunity to take advantage of this poor creature, “There’s more than meets the eye.” 
+Gyrgum answers, “We were told we would have to do nothing.” 
+The duergar looks at Gyrgum, surprised yet somehow comforted. His desire to live overcomes his innate cultural cynicism. “What? You are just going to show up here and die?” 
+Gyrgum realizes that this creature doesn’t know the plan and recognizes that this may be an opportunity to take advantage of this poor creature, “There’s more than meets the eye.” 
 The duergar sighs, “Very well. Tell me when to act. And if we get out of here alive, find me in Gracklstugh.” 
 “Your name?” 
 “Hemeth.” He spits out blood. “I am an arms dealer and got caught up in this madness. I promised weapons to the Archpriest of the Deep Father, and she said that my sacrifice would be weapon enough.” 
@@ -2357,11 +2357,11 @@ Buppido mutters, “ahd m.”
 Daz nods. 
 Zalthir observes that the stonework in the depression is marred by the blood of countless sacrifices, accompanied by the gentle sound of the Darklake lapping against the grate. 
 The chanting grows louder.
-Grygum looks around and wonders how the sacrifice is going to be performed. 
+Gyrgum looks around and wonders how the sacrifice is going to be performed. 
 
 
 Thorin mutters, “If this is a fireball.” 
-Grygum concludes, “No, this is going to be one of those conventional slit-their-throats with-knifesacrifices. Normally, the victims would be disarmed, but I guess they figure that part of the ritual is some of the cultists dying in the attempt?” 
+Gyrgum concludes, “No, this is going to be one of those conventional slit-their-throats with-knifesacrifices. Normally, the victims would be disarmed, but I guess they figure that part of the ritual is some of the cultists dying in the attempt?” 
 It’s just then that Thorin realizes that if Ploop and Blopp are working together, they have all the necessary spells to paralyze them. He admits to himself that Ploop might have been playing them, and if so, between the two archpriests, enough hold persons can be cast to hold him indefinitely. 
 As Thorin considers the possibilities, he is brought forward. Bloppblippodd gestures toward the altar and shouts, “Bring me the knife!” 
 Thorin wonders if this is the end.
@@ -2370,15 +2370,15 @@ Thorin wonders if this is the end.
 Ploop has betrayed his daughter, not the escapees, and attacks her along with his allies.
 Thorin looks at the guards who surround them, and they are surprised. 
 And then he looks around and realizes it’s a free-for-all. Kuo-Toans are attacking other Kuo-Toans. And the sacrifices are now ignored. 
-Grygum examines the situation and decides that fleeing is the better part of valor. He also decides it's time to take a side and will go behind Ploop to heal any of his warriors. 
+Gyrgum examines the situation and decides that fleeing is the better part of valor. He also decides it's time to take a side and will go behind Ploop to heal any of his warriors. 
 Daz notices the cleric running and runs after him. Blopp screams at one of the Kuo Toans to stop the escapees from running. Her second in command advances to block one route of escape. 
-Jimjar, Eldeth, Buppido, Spiderbait, Shuushar, Sarith, Topsy, and Turvy take advantage of the confusion of the melee to run towards Grygum. 
+Jimjar, Eldeth, Buppido, Spiderbait, Shuushar, Sarith, Topsy, and Turvy take advantage of the confusion of the melee to run towards Gyrgum. 
 Jimjar mutters, “We all made it alive.” 
-Grygum looks at him and thinks, “It would be cheating to let one of us die. Would he cheat?” 
+Gyrgum looks at him and thinks, “It would be cheating to let one of us die. Would he cheat?” 
 Zalthir, Daz, and Thorin arrive, where all the escapees are huddled. The Kuo Toans engaged in the melee ignore them. 
 
 
-Grygum looks around and notices docks and boats attached to them. He also notices Kuo-Toans fishing in the water beside the docks. Finally, he observes Kuo-Toan monitors standing on the docks, seemingly guarding the boats. 
+Gyrgum looks around and notices docks and boats attached to them. He also notices Kuo-Toans fishing in the water beside the docks. Finally, he observes Kuo-Toan monitors standing on the docks, seemingly guarding the boats. 
 
 
 He points to a boat in the far eastern part of the cave, guarded by a small group of isolated Kuo-Toans. 
@@ -2387,16 +2387,16 @@ He points to a boat in the far eastern part of the cave, guarded by a small grou
 Daz shouts, “We should check to see if we can find any supplies anywhere.” 
 
 
-Grygum nods, “Let’s see if there is anything we can take from Ploop. After all he promised to pay us.” 
+Gyrgum nods, “Let’s see if there is anything we can take from Ploop. After all he promised to pay us.” 
 He runs into Ploop’s thatched hut. Once there, he pilfers whatever treasure he can find. Daz had suggested they try and find supplies, but gold and magic would have to do. 
 
 
 The battle continues to rage, with Blip and Ploop shouting curses at each other and casting spells. The other Kuo-Toans, the followers of the Sea Mother and the followers of the Deep Father, are engaged in a genocidal battle to eliminate the other. 
 Daz observes the madness and walks towards the boat with a confident swagger, looking as if he knows what he is doing and that nobody should mess with him. His chest is puffed up and out, his arms sway, and his stride is big. The other escapees, seeing that, mimic him. They walk towards the boat, away from the battle, with the swagger of righteous, powerful, and dangerous adventurers. 
 Thorin then notices several Kuo-Toans who were previously in the water fishing and are now screaming. It appears that the fish people are trying to fight some underwater enemy. And then, just like that, the screaming stops, and the water foams with blood. The fish people are no longer. He looks around some more and realizes that there are several patches of blood in the dark lake. 
-Grygum, his arms full of treasure, rushes towards the group. Everyone is both pleased and disappointed - “Gold to buy things and nothing to buy?” is how the cleric of Bahamut puts it. But, as his mentor, Gorg’Bahamut, said, “A hoard is always a valuable thing and a blessing from Bahamut.” 
+Gyrgum, his arms full of treasure, rushes towards the group. Everyone is both pleased and disappointed - “Gold to buy things and nothing to buy?” is how the cleric of Bahamut puts it. But, as his mentor, Gorg’Bahamut, said, “A hoard is always a valuable thing and a blessing from Bahamut.” 
 Just then, he hears the young archpriest of the Deep Father call out, “Leemooggoogoon!” just as her father strikes a final, fatal blow. Blopp drops, dead, before the profane altar.
-Grygum thinks for a moment and realizes that the ritual is complete. Usually, when an evil cult completes a cruel ritual, something terrible happens. 
+Gyrgum thinks for a moment and realizes that the ritual is complete. Usually, when an evil cult completes a cruel ritual, something terrible happens. 
 
 
 He pauses and listens. And then thinks, “Yep, evil outcome of evil ritual,” as he hears another sound rise above the burbling cries of the Kuo-toa. He looks out onto the dark lake and notices the water's surface bubbling and beginning to foam. “Not to worry, just water effects,” he prays. And then a thick, oily tentacle bursts forth, followed by another. “I take that back; this is bad.” He stares at the point in the lake as two monstrous heads break the surface, resembling hideous, enraged baboons with wickedly curved tusks. Both heads are attached to a single torso, and the monster’s red eyes blaze with bloodlust and madness. 
@@ -2410,11 +2410,11 @@ In many ways, it’s amazing how the brain will convince you that the thing you 
 Thorin was experiencing that. 
 
 
-But Grygum remembers from his training who and what the entity they were seeing was. He remembers his mentor, Gorg Bahamut, and what he said of the foul creature one evening. 
+But Gyrgum remembers from his training who and what the entity they were seeing was. He remembers his mentor, Gorg Bahamut, and what he said of the foul creature one evening. 
 "Demogorgon.  The very name is a blasphemy against creation, a festering wound upon the fabric of reality.  He is a creature of pure chaos, a monstrous embodiment of the Abyss's insatiable hunger for destruction.  Two heads, each a font of corruption, embody the duality of his vile nature: one whispers insidious lies, tempting the weak to embrace the darkness, while the other roars with primal fury, reveling in carnage and despair.  His form is a grotesque mockery of life, a twisted amalgamation of reptilian savagery and demonic power.  Tentacles replace hands, dripping with the venom of chaos, while his twin necks support heads that mirror the fractured nature of his soul.
 He is the antithesis of all Bahamut stands for: justice, order, and compassion.  Where Bahamut offers protection and guidance, Demogorgon sows discord and ruin.  Where Bahamut inspires hope, Demogorgon revels in despair.  He is a predator of souls, a corrupter of the innocent, and a destroyer of worlds.  He commands legions of demons, each a vile reflection of his depravity, and his influence spreads like a plague across the planes.
 To face Demogorgon is to confront the ultimate darkness, the purest form of evil.  Yet, even in the face of such horror, we, the followers of Bahamut, will not falter.  We will stand against him, armed with faith and righteousness, and we will fight to protect the innocent from his insidious grasp.  For even in the deepest shadows, the light of justice can prevail."
-Grygum thinks now is not the time to delve too deeply into this topic and shouts, “Demogorgon, Prince of Demons, powerful, dangerous, and we need to run.” 
+Gyrgum thinks now is not the time to delve too deeply into this topic and shouts, “Demogorgon, Prince of Demons, powerful, dangerous, and we need to run.” 
 
 
 # Chapter 13 Flight.
@@ -2448,13 +2448,13 @@ But what about his friends and allies?
 Fortunately, the group figures it out. 
 
 
-Jimjar picks up Daz, Thorin grabs Eldeth, Topsy and Turvy are carried by Grygum, and Spiderbait carries Shuushar. 
+Jimjar picks up Daz, Thorin grabs Eldeth, Topsy and Turvy are carried by Gyrgum, and Spiderbait carries Shuushar. 
 
 
 The group arrives at a dock where several Kuotoan monitors stand, guarding. 
 
 
-Grygum advances boldly and tells them that the Archpriest of the Sea Mother commands them to help the rest of their community.
+Gyrgum advances boldly and tells them that the Archpriest of the Sea Mother commands them to help the rest of their community.
 
 
 The Monitors seem relieved to have a purpose and rush off.  
@@ -2478,7 +2478,7 @@ Thorin stares at her, “I am not sure what you think is or is not possible, but
 As the boat floats on the lake, the puzzle pieces all click in Thorin’s head. 
 
 
-But it’s Grygum who says it out loud - “The spectator warned us about demons. And we saw the demons in Velkynvelve. Demons have made it to the prime material plane in large numbers!” 
+But it’s Gyrgum who says it out loud - “The spectator warned us about demons. And we saw the demons in Velkynvelve. Demons have made it to the prime material plane in large numbers!” 
 
 
 Daz reflects on his knowledge of the arcane and his time in the Underdark, “Demons do not just appear in the Underdark. They must be summoned. And the spell to summon a demon lord is some mighty magic.” 
@@ -2496,7 +2496,7 @@ Sathir mutters, “Where to next?”
 Buppido, who is no longer gagged, says, “Gracklstugh! I know people.” 
 
 
-Thorin stares at him, undecided. Grygum, however, helps the group decide, “We need better equipment, and we now have the money to buy it.” 
+Thorin stares at him, undecided. Gyrgum, however, helps the group decide, “We need better equipment, and we now have the money to buy it.” 
 
 
 Buppido sighs, “Yes, and I know people who can help you.” 
@@ -2539,13 +2539,13 @@ He looks carefully for any sign of new rocks, then relaxes slightly.
 Thorin reaches up and touches the cave's ceiling, which is only three feet above the water. He wonders what will happen if it gets any lower. 
 
 
-He looks at Zalthir, Shuushar, Grygum, Daz, and Sarith, who are uncomfortable sitting down and lowering their heads to avoid banging them on the ceiling. 
+He looks at Zalthir, Shuushar, Gyrgum, Daz, and Sarith, who are uncomfortable sitting down and lowering their heads to avoid banging them on the ceiling. 
 
 
 “It’s good to be short,” Thorin notes as he sees how everyone else isn’t inconvenienced. 
 
 
-Unfortunately for Thorin, he thought too soon, and the boat jerked, and he fell in, along with Grygum and Daz. 
+Unfortunately for Thorin, he thought too soon, and the boat jerked, and he fell in, along with Gyrgum and Daz. 
 
 
 As he splutters, he notices that the Darklake isn’t empty. 
@@ -2554,7 +2554,7 @@ As he splutters, he notices that the Darklake isn’t empty.
 The same creatures that were feasting on the kuotoans are here. They look like manta rays, whose jaws, instead of being used to filter plankton, have powerful jaws for rending the flesh of their victims. 
 
 
-Fortunately for himself and his two companions, Daz and Grygum, there are only four. And unlike the Kuotoans, they are no match for them. 
+Fortunately for himself and his two companions, Daz and Gyrgum, there are only four. And unlike the Kuotoans, they are no match for them. 
 
 
 As he climbs out of the water, he thinks it’s probably not good that a demonic fish is floating around with the local flora and fauna… 
@@ -2579,7 +2579,7 @@ And the boat is a tight fit.
 Hemeth seems to be reading Zalthir’s mind when he suggests, “Maybe we take that boat from them? Like the last time I talked to Kuo-Toans, I almost got sacrificed. I was just trying to sell them weapons. I didn’t think they would think sacrificing me was a weapon. Crazy fish people.” 
 
 
-Before Zalthir can agree, Shuushar and Grygum have already decided that talking with more Kuotoans is the right answer. 
+Before Zalthir can agree, Shuushar and Gyrgum have already decided that talking with more Kuotoans is the right answer. 
 
 
 Zalthir  steps back and gets ready to attack, just in case. 
@@ -2597,7 +2597,7 @@ Before Zalthir can point out that Shuushar’s insight into the map of the Darkl
 Then Shuushar turns to his fellow escapees and thanks them for their help: “I have found my people, and we will build a better world!”
 
 
-Zalthir stands off as he watches the tearful goodbye of Thorin, who is giving him a hug, Grygum spitting into the lake, and Daz looking indifferent. 
+Zalthir stands off as he watches the tearful goodbye of Thorin, who is giving him a hug, Gyrgum spitting into the lake, and Daz looking indifferent. 
 
 
 As the other Kuo-Toan boat floats off, Shuushar says thank you! 
@@ -2608,13 +2608,13 @@ As they stare into the Dark Lake, Sarith mutters a few moments later, “Erm, gu
 
 # Chapter 14 Journey Through the Darklake
 ## 9th day of the 3rd Tenday of Taraskh 1493
-### Grygum
+### Gyrgum
 
 
-Jimjar stares at Grygum and asks, “Why are you a follower of Bahamut?” 
+Jimjar stares at Gyrgum and asks, “Why are you a follower of Bahamut?” 
 
 
-And Grygum sighs. 
+And Gyrgum sighs. 
 
 
 He has always been a bit of a mystery to other folks—an orc cleric of a dragon god. 
@@ -2644,10 +2644,10 @@ But others believed that Bahamut moved Stroud’s hand and hid the move from Pro
 And so the dragon god, who was never one to seek faithful among those who were not dragons, has gained quite a following among those who saw in his actions a divine plan. 
 
 
-Jimjar was fishing to find out what Grygum believed, and Grygum was tired. And it was dark, and he didn’t want to get into another argument about free will, the will of the gods, and whether the scale color of a dragon defined the intrinsic goodness of a creature that lived for a millenia. 
+Jimjar was fishing to find out what Gyrgum believed, and Gyrgum was tired. And it was dark, and he didn’t want to get into another argument about free will, the will of the gods, and whether the scale color of a dragon defined the intrinsic goodness of a creature that lived for a millenia. 
 
 
-Grygum smiles and says nothing. 
+Gyrgum smiles and says nothing. 
 
 
 Jimjar stares back. 
@@ -2672,7 +2672,7 @@ Zalthir shouts, “Anyone got oars?”
 Sarith laughs, “It would have been useful a while ago…” 
 
 
-Daz watches as Grygum and Thorin prepare to get into the water to push. 
+Daz watches as Gyrgum and Thorin prepare to get into the water to push. 
 
 
 And then a flash of inspiration hits him, “Stop, I can do this.” 
@@ -2734,7 +2734,7 @@ Daz shouts, “You have a point. They probably fell into the water.”
 ### Zalthir
 
 
-The dragonborn sighs. He wonders how Thorin managed to stay alive all of these years. In fact he’s beginning to wonder if he will survive next to Thorin, Daz, and Grygum. 
+The dragonborn sighs. He wonders how Thorin managed to stay alive all of these years. In fact he’s beginning to wonder if he will survive next to Thorin, Daz, and Gyrgum. 
 
 
 “We could check to see if there is any blood or gore on the boat?” 
@@ -2783,7 +2783,7 @@ Zalthir has disappeared into the Darkness. Thorin can sense another creature in 
 Thorin hears two scorching rays hit the water and hiss harmlessly. He’s about to lose hope when he hears the scream of a Duergar in pain. 
 
 
-Thorin thinks the creature is still alive. Then he hears Grygum's magical words and the telltale sound of a belch. He ducks. The Duergar is not so lucky and dies. 
+Thorin thinks the creature is still alive. Then he hears Gyrgum's magical words and the telltale sound of a belch. He ducks. The Duergar is not so lucky and dies. 
 
 
 Then he hears a scream. He can hear someone from the boat being grappled and pulled overboard.
@@ -2881,7 +2881,7 @@ Buppido shouts, “I have particular expertise and talents.”
 Sarith explains, “The Lolth’s guards trained me. I am an expert, but having seen Daz’s approach, I recommend that he be given the first crack at extracting information.” 
 
 
-### Grygum
+### Gyrgum
 
 
 The orc has been puzzled by Eldeth’s venom directed at the Duergar. He thinks there might be some rivalry between the Duergar gods and the Dwarven gods, but then he remembers something he read: that religious conflict is not always what it seems. The Dwarves and the Duergar compete for the same resources, and political conflict may matter more than any religious principle or dogma. “This is not the will of any god. This is the will of the people,” he mutters.  
@@ -2904,7 +2904,7 @@ And yet, despite everything Hemeth said, Daz is unprepared for what he sees. The
 And the ambiance is just that of work. The sound of hammers warping metals, the stench and heat, and the light of the smelters make all of Gracklstugh appear as one large work camp. But the acrid smoke makes breathing hard and burns through his sense of smell, which he will remember most from his time here. 
 
 
-Grygum asks, “So what are we doing here?” 
+Gyrgum asks, “So what are we doing here?” 
 
 
 Daz looks at him and is about to answer when Jimjar whispers, “Buy equipment so we can survive more easily. Get information on how to get out of the Underdark.” 
@@ -2913,7 +2913,7 @@ Daz looks at him and is about to answer when Jimjar whispers, “Buy equipment s
 Sethir mutters, “We plan to get equipment and then go to the Lost Tomb of Khem, where we will find treasure!” 
 
 
-Daz notices that Grygum is satisfied. 
+Daz notices that Gyrgum is satisfied. 
 
 
 Daz remembers what Hemeth had said about the Blade Bazaar: 
@@ -2966,7 +2966,7 @@ Spiderbait, still seething with rage, wants to kill him on the spot, and althoug
 Zalthir is unsure. “Perhaps he will betray us.” That logic sways Thorin and pulls his sword. “So we kill him?” 
 
 
-But Grygum intervenes, “There are so many people who will kill us that I am not so sure we should worry about him.” 
+But Gyrgum intervenes, “There are so many people who will kill us that I am not so sure we should worry about him.” 
 
 
 Thorin lowers his weapon, uncertain. He looks to Daz, and Daz says, “I vote that we get as close to a guarantee as we can and then, as we leave, let him loose in the city.” 
@@ -2990,13 +2990,13 @@ And Buppido does and starts talking.
 And then he starts expressing his true opinions of his companions: “You all have been so annoying. Daz has foul-smelling breath. Thorin thinks his muscles are impressive. Eldeth is -not- interested in him.”
 
 
-At that, Thorin decides he’s heard enough, but Grygum stops him. 
+At that, Thorin decides he’s heard enough, but Gyrgum stops him. 
 
 
 “Zalthir’s scales haven’t been cleaned in ages.” 
 
 
-Grygum has heard enough, “I am done.” 
+Gyrgum has heard enough, “I am done.” 
 
 
 But then he says, “Jimjar’s bEttin g is so annoying! GIVE IT A REST.” 
@@ -3023,10 +3023,10 @@ Zalthir can’t help but think Jimjar is judging him.
 Then the gnome sighs, “Obviously, you do not understand the first thing about interplanar or gate travel. There are a great many things Buppido could do, but that is not one of them. The great powers of the outer planes in the Time of Trouble could enter the Prime Material Plane at will. And that created havoc. Aos, the overgod, has ended that era with the Second Sundering. And so now, bringing the avatar of such a power requires powerful magic and artifacts.” 
 
 
-Jimjar then sighs and stares at Grygum, “The Cult of the Dragon almost brought Tiamat into the realms, and that required artifacts and rituals. No, Buppido has no such powers. But, Zalthir, it does beg the question - who did?” 
+Jimjar then sighs and stares at Gyrgum, “The Cult of the Dragon almost brought Tiamat into the realms, and that required artifacts and rituals. No, Buppido has no such powers. But, Zalthir, it does beg the question - who did?” 
 
 
-### Grygum
+### Gyrgum
 
 
 The cleric of Bahamut approaches a stall in the Blade Bazaar and tries to engage a merchant in a deal. The merchant, Dulgir, asks if he wants to buy or sell.
@@ -3035,10 +3035,10 @@ The cleric of Bahamut approaches a stall in the Blade Bazaar and tries to engage
 “Sell this mace?” 
 
 
-At that, the Duergar starts cursing Grygum, accusing him of things that, in a different sEttin g, might have provoked a violent reaction. 
+At that, the Duergar starts cursing Gyrgum, accusing him of things that, in a different sEttin g, might have provoked a violent reaction. 
 
 
-Grygum pauses and decides that he should start by buying, and the Duergar suddenly shifts, speaking with the stilted tongue of a Baldurian patriar. 
+Gyrgum pauses and decides that he should start by buying, and the Duergar suddenly shifts, speaking with the stilted tongue of a Baldurian patriar. 
 
 
 A few minutes later, he is the proud owner of a new mace. 
@@ -3047,16 +3047,16 @@ A few minutes later, he is the proud owner of a new mace.
 As he toys with his mace, he notices Zalthir looking at a list. “I found this list of names earlier.” 
 
 
-Grygum shrugs.  “I think they might be worth looking into.” 
+Gyrgum shrugs.  “I think they might be worth looking into.” 
 
 
-Grygum shrugs again. 
+Gyrgum shrugs again. 
 
 
 Zalthir is annoyed that he has nothing more definitive to say and mutters, “They could be people who could help us.” 
 
 
-Grygum then notices that Dulgir is not the only one acting strangely. Many duergar merchants give different prices to buy or sell the same items whenever they are asked and insist that the buyers they deal with change their terms.
+Gyrgum then notices that Dulgir is not the only one acting strangely. Many duergar merchants give different prices to buy or sell the same items whenever they are asked and insist that the buyers they deal with change their terms.
 
 
 Near a food stall, a merchant suddenly turns invisible during a transaction but keeps speaking as if nothing has happened.
@@ -3068,13 +3068,13 @@ Across the aisle, another weapons merchant threatens a customer, and when the cu
 Next to him, a cloth merchant suddenly stops mid-negotiating and starts talking to someone he refers to as his brother. When the customer asks who he is talking to, the merchant says, “My brother!” 
 
 
-Grygum asks Dulgir, “I guess his brother is invisible.” 
+Gyrgum asks Dulgir, “I guess his brother is invisible.” 
 
 
 But Dulgir answers, “His brother doesn’t exist.” 
 
 
-The answer disturbs Grygum, who is convinced that some madness afflicts the city, perhaps the same madness that consumed the Kuotoans. 
+The answer disturbs Gyrgum, who is convinced that some madness afflicts the city, perhaps the same madness that consumed the Kuotoans. 
 
 
 He steps away from the Bazaar and looks down a road to see if it’s happening elsewhere. The gates at the end of the road keep the Darklake District isolated from the rest of the city. It looks calm. 
@@ -3083,13 +3083,13 @@ He steps away from the Bazaar and looks down a road to see if it’s happening e
 And just then, the rhythmic hammering of the city’s forges is drowned for a second by a thundering roar and the sound of crumbling rock. Duergar and visitors alike turn to look as a two-headed, gray-skinned giant burst through a gate, howling madly and lashing out left and right, littering the plaza with rock and stone debris. As he bellows, one of his swings connects with a duergar soldier, whose broken body flies through the air and crashes near you with a sickening crunch.
 
 
-Grygum thinks, “That’s an illusion!” But a piece of debris hit his toe, and he mutters, “No, it’s not.” 
+Gyrgum thinks, “That’s an illusion!” But a piece of debris hit his toe, and he mutters, “No, it’s not.” 
 
 
 Thorin, who overhears the giant, shouts, “Stone giants never talk. And they certainly don’t bellow. Something is wrong.” 
 
 
-Grygum looks at him, “And the two heads?” 
+Gyrgum looks at him, “And the two heads?” 
 
 
 “Two heads is more normal than bellowing.” 
@@ -3119,7 +3119,7 @@ Zalthir places his circle of darkness just before the giant and enters it. Stepp
 Thorin rushes after Zalthir; with blindsight, he approaches the mad giant and strikes him with his sword. 
 
 
-Grygum speaks the words of power that Bahamut has taught him, pointing his holy symbol at the mad giant who burns with necrotic damage and the power of Bahamut. 
+Gyrgum speaks the words of power that Bahamut has taught him, pointing his holy symbol at the mad giant who burns with necrotic damage and the power of Bahamut. 
 
 
 The giant roars and smashes Thorin, but Zalthir, using his awareness of the monk, deflects the attack just in time. 
@@ -3134,12 +3134,12 @@ Zalthir strikes the giant once, focusing his mind on striking again and striking
 Thorin feints and strikes the giant. The creature howls. 
 
 
-Grygum raises his holy symbol again and speaks the words of power, and the giant again burns. 
+Gyrgum raises his holy symbol again and speaks the words of power, and the giant again burns. 
 # Chapter 16 Wanna Bet on Who Dies First?
 
 
 ## 9th day of the 1st Tenday of Myrtul 1493
-### Grygum
+### Gyrgum
 
 
 The stone giant with the two heads burned and wavered but did not fall. Bahamut’s magic did not kill him. 
@@ -3148,7 +3148,7 @@ The stone giant with the two heads burned and wavered but did not fall. Bahamut�
 A flash of flame engulfs the giant from two duergars that have come to join the battle. 
 
 
-Startled, Grygum notices that the fire comes from a device they are holding. It is a tube that connects to a bottle on their back. At the front of the tube, a small flame sits outside the tube. He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever. 
+Startled, Gyrgum notices that the fire comes from a device they are holding. It is a tube that connects to a bottle on their back. At the front of the tube, a small flame sits outside the tube. He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever. 
 
 
 “Don’t kill him! There’s something wrong with this giant! Let’s try and subdue him,” shouts Thorin. 
@@ -3157,10 +3157,10 @@ Startled, Grygum notices that the fire comes from a device they are holding. It 
 A few bolts of magic streak from Daz’s hands. 
 
 
-Grygum looks at Daz, and then looks at the giant, and thinks, “Well, I guess Daz chose to weaken his spell purposely.” 
+Gyrgum looks at Daz, and then looks at the giant, and thinks, “Well, I guess Daz chose to weaken his spell purposely.” 
 
 
-Grygum hears from within the darkness the sound of Zalthir’’s fists hitting the giant and the blade of Thorin, but still, the giant stands. So Grygum rushes in to strike with his mace. 
+Gyrgum hears from within the darkness the sound of Zalthir’’s fists hitting the giant and the blade of Thorin, but still, the giant stands. So Gyrgum rushes in to strike with his mace. 
 
 
 But the Giant stands. 
@@ -3169,13 +3169,13 @@ But the Giant stands.
 The Duergar, unconvinced by Thorin’s entreaties, kill the giant. 
 
 
-Grygum watches as a distraught Thorin whispers prayers for the dead. 
+Gyrgum watches as a distraught Thorin whispers prayers for the dead. 
 
 
 \*pop\*
 
 
-Grygum looks up, and the enlarged Duergars have shrunk to their standard size. 
+Gyrgum looks up, and the enlarged Duergars have shrunk to their standard size. 
 
 
 ### Thorin
@@ -3269,7 +3269,7 @@ Zalthir hears Daz ask while holding down a snigger, “So he’s a lighter?”
 Gartokkar is a Duergar, and he is literal and misses the sarcasm, “Yes. The Keepers of the Flame tend to the dragon’s needs. And we are the most prized of the Deepking’s advisors. We need someone like you.” 
 
 
-Zalthir hears Grygum’s joke, “We do have some kindling here.” 
+Zalthir hears Gyrgum’s joke, “We do have some kindling here.” 
 
 
 Gartokkar laughs. “ A joke. I have not heard a good joke in so long.” 
@@ -3302,13 +3302,13 @@ His friends look at him, and he looks back.
 And so, from just outside the Blade Bazaar, Daz and his odd collection of travelers arrive at the Darklake Brewery.
 
 
-The Brewery is closed to non-Duergar, and Daz is disappointed until Grygum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers. 
+The Brewery is closed to non-Duergar, and Daz is disappointed until Gyrgum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers. 
 
 
-Just outside is a Drow and Halfing, and they are drinking beer. Daz and Grygum approach them. 
+Just outside is a Drow and Halfing, and they are drinking beer. Daz and Gyrgum approach them. 
 
 
-The halfling looks at Grygum, “You must be new.” 
+The halfling looks at Gyrgum, “You must be new.” 
 
 
 “I’m just glad you see an orc and don’t run off scared.’ 
@@ -3451,16 +3451,16 @@ Thorin looks at her, “If a particular group of Drow were to come looking for s
 
 # Chapter 17 Triple Agents
 ## 9th day of the 1st Tenday of Myrtul 1493
-### Grygum
+### Gyrgum
 
 
-Grygum watches as Errde Blackskull stands. She has an aura of paranoia fixated on her person, and seems disappointed. 
+Gyrgum watches as Errde Blackskull stands. She has an aura of paranoia fixated on her person, and seems disappointed. 
 
 
-Armed with the scrolls he found amongst her goods in the armory, Grygum prepares to leave when she says something very odd, “I would appreciate it if you were to look for the empty scabbard killers. My underlings have reported their presence after finding bodies with puzzling wounds.” 
+Armed with the scrolls he found amongst her goods in the armory, Gyrgum prepares to leave when she says something very odd, “I would appreciate it if you were to look for the empty scabbard killers. My underlings have reported their presence after finding bodies with puzzling wounds.” 
 
 
-Grygum is perplexed. 
+Gyrgum is perplexed. 
 
 
 Errde, almost as if she doesn’t want to draw too much attention, tries to act utterly nonchalantly, “Oh, just an old wives tale to frighten children. They kill people with their minds.” She pauses, “Of course, this is nonsense. They are just another figment of the people’s imagination. It’s more likely that they don’t exist, and instead, assassinations are being conducted by some agency in the government, and this is a cover.” 
@@ -3481,7 +3481,7 @@ That does the trick, and Errde brings one of her subordinates into the room, Gri
 Holl explains that the bodies were found with no exit wounds or entrance wounds. 
 
 
-Grygum further probes and learns that two victims were Errde Blackskull’s clan members. 
+Gyrgum further probes and learns that two victims were Errde Blackskull’s clan members. 
 
 
 Errde dismisses the idea that these are assassins, “My uncle could have died for any of many reasons: poison, old age, a bad heart. The clerics found no evidence of that on their bodies.” 
@@ -3490,13 +3490,13 @@ Errde dismisses the idea that these are assassins, “My uncle could have died f
 She then pauses, “Look, I am not foolish enough to believe they weren’t assassinated, but some children’s fable come back to life to kill them? Nonsense.”
 
 
-Grygum is perplexed: dead bodies with no entrance or exit wounds, no evidence of foul play, just dead bodies. 
+Gyrgum is perplexed: dead bodies with no entrance or exit wounds, no evidence of foul play, just dead bodies. 
 
 
 Daz, known for his fondness of novels, reads voraciously and has managed to get a copy of Milo Goodbarrel’s book detailing the events surrounding the war of the dragon. He notes: “Milo describes this kind of attack as a psychic blade attack. It leaves no trace. There is this one moment where the Kenku Whistler used the psychic blades to fake an attack by Milo on an enemy.” 
 
 
-Grygum stares at him. 
+Gyrgum stares at him. 
 
 
 “I liked the books. They were well written.” 
@@ -3522,7 +3522,7 @@ Buppido continues to be bound and seems resigned to his fate.
 Jimjar has made a few friends and asks - “When do you expect us to be able to leave?” 
 
 
-Daz explains that he wants to learn about the Keepers of the Flame, and Grygum wants to know about this Red Dragon that is kept in some kind of peculiar captivity by the Keepers of the Flame. 
+Daz explains that he wants to learn about the Keepers of the Flame, and Gyrgum wants to know about this Red Dragon that is kept in some kind of peculiar captivity by the Keepers of the Flame. 
 
 
 When Jimjar tries to explain that they came here for supplies, and judging from the equipment the group has, they have them and that, “Perhaps we should leave?” 
@@ -3549,7 +3549,7 @@ Daz thinks that and realizes he’s not just thinking that but watching that. Tw
 “Psychic weapons?” he wonders. 
 
 
-As Daz watches, Grygum rushes one of the assassins, trying to toss him into the water. He fails. 
+As Daz watches, Gyrgum rushes one of the assassins, trying to toss him into the water. He fails. 
 
 
 When Daz utters the mystical words, motes of light appear above his hand, and three fingers point at one of the assassins. A silent rush of air accompanies the flight of the magic missiles, and when they strike, a burst of light and a crackling sound fills the area. 
@@ -3561,7 +3561,7 @@ Daz watches as Zalthir covers the area with Darkness.
 “I can’t see. And this is why area of effect spells are useful,” he mutters.
 
 
-Grygum rushes into the fight, and so does Thorin. 
+Gyrgum rushes into the fight, and so does Thorin. 
 
 
 Daz can judge where the Drow is, even in the Darkness. He speaks the words for scorching rays and feels the rush of intense heat as the fiery energy is manifested. He points with his index finger, uses his thumb to sight, squints, and lets the rays loose. They travel quickly, leaving a streak of heat haze. Zalthir’s darkness hides the flash of bright light, but the smell of burning flesh is not. 
@@ -3580,7 +3580,7 @@ The Duergar merchant has no wound on his body.
 
 
 Zalthir scrutinizes him and concludes that Holl may not have been lying. 
-Before Zalthir can stop him, Grygum heals the Duergar. 
+Before Zalthir can stop him, Gyrgum heals the Duergar. 
 
 
 “Thank you! I have no idea why they attacked me,” says the heaving Duergar. “Did they target me? Are they assassins?” 
@@ -3616,7 +3616,7 @@ Zalthir chuckles, “I could create that illusion for you.”
 Thorin hoots. 
 
 
-Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. 
+Just then, Zalthir hears a body falling into the water. Gyrgum has pushed the first corpse into the water. 
 
 
 “We must get out of here before the guard shows up.” 
@@ -3679,14 +3679,14 @@ The dragon turns to Zalthir, “You are a gold dragonborn?”
 Zalthir stares at him and wonders how this fat, obviously out-of-shape red dragon ended up like that. And then, he wonders whether this red dragon could survive in the wild. It is so pampered that it probably has forgotten how to hunt. 
 
 
-He questions Thorin and Grygum and seems satisfied with the answers. 
+He questions Thorin and Gyrgum and seems satisfied with the answers. 
 When it’s Daz’s turn to be questioned, the dragon asks if Daz is from Menzoberranzan. Zalthir wonders as well. Daz says he is. But Zalthir isn’t convinced that is the truth. 
 
 
 The dragon laughs, “Excellent! You have no family associations and nobody that can be blackmailed.” 
 
 
-Grygum shouts, “We have people who will come looking for us!” 
+Gyrgum shouts, “We have people who will come looking for us!” 
 
 
 Zalthir nods, “Of course.” 
@@ -3695,7 +3695,7 @@ Zalthir nods, “Of course.”
 The dragon laughs, “Very well. I am Themberchaud, and I wish for you to be my agent. And as my agents, you will have my protection.” 
 
 
-Zalthir overhears Daz and asks Grygum, “Do you think this dragon also plays chess? According to Milo Goodbarrel’s memoirs, chess played a significant role in negotiating with the metallic dragons.” 
+Zalthir overhears Daz and asks Gyrgum, “Do you think this dragon also plays chess? According to Milo Goodbarrel’s memoirs, chess played a significant role in negotiating with the metallic dragons.” 
 
 
 “Deals with red dragons are never good deals,” thinks Zalthir. 
@@ -3735,7 +3735,7 @@ Thorin follows Gartokkar outside the cave and asks Daz, “Did we find ourselves
 Daz, who has experience with the twisted, machiavellian politics of the Drow, replies, “The faction thinks we are working for them. Whether we do is up to us.” 
 
 
-Grygum, standing next to Thorin,n mutters, “I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.”
+Gyrgum, standing next to Thorin,n mutters, “I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.”
 
 
 Thorin is exasperated and almost shouts, “I am sorry, I can’t deal with these factions. I can’t keep track of who we are working for and which faction we are double-crossing. I want to be my faction.” 
@@ -3774,7 +3774,7 @@ Gartokkar smiles conspiratorially, “Themberchaud thinks we work for him. What 
 Gartokkar looks appalled, “Of course not! Eventually, the Dragon moves on because he wants to see more of the world.”
 
 
-Grygum turns to Thorin, “It’s like when parents say that the pet puppy left even when it dies.” 
+Gyrgum turns to Thorin, “It’s like when parents say that the pet puppy left even when it dies.” 
 
 
 Gartokkar continues, ignoring the comment, “We have identified an agent of the Grey Ghosts. His name is Droki.”
@@ -3828,10 +3828,10 @@ Gartokkar looks at him, “Just find me the egg and the proof of the Gray Ghosts
 As they stand outside the building that houses Gartokkar’s office, Daz turns to Thorin while looking at his collection of badges, “So we flash the right one at the right time?” 
 
 
-Thorin nods. And then he has a peculiar glint in his eye. He turns to Grygum, “I have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?” 
+Thorin nods. And then he has a peculiar glint in his eye. He turns to Gyrgum, “I have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?” 
 
 
-Grygum smiles, “As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let’s do it.” 
+Gyrgum smiles, “As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let’s do it.” 
 
 
 # Chapter 18 Badge of the Wyrmsmith: Now Accepting Application
@@ -3893,7 +3893,7 @@ Thorin immediately understands what’s going on. The Deep King has relied on hi
 Zalthir turns to Thorin, “The Stone Giant is particularly attuned to the rocks? So what we have seen as localized appearances of demons is not localized. The demons at Velkynvelve, the Beholder in the Spidersilk caves, the demonic manta rays, and Demogorgon, all of this is no coincidence.” 
 
 
-Grygum whispers, “The end of the great sundering ended the era that allowed the gods to walk in Faerûn freely. It’s why the Cult of Tiamat had to resort to such an extraordinary ritual to bring her into the prime material plane. That so many demons are walking freely is not normal. There is some kind of powerful magic that has enabled this.” 
+Gyrgum whispers, “The end of the great sundering ended the era that allowed the gods to walk in Faerûn freely. It’s why the Cult of Tiamat had to resort to such an extraordinary ritual to bring her into the prime material plane. That so many demons are walking freely is not normal. There is some kind of powerful magic that has enabled this.” 
 
 
 Thorin wonders if this has anything to do with the Faerzress, which has affects his sanity. 
@@ -3952,32 +3952,32 @@ And now, why Errde Blackskull and the Keeper of the Flames were so anxious to fi
 
 
 He observes, “Droki is someone all of the factions trust and can get to the Whorlstone Caverns safely through that.” And he points to the Derro slums. 
-### Grygum
+### Gyrgum
 
 
 “Let’s get Buppido.”  
 
 
-Zalthir urges caution, but Grygum is determined. 
+Zalthir urges caution, but Gyrgum is determined. 
 
 
 And so they head back to Ghohlbrorn’s Lair, where they find Jimjar playing a game of chance. The gnome hears that they want Buppido and points them to a room out back, where a sad Buppido is still tied up. 
 
 
-Thorin asks Buppido if he knows who Droki is, and Buppido laughs. Grygum is a bit embarrassed when Thorin asks the question, thinking that not every Derro knows every other Derro, but Buppido knows him. The reason is that Droki can be trusted to deliver messages to the groups in the Whorlstone caverns and keep secrets. 
+Thorin asks Buppido if he knows who Droki is, and Buppido laughs. Gyrgum is a bit embarrassed when Thorin asks the question, thinking that not every Derro knows every other Derro, but Buppido knows him. The reason is that Droki can be trusted to deliver messages to the groups in the Whorlstone caverns and keep secrets. 
 
 
-Grygum asks him if can tell them something about the Derro community. At that, Buppido becomes enraged. He screams about the Council of Savants who promised freedom and failed to deliver freedom. 
+Gyrgum asks him if can tell them something about the Derro community. At that, Buppido becomes enraged. He screams about the Council of Savants who promised freedom and failed to deliver freedom. 
 
 
 “I have to get back to save my people. The divine mission requires that I go back! The Council of Savants will fail my people. I must go and save them!” 
-Grygum turns to his allies, “We need to get him to show us the way to the Whorlstone caverns. If we go around poking for things, it’s unclear what could happen.” 
+Gyrgum turns to his allies, “We need to get him to show us the way to the Whorlstone caverns. If we go around poking for things, it’s unclear what could happen.” 
 
 
 Zalthir is unconvinced. Thorin mutters that Buppido has already committed murder once. 
 
 
-As Grygum cuts him loose, Thorin whispers, “If you betray us, I will gut you.” 
+As Gyrgum cuts him loose, Thorin whispers, “If you betray us, I will gut you.” 
 
 
 Buppido smiles, “The divine plan tells me I must help you!” 
@@ -3986,39 +3986,39 @@ Buppido smiles, “The divine plan tells me I must help you!”
 And so he leads them to the western gate of Laduguer’s Furrow. He mutters, “The duergar built a series of guardhouses to keep an eye on their derro slaves living in the West Cleft. These were abandoned when Deepking Tarngardt, grandfather of the current monarch, who liberated the derro, allowing them to spread from the West Cleft District into the East Cleft District. The guardhouses now stand empty and are an excellent vantage point for us to wait for Droki.” 
 
 
-And so Grygum waits. 
+And so Gyrgum waits. 
 ![image]()
 
 
 As he is about to doze off, Buppido nudges him, “There.”
 
 
-The dirty derro is easily recognizable: a pale face under a floppy hat fitted with two tentacle-like things that bob up and down in time with his brisk pace. He mutters a repetitive series of phrases at different volumes, failing to notice Grygum. “Droki is late! They will be so angry! Stupid, stupid, stupid! Delays, blocks, procrastination, obstructions, pfah! No time, no rhyme, not mine! No! Time!”
+The dirty derro is easily recognizable: a pale face under a floppy hat fitted with two tentacle-like things that bob up and down in time with his brisk pace. He mutters a repetitive series of phrases at different volumes, failing to notice Gyrgum. “Droki is late! They will be so angry! Stupid, stupid, stupid! Delays, blocks, procrastination, obstructions, pfah! No time, no rhyme, not mine! No! Time!”
 
 
-Grygum gets up and follows Droki into Derro city. 
-As he passes through the gates, the stench in the air changes from acrid and metallic to fetid and repugnant, the fires of industry replaced by squalor. The homes in this part of Gracklstugh are crudely carved from the rock or are just holes in the walls, arranged in no apparent order. The chatter in the air is unnerving, with hundreds of derro muttering, screaming at each other, and otherwise reveling in their insanity. Those who spot Grygum look at him with a burning hatred.
+Gyrgum gets up and follows Droki into Derro city. 
+As he passes through the gates, the stench in the air changes from acrid and metallic to fetid and repugnant, the fires of industry replaced by squalor. The homes in this part of Gracklstugh are crudely carved from the rock or are just holes in the walls, arranged in no apparent order. The chatter in the air is unnerving, with hundreds of derro muttering, screaming at each other, and otherwise reveling in their insanity. Those who spot Gyrgum look at him with a burning hatred.
 
 
-Grygum is relieved he has Buppido, whose presence seems to temper the anger. 
+Gyrgum is relieved he has Buppido, whose presence seems to temper the anger. 
 
 
-As for Droki, he isn’t in a rush. But he is walking too quickly for a Derro, as if there was something magical about his pace. Grygum observes that Droki also doesn’t seem to care if anyone is following him. 
+As for Droki, he isn’t in a rush. But he is walking too quickly for a Derro, as if there was something magical about his pace. Gyrgum observes that Droki also doesn’t seem to care if anyone is following him. 
 
 
 Droki wanders between the various houses and merchants of the Derro, as if there is no purpose to his walking. He mutters to himself and to any Derro whom he says. 
 
 
-And then Droki stops between a cluster of hovels in West Cleft and turns. Grygum follows him. Against a wall are some scraps of cloth, sheets of canvas and moldy boxes. Droki lifts the scrap of cloth,  pushes the gray sheets of canvas to the side, revealing a narrow fissure in the chasm wall. He steps over the moldy boxes, and jumps into the crack. Just as he disappears into the cavern, a wisp of eerie fog floats out. 
+And then Droki stops between a cluster of hovels in West Cleft and turns. Gyrgum follows him. Against a wall are some scraps of cloth, sheets of canvas and moldy boxes. Droki lifts the scrap of cloth,  pushes the gray sheets of canvas to the side, revealing a narrow fissure in the chasm wall. He steps over the moldy boxes, and jumps into the crack. Just as he disappears into the cavern, a wisp of eerie fog floats out. 
 
 
 At that point, Buppido rushes towards the entrance.
 
 
-Grygum is tempted to stop him, but he notices that there are many eyes on him and that detaining a Derro could turn into a fight. 
+Gyrgum is tempted to stop him, but he notices that there are many eyes on him and that detaining a Derro could turn into a fight. 
 
 
-For a moment, Grygum wonders what to do, and then, realizing that standing in front of a secret entrance isn’t the best place for an Orc, ancestral enemy of the Dwarf, he moves quickly into the caverns. 
+For a moment, Gyrgum wonders what to do, and then, realizing that standing in front of a secret entrance isn’t the best place for an Orc, ancestral enemy of the Dwarf, he moves quickly into the caverns. 
 
 
 ### Daz 
@@ -4066,10 +4066,10 @@ Knowing his strengths lie in spells, Daz focuses. He observes the cluster of ske
 Thorin, eager as ever, wastes no time. The dwarf charges forward, closing with one of the skeletons. Daz watches as Thorin lands a solid blow, adding to the chaos. Zalthir, never one to shy away from unusual tactics, plunges the area into darkness. Daz understands the intent—to disrupt the skeletons and disorient Buppido. It’s a bold move, and the flickering light and deep shadows add to the unsettling atmosphere.
 
 
-Confusion reigns for a moment. Some of the skeletons blunder blindly in the darkness, stumbling around aimlessly. One skeleton, however, manages to take a shot at Grygum with its crossbow. Daz sees Grygum flinch as the bolt hits, a testament to their constant danger. Buppido rushes at Thorin with a hooked spear but misses wildly, his attack fueled more by fury than skill.
+Confusion reigns for a moment. Some of the skeletons blunder blindly in the darkness, stumbling around aimlessly. One skeleton, however, manages to take a shot at Gyrgum with its crossbow. Daz sees Gyrgum flinch as the bolt hits, a testament to their constant danger. Buppido rushes at Thorin with a hooked spear but misses wildly, his attack fueled more by fury than skill.
 
 
-Grygum, ready with his holy symbol, prepares to turn undead. Daz knows this could be a game-changer, but Zalthir's darkness complicates things. A brief exchange leads to Grygum holding his action, waiting for the darkness to shift so that more skeletons are visible. It's a clever coordination, and Daz appreciates the tactical thinking. 
+Gyrgum, ready with his holy symbol, prepares to turn undead. Daz knows this could be a game-changer, but Zalthir's darkness complicates things. A brief exchange leads to Gyrgum holding his action, waiting for the darkness to shift so that more skeletons are visible. It's a clever coordination, and Daz appreciates the tactical thinking. 
 
 
 And it works. The cleric’s words of power overwhelm the skeletal minions of Buppido. The battle was evenly matched, but now it will become a slaughter. 
@@ -4082,7 +4082,7 @@ Daz stares at Buppido’s corpse and mutters, “Your divine mission is now over
 
 Session 19 
 ## 10th day of the 1st Tenday of Myrtul 1493
-### Grygum
+### Gyrgum
 
 
 The blood-spattered remains of Buppido lie scattered amongst the bones that made up the crazed Derro’s hideout. 
@@ -4100,7 +4100,7 @@ And as he prepares to pray for Buppido’s soul, a ghostly head pops up. The hea
 “He’s dead?” 
 
 
-Grygum tries not to stare. 
+Gyrgum tries not to stare. 
 
 
 The head rolls around, flopping into place, and stares at Buppido’s corpse, “Wonderful!” 
@@ -4109,7 +4109,7 @@ The head rolls around, flopping into place, and stares at Buppido’s corpse, �
 The ghostly gnome emerges from the ground and announces his name, “Pelek, at your service if you will be at mine.” 
 
 
-Grygum, whose interest in linguistic studies and origins of names and how they intersect with cultures across the ages, is startled by such an odd name. He then recalls that the Gnomes tend to name themselves after things and that many of their names are onomatopoeia of the sounds of those things, and he thinks that perhaps it’s after a pick or an axe. But he’s uncertain so he asks, “What does that name mean?” 
+Gyrgum, whose interest in linguistic studies and origins of names and how they intersect with cultures across the ages, is startled by such an odd name. He then recalls that the Gnomes tend to name themselves after things and that many of their names are onomatopoeia of the sounds of those things, and he thinks that perhaps it’s after a pick or an axe. But he’s uncertain so he asks, “What does that name mean?” 
 
 
 The ghost affects a blushing expression. And then begins to explain - “My father, god rest his soul, never liked the name. My mother named me after an actor. And well, there was always this doubt about the origin of the name and my lineage, which created a lot of friction in my family. And since you asked. I had a delightful childhood, except when it came to my name. My father was always very jealous, and there was always an undercurrent of hurt and shame in my name and how it affected my parents. I suppose that’s why I ended up as a merchant, and became friends with Buppido and ignored the tell-tale signs of his incipient murderous rampage.” 
@@ -4118,7 +4118,7 @@ The ghost affects a blushing expression. And then begins to explain - “My fath
 “Are you an actor?”
 
 
-“Why, thank you! Yes, I tried. But I never had the knack for it. Or was I worried I had too much of a knack for it and would engage in self-sabotage?” The ghost notices Grygum’s traveling companions are exasperated. It shifts the conversation: “But the story of my parents and their marital strife and the circumstances of their marriage, although fascinating, are not my most pressing topic. I need a favor.” The ghosts floats over some bones and points at them, “These bones are my bones, and I would appreciate you folks collecting my bones and bringing them to Blingdenstone.” 
+“Why, thank you! Yes, I tried. But I never had the knack for it. Or was I worried I had too much of a knack for it and would engage in self-sabotage?” The ghost notices Gyrgum’s traveling companions are exasperated. It shifts the conversation: “But the story of my parents and their marital strife and the circumstances of their marriage, although fascinating, are not my most pressing topic. I need a favor.” The ghosts floats over some bones and points at them, “These bones are my bones, and I would appreciate you folks collecting my bones and bringing them to Blingdenstone.” 
 
 
 Thorin sighs, “Classic Buppido.” 
@@ -4127,19 +4127,19 @@ Thorin sighs, “Classic Buppido.”
 The ghost is delighted, “Yes! He killed me and cut my body up into the pieces you see here. And I have been stuck here ever since. We were business partners. He was working with a faction of Derro known as the Council of Savants. Buppido said he could move product out of the city without dealing with the Duergar taxes. And well, he needed a supplier who could act. And well, you know, that tickled me pink. He promised to prove his point and brought me here.” 
 
 
-Grygum wonders, “Did something happen?” 
+Gyrgum wonders, “Did something happen?” 
 
 
 “Now that you mention it. I did notice that the Faerzress glowed brightly, and after that, Buppido’s temperament changed. He became convinced he was some kind of divine figure. The derro do go mad, and I assumed it was that. But the Faerzress glow was unmistakable. It was almost as if it was being sucked out, and went dark and then came back brighter than before. No one knows what the Faerzress is. And so I assumed it was something that happens.”
 
 
-Grygum gets excited - “When?” 
+Gyrgum gets excited - “When?” 
 
 
 “A few months ago. Why? And this is unimportant. What’s important is that you will get my bones to Blingdenstone.”  
 
 
-Grygum looks at Daz, Daz looks at Grygum. Daz wonders out loud, “So the Faerzress is a substance that makes teleportation into a region impossible.” 
+Gyrgum looks at Daz, Daz looks at Gyrgum. Daz wonders out loud, “So the Faerzress is a substance that makes teleportation into a region impossible.” 
 
 
 “Yes.” 
@@ -4148,13 +4148,13 @@ Grygum looks at Daz, Daz looks at Grygum. Daz wonders out loud, “So the Faerzr
 “Then if it blinked, could it have - I dunno - broken the walls between the planes?” 
 
 
-Grygum looks at Daz. 
+Gyrgum looks at Daz. 
 
 
 The ghost sighs, “That sounds like a ghost story. The Faerzress blinked, and then monsters from the Abyss appeared. Next, you’ll tell me it was part of some mage’s plot involving demonic powers and the world's end.” 
 
 
-Grygum coughs, “About your bones?” 
+Gyrgum coughs, “About your bones?” 
 
 
 “Excellent, my bones. And my hand. Seems it went off scurrying about. There is a family ring on it, an obsidian ring of some value. You can keep it if you find the hand.” 
@@ -4265,7 +4265,7 @@ Zalthir stops him. He thinks, “This place used to be where hippies hid out. No
 He can tell the dwarf has heard him, as he sits down deflated. 
 
 
-Grygum pulls out a bone, “Hey Pelek.”
+Gyrgum pulls out a bone, “Hey Pelek.”
 
 
 “Yes?” 
@@ -4289,7 +4289,7 @@ Zalthir looks at him, “And?”
 “Pygmywort is the mushroom with a one-inch-long stem and a stubby blue cap with white dots, and Bigwig is the four-inch-tall mushroom with a thin stem and a wide purple cap. The first one shrinks you, like the effect of a reduce spell, and the latter grows you, like the effect of an enlarge spell.” 
 
 
-Zalthir wonders what to do, and during that time, Grygum impulsively swallows a Pygmywort and shrinks. 
+Zalthir wonders what to do, and during that time, Gyrgum impulsively swallows a Pygmywort and shrinks. 
 
 
 Unfortunately, he can’t squeeze through the crack.  
@@ -4331,7 +4331,7 @@ As they land safely, he smiles.
 And he waits for polite applause. There is none, but Thorin slaps his back. A friendly slap on the back.
 
 
-And Grygum can’t stop saying “Wow!” 
+And Gyrgum can’t stop saying “Wow!” 
 
 
 As for Zalthir, Zalthir is quiet. 
@@ -4380,7 +4380,7 @@ Daz watches as the centipedes emerge, a shiver running down his spine. Zalthir i
 "No!" Daz exclaimed inwardly, "They saved!" He can't believe it; his attempt has failed completely.
 
 
-The centipedes, now emboldened, began to swarm over Zalthir. Daz winces, imagining the crawling, tickling sensation on his skin. It is a sight he finds deeply unsettling. Grygum then steps up, casting "Tasha's Caustic Brew." Daz watches with anticipation, but once again, the centipedes somehow manage to avoid the brunt of the spell. "Seriously?" Daz mutters under his breath. Were these bugs unusually lucky, under the protection of some bug god, or was he just having an off day?
+The centipedes, now emboldened, began to swarm over Zalthir. Daz winces, imagining the crawling, tickling sensation on his skin. It is a sight he finds deeply unsettling. Gyrgum then steps up, casting "Tasha's Caustic Brew." Daz watches with anticipation, but once again, the centipedes somehow manage to avoid the brunt of the spell. "Seriously?" Daz mutters under his breath. Were these bugs unusually lucky, under the protection of some bug god, or was he just having an off day?
 
 
 Just then, Thorin charges in, swinging with his weapon. Daz perks up as Thorin actually manages to strike one of the swarms, dealing a significant blow. "Yes! There you go!" he thinks, a glimmer of hope returning. But even with Thorin's success, the centipedes keep coming, relentless and unsettling. Daz finds himself scanning his spell list, second-guessing his choices. "Maybe 'Burning Hands' would have been better?" he muses, or perhaps something with a wider area of effect. He feels a slight unease, wondering if his spells are just ineffective or if he needs to re-strategize. All the while, he keeps scratching at his arms, feeling the phantom sensation of bugs despite knowing there were none on him.
@@ -4495,7 +4495,7 @@ And just then, Zalthir’s head is flooded with images.
 “There you saw it! A chamber with a circular pathway and a pyramid. The one known as Plinki has found this mighty and tasty obelisk and has been trying to make it do something evil.” 
 
 
-Grygum’s horror at the egg breaks into his voice, “What are the strange markings on the egg?” 
+Gyrgum’s horror at the egg breaks into his voice, “What are the strange markings on the egg?” 
 
 
 “Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!” 
@@ -4529,22 +4529,22 @@ And he learns more. There are two ways into the cave with the Obelisk: the main 
 And then he gets hit with more sadness. The creature is Trauma Dumping. He learns that the caves were once a hippy place, where Derro and Duergar would come to chill out, party, and be friends. Some months ago, the permanent twilight of the Faerzress stopped, and the cave complex became dark. Everyone was afraid, and the Faerzress blinked on brightly and then was off. And then it blinked once more, and then it returned to its usual color. But something had changed, and soon the various hippy friends stopped being friends. Instead of being a place of friendship, a place where folks could be happy, it became a place of murder and death and conspiracy. The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.
 
 
-### Grygum
+### Gyrgum
 
 
-The trauma dumping seems to affect Thorin, but Grygum is an orc, and a practical creature, and quite frankly, he’s seen worse. 
+The trauma dumping seems to affect Thorin, but Gyrgum is an orc, and a practical creature, and quite frankly, he’s seen worse. 
 
 
 He looks at the creature, and it’s once again turned teal. He noticed that it had turned dark blue just before the trauma dump and then, as the trauma dump ended, became teal. 
 
 
-Grygum takes note of this. 
+Gyrgum takes note of this. 
 
 
 “Did you say assassins?” 
 
 
-“Yes!” notes the Flumph. And again, it trauma dumps. This time, Grygum learns that the Flumph had found a tasty snack in the psychic energy released by a mind flayer. 
+“Yes!” notes the Flumph. And again, it trauma dumps. This time, Gyrgum learns that the Flumph had found a tasty snack in the psychic energy released by a mind flayer. 
 
 
 “A mind flayer?” 
@@ -4562,13 +4562,13 @@ The flumph then shows how the mind flayer lives down a hallway.
 The creature turns Magneta, then says, “I survive by not lEttin g mind flayers know I exist. I just know that the Mind Flayer is there, and that the assassins are also there. The ones you said had a magical light blade that tried to kill that duergar Werz.” 
 
 
-Grygum snorts, “I never said that.” 
+Gyrgum snorts, “I never said that.” 
 
 
 “Oh, right. You didn’t. You thought it.” 
 
 
-Grygum pauses, “Can you help us?” 
+Gyrgum pauses, “Can you help us?” 
 
 
 “Absolutely. And don’t worry, although your deaths will be sad, I will absolutely trauma dump on someone else and feel better!” 
@@ -4577,19 +4577,19 @@ Grygum pauses, “Can you help us?”
 Thorin glares. 
 
 
-Grygum stares at Zalthir, who interrupts his train of thought - “What are we trying to do here? I was just trying to kill some time before I got some magical equipment. Saving the Duergar from a mad king and defeating another cult of Demogorgon is not what I am here for.” 
+Gyrgum stares at Zalthir, who interrupts his train of thought - “What are we trying to do here? I was just trying to kill some time before I got some magical equipment. Saving the Duergar from a mad king and defeating another cult of Demogorgon is not what I am here for.” 
 
 
-Grygum nods, “I agree, but the egg. As a cleric of Bahamut, I must save the egg.” 
+Gyrgum nods, “I agree, but the egg. As a cleric of Bahamut, I must save the egg.” 
 
 
 Flumph turns Green, “Why?” 
 
 
-Grygum explains that Bahamut is the god of good dragons. He is committed to the principle that dragons have free will and that the pigmentation of their scales doesn’t pre-determine their personality. This idea that chromatic dragons are evil is the greatest evil. 
+Gyrgum explains that Bahamut is the god of good dragons. He is committed to the principle that dragons have free will and that the pigmentation of their scales doesn’t pre-determine their personality. This idea that chromatic dragons are evil is the greatest evil. 
 
 
-“We need help,” he mutters. Grygum turns to his friends. “We have the rest of the crew holed up in a seedy bar. We could get them weapons from Errde. She was willing to give us a lot of weapons. But we need a reason. And I think we do. We found evidence of the Grey Ghosts doing something evil. And we found evidence of the assassin’s guild. The only problem is how to convince her.”
+“We need help,” he mutters. Gyrgum turns to his friends. “We have the rest of the crew holed up in a seedy bar. We could get them weapons from Errde. She was willing to give us a lot of weapons. But we need a reason. And I think we do. We found evidence of the Grey Ghosts doing something evil. And we found evidence of the assassin’s guild. The only problem is how to convince her.”
 
 
 He smiles and turns to Flumph -  “Flumph, I’ll need you to trauma dump on someone.” 
@@ -4601,7 +4601,7 @@ The creature turns pink, “That would be so good. I have so much trauma.”
 “We should be able to get support from Gartokkar Xundorn and the Keepers of the Flame.” 
 
 
-Grygum says to Flumph, “Make that two trauma dumps.” 
+Gyrgum says to Flumph, “Make that two trauma dumps.” 
 
 
 “Won’t that be enough evidence?” asks Zalthir. 
@@ -4622,7 +4622,7 @@ Flumph looks at him, “No.”
 The Flumph sighs, “Well, look, the Council used to be these nice people, and then after the blink, they became crazy. And now they are working with Plinki to try to summon Demogorgon or make him a two-headed dragon mount! Look, I don’t read their minds. They are psychics, and they use psychic energy, and I feed on it. Ever since my friend Buppido went stark raving mad… ”
 
 
-Grygum is silent.   
+Gyrgum is silent.   
 
 
 “How well guarded is this Council person?” 
@@ -4634,7 +4634,7 @@ Grygum is silent.
 Thorin growls, “We don’t have the resources to mount a full frontal assault. So we could just return, give the information, and then boogie out of here. We still have a boat. But I still like the  plan of escaping on the back of Themberchaud.” 
 
 
-Grygum mutters, “Bahamut commands that I save the egg.” 
+Gyrgum mutters, “Bahamut commands that I save the egg.” 
 
 
 ### Daz
@@ -4663,12 +4663,12 @@ As Daz pens the last paragraph, he smiles. The path forward was clear, and indee
 And so he returns to this journal - 
 
 
-*Grygum led us to the Keeper of the Flame. Once there, the Flumph trauma dumped on Gartokkar, who seemed curiously relieved. Then, he began making demands that we fetch the egg. *
+*Gyrgum led us to the Keeper of the Flame. Once there, the Flumph trauma dumped on Gartokkar, who seemed curiously relieved. Then, he began making demands that we fetch the egg. *
 *
 This is how I remember the dialogue: *
 
 
-*Grygum - “We need some help.” *
+*Gyrgum - “We need some help.” *
 
 
 *Gartokkar - “You had some helpers, use them.”*
@@ -4767,7 +4767,7 @@ He shakes his head - “We are sitting on a volcano. We can trigger a slaughter 
 The group stares at him. “I have seen this before, everyone convinced that the leader is a victim of some outside influence, and a need to destroy the outside influence. No one wants to confront the reality that they want power, and they are too afraid of the leader to try and seize it from them. If we can get rid of the Deepking, or focus everyone’s hatred on him, then the Duergar would slaughter each other.” 
 
 
-Grygum gives him a look, and Daz smiles, “Being a Drow, you pick some stuff up.” 
+Gyrgum gives him a look, and Daz smiles, “Being a Drow, you pick some stuff up.” 
 ### Thorin 
 
 
@@ -4805,7 +4805,7 @@ The monks who taught Zalthir the importance of being discreet, of hiding in the 
 Zalthir's monastic teachers emphasized discretion, the value of hiding in shadows, and avoiding confrontation. He sees no upside to doing anything but running. 
 
 
-But Grygum insists that they must honor their commitments.
+But Gyrgum insists that they must honor their commitments.
 
 
 Zalthir sighed and followed the group to Overlake Hold to talk to Errde. 
@@ -4853,10 +4853,10 @@ But then she turns on Daz.
 Daz looks like a Drow explaining things to a child: “We did some searching and ran into trouble. The caves are not as safe as they once were. We ran into some trouble.” 
 
 
-Grygum then interjects, “We needed reinforcements.” 
+Gyrgum then interjects, “We needed reinforcements.” 
 
 
-Errde glares at Grygum, “I can’t send my Duergar troops into the Derro slums.” She thinks, Zalthir stares at her, and then says, “You have a crew. I can arm them.” 
+Errde glares at Gyrgum, “I can’t send my Duergar troops into the Derro slums.” She thinks, Zalthir stares at her, and then says, “You have a crew. I can arm them.” 
 
 
 Zalthir is about to leave, when she once again hisses, “When will I have what I need?” 
@@ -4874,46 +4874,46 @@ She claps in her hands, “A fantastic idea. You must talk to Clan Ironhead or C
 Zalthir looks at Daz, Errde, and then walks through the door. A thousand times the darkness of his spells than the plots and fogs of the plots of the Drow and the Duergar. 
 
 
-### Grygum
+### Gyrgum
 
 
-Grygum stands in front of the Tavern known as the Shattered Spire, where the merchant Werz insisted they meet. It is built on a broken stalagmite that juts out from the Darklake about forty feet from the shore. This stalagmite forms the foundation of a tavern built with fungi stalks in a manner similar to a log cabin. 
+Gyrgum stands in front of the Tavern known as the Shattered Spire, where the merchant Werz insisted they meet. It is built on a broken stalagmite that juts out from the Darklake about forty feet from the shore. This stalagmite forms the foundation of a tavern built with fungi stalks in a manner similar to a log cabin. 
 
 
-Grygum has to cross a bridge woven of rothé wool to get to it. 
+Gyrgum has to cross a bridge woven of rothé wool to get to it. 
 
 
 Once there, he sees Werz sitting by himself at a table. The Duergar smiles. 
 
 
-As they sit, he hands Grygum and each of his companions a gemstone worth 10 gold pieces.
+As they sit, he hands Gyrgum and each of his companions a gemstone worth 10 gold pieces.
 
 
-Grygum asks, “What about the Flumph? And our ghost?” 
+Gyrgum asks, “What about the Flumph? And our ghost?” 
 
 
 Werz is happy to be alive and gives the Flumph a gem. The Flumph turns light blue. Then , when it turns green, it picks the stone up and plays with it in its tentacles. After a while, it turns magenta, and the stone falls to the ground. 
 
 
-As for the ghost, Werz hands Grygum the gem. 
+As for the ghost, Werz hands Gyrgum the gem. 
 
 
-When no one is looking, Grygum picks up the Flumph’s gem and puts it in his bag. 
+When no one is looking, Gyrgum picks up the Flumph’s gem and puts it in his bag. 
 
 
 “My saviors, I want you to know that I have already spoken to the owner of the Gholbrorn’s Inn, and I will take care of everything.” 
 
 
-Grygum can tell that Daz knows something is up, but the Drow is silent. 
+Gyrgum can tell that Daz knows something is up, but the Drow is silent. 
 
 
 “Assassins! I thought they were a story told to frighten children.” 
 
 
-The unimpressed cleric explains that just because someone tried to kill him is not proof of an assassin’s guild. “Why, if I tried to kill you, that would not make me a member of the Assassin’s Guild, unless someone paid me.” Grygum pauses, “I guess that would get me into trouble with any actual Assassin’s Guild.’ 
+The unimpressed cleric explains that just because someone tried to kill him is not proof of an assassin’s guild. “Why, if I tried to kill you, that would not make me a member of the Assassin’s Guild, unless someone paid me.” Gyrgum pauses, “I guess that would get me into trouble with any actual Assassin’s Guild.’ 
 
 
-Grygum wants to know more. But Thorin is eager to talk, so Grygum is silent. 
+Gyrgum wants to know more. But Thorin is eager to talk, so Gyrgum is silent. 
 
 
 Thorin asks, “Why did they try to kill you?” 
@@ -4922,16 +4922,16 @@ Thorin asks, “Why did they try to kill you?”
 “Because somebody paid them.” 
 
 
-Grygum rolls his eyes. “Do you have any enemies other than assassins?” 
+Gyrgum rolls his eyes. “Do you have any enemies other than assassins?” 
 
 
 The Duergar merchant shrugs, “First, assassins are not your enemies. They are professionals. And before you ask, I did try to offer them a higher rate, but they are professionals.” 
 
 
-Once again, Grygum notices that Daz has seen something. 
+Once again, Gyrgum notices that Daz has seen something. 
 
 
-Grygum turns to Daz, and Daz, through Flumph, speaks directly into Grygum’s mind, “Maybe he ordered somebody to assassinate somebody, and now somebody else found out and they have ordered somebody to assassinate him. He played, he fucked around and now he’s in the find out phase.” 
+Gyrgum turns to Daz, and Daz, through Flumph, speaks directly into Gyrgum’s mind, “Maybe he ordered somebody to assassinate somebody, and now somebody else found out and they have ordered somebody to assassinate him. He played, he fucked around and now he’s in the find out phase.” 
 
 
 Thorin asks, “Did you go to the Stone Guards?” 
@@ -4940,22 +4940,22 @@ Thorin asks, “Did you go to the Stone Guards?”
 Werz looks uncomfortable. “They would never believe me. The assassins are a children’s fable.” 
 
 
-Grygum is enjoying watching Thorin’s bluntness, “So you want us to kill a bunch of professionally trained killers?” 
+Gyrgum is enjoying watching Thorin’s bluntness, “So you want us to kill a bunch of professionally trained killers?” 
 
 
 Daz twists the knife well, “Are you trying to create a new assassin's guild?” 
 
 
-Werz turns pale, “I don’t know why I am on the list.” Grygum smiles, “Then I guess we’ll leave.” 
+Werz turns pale, “I don’t know why I am on the list.” Gyrgum smiles, “Then I guess we’ll leave.” 
 
 
 Werz grabs his hand and urges him to sit, “I am a merchant. And it’s my job to make deals between people. The Deepking has forbidden any weapons deals with any clan other than his clan, Clan Steelshadow. As a merchant, I can't walk away when I see two sides of a deal that I can profit from. And perhaps, I helped some clans make deals they shouldn’t have.”
 
 
-Grygum looks at him, “I suppose we could use you as bait.” 
+Gyrgum looks at him, “I suppose we could use you as bait.” 
 
 
-Werz snarls and then looks at Grygum, “You are overbrighters. And you are looking to get to Blingdenstone. The gnomes have been trying to make deals with the clans for weapons. I can help facilitate such a deal. I can promise I will make that deal.” 
+Werz snarls and then looks at Gyrgum, “You are overbrighters. And you are looking to get to Blingdenstone. The gnomes have been trying to make deals with the clans for weapons. I can help facilitate such a deal. I can promise I will make that deal.” 
 
 
 Thorin coughs, “Let’s talk about our optional NDA.” 
@@ -4964,7 +4964,7 @@ Thorin coughs, “Let’s talk about our optional NDA.”
 Werz looks at him, “NDA?” 
 
 
-Grygum points to Daz, who explains the concept of a Non-Disclosure Agreement, a critical part of any Drow deal. Daz adds, “The NDAs of the Drow promised all kinds of horrible outcomes to the party that revealed anything. We can only promise the haunting of a ghost.” Werz stares at the phantasm and shudders. 
+Gyrgum points to Daz, who explains the concept of a Non-Disclosure Agreement, a critical part of any Drow deal. Daz adds, “The NDAs of the Drow promised all kinds of horrible outcomes to the party that revealed anything. We can only promise the haunting of a ghost.” Werz stares at the phantasm and shudders. 
 
 
 “How much will it cost?” 
@@ -4979,13 +4979,13 @@ Grygum points to Daz, who explains the concept of a Non-Disclosure Agreement, a 
 “Or we can choose not to be bound by secrecy.” 
 
 
-Grygum tries not to laugh when Thorin explains, “I don’t like NDAs because they don’t allow for radical transparency and honesty in relations. So I get why you wouldn’t want one. We should tell everyone about our deals with you.” 
+Gyrgum tries not to laugh when Thorin explains, “I don’t like NDAs because they don’t allow for radical transparency and honesty in relations. So I get why you wouldn’t want one. We should tell everyone about our deals with you.” 
 
 
 Werz coughs, “A thousand?”
 
 
-Grygum admires how Daz snarls, “I told you it was 1250.”
+Gyrgum admires how Daz snarls, “I told you it was 1250.”
 
 
 The merchant whimpers apologetically, “I am a merchant, I have to question every price.” 
@@ -5000,13 +5000,13 @@ The merchant whimpers apologetically, “I am a merchant, I have to question eve
 “1100,” snarls Daz. 
 
 
-Grygum is impressed with Daz's cold calculation and watches as Werz hands over the coins. 
+Gyrgum is impressed with Daz's cold calculation and watches as Werz hands over the coins. 
 
 
 As he hands over the money, Werz says, “Since we are business partners, let me tell you about some information you might find helpful. As a merchant, I know how the clans feel about the Deepking. Clan Ironshadow’s clan leader is willing to wait out the Deepking’s madness, but other clan members are unhappy. Clan Thrazgad has been complaining about raids by the Grey Ghosts. Although many clans are dissatisfied, some, like Clan Xundom, will support the Deepking if war breaks out.” 
 
 
-Grygum yawns. 
+Gyrgum yawns. 
 
 
 Werz then whispers to him, “There are rumors of the Stone Guards taking bribes.” 
@@ -5018,10 +5018,10 @@ Werz then whispers to him, “There are rumors of the Stone Guards taking bribes
 “They were until a few months ago when the madness of the Deepking took over.” 
 
 
-Grygum takes note of the timing and the blink of the Faerzress but keeps silent. 
+Gyrgum takes note of the timing and the blink of the Faerzress but keeps silent. 
 
 
-As they are about to leave, Werz warns him, “This city is ready to explode. Provide the wrong faction with the wrong information, and you will have all-out war. Remember, Werz doesn’t care about politics; he only cares about trade. And I only care about gEttin g rid of my assassin's problem.” Grygum gives him a funny look, “And I would like the problem not to be solved with my death.” 
+As they are about to leave, Werz warns him, “This city is ready to explode. Provide the wrong faction with the wrong information, and you will have all-out war. Remember, Werz doesn’t care about politics; he only cares about trade. And I only care about gEttin g rid of my assassin's problem.” Gyrgum gives him a funny look, “And I would like the problem not to be solved with my death.” 
 
 
 Werz prepares to leave. 
@@ -5145,13 +5145,13 @@ Zalthir tries to look confused, but she has already left.
 Daz smiles, “They all know that we are going into the Whorlstone tunnels, and they all hope the information we provide will help them. The question is, how do we get the information and profit most?” 
 
 
-Grygum coughs, “And free Themberchaud.” 
+Gyrgum coughs, “And free Themberchaud.” 
 
 
 # Chapter 18.2 
 ## 1st day of the 2nd Tenday of Myrtul 1493
 ### Daz
-Daz looks at Flumph, Jimjar, Sarith, Stool, Eldeth, and Spiderbait, armed with Errde’s weapons. “Perhaps they will help us” as they follow him, Zalthir, Grygum, and Thorin, into the Derro slums of Gracklstugh. 
+Daz looks at Flumph, Jimjar, Sarith, Stool, Eldeth, and Spiderbait, armed with Errde’s weapons. “Perhaps they will help us” as they follow him, Zalthir, Gyrgum, and Thorin, into the Derro slums of Gracklstugh. 
 
 
 As he walks he reflects on the image of the egg that Flumph shared. 
@@ -5163,7 +5163,7 @@ The lettering on the egg rings a bell.
 “It’s too late.” 
 
 
-Grygum stares at him, “What do you mean?” 
+Gyrgum stares at him, “What do you mean?” 
 
 
 “A demon has already possessed the egg. There is no dragon there.” 
@@ -5245,7 +5245,7 @@ Daz overhears Thorin telepathically asking if Flumph will join them. Flumph says
 Jimjar moves to follow Rust, but Rust turns to him, “Only these four will come, the rest of you,” pointing at Spiderbait, Jimjar, Sarith, Stool and Eldeth, “can wait here.” 
 
 
-And so Daz, Thorin, Zalthir, and Grygum enter the chambers of the assassins. Rust marches them into a cave that is 70 feet long and 70 feet wide at its widest point. Inside is a large garden. Standing in the garden is Duergar with an eye patch. 
+And so Daz, Thorin, Zalthir, and Gyrgum enter the chambers of the assassins. Rust marches them into a cave that is 70 feet long and 70 feet wide at its widest point. Inside is a large garden. Standing in the garden is Duergar with an eye patch. 
 
 
 Daz takes note of a desk to the north with papers. 
@@ -5376,7 +5376,7 @@ Thorin reads it,
 ***LINGRICK XARDELVAR MY MOST GASEOUS ALLY!!!!!!*****”**
 
 
-He turns to Daz, “I think we have what we need.” He reads it out loud to Daz, Thorin, and Grygum. He then adds, “There are dozens more with one or two words of description, most of which are petty insults: 'Commoner,' 'Ugly,' 'Poor,' 'Wretched,' and so on.” 
+He turns to Daz, “I think we have what we need.” He reads it out loud to Daz, Thorin, and Gyrgum. He then adds, “There are dozens more with one or two words of description, most of which are petty insults: 'Commoner,' 'Ugly,' 'Poor,' 'Wretched,' and so on.” 
 
 
 Daz asks him, “But who wrote it?” 
@@ -5400,7 +5400,7 @@ Thorin turns to Flumph, Jimjar, Sarith, Stool, Eldeth, and Spiderbait and comman
 He then overhears Zalthir’s sigh. The sound of Thorin tiptoeing could wake the dead. Zalthir proposes a new plan: “I will cover you in Darkness and you will just be quiet.” 
 
 
-### Grygum 
+### Gyrgum 
 
 
 Past the caves they sneaked through, is a much larger tunnel, some 80 feet wide and hundreds of feet long. To the west, the tunnel opens up into a massive cave, glowing with faerzress, bioluminescent fungi, and shafts of white light that fall. GEttin g closer, he sees naturally formed shelves along the walls as well as a rocky mesa at the center of the cavern. His eye is drawn to crudely formed ramps connecting the different levels of the mesa up to the height of its two topmost tiers, which are linked by a sturdy bridge. 
@@ -5433,7 +5433,7 @@ Shifting his gaze to the adjacent topmost tier, another exclamation followed, th
 Near the base of this imposing obelisk stood a lone figure: a female derro. Her actions were curious; she stood close to the black metal, gently patting and stroking its cool surface with an almost reverent touch. Suddenly, the obelisk emitted a brief flash of light, a pulse that caused the ambient glow of the faerzress within the cavern to momentarily flare in response, intensifying the eerie illumination. The derro reacted with a sharp squeal of glee at this display. Immediately following the flash, she bent down and snatched an object from the ground near the obelisk. With the object now in hand, she produced a small notebook and began to diligently write something within its pages, her brow furrowed in concentration.
 
 
-Grygum coughs, “I am a cleric of Bahamut, and I am drawn to this egg.” 
+Gyrgum coughs, “I am a cleric of Bahamut, and I am drawn to this egg.” 
 
 
 He points to the egg. 
@@ -5448,34 +5448,34 @@ But something about his demeanor made her excited, “A cleric of Bahamut to see
 She shouts, “Come here!” 
 
 
-Grygum circles the mesa, finds a ramp in the back, and starts to climb. 
+Gyrgum circles the mesa, finds a ramp in the back, and starts to climb. 
 
 
-As he walks, he notices that Thorin, Daz, and Grygum follow him from a distance. 
+As he walks, he notices that Thorin, Daz, and Gyrgum follow him from a distance. 
 
 
 Plinki is ignoring their presence. Instead, she motions to several other Derro to come to the egg. 
 
 
-Grygum counts them, “six.” 
+Gyrgum counts them, “six.” 
 
 
-Once standing in front of the egg, Plinki points to Grygum’s friends and asks  , “Who are they?” 
+Once standing in front of the egg, Plinki points to Gyrgum’s friends and asks  , “Who are they?” 
 
 
-“They are my companions. They are not as enlightened as I.” Grygum looks at the egg, and can feel its evil. “Tell me about this egg?”  
+“They are my companions. They are not as enlightened as I.” Gyrgum looks at the egg, and can feel its evil. “Tell me about this egg?”  
 
 
 “The Grey Ghosts stole it from the Keepers of the Flame. And then I brought it here. I have been using this magical artifact to infuse it with the spirit of a demon in honor of Demogorgon.” 
 
 
-Grygum looks at Plinki and realizes that the poor Derro is confused about his sub-sect of the Cult of Bahamut. Unlike traditionalists who view the color of scales as the defining characteristic of Dragons, and that Dragons are fixed in their temperament, Grygum believes that Dragons have freedom of choice. And thus, for Grygum, there is no good or evil dragon because of its scales, but goodness and evil flow from the choices of dragons. 
+Gyrgum looks at Plinki and realizes that the poor Derro is confused about his sub-sect of the Cult of Bahamut. Unlike traditionalists who view the color of scales as the defining characteristic of Dragons, and that Dragons are fixed in their temperament, Gyrgum believes that Dragons have freedom of choice. And thus, for Gyrgum, there is no good or evil dragon because of its scales, but goodness and evil flow from the choices of dragons. 
 
 
-As Grygum reflects on this, he also notices that Plinki has gotten closer and that the other Derro have surrounded him. So when Plinki declares, “The beating heart of a cleric of Bahamut will seal the ritual!” He’s not surprised. 
+As Gyrgum reflects on this, he also notices that Plinki has gotten closer and that the other Derro have surrounded him. So when Plinki declares, “The beating heart of a cleric of Bahamut will seal the ritual!” He’s not surprised. 
 
 
-Grygum shouts, “The Drow hates dragons and will destroy the egg if you do not back down!” 
+Gyrgum shouts, “The Drow hates dragons and will destroy the egg if you do not back down!” 
 
 
 Plinki hesitates. 
@@ -5484,7 +5484,7 @@ Plinki hesitates.
 Thorin shouts, “What would a dragon omelet taste like? And would this one have two yolks?” 
 
 
-And then Grygum is enveloped in Darkness. Zalthir has enveloped the entire top tier in his magical darkness. Grygum hears the thuds of Zalthir’s fists on the crazed Derro. Plinki shouts, “Let me go!” Grygum smiles. Plinki has been grappled. And since he is grappled, Grygum will show him the true power of Bahamut. He utters words of cruel power, rakes his hand through the air before Plinki. Magic follows, forming a great claw that glimmers in the air for the blink of an eye. This necromancy seeks to rend armor, unstitch flesh, crush bone—to do whatever it must to destroy your enemy.
+And then Gyrgum is enveloped in Darkness. Zalthir has enveloped the entire top tier in his magical darkness. Gyrgum hears the thuds of Zalthir’s fists on the crazed Derro. Plinki shouts, “Let me go!” Gyrgum smiles. Plinki has been grappled. And since he is grappled, Gyrgum will show him the true power of Bahamut. He utters words of cruel power, rakes his hand through the air before Plinki. Magic follows, forming a great claw that glimmers in the air for the blink of an eye. This necromancy seeks to rend armor, unstitch flesh, crush bone—to do whatever it must to destroy your enemy.
 
 
 # Chapter 18.4 The Flumph Trauma Dump
@@ -5492,7 +5492,7 @@ And then Grygum is enveloped in Darkness. Zalthir has enveloped the entire top t
 
 *The Flumph was traumatized by the entire battle scene. Fortunately, it found a willing receptacle for a trauma dump that we share here. *
 Oh! Oh, thank goodness, a fresh mind! You have to listen, you just *have* to, I feel like I'm going to burst! It was... it was just the most awful, chaotic, LOUD thing I have ever had to feel!
-So there they were, my heroes! Standing before the mean lady-derro, Plinki. And the orc-cleric, Grygum, was trying to talk to her, something about choice and dragon gods. His thoughts were so... earnest and golden-yellow! But Plinki, her mind was just a screeching, red mess of "Sacrifice! Power! For the Big Baboon Demon!"
+So there they were, my heroes! Standing before the mean lady-derro, Plinki. And the orc-cleric, Gyrgum, was trying to talk to her, something about choice and dragon gods. His thoughts were so... earnest and golden-yellow! But Plinki, her mind was just a screeching, red mess of "Sacrifice! Power! For the Big Baboon Demon!"
 Then everything went wrong all at once! *Flumph!* Sharp little pings of malice from the dark! The nice lady-dwarf, Eldeth, her thoughts just went *AAAAH-PAIN!* and it was like gEttin g stabbed with a rusty-tasting needle!
 And then Zalthir—oh, Zalthir, the quiet, scaly one, his mind is usually like a still, cool pond, you know? But he just decided—no more light! *FWOOMP.* And the whole world went psychically gray and muffled! It was like trying to taste soup through a wool blanket! I couldn't get a clean read on *anything!* Just jumbled bits of "Where are they?!" and "Kill them!" It was so confusing!
 The Dwarf, Thorin, he just charged right into that black cloud. His mind was a simple, bright axe-blade of "HIT THE BAD THING." Very pure, but so loud!
@@ -5547,7 +5547,7 @@ The monk looks around. The upper levels of the mesa are covered in blood and the
 He looks to where the egg should be. There is no egg. There are two dead derro. 
 
 
-Grygum shouts, “Where is the egg?” 
+Gyrgum shouts, “Where is the egg?” 
 
 
 Then Daz shouts back, “I have it.” 
@@ -5559,7 +5559,7 @@ Zalthir jumps off the mesa and heads to an alcove in the northeast corner. There
 “Leemooggoogoon, Demogorgon, two-headed baby dragons - …” he thinks to himself.
 
 
-While Daz and Pelek exchange pleasantries, and Grygum searches the bodies he heads to the northwest corner where there is a desk with some papers. 
+While Daz and Pelek exchange pleasantries, and Gyrgum searches the bodies he heads to the northwest corner where there is a desk with some papers. 
 
 
 He finds a journal by Plinki. 
@@ -5575,7 +5575,7 @@ The Obelisk. Such a magnificent, fractured thing! Hidden here by Diirinka himsel
 **Day 25 – The Prince's Gift Arrives**
 The Gray Ghosts delivered it! The Red Dragon Egg! What a marvel! The Keepers are in a panic over its loss, but they don't understand the true glory that awaits this "replacement". This is no mere insurance policy; it is the vessel for my greatest creation, a gift worthy of Demogorgon himself. The Deep King will be "delighted" when he sees it, though he knows nothing yet of its true destiny. My work begins at once. The notes are spread, the circles drawn.
 **Day 38 – Mutagenic Progress!**
-The experiments are progressing gloriously! The egg pulses with new life, and my notes confirm my suspicions: the mutations are taking hold. I've surrounded it with the finest reagents: hair, scales, fungi from the tunnels, and... other, more precious viscera. My goal is clear, a two-headed wyrmling, a perfect "Prince's gift" for Demogorgon, to serve as his mount. Grygum, the cleric of Bahamut, spoke of "freedom of choice" for dragons, but what he doesn't understand is that true choice lies in serving the Prince of Demons. The transformation will make it *perfect*.
+The experiments are progressing gloriously! The egg pulses with new life, and my notes confirm my suspicions: the mutations are taking hold. I've surrounded it with the finest reagents: hair, scales, fungi from the tunnels, and... other, more precious viscera. My goal is clear, a two-headed wyrmling, a perfect "Prince's gift" for Demogorgon, to serve as his mount. Gyrgum, the cleric of Bahamut, spoke of "freedom of choice" for dragons, but what he doesn't understand is that true choice lies in serving the Prince of Demons. The transformation will make it *perfect*.
 **Day 47 – The Obelisk Responds**
 I returned to the Obelisk today, feeling the madness and corruption of the city seep into my very being. The constant war between the Keepers and the Council, Gartokkar's paranoia, Errde's "conspiracy theories" – it's all part of the spiral. I pressed my hand to the Obelisk again, channeling the energy of the Whorlstone Tunnels into its fractures. It didn't just flash this time; the very air around it flared! It hungers for more power, more chaos! This monolith will be the instrument of our ascension, allowing us to conquer Gracklstugh and deliver it as a sacrificial gift to Demogorgon.
 **Day 54 – Anticipation and Destiny**
@@ -5620,10 +5620,10 @@ Zalthir knows he has enough to condemn the Derro and Duergar to a genocidal war 
 
 
 “But is that the right thing to do?” he wonders. 
-### Grygum 
+### Gyrgum 
 
 
-Grygum reads what Zalthir has found and is disturbed. And the egg disturbs him further. As he sits there, he remembers some text from the temple where he learned of the power of Bahamut - 
+Gyrgum reads what Zalthir has found and is disturbed. And the egg disturbs him further. As he sits there, he remembers some text from the temple where he learned of the power of Bahamut - 
 
 
 *"When the egg, crimson-hued, promises but a shadow's ride, does one mend the shell, or seek to free the spark within? The true wyrm's form is not etched by fate's first breath, nor by sorcerous hand. It is the choices that twist the spirit, or set it soaring. To break the chains of another's dark design, even when madness fuels the crafting, is to affirm the very freedom Bahamut cherishes.” *
@@ -5647,7 +5647,7 @@ Zalthir stares at him, confused, “What?”
 \*rattle\* 
 
 
-Grygum stands at attention and turns to the rattling sound.
+Gyrgum stands at attention and turns to the rattling sound.
 
 
 There is Thorin with a baby rattle. A giant baby rattle that looks like it would fit a dragon. 
@@ -5656,7 +5656,7 @@ There is Thorin with a baby rattle. A giant baby rattle that looks like it would
 Thorin shouts, “Look what I found.” 
 
 
-Grygum approaches him, “This is a baby dragon rattle. How curious.” 
+Gyrgum approaches him, “This is a baby dragon rattle. How curious.” 
 
 
 He examines it further, “It says made by clan Thrazgad.” 
@@ -5668,13 +5668,13 @@ He examines it further, “It says made by clan Thrazgad.”
 Thorin rattles it some more, “We should get a baby dragon. I would like to have a dragon. It would be so cool if we had a dragon.” 
 
 
-Grygum is appalled. Zalthir is a dragonborn. And Dragonborn are considered, by some, a draconic abomination. 
+Gyrgum is appalled. Zalthir is a dragonborn. And Dragonborn are considered, by some, a draconic abomination. 
 
 
-Grygum coughs. He watches as Thorin stares at him and realizes what he said, “I’m sorry. I didn’t mean that we don’t have a pure dragon, and that I wanted a pure dragon.” He pauses, “Okay, that sounded worse. I am going to stop now.” 
+Gyrgum coughs. He watches as Thorin stares at him and realizes what he said, “I’m sorry. I didn’t mean that we don’t have a pure dragon, and that I wanted a pure dragon.” He pauses, “Okay, that sounded worse. I am going to stop now.” 
 
 
-Grygum watches Zalthir clench and unclench.  
+Gyrgum watches Zalthir clench and unclench.  
 
 
 ### Thorin
@@ -5692,7 +5692,7 @@ Zalthir mutters, “I vote we get out of here as discreetly as possible, creatin
 Thorin sighs, “Yeah.” 
 
 
-Grygum pulls out a scrap of paper, “I’ve been taking notes on all of the deals we have made. And it seems to me that the best choice we have is to give the egg to Gartokkar and then use him to escape from Gracklstugh. We tell Gartokkar that the Derro didn’t steal the egg, but some other crazed group. We also explain that we need his help to escape because of the deal we made with the Stone guards and that if Errde were to imprison us, we might be compelled to change our story under torture.” 
+Gyrgum pulls out a scrap of paper, “I’ve been taking notes on all of the deals we have made. And it seems to me that the best choice we have is to give the egg to Gartokkar and then use him to escape from Gracklstugh. We tell Gartokkar that the Derro didn’t steal the egg, but some other crazed group. We also explain that we need his help to escape because of the deal we made with the Stone guards and that if Errde were to imprison us, we might be compelled to change our story under torture.” 
 
 
 Thorin stares at him. 
@@ -5722,7 +5722,7 @@ Everyone stares at him.
 There is a moment of silence. 
 
 
-Grygum mutters, “The Second Faction?” 
+Gyrgum mutters, “The Second Faction?” 
 
 
 Thorin looks at him and arches an eyebrow, but Daz says what he is thinking, “Too derivative.” 
@@ -5731,7 +5731,7 @@ Thorin looks at him and arches an eyebrow, but Daz says what he is thinking, “
 And then he smiles, “I have it - The Ember Vanguard.” 
 
 
-Thorin looks around and notices that Zalthir is nodding, Daz is smiling, and even Grygum seems pleased. 
+Thorin looks around and notices that Zalthir is nodding, Daz is smiling, and even Gyrgum seems pleased. 
 
 
 “The Ember Vanguard, Onwards!” 
@@ -5805,32 +5805,32 @@ Once past the doors, Thorin leads them west, instead of south, where the Empty S
 After walking in the enormous 20-foot-wide cavern for a few minutes, Thorin hears a yelp. 
 
 
-He turns around and sees Grygum enveloped by a creature that looks like a manta ray. 
+He turns around and sees Gyrgum enveloped by a creature that looks like a manta ray. 
 
 
-Grygum shouts in pain. 
+Gyrgum shouts in pain. 
 
 
 Daz ponders his spell list and has some intriguing ideas, but realizes that the old standby, Magic Missile, is probably the best bet. 
 
 
-He watches as Zalthir and Thorin attack the creature, trying to get it to release Grygum.
+He watches as Zalthir and Thorin attack the creature, trying to get it to release Gyrgum.
 
 
-Daz grits his teeth as he hears Grygum’s muffled sounds of pain and watches as the Orc can’t escape. 
+Daz grits his teeth as he hears Gyrgum’s muffled sounds of pain and watches as the Orc can’t escape. 
 
 
-So he casts silvery barbs to help Grygum escape, and then Daz follows up with the deadly chimes of the spell toll the dead. 
+So he casts silvery barbs to help Gyrgum escape, and then Daz follows up with the deadly chimes of the spell toll the dead. 
 
 
-Zalthir strikes the creature a few more times with his fist, and the beast dies before Grygum can take advantage of the spell. 
+Zalthir strikes the creature a few more times with his fist, and the beast dies before Gyrgum can take advantage of the spell. 
 
 
 But the Orc is grateful, but he looks unhappy as he is covered in the acid slime of the Trapper. 
 
 
 # Chapter 20 The Derro like Demogorgon
-### Grygum.
+### Gyrgum.
 
 
 The battle was terrifying. But I am alive. Wounded. But alive. So let me do a bit of Divine magic and heal myself. And that friendly dwarf, the one Thorin likes. 
@@ -5854,7 +5854,7 @@ Zalthir, the good old monk, is scouting ahead, keeping us safe. Good for him.
 “Something’s up ahead.” 
 
 
-I have to assume it’s not good. So I follow Grygum and Thorin around the turn of the tunnel and see a single Derro standing over a pit, with an unbelievable smell emanating from it.  
+I have to assume it’s not good. So I follow Gyrgum and Thorin around the turn of the tunnel and see a single Derro standing over a pit, with an unbelievable smell emanating from it.  
 
 
 I look at him carefully.  He  has blue, gray skin and pale eyes that lack both irises and pupils. He has thin, stringy hair, dull white, constantly looking greasy and unkempt. The creature is wearing scraps of tattered leather and cloth stained with grime and the foul odors of wherever he has been working. Now that’s interesting, he seems to be muttering to himself. Bah, it’s a common trait among the irrevocably insane of the Derro. 
@@ -5867,7 +5867,7 @@ I stare at him. I wonder is he the true-believing kind that has warped his world
 
 
 I look at him carefully to see some spark of genius. I see nothing. He’s a dummy. I recall the stories of the Derro, creatures that served the mind flayers and had their minds destroyed. They are not well in the best of times. 
-### Grygum 
+### Gyrgum 
 
 
 I approach the poor creature. And examine what he is doing. 
@@ -5927,7 +5927,7 @@ From there, a voice and an Ogre Zombie emerge.
 “What is the meaning of this? Who are you? Who do you think you are?” 
 
 
-“We are the Ember Guard,” shouts Grygum. I smile. I like that name. 
+“We are the Ember Guard,” shouts Gyrgum. I smile. I like that name. 
 
 
 “Who do you work for?” she shouts. 
@@ -5936,7 +5936,7 @@ From there, a voice and an Ogre Zombie emerge.
 I pause and try to answer. However, we have struck numerous deals with various other parties, and I'm no longer sure what to say. 
 
 
-Grygum answers - "Ah, my friend, you've just asked him a simple question: "So, Grygum, who do you work for, truly?"
+Gyrgum answers - "Ah, my friend, you've just asked him a simple question: "So, Gyrgum, who do you work for, truly?"
 
 
 He looks at her with a mix of weariness and a peculiar Orcish amusement. "That is a question that requires more than a simple answer. It is, in fact, a Divine Scrutiny, a profound act of investigation into the very threads of our intertwined fates, here in this churning city of Gracklstugh."
@@ -5954,7 +5954,7 @@ Clerics of Bahamut.
 Now let’s take a look at her more closely. She’s the necromancer in charge of this operation. But she’s a cultist of Demogorgon, and she’s a derro, and fear works well for keeping these creatures at bay. 
 
 
-The Derro named Skiit, which Grygum tossed into the pit, is starting to wake up. I know what to do. 
+The Derro named Skiit, which Gyrgum tossed into the pit, is starting to wake up. I know what to do. 
 
 
 I cast Maximillian’s Earthen Grasp and start to crush the poor unfortunate creature. 
@@ -5981,7 +5981,7 @@ I look at Ulnara, who realizes that I am Drow. And that the Drow do not mess aro
 “Thank you for this new supply! I know you will tell Plinki that I Ulnara did much to help the Ember Vanguard!” 
 
 
-“We shall, certainly,” says Grygum in his preacher’s voice. 
+“We shall, certainly,” says Gyrgum in his preacher’s voice. 
 
 
 ### Thorin
@@ -6016,7 +6016,7 @@ I notice two Derro in front of a tent, near a tent. Both are talking while ignor
 The other intones as it stares intently into the murky bubbling cauldron, tracing an invisible pattern with a dirty finger, “Water it chips, not like the dark lake. There, I pulled something from the dark ones, A scale smooth, this polished obsidian, but it shimmered like madness. In the dim light came from the deep, the deepest part with voices seeing.”
 
 
-Grygum mutters, “They are mad.”
+Gyrgum mutters, “They are mad.”
 
 
 Zalthir asks - “Do we need to fight them?”
@@ -6037,16 +6037,16 @@ Daz insists we march as if we own this place. And it works. The creatures are fe
 Just a few more yards and we will be past them. 
 
 
-But Grygum notices something, and he can’t keep quiet. 
+But Gyrgum notices something, and he can’t keep quiet. 
 
 
 “I worship Bahamut!” 
 
 
-The moment that Grygum mentioned "Bahamut," I knew we were in for it. These Derro, bless their simple, deranged minds, don't take kindly to anything outside their two-headed deity. And sure enough, they immediately attack. 
+The moment that Gyrgum mentioned "Bahamut," I knew we were in for it. These Derro, bless their simple, deranged minds, don't take kindly to anything outside their two-headed deity. And sure enough, they immediately attack. 
 
 
-Grygum shouts, “I thought we could have a deep Phylosophical conversation!” 
+Gyrgum shouts, “I thought we could have a deep Phylosophical conversation!” 
 
 
 I roll my eyes. 
@@ -6058,16 +6058,16 @@ The Derro are Dwarves that were slaves of the mindflayers, who corrupted their f
 I moved forward, my heavy armor clanking, but I ignored the sound. My focus was on the nearest Derro. He was a scrawny one, probably thought he was tough. I swung my longsword, a satisfying *thwack* as it connected. "Take that, you blithering fool!" I yelled, though I'm sure it was lost in the chaos. A hit, but not enough to drop him, but enough to know he'd messed with the wrong dwarf. 
 
 
-The Derro themselves were predictably clumsy. One swung at me, but my armor held. The other landed a hit on Grygum, but our allies were quick to retaliate, dealing a good chunk of damage to him. Zalthir, bless his arcane heart, summoned his darkness, enveloping a couple of them. Then, in a burst of brilliant speed, he critically struck one of the Darrow. Impressive.
+The Derro themselves were predictably clumsy. One swung at me, but my armor held. The other landed a hit on Gyrgum, but our allies were quick to retaliate, dealing a good chunk of damage to him. Zalthir, bless his arcane heart, summoned his darkness, enveloping a couple of them. Then, in a burst of brilliant speed, he critically struck one of the Darrow. Impressive.
 
 
 Daz, always quick with a spell, launched his magic missiles. A flurry of arcane energy streaked across the tunnel, and the Derro had struck, already reeling, and fell. One down. Good.
 
 
-The remaining Derro, true to their limited intellect, continued their mindless attacks. One swung wildly at Zalthir, missing entirely. Another charged Grygum, screaming some incoherent babble about their master. My armor held, and I parried his pathetic attack. "One head is better than two!" I roared, pushing him back.
+The remaining Derro, true to their limited intellect, continued their mindless attacks. One swung wildly at Zalthir, missing entirely. Another charged Gyrgum, screaming some incoherent babble about their master. My armor held, and I parried his pathetic attack. "One head is better than two!" I roared, pushing him back.
 
 
-My chance came again, and I didn't hesitate. I brought my longsword down hard on the Derro, attacking Grygum. The sword cut through his flimsy armor and into his chest, and it dropped like a sack of rocks. Dead. "This is how the Bahamut walks!" I declared, standing over his fallen form, ready to take on the next fool who dared challenge us.
+My chance came again, and I didn't hesitate. I brought my longsword down hard on the Derro, attacking Gyrgum. The sword cut through his flimsy armor and into his chest, and it dropped like a sack of rocks. Dead. "This is how the Bahamut walks!" I declared, standing over his fallen form, ready to take on the next fool who dared challenge us.
 
 
 But they were all dead. 
@@ -6089,7 +6089,7 @@ I walk in quietly. We don’t need light, because we can all see in the dark.
 As I walk in, I can see the light of campfires. 
 
 
-Grygum shouts, “Watch it!” 
+Gyrgum shouts, “Watch it!” 
 
 
 I look down at what he is pointing at, and it’s a poorly disguised pit trap. Whatever is here is at least trying to keep out outsiders. 
@@ -6185,13 +6185,13 @@ Here, may you two-headed fools! *
 *Where did they get this ritual? Ah, the book in the chief cultist's hands. *
 
 
-Grygum turns to me, “I know we want to stop this ritual, but my spells are almost finished.” 
+Gyrgum turns to me, “I know we want to stop this ritual, but my spells are almost finished.” 
 
 
 Thorin growls, “We need to protect the giants.” 
 
 
-Fortunately, Grygum notices something, or has a divine inspiration, or lies like so many of Lolth’s priests. We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.  
+Fortunately, Gyrgum notices something, or has a divine inspiration, or lies like so many of Lolth’s priests. We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.  
 
 
 Thorin is displeased, but understands. 
@@ -6257,7 +6257,7 @@ And the creature falls asleep.
 I look at sleeping and shrug, wondering why parents complain so bitterly about their children. 
 
 
-### Grygum
+### Gyrgum
 
 
 I prepare to say my prayers when the Pelek, who now possesses the body of Derro, asks if we would tie him up. He’s concerned that he might lose control of the Derro, who might try to kill us. 
@@ -6275,7 +6275,7 @@ As we tie Pelek/Derro up, JimJar again offers one of his silly bets. He bets me 
 ## 2nd day of the 2nd tenday of Myrtul
 
 
-### Grygum
+### Gyrgum
 
 
 And when we wake up, Pelek/Derro is still tied up. And I collect my winnings. 
@@ -6394,7 +6394,7 @@ He seems disappointed with the outcome.
 And of course, Narrak has to provide a running commentary, “Fire is nothing compared to the awesome power of Demogorgon!” 
 
 
-One of the Derro rushes out of Zalthir’s darkness, notices Grygum, and strikes him while chanting, “You shall die! You shall die!” 
+One of the Derro rushes out of Zalthir’s darkness, notices Gyrgum, and strikes him while chanting, “You shall die! You shall die!” 
 
 
 The Derro misses. 
@@ -6406,7 +6406,7 @@ Another creature attacks Zalthir in the darkness. It took shrieks something inte
 And then I hear Zalthir shout, “There’s some kind of effect that the circle has on those who enter it. Some kind of madness gripped my mind, but my monk training allowed me to stop it. Be careful!” 
 
 
-And then I hear Grygum moaning in pain, then in incantation. There is a violent heaving. I look at him as he straightens and vomits forth a wave of acid.
+And then I hear Gyrgum moaning in pain, then in incantation. There is a violent heaving. I look at him as he straightens and vomits forth a wave of acid.
 
 
 This is not a spell I wish to cast. 
@@ -6421,8 +6421,8 @@ Narrak shouts, “What’s going on here!”
 The Ettin  points at the three of us outside of the darkness, but Narrak can’t see anything. 
 
 
-Another Derro rushes out of the darkness and attacks Grygum, missing. 
-Finally, Narrak emerges and shouts, “I will use fear!” He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified. 
+Another Derro rushes out of the darkness and attacks Gyrgum, missing. 
+Finally, Narrak emerges and shouts, “I will use fear!” He takes a white feather and points at Thorin, Gyrgum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified. 
 
 
 As the fear takes over, he shouts - “Beyond you creatures!” 
@@ -6440,7 +6440,7 @@ If I am left alone, this will not be good.
 And then Zalthir has a brilliant ploy. He moves the darkness over Narrak. As the source of the Ember Vanguard’s fear is no longer visible, they are no longer affected by it.  
 
 
-A guiding bolt from Grygum strikes the Ettin , and it groans and then smiles. I don’t think the spell hurt him as badly as we need. 
+A guiding bolt from Gyrgum strikes the Ettin , and it groans and then smiles. I don’t think the spell hurt him as badly as we need. 
 
 
 But Thorin has a better chance to strike the creature, and he does. 
@@ -6453,13 +6453,13 @@ Narrak screams in rage - “You cannot stop the inevitable... the curse spreads!
 
 
 # Chapter 22 Defeating Narrak, ending the ritual, and next steps. 
-### Grygum 
+### Gyrgum 
 The air is thick with the foul stench of these Derro, their maddening chant of 'die, die, die' echoing in my ears. Gru Manga, the hulking Ettin, roars before us. As a cleric of Bahamut, my duty is clear: protect the innocent and smite these wicked creatures. I focus, channeling the Platinum Dragon's justice, and my acid spell lashes out, catching three of the chanting Derro. But then Gru Manga's roar fills the cavern, an enraged bellow directed straight at me, convinced I am the source of his pain. Before I can react, a Derro bursts from Zalthir's darkness, its hook sphere striking me. The hit throws me off balance and I am knocked prone. Worse, the impact shatters my concentration, and the acidic mist I'd conjured dissipates.
 ### Zalthir
-While Grygum struggles, pinned and prone, I act. My monastic training calls for calm and precise action, even when faced with unexpected turns. I activate my Eldritch Maul, transforming my hands into a writhing mass of tentacles that extends a terrifying fifteen feet. It is unsettling, even to me, but undeniably effective. With swift motion, I move the sphere of darkness, enveloping Gru Manga once more, depriving him of sight. Now, with him blinded, my tentacles lash out, striking the Ettin. I press the assault, channeling a focus point for another strike. Drawing on the skills I learned in the monastery to grapple folks, a skill that proved useful in a tavern brawl once,  my tentacles wrap around him, and Gru Manga is grappled, held tight in my grasp. The Ettin fights no more on his terms.
+While Gyrgum struggles, pinned and prone, I act. My monastic training calls for calm and precise action, even when faced with unexpected turns. I activate my Eldritch Maul, transforming my hands into a writhing mass of tentacles that extends a terrifying fifteen feet. It is unsettling, even to me, but undeniably effective. With swift motion, I move the sphere of darkness, enveloping Gru Manga once more, depriving him of sight. Now, with him blinded, my tentacles lash out, striking the Ettin. I press the assault, channeling a focus point for another strike. Drawing on the skills I learned in the monastery to grapple folks, a skill that proved useful in a tavern brawl once,  my tentacles wrap around him, and Gru Manga is grappled, held tight in my grasp. The Ettin fights no more on his terms.
 ### Daz
-The Ettin is grappling with Zalthir's tentacles, held tight in that strange new form of his. Grygum is back on his feet now, and I see him preparing another spell. Good. Zalthir moves his darkness, so my ocus shifts to another Derro. They are a nuisance, but some are weaker than others. I call upon the simplest, yet most reliable, of my spells: Magic Missile. Two bolts streak towards the weaker Derro northeast of Grygum, and the third unerringly finds its mark on a stronger one. The weaker Derro crumples, **dead** instantly. It is a clean kill, one less chanting maniac to deal with. Just then, Narrak's voice, strangely cutting out, booms, 'fools, your sacrifice is but a step toward glory!' Empty words from a cultist who underestimates the effectiveness of direct force.
-### Grygum 
+The Ettin is grappling with Zalthir's tentacles, held tight in that strange new form of his. Gyrgum is back on his feet now, and I see him preparing another spell. Good. Zalthir moves his darkness, so my ocus shifts to another Derro. They are a nuisance, but some are weaker than others. I call upon the simplest, yet most reliable, of my spells: Magic Missile. Two bolts streak towards the weaker Derro northeast of Gyrgum, and the third unerringly finds its mark on a stronger one. The weaker Derro crumples, **dead** instantly. It is a clean kill, one less chanting maniac to deal with. Just then, Narrak's voice, strangely cutting out, booms, 'fools, your sacrifice is but a step toward glory!' Empty words from a cultist who underestimates the effectiveness of direct force.
+### Gyrgum 
 I pull myself up, shedding the prone condition with a determined heave, using half my movement to regain my footing. My previous acid spell was disrupted, but I still have more slots to cast Tasha's Caustic Brew. I unleash a stream of corrosive acid, spraying all three Derro. Two manage to dodge its full effect, but one does not and now suffers at the start of its turns. I let them feel the burn of Bahamut's righteous wrath. Narrak speaks. His words hold dark meaning, perhaps they are part of the ritual, a ritual that needs to be stopped. We have to end this.
 ### Zalthir
 
@@ -6468,10 +6468,10 @@ Gru Manga, despite my latest strike, is still clinging to life, but barely. This
 ### Daz
 
 
-Narrak, the foolish cultist of this twisted scene, attacks Grygum, although still restrained by my Maximilian's Earthen Grasp. He attempts to break free of my grasp, but fails. Now, it is time to press the advantage, to ensure he remains our captive. I command the earthen hand to squeeze him further. Narrak might talk of glory and sacrifice, but he is currently just a victim of my magic. Thorin heals himself, ready for another push, and I know we are nearing the end of this chaotic dance.
+Narrak, the foolish cultist of this twisted scene, attacks Gyrgum, although still restrained by my Maximilian's Earthen Grasp. He attempts to break free of my grasp, but fails. Now, it is time to press the advantage, to ensure he remains our captive. I command the earthen hand to squeeze him further. Narrak might talk of glory and sacrifice, but he is currently just a victim of my magic. Thorin heals himself, ready for another push, and I know we are nearing the end of this chaotic dance.
 
 
-### Grygum
+### Gyrgum
 
 
 Narrak strikes at Thorin with a short spear. The evil cult leader will die soon. So I focus my intent, casting True Strike, honing my aim for the next blow. Then, I bring my mace down on a Derro, but it is still standing. Thorin observes that it’s nearly dead. I smile, I know it won't last long. We have control, and the enemy is faltering.
@@ -6480,7 +6480,7 @@ Narrak strikes at Thorin with a short spear. The evil cult leader will die soon.
 ### Zalthir
 
 
-The fight ends swiftly after Grygum's last strike, with Thorin making the final, grim decision to kill Narrak, his last words a desperate plea: 'No, the ritual cannot be undone!'. It seems his 'glory' has indeed ended here. All enemies are now dead. While I prefer discretion and the avoidance of unnecessary conflict, the efficiency of our group in battle is undeniable. We are no longer mere prisoners; we are a formidable force. The 'silent spell' from earlier dissipates, and the true scope of this strange ritual, involving the two-headed stone giant statue, now presents itself. My thoughts, usually calm, ponder the true nature of Narrak's work: the statue, the "Rituals of the Two-Headed Beast," and the madness it induces in stone giants. We acquire some peculiar, yet potentially useful, items from Narrak's person and his chest, including gold, Keoghtom's Ointment, and strange texts. 
+The fight ends swiftly after Gyrgum's last strike, with Thorin making the final, grim decision to kill Narrak, his last words a desperate plea: 'No, the ritual cannot be undone!'. It seems his 'glory' has indeed ended here. All enemies are now dead. While I prefer discretion and the avoidance of unnecessary conflict, the efficiency of our group in battle is undeniable. We are no longer mere prisoners; we are a formidable force. The 'silent spell' from earlier dissipates, and the true scope of this strange ritual, involving the two-headed stone giant statue, now presents itself. My thoughts, usually calm, ponder the true nature of Narrak's work: the statue, the "Rituals of the Two-Headed Beast," and the madness it induces in stone giants. We acquire some peculiar, yet potentially useful, items from Narrak's person and his chest, including gold, Keoghtom's Ointment, and strange texts. 
 
 
 Four different factions sent us into these caves looking for evidence to bury the other. This evidence can bury this entire city in blood if we release it. 
@@ -6501,7 +6501,7 @@ But what to do.
 
 And then the curious JimJar speaks. He observes that we have this evidence that we can keep. He wants to make a bet that it would be helpful to us later. Jimjar's advice to 'hold onto these' for later usefulness is wise, as always. We have survived, and now we have leverage. The idea of 'installing democracy' is floated, but I laugh. The Duergar and their innate invisibility create a level of paranoia that prevents any kind of civil debate. 
 ### Stool 
-“Hey, Zalthir? Grygum? Can we go save Rump-a-dump now? PLEASE!!!!!” 
+“Hey, Zalthir? Gyrgum? Can we go save Rump-a-dump now? PLEASE!!!!!” 
 # Chapter 23 The Dark Lady 
 ### Zalthir
 The small myconid has become increasingly demanding that we save his friend Rump-a-dump. 
@@ -6539,7 +6539,7 @@ We soon arrive at the cave with the Myconids, who seem to be dancing as if at a 
 My allies seem confused, and I realized that not everybody is aware of The Wandering Veil. So I explain that this eclectic troupe of bards and mystics has roamed the realms for decades, their music a swirling tapestry of haunting ballads, raucous tavern shanties, and spellbinding improvisations that seem to bend the very fabric of reality. 
 
 
-Grygum looks at the Myconids and looks at me, and is still confused. So I explain “The Veil’s performances are never the same twice; each show is a living ritual, a communal experience where the lines between audience and artist blur, and even the most hardened adventurer finds themselves dancing beneath a sky painted with arcane light.” 
+Gyrgum looks at the Myconids and looks at me, and is still confused. So I explain “The Veil’s performances are never the same twice; each show is a living ritual, a communal experience where the lines between audience and artist blur, and even the most hardened adventurer finds themselves dancing beneath a sky painted with arcane light.” 
 
 
 As we stand there, Sarith suddenly starts walking towards the Myconids as if compelled. 
@@ -6584,7 +6584,7 @@ I gesture with a thick, stubby appendage towards the dancing myconids, then poin
 "It's Voosbur. He released strange spores... and everyone changed. They started... this.".
 
 
-### Grygum 
+### Gyrgum 
 
 
 The creature looks uncomfortable and very worried. 
@@ -6687,13 +6687,13 @@ The creature’s hand is outstretched, and I shrug. I have seen the ecstatic dru
 But Thorin, who has a “fuck-it-all” attitude, takes the creature's hand. 
 
 
-Grygum mutters, “This reminds me of that time. Well, I’ll be going around to make sure it isn’t a bad trip.” And he too is holding onto Voosbur’s hand. 
+Gyrgum mutters, “This reminds me of that time. Well, I’ll be going around to make sure it isn’t a bad trip.” And he too is holding onto Voosbur’s hand. 
 
 
 I step back. 
 
 
-And then both Grygum and Thorin stop moving. 
+And then both Gyrgum and Thorin stop moving. 
 
 
 Voosbur assures that all will be well. 
@@ -6759,10 +6759,10 @@ The ground beneath my feet is uneven, tangled with root-like growths that seem t
 
 Every step in here feels like walking through a living maze, and these vines seem almost sentient, watching, waiting for a misstep—too much life in a tunnel for my liking. Give me solid stone any day over this… this thing. 
 
-I turn to Grygum and urge caution and quiet. And for a time, it works, and we go through the vine forest. 
+I turn to Gyrgum and urge caution and quiet. And for a time, it works, and we go through the vine forest. 
 
 
-Some thirty feet from the exit of this place, Grygum is making too much noise. The vines start to move to close the path forward. If we don’t make it to the exit, we will be trapped in this nightmare. 
+Some thirty feet from the exit of this place, Gyrgum is making too much noise. The vines start to move to close the path forward. If we don’t make it to the exit, we will be trapped in this nightmare. 
 
 
 We dash, vines try to lash us and miss. We arrive at the edge of this cave and can see behind us the once clear path covered in vines that are moving, pulsing, and crunching. 
@@ -6819,7 +6819,7 @@ And then she speaks to me with a soft, melodic tone.
 She then looks at me with her eyes, “Do you fear the rot... or do you understand its song?”
 
 
-I think about this for a moment. Grygum reminds me that every deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power. 
+I think about this for a moment. Gyrgum reminds me that every deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power. 
 
 
 The temptation is there, but I don’t know what will happen and it’s too dangerous. 
@@ -6835,7 +6835,7 @@ I can feel that mindless infinite eternity, and then just as much as I feel it, 
 
 
 ### Daz
-Grygum and Thorin wake up. And they don’t appear to be covered in some kind of rotting mycelium, so that’s good. 
+Gyrgum and Thorin wake up. And they don’t appear to be covered in some kind of rotting mycelium, so that’s good. 
 
 
 Voosbur sighs, “I guess you guys didn’t want to join us. You still can if you want. But hurry.” 
@@ -6844,7 +6844,7 @@ Voosbur sighs, “I guess you guys didn’t want to join us. You still can if yo
 Spores fly out of him, they glow, and then the dancers walk towards the moss on the edge of the cavern and disappear. 
 
 
-I hold onto Thorin and Grygum, worried that they will follow. But they don’t. 
+I hold onto Thorin and Gyrgum, worried that they will follow. But they don’t. 
 
 
 # Chapter 24 The Wall 
@@ -6853,7 +6853,7 @@ I hold onto Thorin and Grygum, worried that they will follow. But they don’t.
 
 Daz
 ![image]()
-Grygum and Thorin, after recovering their senses, to the extent that is possible for the dwarf, explained that they saw Zuggtmoy. And that she had made them an offer, an offer that Thorin refused. 
+Gyrgum and Thorin, after recovering their senses, to the extent that is possible for the dwarf, explained that they saw Zuggtmoy. And that she had made them an offer, an offer that Thorin refused. 
 
 
 “Good,” I said. Deals with demons are rarely pleasant. 
@@ -6883,7 +6883,7 @@ I notice behind him a poster that says, “The Ember Vanguard, wanted dead as lo
 A spelling mistake and a grammar mistake, so typical of the Duergar. 
 
 
-The picture of the Ember Vanguard, most certainly, doesn’t look like us. The drow wizard is an ancient Drow wizard. The golden dragonborne, Zalthir, is now red. As for Thorin, the likeness is flattering. And as for Grygum, they made him far more fierce than he really is.
+The picture of the Ember Vanguard, most certainly, doesn’t look like us. The drow wizard is an ancient Drow wizard. The golden dragonborne, Zalthir, is now red. As for Thorin, the likeness is flattering. And as for Gyrgum, they made him far more fierce than he really is.
 
 
 I look past the guard and stare at the wall. The walls are covered in a faint sheen of dust. On the walls, I can hear the sound of armor clanking and see the shadows of visible Duergar. 
@@ -6892,10 +6892,10 @@ I look past the guard and stare at the wall. The walls are covered in a faint sh
 This is no mere checkpoint. It’s a gauntlet where power, politics, and peril converge. One wrong step, and we will be trapped between a Duergar assault force, and the Derro looking to wage war on their oppressors. 
 
 
-The guard scrutinizes me, and the rest of our group, and declares, smugly, “You are a Drow.” Turning to Thorin, then Grygum he says, “You are a dwarf and you are an orc!” 
+The guard scrutinizes me, and the rest of our group, and declares, smugly, “You are a Drow.” Turning to Thorin, then Gyrgum he says, “You are a dwarf and you are an orc!” 
 
 
-Grygum turns to me and says, “He’s good at identifying species.” 
+Gyrgum turns to me and says, “He’s good at identifying species.” 
 
 
 And finally, he stops in front of Zalthir, “And you are not red.” 
@@ -6917,7 +6917,7 @@ The Duergar of this city seem to live under the misconception that the color of 
 I follow him into a passageway that is 10’ wide and 30’ long with 20’ side walls. At the far end of the passageway is a gate, and on the walls are more guards. I wonder how they could have assembled this so quickly, and remember that the Duergar are kin of the Dwarves, and magic can always help make the construction of walls go faster. 
 
 
-Grygum whispers to me, “There are at least five more invisible guards we can’t see in this hallway.” 
+Gyrgum whispers to me, “There are at least five more invisible guards we can’t see in this hallway.” 
 
 
 I nod. Grogluk’s defiant and proud demeanor is an act. He’s not alone. He just pretends to be.  
@@ -6934,10 +6934,10 @@ It’s a familiar token of the Underdark, a clenched fist that expresses loyalty
 The Duergar looks at him, “Yes, I do. And are you the Ember Vanguard or are you its prey?” 
 
 
-Grygum looks confused and says, “I don’t know who these guys are, and given how fearsome they look, we would like to get back into town as quickly as possible.” 
+Gyrgum looks confused and says, “I don’t know who these guys are, and given how fearsome they look, we would like to get back into town as quickly as possible.” 
 
 
-Grogluk lip curls and asks the rest of the group, who all follow Grygum’s lead, acting very confused. 
+Grogluk lip curls and asks the rest of the group, who all follow Gyrgum’s lead, acting very confused. 
 
 
 Disgusted, he looks at us and shouts, “Turn back. No one shall enter the city of the Deepking.” 
@@ -6953,7 +6953,7 @@ Daz whispers to me, “I have seen so many guards of despotic rulers living amon
 
 
 Before I can react, Grogluk smiles, his curled lips forming a sneer with the scar on his face that stretches across his body, “If you are innocent, lay down your weapons and magic items for inspection or speak the secret message of the stone guard.” 
-### Grygum
+### Gyrgum
 
 
 Remembering a simple salute is no challenge for a cleric of Bahamut. The seventeen steps of the night prayer to the Platinum God are more challenging than this simple ritual. 
@@ -7060,7 +7060,7 @@ When I knock on his door, he looks surprised.
 “You have the egg?” 
 
 
-Grygum steps forward and announces, “Yes, we have the egg and it is glorious!” 
+Gyrgum steps forward and announces, “Yes, we have the egg and it is glorious!” 
 
 
 Gartokkar's eyes light up, and I become worried about his expectations, “We’ll give you the egg as we found it, but we make no promises about the viability of the egg. We rescued it from a mysterious ritual.” 
@@ -7069,10 +7069,10 @@ Gartokkar's eyes light up, and I become worried about his expectations, “We’
 The Duergar takes the egg and notices the strange occult markings. He is worried. 
 
 
-Before I can reassure him further, he turns to Grygum and asks him as a cleric of Bahamut, “What do you think?”
+Before I can reassure him further, he turns to Gyrgum and asks him as a cleric of Bahamut, “What do you think?”
 
 
-Grygum finds the tiresome confusion among the masses that the evil of dragons is a function of scale pigmentation to be very annoying, but sometimes it can be handy. “I am a cleric of the Platinum Dragon. I know much about metallic dragons. But this is a chromatic dragon, and I know very little other than it will become evil.” 
+Gyrgum finds the tiresome confusion among the masses that the evil of dragons is a function of scale pigmentation to be very annoying, but sometimes it can be handy. “I am a cleric of the Platinum Dragon. I know much about metallic dragons. But this is a chromatic dragon, and I know very little other than it will become evil.” 
 
 
 Gartokkar is pleased. 
@@ -7133,10 +7133,10 @@ This is not merely an order; it is a cold, cruel vendetta for our fallen leader.
 
 Failure is not an option. Be swallowed by the shadows, or make them so. 
 # Chapter 25 Leaving Gracklstugh, going to a wedding, and picking up a gift along the way, just in case. 
-### Grygum
+### Gyrgum
 
 
-Here I am, Grygum, half-orc cleric of Bahamut, and Gracklstugh is what makes an orc camp look pretty. 
+Here I am, Gyrgum, half-orc cleric of Bahamut, and Gracklstugh is what makes an orc camp look pretty. 
 
 
 Any escape will require some "clever and insane scheme" to get through the barred gates of Laduguer's Furrow. 
@@ -7199,7 +7199,7 @@ The creature groans as it flaps its wings, and then we are airborne. To fly on a
 The dragon shouts, “Where to?” 
 
 
-Grygum looks at me. Thorin mutters, “We should just tell him everything. Nah.” 
+Gyrgum looks at me. Thorin mutters, “We should just tell him everything. Nah.” 
 
 
 I am relieved. I do not want to have a dragon destroy a city while I am on its back. 
@@ -7211,10 +7211,10 @@ After conferring, we agree that the right place to go is the docks.
 Themberchaud is unimpressed - and roars -  “My agents have more pressing matters than to loiter among the common rabble and petty traitors of the Dark Lake.”
 
 
-Grygum tries to persuade him but fails. I begin to worry. 
+Gyrgum tries to persuade him but fails. I begin to worry. 
 
 
-Grygum asks the dragon, “Where do you think we should go, oh Great Themberchaud?” 
+Gyrgum asks the dragon, “Where do you think we should go, oh Great Themberchaud?” 
 
 
 As I guessed, he has no idea what to do. He pouts, “Well, I have many agents, and they have many places to look. You're my most recent agents, and you've been out and about for a few days. Where do you think we should be looking for information?
@@ -7226,7 +7226,7 @@ I again insist that we should go to the Darklake District, and again, he seems u
 “Are you suggesting I am missing something important?” 
 
 
-Grygum shouts, “You’re not one of the peons who understands the little things. But we are as little as you get, adn we can find the little things that are big for us.” 
+Gyrgum shouts, “You’re not one of the peons who understands the little things. But we are as little as you get, adn we can find the little things that are big for us.” 
 
 
 Zalthir, having seen abbots like this dragon, who just want a face-saving gesture, shouts, “There was an attack on the docks, so there might be new intelligence. Your agents didn’t miss it; they just haven’t been there recently.” 
@@ -7238,13 +7238,13 @@ The dragon agrees and tries to make a turn. But he’s fast, and his belly rolls
 Not for long, that’s what Misty Step is for. 
 
 
-And as I look down, I notice Grygum and Thorin falling. Zalthir has sprouted wings. He catches Thorin. 
+And as I look down, I notice Gyrgum and Thorin falling. Zalthir has sprouted wings. He catches Thorin. 
 
 
-The ghoul Jimjar shouts, “Anyone want to make a bet that Grygum is going to survive?” 
+The ghoul Jimjar shouts, “Anyone want to make a bet that Gyrgum is going to survive?” 
 
 
-Grygum seems to shout, “I’ll take the bet.” 
+Gyrgum seems to shout, “I’ll take the bet.” 
 
 
 And it would have been a good one for him to take. Jimjar throws a rope and catches the falling orc. And then the group pulls him onto the dragon, which is frantically trying to catch his agent. 
@@ -7307,7 +7307,7 @@ He clears his throat and tries to hide the quaver, “Halt in the name of the De
 That’s a surprise. The guard didn’t think we are the Ember Vanguard. Maybe we can get out of here without bloodshed.  
 
 
-Before I can react, Grygum says that they come in Themberchaud’s name. 
+Before I can react, Gyrgum says that they come in Themberchaud’s name. 
 
 
 The guard still refuses to let us pass. 
@@ -7316,7 +7316,7 @@ The guard still refuses to let us pass.
 “Shall I recall him?” asks the cleric. 
 
 
-I stand next to Grygum to make myself look as scary as possible. And we fail. The guard is unimpressed, but then he looks at a poster of the Ember Vanguard, and whispers, “I know you, you are the Ember Vanguard! I must warn Captain Errde at once!” 
+I stand next to Gyrgum to make myself look as scary as possible. And we fail. The guard is unimpressed, but then he looks at a poster of the Ember Vanguard, and whispers, “I know you, you are the Ember Vanguard! I must warn Captain Errde at once!” 
 
 
 We have to kill him. As I explain, “In the interest of avoiding mass bloodshed, I think we must.” 
@@ -7325,13 +7325,13 @@ We have to kill him. As I explain, “In the interest of avoiding mass bloodshed
 Thorin mutters an old giant saying, “To save the village, you must smash the village.” 
 
 
-Grygum walks up to the guard and whispers that we are impersonators trying to flush out the Ember Vanguard. “We are not them, but we are on a vital mission.” 
+Gyrgum walks up to the guard and whispers that we are impersonators trying to flush out the Ember Vanguard. “We are not them, but we are on a vital mission.” 
 
 
-Thorin turns to Grygum, “Deputize them!” 
+Thorin turns to Gyrgum, “Deputize them!” 
 
 
-Grygum nods and pulls out a caltrop, “This is a symbol of our mission. Guard it and keep it secret.” 
+Gyrgum nods and pulls out a caltrop, “This is a symbol of our mission. Guard it and keep it secret.” 
 
 
 The Duergar takes the caltrop and then runs off. 
@@ -7379,7 +7379,7 @@ Just as we are about to set sail, Jimjar says something bizarre - "I'll bet you 
 Great, a wedding involving demons and mushrooms. 
 
 
-I hope no one will take him up on his weird bet, but Grygum does. 
+I hope no one will take him up on his weird bet, but Gyrgum does. 
 
 
 ## 4th-6th day of the 2nd tenday of Myrtul 1493
@@ -7415,7 +7415,7 @@ Errde will have probably told the Drow that we came through her city, and they w
 Leaving the boat is like leaving a sign. But we might need it later. 
 
 
-Grygum shouts, “We could scuttle it.” 
+Gyrgum shouts, “We could scuttle it.” 
 
 
 I stare at him, perplexed. 
@@ -7433,7 +7433,7 @@ I look at her, confused.
 “Well, spell casters who could cast mending were in high demand by the navies. And so spellcasters tended to avoid learning that spell. See, in naval combat, the first person you kill is the mender. Because until you kill him, you can’t sink the ship. So finding a spell caster who can cast it is rare.” 
 # Chapter 26 Journey to and into the Lost Tomb of Khaem. 
 ## 7th day of 1st tenday of Myrkhul, 1495 
-### Grygum 
+### Gyrgum 
 
 
 The boat is sunk. My mending skills are in high demand. And if I want to not end up on a ship, it's best to keep it secret from myself. 
@@ -7498,7 +7498,7 @@ Before we leave the cave, we take as many crystals as we can. To hide our tracks
 ## 2nd day of the 2nd tenday of Myrkhul, 1495
 
 
-### Grygum 
+### Gyrgum 
 
 
 Three more days in the dark. Was it three more days? I think it was. And finally, the winding passageway opened, and the air grew heavy with the subtle, earthy scent of the damp loam and something indescribably sweeter. 
@@ -7517,7 +7517,7 @@ But no. The crystal sailed through the air, a small, glowing arc, and clattered 
 
 
 ## 3rd day of the 2nd tenday of Myrkhul 
-### Grygum 
+### Gyrgum 
 
 
 Another cave full of crystals. And we collect more. Eldeth is worried; she’s reasonably convinced we have thrown the Drow off our tracks, but every time we mess with the environment, we make it easier for them. 
@@ -7560,7 +7560,7 @@ We arrive at a large double door. The stone is ancient, hinting at a lost era, a
 I know the lore of the Netheril Empire – a civilization of immensely powerful magic users, whose cities defied gravity, only to fall catastrophically when one of their leaders tried to seize all magical power, tearing the very fabric of reality. It's a stark reminder of unchecked ambition, a cautionary tale against hubris. My monastic training emphasizes balance and inner peace, not the dangerous pursuit of absolute external power. It makes me wonder what kind of sorceress Brysis was to be buried here. 
 
 
-We descend a dusty staircase. Grygum, with his keen perception, takes the lead, carefully testing each step. On one landing, I note a Netherese Calendar Stone, a relic of a time long gone, its purpose unclear. The stairs finally give way to a shrine, its floor littered with shreds of dusty tapestries.
+We descend a dusty staircase. Gyrgum, with his keen perception, takes the lead, carefully testing each step. On one landing, I note a Netherese Calendar Stone, a relic of a time long gone, its purpose unclear. The stairs finally give way to a shrine, its floor littered with shreds of dusty tapestries.
 
 
 I focus, drawing on my monk's discipline, seeking patterns, anomalies in the dust, and then I speak, "Proof here of a lower power." 
@@ -7569,13 +7569,13 @@ I focus, drawing on my monk's discipline, seeking patterns, anomalies in the dus
 What an absurd conclusion that immediately grates on my own rational mind. How dangerous to be so easily misled by my own mind, in a place where observation is key to survival.
 
 
-Grygum, thankfully, is more successful. He notes recent damage but no tracks in the thick layer of dust. He then recalls old tales of “floating undead creatures that typically rest in tombs”.
+Gyrgum, thankfully, is more successful. He notes recent damage but no tracks in the thick layer of dust. He then recalls old tales of “floating undead creatures that typically rest in tombs”.
 
 
-Yes, I agree, a "lost tomb" implies something more than just undisturbed dust and cobwebs. It implies guardians, dangers, and perhaps, the very undead Grygum speaks of. I remember Fargas Rumblefoot's warning about a "secret room" or "false tomb" here, adding another layer of treachery to this place. Daz checks an altar, finding nothing of arcane significance, another dead end for now.
+Yes, I agree, a "lost tomb" implies something more than just undisturbed dust and cobwebs. It implies guardians, dangers, and perhaps, the very undead Gyrgum speaks of. I remember Fargas Rumblefoot's warning about a "secret room" or "false tomb" here, adding another layer of treachery to this place. Daz checks an altar, finding nothing of arcane significance, another dead end for now.
 
 
-There is a passageway south and one going east, so we proceed East. The room we enter contains four stone sarcophagi. Markings of robed human figures in repose adorn their lids. We inspect them, looking for traps, for anything unusual. And then, Grygum points it out: the northeast sarcophagus rests on hidden stone rollers. A possible secret, a hidden passage. This is it.
+There is a passageway south and one going east, so we proceed East. The room we enter contains four stone sarcophagi. Markings of robed human figures in repose adorn their lids. We inspect them, looking for traps, for anything unusual. And then, Gyrgum points it out: the northeast sarcophagus rests on hidden stone rollers. A possible secret, a hidden passage. This is it.
 
 
 I move into position, my hands forming the familiar gestures. I call forth the shadows, plunging the area around the sarcophagus into a sphere of magical darkness. Daz won't be able to cast Magic Missile within it, but that's a calculated risk. Thorin, strong as an ox, leverages the darkness, pushing the heavy sarcophagus aside. The stone grinds, revealing... a hole. The true tomb, perhaps. We are finally here. My instincts prickle.
@@ -7597,7 +7597,7 @@ It's my turn. I assess the swirling forms, their spectral claws already reaching
 Then, their icy touch. One Spectre lunges at me, its chilling form passing through my defenses. A jolt of cold, raw energy courses through me, necrotic damage, and I feel my very life force diminish. Before I can fully process it, another Spectre attacks, a more potent drain this time, twice as much necrotic damage, and my strength wanes further. My body screams for respite. "I'm gonna need a long rest here pretty soon," I mutter, the words barely audible, a desperate plea for recovery. This is not the clean, surgical combat I prefer. This is a battle of attrition, and my life force is the price I pay.
 
 
-Grygum, in his devotion, tries to turn them, his holy symbol raised, but the Spectres resist, their wills too strong, or perhaps their existence too ancient to be swayed. Zalthir, ever the whirlwind, moves his sphere of darkness, then his fists become blurs in the gloom, punching and pummeling. He kills one, then another. "I will punch the ghost!" he declares. I can almost hear Pelek, our ghost, correcting him. 
+Gyrgum, in his devotion, tries to turn them, his holy symbol raised, but the Spectres resist, their wills too strong, or perhaps their existence too ancient to be swayed. Zalthir, ever the whirlwind, moves his sphere of darkness, then his fists become blurs in the gloom, punching and pummeling. He kills one, then another. "I will punch the ghost!" he declares. I can almost hear Pelek, our ghost, correcting him. 
 
 
 With the last Spectre vanquished by Zalthir's relentless strikes, a momentary quiet descends, broken only by our heavy breathing. My mind is already racing, calculating. "Is this, would this be a good time for us to take a… Long rest. By chance?" I inquire, hopefully.
@@ -7618,7 +7618,7 @@ Before we go down the dark passageway, we open the sarcophagi. Each sarcophagus 
 They are worth a great deal as gold, and perhaps even more to the right collector. 
 
 
-### Grygum
+### Gyrgum
 
 
 We descend, Thorin taking the lead, his broad shoulders easily pushing through the confined space. The air grows heavier, thick with an ancient stillness. We enter a new chamber, and the faint light catches murals on the walls, depicting grand scenes, probably of the Netherese sorceress Brysis of Khaem and her lost cities. A gilded sarcophagus gleams against one wall, clearly the focal point, and I notice the subtle shimmer of an invisible stone chest near its foot. Predictable. An actual tomb wouldn't be without its grand pronouncements and its hidden treasures.
@@ -7664,7 +7664,7 @@ The sword hilt sits on top of the mummified corpse, held tight by its withered h
 “Please, help me.” 
 
 
-Grygum shouts, “Not a talking sword.” 
+Gyrgum shouts, “Not a talking sword.” 
 
 
 I groan. 
@@ -7672,14 +7672,14 @@ The sword hears that and exclaims, “I can help you! Please don’t let me go.�
 Then it must have figured out that I am a monk, and it can’t help me. 
 "You're a monk! Get the fighter over here!”
 
-Grygum mutters, “A talking mace would have been nice.” 
+Gyrgum mutters, “A talking mace would have been nice.” 
 
 
 I nod and think, “A silent glove would have been better.” 
 But enough of that, time to attack. And I focus my mind and strike the wraith with my hands. The creature is in shock. 
 
 
-And then I hear the belching sound that Grygum makes just before acid spews from his mouth, I move out of the way, and watch as the Wraith is covered in the slime.  
+And then I hear the belching sound that Gyrgum makes just before acid spews from his mouth, I move out of the way, and watch as the Wraith is covered in the slime.  
 Thorin, whose choices are always interesting, decides to drop his sword and pick up the magical hilt. The sword rejoices, and then, where there is no blade, a shimmering blade of light appears. 
 
 
@@ -7700,7 +7700,7 @@ Killed by barf. What an odd way to go.
 The sword introduces itself as Dawnbringer. A powerful sunblade that can read and write, and can cast lesser restoration. 
 
 
-Grygum is surprised it can read and write. The orc is confused that the creature can read without eyes. 
+Gyrgum is surprised it can read and write. The orc is confused that the creature can read without eyes. 
 
 
 I roll my eyes. He has never seen the eldritch horrors that exist here in the realms.
@@ -7731,14 +7731,14 @@ After millennia, the sword refused to extinguish its light. And Thorin, who is t
 As for our pursuers, Eldeth told us this morning that she believed we had lost them. They were no longer on our trail. 
 
 
-Grygum chortled, “I guess they didn't like the tomb.” 
+Gyrgum chortled, “I guess they didn't like the tomb.” 
 
 
 Today,d we arrive at Neverlight Grove. 
 
 
-As we enter the cave, the beauty overwhelms Grygum, who shouts, “Wow, this place is incredible.” 
-### Grygum
+As we enter the cave, the beauty overwhelms Gyrgum, who shouts, “Wow, this place is incredible.” 
+### Gyrgum
 ![image]()
 Wow, this place is incredible. My jaw hangs open, and I feel a shiver of awe run through me. We've been tramping through the Underdark for what feels like an eternity, and every twist and turn has brought more of the same—darkness, danger, and the constant, nagging feeling that something is about to jump out at us.
 But this is different. It's a vast cavern, but instead of being a dark, oppressive void, it's a living, breathing landscape of impossible color. The cave walls shimmer with a soft, bioluminescent light, casting a gentle glow on everything. The light is a beautiful mosaic of blues, greens, and purples, like a nebula trapped underground. Myconids, the mushroom folk we're traveling with, are everywhere, and they seem to be a part of this vibrant world, glowing with the same otherworldly light.
@@ -7830,7 +7830,7 @@ And so we leave,
 As we enter the forest, Basidia turns to us and says, “The grove is not safe. Another group of 'softers' arrived not too many cycles ago and accepted Phylo’s offer. They were taken to the Garden of Welcome. I haven’t seen them since, nor has Phylo made any further mention of them.” Basidia then whispers, even though we can only hear her in our heads, “the Circle of Masters is taking most of the carcasses the Circle of Hunters bring in, and are sending groups of myconids outside the grove without telling anybody.”
 
 
-Grygum, nervously, asks, “Are we seeing the Garden of Welcome today?” 
+Gyrgum, nervously, asks, “Are we seeing the Garden of Welcome today?” 
 
 
 Basidia laughs, “No. Today we shall the circles.” 
@@ -7926,7 +7926,7 @@ The walking mushroom looks at me and says, “We bring back the dead. We do not 
 I think to myself of the reanimated creatures I saw in the Whorlstone Caves and shudder. “Well I suppose it couldn’t hurt.” 
 
 
-Grygum looks uncomfortable, I turn to him and say - “What, you don't want a zombie grick joining our team? That sounds so fun.” 
+Gyrgum looks uncomfortable, I turn to him and say - “What, you don't want a zombie grick joining our team? That sounds so fun.” 
 
 
 A deadly game of K’tharr-li
@@ -7954,7 +7954,7 @@ They look at me funny, and I explain that when I was a child, there was a game w
 Much like K’tharr-li, we only have so much time. And unlike K’tharr-li, losing can be deadly. 
 
 
-### Grygum
+### Gyrgum
 Daz is using the kinds of tactics the Drow are famous for.  He is casting Shape Water, trying to freeze sections of the water and moss in a checkerboard pattern, playing a game he calls K’tharr-li to locate the monster. 
 
 
@@ -8008,13 +8008,13 @@ Focusing the force of my strike into its core, I execute a Stunning Strike. The 
 Daz proceeds, launching Scorching Ray attacks. He hits, but the creature is a swamp creature, and the fire is squelched. But still, I can see it is hurt. 
 
 
-Grygum casts Spirit Guardians. I note immediately that this spell creates a persistent zone of damage and that I can move creatures into this zone of damage. 
+Gyrgum casts Spirit Guardians. I note immediately that this spell creates a persistent zone of damage and that I can move creatures into this zone of damage. 
 
 
 The creature is stunned, and its speed is drastically reduced. Now, I must keep it anchored within the zone of damage created by the cleric. I think, "I have a reason to grapple.”
 
 
-I use my second strike to initiate a grapple. I am successful. The Shambling Mound is now trapped, immobilized within Grygum's radiating divine energy.
+I use my second strike to initiate a grapple. I am successful. The Shambling Mound is now trapped, immobilized within Gyrgum's radiating divine energy.
 
 
 Daz, despite the halved damage output, reinforces his attack with another Fireball.
@@ -8038,10 +8038,10 @@ The Sovereign, Basidia, accepts the Grick. We had stripped the Grik for its head
 Basidia then leads us toward the next segment of this bizarre cultural tour: the Circle of the Builders.
 
 
-As we are about to leave, Grygum asks if Rump-a-dump and Stool would like to join us. Basidia assures that they are pretty happy among their kind. Grygum persists, and he tells Basidia that he would be thrilled to have them come along. 
+As we are about to leave, Gyrgum asks if Rump-a-dump and Stool would like to join us. Basidia assures that they are pretty happy among their kind. Gyrgum persists, and he tells Basidia that he would be thrilled to have them come along. 
 
 
-I sense Grygum is worried. I don't know what. 
+I sense Gyrgum is worried. I don't know what. 
 
 
 We arrive at the Northern Terraces of the Neverlight Grove. The terraces lining the northern walls are suffused with faerzress, and I notice that this place is filled with vegetation. As I draw closer, I see water trickling from the walls of this vast cavern being channeled into a crude yet effective terraced irrigation system. A thick, sweet smell fills the air from the thousands of fungi of all colors and sizes, many glowing with a strange, inviting light.
@@ -8051,19 +8051,19 @@ As we arrive, a new Myconid, Gasbide, approaches us immediately. He is a 'Builde
 "You are new to this area!" he exclaims.
 
 
-Grygum, ever the one to leap at a conversational opening, replies simply, "Yes, we are".
+Gyrgum, ever the one to leap at a conversational opening, replies simply, "Yes, we are".
 
 
 Gasbide presses, "And... and are you from, from above?”.
 
 
-Grygum confirms with a touch of performative pomp: "Yes, we are from the Great Bright.
+Gyrgum confirms with a touch of performative pomp: "Yes, we are from the Great Bright.
 
 
 The builder is immediately obsessed, ignoring the potential dangers lurking outside the Grove. "I must learn about all of your... your... describe to me your buildings," he pleads.
 
 
-Grygum attempts to satisfy him with the most basic, unhelpful generalizations: "Well, we have some that are tall, and some that are big". This is precisely the type of generalized, imprecise data the Drow abhor.
+Gyrgum attempts to satisfy him with the most basic, unhelpful generalizations: "Well, we have some that are tall, and some that are big". This is precisely the type of generalized, imprecise data the Drow abhor.
 
 
 Gasbide quickly cuts through the fluff: "No, no, no, no, no, like, how are they built? I want you to... is it, like, what shape do they have? What materials do you use? How many windows? How many doors? I've heard the word 'windows'. What is a window?".
@@ -8072,7 +8072,7 @@ Gasbide quickly cuts through the fluff: "No, no, no, no, no, like, how are they 
 This creature is an engineer, captivated by the foreign concepts of surface architecture. Zalthir, seeing an opening to secure an advantage, focuses and conjures a small-scale structure using Minor Illusion. 
 
 
-"That’s impressive," Grygum notes, appreciative of the display.
+"That’s impressive," Gyrgum notes, appreciative of the display.
 
 
 Gasbide examines the illusion, calculating rapidly: "Is this to scale? But you don't fit in those buildings. Is it for small people?"
@@ -8138,7 +8138,7 @@ Basidia sighs and then points ahead to another Myconid, “They is Hepbobe, and 
 As we approach, Hepbobe starts talking to us once the Spores of Raport connect with our mind. “We are in charge of growing food for the colony.”
 
 
-Grygum awkwardly asks, “So wait, you are mushrooms, like the food, and you eat other mushrooms?” 
+Gyrgum awkwardly asks, “So wait, you are mushrooms, like the food, and you eat other mushrooms?” 
 
 
 I blush in shame. 
@@ -8168,19 +8168,19 @@ I am bored, and he notices that and mutters, “I could give you a detailed anal
 Basidia prods us to ask Hepbobe about Phylo. 
 
 
-Hepbobe must have overheard Basidia because he first stares at Grygum, then Basidia, and then Grygum, and then seems to sigh. “Basidia is concerned that Phylo is doing something that is going to irreparably harm Myconid life. I, on the other hand, believe that these organizational constructs, whether it's one or many, are things that only Sovereigns care about. Those of us who have a job to do to maintain the farming supply do not think that this is meaningful one way or another.” 
+Hepbobe must have overheard Basidia because he first stares at Gyrgum, then Basidia, and then Gyrgum, and then seems to sigh. “Basidia is concerned that Phylo is doing something that is going to irreparably harm Myconid life. I, on the other hand, believe that these organizational constructs, whether it's one or many, are things that only Sovereigns care about. Those of us who have a job to do to maintain the farming supply do not think that this is meaningful one way or another.” 
 
 
 The words they say are meaningless. They must be mad. 
 
 
-However, Grygum seems to be nodding. 
+However, Gyrgum seems to be nodding. 
 
 
 “Basidia believes that if we’re all together, everybody knows what’s going on, but does everybody need to? By focusing, we can deliver better mushrooms, higher quality mushrooms, and not get distracted by the concerns of the various groups. And frankly, there are some members of the group who will just talk endlessly about that topic that nobody cares about. For example, I care about this particular fungus, and other members of the circle of farmers care about it. But when we are in the circle, I start talking about it, and my circle cares, but everyone gets bored. And then I am told to be quiet. And I ask, Thorin, when are we supposed to have our internal conversations?” 
 
 
-Grygum and Zalthir nod. 
+Gyrgum and Zalthir nod. 
 
 
 And then Hepbobe becomes quite animated, “I think Basidia is exaggerating their concerns. And frankly, what is wrong with Phylo’s proposal, and that we’re going to head to a better day? Does it always have to be doom and gloom? What if there is a better day for Myconid Kind?”
@@ -8190,7 +8190,7 @@ I ponder that.
 ### 
 
 
-Grygum 
+Gyrgum 
 
 
 The organizational disputes of the Sovereign remind me of the preachings of the clerics of Bahamut. Much like we would spend days wondering which exact prayer would get Bahamut’s attention and please him most, they spend their days pondering how best to organize. 
@@ -8364,7 +8364,7 @@ And it’s a good thing I am carrying Dawnbringer, because the sunlight hurts th
 I see to my left Jimjar covered in spores, and then he stops moving.  
 
 
-Grygum approaches the creature to touch it. Is this thing the source of the harmful spores?
+Gyrgum approaches the creature to touch it. Is this thing the source of the harmful spores?
 
 
 The orc cleric of Bahamut approaches the creature gingerly, invokes the power of his god, and inflicts wounds on it. 
@@ -8409,7 +8409,7 @@ I think to myself that I dodged a bullet there with Z.
 Zalthir strikes the fungal abomination, killing it. 
 
 
-### Grygum 
+### Gyrgum 
 
 
 I look at Xinaya and notice that she is crying. So close to liberation and yet so far. And scream about how life sucks. She does a lot of that. 
@@ -8474,7 +8474,7 @@ Jimjar mutters, “I don’t know.
 
 
 # Chapter 29 Escape from the Neverlight Grove. 
-### Grygum
+### Gyrgum
 
 
 The procession is clearly a wedding procession, but not of the wedding itself. This is a rehearsal. 
@@ -8632,7 +8632,7 @@ I think about those mutated corpses in the Circle of Welcome, and wonder what th
 But I am trying to be cool. However, Dawnbringer shedding bright light on everyone isn’t helping right now. The Myconids are retreating from me. 
 
 
-And just then, Grygum starts  jumping up and down and screaming, “DANGER!” 
+And just then, Gyrgum starts  jumping up and down and screaming, “DANGER!” 
 
 
 I can hear Zalthir through the Rapport Spores mutter, “This was not how I meant stealthy.” 
@@ -8647,7 +8647,7 @@ At this point, I tense up because it's looking like it’s going to be a fight. 
 I try to persuade Basidia that the time to fight has passed, and now it is the time to flee. We all try, but the Sovereign won’t listen. 
 
 
-Grygum turns to Rump-a-dump and Stool and manages to convince them. Our time together, and what they have seen, makes them realize that this place isn’t safe anymore. 
+Gyrgum turns to Rump-a-dump and Stool and manages to convince them. Our time together, and what they have seen, makes them realize that this place isn’t safe anymore. 
 
 
 Rasharoo shouts into my brain, “If you want to live, come with me.” 
@@ -8677,7 +8677,7 @@ As we head into the Underdark, Rasharoo tells us that he can provide us with a g
 Jimjar insists he knows where he is going, “I’ll bet you I can get you there!” 
 
 
-I look at him and sigh. Grygum tries to explain the absurdity of the bet, but can’t resist taking the money from the curious gnome. 
+I look at him and sigh. Gyrgum tries to explain the absurdity of the bet, but can’t resist taking the money from the curious gnome. 
 
 
 4th day of the third tenday of Myrkhul 1495
@@ -8687,7 +8687,7 @@ I look at him and sigh. Grygum tries to explain the absurdity of the bet, but ca
 And once again into the dark. My friends wonder why Ilvara would still be pursuing us and whether all the measures we take to hide ourselves are truly necessary. 
 
 
-As Grygum puts it, “Shouldn’t she give up?” 
+As Gyrgum puts it, “Shouldn’t she give up?” 
 
 
 I smile. Ilvara promised that we would arrive in Menzoberranzan. Who knows what money exchanged hands? And then to make matters worse, the outpost of Velkynvelve was destroyed. She needs to find us, lest she become a Drider. She won’t rest until we are either found or she is dead. 
@@ -8828,10 +8828,10 @@ The conversation turned to shambling mounds when a party member mentioned them, 
 The party found themselves in Diggermattock Hall, where Chief Dorbo and Senni engaged in a heated discussion about the future of Blingdenstone. Chief Dorbo, leader of the mining coalition, explained that ooze infestations had been hindering both mining operations and the construction of housing for the community. Senni, representing the non-mining population, confronted him about his failure to adequately address the problem. After some debate, Chief Dorbo agreed that before he could help the party with their own concerns, they would need to deal with the ooze threat. The conversation also revealed tensions regarding the Gold Whisker clan—a group Chief Dorbo suspected of being wererats and refused to cooperate with, while Senni appeared more open to reconciliation.
 
 
-Before embarking on their quest, the party decided to honor a promise they had made to Pelek, a ghost who had been traveling with them. Buppido had killed Pelek. Grygum had carried Pelek's bones in the hope of finding a proper resting place. A guard directed them to the cemetery adjacent to the Temple of the Ruby in the Rough, dedicated to Segojan Earthcaller, the Svirfneblin god of deep earthen nature. At the temple, they met Glyphic Shroomlight, a priest who was initially hesitant to inter the bones of someone he didn't know. However, when Pelek's ghost materialized before him, Glyphic quickly reconsidered, not wishing to be haunted for the rest of his days. He directed the party to the catacombs below, asking only that Glabbagool, their intelligent gelatinous cube companion, remain upstairs to avoid any accidents.
+Before embarking on their quest, the party decided to honor a promise they had made to Pelek, a ghost who had been traveling with them. Buppido had killed Pelek. Gyrgum had carried Pelek's bones in the hope of finding a proper resting place. A guard directed them to the cemetery adjacent to the Temple of the Ruby in the Rough, dedicated to Segojan Earthcaller, the Svirfneblin god of deep earthen nature. At the temple, they met Glyphic Shroomlight, a priest who was initially hesitant to inter the bones of someone he didn't know. However, when Pelek's ghost materialized before him, Glyphic quickly reconsidered, not wishing to be haunted for the rest of his days. He directed the party to the catacombs below, asking only that Glabbagool, their intelligent gelatinous cube companion, remain upstairs to avoid any accidents.
 
 
-In the catacombs, Grygum found a quiet corner and carefully interred Pelek's bones, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation. Pelek expressed profound relief and gratitude, having feared he would be lost forever, tormenting people for eternity. As the party said their goodbyes, Pelek's spirit faded away, leaving them with a warm, comforting feeling of having done the right thing. Almost immediately, another ghost appeared—Burrow Warden Jadger, a three-foot-tall spirit who had once defended Blingdenstone against the Drow and countless other threats. Jadger explained that he was working to re-establish the Burrow Wardens and was secretly training young gnomes for this purpose. He offered the party a deal: for every ghost they helped put to rest, he would answer one question about the Underdark and its dangers.
+In the catacombs, Gyrgum found a quiet corner and carefully interred Pelek's bones, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation. Pelek expressed profound relief and gratitude, having feared he would be lost forever, tormenting people for eternity. As the party said their goodbyes, Pelek's spirit faded away, leaving them with a warm, comforting feeling of having done the right thing. Almost immediately, another ghost appeared—Burrow Warden Jadger, a three-foot-tall spirit who had once defended Blingdenstone against the Drow and countless other threats. Jadger explained that he was working to re-establish the Burrow Wardens and was secretly training young gnomes for this purpose. He offered the party a deal: for every ghost they helped put to rest, he would answer one question about the Underdark and its dangers.
 
 
 The party discussed the strategic value of this offer and decided to ask Jadger for advice on dealing with the ooze problem. Jadger explained that oozes were typically solitary creatures, making a mass infestation highly unusual. When Zalthir mentioned a possible connection to Juiblex, Jadger grew thoughtful and offered a clarification in exchange for Zalthir demonstrating a monk technique he could teach to his young trainees. After Zalthir performed an impressive martial display, Jadger explained the difference between devils and demons: devils corrupt individuals through personal deals, while demons empower proxies to cause widespread carnage and destruction. He advised the party to search for someone or something that was motivating the oozes, suggesting that a demon had likely granted power to an intermediate agent. He also recommended they speak with a young gnome he was mentoring, who would soon lead the new Burrow Wardens, once they had gathered more information.
@@ -8840,10 +8840,10 @@ The party discussed the strategic value of this offer and decided to ask Jadger 
 With Jadger's counsel in mind, the party made their way to the Trader's Grotto, Blingdenstone's bustling central market. A sergeant guided them through the cavern, proudly explaining that fungi had once grown there until a medusa's spell turned them to stone centuries ago. Merchants had set up makeshift stalls among the petrified fungi, hawking their wares and bartering with one another, while caravans delivered goods to warehouses carved beneath the grotto. As the party explored, they noticed the gnomes eyeing Glabbagool with suspicion, though he tried his best to explain he was not a threat.
 
 
-Suddenly, several non-sentient gelatinous cubes oozed out of the rocks, causing mass panic among the merchants. Gnomes scattered in all directions, some pointing accusingly at Glabbagool, who protested that these mindless creatures were giving intelligent gelatinous cubes a bad name. He quickly advised the party to avoid being engulfed, to use acid protection if they had any, and to pull out anyone who got trapped as quickly as possible. The party sprang into action, with Zalthir rushing forward to strike one of the cubes with powerful blows before retreating to safety. Thorin kept his distance, hurling darts at the creatures, while Grygum channeled divine energy through his holy symbol, blasting one of the cubes with searing necrotic force.
+Suddenly, several non-sentient gelatinous cubes oozed out of the rocks, causing mass panic among the merchants. Gnomes scattered in all directions, some pointing accusingly at Glabbagool, who protested that these mindless creatures were giving intelligent gelatinous cubes a bad name. He quickly advised the party to avoid being engulfed, to use acid protection if they had any, and to pull out anyone who got trapped as quickly as possible. The party sprang into action, with Zalthir rushing forward to strike one of the cubes with powerful blows before retreating to safety. Thorin kept his distance, hurling darts at the creatures, while Gyrgum channeled divine energy through his holy symbol, blasting one of the cubes with searing necrotic force.
 
 
-The battle intensified as the cubes advanced, engulfing several gnomes who struggled to escape. Daz carefully positioned himself and unleashed a massive explosion of fire, dissolving one cube entirely and severely damaging the others while avoiding the merchant stalls. Zalthir activated his eldritch claw tattoo, growing tentacles from his hands that allowed him to strike from a distance, prompting Glabbagool to ask in wonder if he was an ooze. Zalthir replied that he was merely an aspiring ooze, which seemed to satisfy the curious cube. As the fight continued, Grygum channeled more divine energy, Thorin moved closer to strike with his darts, and Daz unleashed another fiery explosion. By the time the smoke cleared, only one cube remained, reduced to a single hit point, and Zalthir delivered the killing blow. 
+The battle intensified as the cubes advanced, engulfing several gnomes who struggled to escape. Daz carefully positioned himself and unleashed a massive explosion of fire, dissolving one cube entirely and severely damaging the others while avoiding the merchant stalls. Zalthir activated his eldritch claw tattoo, growing tentacles from his hands that allowed him to strike from a distance, prompting Glabbagool to ask in wonder if he was an ooze. Zalthir replied that he was merely an aspiring ooze, which seemed to satisfy the curious cube. As the fight continued, Gyrgum channeled more divine energy, Thorin moved closer to strike with his darts, and Daz unleashed another fiery explosion. By the time the smoke cleared, only one cube remained, reduced to a single hit point, and Zalthir delivered the killing blow. 
 
 
 Thorin complained that he wanted to do it. 
@@ -8852,19 +8852,19 @@ Thorin complained that he wanted to do it.
 # Chapter 34 Wererats, Wisdom, and the War on Ooze
 
 
-The aftermath of the battle with the gelatinous cubes in the Trader's Grotto left the party facing a crowd of questioning merchants and citizens. Despite having saved lives, the people expressed concern about the destruction caused during the fight. A sergeant attempted to manage the situation by crediting Chief Dorbo Diggermattock for hiring the adventurers to solve the ooze problem, though one citizen voiced discontent with the Chief, accusing him of caring only for wealth and neglecting the common people. The sergeant urged the party to continue their mission, clearly nervous about their continued presence causing unrest. Glabbagool, the intelligent gelatinous cube traveling with the party, expressed curiosity about being hired and receiving payment, ultimately revealing that what he truly desired was friends and a sense of purpose. The party discovered a magical short sword in the aftermath, which Grygum claimed for himself. A merchant from the Chamber of Commerce offered the party a ten percent discount coupon as a reward for their heroism.
+The aftermath of the battle with the gelatinous cubes in the Trader's Grotto left the party facing a crowd of questioning merchants and citizens. Despite having saved lives, the people expressed concern about the destruction caused during the fight. A sergeant attempted to manage the situation by crediting Chief Dorbo Diggermattock for hiring the adventurers to solve the ooze problem, though one citizen voiced discontent with the Chief, accusing him of caring only for wealth and neglecting the common people. The sergeant urged the party to continue their mission, clearly nervous about their continued presence causing unrest. Glabbagool, the intelligent gelatinous cube traveling with the party, expressed curiosity about being hired and receiving payment, ultimately revealing that what he truly desired was friends and a sense of purpose. The party discovered a magical short sword in the aftermath, which Gyrgum claimed for himself. A merchant from the Chamber of Commerce offered the party a ten percent discount coupon as a reward for their heroism.
 
 
-The sergeant directed the party toward a path through rubble that would lead them to the source of the ooze problem. The party discussed their options, considering paths through the rubble or toward the Gold Whisker Clan territory, a group of wererat gnomes considered squatters by Chief Diggermattock. Grygum suggested using Glabbagool to clear the path, and the gelatinous cube eagerly agreed, expressing excitement about having a job and feeling needed. Glabbagool spent about an hour clearing a passageway through the rubble, impressing a gnome from the mining operations who expressed interest in hiring him for future work. The party then proceeded into a former residential cave filled with refuse and a foul stench. Daz attempted to investigate a pile of refuse but found nothing, while Zalthir discovered two slimy, digested deep gnome corpses, confirming they were victims of oozes. Zalthir also detected an ooze trail leading deeper into the caves.
+The sergeant directed the party toward a path through rubble that would lead them to the source of the ooze problem. The party discussed their options, considering paths through the rubble or toward the Gold Whisker Clan territory, a group of wererat gnomes considered squatters by Chief Diggermattock. Gyrgum suggested using Glabbagool to clear the path, and the gelatinous cube eagerly agreed, expressing excitement about having a job and feeling needed. Glabbagool spent about an hour clearing a passageway through the rubble, impressing a gnome from the mining operations who expressed interest in hiring him for future work. The party then proceeded into a former residential cave filled with refuse and a foul stench. Daz attempted to investigate a pile of refuse but found nothing, while Zalthir discovered two slimy, digested deep gnome corpses, confirming they were victims of oozes. Zalthir also detected an ooze trail leading deeper into the caves.
 
 
-As the party followed the trail, Glabbagool began behaving strangely, claiming to hear voices calling him forward. Concerned about potential demonic influence, Zalthir persuaded Glabbagool to stay with the group, appealing to their friendship and promising protection from any corrupting forces. Glabbagool agreed, pleased by the idea of being protected by his friends. Thorin took the lead with Zalthir nearby, and Zalthir detected a pit trap, allowing the party to navigate it safely. Glabbagool indicated that the mysterious voices were coming from the south, guiding the party in that direction. They soon entered a vast cavern filled with countless oozes covering the walls and floor, with a large spherical structure at its center held up by stone pillars. A disembodied voice filled the cave, welcoming visitors and proclaiming the coming of a Faceless Lord to enhance Blingdenstone. Glabbagool expressed discomfort with these oozes, noting that oozes generally do not speak, which he found unsettling. Grygum recalled that a ghost had previously mentioned Juiblex, also known as the Faceless Lord, a demon who infuses power to create chaos.
+As the party followed the trail, Glabbagool began behaving strangely, claiming to hear voices calling him forward. Concerned about potential demonic influence, Zalthir persuaded Glabbagool to stay with the group, appealing to their friendship and promising protection from any corrupting forces. Glabbagool agreed, pleased by the idea of being protected by his friends. Thorin took the lead with Zalthir nearby, and Zalthir detected a pit trap, allowing the party to navigate it safely. Glabbagool indicated that the mysterious voices were coming from the south, guiding the party in that direction. They soon entered a vast cavern filled with countless oozes covering the walls and floor, with a large spherical structure at its center held up by stone pillars. A disembodied voice filled the cave, welcoming visitors and proclaiming the coming of a Faceless Lord to enhance Blingdenstone. Glabbagool expressed discomfort with these oozes, noting that oozes generally do not speak, which he found unsettling. Gyrgum recalled that a ghost had previously mentioned Juiblex, also known as the Faceless Lord, a demon who infuses power to create chaos.
 
 
 Realizing that a direct confrontation with the multitude of oozes was impossible, Daz sent his bat familiar to scout the surrounding areas. The bat explored various paths, discovering empty former Gnomish settlements and cave passages. Eventually, the familiar discovered a cave illuminated by phosphorescent lichen, with pools of green slime and a slime-covered throne. On the throne sat a small gnome, the Pudding King, who was madly holding court and speaking of cleansing Blingdenstone. The party confirmed that the Pudding King was the source of the disembodied voice and the current problem, but he was surrounded by hundreds of oozes under his control. Zalthir proposed using his ability to move through shadows to reach the Pudding King, grapple him, and escape, but the party realized that green slime covering the ceiling would fall during the escape, posing significant danger. They understood that a large distraction would be necessary to execute the plan safely, and that incapacitating the Pudding King without a coordinated effort would unleash the uncontrolled ooze army upon Blingdenstone.
 
 
-The party decided to return to Blingdenstone and enlist the help of the gnomes and their army to create a distraction. They returned to Chief Dorbo Diggermattock, who questioned if the ooze problem had been dealt with. The adventurers informed him that they had discovered a way to deal with the oozes but would require his help, explaining that they had found the source: a gnome called the Pudding King who controlled hundreds of oozes. Chief Dorbo reacted with alarm, calling the situation catastrophic. Grygum presented the plan: he would make a motivational speech to the army, who would distract the oozes, while Zalthir captured or eliminated the Pudding King. Chief Dorbo called the plan the dumbest he had ever heard, but Senni Diggermattock silenced him and asked if he had a better one. Zalthir offered to demonstrate his abilitie. The other deep gnomes excitedly dim the lights, allowing him to showcase his agility and ability to move through shadows. Jimjar, a deep gnome, placed a bet with Chief Dorbo, expressing confidence in the adventurers' success and subtly supporting their mission.
+The party decided to return to Blingdenstone and enlist the help of the gnomes and their army to create a distraction. They returned to Chief Dorbo Diggermattock, who questioned if the ooze problem had been dealt with. The adventurers informed him that they had discovered a way to deal with the oozes but would require his help, explaining that they had found the source: a gnome called the Pudding King who controlled hundreds of oozes. Chief Dorbo reacted with alarm, calling the situation catastrophic. Gyrgum presented the plan: he would make a motivational speech to the army, who would distract the oozes, while Zalthir captured or eliminated the Pudding King. Chief Dorbo called the plan the dumbest he had ever heard, but Senni Diggermattock silenced him and asked if he had a better one. Zalthir offered to demonstrate his abilitie. The other deep gnomes excitedly dim the lights, allowing him to showcase his agility and ability to move through shadows. Jimjar, a deep gnome, placed a bet with Chief Dorbo, expressing confidence in the adventurers' success and subtly supporting their mission.
 
 
 Chief Dorbo raised objections about the gnomes not being equipped to fight oozes and needing allies and resources. Senni suggested a full clan meeting, including the Stoneheart Enclave and the Miners Guild, but Dorbo refused to include the Gold Whisker clan, the wererat gnomes he considered squatters. Senni advocated for working with the Gold Whisker clan for the common good, highlighting their abilities as an asset against oozes. Daz seized control of the discussion, declaring that the party would lead the operation and solve the problem their way, demanding the gnomes' cooperation. Chief Dorbo, after a moment of stunned silence, agreed to the party's terms, with Senni tasking them with bringing the Gold Whisker clan on board to help fight the oozes.
@@ -8882,7 +8882,7 @@ Before heading to meet the Gold Whisker clan, Thorin's curiosity got the better 
 The party then approached the massive double doors leading to the Gold Whisker Warrens, the home of a clan of wererat gnomes. Daz knocked and announced their purpose: to rid the area of the slime problem and seek the clan's help. A guard responded from within, surprised by their directness, and scampered off to inform Chief Chipgrin. After some discussion, the party was invited inside and led through the warrens by four gnome guards whose rat-like features became increasingly apparent—stringy mustaches, pronounced noses, and other subtle characteristics that marked them as wererats.
 
 
-When Grygum expressed genuine, non-judgmental interest in meeting wererats, the guards were pleasantly surprised and launched into an enthusiastic philosophical debate about the ecological niche of rats and wererats. This positive reception was a stark contrast to the usual hostility the clan faced. The guards escorted the party to a plateau covered in soft, well-manicured green moss, where Chief Chipgrin sat on a stone chair draped with a cave badger pelt, flanked by two giant rats and surrounded by guards.
+When Gyrgum expressed genuine, non-judgmental interest in meeting wererats, the guards were pleasantly surprised and launched into an enthusiastic philosophical debate about the ecological niche of rats and wererats. This positive reception was a stark contrast to the usual hostility the clan faced. The guards escorted the party to a plateau covered in soft, well-manicured green moss, where Chief Chipgrin sat on a stone chair draped with a cave badger pelt, flanked by two giant rats and surrounded by guards.
 
 
 Chief Chipgrin initially assumed the party had been sent by the Diggermattocks to remove his clan from the area. Daz quickly clarified their true purpose: they needed help resolving the slime problem to secure a path out of the Underdark. He explained their plan and offered to arrange a meeting between Chipgrin and Chief Dorbo, but only for cooperation, not political maneuvering. If Chipgrin wanted to engage in power plays or positioning, Daz made it clear he had no interest in facilitating that. The wererat chief was impressed by Daz's blunt, no-nonsense approach, remarking that he had been told drow were difficult to negotiate with, but Daz took it to another level.
@@ -8936,19 +8936,19 @@ Inside the burrow, the ghost disappeared, but skeletal remains were found next t
 Continuing their exploration, the party reached a shallow, swiftly flowing stream with crystalline formations and rough-hewn staircases leading thirty feet up to a barren stone ledge. Two winged statues perched atop the ledge caught their attention, and they sent Glabbagool to "clean" the statues, suspecting they might be more than simple decorations. Their instincts proved correct when the statues animated into gargoyles that immediately attacked. The gargoyles' master plan of lying in wait was thoroughly confused by the appearance of a friendly gelatinous cube with googly eyes.
 
 
-A fierce battle erupted as Zalthir engaged one gargoyle in melee combat, landing multiple devastating punches. Daz attempted to use his magic against the injured gargoyle, but it resisted the spell's full effect. Thorin moved closer and threw darts at the flying creature, finishing it off despite its supernatural resistance to mundane weapons. The second gargoyle charged at Grygum, biting and clawing him viciously for significant wounds. Just as the party was gaining the upper hand, a crazed earth elemental suddenly erupted from the ground, confirming the earlier warnings that earth elementals in the area had been driven mad. The party braced themselves for the new threat as the battle intensified, leaving their fate hanging in the balance.
+A fierce battle erupted as Zalthir engaged one gargoyle in melee combat, landing multiple devastating punches. Daz attempted to use his magic against the injured gargoyle, but it resisted the spell's full effect. Thorin moved closer and threw darts at the flying creature, finishing it off despite its supernatural resistance to mundane weapons. The second gargoyle charged at Gyrgum, biting and clawing him viciously for significant wounds. Just as the party was gaining the upper hand, a crazed earth elemental suddenly erupted from the ground, confirming the earlier warnings that earth elementals in the area had been driven mad. The party braced themselves for the new threat as the battle intensified, leaving their fate hanging in the balance.
 
 
 # Chapter 37 Mirror, Mirror, On the Wall, Who's the Maddest of Them All?
 
 
-The party found themselves locked in fierce combat with a maddened Earth Elemental and a gargoyle in a darkened chamber. Zalthir used the shadows to his advantage, teleporting through the darkness to appear beside the massive elemental and striking it with powerful blows before grappling the creature to prevent its escape. Daz unleashed a devastating fireball that engulfed both enemies, while Thorin negotiated with his intelligent sword Dawnbringer about entering the darkness, promising the weapon a finer scabbard in exchange for its cooperation. Grygum summoned spectral guardians that manifested as fey spirits, their radiant energy tearing through the gargoyle and severely wounding the elemental. Despite the elemental's attempts to break free and strike back at Zalthir, the monk's final strike caused the massive creature to collapse into a pile of rubble.
+The party found themselves locked in fierce combat with a maddened Earth Elemental and a gargoyle in a darkened chamber. Zalthir used the shadows to his advantage, teleporting through the darkness to appear beside the massive elemental and striking it with powerful blows before grappling the creature to prevent its escape. Daz unleashed a devastating fireball that engulfed both enemies, while Thorin negotiated with his intelligent sword Dawnbringer about entering the darkness, promising the weapon a finer scabbard in exchange for its cooperation. Gyrgum summoned spectral guardians that manifested as fey spirits, their radiant energy tearing through the gargoyle and severely wounding the elemental. Despite the elemental's attempts to break free and strike back at Zalthir, the monk's final strike caused the massive creature to collapse into a pile of rubble.
 
 
-Among the remains of the defeated elemental, the party discovered a yellow diamond gem capable of summoning another Earth Elemental. However, Grygum recalled that the entire area was cursed by a malevolent entity, and any elemental summoned here would go mad and attack everything around it. The party realized this could potentially be used as a weapon against their enemies, though they possessed a scroll that might remove the curse. They decided to continue exploring to learn more about the dark force corrupting this place.
+Among the remains of the defeated elemental, the party discovered a yellow diamond gem capable of summoning another Earth Elemental. However, Gyrgum recalled that the entire area was cursed by a malevolent entity, and any elemental summoned here would go mad and attack everything around it. The party realized this could potentially be used as a weapon against their enemies, though they possessed a scroll that might remove the curse. They decided to continue exploring to learn more about the dark force corrupting this place.
 
 
-The party traveled through winding passageways with their companion Glabbagool, the curious gelatinous cube, who expressed excitement about the strange sights they encountered. They came upon a chamber filled with statues of Drow warriors standing in eternal vigilance. The moment they stepped inside, six of the statues animated and attacked with stone weapons raised. Daz called upon fire once more, carefully shaping the flames to avoid his allies while the animated warriors burned. Grygum positioned himself among the statues and summoned more spectral guardians, their holy energy causing the stone warriors to crumble. But as soon as the first wave fell, six more statues came to life, revealing the endless nature of the threat.
+The party traveled through winding passageways with their companion Glabbagool, the curious gelatinous cube, who expressed excitement about the strange sights they encountered. They came upon a chamber filled with statues of Drow warriors standing in eternal vigilance. The moment they stepped inside, six of the statues animated and attacked with stone weapons raised. Daz called upon fire once more, carefully shaping the flames to avoid his allies while the animated warriors burned. Gyrgum positioned himself among the statues and summoned more spectral guardians, their holy energy causing the stone warriors to crumble. But as soon as the first wave fell, six more statues came to life, revealing the endless nature of the threat.
 
 
 Through careful investigation and Daz's extensive knowledge of the arcane, the party deduced that a malevolent entity was animating the statues, but it could only control six at a time. They tested this theory by stepping in and out of the chamber, watching the statues animate and return to stillness. Glabbagool found this particularly entertaining, playing a game of entering and exiting the room. Daz sent his bat familiar into the chamber, and the six animated statues immediately gave chase, their stone feet echoing through the cavern as they pursued the small creature. The party concluded that this entity was likely impervious to normal attacks and would require specific weapons or magic to defeat, so they decided to gather more information before confronting it directly.
@@ -8963,7 +8963,7 @@ When they finally entered the chamber, they found it decorated in the style of a
 Zalthir rushed forward with the ice mirror in hand, preparing to raise it if the Medusa attempted to use her petrifying gaze. He struck at her with his free hand, landing solid blows while keeping the mirror ready. When the Medusa finally turned her deadly stare upon him, Zalthir thrust the mirror before her face. She screamed in horror upon seeing her reflection, lamenting her disheveled appearance, but managed to resist being turned to stone by her own power. In retaliation, she lashed out with her claws and the venomous serpents that formed her hair, her snake bites piercing Zalthir's defenses and injecting him with poison.
 
 
-Grygum attempted to strike from a safe distance while Thorin positioned himself carefully, staying just beyond the range of the Medusa's petrifying gaze. He hurled darts at the creature, and through a combination of skill and fortune, his projectiles found their mark. His final throw was particularly devastating, the dart striking with such force that it knocked the Medusa off her feet, sending her crashing to the ground. As she lay prone before them, Thorin prepared another attack, and the party readied themselves to finish the battle they had so carefully prepared for.
+Gyrgum attempted to strike from a safe distance while Thorin positioned himself carefully, staying just beyond the range of the Medusa's petrifying gaze. He hurled darts at the creature, and through a combination of skill and fortune, his projectiles found their mark. His final throw was particularly devastating, the dart striking with such force that it knocked the Medusa off her feet, sending her crashing to the ground. As she lay prone before them, Thorin prepared another attack, and the party readied themselves to finish the battle they had so carefully prepared for.
 
 
 # Chapter 38 Zalthir's Reflection, Thorin's Stand
@@ -8975,31 +8975,31 @@ The party stood victorious over the Medusa, whose serpentine hair lay still afte
 Searching the Medusa's lair, the adventurers discovered five exquisite dresses made of spider silk and shaped by drow magic, worth a considerable fortune in the markets of the Underdark. Glabbagool, the intelligent gelatinous cube who traveled with them, expressed unusual delight at tasting the Medusa's remains, cheerfully noting that the party provided an excellent supply of dietary flavoring as he slowly cleaned up the aftermath of battle.
 
 
-With the Medusa defeated, the party turned their attention to their true objective: hallowing the ancient temple to cleanse it of Ogrémoch's Bane, an evil force from the elemental plane of earth. Grygum, as the party's cleric, volunteered to place the Ruby spell gem that Gerdig Katfinger had provided into the great menhir that stood in the temple's center. The chamber itself was ominous, with rough walls that outlined several large, vaguely humanoid shapes. When Grygum placed the glowing gem into one of the menhir's many empty sockets, the walls began to rumble ominously.
+With the Medusa defeated, the party turned their attention to their true objective: hallowing the ancient temple to cleanse it of Ogrémoch's Bane, an evil force from the elemental plane of earth. Gyrgum, as the party's cleric, volunteered to place the Ruby spell gem that Gerdig Katfinger had provided into the great menhir that stood in the temple's center. The chamber itself was ominous, with rough walls that outlined several large, vaguely humanoid shapes. When Gyrgum placed the glowing gem into one of the menhir's many empty sockets, the walls began to rumble ominously.
 
 
-Part of the wall suddenly shifted and detached, revealing an Earth Elemental that charged toward the party with hostile intent. Daz quickly cast a mesmerizing pattern of swirling colors that incapacitated the creature, freezing it in place. The party coordinated their efforts, preparing to strike simultaneously to maximize their damage when the enchantment broke. When Daz's magical missiles shattered the spell's hold, Zalthir rushed forward and delivered a devastating series of blows that left the elemental severely wounded. Grygum followed with a brilliant flash of divine light that struck the creature with tremendous force, reducing it to rubble.
+Part of the wall suddenly shifted and detached, revealing an Earth Elemental that charged toward the party with hostile intent. Daz quickly cast a mesmerizing pattern of swirling colors that incapacitated the creature, freezing it in place. The party coordinated their efforts, preparing to strike simultaneously to maximize their damage when the enchantment broke. When Daz's magical missiles shattered the spell's hold, Zalthir rushed forward and delivered a devastating series of blows that left the elemental severely wounded. Gyrgum followed with a brilliant flash of divine light that struck the creature with tremendous force, reducing it to rubble.
 
 
 As the first elemental fell, a boulder-like creature with stumpy limbs materialized from the stone—a Galeb Duhr, an ancient stone guardian. The party cautiously attempted to communicate with it, and the creature spoke in measured tones, explaining that by defeating the elemental, they had freed it from Ogrémoch's control. However, it could do nothing until all of its brothers were similarly freed. The Galeb Duhr revealed that Ogrémoch had infected the temple and prevented these guardians from performing their sacred duty to protect it. Even as it spoke, another Earth Elemental emerged from the northern wall.
 
 
-The second battle proved more challenging, with the elemental focusing its attacks on Zalthir and dealing significant damage to the monk. The party fought with determination, with Grygum's radiant bolts and Daz's necrotic magic weakening the creature while Thorin engaged it directly with his glowing sword Dawnbringer. Zalthir took heavy blows but continued fighting, and when the elemental seemed poised to overwhelm him, Thorin intercepted one of its attacks. The battle turned when Grygum unleashed a powerful spell with his crossbow, channeling divine energy through the weapon to pierce the elemental's stony hide and destroy it.
+The second battle proved more challenging, with the elemental focusing its attacks on Zalthir and dealing significant damage to the monk. The party fought with determination, with Gyrgum's radiant bolts and Daz's necrotic magic weakening the creature while Thorin engaged it directly with his glowing sword Dawnbringer. Zalthir took heavy blows but continued fighting, and when the elemental seemed poised to overwhelm him, Thorin intercepted one of its attacks. The battle turned when Gyrgum unleashed a powerful spell with his crossbow, channeling divine energy through the weapon to pierce the elemental's stony hide and destroy it.
 
 
-A third Galeb Duhr appeared as the second elemental crumbled, but so too did another Earth Elemental, startling Grygum as it materialized behind him. The cleric quickly retreated to a safer position while Daz unleashed a massive explosion of fire that scorched the creature. Zalthir, wounded from the previous fight, took a moment to drink a healing potion from the party's supplies before preparing to rejoin the fray. Thorin positioned himself to intercept the elemental's charge, striking it twice with devastating precision as it rushed toward him.
+A third Galeb Duhr appeared as the second elemental crumbled, but so too did another Earth Elemental, startling Gyrgum as it materialized behind him. The cleric quickly retreated to a safer position while Daz unleashed a massive explosion of fire that scorched the creature. Zalthir, wounded from the previous fight, took a moment to drink a healing potion from the party's supplies before preparing to rejoin the fray. Thorin positioned himself to intercept the elemental's charge, striking it twice with devastating precision as it rushed toward him.
 
 
-The third battle became a test of the party's remaining resources and endurance. The elemental struck Thorin with crushing blows, but the fighter stood firm, his magical sword cutting deep into the creature's rocky form. Daz's fiery rays found their mark repeatedly, while Grygum provided support from range. Thorin drew upon his reserves of strength to launch a flurry of additional attacks, each one chipping away at the elemental's defenses. Finally, Zalthir stepped forward and delivered an enhanced strike that shattered the creature into fragments. As the dust settled, yet another Galeb Duhr materialized from the stone, suggesting that the party's work in cleansing the temple was far from complete.
+The third battle became a test of the party's remaining resources and endurance. The elemental struck Thorin with crushing blows, but the fighter stood firm, his magical sword cutting deep into the creature's rocky form. Daz's fiery rays found their mark repeatedly, while Gyrgum provided support from range. Thorin drew upon his reserves of strength to launch a flurry of additional attacks, each one chipping away at the elemental's defenses. Finally, Zalthir stepped forward and delivered an enhanced strike that shattered the creature into fragments. As the dust settled, yet another Galeb Duhr materialized from the stone, suggesting that the party's work in cleansing the temple was far from complete.
 
 
 # Chapter 39 Harvesting Horror in the Underdark
 
 
-After defeating the deranged earth elementals, the party witnessed a white light shine from the ancient menhir, creating a powerful hallowing effect that cleansed the temple. Three Galeb Duhr emerged, their rocky forms pulsing with satisfaction as they acknowledged the party's success. The first Galeb Duhr welcomed Grygum, the cleric of Bahamut, to what he called "the Realm of the Dragon." The Galeb Duhrs quickly corrected him that this was actually "the Realm of the Rock." The creatures explained that the party had successfully hallowed the temple from the corrupting power of Ogrémoch, the evil elemental earth god who had infested these rocks for centuries.
+After defeating the deranged earth elementals, the party witnessed a white light shine from the ancient menhir, creating a powerful hallowing effect that cleansed the temple. Three Galeb Duhr emerged, their rocky forms pulsing with satisfaction as they acknowledged the party's success. The first Galeb Duhr welcomed Gyrgum, the cleric of Bahamut, to what he called "the Realm of the Dragon." The Galeb Duhrs quickly corrected him that this was actually "the Realm of the Rock." The creatures explained that the party had successfully hallowed the temple from the corrupting power of Ogrémoch, the evil elemental earth god who had infested these rocks for centuries.
 
 
-Grygum then, with a mischievous grin, said that of course it is. "After all we're in here. It's a cavern, and we are in it. 
+Gyrgum then, with a mischievous grin, said that of course it is. "After all we're in here. It's a cavern, and we are in it. 
 
 
 Thorin could not resist making a pun and said, "Of course, it's hollow!" 
@@ -9020,22 +9020,22 @@ The next morning, an exhausted Naomi Pathshutter appeared in the crowded meeting
 When the party revealed they had dealt with four insane earth elementals and a Medusa, Naomi's attitude shifted to one of genuine respect and admiration. She tasked them with investigating the strange vibrations and finding the lost path to Entémoch's boon. Before they could depart, Kazook Pickshine, the local alchemist, arrived with troubling news. He had recalled a legend about a garden of stone deep in the rock blight and had sent his scout Bimble to investigate. Bimble had found the rare Ghost Hold Lichen they needed for their alchemical preparations, but he had returned wrong—infected and raving about a garden that sang to him and the Lady of Rot feeding the soil.
 
 
-Grygum immediately recognized the reference to the Lady of Rot as Zuggtmoy, the demoness who had destroyed Neverlight Grove and nearly possessed Thorin in a previous encounter. The revelation sent waves of alarm through the assembled leaders of Blingdenstone. They now faced not only Juiblex and the Pudding King but also the corrupting influence of Zuggtmoy herself. Arguments broke out about priorities and past decisions until the party intervened, insisting that they focus on the tasks at hand. They decided to investigate the Festering Fissure where Bimble had found the lichen, choosing their destination based on the alliterative appeal of the name.
+Gyrgum immediately recognized the reference to the Lady of Rot as Zuggtmoy, the demoness who had destroyed Neverlight Grove and nearly possessed Thorin in a previous encounter. The revelation sent waves of alarm through the assembled leaders of Blingdenstone. They now faced not only Juiblex and the Pudding King but also the corrupting influence of Zuggtmoy herself. Arguments broke out about priorities and past decisions until the party intervened, insisting that they focus on the tasks at hand. They decided to investigate the Festering Fissure where Bimble had found the lichen, choosing their destination based on the alliterative appeal of the name.
 
 
 In Kazook's chambers, surrounded by bubbling beakers and mysterious potions, they found Bimble strapped to a table, coughing up spores that formed tiny laughing faces before dissolving into the air. The party cracked a joke, mocking the situation. Kazook was upset. He asked for compassion, explaining that Bimble was a dear friend, not just an assistant. Through careful investigation of Bimble's ramblings, the smells clinging to him, and the textures of rock under his fingers, the party successfully pinpointed the exact location of the cave. They avoided random encounters and headed directly into the Underdark once more.
 
 
-The Festering Fissure proved to be unlike anything else in Blingdenstone—humid, hot, and reeking of sweet vegetation rot. The party fashioned makeshift bandanas to protect themselves from spores before Grygum summoned a bat familiar to scout ahead. The bat flew into a living nightmare where walls appeared to breathe, covered in pulsing white mold. Fungi had grown into disturbing shapes resembling deep gnome children, and these mushroom figures seemed to turn and stare as the bat passed. Deeper in the chamber, the bat discovered a shambling mound tending to a bizarre garden, violet fungi hybrids, and most importantly, the corpse of a giant from which Ghost Hold Lichen grew.
+The Festering Fissure proved to be unlike anything else in Blingdenstone—humid, hot, and reeking of sweet vegetation rot. The party fashioned makeshift bandanas to protect themselves from spores before Gyrgum summoned a bat familiar to scout ahead. The bat flew into a living nightmare where walls appeared to breathe, covered in pulsing white mold. Fungi had grown into disturbing shapes resembling deep gnome children, and these mushroom figures seemed to turn and stare as the bat passed. Deeper in the chamber, the bat discovered a shambling mound tending to a bizarre garden, violet fungi hybrids, and most importantly, the corpse of a giant from which Ghost Hold Lichen grew.
 
 
-Thorin's knowledge of giants revealed that the lichen had to be cut carefully without bursting the poisonous sacs growing beside it, while Grygum understood that a warding prayer would be needed to keep demonic spirits at bay during the harvest. The party formulated a plan where Zalthir would teleport in to cut the lichen while Grygum chanted the protective prayer. However, when Zalthir made his attempt, his cut was not perfectly clean, and he ruptured one of the poisonous sacs, taking significant damage and alerting the shambling mound to their presence.
+Thorin's knowledge of giants revealed that the lichen had to be cut carefully without bursting the poisonous sacs growing beside it, while Gyrgum understood that a warding prayer would be needed to keep demonic spirits at bay during the harvest. The party formulated a plan where Zalthir would teleport in to cut the lichen while Gyrgum chanted the protective prayer. However, when Zalthir made his attempt, his cut was not perfectly clean, and he ruptured one of the poisonous sacs, taking significant damage and alerting the shambling mound to their presence.
 
 
 Just as Zalthir made his cut, he remembered his training as a monk in the gardens. The ancient monk, The Garden Shadow, had explained exactly how to cut lichen and tend the trees, and told him that this training would come in useful. But Zalthir had no intention to spend his time in contemplation of the wild; he would be out there, changing the world. As the poison took hold, he thought to himself, "Who would have thought?" 
 
 
-Daz quickly cast a hypnotic pattern of shimmering colors that incapacitated the violet fungi and even caught Zalthir in its mesmerizing effect. The shambling mound barely resisted the enchantment. Grygum rushed forward and punched Zalthir in the face to break him from the trance, though his first blow was so weak it dealt no damage at all, forcing him to draw a dagger and stab his companion to properly wake him. The shambling mound attacked Zalthir with crushing blows and wrapped him in a powerful grapple, but Zalthir responded by grappling the creature in return, creating a deadlock that prevented the mound from engulfing him entirely.
+Daz quickly cast a hypnotic pattern of shimmering colors that incapacitated the violet fungi and even caught Zalthir in its mesmerizing effect. The shambling mound barely resisted the enchantment. Gyrgum rushed forward and punched Zalthir in the face to break him from the trance, though his first blow was so weak it dealt no damage at all, forcing him to draw a dagger and stab his companion to properly wake him. The shambling mound attacked Zalthir with crushing blows and wrapped him in a powerful grapple, but Zalthir responded by grappling the creature in return, creating a deadlock that prevented the mound from engulfing him entirely.
 
 
 Thorin charged into battle with Dawnbringer, his enchanted weapon striking true against the shambling mound multiple times. His attacks weakened the creature, causing it to fight at a disadvantage. Zalthir pummeled the grappled mound with a flurry of strikes while locked in their mutual embrace. As the combat continued in the eerie fungal garden, surrounded by mushroom children that seemed to watch with hollow eyes, the party fought to complete their mission and obtain the Ghost Hold Lichen they desperately needed, all while the corrupting influence of Zuggtmoy, the Lady of Rot, lingered in the very air around them.
@@ -9044,13 +9044,13 @@ Thorin charged into battle with Dawnbringer, his enchanted weapon striking true 
 The party found themselves locked in fierce combat with a Shambling Mound in the Festering Fissure, while charmed Violet Fungus stood by in confusion. Daz unleashed a carefully controlled explosion of fire, sculpting the flames to avoid both Zalthir and the precious lichen they had come to harvest. The Shambling Mound proved resilient, shrugging off magical assaults with uncanny luck, but Zalthir's relentless strikes and Thorin's devastating blows eventually brought the creature down. As they finished harvesting the rare lichen needed for anti-acid armor, a chilling voice echoed in their minds—Zuggtmoy, the Lady of Rot, speaking to the Pudding King about her sinister plans to use oozes to "soften the shell" so her garden could "take root in the flesh beneath."
 
 
-The party arrived at Pickshine Mine, where four massive Galeb Duhr blocked the path, vibrating rhythmically like stones singing the first half of a forgotten duet. The mine owner, Dasco Pickshine, had tried everything to move them, even striking them with his pickaxe, but the ancient sentinels refused to budge. Grygum sensed they were waiting for divine authority, while Daz perceived their vibrations as a linguistic pattern—a call waiting for an echo that never came. After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol, and the Galeb Duhr finally relaxed and opened the way. Dasco grudgingly offered the party two ruby gems worth five hundred gold pieces as thanks.
+The party arrived at Pickshine Mine, where four massive Galeb Duhr blocked the path, vibrating rhythmically like stones singing the first half of a forgotten duet. The mine owner, Dasco Pickshine, had tried everything to move them, even striking them with his pickaxe, but the ancient sentinels refused to budge. Gyrgum sensed they were waiting for divine authority, while Daz perceived their vibrations as a linguistic pattern—a call waiting for an echo that never came. After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol, and the Galeb Duhr finally relaxed and opened the way. Dasco grudgingly offered the party two ruby gems worth five hundred gold pieces as thanks.
 
 
 The geode, now acting as a beacon locator, led them deeper into the earth to the White Shell Mine, the largest salt mine in the Underdark. There, Perigrog Scrapedust explained that a tunnel had become impassable—impossibly dry, with blinding crystallite walls and absolute, suffocating silence. Shadows cast by torches appeared painted on the walls rather than flickering, as if time itself had stopped. Zalthir recalled a metaphysical puzzle from his training: magical pressure had caused time to snag at this point, and breaking it directly would unleash a catastrophic explosion. The solution required creating a hole for the backlog of reality to pass through safely, which only a Shadow Monk could accomplish.
 
 
-The gnomes eagerly presented their specialized explosives, and Zalthir meditated on the challenge, channeling all his frustration into the void. With Grygum's blessing to aid him, Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space. The wall shattered without collapsing the tunnels, and the gnomes celebrated their success while the party caught their breath.
+The gnomes eagerly presented their specialized explosives, and Zalthir meditated on the challenge, channeling all his frustration into the void. With Gyrgum's blessing to aid him, Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space. The wall shattered without collapsing the tunnels, and the gnomes celebrated their success while the party caught their breath.
 
 
 Beyond the breached wall, they discovered a large cavern containing a summoning circle inscribed with runes in giant script. Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone. The party quickly devised a strategy to avoid the creatures' petrifying gaze—Zalthir engaged one in close combat while averting his eyes, and Daz successfully enchanted the other, freezing it in place with an incapacitating charm.
@@ -9063,13 +9063,13 @@ While his companions held the basilisks at bay, Thorin rushed to the summoning c
 The party found themselves locked in fierce combat with a Shambling Mound in the Festering Fissure, while charmed Violet Fungus stood by in confusion. Daz unleashed a carefully controlled explosion of fire, sculpting the flames to avoid both Zalthir and the precious lichen they had come to harvest. The Shambling Mound proved resilient, shrugging off magical assaults with uncanny luck, but Zalthir's relentless strikes and Thorin's devastating blows eventually brought the creature down. As they finished harvesting the rare lichen needed for anti-acid armor, a chilling voice echoed in their minds—Zuggtmoy, the Lady of Rot, speaking to the Pudding King about her sinister plans to use oozes to "soften the shell" so her garden could "take root in the flesh beneath."
 
 
-The party arrived at Pickshine Mine, where four massive Galeb Duhr blocked the path, vibrating rhythmically like stones singing the first half of a forgotten duet. The mine owner, Dasco Pickshine, had tried everything to move them, even striking them with his pickaxe, but the ancient sentinels refused to budge. Grygum sensed they were waiting for divine authority, while Daz perceived their vibrations as a linguistic pattern—a call waiting for an echo that never came. After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol, and the Galeb Duhr finally relaxed and opened the way. Dasco grudgingly offered the party two ruby gems worth five hundred gold pieces as thanks.
+The party arrived at Pickshine Mine, where four massive Galeb Duhr blocked the path, vibrating rhythmically like stones singing the first half of a forgotten duet. The mine owner, Dasco Pickshine, had tried everything to move them, even striking them with his pickaxe, but the ancient sentinels refused to budge. Gyrgum sensed they were waiting for divine authority, while Daz perceived their vibrations as a linguistic pattern—a call waiting for an echo that never came. After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol, and the Galeb Duhr finally relaxed and opened the way. Dasco grudgingly offered the party two ruby gems worth five hundred gold pieces as thanks.
 
 
 The geode, now acting as a beacon locator, led them deeper into the earth to the White Shell Mine, the largest salt mine in the Underdark. There, Perigrog Scrapedust explained that a tunnel had become impassable—impossibly dry, with blinding crystallite walls and absolute, suffocating silence. Shadows cast by torches appeared painted on the walls rather than flickering, as if time itself had stopped. Zalthir recalled a metaphysical puzzle from his training: magical pressure had caused time to snag at this point, and breaking it directly would unleash a catastrophic explosion. The solution required creating a hole for the backlog of reality to pass through safely, which only a Shadow Monk could accomplish.
 
 
-The gnomes eagerly presented their specialized explosives, and Zalthir meditated on the challenge, channeling all his frustration into the void. With Grygum's blessing to aid him, Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space. The wall shattered without collapsing the tunnels, and the gnomes celebrated their success while the party caught their breath.
+The gnomes eagerly presented their specialized explosives, and Zalthir meditated on the challenge, channeling all his frustration into the void. With Gyrgum's blessing to aid him, Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space. The wall shattered without collapsing the tunnels, and the gnomes celebrated their success while the party caught their breath.
 
 
 Beyond the breached wall, they discovered a large cavern containing a summoning circle inscribed with runes in giant script. Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone. The party quickly devised a strategy to avoid the creatures' petrifying gaze—Zalthir engaged one in close combat while averting his eyes, and Daz successfully enchanted the other, freezing it in place with an incapacitating charm.
@@ -9083,13 +9083,13 @@ The party found themselves in a desperate situation, completing an ancient ritua
 Daz attempted to help by hurling bolts of flame toward the creature, but his attacks went wildly astray, missing entirely and nearly hitting Zalthir instead. Zalthir engaged the beast in close combat, trading blows with his fists until finally landing a decisive strike that brought the creature down. With the immediate threat neutralized, the party completed the ritual by placing two gems into their designated positions. The ground rumbled with a deep, soothing vibration, and they felt an ancient wrongness in the stone being set right. They had successfully released Entémoch's boon, gaining the ability to summon Earth Elementals and receiving a protective blessing that would allow them to turn their skin to stone once per day when struck in battle.
 
 
-The victory brought unexpected complications when the party learned that the gnomes of Blingdenstone intended to use the newly available Earth Elementals for mining labor. Thorin expressed deep discomfort with this plan, arguing that subjugating these elemental beings as unpaid workers was morally wrong and risked provoking an uprising. The party decided to take a stand, meeting with Blingdenstone's leaders including Senni Diggermattock, Chief Dorbo, and Chipgrin. Thorin passionately argued that asking the elementals for help in defending the realm and then forcing them into hard labor was unconscionable. Grygum supported this position from a religious perspective, invoking the will of the Gnomish gods, while Zalthir spoke of peace and harmony from his monastic training.
+The victory brought unexpected complications when the party learned that the gnomes of Blingdenstone intended to use the newly available Earth Elementals for mining labor. Thorin expressed deep discomfort with this plan, arguing that subjugating these elemental beings as unpaid workers was morally wrong and risked provoking an uprising. The party decided to take a stand, meeting with Blingdenstone's leaders including Senni Diggermattock, Chief Dorbo, and Chipgrin. Thorin passionately argued that asking the elementals for help in defending the realm and then forcing them into hard labor was unconscionable. Gyrgum supported this position from a religious perspective, invoking the will of the Gnomish gods, while Zalthir spoke of peace and harmony from his monastic training.
 
 
 Daz delivered perhaps the most cutting argument, drawing a parallel between the proposed elemental labor system and the slave society of Menzoberranzan, asking whether the gnomes truly wanted to become like the Drow they had just freed themselves from. The arguments proved devastatingly effective, with Senni seizing control of the meeting and the religious leaders agreeing that enslaving summoned creatures violated their deepest beliefs. Senni, as a leader of the labor groups, not the business leaders, shouted - "Gnome Labor, not Summoned Labor!" The party successfully convinced Blingdenstone's leadership that Earth Elementals could be summoned for defense and warfare, but not for labor in building or mining, fundamentally disrupting the city's economic plans while earning the gratitude and admiration of the working gnomes.
 
 
-As Blingdenstone prepared for the impending battle against the Pudding King and his oozes, a traveling merchant named Starlace arrived with a shop full of magical wares. The party took the opportunity to upgrade their equipment before the coming conflict. Zalthir purchased spectacles crafted from glowing crystal that would allow him to see invisible creatures and peer through magical darkness. Grygum had both his mace and shield enchanted with protective magic, significantly improving his defensive capabilities. The party also sold some excess armor to Starlace, with both sides feeling satisfied with the negotiation.
+As Blingdenstone prepared for the impending battle against the Pudding King and his oozes, a traveling merchant named Starlace arrived with a shop full of magical wares. The party took the opportunity to upgrade their equipment before the coming conflict. Zalthir purchased spectacles crafted from glowing crystal that would allow him to see invisible creatures and peer through magical darkness. Gyrgum had both his mace and shield enchanted with protective magic, significantly improving his defensive capabilities. The party also sold some excess armor to Starlace, with both sides feeling satisfied with the negotiation.
 
 
 Finally, the party sought out Valimor Brightgem at The Gilded Sheath to commission a proper scabbard for Dawnbringer, the sentient glowing sword that had been attracting attention from local children with its flaming appearance. Valimor offered either an expensive gem-encrusted showpiece or a more practical locking scabbard that would prevent theft. During the discussion, Thorin casually suggested product naming schemes like "Vaultmaster 9000" and the concept of tiered models with replaceable components. Valimor's eyes lit up with excitement at these marketing concepts, his mind racing with possibilities of platform-based business models and upgrade paths. Feeling generous and inspired, he offered the practical locking scabbard at a reduced price, and Dawnbringer was finally pleased to have a proper home that would keep the sword secure and presentable.
@@ -9107,13 +9107,13 @@ The party questioned whether sending troops into the heavily ooze-infested purpl
 Dasco Pickshine, the owner of Pickshine Mines for Dasco Pickshine Mines, seized every opportunity to promote his brand. He offered "branded tea" and explained his holistic approach to marketing the mining operation. When the party showed interest in branded items, he personally sewed a Dasco Pickshine patch onto Daz's clothes, standing proudly beside the much taller dragonborn. Every piece of Dasco Pickshine's clothing and equipment bore his company's logo, demonstrating his unwavering commitment to brand promotion.
 
 
-The party established terms with their allies, deciding on a reconnaissance-first approach. Chipgrin and his wererats, taking offense at any suggestion they might be noisy, emphasized their stealth capabilities and agreed to scout ahead while the other allies waited in reserve at area twenty-two. Daz was formally recognized as the general in charge, with Grygum and Zalthir serving as lieutenants who could also give orders. The plan was set: the main distraction force would only begin their attack when the party sent the signal.
+The party established terms with their allies, deciding on a reconnaissance-first approach. Chipgrin and his wererats, taking offense at any suggestion they might be noisy, emphasized their stealth capabilities and agreed to scout ahead while the other allies waited in reserve at area twenty-two. Daz was formally recognized as the general in charge, with Gyrgum and Zalthir serving as lieutenants who could also give orders. The plan was set: the main distraction force would only begin their attack when the party sent the signal.
 
 
 A wererat scout ventured ahead and returned with troubling news. A twenty-foot stretch of passageway had been hollowed out into a pulsating pit of black pudding, with an acid-dripping ceiling above. The scout noted grimly that if he could get through the rubble, the oozes could get through the other way. Dasco Pickshine immediately offered a solution: his miners could bridge the pit using mithral braces and salt neutralizers. However, he explained that if they built the bridge, they would need to stay behind to maintain it against the acid, meaning they couldn't back up the party at the Pudding King's doors. Daz accepted the offer, and the Pickshine Miners enthusiastically set to work, completing the bridge in about twenty minutes while singing cheerful songs.
 
 
-As the bridge neared completion, Jimjar made a bet that Thorin couldn't clear the gap with his pack on. Grygum, with a flash of insight, realized that Jimjar hadn't specified how Thorin should cross and persuaded the dwarf that he could simply walk across the bridge once it was built. Thorin initially considered the more dramatic option of jumping, but his sentient sword Dawnbringer argued against getting stuck in acid. After a brief dialogue between dwarf and blade, Thorin agreed that walking would be just as satisfying.
+As the bridge neared completion, Jimjar made a bet that Thorin couldn't clear the gap with his pack on. Gyrgum, with a flash of insight, realized that Jimjar hadn't specified how Thorin should cross and persuaded the dwarf that he could simply walk across the bridge once it was built. Thorin initially considered the more dramatic option of jumping, but his sentient sword Dawnbringer argued against getting stuck in acid. After a brief dialogue between dwarf and blade, Thorin agreed that walking would be just as satisfying.
 
 
 The second wererat scout ventured further ahead but didn't return. After ten anxious minutes, Chipgrin went to investigate and found the scout caught and terrified, unable to move. He reported that the tunnel walls had transformed into sheets of gelatinous slime acting as dark, weeping mirrors with psychic effects. A "brain slime" in the ceiling emitted a rhythmic, wet clicking and sang a psychic song that turned minds into puddles. Chipgrin offered two options: his pack could howl at a frequency that would drown out the psychic effect, allowing the party to walk through safely, but this would draw all the oozes to attack the wererats, leaving the party without scouts or backup. The party chose this loud path, and Jimjar made a joke about Daz's reflection being better looking than the real thing, though Daz refused to engage with such parlor games.
@@ -9154,7 +9154,7 @@ As Zalthir passed through the body, he thought that Glabbagool should have the m
 As the battle continued, something strange occurred that threw the party into confusion. When Thorin struck what he thought was the Pudding King with his darts, a familiar voice cried out asking why they were hurting him. The party quickly realized that somehow, impossibly, Glabbagool and the Pudding King had swapped positions or bodies. Thorin tested this by asking where they first met, and the ooze near him responded that they had met in a cave—confirming it was indeed their friendly gelatinous cube ally. The real Pudding King was now a Gelatinous Cube and Glabbagool's was an ooze.
 
 
-Once the confusion was sorted out, the party coordinated a devastating assault. Daz channeled powerful magical energy into missiles that unerringly struck the Pudding King, while Grygum called upon dark powers to inflict necrotic wounds that caused the ooze to writhe in pain. The Pudding King fought back desperately, unleashing more slime waves and trying to use his lair's green slime against them, but he had been separated from his throne room, and his power was waning. Thorin struck with his radiant sword Dawnbringer, its holy light searing through the corrupted ooze.
+Once the confusion was sorted out, the party coordinated a devastating assault. Daz channeled powerful magical energy into missiles that unerringly struck the Pudding King, while Gyrgum called upon dark powers to inflict necrotic wounds that caused the ooze to writhe in pain. The Pudding King fought back desperately, unleashing more slime waves and trying to use his lair's green slime against them, but he had been separated from his throne room, and his power was waning. Thorin struck with his radiant sword Dawnbringer, its holy light searing through the corrupted ooze.
 
 
 Zalthir delivered the final assault, teleporting through shadows to close the distance and unleashing a flurry of strikes enhanced by eldritch energy channeling through his tentacles. Each blow caused the Pudding King's form to destabilize further, his ooze body unable to maintain cohesion under the relentless assault. With a final telepathic scream—"Behold the true feast, the soul's final blend!"—the Pudding King dissolved completely, his consciousness dissipating as his physical form melted into inert puddles.
@@ -9213,14 +9213,14 @@ Searching the aftermath of the battle, the party discovered treasure that had be
 - Prince Livid attacks Zalthir with a psychic blast, dealing fourteen points of damage reduced to seven by a successful intelligence saving throw.
 - Thorin dashes forward, carefully avoiding the green slime hazards in the lair.
 - Princess Ebonmire throws a blob at Thorin, but it misses.
-- Grygum casts Guiding Bolt at the Pudding King, but it misses.
+- Gyrgum casts Guiding Bolt at the Pudding King, but it misses.
 ### The Pudding King's Slime Wave
 #### The Pudding King retaliates with a devastating slime wave attack, affecting multiple party members.
-- The Pudding King unleashes a slime wave, forcing Zalthir, Thorin, Daz, and Grygum to make dexterity saving throws.
+- The Pudding King unleashes a slime wave, forcing Zalthir, Thorin, Daz, and Gyrgum to make dexterity saving throws.
 - Zalthir takes eleven points of acid damage, using Stone Skin to reduce it to five.
-- Daz and Grygum fail their saves and are knocked prone, taking damage.
-- The Pudding King uses his lair action to drop green slime on Grygum.
-- Grygum makes his dexterity saving throw against the green slime and avoids damage.
+- Daz and Gyrgum fail their saves and are knocked prone, taking damage.
+- The Pudding King uses his lair action to drop green slime on Gyrgum.
+- Gyrgum makes his dexterity saving throw against the green slime and avoids damage.
 ### Dragging the Ooze King
 #### Zalthir successfully grapples the Pudding King and drags him out of his lair to neutralize his lair actions.
 - Zalthir uses Steps of the Wind to dash, moving a significant distance while grappling the Pudding King.
@@ -9241,9 +9241,9 @@ Searching the aftermath of the battle, the party discovered treasure that had be
 #### The party coordinates their attacks against the Pudding King and his remaining allies.
 - Daz casts a third-level Magic Missile at the Pudding King, dealing twenty points of damage.
 - Prince Livid and Princess Ebonmire charge toward the party.
-- Grygum casts Inflict Wounds on the Pudding King, dealing twenty-three points of damage.
-- The Pudding King unleashes another slime wave, affecting Thorin, Daz, and Grygum.
-- Thorin makes his save and takes reduced damage; Daz and Grygum use Stone Skin to resist the damage.
+- Gyrgum casts Inflict Wounds on the Pudding King, dealing twenty-three points of damage.
+- The Pudding King unleashes another slime wave, affecting Thorin, Daz, and Gyrgum.
+- Thorin makes his save and takes reduced damage; Daz and Gyrgum use Stone Skin to resist the damage.
 - Daz is covered in green slime but avoids immediate damage.
 ### Defeating the Pudding King
 #### Zalthir delivers the final blows to the Pudding King, causing him to dissolve and die.
@@ -9261,7 +9261,7 @@ Searching the aftermath of the battle, the party discovered treasure that had be
 - Princess Ebonmire takes full damage from the Fireball.
 - Princess Ebonmire charges at Thorin.
 - Prince Livid uses a psychic attack on Daz, dealing five points of damage.
-- Grygum stands up from prone and casts Inflict Wounds on Princess Ebonmire, dealing eighteen points of damage.
+- Gyrgum stands up from prone and casts Inflict Wounds on Princess Ebonmire, dealing eighteen points of damage.
 - Zalthir uses Shadow Step to teleport and attacks Princess Ebonmire, grappling her and dealing damage.
 - Thorin attacks and kills Princess Ebonmire.
 - Daz casts Magic Missile at Prince Livid, killing him.
@@ -9302,11 +9302,11 @@ A spellbook containing many spells, found in Princess Ebonmire's stomach after h
 ### Magic Missile
 A reliable force damage spell cast by Daz multiple times during the battle. It does not require a roll to hit and has a range of 120 feet. Daz used it at both first and third level, with the third-level version dealing twenty points of damage to the Pudding King. The final Magic Missile killed Prince Livid.
 ### Guiding Bolt
-A spell cast by Grygum early in the battle that missed its target.
+A spell cast by Gyrgum early in the battle that missed its target.
 ### Stone Skin
 A temporary magical effect that grants resistance to a chosen damage type for one round, usable once per long rest. Multiple party members used it to resist acid damage from the Pudding King's slime wave attacks.
 ### Inflict Wounds
-A necrotic damage spell cast by Grygum that requires the target to make a constitution saving throw. It was used successfully against the Pudding King for twenty-three points of damage and against Princess Ebonmire for eighteen points of damage.
+A necrotic damage spell cast by Gyrgum that requires the target to make a constitution saving throw. It was used successfully against the Pudding King for twenty-three points of damage and against Princess Ebonmire for eighteen points of damage.
 ### Fireball
 A powerful area-of-effect spell cast by Daz that deals fire damage in a large area. It dealt twenty-nine points of damage to both Prince Livid and Princess Ebonmire, though Prince Livid's fire resistance reduced his damage to fourteen points.
 ### Shadow Step
@@ -9322,28 +9322,28 @@ A resurrection spell mentioned by Zalthir as a potential option to help Glabbago
 # Chapter 44 The Knucklebone of Truth
 Date: Mar 12th, 2026
 ## Summary
-In the aftermath of the Pudding King's defeat, the Ember Vanguard found themselves far from finished. The Earth Elemental that had held the throne room's passage open was beginning to crack under the strain, its elemental energy leaking through fissures in its ancient stone body. Grygum called upon his divine gifts to mend the elemental's wounds, and with a long, relieved stretch — like Atlas finally setting down the world — the great being sighed, dropped a small glowing geode at the party's feet as a token of its favor, and dissolved back into the earth. As the dust settled, the party noticed the fungi scattered throughout the chamber were growing faster than they should have been, a quiet and unsettling reminder that though Juiblex had been driven out, Zuggtmoy's influence still crept through the dark like roots through stone.
+In the aftermath of the Pudding King's defeat, the Ember Vanguard found themselves far from finished. The Earth Elemental that had held the throne room's passage open was beginning to crack under the strain, its elemental energy leaking through fissures in its ancient stone body. Gyrgum called upon his divine gifts to mend the elemental's wounds, and with a long, relieved stretch — like Atlas finally setting down the world — the great being sighed, dropped a small glowing geode at the party's feet as a token of its favor, and dissolved back into the earth. As the dust settled, the party noticed the fungi scattered throughout the chamber were growing faster than they should have been, a quiet and unsettling reminder that though Juiblex had been driven out, Zuggtmoy's influence still crept through the dark like roots through stone.
 
 
-The party pressed on to the Hall of Melting Mirrors, where Chipgrin and his wererats had been maintaining a chanting vigil to suppress the lingering psychic static left behind by the mirrors. Chipgrin turned to the party's spellcasters, hoping one of them could locate the harmonic center of the room and silence the noise for good. Daz and Grygum both reached deep into their knowledge and intuition, but the answer eluded them. It was Thorin — the party's most reliably stabby and punchy member — who paused, looked around, and simply pointed. Chipgrin stared at him for a long moment before muttering that he probably should have asked the dwarf first, then caught Zalthir's eye and hastily clarified that he meant no offense by that.
+The party pressed on to the Hall of Melting Mirrors, where Chipgrin and his wererats had been maintaining a chanting vigil to suppress the lingering psychic static left behind by the mirrors. Chipgrin turned to the party's spellcasters, hoping one of them could locate the harmonic center of the room and silence the noise for good. Daz and Gyrgum both reached deep into their knowledge and intuition, but the answer eluded them. It was Thorin — the party's most reliably stabby and punchy member — who paused, looked around, and simply pointed. Chipgrin stared at him for a long moment before muttering that he probably should have asked the dwarf first, then caught Zalthir's eye and hastily clarified that he meant no offense by that.
 
 
-From there, the Ember Vanguard made their way to the support beams, where Gnomish miners were locked in a heated debate over construction materials and methods, arguing with the passionate conviction of people who had very strong opinions about zurkhwood versus steel. Grygum tended to the miners who had suffered burns, while Thorin threw his considerable strength into winching a critical support beam into place, aided by Daz's tactical guidance. The effort was a success, and Diggermattock was so moved that he personally threaded a needle and sewed a Diggermattock Miners patch onto Thorin's gear, declaring him an honorary member of the crew. Grygum, not to be outdone, used a cantrip to attach the patch with such precision that everyone present was briefly more impressed by the needlework than by the feat of engineering.
+From there, the Ember Vanguard made their way to the support beams, where Gnomish miners were locked in a heated debate over construction materials and methods, arguing with the passionate conviction of people who had very strong opinions about zurkhwood versus steel. Gyrgum tended to the miners who had suffered burns, while Thorin threw his considerable strength into winching a critical support beam into place, aided by Daz's tactical guidance. The effort was a success, and Diggermattock was so moved that he personally threaded a needle and sewed a Diggermattock Miners patch onto Thorin's gear, declaring him an honorary member of the crew. Gyrgum, not to be outdone, used a cantrip to attach the patch with such precision that everyone present was briefly more impressed by the needlework than by the feat of engineering.
 
 
 The relative calm shattered when the party emerged into the farming area beyond the tunnels and found a panicked gnome farmer warning them that the city was under attack. At the Trader's Grotto, they found a large Gnomish army standing before a breached wall, and beyond it — a writhing, churning mass of oozes, jellies, and black puddings, no longer bound by the Pudding King's will and very unhappy about it. Chief Diggermattock and Chipgrin were already arguing about how to divide the newly opened territory, seemingly unbothered by the fact that said territory was currently full of ooze. Thorin attempted to redirect their attention to the more immediate problem, but the argument rolled on like a gelatinous cube down a corridor.
 
 
-It was Jimjar who cut through the chaos, as he so often did, with a casual wager. He approached Grygum and offered a bet of ten platinum pieces, claiming that Glabbagool — the party's intelligent gelatinous cube companion — had more sense than the Pudding King ever had. Before anyone could fully process what was happening, Jimjar tossed a small bone die onto Glabbagool. A strange blink rippled through the air, and then something extraordinary happened: Glabbagool briefly became a bridge between every ooze in the cavern, a single vast mind connecting jellies, puddings, and cubes alike. He told them, in his gentle and earnest way, that the world was fine, that everyone could get along, and that there was really no need to kill anyone. The oozes, apparently persuaded, went mindless and peaceful, slithering away into cracks and stonework until the threat simply dissolved.
+It was Jimjar who cut through the chaos, as he so often did, with a casual wager. He approached Gyrgum and offered a bet of ten platinum pieces, claiming that Glabbagool — the party's intelligent gelatinous cube companion — had more sense than the Pudding King ever had. Before anyone could fully process what was happening, Jimjar tossed a small bone die onto Glabbagool. A strange blink rippled through the air, and then something extraordinary happened: Glabbagool briefly became a bridge between every ooze in the cavern, a single vast mind connecting jellies, puddings, and cubes alike. He told them, in his gentle and earnest way, that the world was fine, that everyone could get along, and that there was really no need to kill anyone. The oozes, apparently persuaded, went mindless and peaceful, slithering away into cracks and stonework until the threat simply dissolved.
 
 
-When the party pressed Jimjar on the nature of the die, he explained that he had won it off a blind Duergar in Gracklstugh, who claimed it had been carved from the knucklebone of a saint who never told a lie — a die with a memory for the truth. Jimjar shrugged and said he had figured that in a place where the blink had turned the world's math into a bad joke, a little uncertainty could go a long way. The die rolled out of Glabbagool a moment later, spent and inert, and Jimjar handed it to the party as a keepsake. Grygum paid the ten platinum pieces without complaint, and the party quietly agreed it had been the best investment they had ever made.
+When the party pressed Jimjar on the nature of the die, he explained that he had won it off a blind Duergar in Gracklstugh, who claimed it had been carved from the knucklebone of a saint who never told a lie — a die with a memory for the truth. Jimjar shrugged and said he had figured that in a place where the blink had turned the world's math into a bad joke, a little uncertainty could go a long way. The die rolled out of Glabbagool a moment later, spent and inert, and Jimjar handed it to the party as a keepsake. Gyrgum paid the ten platinum pieces without complaint, and the party quietly agreed it had been the best investment they had ever made.
 
 
 With the ooze crisis resolved, the Ember Vanguard was ushered into a council meeting where the various factions of Blingdenstone — miners, wererats, ghosts, and spiritual leaders — were already at each other's throats over the future of the city. Daz stepped forward and delivered a passionate appeal for unity, urging the assembled leaders to set aside their egos and build an alliance strong enough to outlast the demons. The party worked the room with careful insight: they brokered a wage agreement between the miners guild and the working class, proposed that the Gold Whisker wererats take control of the upper boroughs as a self-funded defense force, and helped broker a compromise on sustainable mining practices that satisfied both the Miners Guild and the ghosts who considered the sanctum sacred ground. One by one, the arguments quieted, hands were shaken, and a fragile but genuine peace began to take shape.
 
 
-The next morning, as the party prepared to leave for the surface, the city sent them off with ceremony. Working-class gnomes lined the tunnels chanting their new rallying cry, the Burrow Warden ghosts dipped their spectral banners in salute, and Chief Chipgrin pressed a braided rat's foot into Daz's hand — the Voucher of the Varmint, he called it, a token recognized by wererats and outcasts from Blingdenstone all the way to Menzoberranzan. Legends of the Ember Vanguard were already spreading through the tunnels, growing wilder with each retelling: Daz casting storms of meteors, Grygum shattering mountains, Zalthir cutting through enemies at blinding speed, and Thorin smashing solid rock with his bare hands. The party listened to these stories with a mixture of pride and mild alarm.
+The next morning, as the party prepared to leave for the surface, the city sent them off with ceremony. Working-class gnomes lined the tunnels chanting their new rallying cry, the Burrow Warden ghosts dipped their spectral banners in salute, and Chief Chipgrin pressed a braided rat's foot into Daz's hand — the Voucher of the Varmint, he called it, a token recognized by wererats and outcasts from Blingdenstone all the way to Menzoberranzan. Legends of the Ember Vanguard were already spreading through the tunnels, growing wilder with each retelling: Daz casting storms of meteors, Gyrgum shattering mountains, Zalthir cutting through enemies at blinding speed, and Thorin smashing solid rock with his bare hands. The party listened to these stories with a mixture of pride and mild alarm.
 
 
 It was Jimjar who delivered the final, ominous note before the party departed. He pointed to a pale white puffball mushroom growing at impossible speed from a crack in the wall, its scent cloyingly sweet, like a feast left to rot in a hothouse. He remarked that Juiblex had been a loud and messy neighbor, but that this sister — Zuggtmoy — preferred to move in while you were sleeping. Then he turned and walked back toward Blingdenstone. Zalthir, long suspicious of the little gambler, reached out with a focused awareness and discovered that Jimjar was immune to poison and psychic damage, could not be charmed or frightened, and shrugged off radiant energy and mundane weapons alike — a profile that matched no ordinary gnome, and bore a striking resemblance to something far more divine. Jimjar noticed the scrutiny, offered a knowing wink, and vanished entirely from existence, leaving only the faint metallic clink of platinum coins echoing in the tunnel behind him.
@@ -9375,7 +9375,7 @@ It was Jimjar who delivered the final, ominous note before the party departed. H
 #### Following the defeat of the Pudding King, the party assists a straining Earth Elemental in holding up the throne room's structure.
 - The party finds an Earth Elemental struggling to keep the throne room from collapsing, leaking elemental energy through cracks in its form.
 - Thorin attempts to use brute strength to set the cracks but fails to make an impact.
-- Grygum casts a powerful healing spell that restores the elemental's structural integrity.
+- Gyrgum casts a powerful healing spell that restores the elemental's structural integrity.
 - Rejuvenated by the magic, the Earth Elemental stretches and disappears into the dirt, leaving the passage stable.
 - Before departing, the Earth Elemental drops a small glowing geode as a token of favor.
 - The party notices fungi in the area beginning to grow at an accelerated rate, foreshadowing the lingering influence of Zuggtmoy.
@@ -9383,13 +9383,13 @@ It was Jimjar who delivered the final, ominous note before the party departed. H
 #### The party encounters Chipgrin and the wererats in the Hall of Melting Mirrors and attempts to neutralize the psychic noise.
 - Chipgrin asks the magic users of the party to find the harmonic center of the room to stop the lingering psychic static.
 - Daz and Zalthir attempt to use their arcane knowledge and insight to locate the center but are unsuccessful.
-- Grygum tries to tune into the spheres to find the source of the noise but also fails.
+- Gyrgum tries to tune into the spheres to find the source of the noise but also fails.
 - Thorin, using a bit of luck and unexpected intuition, successfully points out the exact location of the psychic center.
 - Chipgrin is impressed by the dwarf's success, noting that he should have asked the dwarf first.
 ### Repairs and Reinforcements at the Support Beams
 #### The party assists Gnomish miners with structural repairs and medical aid near the black ooze-infested support beams.
 - The party encounters Gnomish miners arguing over construction methods and materials for over-engineered temporary bridges.
-- Grygum uses magical healing to treat miners suffering from burns.
+- Gyrgum uses magical healing to treat miners suffering from burns.
 - Thorin uses his physical strength to winch a critical support beam into place, aided by Daz's tactical advice.
 - Diggermattock rewards Thorin with a 'Diggermattock Miners' patch, which is magically mended onto his gear.
 - Jimjar appears and comments on the party's knack for fixing things before they depart.
@@ -9402,10 +9402,10 @@ It was Jimjar who delivered the final, ominous note before the party departed. H
 - Thorin attempts to persuade the leaders to focus on the immediate threat, though the argument initially continues.
 ### Jimjar's Bet and the Bone Die
 #### Jimjar proposes a wager and uses a mysterious bone die to pacify the entire ooze army through Glabbagool.
-- Jimjar approaches Grygum and proposes a bet of ten platinum pieces that he can stop the 'noise' of the oozes using a special die.
+- Jimjar approaches Gyrgum and proposes a bet of ten platinum pieces that he can stop the 'noise' of the oozes using a special die.
 - Jimjar tosses a bone die onto Glabbagool, triggering a mysterious 'blink' that causes the oozes to become mindless and peaceful.
 - Glabbagool briefly connects with the entire ooze horde telepathically, telling them to calm down, leading the mass of jellies and puddings to slither away into the stonework.
-- Grygum pays Jimjar the ten platinum pieces from the party funds for successfully neutralizing the threat.
+- Gyrgum pays Jimjar the ten platinum pieces from the party funds for successfully neutralizing the threat.
 - Jimjar explains the origin of the bone die, claiming he won it from a blind Duergar in Gracklstugh and that it was carved from a saint's knucklebone.
 - The party asks Glabbagool about the experience; he describes briefly being part of one big mind with all the oozes before they returned to their mindless states.
 - The party observes the oozes dispersing naturally — gelatinous cubes consuming other oozes, black puddings slipping through cracks, gray oozes going still.
@@ -9422,14 +9422,14 @@ It was Jimjar who delivered the final, ominous note before the party departed. H
 #### As the party prepares to leave for the surface, they receive tokens of gratitude and Zalthir's inspection of Jimjar reveals he is far more than a simple gnome.
 - Chief Chipgrin presents Daz with a braided rat's foot Voucher of the Varmint as a sign of friendship with the wererats.
 - The party overhears exaggerated legends of their exploits being told by local gnomes, including tales of Daz casting meteor swarm and Thorin smashing rocks with his biceps.
-- Jimjar returns Grygum's ten platinum winnings and warns of a new fungal threat — a pale white puffball mushroom growing at impossible speed from a crack in the wall, smelling sweetly of rot.
+- Jimjar returns Gyrgum's ten platinum winnings and warns of a new fungal threat — a pale white puffball mushroom growing at impossible speed from a crack in the wall, smelling sweetly of rot.
 - Zalthir uses a special ability to discern Jimjar's resistances and immunities, discovering he is immune to poison and psychic damage, cannot be charmed or frightened, and is resistant to radiant damage and non-magical physical attacks.
 - Realizing he has been scrutinized, Jimjar winks at the party and vanishes into thin air, heading back toward Blingdenstone.
 - The party discusses the possibility of Jimjar being a deity or celestial being, noting his stat block resembles that of an angel.
 - The session concludes with the party preparing to finally exit the Underdark and see the sun.
 ## NPCs
 ### Earth Elemental
-A massive being of stone that sacrificed its energy to hold open a breach in the throne room. It was healed by Grygum's magic before merging back into the earth, and left behind a glowing geode as a token of favor.
+A massive being of stone that sacrificed its energy to hold open a breach in the throne room. It was healed by Gyrgum's magic before merging back into the earth, and left behind a glowing geode as a token of favor.
 ### Chipgrin
 A wererat leader encountered in the Hall of Melting Mirrors who sought the party's help neutralizing psychic noise. He later negotiated for wererat control of the upper boroughs during the council meeting, and gifted Daz the Voucher of the Varmint upon the party's departure.
 ### Glabbagool
@@ -9470,9 +9470,9 @@ A 20-sided die carved from the knucklebone of a saint who never told a lie, won 
 A braided rat's foot given to Daz by Chief Chipgrin upon the party's departure. It serves as a mark of friendship recognized by wererats and outcasts throughout the Underdark, from Blingdenstone to Menzoberranzan.
 ## Spells
 ### Mass Healing Word
-Cast by Grygum to restore the party's vitality and, more significantly, to repair the physical cracks in the Earth Elemental's stone body, allowing it to relax and eventually depart peacefully.
+Cast by Gyrgum to restore the party's vitality and, more significantly, to repair the physical cracks in the Earth Elemental's stone body, allowing it to relax and eventually depart peacefully.
 ### Lesser Restoration
-Used by Grygum to treat the burned and wounded Gnomish miners at the support beams.
+Used by Gyrgum to treat the burned and wounded Gnomish miners at the support beams.
 ### Mending
 A cantrip used to magically attach the Diggermattock Miners patch to Thorin's clothing with expert precision.
 ### Motivational Speech
@@ -9625,22 +9625,22 @@ She wasn't wrong.
 
 
 ## Thorin — Tactical Preparations
-The mushroom thing — I want to be clear about the mushroom thing — the fates looked at Grygum and looked at me specifically. Both of us. The artifact sitting there like a dare, and the warning coming down with actual gravity: *do not touch it*. Grygum and I had both been where that road goes. I didn't need the long version. Neither did he. We both just said nothing, which for us was the equivalent of a blood oath.
+The mushroom thing — I want to be clear about the mushroom thing — the fates looked at Gyrgum and looked at me specifically. Both of us. The artifact sitting there like a dare, and the warning coming down with actual gravity: *do not touch it*. Gyrgum and I had both been where that road goes. I didn't need the long version. Neither did he. We both just said nothing, which for us was the equivalent of a blood oath.
 
 
 So I watched the others work through the plan instead.
 
 
-The crossbow came first, because I'm not going into something like this with nothing that reaches past ten feet. Grygum had a light crossbow. I asked him for it. Simple transaction, no drama — he handed it over and I checked the mechanism the way you check anything borrowed before a fight: pull the string, sight down it, make sure the person who owned it before you wasn't sloppy. He wasn't. That dwarf is okay.
+The crossbow came first, because I'm not going into something like this with nothing that reaches past ten feet. Gyrgum had a light crossbow. I asked him for it. Simple transaction, no drama — he handed it over and I checked the mechanism the way you check anything borrowed before a fight: pull the string, sight down it, make sure the person who owned it before you wasn't sloppy. He wasn't. That dwarf is okay.
 
 
-Then the party spread out the options on the table, or whatever the Underdark equivalent of a table is when you're crouched in the dark with a drow informant and a borrowed crossbow. Glyph of Warding. Dust of Suleiman. Phantasmal Killer. Fireball. Grygum had one 4th-level slot. Daz had one 4th-level slot. Those are not renewable resources in the next twenty minutes, so every piece of this had to land somewhere it mattered. I listened. I watched who spoke with certainty and who spoke with hedging. Zalthir said he could teleport directly to Ilvara — or grab her and move her somewhere unpleasant. I stored that. Teleportation as a weapon. Thorin files that away in the part of his brain labeled *useful people.*
+Then the party spread out the options on the table, or whatever the Underdark equivalent of a table is when you're crouched in the dark with a drow informant and a borrowed crossbow. Glyph of Warding. Dust of Suleiman. Phantasmal Killer. Fireball. Gyrgum had one 4th-level slot. Daz had one 4th-level slot. Those are not renewable resources in the next twenty minutes, so every piece of this had to land somewhere it mattered. I listened. I watched who spoke with certainty and who spoke with hedging. Zalthir said he could teleport directly to Ilvara — or grab her and move her somewhere unpleasant. I stored that. Teleportation as a weapon. Thorin files that away in the part of his brain labeled *useful people.*
 
 
 Asha laid out her terms, and I heard them clearly. She would not come in at the start. Once we initiated, she would hold the perimeter — anything coming from outside, she handles it. Which is fine. It's useful. But I know what it is. She's drow. She's going to fight this fight on her own schedule, at the angle that suits her. I don't hold that against her. I'd be lying if I said it didn't register.
 
 
-Then Grygum took the bridge.
+Then Gyrgum took the bridge.
 
 
 Jorlan's side. He moved to the crossing and started inscribing the Glyph of Warding into the stone itself, and I watched the whole process with the specific attention of someone who needs to *not step in that spot* when things start moving fast. The trigger: any hostile creature crossing. Invisible once finished. Patient in the way only traps can be patient, because they don't get tired. It went down into the rock and disappeared, and the bridge looked like a bridge again.
@@ -9707,7 +9707,7 @@ Below me, the battlefield was still happening. People were still fighting, or dy
 *She's angry at herself,* I noted, and filed it away, and watched.
 
 
-## Grygum — The Heart Fungus Retaliates
+## Gyrgum — The Heart Fungus Retaliates
 The cloud didn't drift. That was the first thing I noticed. Normal smoke drifts. Normal gas disperses. This hung in the cavern air like it had decided to stay — twenty feet of spore-thick poison, sitting in the middle of the battlefield as if it belonged there, as if it had always belonged there, as if *we* were the interlopers in its home.
 
 
@@ -9784,10 +9784,10 @@ Bahamut may or may not have been watching. I took notes either way.
 
 
 ## Thorin — The Glyph Detonates
-The Glyph was Grygum's idea, or at least Grygum's mouth. The placement was all of us. We'd laid it on the bridge like a welcome mat, and then the whole job was just: don't stand on it yourself, and wait.
+The Glyph was Gyrgum's idea, or at least Gyrgum's mouth. The placement was all of us. We'd laid it on the bridge like a welcome mat, and then the whole job was just: don't stand on it yourself, and wait.
 
 
-Grygum called out. "Come get it, idiot."
+Gyrgum called out. "Come get it, idiot."
 
 
 I will say this for Jorlan: he committed. The drow didn't hesitate, didn't slow — he came across that bridge like a man who had already decided the outcome. You have to respect that, a little, even when the outcome is about to be wrong for him. There's something almost giant-brained about that kind of certainty. Giants move like that. Big, direct, total confidence in the thing they've already decided. The problem is, giants are usually right about the terrain.
@@ -9802,7 +9802,7 @@ The Glyph fired.
 Force and light erupted outward in a sphere, the kind of detonation that doesn't care who's in the way. Twenty-one damage blooming through the cluster all at once — through the spore servants he'd brought across with him, through Jorlan himself. One servant came apart completely. Just gone. The others staggered; I watched one barely hold together, listing like a wall with one stone pulled from its base. And Jorlan took the full force. He hadn't cleared it in time, hadn't been fast enough, hadn't seen it coming the way you can't see it coming when you're already running at what you think is your prize.
 
 
-Grygum said, "Kaboom!" And then, with something like genuine surprise underneath it: "I didn't expect it to work."
+Gyrgum said, "Kaboom!" And then, with something like genuine surprise underneath it: "I didn't expect it to work."
 
 
 That's the thing about a plan that comes together. You stop expecting it, almost. You get tactical, you do the work, you lay the trap in exactly the right place — and then somewhere between placing it and watching it detonate, you forget to believe in yourself. Or maybe you just don't want to be disappointed. I understood it. I felt the same flicker of it, the half-second of *oh. Oh, that worked.*
@@ -9857,7 +9857,7 @@ I have found purpose. I am the feared mage of the Ember Vanguard.
 The irony is almost invisible, even to me.
 
 
-Grygum's voice cuts through the settling heat: *"That worked better than I had any right to expect."*
+Gyrgum's voice cuts through the settling heat: *"That worked better than I had any right to expect."*
 
 
 It's an honest assessment, and I appreciate honesty in tactical partners. Two spells, two priority targets hit, the fight still live but the math changed in our favour. Not a perfect outcome. The icon is still standing. Ilvara is still standing. But twelve points is twelve points and the board looks different than it did thirty seconds ago, and that is the only metric that has ever mattered.
@@ -10061,7 +10061,7 @@ The scene with Asha Vandree ended the way all negotiations end when neither part
 I knew where the shadows fell in the cavern ahead. I knew the shape of what we were walking into. That was enough.
 
 
-## Grygum — Planning the Assassination of Ilvara
+## Gyrgum — Planning the Assassination of Ilvara
 The plan began, as most plans do, with me laying out what I had.
 
 
@@ -10134,7 +10134,7 @@ She was right. I hate when that happens.
 Then came the question of who could safely touch what.
 
 
-"Basically pointing out," Asha said, her voice shifting to the register of someone delivering information they find tedious, "that if Thorin and Grygum grab it — I think they were the two that went to visit, what's her name, right? — yeah, you two probably don't want to be near it, but everybody else is fine."
+"Basically pointing out," Asha said, her voice shifting to the register of someone delivering information they find tedious, "that if Thorin and Gyrgum grab it — I think they were the two that went to visit, what's her name, right? — yeah, you two probably don't want to be near it, but everybody else is fine."
 
 
 Whatever we'd picked up in Gracklstugh in the Whorlstone Caverns when we visited the pocket dimension, had left a marker on us. The mushroom artifact could exploit it. Good to know before I walked up and tried to destroy it with my hands.
@@ -10318,7 +10318,7 @@ I don't have a ranged option worth mentioning. Dawnbringer is a sword, and I am 
 And then I see Jorlan.
 
 
-He's across the cavern, bitter-eyed, nursing whatever wound his pride has taken since Ilvara discarded him. He's armed. He's furious. He's also standing exactly twenty feet from the Glyph of Warding that Grygum spent real patience setting into the stone of the bridge.
+He's across the cavern, bitter-eyed, nursing whatever wound his pride has taken since Ilvara discarded him. He's armed. He's furious. He's also standing exactly twenty feet from the Glyph of Warding that Gyrgum spent real patience setting into the stone of the bridge.
 
 
 Jorlan doesn't know about the glyph. Jorlan just needs to take about four steps in the right direction.
@@ -10363,7 +10363,7 @@ Then a spore walker climbs up behind me, because of course it does, and the firs
 I adjust my footing.
 
 
-Behind me, deeper in the cavern, Grygum is grinding the Heart Fungus down with something that sounds like the word *Suleiman* and delivers twenty force damage per turn like a promise. The thing shudders. Good. Let it shudder. And then Daz opens up with a Fireball shaped so precisely around his allies that it catches Ilvara and her precious mushroom icon in the center of it, 24 damage worth of fire finding her even through her save, and the icon smolders.
+Behind me, deeper in the cavern, Gyrgum is grinding the Heart Fungus down with something that sounds like the word *Suleiman* and delivers twenty force damage per turn like a promise. The thing shudders. Good. Let it shudder. And then Daz opens up with a Fireball shaped so precisely around his allies that it catches Ilvara and her precious mushroom icon in the center of it, 24 damage worth of fire finding her even through her save, and the icon smolders.
 
 
 The mushroom is burning. Ilvara is bleeding. The math has changed.
@@ -10420,7 +10420,7 @@ I've been in enough fights now to know the shape of a bottleneck. The cavern was
 So I descended from the elevated walkway and pushed through the terrain toward the heart fungus, and I did the sensible thing first: I asked if there was anything I needed to know about it.
 "Is there anything I need to... anything I know about the fungus in terms of, like, is it, like, resistant to stuff or whatever?"
 "It's resistant to the usual stuff that funguses are resistant to, but if you hit it hard enough, it should die."
-Grygum, from somewhere behind me, helpful as always: "It's not resistant to swords."
+Gyrgum, from somewhere behind me, helpful as always: "It's not resistant to swords."
 And then the DM, with the particular cadence of a man setting up something he was proud of: "It actually is doubly not resistant to radiant damage."
 Dawnbringer was already in my hand. She'd been in my hand since we walked in. She's not the sort of sword that waits politely in a scabbard when there's something this obviously in need of being hit with radiant light.
 The answer I was looking for had been at the end of my arm the entire time.
@@ -10430,12 +10430,12 @@ One round. That was all it got.
 "I do what I can."
 There was a pause — the particular pause of a dungeon master looking at a carefully prepared battle map and making peace with what just happened.
 "I spent so much time creating this icon."
-"I know, it was beautiful," Grygum said.
+"I know, it was beautiful," Gyrgum said.
 "It was pretty," Zalthir agreed.
 "I liked it very much, Gustatus."
 The party offered their condolences, and I accepted them on the fungus's behalf. It had been a fine-looking icon. Big. Pulsing. Lovingly rendered. It deserved a longer fight than it got. These things happen. Dawnbringer doesn't negotiate, and she doesn't do gradual.
 Then Ilvara cast Insect Plague.
-The swarm hit the cavern entrance like a wall of sound and motion — a biblical chittering that shredded the fungal minions instantly, all thirteen hit points of them, gone before they could do anything useful. And then Grygum said what we were all thinking:
+The swarm hit the cavern entrance like a wall of sound and motion — a biblical chittering that shredded the fungal minions instantly, all thirteen hit points of them, gone before they could do anything useful. And then Gyrgum said what we were all thinking:
 "Oh, how about Glabbagool?"
 Twenty-six points of damage. The grey ooze took twenty-six points of damage from a spell he had nothing to do with, while he was hovering at the edge of the chaos doing his best to look like he was following the conversation. He'd been trying to participate. He had eyes extended toward us and everything. He survived, which is the important thing, but still — twenty-six points for a sentient ooze who just wanted to belong. The Underdark is not kind to bystanders.
 I filed that away. I would be checking on Glabbagool when this was over.
@@ -10457,7 +10457,7 @@ I'm just sitting here watching them trade blows like a tennis match.
 Sometimes the most useful thing a fighter can do is stay out of someone else's reckoning.
 
 
-## Grygum — Chaos in the Fungal Cavern
+## Gyrgum — Chaos in the Fungal Cavern
 The insect plague hit like a wave breaking through a cracked hull — one moment the cavern was loud with shouting and the clatter of steel, and the next it was *screaming*. Not from us. From everything between us and Ilvara.
 I felt the swarm before I saw it. A wall of noise, of biting, chittering fury, the kind of sound that bypasses the thinking part of the brain and goes straight to the older, smaller part that just says *run*. I did not run. I want to note that. But I was also very, very aware of exactly how many insects were currently conducting a theological inquiry into the structural integrity of my skin.
 Ilvara had conjured it at the cave entrance, a sphere of plague large enough to catch the whole middle ground between us — me, Daz, and, as I registered with a cold sinking feeling, Glabbagool. Our faithful, wobbling, occasionally conversational gelatinous cube companion, who had been attempting to participate in the fight with the earnest commitment of someone who was very new to fighting and very sincere about it.
@@ -10515,13 +10515,13 @@ Asha saw them at almost the same moment I registered where we'd ended up. Her ha
 There was a window of perhaps two seconds before this became catastrophic.
 "No, these are friends of Lolth, and they're here to help."
 The words came out smooth. No hesitation, no announcement, no explanation. I have been maintaining a Lolth-follower identity with Asha Vandree for long enough that the fiction has its own momentum — you learn to stop thinking of it as lying and start thinking of it as consistent characterization. Asha is a Lolth-devotee; she has a ready-made slot in her worldview for "Lolth-aligned drow who are here to help." I put the Duskryn sisters in that slot and moved on. The lie barely costs anything when you're already committed to the architecture.
-Grygum, at some point in this sequence, observed that the situation was "accurately described" by Asha's characterization of me as an insane mage who had converted to Lolthism. He meant it kindly. Or as kindly as Grygum observes anything, which is with the steady, clear-eyed precision of a man keeping accurate records.
+Gyrgum, at some point in this sequence, observed that the situation was "accurately described" by Asha's characterization of me as an insane mage who had converted to Lolthism. He meant it kindly. Or as kindly as Gyrgum observes anything, which is with the steady, clear-eyed precision of a man keeping accurate records.
 *What's important? That she thinks it, or that it's real?*
 I know what's real. I know what I've left behind and what I haven't and what Menzoberranzan made me and what the Underdark has cost me and what I believe now, privately, about slavery and free people and the basis of any society. I know all of that. But right now, in this cavern, Asha thinks I serve Lolth, and that belief is load-bearing.
 So we let it stand.
 Nym Duskryn had been watching all of this with the particular expression of someone who is calculating whether their contract is still viable. She had been sent — she and Kaelira both — to extract me. Deliver the package intact. Get paid. It is a simple arrangement and I had been making it complicated since the moment she arrived.
 "Can you please keep your head down and out of combat? We only get paid if you live."
-I find transactional arguments interesting when they're offered as though they should be persuasive to the person whose life is being treated as currency. The logic runs: *Daz, you should hide, because we get paid when you live.* The invisible premise is that I should care about whether Nym gets paid. I don't, particularly. What I care about is that Thorin and Grygum and Zalthir are in active combat with a corrupted high priestess and a field of biting insects and what appears to be an inexhaustible supply of Drow reinforcements, and the idea of standing in a shadow while that happens is — I want to find a precise word — *unacceptable.*
+I find transactional arguments interesting when they're offered as though they should be persuasive to the person whose life is being treated as currency. The logic runs: *Daz, you should hide, because we get paid when you live.* The invisible premise is that I should care about whether Nym gets paid. I don't, particularly. What I care about is that Thorin and Gyrgum and Zalthir are in active combat with a corrupted high priestess and a field of biting insects and what appears to be an inexhaustible supply of Drow reinforcements, and the idea of standing in a shadow while that happens is — I want to find a precise word — *unacceptable.*
 "I am not gonna leave. Everyone here... to fight for me without me also participating. I don't give a damn if you get paid. The best way for you to get paid, then, is to continue the fight and prevent all of us from dying."
 There it was. Said. Not eloquent — I am capable of elegance, and that was not it. But it was accurate, and it was what I meant, and Nym heard it correctly because her expression shifted from exasperated professionalism to something more pointed.
 She turned away from me.
@@ -10567,11 +10567,11 @@ The T'sarran mage was still standing. Barely. Daz had already run an empowered f
 Zalthir said this without particular enthusiasm. He teleported across the battlefield — shadow-step, the distance closing in the space between one breath and the next — and hit the mage once, and that was enough. The man went down. Zalthir straightened.
 The fear cleared at the end of his turn, the way it had been promised to. He noted this without celebration.
 Ilvara was still on the far side of the cavern, still howling, her voice ragged with the particular desperation of someone who has run out of futures but not yet run out of throat. *Vengeance. Zuggtmoy. The bride.* All of it tumbling out between strikes and retreats. Even cornered, she filled the space with prophecy rather than offers. He could respect the discipline of that, abstractly. She wasn't going to beg.
-The mage's body settled on the cavern floor. Behind Zalthir, someone — Grygum, probably — was already moving forward. Someone else was dealing with the insect swarm at the entrance. The fight was contracting toward its end the way fights do, the radius shrinking as each threat resolved.
+The mage's body settled on the cavern floor. Behind Zalthir, someone — Gyrgum, probably — was already moving forward. Someone else was dealing with the insect swarm at the entrance. The fight was contracting toward its end the way fights do, the radius shrinking as each threat resolved.
 *We barely knew you, man.* He didn't say this aloud. Just noted it, and turned toward where the remaining work was being done.
 
 
-## Grygum — The Fall of Ilvara
+## Gyrgum — The Fall of Ilvara
 The bolt was already building in my hand when I made the decision.
 Let me back up. For most of this fight I had been in observation mode — which is a polite way of saying I was watching Jorlan Duskryn and Ilvara Mizzrym tear at each other like competing bad ideas, and finding it genuinely entertaining. You don't often get to watch your primary antagonist and a lover's grudge collide in real time. There's a whole drama there — she discarded him when he got the scar, he's been carrying that wound ever since, and now here they both are at the bottom of a ruined bridge with Zuggtmoy's rot flowering through everything she touches. I took mental notes. It's what I do.
 I'm amused by the Jorlan-Ilvara drama, I thought. But I think I'm still going to go ahead and attack them.
@@ -10595,12 +10595,12 @@ My first real question, once the cloud was thin enough to breathe through, was a
 ## Thorin — Aftermath at Velkynvelve
 The bridge going down was my idea, technically, but I can't take full credit for it feeling satisfying. You swing at a bridge long enough, the bridge falls. That's not strategy. That's physics.
 Ilvara and Jorlan both cleared the drop. I watched them hit the cavern floor and thought: *still breathing*. Then I thought about how much tunnel I'd crossed to reach that bridge, how many times the fight had relocated while I was still arriving at wherever it used to be, and I stopped tallying. Some battles you just chase until they end without you.
-The fungus, at least, was mine. Clean and total. Dawnbringer lit the thing up from the first swing and it never got a second chance — big pulsating horror that must have taken the DM weeks to stat out, and it folded before anyone else could touch it. I said *I do what I can* because what else do you say when you've just ruined someone's evening in two rounds of radiant damage. Grygum said it was beautiful. Zalthir said it was pretty. I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.
+The fungus, at least, was mine. Clean and total. Dawnbringer lit the thing up from the first swing and it never got a second chance — big pulsating horror that must have taken the DM weeks to stat out, and it folded before anyone else could touch it. I said *I do what I can* because what else do you say when you've just ruined someone's evening in two rounds of radiant damage. Gyrgum said it was beautiful. Zalthir said it was pretty. I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.
 After that I was mostly running.
 That's the honest accounting of the rest of the battle: I was running. The map spread out across half the cavern and the fight kept happening somewhere I wasn't. Drow fighting drow. Ilvara dropping, recovering, dropping again. Lightning hitting things I couldn't see from wherever I was standing. There's a version of this where I say I was *holding the center* or *covering the approach*, but the real version is that I'm a dwarf with a glowing sword in a sprawling cavern fight and at some point you stop pretending you've got angles on all of it and just pick a direction and go.
-Grygum's bolt found her. Spores everywhere — the kind of death that punishes you for being nearby. I caught some of it. Zalthir caught some of it.
+Gyrgum's bolt found her. Spores everywhere — the kind of death that punishes you for being nearby. I caught some of it. Zalthir caught some of it.
 Dawnbringer pulsed once, steady warmth against my palm.
-The spores drifted. The T'sarrans were already gone. Somewhere behind me, Grygum was probably checking on Glabbagool. Daz was probably explaining to someone why exactly this was all fine.
+The spores drifted. The T'sarrans were already gone. Somewhere behind me, Gyrgum was probably checking on Glabbagool. Daz was probably explaining to someone why exactly this was all fine.
 I stood there and let the quiet be quiet.
 We'd won. I couldn't tell you yet what winning this one cost, or what it opened up ahead of us — that kind of math takes time, and the Underdark has a way of correcting your optimism before you even finish the equation. But right now the fungus was dead and the bridge was down and Ilvara Mizzrym was a cloud of dissipating spores, and Asha was still praying in the dark like she expected to be answered.
 Maybe she would be. I've seen stranger things answered.
@@ -10823,7 +10823,7 @@ That was a full turn spent on setup. The next turn, I would be free — and what
 It was not lost on me that "Zalthir ties things to the ground for Daz to cook" is not exactly the heroic narrative I had constructed for myself. I have killed an ettin with my hands. I dragged the Pudding King through his own throne room. And now here I am, discussing the correct knot.
 
 
-Grygum made a sound. Thorin said something about "the Ember Grapple." Someone — possibly Thorin again, possibly Grygum, it is hard to tell when they are both making noise — found this very funny.
+Gyrgum made a sound. Thorin said something about "the Ember Grapple." Someone — possibly Thorin again, possibly Gyrgum, it is hard to tell when they are both making noise — found this very funny.
 
 
 I did not correct it. The name was not wrong.
@@ -10884,13 +10884,13 @@ And when I held the line, because I couldn't quite let it drop: "Perhaps, but we
 Right. They weren't. That was my problem.
 I will say this about Kaelira Duskryn: she had the manner of someone who had seen through a great many self-mythologizing idiots and wasn't interested in entertaining another. It is, in certain lights, a useful quality in a professional. In the context of someone disassembling the question of why I was apparently worth a significant expenditure to some unknown party in Menzoberranzan — it was less convenient.
 I said what I actually believed, which is a thing I do less often than I probably should: "I literally have no idea why there's all this focus on me."
-The party fell into the kind of quiet that follows a statement that everyone believes. Thorin had that look he gets — the one where he's deciding whether to charge at the problem or stand very still and wait for it to explain itself. Grygum was probably filing away some theological observation about mysterious dispensations. Zalthir, characteristically, was simply watching.
+The party fell into the kind of quiet that follows a statement that everyone believes. Thorin had that look he gets — the one where he's deciding whether to charge at the problem or stand very still and wait for it to explain itself. Gyrgum was probably filing away some theological observation about mysterious dispensations. Zalthir, characteristically, was simply watching.
 The sisters departed. Professionally. Without ceremony. The contract was fulfilled; they were done.
 I considered what remained. Someone in Menzoberranzan had spent generously — *they interrupt you, a lot* — to ensure that a male Drow apostate with no house affiliation and no apparent strategic value survived long enough to do whatever it was I was apparently supposed to do. They had done this anonymously. Through cutouts. In a manner that ensured even the hired blades didn't know who was paying.
 In Menzoberranzan, that level of insulation around a financial transaction means exactly one thing: the payer has significant reason not to be associated with the purchase. Which means the purchase is either embarrassing, illegal, or dangerous to be seen making.
 Protecting me was one of those three things to someone powerful enough to fund it.
 "You know what would help?" I said. "To audit their books."
-No one laughed. Grygum looked thoughtful, which is his equivalent.
+No one laughed. Gyrgum looked thoughtful, which is his equivalent.
 I sat with it privately, the thing I wasn't going to say aloud: *for all you know, the reason this all got started was because they all decided to be friends with the wrong drow.*
 The thought had a particular shape. Elegant, in the way that retrospective clarity sometimes is. The whole of it — the capture, the escape, Velkynvelve, the months of running — threading back to a single point. Me. A nobody. A nobody that someone in Menzoberranzan had interrupted their schedule over, more than once.
 Milo Goodbarrel, that relentlessly hopeful halfling whose book I'd read too many times to admit, had a phrase for the sensation I was experiencing. He called it *standing at the edge of the question that changes everything.* He said you could always recognize it because it made you feel very small and very important at the same time.
@@ -10899,13 +10899,13 @@ He was, annoyingly, not wrong.
 
 ## Zalthir — The Fate of Asha Vandree
 The moment Asha Vandree declared herself in charge, something in me went very still.
-She said it with the absolute confidence of someone who had just survived something she shouldn't have — chaos, screaming, close calls that she'd already reframed as divine favor — and that confidence was the problem. *Excellent! Now that I am in charge!* The words landed in the space between all of us like a stone dropped into still water, and I watched the ripples. Grygum's expression shifted: not offense exactly, more the particular look of someone who had decided, quietly, to do something about it. Daz's face was carefully neutral in the way that meant he was calculating very quickly. Thorin was already moving.
+She said it with the absolute confidence of someone who had just survived something she shouldn't have — chaos, screaming, close calls that she'd already reframed as divine favor — and that confidence was the problem. *Excellent! Now that I am in charge!* The words landed in the space between all of us like a stone dropped into still water, and I watched the ripples. Gyrgum's expression shifted: not offense exactly, more the particular look of someone who had decided, quietly, to do something about it. Daz's face was carefully neutral in the way that meant he was calculating very quickly. Thorin was already moving.
 I was watching Asha.
 I've read rooms like this before. The Garden Shadow had a saying — or possibly Brother Quellin did, the one with the dusty robes who taught something about pressure points of social authority, a class I attended for approximately four sessions before concluding I'd rather be running drills — that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won. Asha had already decided.
-Grygum tried. I'll give him that. He leveled something at her — a directed burst of divine light that should have taken her off her feet — and it missed, and she turned the miss into a declaration.
+Gyrgum tried. I'll give him that. He leveled something at her — a directed burst of divine light that should have taken her off her feet — and it missed, and she turned the miss into a declaration.
 "I am blessed by Lolth!"
 *Sure,* I thought. *Let's see.*
-"I certainly don't like condescension, regardless of—oh," Grygum said, the 'oh' arriving at the exact moment the bolt went wide. He recovered quickly: "Let's put a period after that 'now that I'm in charge' thing."
+"I certainly don't like condescension, regardless of—oh," Gyrgum said, the 'oh' arriving at the exact moment the bolt went wide. He recovered quickly: "Let's put a period after that 'now that I'm in charge' thing."
 Thorin put a period on it in a different way. He crossed the distance and got his hands on her — properly, a full grapple, one hand clamped over her mouth before she could invoke anything else. It was effective. It was also not a solution.
 Nym watched this unfold with the expression of someone observing a very slow cart roll into a ditch.
 "When attacking a cleric of Lolth, Thorin, one does not just simply grapple them." She managed to make *grapple* sound like a mild obscenity. "One takes your blade and cuts their heads off. Are you well?"
@@ -10913,7 +10913,7 @@ Nym watched this unfold with the expression of someone observing a very slow car
 Nym looked at him for a long moment.
 "It's amazing that you people have made it this far."
 She wasn't wrong. That was the irritating part. A Lolth cleric with her mouth uncovered is a Lolth cleric who can pray, command, curse — and a grapple, however competent, doesn't hold forever. We had Asha contained for exactly as long as Thorin's arms held out, which in practical terms meant we had a few seconds to decide what we were doing.
-I looked at Daz. He was still calculating. I looked at Grygum, who had the expression of someone who would prefer not to kill anyone and was trying very hard to think of an alternative. I looked at Asha, who even now, hand over her mouth, was watching us all with eyes that said she was already composing the prayer.
+I looked at Daz. He was still calculating. I looked at Gyrgum, who had the expression of someone who would prefer not to kill anyone and was trying very hard to think of an alternative. I looked at Asha, who even now, hand over her mouth, was watching us all with eyes that said she was already composing the prayer.
 There was a class for this. Decisive action under moral uncertainty — the ethics of necessary violence, or something like that. I think it was Brother Harren, the one who never sat down, who taught it. I don't remember what he said. I remember it went on for a long time.
 "I'm making a call," I said.
 I stepped in.
@@ -10924,13 +10924,13 @@ Then Kaelira started clapping. Slow, deliberate, the kind of applause that is al
 Thorin, still holding what had been a problem until a moment ago, said: "I could have taken her out if I wanted to."
 "Of course," said the Drow who'd responded, and the flatness of it was its own verdict. "And that is precisely the problem."
 "I don't like killing people if I don't have to," Thorin said. "I mean, you know..."
-He trailed off. I didn't fill the silence. He wasn't wrong either — that's the thing about both of them. Nym and Kaelira's calculation and Thorin's reluctance and Grygum's preference for alternatives and Daz's careful neutrality — all of it was reasonable. All of it was true.
+He trailed off. I didn't fill the silence. He wasn't wrong either — that's the thing about both of them. Nym and Kaelira's calculation and Thorin's reluctance and Gyrgum's preference for alternatives and Daz's careful neutrality — all of it was reasonable. All of it was true.
 I just happened to also be true.
 Someone had to make the call. I made it. That's all.
 I didn't look at the body.
 
 
-## Grygum — Looting the Drow Outpost
+## Gyrgum — Looting the Drow Outpost
 The keys were the first thing I noticed. A jailer's ring, iron and heavy, each key worn smooth from years of use. I turned them over in my hands and felt the particular weight of irony settle in my chest.
 "You know, they would have been very useful in the very beginning," I said, mostly to myself. "These are the very keys that had you imprisoned."
 Daz looked over from where he was already cataloguing the rest of the room. "We've come a long way."
@@ -10992,8 +10992,8 @@ I had so much I could have said about any of them. I took notes instead.
 The heart of it was still warm.
 The fungal mass sat at the center of the chamber the way a problem sits at the center of a bad situation — obvious, unavoidable, radiating something wrong in every direction. Most of it was dead now. We'd done that. But the core hadn't collapsed the way the outer layers had, and when I pressed into it to see what was holding, my fingers found something that wasn't fungus.
 Smooth. Dense. Fist-sized. The weight of it was wrong for something grown — too even, too finished, like a stone that had been worked by a hand that knew what it was doing. And the sensation coming off it wasn't heat or cold exactly. More like standing next to a door that opens into a room you don't want to know about. Necromantic, I decided, the same way you decide the smell coming from the back of a giant's larder means something died in there a while ago. I didn't need a name for it. It was worth something to the right buyer, and I was not going to leave anything useful in this cavern, so I pocketed it.
-Behind me, Grygum was dealing with the platform.
-Ilvara had built herself something elevated, which made a certain kind of sense — High Priestesses don't stand at floor level, they stand at the level where everyone has to look up at them. But the fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach, slow and rhythmic like breathing, and Grygum was not the sort to leave corruption breathing. He opened his mouth, and the acid came out clean and decisive, and the fungal matter that had spent months becoming something wrong collapsed into ash in the time it takes to exhale. The smell that followed was scorched rot, which is not pleasant, but it was still better than the alternative. Better burned than spreading.
+Behind me, Gyrgum was dealing with the platform.
+Ilvara had built herself something elevated, which made a certain kind of sense — High Priestesses don't stand at floor level, they stand at the level where everyone has to look up at them. But the fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach, slow and rhythmic like breathing, and Gyrgum was not the sort to leave corruption breathing. He opened his mouth, and the acid came out clean and decisive, and the fungal matter that had spent months becoming something wrong collapsed into ash in the time it takes to exhale. The smell that followed was scorched rot, which is not pleasant, but it was still better than the alternative. Better burned than spreading.
 The bundle was underneath.
 Leather-wrapped, neat in a way that the rest of the chamber wasn't. Inside: incense cones, a silver bowl small enough to fit in one hand, and a cloth that had been stitched with two sigils — Lolth's web worked into the eight-fold geometry of Zuggtmoy's mark, one woven inside the other. I looked at it for a moment. I've carried stranger things out of stranger places in the last several months, but this one sat differently. It wasn't equipment. It was evidence. It was Ilvara's madness made physical — the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.
 I wrapped it back up and moved on.
@@ -11057,20 +11057,20 @@ I had been thinking about this moment, intermittently, for months. Not with anti
 It was real.
 The light that came through the tunnel mouth was not like Dawnbringer's light, not like faerie fire or bioluminescence or any of the things we had been navigating by for however many months it had been — I genuinely cannot tell you how many months it had been. It was not a light that came from a source. It was a light that simply *was*, filling everything from every direction at once, and what I felt when it touched my face was a kind of violence, or close to it. Not pain. Just the body registering that something fundamental had changed, the same way a deep-water creature might register the pressure dropping.
 My eyes managed it. Everything else took a moment.
-The others emerged around me. Thorin first, which was correct — he always led from the front, always had, it was as close to instinct as that dwarf ever got. Grygum next, blinking with something that looked less like discomfort and more like relief, the earnest half-orc having what appeared to be a genuine spiritual moment with direct sunlight. Daz came through last, the way Daz always came through last, already observing before he was fully present, already composing the analysis before his feet had cleared the threshold. The rest of our moltley crew followed, Eldeth, Spiderbait, and the rest of the folks who had survived this journey.
+The others emerged around me. Thorin first, which was correct — he always led from the front, always had, it was as close to instinct as that dwarf ever got. Gyrgum next, blinking with something that looked less like discomfort and more like relief, the earnest half-orc having what appeared to be a genuine spiritual moment with direct sunlight. Daz came through last, the way Daz always came through last, already observing before he was fully present, already composing the analysis before his feet had cleared the threshold. The rest of our moltley crew followed, Eldeth, Spiderbait, and the rest of the folks who had survived this journey.
 
 I stood and let the light happen to me. I put my cloak in a bag. I knew that Drow cloaks disintegrated in the sunlight.
 There was a class for this. Some form of material impermanence — I think it was Brother Quellin, or possibly the tall one whose name I never quite caught, the one who always had chalk dust on his robe. The transience of tools. The attachment to implements. Something about a bowl and an empty hand. I remember thinking that whoever designed the monastery curriculum had a great deal of opinions about things that were not fighting, and I was there to learn to fight, and the rest of it would work itself out.
 It had not, in fact, worked itself out.
-Grygum had opened the bag of holding.
-I should clarify: Grygum had opened the bag of holding just enough, and Glabbagool — our companion, our gelatinous ward who was now a grey ooze, the most improbable relationship any of us had formed in the Underdark, which was saying something given the competition — had peered out. There is no other word for it. He peered. He had not been in sunlight before. None of us were entirely sure what Glabbagool's eyes were, from a structural standpoint, but they were wide and present and sweeping across the surface world with an attention that made my own response to the Overbright seem, by comparison, measured. He took it in the way a child takes in a first ocean, the way the sheer scale of a thing produces a silence that is not quite awe but is adjacent to it.
+Gyrgum had opened the bag of holding.
+I should clarify: Gyrgum had opened the bag of holding just enough, and Glabbagool — our companion, our gelatinous ward who was now a grey ooze, the most improbable relationship any of us had formed in the Underdark, which was saying something given the competition — had peered out. There is no other word for it. He peered. He had not been in sunlight before. None of us were entirely sure what Glabbagool's eyes were, from a structural standpoint, but they were wide and present and sweeping across the surface world with an attention that made my own response to the Overbright seem, by comparison, measured. He took it in the way a child takes in a first ocean, the way the sheer scale of a thing produces a silence that is not quite awe but is adjacent to it.
 I watched him watch the sky.
 Whatever he made of it, I did not have the vocabulary to ask. The Stonespeaker Crystal was Daz's. But I noted the response. Filed it. Glabbagool had survived Blingdenstone, the ooze crisis, the bag of holding, and however many months of Underdark travel, and his first reaction to the surface world was curiosity rather than retreat. I found that admirable in a way I was not going to say out loud.
-We stood in the Overbright for a while, longer than was probably necessary from a tactical standpoint, and nobody suggested moving immediately. That was unusual. We were a group that moved quickly, that had learned to move quickly, that treated stillness as the thing you did when stillness was the only remaining option. But nobody moved. Thorin stood with his face at an angle that suggested he was calculating the sun's position relative to the year. Grygum was doing something with his hands that was probably prayer and probably sincere. Daz was, I suspected, already drafting a journal entry.
+We stood in the Overbright for a while, longer than was probably necessary from a tactical standpoint, and nobody suggested moving immediately. That was unusual. We were a group that moved quickly, that had learned to move quickly, that treated stillness as the thing you did when stillness was the only remaining option. But nobody moved. Thorin stood with his face at an angle that suggested he was calculating the sun's position relative to the year. Gyrgum was doing something with his hands that was probably prayer and probably sincere. Daz was, I suspected, already drafting a journal entry.
 The weeks that followed blurred in the way that recovery blurs — not forgetting, exactly, but the edges going soft. We had months ahead of us before the next thing began, and the party spread toward its separate concerns the way a held breath spreads into air, each of us expanding slightly into the space the Underdark had compressed out of us.
 The decision about what to do with the months was largely Daz's call, framed as a group discussion but with Daz's particular analytical gravity already pulling it toward a conclusion before the conversation began. He did this without meaning to. The conclusion — Candlekeep, the Great Library, research into House T'sarran and Jimjar's disappearance and whatever the various cutouts and hired Duskryns were ultimately pointing at regarding Daz's own history — was reasonable. Candlekeep had information. We needed information. The logic was sound.
 Thorin, characteristically, was thinking about Dawnbringer. Not what to do with it; he would never give it up, and the sword would never go quietly. But what it had been through. Months of darkness, months of the deep, a blade whose nature was radiance forced to endure the complete absence of the thing it was built to carry. He had mentioned something about a specialist — the phrase *sword whisperer* had come up, delivered with the particular dwarvish seriousness that Thorin applied to things he actually cared about, which meant he believed this person existed and should be found. I had no opinion on sword whisperers. I noted the category and moved on.
-Grygum had pamphlets on his mind. This was entirely consistent. Grygum was the only one among us who had accumulated a list of things he wanted to read, and Candlekeep was going to be, for him, something between research and pilgrimage. He would look up the lore of Bahamut. He would pick up pamphlets. He would be genuinely delighted by the availability of pamphlets. This was Grygum.
+Gyrgum had pamphlets on his mind. This was entirely consistent. Gyrgum was the only one among us who had accumulated a list of things he wanted to read, and Candlekeep was going to be, for him, something between research and pilgrimage. He would look up the lore of Bahamut. He would pick up pamphlets. He would be genuinely delighted by the availability of pamphlets. This was Gyrgum.
 Someone raised the question of the gold. We had more of it than we had started with — which was not saying much, given that we had started with nothing — and the debate that surfaced was the familiar one: invest it in something that might grow, or spend it on what would keep us alive. The logic for adventuring gear was simple enough that even I could lay it out without needing a meeting: we were people who went into danger. Gear reduced the consequences of danger. Business ventures required infrastructure we did not have, stability we had not earned, and a calendar that the demon lord situation was unlikely to respect.
 We agreed on the gear.
 I stood at the entrance to the surface world, squinting at a sky that went farther than anything I had navigated in months, and I thought: this is where we were going.
@@ -11090,7 +11090,7 @@ I keep coming back to that first moment of it — the way it hit the stone aroun
 
 Dawnbringer, to her credit, said nothing. She'd been waiting longer than any of us.
 
-The others were finding their own ways into it. Grygum turned his face up like he was receiving a blessing, which I suppose he was. Daz squinted and pushed his spectacles up and looked like a man calculating the precise angle of the light source. Zalthir went still in the particular way he goes still when something has moved him and he doesn't want anyone to notice.
+The others were finding their own ways into it. Gyrgum turned his face up like he was receiving a blessing, which I suppose he was. Daz squinted and pushed his spectacles up and looked like a man calculating the precise angle of the light source. Zalthir went still in the particular way he goes still when something has moved him and he doesn't want anyone to notice.
 
 And Glabbagool — Glabbagool just looked up.
 
@@ -11190,7 +11190,7 @@ Spiderbait was having a complicated moment with the concept of goblins on the su
 
 "I don't think so," I said.
 
-Daz agreed, in his careful way. Grygum was more specific.
+Daz agreed, in his careful way. Gyrgum was more specific.
 
 "The state of goblin equality and inclusion is rough at the moment."
 
@@ -11198,7 +11198,7 @@ Spiderbait absorbed this. Recalibrated. Pivoted.
 
 "Well, you know, I'm just a small goblin, and you're four big, powerful people. Do you mind if I just sort of hang out with you guys? Maybe find a nice place? This Candlekeep place seems like the kind of place someone like me could find a job doing something innocuous."
 
-Grygum endorsed the plan. He endorses most plans that keep small things alive.
+Gyrgum endorsed the plan. He endorses most plans that keep small things alive.
 
 I looked back at the tunnel mouth — the last dark edge of where we'd been, the rock framing the light we'd come out into. Eldeth was already gathering herself, the set of her shoulders that meant moving, that meant west to Mithral Hall and the obligations that waited there.
 
@@ -11236,9 +11236,9 @@ What I know now, without having been taught it properly, is that the trees north
 
 Close. Uncomfortably close.
 
-Grygum rolled his dice with the confidence of a man who already knows the answer. I watched him from the corner of my eye. He came up satisfied. "You conclude," came the word, "that what is following you is a deer."
+Gyrgum rolled his dice with the confidence of a man who already knows the answer. I watched him from the corner of my eye. He came up satisfied. "You conclude," came the word, "that what is following you is a deer."
 
-I didn't say anything. Grygum nodded with serene certainty and indicated he could use a nap. Reasonable enough. If you're certain it's a deer, sleep makes sense.
+I didn't say anything. Gyrgum nodded with serene certainty and indicated he could use a nap. Reasonable enough. If you're certain it's a deer, sleep makes sense.
 
 Thorin's number was clean. Mine was solid. Daz, a step to my left, had come to the same place I had. The three of us looked at each other in the way that the Ember Vanguard has developed as a private language: no words, just a shared acknowledgment that the thing in the trees is not a deer.
 
@@ -11252,7 +11252,7 @@ A beat.
 
 "Oh, no. It's not a deer. It's not a deer."
 
-"Oh, dear," said Grygum, somewhere behind me, apparently now awake.
+"Oh, dear," said Gyrgum, somewhere behind me, apparently now awake.
 
 Twenty to forty feet, Thorin's read suggested. I adjusted my estimate of the gap. Closer to twenty. Whatever was in those trees had been moving with us, shifting position laterally to stay in the blind spots, using the terrain the way someone uses it when they know what they're doing. Not panicked. Not rushing. Patient. The kind of following that isn't trailing — it's pacing.
 
@@ -11290,7 +11290,7 @@ So did I.
 
 ---
 
-## Grygum — A Shadow in the Woods
+## Gyrgum — A Shadow in the Woods
 
 The bird call came just as I was settling in for the night.
 
@@ -11336,7 +11336,7 @@ I took notes. It's what I do.
 
 *(narrated by Daz)*
 
-The stun wore off and she was already calculating. I could see it in the set of her shoulders — that particular Drow recalibration, the moment when violence becomes negotiation and the question shifts from *survive the next five seconds* to *survive the next five minutes.* She was small — Grygum's *Reduce* spell had seen to that — but she held herself with the trained dignity of someone who understood that posture was its own kind of armor.
+The stun wore off and she was already calculating. I could see it in the set of her shoulders — that particular Drow recalibration, the moment when violence becomes negotiation and the question shifts from *survive the next five seconds* to *survive the next five minutes.* She was small — Gyrgum's *Reduce* spell had seen to that — but she held herself with the trained dignity of someone who understood that posture was its own kind of armor.
 
 Zalthir was first, the way he usually is in these moments: unhurried, precise.
 
@@ -11362,7 +11362,7 @@ He tried again. She laughed in his face.
 
 I found I didn't feel superior about this. Thorin's instincts have saved us too many times for me to feel superior. What he lacks in Drow politics he makes up for in a kind of irreducible physical honesty that people cannot quite dismiss, even when they're laughing at him. She was laughing, but she was also still talking to us, which is the more important variable.
 
-Grygum, meanwhile, had been watching her the way he watches things — not calculating exactly, more like listening for something the rest of us weren't hearing. There is a quality to his attention I've never fully resolved. He looked at her and I think he saw the whole picture at once: the surface posting, the miserable exposure to the overbright, the desperate bravado of someone who'd drawn a terrible assignment and was trying to make it look like a choice.
+Gyrgum, meanwhile, had been watching her the way he watches things — not calculating exactly, more like listening for something the rest of us weren't hearing. There is a quality to his attention I've never fully resolved. He looked at her and I think he saw the whole picture at once: the surface posting, the miserable exposure to the overbright, the desperate bravado of someone who'd drawn a terrible assignment and was trying to make it look like a choice.
 
 "Hey," he said, with the casual tone of someone considering a minor administrative matter, "are you looking for a new job? We could use another helper."
 
@@ -11370,7 +11370,7 @@ Something shifted in her face. A tiny, involuntary fracture in the composure. *W
 
 It is remarkable what that realization does to someone. She had walked into this interrogation with the set expression of a soldier prepared to die with her intelligence intact, and now she looked — for just a moment — like a person who had not yet decided how much she wanted to live. The Menzoberranzan training is very thorough about creating a certain relationship to death: make it seem like a preference, not a threat. But she was young enough, or tired enough, or perhaps just unhappy enough with her assignment, that the offer of survival caught her genuinely off guard.
 
-Then Grygum held out the prayer beads.
+Then Gyrgum held out the prayer beads.
 
 He didn't say anything particularly ominous. He just handed them to her and told her to put them on. No threat in his voice. No explanation of what they did.
 
@@ -11378,7 +11378,7 @@ She looked at a half-orc cleric holding out holy symbols of a deity she knew not
 
 She looked, in the GM's precise summary, defeated, frustrated, annoyed.
 
-Then Grygum rolled persuasion, and she talked.
+Then Gyrgum rolled persuasion, and she talked.
 
 "I was just assigned to track you, not to engage. My orders were to report your surface destination, your contact, who approaches you." A pause. Then: "My matron was waiting for you to surface. She sent a couple of us up to the overbright to find where you were. I got lucky, and I spotted you."
 
@@ -11444,15 +11444,15 @@ She proposed a deal — mutual information sharing, she tells us what she finds,
 
 He is not wrong. The deal has no enforcement mechanism. She has no incentive to honor it beyond her own interest, and the moment her interests and ours diverge — which is to say, the moment she has what she came for — the deal dissolves. Drow contracts without consequences attached aren't contracts. They're intentions.
 
-Then Grygum said: "There's only one solution. We need to kill Daz."
+Then Gyrgum said: "There's only one solution. We need to kill Daz."
 
 Zalthir, entirely deadpan: "It's on the list. The maybe list."
 
-"And then we'll find out who's protecting him," Grygum continued, with the calm of someone describing a routine experimental procedure.
+"And then we'll find out who's protecting him," Gyrgum continued, with the calm of someone describing a routine experimental procedure.
 
 Thorin: "Do it, but make sure we can bring them back."
 
-"Oh, I have a Revivify spell." Grygum, reassuring.
+"Oh, I have a Revivify spell." Gyrgum, reassuring.
 
 "So that's just a temporary death."
 
@@ -11464,7 +11464,7 @@ I am categorically on record as being the only person in this party who treats i
 
 She warned us, between our negotiations, that killing her wouldn't stop House T'sarran from sending more agents.
 
-Grygum held up the prayer beads. "I'm not relying on killing you. I'm relying on the prayer beads."
+Gyrgum held up the prayer beads. "I'm not relying on killing you. I'm relying on the prayer beads."
 
 She eventually proposed being escorted to Candlekeep and handed to the guards — and she said it with the confidence of someone who already knew the second half of that plan didn't involve staying in Candlekeep for very long.
 
@@ -11474,15 +11474,15 @@ Thorin: "She's so confident she can escape, I don't think we want to be taking h
 
 Accurate. We don't.
 
-Grygum and Thorin exchanged a look. Then, very loudly, making no apparent attempt to lower their voices:
+Gyrgum and Thorin exchanged a look. Then, very loudly, making no apparent attempt to lower their voices:
 
 "Those prayer beads are at full power, even though they're shrunken, right?"
 
-Grygum, with great ceremony: "Yes — in fact, I believe they may be more deadly."
+Gyrgum, with great ceremony: "Yes — in fact, I believe they may be more deadly."
 
 "More potent. Good to know."
 
-She looked at the beads. She looked at Grygum. She began, visibly, to reconsider the available options.
+She looked at the beads. She looked at Gyrgum. She began, visibly, to reconsider the available options.
 
 ---
 
@@ -11518,7 +11518,7 @@ It was the most honest description of our mercy I could have asked for. She was 
 
 On the road, Thorin made sure she overheard him: "Those prayer beads are at full power, even though they're shrunken, right?"
 
-Grygum picked it up without missing a beat: "Yes, yes, in fact — I believe they may be more deadly."
+Gyrgum picked it up without missing a beat: "Yes, yes, in fact — I believe they may be more deadly."
 
 "They're more potent. Okay. Good to know."
 
@@ -11526,7 +11526,7 @@ I watched him say it with the mild interest I reserve for things that are techni
 
 ---
 
-Candlekeep required a book. This was not a problem for us. The problem, as Daz identified it, was which book — because we had, after months in the Underdark acquiring things from people who no longer needed them, accumulated more books than most surface libraries see in a decade. The list, when assembled: Princess Ebonmire's spellbook. Ilvara's prayer book with its Zuggtmoy marginalia, those careful notes documenting the corruption timeline she'd watched unfolding and apparently found worth recording. Asha Vandree's theological argument about Lolth and Zuggtmoy as equivalents — the document I'd watched her press into Grygum's hands. The Velkynvelve prisoner journal. Plinki's journal from the Whorlstone Caverns, the one where a man had written carefully about helping birth a demonic monster and apparently thought this was worth documenting.
+Candlekeep required a book. This was not a problem for us. The problem, as Daz identified it, was which book — because we had, after months in the Underdark acquiring things from people who no longer needed them, accumulated more books than most surface libraries see in a decade. The list, when assembled: Princess Ebonmire's spellbook. Ilvara's prayer book with its Zuggtmoy marginalia, those careful notes documenting the corruption timeline she'd watched unfolding and apparently found worth recording. Asha Vandree's theological argument about Lolth and Zuggtmoy as equivalents — the document I'd watched her press into Gyrgum's hands. The Velkynvelve prisoner journal. Plinki's journal from the Whorlstone Caverns, the one where a man had written carefully about helping birth a demonic monster and apparently thought this was worth documenting.
 
 I thought about Asha Vandree, briefly. The way she had looked through me the entire time we were in that room. I had been furniture; I had noticed the quality of her erasure without taking it personally, because it wasn't personal — it was structural, the way the Underdark is cold. You don't take the cold personally. The theological document she'd written would now unlock questions in one of the greatest libraries in the world. She would have hated that.
 
@@ -11538,7 +11538,7 @@ The ooze, apparently, was deeply confused by the concept of a library with finit
 
 Thorin pressed it anyway: "We give all five books, and we say — Glabbagool, you get one question. Make it count. And I'm really interested to see what he asks."
 
-Grygum said he was curious too.
+Gyrgum said he was curious too.
 
 Five books. Four of us and one ooze who had been in the dark of a bag for most of his conscious existence, watching a shrunken spy with one eye and trusting that the world above ground was worth seeing.
 
@@ -11548,7 +11548,7 @@ I didn't have an answer. But I kept watching the bag, the way it moved, the slig
 
 ---
 
-## Grygum — Entry into Candlekeep
+## Gyrgum — Entry into Candlekeep
 
 The road to Candlekeep had given me a lot of time to think. Maybe too much.
 
@@ -11662,7 +11662,7 @@ Vareth stopped. His expression went through several stages very quickly — surp
 
 "This is all fascinating!"
 
-Somewhere in the background, the rest of the party had begun debating Daz's habit of citing Malfire at every available opportunity. I heard Grygum's name pulled into the discussion — *Grygum*, not me, which is how I know the sentence was reconstructed after the fact — but the content was accurate. We had been through enough together that the citations had become a kind of ambient weather condition, something you adapted to rather than fought.
+Somewhere in the background, the rest of the party had begun debating Daz's habit of citing Malfire at every available opportunity. I heard Gyrgum's name pulled into the discussion — *Gyrgum*, not me, which is how I know the sentence was reconstructed after the fact — but the content was accurate. We had been through enough together that the citations had become a kind of ambient weather condition, something you adapted to rather than fought.
 
 "Yeah," I said, when someone turned to me for confirmation, "it's like we're kind of sick of each other, but somehow still together, yeah."
 
@@ -11687,7 +11687,7 @@ We'd been on the road south out of the Silver Marches long enough that I'd stopp
 
 And yet.
 
-The hill giants I grew up with — they had a word for a silence that wasn't natural. Not the silence of snowfall or empty stone, but the silence of things not being said. The whole village had that. Townfolk walked around something none of them would point at. Nobody explained why. I watched a woman cross the road to avoid a conversation and then pretend she hadn't. Grygum noticed it too, I could tell, though he didn't say anything. Neither did I.
+The hill giants I grew up with — they had a word for a silence that wasn't natural. Not the silence of snowfall or empty stone, but the silence of things not being said. The whole village had that. Townfolk walked around something none of them would point at. Nobody explained why. I watched a woman cross the road to avoid a conversation and then pretend she hadn't. Gyrgum noticed it too, I could tell, though he didn't say anything. Neither did I.
 
 We found the River Shining Tavern and noted it for later. But we didn't go straight in, because Daz had already stopped in the square.
 
@@ -11701,7 +11701,7 @@ Zalthir looked at it the way he looks at most things: like he was deciding wheth
 
 He let the question sit where he'd put it. Fair question, honestly. It was a severed arm on a stick. The Underdark had less unsettling décor, and that's saying something.
 
-Daz was already reading the inscription. The primary text told us this was Tarvis Ulain, paladin, dead three years. Died here, in Daggerford itself, breaking up a Cult of the Dragon recruitment operation. Grygum made a sound when he got to the part confirming Tarvis had served Bahamut — not a word, just the noise a person makes when something clicks into place. The war had touched everywhere in the North. I knew that the way you know a fact you haven't had to live through. Tarvis Ulain's bronze arm made it concrete.
+Daz was already reading the inscription. The primary text told us this was Tarvis Ulain, paladin, dead three years. Died here, in Daggerford itself, breaking up a Cult of the Dragon recruitment operation. Gyrgum made a sound when he got to the part confirming Tarvis had served Bahamut — not a word, just the noise a person makes when something clicks into place. The war had touched everywhere in the North. I knew that the way you know a fact you haven't had to live through. Tarvis Ulain's bronze arm made it concrete.
 
 Then Daz found the secondary inscription. Dwarven, on the base.
 
@@ -11711,19 +11711,19 @@ Then Daz found the secondary inscription. Dwarven, on the base.
 
 Same line as the Castle Ward statue in Waterdeep. The one connected to Stroud. I read it twice because Dwarven is, you know, actually my language, or one of them, and I wanted to make sure I hadn't misread. I hadn't. Somebody had put a Stroudite inscription on a monument to a Bahamutian paladin in a town I'd barely heard of, and whoever commissioned it had either not noticed or not cared enough to remove it.
 
-There was a smaller inscription on the back. Common. *Witnessed and recorded for the Gauntlet.* Signed by Milo Goodbarrel, apparently head of some publisher, apparently Order of the Gauntlet. Milo had personally signed off on this. The whole thing was funded two years after the war by a Metalworkers Guild. Grygum was quiet. Not the usual quiet. The kind where he's adding something to the list.
+There was a smaller inscription on the back. Common. *Witnessed and recorded for the Gauntlet.* Signed by Milo Goodbarrel, apparently head of some publisher, apparently Order of the Gauntlet. Milo had personally signed off on this. The whole thing was funded two years after the war by a Metalworkers Guild. Gyrgum was quiet. Not the usual quiet. The kind where he's adding something to the list.
 
 We made it to the inn eventually. The River Shining. A village priest caught us in the doorway — walking in very pleased with himself and carrying a tray of small pewter reproductions of Tarvis's hand cast, miniature things, charm-sized. He was selling them for donations to the Order of the Gauntlet, and he was clearly delighted with his own enterprise.
 
 "Anybody want to buy a Tarvis hand cast in pewter?"
 
-Grygum looked at them. "Are they full size?"
+Gyrgum looked at them. "Are they full size?"
 
 They were not.
 
-The priest's eye landed on Grygum and lit up — another cleric of Bahamut, imagine that — and then he turned to take in the rest of us, and his expression did something complicated. A half-orc cleric of Bahamut. A Dragonborn. A dwarf. A drow. All walking in together.
+The priest's eye landed on Gyrgum and lit up — another cleric of Bahamut, imagine that — and then he turned to take in the rest of us, and his expression did something complicated. A half-orc cleric of Bahamut. A Dragonborn. A dwarf. A drow. All walking in together.
 
-"Kind of like the opening scene in a joke," Grygum said helpfully.
+"Kind of like the opening scene in a joke," Gyrgum said helpfully.
 
 "And they all walk into the inn," he added.
 
@@ -11731,21 +11731,21 @@ The priest recovered fast. Probably has to, in his line of work. He pivoted and 
 
 "Will any of you fair sirs be willing to buy one of these pewter hand casts?"
 
-Grygum dropped a gold piece in for his. The priest beamed. Then Grygum asked him to tell him more — he'd already paid, so he had the leverage — and the priest was very willing.
+Gyrgum dropped a gold piece in for his. The priest beamed. Then Gyrgum asked him to tell him more — he'd already paid, so he had the leverage — and the priest was very willing.
 
 The statue had been funded by the Metalworkers Guild, two years post-war. The guild may have had Stroudite members, the priest conceded, looking left, looking right, like the Stroudites might be listening. He himself was, he wanted us to know, *a pure Bahamutian*. He did not believe in the heresy.
 
-"As am I," Grygum said. "But the inscription shares language with Stroud. Why is that?"
+"As am I," Gyrgum said. "But the inscription shares language with Stroud. Why is that?"
 
 The priest considered this. "It was a gift," he said finally. "And since it was a gift, we decided the inscription could remain. After all — wasn't Tarvis trying to save us all, regardless of what actually happened in that game of chess?"
 
-I didn't have an answer to that. I'm not sure anyone did. Grygum went back to examine the statue more carefully anyway, looking for anything else unusual. There wasn't much. Just a fairly normal monument, as monuments to severed arms go. Just one more marker of a war that had touched everything north of here in some way — dragons, cult raids, fire, pillage. Daggerford had been far enough south to miss the Uthgardt barbarian hordes that had swept through after the giant war. They'd only gotten the cult. Only lost Tarvis.
+I didn't have an answer to that. I'm not sure anyone did. Gyrgum went back to examine the statue more carefully anyway, looking for anything else unusual. There wasn't much. Just a fairly normal monument, as monuments to severed arms go. Just one more marker of a war that had touched everything north of here in some way — dragons, cult raids, fire, pillage. Daggerford had been far enough south to miss the Uthgardt barbarian hordes that had swept through after the giant war. They'd only gotten the cult. Only lost Tarvis.
 
 The priest moved on to find other customers. I stood in the doorway of the River Shining and thought about how many towns north of here had a story like this, and just hadn't put up a bronze arm about it yet.
 
 ---
 
-## Grygum — The Silent Child of Maerith
+## Gyrgum — The Silent Child of Maerith
 
 Maerith of the Ford had the look of a woman who had already been turned away. You develop an eye for it, in this work — the specific exhaustion of someone who has walked into every room that was supposed to help and left each one carrying the same weight back out. She spotted my holy symbol during dinner, which is the usual trigger. People see the dragon-and-scale emblem and they think: well, at least this one won't say no before I finish asking.
 
@@ -11843,13 +11843,13 @@ There was a bard — a traveling one, by the look of her kit, set up in the perf
 
 *"Oh, the Kenku could not fly, but he flew in his black hood, in his black hood, in his black hood. The raven thief who learned to steal no more, save what was needed, said the small, wise man at his side."*
 
-Grygum, who has an irritating habit of noticing things I would have preferred to notice first, observed drily that the song's principle — steal what was needed — mapped rather well onto Whistler. The Kenku thief of some earlier age who, presented with the complete hoard of Tiamat, had apparently taken only what was necessary for legitimate expenses. Operating goals. Day-to-day funds. Per diems.
+Gyrgum, who has an irritating habit of noticing things I would have preferred to notice first, observed drily that the song's principle — steal what was needed — mapped rather well onto Whistler. The Kenku thief of some earlier age who, presented with the complete hoard of Tiamat, had apparently taken only what was necessary for legitimate expenses. Operating goals. Day-to-day funds. Per diems.
 
 I found that, I mean, genuinely impressive. The restraint of it. Most people, faced with the complete hoard of Tiamat, would either take everything or panic and take nothing. Whistler had apparently made a line-item budget.
 
-After her set, the bard invited requests. Grygum leaned forward — he has a scholar's interest in Stroud that he performs slightly harder than the interest actually requires — and offered her a silver piece for something about Stroud's famous chess game. She looked at his holy symbol and asked whether he was Bahamutian or Stroudite, and he explained that he was Bahamutian, with sentimentality for the other. She took the coin and proceeded to sing a love song. Involving flowers. And drinking. The chess game appeared as a metaphor for romantic longing, the grand theological stakes filed down into something a farmhand could hum on the way home.
+After her set, the bard invited requests. Gyrgum leaned forward — he has a scholar's interest in Stroud that he performs slightly harder than the interest actually requires — and offered her a silver piece for something about Stroud's famous chess game. She looked at his holy symbol and asked whether he was Bahamutian or Stroudite, and he explained that he was Bahamutian, with sentimentality for the other. She took the coin and proceeded to sing a love song. Involving flowers. And drinking. The chess game appeared as a metaphor for romantic longing, the grand theological stakes filed down into something a farmhand could hum on the way home.
 
-Grygum received this in the way he receives most things downgraded by translation: politely, and with the file already updated. "The only love I remember during the previous campaign," he said, "involved giants, and it wasn't Stroud's." He paused. "These things have to be done with a grain of salt."
+Gyrgum received this in the way he receives most things downgraded by translation: politely, and with the file already updated. "The only love I remember during the previous campaign," he said, "involved giants, and it wasn't Stroud's." He paused. "These things have to be done with a grain of salt."
 
 I had been cataloguing the room during all of this, which is not something I do consciously anymore. It is just what happens when I sit somewhere new: faces, patterns, the small deviations from baseline behavior. There was a young human scholar in the far corner — not a human scholar, a *young* human scholar, because those are meaningfully different things and I did not want to get the category wrong — who was reciting something under his breath. A chant of some kind. Rhythmic, almost liturgical.
 
@@ -11891,15 +11891,15 @@ Daz went quiet beside me somewhere around the second hour of walking. Not his us
 
 I noticed. I didn't say anything yet.
 
-Grygum noticed too, and asked whether it connected to the voices — the spreading madness we'd watched move through the Underdark like groundwater through stone. He couldn't pin it down, he said. Something wrong, something tenuous. I filed it. Whatever was happening to Daz had started below ground and apparently had not stopped at the surface. One more thing that needed answering. One more thing Candlekeep was presumably for.
+Gyrgum noticed too, and asked whether it connected to the voices — the spreading madness we'd watched move through the Underdark like groundwater through stone. He couldn't pin it down, he said. Something wrong, something tenuous. I filed it. Whatever was happening to Daz had started below ground and apparently had not stopped at the surface. One more thing that needed answering. One more thing Candlekeep was presumably for.
 
-We gave them the books at the gate. Bookwyrm — the First Reader, a dragonborn sage — assigned us each to a handler without ceremony. She had clearly been doing this for a long time and had no interest in making it interesting. Daz to Sister Yvenne. Zalthir to Brother  Khell-Vire. Thorin to Master Archivist Philemon. Grygum to Vareth. She said it the way you'd read a duty roster. I respected that.
+We gave them the books at the gate. Bookwyrm — the First Reader, a dragonborn sage — assigned us each to a handler without ceremony. She had clearly been doing this for a long time and had no interest in making it interesting. Daz to Sister Yvenne. Zalthir to Brother  Khell-Vire. Thorin to Master Archivist Philemon. Gyrgum to Vareth. She said it the way you'd read a duty roster. I respected that.
 
 Then she paused.
 
 She'd noticed the bag.
 
-Specifically, she'd noticed what was in the bag — because when we'd come through the gate, we'd had to open it to show the guards Glabbagool, and the miniaturized House T'sarran spy had been right there alongside him, which she apparently found unacceptable, and which Grygum summarized, with admirable brevity, as: *"We've been caught."*
+Specifically, she'd noticed what was in the bag — because when we'd come through the gate, we'd had to open it to show the guards Glabbagool, and the miniaturized House T'sarran spy had been right there alongside him, which she apparently found unacceptable, and which Gyrgum summarized, with admirable brevity, as: *"We've been caught."*
 
 They summoned someone called  Kalan Strongbranch. Gate Warden. He was efficient about it. He laid out Candlekeep's position without apology:
 
@@ -11943,7 +11943,7 @@ The spy was not happy. The decision was made. We kept her.
 
 ---
 
-## Grygum — Zalthir's Trial of the Broken Mirror
+## Gyrgum — Zalthir's Trial of the Broken Mirror
 
 The Echoing Hall earned its name. Stone corridors in Candlekeep's north inner ward have a habit of returning sound to you slightly altered — not an echo exactly, more like the library itself was taking notes. I approved of that.
 
@@ -12274,11 +12274,11 @@ Menzoberranzan teaches you to read rooms. It teaches you to watch for the moment
 She said nothing.
 
 Which is, in the ledger, an answer.
-# Chapter 52 Candlekeep's Cold Case: The Grygumite Gambit
+# Chapter 52 Candlekeep's Cold Case: The Gyrgumite Gambit
 
 
 
-## Grygum — The Immortal Chambers And The Question Of The Age
+## Gyrgum — The Immortal Chambers And The Question Of The Age
 
 The West Inner Ward smells like old paper. People here take themselves seriously, and the walls have absorbed it. Brother Vareth moves through it like a man who has been navigating institutional gravity for forty-one years and knows which way to lean into it.
 
@@ -12362,7 +12362,7 @@ I sit in the office with his papers and Pizwog's research tract and the thought 
 
 "I feel like I handled that competently," I say, to no one in particular.
 
-The Grygum school of thought. Filed under: things that started as offhand remarks. Bahamut may or may not have been watching. I took notes either way.
+The Gyrgum school of thought. Filed under: things that started as offhand remarks. Bahamut may or may not have been watching. I took notes either way.
 
 ---
 
@@ -12380,7 +12380,7 @@ I said as much to the others.
 
 And then a hooded figure from the Avowed went past the dining hall at a half-run, something tucked against their ribs under the robe. They weren't trying to be obvious about it. They also weren't trying very hard not to be. In the Underdark that would have been something to move against — I would have already been on my feet, already measuring the gap between me and the exit. Here, I just watched them go and clocked it.
 
-The prophecies had been going the whole time, floating down from the gallery above like water finding its level. Vareth had explained it to Grygum earlier in the day, and Grygum had explained it to the rest of us in that careful way he has, like he was building a theological argument out of practical facts: there was a man named Alaundo whose prophecies had come true with uncomfortable regularity, so Candlekeep had been reciting them ever since. Whenever one came true, it was removed. What remained was the unfulfilled inventory. Nobody knew what happened when the inventory ran out.
+The prophecies had been going the whole time, floating down from the gallery above like water finding its level. Vareth had explained it to Gyrgum earlier in the day, and Gyrgum had explained it to the rest of us in that careful way he has, like he was building a theological argument out of practical facts: there was a man named Alaundo whose prophecies had come true with uncomfortable regularity, so Candlekeep had been reciting them ever since. Whenever one came true, it was removed. What remained was the unfulfilled inventory. Nobody knew what happened when the inventory ran out.
 
 I thought about that for a moment. The giants used to say that a wall is just a rock in the right place. A prophecy that hasn't happened yet is just a warning waiting for its moment. I didn't say that out loud. It wasn't useful.
 
@@ -12388,7 +12388,7 @@ Most of the recited lines slid past me. Background noise. The kind you stop hear
 
 *On the longest night of winter's deepest cold, the keeper falls, the heart is sold.*
 
-It landed. I sat with it for a second. Winter's deepest cold. I looked at Daz. I looked at Grygum. Neither of them had visibly reacted. Either they hadn't heard it, or they'd done what I was already doing: kept it.
+It landed. I sat with it for a second. Winter's deepest cold. I looked at Daz. I looked at Gyrgum. Neither of them had visibly reacted. Either they hadn't heard it, or they'd done what I was already doing: kept it.
 
 I kept it.
 
@@ -12418,13 +12418,13 @@ The voice on the other side of the door was young, breathless, and badly in need
 
 I was already cataloguing before the sentence finished. The Keeper of Tomes was dead. The First Reader wanted us specifically, not the Avowed, not the city watch — us, through the emerald door, before the avowed awake. That clause was doing a great deal of work. *Before the avowed awake* meant she wanted this contained. It also meant she thought we were the right instrument for containing it. The question of why she thought that was, I noted, a question I would need answered.
 
-Grygum opened the door. I heard his voice land somewhere between inquiry and bracing for bad news: "The Keeper of Tomes?"
+Gyrgum opened the door. I heard his voice land somewhere between inquiry and bracing for bad news: "The Keeper of Tomes?"
 
 The messenger confirmed it. He was commoner-born, I could see that much — enthusiastic in the way of someone who has been trusted with important information for the first time and found the experience clarifying. Boyish. Very slightly delighted by his own urgency, which I didn't hold against him. He looked like someone who had sprinted across several corridors of very old stone and intended everyone to notice.
 
 I began dressing. The running account in the back of my head was already sorting columns: one entity dead, position of institutional significance, first reader bypassing standard channels, party summoned by name, timing engineered to precede institutional awareness. In Menzoberranzan, that combination resolved to one thing: someone wanted the scene read before it was managed. The surface world ran different politics, but the bones of information control looked the same everywhere. Whoever wanted us through that emerald door was working a timeline.
 
-Grygum, to his credit, was moving. He said something about not having thought through what orcs wear to bed, which struck me as honest and also not the logistical priority it probably felt like from the inside. I filed it in the column marked *Grygum is processing the morning* and kept dressing.
+Gyrgum, to his credit, was moving. He said something about not having thought through what orcs wear to bed, which struck me as honest and also not the logistical priority it probably felt like from the inside. I filed it in the column marked *Gyrgum is processing the morning* and kept dressing.
 
 We were all rested, at least. Properly, fully rested — the kind that had felt almost suspicious after the Underdark, where a full night's sleep had been a luxury good and rarely in stock. Candlekeep's beds had done their work. Whatever was waiting through the emerald door, we weren't walking into it depleted.
 
@@ -12460,13 +12460,13 @@ Then the Drakonoikos.
 
 I noticed it before he named it. The structure was built from scales — actual scales, enormous, overlapping — and bones worked into the walls where another building would have used stone. Fyrentennimar, Fembris finally produced the name after a pause and a visible effort, dragon of some age and significance, now a wall. The early light hit the scales. They held it.
 
-"Those scales really gleam in the sunrise," Grygum said. "That's amazing."
+"Those scales really gleam in the sunrise," Gyrgum said. "That's amazing."
 
 He wasn't wrong. I had been thinking the same thing and had not said it. There was a monastic logic to the building: the thing that was dangerous becomes the thing that contains the knowledge of how dangerous it was. I wasn't sure the monks at the Garden Shadow would have approved of the metaphor, but Brother Heslin — or possibly Brother Arrath, I was never certain which of them ran the theory sessions on repurposed threat — had said something along those lines once. I had been watching the window.
 
 Fembris warned us about the Dragon Breath Simulation Chamber inside. One of the Avowed had died in it, he said, which was why the Keeper's permission was now required. His tone suggested we should find this discouraging.
 
-"That sounds like a great game to play," Grygum said. "Later."
+"That sounds like a great game to play," Gyrgum said. "Later."
 
 "I've still got plenty left in me," he added, more quietly.
 
@@ -12486,7 +12486,7 @@ I stepped inside.
 
 ---
 
-## Grygum — The Council of Twelve in Uproar
+## Gyrgum — The Council of Twelve in Uproar
 
 The Chapter House was exactly as described — twelve chairs around a twelve-sided table, rose window throwing colored light across the stone floor, western gables pressing down overhead like a building that took itself seriously. I took notes on the seating arrangement before anyone had finished shouting.
 
@@ -12510,7 +12510,7 @@ Daral's eyes found me. The whole table found me, actually. A group of academics 
 
 Daral opened his mouth to ask the obvious question, which is who we were and why we were in this room, and I heard something in that question I recognized. The implication underneath was sharper — *who gave you access, and should I object to them.*
 
-"Oh, merely, merely guests," I said. And then I added: "I am the head of the Grygumite School." A beat. "Founder, in fact."
+"Oh, merely, merely guests," I said. And then I added: "I am the head of the Gyrgumite School." A beat. "Founder, in fact."
 
 I will say this for academics: they are helplessly interested in new schools of thought. The murder — the murder of their colleague, the chaos and the unanswered questions — all of it receded slightly in the face of *an unfamiliar framework*. Several of them leaned in. One pulled out something to write on. It was exactly as reliable as I expected.
 
@@ -12718,7 +12718,7 @@ Zalthir agreed. It tracked.
 
 The pattern suggested he might have been dead before the chest was opened. Which meant two things happened: something killed him, and then someone opened him up afterward. The missing heart wasn't the cause of death. It was a message. Or a precaution.
 
-Grygum named the precaution out loud, and once he said it I couldn't believe I hadn't thought of it first: you can't bring someone back from death by ritual if their vital organs aren't present. Whoever took the heart wasn't souvenir-collecting. They were preventing resurrection. They wanted Janussi to stay dead in every sense that mattered.
+Gyrgum named the precaution out loud, and once he said it I couldn't believe I hadn't thought of it first: you can't bring someone back from death by ritual if their vital organs aren't present. Whoever took the heart wasn't souvenir-collecting. They were preventing resurrection. They wanted Janussi to stay dead in every sense that mattered.
 
 Which meant — I thought this through in order, because the Underdark taught me to think through implications in order — someone had tried to make him permanently inaccessible. But not necessarily inaccessible in every way.
 
@@ -12746,7 +12746,7 @@ Yes.
 
 There is a particular comfort in a corpse. It does not lie. It does not run a counter-play. Everything it knows is written on it, and all I have to do is read.
 
-Janussi, Keeper of the Tome, was laid out before us, and the early findings were already on the table. The heart was gone — torn out, not for any wound it would cause, but as a guard against any working that calls the dead back to answer. Whoever had done this had not wanted Janussi answering questions on the other side of the veil. The ribcage was smashed, something axe-like, and Grygum was the one who pressed on whether the cut was jagged or clean. *Is the wound jagged? Does it seem like it was cut out, or is it magical.* A fair question. The answer was the interesting part.
+Janussi, Keeper of the Tome, was laid out before us, and the early findings were already on the table. The heart was gone — torn out, not for any wound it would cause, but as a guard against any working that calls the dead back to answer. Whoever had done this had not wanted Janussi answering questions on the other side of the veil. The ribcage was smashed, something axe-like, and Gyrgum was the one who pressed on whether the cut was jagged or clean. *Is the wound jagged? Does it seem like it was cut out, or is it magical.* A fair question. The answer was the interesting part.
 
 The blows had been precise. Too precise, too close together, for a man fighting back. No spray across the room — no blood pressure left to throw it. Janussi had been dead before his chest was opened. Whoever did this had not been in a rush. He had not been trying to kill. He had been desecrating a corpse at his leisure, with nowhere to be. I logged that. *The first thing to read is the tempo of the killer.* This one had time.
 
@@ -12754,7 +12754,7 @@ And then the nose. A whack to the nose, off-center, the kind of thing that happe
 
 "Anyone want to take a closer look at the body?"
 
-Grygum went first and announced his findings the way you announce bad weather. "I can barely tell which end is which." Thorin muttered something about having the second-worst eye for detail in the room. A low bar, apparently, and they were both under it.
+Gyrgum went first and announced his findings the way you announce bad weather. "I can barely tell which end is which." Thorin muttered something about having the second-worst eye for detail in the room. A low bar, apparently, and they were both under it.
 
 So I stepped up. "Let me look."
 
@@ -12792,9 +12792,9 @@ Thorin worked it like a problem. "So either that was related to him being murder
 
 Zalthir asked if anyone could use a working to find the chip. We didn't need magic. It was right there — a few feet from his face, sitting on the floor where it had landed when the man went down. He had fallen forward. Face-first. Chipped the tooth on the way down. And then someone had come in, after, and rolled him onto his back to take the heart.
 
-"And also broke his nose," Grygum said.
+"And also broke his nose," Gyrgum said.
 
-That was the loose thread, and Grygum pulled it. His read of the wound came clean — sharp work this time — and the nose had broken *before* death. Bruising doesn't form on a corpse; there's no living tissue to swell. Zalthir worked the same logic from the other end, confirming it with Grygum twice over: *you don't bruise after you're dead.* So the broken nose belonged to the living man, not the desecrated one. Within the evening — Janussi had eaten dinner with his face intact and his teeth whole. Whatever happened, happened in the narrow window between that meal and his death.
+That was the loose thread, and Gyrgum pulled it. His read of the wound came clean — sharp work this time — and the nose had broken *before* death. Bruising doesn't form on a corpse; there's no living tissue to swell. Zalthir worked the same logic from the other end, confirming it with Gyrgum twice over: *you don't bruise after you're dead.* So the broken nose belonged to the living man, not the desecrated one. Within the evening — Janussi had eaten dinner with his face intact and his teeth whole. Whatever happened, happened in the narrow window between that meal and his death.
 
 I ran the sequence one more time. A man at his books, wetting his finger to turn a poisoned page. The black climbing through him while he read on, suspecting nothing. A fall, forward, hard — a broken nose, a chipped tooth on the stone. And then the patient hands arriving after, in no hurry at all, rolling the body and opening the chest to make certain he stayed gone.
 
@@ -12802,7 +12802,7 @@ The body had told us everything it knew. It always does. The only question left 
 
 ---
 
-## Grygum — Forensic Investigation of the Keeper's Chamber
+## Gyrgum — Forensic Investigation of the Keeper's Chamber
 
 Daz worked the body over carefully. He had the eye for it, and the recent education — Milo's murder mystery, fresh in his head — and when his focus snapped clean on the corpse he started naming things faster than I could write them down.
 
@@ -12822,7 +12822,7 @@ I looked closer. This is the kind of thing I know — what a body does when the 
 
 "Okay, so his nose was broken, he was killed, smashed on the face."
 
-Zalthir caught the implication a half-step behind me. "Grygum, you've got the healer's eye, right? How does bruising work if he's dead? Like, I would assume you don't really."
+Zalthir caught the implication a half-step behind me. "Gyrgum, you've got the healer's eye, right? How does bruising work if he's dead? Like, I would assume you don't really."
 
 "You don't — you don't bruise after you're dead."
 
@@ -12888,13 +12888,13 @@ The blue ink on *The Discoveries* had been laid down after the blue ink on anoth
 
 "The product placement notes," I said. A homage to some other adventure, a book you could go and buy if the mood took you.
 
-"Oh, the mystery," Grygum said. "You have to go buy the other adventure." He found this funnier than I did. Most things, he does.
+"Oh, the mystery," Gyrgum said. "You have to go buy the other adventure." He found this funnier than I did. Most things, he does.
 
 Then the second book complicated itself. *The Golden Ass* was a comedy. Janussi had been writing down jokes he found funny — the man had a sense of humor he'd evidently kept private. "No, wait," I said. "The blue ink captures both notes on obscure spells and jokes?" The same hand, the same fresh ink, two registers entirely. Jokes first. The ink on those had dried. Then he'd flopped over into the spell research. "So he was noting down jokes, and then flopped over to spell research." Yes. And somewhere in the seam between the two, the comedy book had walked out of the room.
 
 That was the absence. The notes proved the book had been here — you do not annotate a thing you do not hold. And now it was gone, and it was the only thing gone. A room tells you most by what it is missing. The Garden Shadow had a saying about that — or possibly Brother Tharusk did, the tall one who always smelled of incense; I wasn't listening to either of them closely. The point survived anyway: count what should be present before you count what is.
 
-Thorin had been turning the black residue over. "What color was, like, on his fingers and mouth, was it black or red?" Black. Definitively not the blue ink — Grygum had already settled that, checked it twice and certain. So the black on the man's mouth came from somewhere the blue ink did not.
+Thorin had been turning the black residue over. "What color was, like, on his fingers and mouth, was it black or red?" Black. Definitively not the blue ink — Gyrgum had already settled that, checked it twice and certain. So the black on the man's mouth came from somewhere the blue ink did not.
 
 A gift tag surfaced from the wastebasket as we were leaving — almost behind the desk, in a cramped, sour hand. "Wait, is that describing the type of writing?" Thorin asked. It was. "It's, like, grumpy?" I said. Grumpy. Cramped. The script of someone who resented the act of writing it. *To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival.* Thorin lit up. "Okay, so that supports my theory. Some sort of rival gave him a gift, but it was sort of like a bitter thing."
 
@@ -12916,11 +12916,11 @@ I said nothing to that. The poison and the cipher could both be true. The missin
 
 We came out of the murder chamber and the air in the hall was better — not good, but better. Fembris was hovering the way assistants hover when they've decided you're the people who fix things, which is its own kind of pressure. He wanted to be helpful. Fine. Helpful I can work with.
 
-Grygum and I both opened our mouths at the same time. We've been doing that a lot lately — months in a tunnel will teach two people to think along the same line whether they want to or not.
+Gyrgum and I both opened our mouths at the same time. We've been doing that a lot lately — months in a tunnel will teach two people to think along the same line whether they want to or not.
 
-"have any enemies, right?" I said, and then caught that Grygum had started too. "I'm sorry, but I didn't mean to stomp on you."
+"have any enemies, right?" I said, and then caught that Gyrgum had started too. "I'm sorry, but I didn't mean to stomp on you."
 
-"Oh, I was gonna say, does he have any rivals?" Grygum said. Then, dry: "Same question."
+"Oh, I was gonna say, does he have any rivals?" Gyrgum said. Then, dry: "Same question."
 
 Same question. That's the thing about the two of us. He gets there with compassion and I get there with a hammer, but we get to the same door.
 
@@ -12930,7 +12930,7 @@ And there it was. A name with weight to it.
 
 I knew the name the second he said it. Sell swords. Said it like he was wiping something off his shoe. I despise this whole place a little — not Candlekeep, Candlekeep's fine, the books are fine — but the *culture* of it, the scholars who keep grudges the way a dragon keeps gold, sitting on them for years, polishing them. In the Underdark everyone runs six angles at once and at least there it's honest about being a knife fight. Up here they smile and they file the grievance and they wait. Daral had been at Janussi's throat for *years*. Whatever was rotting in that man, it had gone all the way through by now. I've learned to read that. Rage that's had time to set is a vector. It points somewhere.
 
-"Hmm, well, I already don't like him," Grygum said.
+"Hmm, well, I already don't like him," Gyrgum said.
 
 "Right?" Fembris agreed. "He's the one who was very, you know, that not seemed, very impressed with you."
 
@@ -12948,11 +12948,11 @@ Daz's head came up. You can always tell when Daz has fit two stones together —
 
 Two keys. One around a dead man's neck, gone. One with a gate warden. That's the terrain now — not bridges and pits, just keys and grudges, but it works the same. You find out who can stand where, and then you find out who shouldn't have been standing there.
 
-Grygum, meanwhile, was already three steps down the practical road, which is where he lives. "One thing we need is somebody who knows what should be here, so they can tell us if anything's missing."
+Gyrgum, meanwhile, was already three steps down the practical road, which is where he lives. "One thing we need is somebody who knows what should be here, so they can tell us if anything's missing."
 
 Right. Because Daz could guess at the locket and I could guess at Daral, but a guess isn't a wall. You need someone who knows the room cold.
 
-"Let me go over that one more time," Grygum said, slow, lining it up the way he does. "go find, say, the housekeeper, and ask her, what is missing or out of place."
+"Let me go over that one more time," Gyrgum said, slow, lining it up the way he does. "go find, say, the housekeeper, and ask her, what is missing or out of place."
 
 That's the move. I'm not interested in the politics of who hated whom and how long — that's noise, that's the part of this place I can't deal with. But *what's missing from the room* — that I can stand on. That's ground.
 
@@ -12964,7 +12964,7 @@ Not yet. Not even close.
 
 ---
 
-## Grygum — The Housekeeper's Testimony
+## Gyrgum — The Housekeeper's Testimony
 
 Hollypocket's apartment sat below the Keeper's tower — modest, but with room to breathe, and warm in a way the chamber above us had not been. An elderly gnome charged with looking after the dead man's every need, from his morning tea and pastry down to emptying his chamber pot. She offered us seats. She offered us herbal tea. I took notes.
 
@@ -13026,7 +13026,7 @@ She added one more thing, almost to herself. "I was never sure but what the keep
 
 The interview began the way most interviews do — with someone explaining why this couldn't possibly work, and me proving otherwise.
 
-Zalthir wanted a way to talk to the cat. Sound enough. The animal had been in the chamber; the dead don't volunteer alibis, but a five-year-old housecat with opinions might. Grygum admitted he couldn't afford a potion — clerics of Bahamut, it turns out, run on a tighter margin than their theatrics suggest. So I put the obvious solution where it belonged: in my own column.
+Zalthir wanted a way to talk to the cat. Sound enough. The animal had been in the chamber; the dead don't volunteer alibis, but a five-year-old housecat with opinions might. Gyrgum admitted he couldn't afford a potion — clerics of Bahamut, it turns out, run on a tighter margin than their theatrics suggest. So I put the obvious solution where it belonged: in my own column.
 
 "I think I can talk to the cat," I said.
 
@@ -13034,7 +13034,7 @@ Zalthir wanted a way to talk to the cat. Sound enough. The animal had been in th
 
 "Talking to beasts, yeah. It's part of what the stone speaker crystal grants me." A useful thing, the Stonespeaker. I had been carrying it as a curiosity. Now it was a witness chair.
 
-"Well, that saves me money on potions," said Grygum, relieved — someone else had just taken an expense off his account. At least we have that.
+"Well, that saves me money on potions," said Gyrgum, relieved — someone else had just taken an expense off his account. At least we have that.
 
 The cat introduced herself, after a fashion. Queenie — five years old, sleet-grey, and entirely uninterested in being disturbed. "I did not order any more ticklers!" she announced, stretching. "Any good ticklers are the only good… and good ticklers are… tickles are only the good reason for disturbing my beauty sleep."
 
@@ -13074,7 +13074,7 @@ Zalthir pushed her for more — blood, organs, a heart, anything from the wrong-
 
 I have been insulted by archpriests. This one landed cleaner.
 
-We'd nearly let the locket go unasked — the thing missing from Janussi's neck. Grygum caught it. "Daz, why don't you ask the cat anyway? It's gonna be a weird description from a cat, but…" It was. "The locket itself is intimate. He carried it all the time. He never took it off." What was it, I asked. "I don't know what it was." A cat will tell you a man's habits and not his secrets.
+We'd nearly let the locket go unasked — the thing missing from Janussi's neck. Gyrgum caught it. "Daz, why don't you ask the cat anyway? It's gonna be a weird description from a cat, but…" It was. "The locket itself is intimate. He carried it all the time. He never took it off." What was it, I asked. "I don't know what it was." A cat will tell you a man's habits and not his secrets.
 
 Then Fembris, *by golly*, supplied the column I was missing: Janussi held one of the two keys to the Hightower Library.
 
@@ -13093,11 +13093,11 @@ And she walked off.
 
 Fembris Lancer practically vibrated. The adjutant had attached himself to us the way an acolyte attaches to anyone who might be doing something more interesting than copying manuscripts, and he was not going to let us forget the assignment. "I think it's important that we need to go," he said, "we need to go back to the great — the chapter house, and talk to a Bookwyrm, to give her a summary of what happens. After all, don't forget, that is exactly what she asked us to do, to provide a summary of the events."
 
-A summary. Behind me, Grygum was running the word back and forth. Checking it against what we'd actually been told. "True? I thought we were asked to find out what — well, I guess summarizing the events is pretty much the same as finding out who did it from one."
+A summary. Behind me, Gyrgum was running the word back and forth. Checking it against what we'd actually been told. "True? I thought we were asked to find out what — well, I guess summarizing the events is pretty much the same as finding out who did it from one."
 
 "I thought, yeah, we had to find out who," I offered, which contributed nothing and was meant to.
 
-"I would make a bad detective," Grygum decided, "because I don't have a perfect memory. All the fictional detectives have perfect memories."
+"I would make a bad detective," Gyrgum decided, "because I don't have a perfect memory. All the fictional detectives have perfect memories."
 
 "I don't know if they do," Thorin said. "I think real detectives just write everything down."
 
@@ -13107,7 +13107,7 @@ A summary. Behind me, Grygum was running the word back and forth. Checking it ag
 
 I let them have it. I was running a different question, the one Thorin eventually asked aloud as we walked. "Who are we working for, exactly?"
 
-"Justice," said Grygum.
+"Justice," said Gyrgum.
 
 The first rule of any House: know who holds the debt before you decide whether to collect it. Thorin, in his blunt giant-raised way, got to the same place from the other direction. "I guess, who has the power to fire us and tell us to go away?"
 
@@ -13121,7 +13121,7 @@ The moon elf scribes moved to halt us at the threshold. Bookwyrm waved them off 
 
 "Have you concluded your investigation of the crime scene?" Very serious now.
 
-We had. Grygum confirmed it plainly. Thorin pressed her to keep the room sealed, and she agreed three times over — *of course, of course, of course* — which is two more agreements than a thing requires.
+We had. Gyrgum confirmed it plainly. Thorin pressed her to keep the room sealed, and she agreed three times over — *of course, of course, of course* — which is two more agreements than a thing requires.
 
 Then she took us to a nearby room, Deneir's Sanctum, a little shrine and library given over to the art of writing, and offered it up as our office. Fembris would fetch any witness we named. Vooshadi Moonriver would stand the door — *we wouldn't want anyone the investigators don't want to come in, to come in.* And one more thing, lightly placed: we shouldn't move through Candlekeep without one of them. The library is very easy to get lost in.
 
@@ -13129,7 +13129,7 @@ I have an alternative reading of generosity, which is that it is rarely free.
 
 "Do we think the room is, like, bugged," I asked the others once we had a moment, "or has, like, secret — like, the stuff we do in there is actually going to be private to us, or do we need —" I kept going, because the offer was too clean. "It's nice and all to offer up that we can use the office, and that they'll go fetch people, and all of those sorts of things, but it's also a little suspect. Like, maybe they're involved, and somehow…"
 
-"It doesn't seem just friendly," Grygum said.
+"It doesn't seem just friendly," Gyrgum said.
 
 I asked him to say it again.
 
@@ -13153,11 +13153,11 @@ She wanted to know what we'd told her. So did I — it pays to know exactly how 
 
 That is not an idle question. That is a question that wants a name back so it can measure where we're pointed. Thorin deflected — *not quite sure who we're gonna talk to next, but you shouldn't read into that* — and I gave her one harmless witness to chew on, Ms. Hollypocket, whom we'd already seen anyway. A name that costs nothing tells you what the asker does with a name.
 
-What she did was want Sylvira Savikas. She never said it. She didn't have to; the want came off her like heat off the smelters. Someone had impersonated Sylvira — Grygum thought it made perfect sense, and tactically it did, the impersonated woman might know who would wear her face. It also meant the most powerful person in this building had a strong, unstated preference about where we aimed first.
+What she did was want Sylvira Savikas. She never said it. She didn't have to; the want came off her like heat off the smelters. Someone had impersonated Sylvira — Gyrgum thought it made perfect sense, and tactically it did, the impersonated woman might know who would wear her face. It also meant the most powerful person in this building had a strong, unstated preference about where we aimed first.
 
 I sorted it: *Bookwyrm steers toward Sylvira.* I had no idea yet whether that was the helpful instinct of someone who wants the thing solved, or a thumb on the scale of an investigation she'd rather not have tilted toward herself. I left that account open too.
 
-Then the practical question — together or apart. Thorin liked us as a wall. "It's more imposing to have all, like, you know, four, five, seven, eight, ten of us show up in a room." Grygum wanted to start together and branch later. The reasoning was simple enough: split, and we cover the poison and Sylvira at once, but each of us walks into his own conversation alone, no second pair of hands to steady the work.
+Then the practical question — together or apart. Thorin liked us as a wall. "It's more imposing to have all, like, you know, four, five, seven, eight, ten of us show up in a room." Gyrgum wanted to start together and branch later. The reasoning was simple enough: split, and we cover the poison and Sylvira at once, but each of us walks into his own conversation alone, no second pair of hands to steady the work.
 
 "Since we're separated, whatever each of us draws, that's what we're stuck with," Thorin said.
 
@@ -13173,7 +13173,7 @@ Catch. She said catch and corrected herself to fetch. I kept that.
 
 Daz had the same itch I did. "Do… do we think the room is, like, bugged, or has, like, secret…" He couldn't even finish it. "It's nice and all to offer up that, like, we can use the office, and that they'll go fetch people, and all of those sorts of things, but it's also a little suspect. Like, maybe they're involved, and somehow…"
 
-"It doesn't seem just friendly," Grygum said. "I mean, it could be that they genuinely want to get to the bottom of this." That's Grygum. He leaves the door open for people to be decent even while he's bolting it.
+"It doesn't seem just friendly," Gyrgum said. "I mean, it could be that they genuinely want to get to the bottom of this." That's Gyrgum. He leaves the door open for people to be decent even while he's bolting it.
 
 This is the thing about murder among scholars. Back home — and I mean the mountain, the giants — if you wanted to know who broke a thing, you asked, and someone told you, because lying about it was beneath them. Down here, everybody's got a door they won't open. I hate it. I've always hated it.
 
@@ -13187,11 +13187,11 @@ She tried again. Asked if there was anybody we wished to start with. I shrugged 
 
 What I wanted to read into was her. "I also want to understand where Bookwyrm was before nine in the morning," I said, once we were our own again. "Timeline of where she was. So, available to be a suspect." Everyone's available until they're not. That's not cynicism. That's just keeping the list honest.
 
-Grygum was paging through our notes and frowning. "You know, there is somebody in our list of characters who seems to have the same priorities that we do. Maybe that would be someone to interview to sort of get tips on what to do next, or their suspicions." He squinted. "It isn't… for some reason, there's no name on that entry. It just says, Fheminor Scrivenbark." Our own notes had started lying to us. That felt about right for this place.
+Gyrgum was paging through our notes and frowning. "You know, there is somebody in our list of characters who seems to have the same priorities that we do. Maybe that would be someone to interview to sort of get tips on what to do next, or their suspicions." He squinted. "It isn't… for some reason, there's no name on that entry. It just says, Fheminor Scrivenbark." Our own notes had started lying to us. That felt about right for this place.
 
-Then the constraint landed — that we'd only get to chase a handful of threads before the thing moved on without us. "Sounds like bullshit," I said, because it was. "I know, but, like, why do we get it, like, what's the hurry? Investigations take as long as they take." Apparently they don't. Apparently things keep happening while you're standing around thinking. Grygum put it plainest: "There'll be more murders."
+Then the constraint landed — that we'd only get to chase a handful of threads before the thing moved on without us. "Sounds like bullshit," I said, because it was. "I know, but, like, why do we get it, like, what's the hurry? Investigations take as long as they take." Apparently they don't. Apparently things keep happening while you're standing around thinking. Gyrgum put it plainest: "There'll be more murders."
 
-So we wouldn't split, not yet. "I like us sticking together," I said. "I just think it's more imposing to have all, like, you know, five, seven, ten of us show up in a room." Grygum agreed we'd start together and peel off when two doors opened at once.
+So we wouldn't split, not yet. "I like us sticking together," I said. "I just think it's more imposing to have all, like, you know, five, seven, ten of us show up in a room." Gyrgum agreed we'd start together and peel off when two doors opened at once.
 
 We walked the council back through. The whole pack of them, shouting over a body. A'lai Aivenmore wanting a vote and new leadership. The dowdy halfling, Fheminor Scrivenbark, asking whether Janussi had named a successor. Kazryn Nyantani — slender, gray, those wrinkles around the eyes — cutting through with first you must find the murderer. The bronze dragonborn, Alkrist, formidable and furious, the gate warden needs to be dismissed, this happened on his watch. Bookwyrm trying to settle the room. And Daral not even in it — he'd been at the Hearth, asking why isn't Sylvira Savikas here.
 
@@ -13201,7 +13201,7 @@ Which was the better question. Sylvira wasn't at the council. Sylvira — or som
 
 Here's where I planted my boots. "I feel like physical evidence is more reliable than trying to parse who's lying and who's not, you know?" Down here everyone lies as a reflex. You can't out-talk a culture that talks for a living. But a smear of poison on a dead man's fingers doesn't have a motive. "But, you know, maybe that's from watching too much CSI, what do I know?"
 
-We had a sample of the stuff — off his fingers, and his lip too, Zalthir made sure of that. Grygum volunteered. "I'm happy to do the library research. Poison section, please." And Daz raised the other thread, the one nobody wanted to touch: "There's a missing part of, like, a book that should not be missing… that could have happened a hundred years ago or something, but… seems suspicious, and maybe related."
+We had a sample of the stuff — off his fingers, and his lip too, Zalthir made sure of that. Gyrgum volunteered. "I'm happy to do the library research. Poison section, please." And Daz raised the other thread, the one nobody wanted to touch: "There's a missing part of, like, a book that should not be missing… that could have happened a hundred years ago or something, but… seems suspicious, and maybe related."
 
 Then we worked the list of people like a vein of ore, deciding where to dig.
 
@@ -13215,11 +13215,11 @@ Zalthir handed Daz his marching orders for Fheminor — find out when the man go
 
 One thing kept gnawing me, though, so I backed us up. "Kalan said they'd put the question to the corpse, and that it didn't work. And that didn't work because of Y." The imposter — the false devil-lady — supposedly did it first and locked the corpse's mouth shut for days. Maybe. "Do we know that for sure? I mean, if Kalan's just saying, hey, I did it, but didn't do it? None of us can wring words out of a dead man, so it's not like we can verify, but — whether the corpse was ever truly made to answer is hearsay." I let it sit a beat. "It's also heresy, but…"
 
-This is what I mean. The whole place runs on people telling you what was true so you don't have to find out. The dead man's heart was gone. Two people had stood over him — one who knew exactly where the locket-key hid, and one who didn't and tore through the safe instead. Grygum asked whether the stolen sapphires were worth killing for — expensive, not rare, was the answer — and tucked it into his library list alongside the poison. And the other tower key, the one that wasn't Janussi's, sat in Kalan Strongbranch's pocket.
+This is what I mean. The whole place runs on people telling you what was true so you don't have to find out. The dead man's heart was gone. Two people had stood over him — one who knew exactly where the locket-key hid, and one who didn't and tore through the safe instead. Gyrgum asked whether the stolen sapphires were worth killing for — expensive, not rare, was the answer — and tucked it into his library list alongside the poison. And the other tower key, the one that wasn't Janussi's, sat in Kalan Strongbranch's pocket.
 
 "Right, but at the end of the day, I'm pretty sure that the person that killed him is the one that took the heart," I said. Everything else is people talking. The heart is a fact.
 
-We split it four ways. Daz to Fheminor. Grygum to the library, poison and sapphires both. "I'll do Sylvira," I said, "and somebody else can do Teles and Kalan." Zalthir would carry his end — and Glabbagool, who is apparently coming along permanently now, convinced down to whatever he uses for bones that he's going to learn to fight from the dark.
+We split it four ways. Daz to Fheminor. Gyrgum to the library, poison and sapphires both. "I'll do Sylvira," I said, "and somebody else can do Teles and Kalan." Zalthir would carry his end — and Glabbagool, who is apparently coming along permanently now, convinced down to whatever he uses for bones that he's going to learn to fight from the dark.
 
 Once we were apart, we'd get what we got. No leaning on each other, no second voice in the room to make the words land softer. Just each of us and whatever the other person decided to show.
 
@@ -13229,11 +13229,11 @@ I'd rather that, honestly. One conversation, one truth, no committee. It's the c
 
 ## Zalthir — A Secret Meeting with Kalan
 
-The key went to Grygum. I marked that before anything else — not into Daz's hand, not into Thorin's, not into the open air for whoever was closest. Kalan stepped out of a doorway we hadn't clocked, swept the corridor left, then right, and pressed a small brass key specifically into the cleric's palm. He chose the orc. I don't think it was chance.
+The key went to Gyrgum. I marked that before anything else — not into Daz's hand, not into Thorin's, not into the open air for whoever was closest. Kalan stepped out of a doorway we hadn't clocked, swept the corridor left, then right, and pressed a small brass key specifically into the cleric's palm. He chose the orc. I don't think it was chance.
 
 "Whatever Bookwyrm is telling you, listen for what she isn't," he said, low. "The High Tower has two keys. Janussi wore one, I held the other. I have given it now to someone who is not me. If I and I do not see you tomorrow, do not look for me at my post."
 
-"You're worried that you'll be killed for the key?" Grygum asked.
+"You're worried that you'll be killed for the key?" Gyrgum asked.
 
 Kalan looked left. Looked right. "It is best that if I am killed, the key not be found."
 
@@ -13245,7 +13245,7 @@ You don't need the key for that, came the answer. The tower is watched. Always. 
 
 I went after him. The rest of them had their questions, but most of those would dissolve into noise. I had a few that wouldn't.
 
-"You need both," I said, when Grygum circled back to why a second key mattered. "Power with two." Thorin called it a war-game swapper, two officers turning keys to launch the missile. The metaphor was loud and it was also correct.
+"You need both," I said, when Gyrgum circled back to why a second key mattered. "Power with two." Thorin called it a war-game swapper, two officers turning keys to launch the missile. The metaphor was loud and it was also correct.
 
 "Before you go," I said. "Did you find anything? Any idea who's behind this?"
 
@@ -13253,7 +13253,7 @@ He staged it — reminded us, twice, that he had been wanted off the case. Then 
 
 "Purely accidental," I told him. "We have no particular involvement here. Someone put us up to this. We are happy to not get involved." True enough. Filed under things that are also true.
 
-He decided the nature of fate had brought disinterested outsiders to exactly this place, and that this meant something. I offered the simple version: we had the job, he could simply come with us. No. Bookwyrm had made it official that he was to be nowhere near it. "Officially," I said. "See, there you go." Grygum asked whether we could rely on him unofficially, and the ego did the rest of the work for us.
+He decided the nature of fate had brought disinterested outsiders to exactly this place, and that this meant something. I offered the simple version: we had the job, he could simply come with us. No. Bookwyrm had made it official that he was to be nowhere near it. "Officially," I said. "See, there you go." Gyrgum asked whether we could rely on him unofficially, and the ego did the rest of the work for us.
 
 He had picked up a few things. He liked to juxtapose mundane observation with lofty rumination on order, chaos, fate, and futility — and in that rumination he had noticed the poison in the left hand, the saliva. "The black stuff, yes, we saw that." He noticed the heart hacked out — after death, to spoil resurrection. "Yeah, we got that." He noticed the murderer was a magic user who could circumvent arcane and mundane locks. Magic that could talk any lock open, arcane or iron, the very highest order of that art.
 
@@ -13303,7 +13303,7 @@ He looked at me like I'd said something self-evident.
 
 ---
 
-## Grygum — Research in the Flora Theca
+## Gyrgum — Research in the Flora Theca
 
 The librarian who took me down was named Fembris, and he walked like someone who believed noise had consequences. I asked if there was a poison section. There wasn't, exactly. What there was, Fembris told me, was the Flora Theca, a subsection of the Pavilion Naturalis, inside the Great Library, dedicated to plants, herbs, and other flora. Close enough. Poison is just botany with intent.
 
@@ -13379,7 +13379,7 @@ We found him exactly that. Boisterous, flushed, conspicuously delighted with his
 
 "Oh, look, it's Faerûn's most famous detectives! Bookwyrm's brownnosers, I'm going to call you, because you like to—"
 
-"That's not our," Grygum said, "that's not our chosen name."
+"That's not our," Gyrgum said, "that's not our chosen name."
 
 Daral was already laughing at his own joke. "Light it up, guys, we seem to have gotten off on the wrong foot. Barman, a brown of spice brandies for our beloved brownnosers. My treat."
 
@@ -13485,7 +13485,7 @@ There are, by now, a great many days I was sleeping. The student on my arm had m
 
 ---
 
-## Grygum — The Academic Distraction
+## Gyrgum — The Academic Distraction
 
 I had the treatise open in front of me. *On the Punctual Tears.* Someone had styled it as an internal topocentric protocol, which is an enormous amount of robe for a poison, but the Underdark teaches you that the people who kill you usually want it documented first.
 
@@ -13551,7 +13551,7 @@ Daral paid it. The Oak Tree Apothecary, he said, between the Sea Warden's Tower 
 
 "Yo!" said Thorin, and I think he was already reaching for the squirrel in his imagination, because Daral made a small horrified noise about *not the squirrel*. Thorin wanted to keep the man on the hook anyway: a warm introduction, he reasoned, and the timeline of the book itself, whether it was poisoned before or after Daral handed it over. He was right about that. If the poison lived in the binding, then the book's provenance became the entire case. I kept that.
 
-Then Fembris asked to leave. Our minder, the avowed assigned to ensure four armed strangers didn't help themselves to the contents of the world's most dangerous library, wanted to attend a debate. Grygum's debate, as it turned out — a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it. A keeper of the keep, leaving his post, to watch the orc argue dragons. I did not stop him. I did the only sensible thing, which was to note that his departure handed us an hour without supervision and to say nothing of the kind out loud.
+Then Fembris asked to leave. Our minder, the avowed assigned to ensure four armed strangers didn't help themselves to the contents of the world's most dangerous library, wanted to attend a debate. Gyrgum's debate, as it turned out — a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it. A keeper of the keep, leaving his post, to watch the orc argue dragons. I did not stop him. I did the only sensible thing, which was to note that his departure handed us an hour without supervision and to say nothing of the kind out loud.
 
 Which left the key.
 
@@ -13988,7 +13988,7 @@ Midnight Tears. I kept the name where I would not lose it.
 
 
 
-## Grygum — Reunion and Debriefing
+## Gyrgum — Reunion and Debriefing
 
 The talk had gone well. Extraordinarily popular, as I was informed by several people on my way out. Each one delivered the assessment in tones normally reserved for resurrection announcements. I took notes. Whether Bahamut reads them or not, the record now exists, and the record says: the quadrangle issue landed.
 
@@ -14002,7 +14002,7 @@ I have met Daral. He is not a man who distributes superlatives casually. What I 
 
 "Yeah, guys," I said, cutting across the praise before it could build momentum, "what did you find out while I was out?"
 
-The flattery tried a different opening line. "Well, Mr. Grygum — as a cleric of Bahamut, might I say that your entire position on the quadrangle issue was, in fact, a brilliant insight that has dramatically transformed the—"
+The flattery tried a different opening line. "Well, Mr. Gyrgum — as a cleric of Bahamut, might I say that your entire position on the quadrangle issue was, in fact, a brilliant insight that has dramatically transformed the—"
 
 "No, no," I said. "What am I restoring?"
 
@@ -14026,7 +14026,7 @@ And then Fembris Lancer arrived.
 
 He came in like a man who'd been rehearsing in the corridor. Trying not to make an entrance. Making one anyway. He had notes.
 
-"Grygum, that was fantastic!"
+"Gyrgum, that was fantastic!"
 
 "Why, thank you," I said. "I do my best."
 
@@ -14110,7 +14110,7 @@ I looked at him. This was the second person at Candlekeep to angle for a monogra
 
 "I'm sorry — it would not be a monograph if we wrote it together."
 
-Grygum agreed immediately. Elian backed up and tried again. What he'd meant, he clarified, was that he'd write the monograph, and I might contribute a preface, saying what an excellent monograph it was.
+Gyrgum agreed immediately. Elian backed up and tried again. What he'd meant, he clarified, was that he'd write the monograph, and I might contribute a preface, saying what an excellent monograph it was.
 
 "I'll write the introduction," I said.
 
@@ -14138,7 +14138,7 @@ The question that had been sitting in the back of my skull moved forward.
 
 "Well, I'm interested — even if we were able to actually cast Speak with Dead, how do you know they're a reliable narrator? What are their motivations after they're dead? We don't know. Because they're dead."
 
-Grygum said we could sometimes bring them back, which was technically true and didn't touch what I was asking. Elian said the paper had a whole section on it: the *myth of the person.* The assumption that death is a transparency, that the dead have shed their performances and will now simply tell you what's true. They don't. They're still themselves. They forget, misattribute, have things they'd rather believe about what happened. They just have fewer consequences now for getting it wrong.
+Gyrgum said we could sometimes bring them back, which was technically true and didn't touch what I was asking. Elian said the paper had a whole section on it: the *myth of the person.* The assumption that death is a transparency, that the dead have shed their performances and will now simply tell you what's true. They don't. They're still themselves. They forget, misattribute, have things they'd rather believe about what happened. They just have fewer consequences now for getting it wrong.
 
 "Okay — oh, the myth of the person. I'll have to look at it."
 
@@ -14152,13 +14152,13 @@ In the Underdark, the one thing that didn't lie was terrain. You couldn't trust 
 
 "Exactly." The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid. "Oh wait, don't — please, I don't need another —" I started, because Elian had the look of a man reaching for a second document.
 
-Grygum stepped in: *"Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?"*
+Gyrgum stepped in: *"Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?"*
 
 "Yeah, there you go," I said.
 
 Elian lit up. Could he use it?
 
-"Yes," Grygum said, with tremendous dignity. "I made it up myself."
+"Yes," Gyrgum said, with tremendous dignity. "I made it up myself."
 
 He did not make it up himself. I've heard it before, somewhere, in something I read a long time ago. But it was his contribution to the afternoon and I wasn't going to complicate that.
 
@@ -14184,11 +14184,11 @@ Fembris Lancer is not a man who idles. He had been filling the air with noise si
 
 I let him talk. He would arrive at the point eventually.
 
-We had three problems and roughly the same number of people willing to go chase them. The third-story apartment in Janussi's chambers was still unvisited. We knew the wrapping paper from the poisoned book had been taken there, and we hadn't gone back. There was something to find. Grygum saw it at the same moment I did.
+We had three problems and roughly the same number of people willing to go chase them. The third-story apartment in Janussi's chambers was still unvisited. We knew the wrapping paper from the poisoned book had been taken there, and we hadn't gone back. There was something to find. Gyrgum saw it at the same moment I did.
 
 "Somebody go talk to Alkrist," he said. "There's something listed as a third-story apartment with an open door we haven't gone into. I'm gonna go look into that."
 
-A clean split. I approved of it silently. The apartment was in Janussi's chambers. The wrapping paper trail led there, and there was still evidence about Kalan we hadn't turned over. The kind of thing that didn't need an interview to yield. "Yeah, I'll head up and check that out," Grygum said, and that was settled.
+A clean split. I approved of it silently. The apartment was in Janussi's chambers. The wrapping paper trail led there, and there was still evidence about Kalan we hadn't turned over. The kind of thing that didn't need an interview to yield. "Yeah, I'll head up and check that out," Gyrgum said, and that was settled.
 
 Which left Alkrist.
 
@@ -14214,21 +14214,21 @@ No elaboration. Sylvira was framed for the murder and dying slowly under the poi
 
 "Happy to talk to Sylvira in the meantime, or whoever can," I added, leaving the door open.
 
-Grygum was already moving for the stairs. He stopped, turned back. He'd remembered something.
+Gyrgum was already moving for the stairs. He stopped, turned back. He'd remembered something.
 
 "When you talk to Alkrist, there's something in the list about what Alkrist burned at the feast — you should ask about that."
 
-I hadn't flagged that one. I had been working through the zone-of-truth timing, the dragonborn opening, when Kalan would arrive. The feast detail had been sitting there, unflagged. Grygum had read it.
+I hadn't flagged that one. I had been working through the zone-of-truth timing, the dragonborn opening, when Kalan would arrive. The feast detail had been sitting there, unflagged. Gyrgum had read it.
 
 "He apparently burnt something at the feast," came the confirmation. "That's what it says." A good catch. Filed.
 
-Three lines of inquiry. Three investigators. The work divided cleanly, cleaner than most things we attempted. Grygum heading upstairs for the physical evidence. Daz taking Sylvira while she still could be taken. Kalan being hunted so the Alkrist interview could be done properly, with something binding in the room.
+Three lines of inquiry. Three investigators. The work divided cleanly, cleaner than most things we attempted. Gyrgum heading upstairs for the physical evidence. Daz taking Sylvira while she still could be taken. Kalan being hunted so the Alkrist interview could be done properly, with something binding in the room.
 
 I stood in the space between all of it. Waiting. Watching.
 
 ---
 
-## Grygum — Investigations in Janussi's Chambers
+## Gyrgum — Investigations in Janussi's Chambers
 
 The others had Alkrist. That was enough hands for one interrogation.
 
@@ -14326,7 +14326,7 @@ She broke down. Not performance; it came from somewhere real and arrived without
 
 I let her have a moment and steered toward motive. What I was trying to understand, I said, was whether she was a target of convenience, someone easy to point at, or whether there was something more specific. A research proposal with enemies. Something she'd found and hadn't published yet.
 
-It was the blunter version of the same question: the one Grygum would have asked outright, if he weren't three floors up going through a dead man's love nest instead of sitting across from a fevered witness with me. *Is there a motive here.* No dressing on it. I let the shape of it sit under mine and asked anyway.
+It was the blunter version of the same question: the one Gyrgum would have asked outright, if he weren't three floors up going through a dead man's love nest instead of sitting across from a fevered witness with me. *Is there a motive here.* No dressing on it. I let the shape of it sit under mine and asked anyway.
 
 Sylvira looked at me, and I supplied the context she was quietly asking for. I'd recently come up from the Underdark, I said. Born and raised in the Overbright, but absent from it for some time. Which was, I realized, the most straightforwardly true thing I'd said in the entire conversation.
 
@@ -14346,7 +14346,7 @@ The timeline she gave was orderly despite the fever. Kalan Strongbranch had come
 
 The end-of-year meeting had been at 11:30 PM, and they'd spent most of it planning a new library dedicated to the Great Wheel of Planes: a joint vision that had clearly mattered enormously to both of them. It ended in an argument about a personal, private matter, she said. But she had *never*, she insisted, called him a genus traitor. The word "never" had a specificity that suggested she'd anticipated being asked, which was itself worth noting.
 
-The feast she described as the same drab affair it always was, right down to the dishes, and she'd left early when the flu began coming on. I still had one question queued from before the party split. Grygum had wanted to know whether she knew anything about Alkrist burning something at the feast. So I put it to her directly. She received it with the diplomatic silence of someone choosing not to comment on something they either hadn't witnessed or had already assessed as irrelevant.
+The feast she described as the same drab affair it always was, right down to the dishes, and she'd left early when the flu began coming on. I still had one question queued from before the party split. Gyrgum had wanted to know whether she knew anything about Alkrist burning something at the feast. So I put it to her directly. She received it with the diplomatic silence of someone choosing not to comment on something they either hadn't witnessed or had already assessed as irrelevant.
 
 Then she stopped mid-thought and doubled back to the question I'd asked a minute earlier. "Did you ask me if anyone saw me, after? I did sneak out. To visit my son." She had a son, born in the Abyss, living in a Mordenkainen's Mansion she'd constructed specifically for his protection. She'd been trying to coax him back into it.
 
@@ -14362,7 +14362,7 @@ She'd returned to her chambers around 12:30, she thought. "And what happened aft
 
 After 12:30, she came to her room and saw no one. Her son, it emerged, had infected her with an abyssal plague, born in the Abyss, which has consequences, and if anyone claimed to have seen her after that, she said with pointed precision, it would be members of the avowed who had long nurtured hostility toward her. Great Readers included. She named Teles Ahvoste directly.
 
-It was the sort of question Grygum liked to press: motive, stated plainly, before anything else got in the way of it. So I pressed it myself. What would Kalan's motive be?
+It was the sort of question Gyrgum liked to press: motive, stated plainly, before anything else got in the way of it. So I pressed it myself. What would Kalan's motive be?
 
 Sylvira's answer was the clearest thing she'd said. Teles had remained hostile toward Janussi for nearly twenty years, passed over for Keeper of Tomes despite being older than Janussi and generally considered the more skilled practitioner. "Jealousy is a powerful motivator," she said. "For revenge. Murder." Exact, the way she delivered it. A researcher naming a mechanism.
 
@@ -14380,7 +14380,7 @@ It was enough to work with.
 
 ---
 
-## Grygum — The Reassembled Evidence
+## Gyrgum — The Reassembled Evidence
 
 The chambers were quiet. Not library-quiet. The quiet of a room that had stopped being someone's.
 
@@ -14536,7 +14536,7 @@ We had what we needed.
 
 The confession had gone into the account, and there was nothing left to dispute. Alkrist had given us the accounting of it: A'lai as the one who set it in motion, himself as the hand that carried it out, and at least two others swept into his orbit. Kalan had been standing just outside through all of it, which meant the man who'd been fired now held a rather complete account.
 
-The inventory I ran was brief. We had a confession, a poisoned book reclaimed from Daral, Grygum's carefully reassembled wrapping paper, a note in Janussi's own hand found on the third floor. We had the zone of truth as a mechanism, which had worked without waste and which I would not pretend was anything other than what it was: a shortcut, and an elegant one.
+The inventory I ran was brief. We had a confession, a poisoned book reclaimed from Daral, Gyrgum's carefully reassembled wrapping paper, a note in Janussi's own hand found on the third floor. We had the zone of truth as a mechanism, which had worked without waste and which I would not pretend was anything other than what it was: a shortcut, and an elegant one.
 
 "I think we go to the guy that was fired," Thorin said. "Give it to him, let him clean house."
 
@@ -14548,7 +14548,7 @@ I had no serious objection. Kalan was the party who had been wronged, Kalan had 
 
 "Definitely helped put a bow on it. But we probably would have gotten there anyway — they all were looking pretty guilty."
 
-"It turns out they were all guilty, yes," Grygum said.
+"It turns out they were all guilty, yes," Gyrgum said.
 
 The observation was complete. I said nothing.
 
@@ -14562,7 +14562,7 @@ Kalan asked it, and it was the right question, and it had been sitting with me s
 
 "You have to clean up the mess, whoever's in charge, and all that, right?"
 
-And then Grygum, in the tone of a man introducing an agenda item: "We could always decide to blackmail one or more of them."
+And then Gyrgum, in the tone of a man introducing an agenda item: "We could always decide to blackmail one or more of them."
 
 I had been waiting for someone else to say it.
 
@@ -14572,7 +14572,7 @@ Books are valuable. We had earned something here. But I was already running a di
 
 "Right, and just to be clear — information that's very hard to come by, blackmail may be a way to get it."
 
-"True," Grygum said.
+"True," Gyrgum said.
 
 "A'lai, moreover, is a drow. He might have information that Daz needs."
 
@@ -14590,7 +14590,7 @@ The group's attention turned to Janussi, and the mood shifted in the way it does
 
 "Right, and not only do you decide to fire them, but you decide to trash somebody's research, tell somebody he's getting fired, tell somebody he has to cancel his research, right? All in the same day."
 
-"Well, it's clear he may have high intelligence, but not high wisdom," Grygum said.
+"Well, it's clear he may have high intelligence, but not high wisdom," Gyrgum said.
 
 The distinction is real. Intelligence tells you what the options are. Wisdom tells you which ones you survive. In Menzoberranzan, you do not get to accumulate that many enemies before the city resolves the problem for you, which is one of the less subtle things the city got right.
 
@@ -14598,11 +14598,11 @@ The distinction is real. Intelligence tells you what the options are. Wisdom tel
 
 "That's an angle you haven't checked. Maybe there were some budgetary pressures on Candlekeep."
 
-"Some RIFs planned?" Grygum said.
+"Some RIFs planned?" Gyrgum said.
 
 I appreciated the framing. File the assassination under *workforce restructuring*. Enter it in the column marked *organizational efficiency*. This is, I noticed, exactly the narrative A'lai would have constructed for himself, and had probably already constructed, somewhere in the months between deciding Janussi needed to die and watching us pull the whole account apart in an afternoon. The man who treats blackmail as a kind of career knows how to make his own history sound administrative.
 
-"In these murder mysteries," Grygum said, "you often find somebody who treats blackmail as a kind of career."
+"In these murder mysteries," Gyrgum said, "you often find somebody who treats blackmail as a kind of career."
 
 A drow scholar with Underdark connections, sitting inside a conspiracy that had just been exposed. The intersection didn't need forcing.
 
@@ -14661,7 +14661,7 @@ I said it flat, waited for the groan, and got about half of one. Bad joke. That'
 
 ---
 
-## Grygum — The Academic's Dilemma
+## Gyrgum — The Academic's Dilemma
 
 The evidence sat on the table between us. A confession. A heart. A cleaver. Three things, and I have opinions about the number three, though as it turned out I was about to have the number three explained to me by a man who had written a paper on it.
 
@@ -14947,7 +14947,7 @@ Kalan led us out. The potion of flying went with us, in the bag, in the ooze, an
 
 ---
 
-## Grygum — Waiting in Deneir's Sanctum
+## Gyrgum — Waiting in Deneir's Sanctum
 
 They put us in Deneir's office to wait out the evening. Bookshelves floor to ceiling, tables, the dry smell of old paper — a room built for people who read for a living, now doing duty as a cell. Under guard, of course. And Fembris Lancer was already in there, serving out his own punishment by keeping us company. That was the arrangement. His penance was us.
 
@@ -15027,9 +15027,9 @@ It was. Suits of plate with nobody inside, walking and — this was the part tha
 
 "So they're what happens when you take the statue away and all the armor is left?" I said. The glowing eyes settled it for me. "Yeah — no, I can totally see it. Okay."
 
-Then the first one went straight for Daz. Not for me, not for Grygum standing right in its path — for Daz. Behind us Daral was coming apart, saying it wasn't possible, these creatures can't be here, how could they. Fembris just stood in shock. I clocked both of them and put them out of my head. Panicking men are terrain you can't use.
+Then the first one went straight for Daz. Not for me, not for Gyrgum standing right in its path — for Daz. Behind us Daral was coming apart, saying it wasn't possible, these creatures can't be here, how could they. Fembris just stood in shock. I clocked both of them and put them out of my head. Panicking men are terrain you can't use.
 
-The third one shoved past Grygum like he wasn't there and reached for Daz's throat.
+The third one shoved past Gyrgum like he wasn't there and reached for Daz's throat.
 
 "What did I ever do? This seems—" Daz started.
 
@@ -15047,7 +15047,7 @@ One drifted over to Zalthir, who tried "Hello?" on it, the way you'd try a locke
 
 My turn. "Alright — let's go ahead and attack. With Dawnbringer." I brought her around and caught the one closest to me clean — a real bite, staggering it. Then the sword did its thing: the horror's movements went slow and sloppy, off-balance for its next swing. Sap, I call it. "This is good — let's do it again." When my follow-up nearly slid wide, I spent one of the tricks I keep in my back pocket and dragged the strike back on line. You hold a few of those and spend them when the geometry wants it, not before.
 
-Grygum stepped up and let go a burst of clean light that caught two of them at once, both flinching under it.
+Gyrgum stepped up and let go a burst of clean light that caught two of them at once, both flinching under it.
 
 Then the horror on Daz landed one square. I heard it before I saw it — a wall falling on a man. He was still standing, but only just.
 
@@ -15055,7 +15055,7 @@ Then the horror on Daz landed one square. I heard it before I saw it — a wall 
 
 "Ouch," Daz said. "I may drink a healing." Which is Daz's way of telling you he was one bad swing from the floor.
 
-Grygum didn't break stride. "Don't worry, I've got plenty of heal spells, buddy. If you get knocked out, I'll just heal you — you'll be back up in no time." A beat later: "I also have Revivify, so we're covered either way." Not the time to worry about going down. The time to cast magic.
+Gyrgum didn't break stride. "Don't worry, I've got plenty of heal spells, buddy. If you get knocked out, I'll just heal you — you'll be back up in no time." A beat later: "I also have Revivify, so we're covered either way." Not the time to worry about going down. The time to cast magic.
 
 By then Daz had worked out what these things wanted, and it wasn't him — it was the key in his pocket. A key that read as nothing under every spell we'd thrown at it. Dead. Inert. And three suits of murderous plate had come through the windows to die for it.
 
@@ -15065,11 +15065,11 @@ That's the part I wanted answered. "Grab one and beat the truth out of them," I 
 
 Of course. A killer with no mouth and no mind — whoever built these chose them precisely so there'd be nobody to squeeze afterward. I kept that. That's the kind of thing that tells you what you're really up against.
 
-Daz passed the key to Grygum and threw the last of what he had at the one he'd been burning — three darts of light, all home. And the horror turned on a coin and went for Grygum instead, reaching, missing, reaching, missing — Grygum kept his feet like the floor was the one thing he wasn't giving up.
+Daz passed the key to Gyrgum and threw the last of what he had at the one he'd been burning — three darts of light, all home. And the horror turned on a coin and went for Gyrgum instead, reaching, missing, reaching, missing — Gyrgum kept his feet like the floor was the one thing he wasn't giving up.
 
-Here's where the ground did the work for me. I stood where I stood. The giants taught me that before I could carry a shield — you don't chase, you position, and the ground under your feet says what your mouth doesn't need to. When the horror swung at Grygum instead of me, it handed me a free strike, and I took it — killed it mid-motion, before its second swing ever landed.
+Here's where the ground did the work for me. I stood where I stood. The giants taught me that before I could carry a shield — you don't chase, you position, and the ground under your feet says what your mouth doesn't need to. When the horror swung at Gyrgum instead of me, it handed me a free strike, and I took it — killed it mid-motion, before its second swing ever landed.
 
-Over the ringing, Grygum was already saying it: "Don't you worry, Daz. You're going to be fine. Totally fine."
+Over the ringing, Gyrgum was already saying it: "Don't you worry, Daz. You're going to be fine. Totally fine."
 
 Zalthir finished the one clamped in his grip — a heavy punch, and Glabbagool's last mouthful of acid to go with it. That left one. "If you're trying to hit him, you have advantage, because I grappled him," Zalthir said — held it still, gift-wrapped.
 
@@ -15079,7 +15079,7 @@ Quiet, then. Glass on the floor, dust settling, two dead heaps and one silent in
 
 "Is there any magic-y thing we can do to figure out who sent them?" I asked. Somebody built these, aimed them, and put them through the windows knowing exactly which pocket to reach for.
 
-Zalthir was already working it backward. When Grygum handed the key to Daz — who saw it? Fembris. Standing right there with the four of us. And the suits had gone straight for Daz, then straight for Grygum the second the key changed hands. They weren't following a face. They were following the key itself, sniffing it out through plate and pocket both.
+Zalthir was already working it backward. When Gyrgum handed the key to Daz — who saw it? Fembris. Standing right there with the four of us. And the suits had gone straight for Daz, then straight for Gyrgum the second the key changed hands. They weren't following a face. They were following the key itself, sniffing it out through plate and pocket both.
 
 I looked at the two heaps of dead metal and had one more idea, because a tool's a tool even when it's broken.
 
@@ -15097,21 +15097,21 @@ Daral Yashenti was pounding on the door and shouting to be let out. The door had
 
 "What do we do next, gentlemen?"
 
-"So we now suspect Fembris Lancer?" Grygum said.
+"So we now suspect Fembris Lancer?" Gyrgum said.
 
-We did. Fembris had watched the key pass from Grygum's hand to Daz's, and three constructs with no minds of their own had come through the windows knowing exactly which hand to look in. Mindless things don't know that. Somebody told them.
+We did. Fembris had watched the key pass from Gyrgum's hand to Daz's, and three constructs with no minds of their own had come through the windows knowing exactly which hand to look in. Mindless things don't know that. Somebody told them.
 
-But the key had been bothering me longer than Fembris had. We had cast Detect Magic on it once, days ago, and it had come up empty. Grygum was pulling the same thread out loud.
+But the key had been bothering me longer than Fembris had. We had cast Detect Magic on it once, days ago, and it had come up empty. Gyrgum was pulling the same thread out loud.
 
 "So we tried to detect magic on it, and it didn't read as magical? Makes me wonder if it's actually the right key."
 
 Then he remembered how Kalan Strongbranch had phrased the handoff. *I have given it now to someone who is not me.*
 
-"Someone who is not me. Yeah, that's a weird phrasing," Grygum said. "And I guess it could be a hot-potato thing. Bad things come to whoever's holding the key when something happens."
+"Someone who is not me. Yeah, that's a weird phrasing," Gyrgum said. "And I guess it could be a hot-potato thing. Bad things come to whoever's holding the key when something happens."
 
 He said it lightly. It wasn't light. A man who hands you a thing and describes the transaction instead of the thing has already thought about who gets blamed for it.
 
-Grygum held the key out to Daral. "Does this look like the key? Does anything about it look off? The key to the tower?"
+Gyrgum held the key out to Daral. "Does this look like the key? Does anything about it look off? The key to the tower?"
 
 Daral turned it over, pensive. "Well, I'm not a locksmith, so I couldn't tell you for sure."
 
@@ -15121,7 +15121,7 @@ Daral turned it over, pensive. "Well, I'm not a locksmith, so I couldn't tell yo
 
 "But this key isn't magical. Go ahead and examine it. Try detect magic on it. We didn't succeed."
 
-Daral produced a scroll from a pocket. Every scholar in this keep apparently carries one, the way a sailor carries a knife. He read it, and the room answered. Dawnbringer lit. Grygum's armor blinked awake. Daral himself glowed brightest of all, still carrying whatever the sword had poured into him with the cure.
+Daral produced a scroll from a pocket. Every scholar in this keep apparently carries one, the way a sailor carries a knife. He read it, and the room answered. Dawnbringer lit. Gyrgum's armor blinked awake. Daral himself glowed brightest of all, still carrying whatever the sword had poured into him with the cure.
 
 The key sat in the middle of all that light and stayed dark.
 
@@ -15133,7 +15133,7 @@ Then a bell began to toll somewhere above us, and it was tolling wrong. Not the 
 
 "What does that mean?" Thorin asked.
 
-"Anybody needs to change the battery?" Grygum said.
+"Anybody needs to change the battery?" Gyrgum said.
 
 Nobody laughed. Somebody came through the ruined doorway at a run instead.
 
@@ -15143,7 +15143,7 @@ Bookwyrm was dead.
 
 "Bookwyrm is dead."
 
-A false key in Grygum's hand, an alarm in the air, and the First Reader's throat opened somewhere above us, all in the same quarter hour. I have never once seen three things arrive together and turn out to be three things.
+A false key in Gyrgum's hand, an alarm in the air, and the First Reader's throat opened somewhere above us, all in the same quarter hour. I have never once seen three things arrive together and turn out to be three things.
 
 I watched the door and waited to see what came through it next.
 
@@ -15155,25 +15155,25 @@ The messenger got the name out between breaths: Bookwyrm. The First Reader. The 
 
 "How did it happen?" I asked.
 
-"Who killed him?" Grygum asked, and was corrected: her. "Who killed her?"
+"Who killed him?" Gyrgum asked, and was corrected: her. "Who killed her?"
 
-Her throat had been torn. Torn, not cut. That distinction did most of the work for me before we ever reached the office. And when Grygum asked whether she still had her heart, the answer came back yes. Present. Intact. Not beating, but exactly where it belonged. Janussi's heart had been removed with instruments and intent. Bookwyrm's killer hadn't wanted her heart. Different hands. Different purposes. I sorted the two murders into separate columns then and there, and nothing I saw afterward moved them back together.
+Her throat had been torn. Torn, not cut. That distinction did most of the work for me before we ever reached the office. And when Gyrgum asked whether she still had her heart, the answer came back yes. Present. Intact. Not beating, but exactly where it belonged. Janussi's heart had been removed with instruments and intent. Bookwyrm's killer hadn't wanted her heart. Different hands. Different purposes. I sorted the two murders into separate columns then and there, and nothing I saw afterward moved them back together.
 
 The messenger was close to hysterics. These crimes don't happen in Candlekeep, he kept insisting.
 
 "Well, reality disagrees," Thorin said.
 
-"I feel like we've done a poor job of serving and protecting here," Grygum said.
+"I feel like we've done a poor job of serving and protecting here," Gyrgum said.
 
 Fembris Lancer and Daral Yashenti brought us up to her office. The room was a ruin, and the ruin was informative. She was an eighteenth-level magic user at rest in her own tower, a woman whose ninth-level slots probably held Validate Citation and Identify False Citation rather than anything that stops claws. Whoever came for her knew she would be relaxed, knew she would be confident, and knew exactly how little of her power was pointed at the door. You don't get that from luck. You get it from information, and information is a thing somebody sells you.
 
 On the desk, in her own hand, a note stopped mid-sentence. *He is using the beast to—*
 
-Grygum read it aloud and asked Daral what the beast was. Daral had no idea what the beast was.
+Gyrgum read it aloud and asked Daral what the beast was. Daral had no idea what the beast was.
 
 I reached for what I know. I reach the way I was trained to, top of the mind, no ceremony. Nothing came. Worse than nothing: the fog behind my eyes, the pressure that has been building for days, sat on the reach and smothered it. *Are you fucking kidding me.*
 
-Grygum offered a hand. I took it, and on the second pass everything came up clean at once. The wards over Candlekeep were wrong. The pressure of them, the weight that is supposed to sit evenly over the whole keep, wasn't sitting evenly. Something was broken.
+Gyrgum offered a hand. I took it, and on the second pass everything came up clean at once. The wards over Candlekeep were wrong. The pressure of them, the weight that is supposed to sit evenly over the whole keep, wasn't sitting evenly. Something was broken.
 
 "Oh," I said. "Like somebody hacked the firewall and opened another port."
 
@@ -15191,9 +15191,9 @@ I let him have the point and made mine. The two killings were not the same hand.
 
 The madness of the Abyss. The same madness we have been wading through since Velkynvelve, and here it was ahead of us again, wearing somebody's son.
 
-Daral explained the keep's defenses then: a great shield that keeps anyone from teleporting in or out. I already knew something was wrong with it. "Are we sure the teleport protection is working? Something feels off to me." Daral found the question inconceivable. Grygum, who has spent as many years in information security as I have, explained that inconceivable things happen several times a day, and asked him, politely, to check.
+Daral explained the keep's defenses then: a great shield that keeps anyone from teleporting in or out. I already knew something was wrong with it. "Are we sure the teleport protection is working? Something feels off to me." Daral found the question inconceivable. Gyrgum, who has spent as many years in information security as I have, explained that inconceivable things happen several times a day, and asked him, politely, to check.
 
-The check turned out to cost a candle's worth of magic. Fire doesn't work in Candlekeep. Grygum put Thaumaturgy to a scrap of paper: the flame erupted, touched, and evaporated in the same instant. A burning bush, Daral called it. Same ward, same effect. And the ward, Daral realized as he said it, lives in one room. The room locked by the two high tower keys.
+The check turned out to cost a candle's worth of magic. Fire doesn't work in Candlekeep. Gyrgum put Thaumaturgy to a scrap of paper: the flame erupted, touched, and evaporated in the same instant. A burning bush, Daral called it. Same ward, same effect. And the ward, Daral realized as he said it, lives in one room. The room locked by the two high tower keys.
 
 So the accounting finally closed. The room the keys open protects everything else. Bookwyrm had been first into Janussi's chamber; she took his heart and she took his key. Whoever wanted the keys tore her throat out for hers, and sent three suits of empty armor after mine, which was never real. That left Kalan's, and Kalan's key was wherever Kalan was.
 
@@ -15205,7 +15205,7 @@ All three, I thought. In whatever order we find him.
 
 ---
 
-## Grygum — Racing to the Sea Warden's Tower
+## Gyrgum — Racing to the Sea Warden's Tower
 
 The second key was Kalan's problem, and Kalan was not at his post. He had told us he wouldn't be. *If I don't see you tomorrow, do not look for me at my post.* Daz remembered the line, and Daral supplied the destination: the Sea Warden's Tower, down among the other Watchers, rallying them, probably with drink.
 
@@ -15227,7 +15227,7 @@ I noted that one for the column marked *things the wise don't put on the brochur
 
 We ran. The halls of Candlekeep went by faster than legs should carry anyone, walls smearing past, and I chose not to interrogate it. In this place, magic is infrastructure. You use the road; you don't ask who laid the stones.
 
-Kalan was buckling on his armor as we arrived, already coming toward us at a half-run. "Grygum, Daz, I heard the bell. Is everything okay?"
+Kalan was buckling on his armor as we arrived, already coming toward us at a half-run. "Gyrgum, Daz, I heard the bell. Is everything okay?"
 
 "Uh, no. Bookwyrm is dead."
 
@@ -15289,7 +15289,7 @@ He stopped. Put a hand over his chest. "On my honor."
 
 "And the other one wasn't?"
 
-Grygum went off like a rockslide behind me, laughing his whole chest out. I'll say this for the line: it was true, it was fair, and it was funny, and you don't often get all three in one swing. But Tadric was somewhere ahead with something coming for him, and being right is not the same as being there.
+Gyrgum went off like a rockslide behind me, laughing his whole chest out. I'll say this for the line: it was true, it was fair, and it was funny, and you don't often get all three in one swing. But Tadric was somewhere ahead with something coming for him, and being right is not the same as being there.
 
 "Okay, wait, never mind. Let's go. We run. We can argue about this later."
 
@@ -15325,7 +15325,7 @@ The creature had beaten us here. It was on Tadric, had him grappled to the floor
 
 The dome opened above us and the fiend was under it, already at work. Massive. Abyssal. It had Tadric grappled flat and was opening him with its claws, patient about it, the way something works when it believes it has all the time it needs.
 
-"So if we have to prioritize the man or Tadric, we're going to have to make a choice," Grygum said. That is Grygum saying the hard thing plainly so no one can pretend later that it went unsaid.
+"So if we have to prioritize the man or Tadric, we're going to have to make a choice," Gyrgum said. That is Gyrgum saying the hard thing plainly so no one can pretend later that it went unsaid.
 
 I said nothing. I was watching the fiend, and the fiend was not watching us. It hadn't looked up. It was still busy with its kill, certain of its evening. The Garden Shadow used to say, or possibly Brother Ollun did, that the most dangerous thing in a room is not the one with the blade drawn; it is the one that has already decided it has won. The saying works in the other direction too. A thing that has already decided it has won has stopped watching the door.
 
@@ -15335,7 +15335,7 @@ Thorin reached it first. The dwarf who never wins a footrace won this one: he cl
 
 Two strikes landed. Then he found more inside himself and struck a third time, and I watched him sap something out of the fiend's balance as it hit. Then he did the thing I have stopped being surprised by: he made himself the problem. A display of focused violence, aimed straight into the creature's attention, and the fiend, a pit fiend, flinched. Recoiled. It could not bring itself to advance on him.
 
-Grygum had told him you can't frighten a pit fiend. Thorin had asked if he'd like to see him try. That question was now settled.
+Gyrgum had told him you can't frighten a pit fiend. Thorin had asked if he'd like to see him try. That question was now settled.
 
 Frightened, staggered, and facing the wrong way. I don't get better openings than that, and I don't waste the ones I get.
 
@@ -15345,23 +15345,23 @@ Forty-five feet of floor is nothing to me. I crossed it before the fiend registe
 
 "Even better than frightened," Thorin said.
 
-"He's not just stunned, he's stunning," Grygum said. I let that one go by.
+"He's not just stunned, he's stunning," Gyrgum said. I let that one go by.
 
 It was better than frightened. A frightened thing still thinks. A stunned thing is done thinking until further notice. I spent two more breaths and struck it twice while it stood there, unable to guard, unable to answer, and both landed heavy enough that I felt the fight go out of the meat of it. The combat drills were the one curriculum I attended in full. This is what they were for.
 
 I stepped back and let the others work.
 
-Grygum swung wide so the bolt wouldn't catch any of us and hurled his javelin, the lightning one he'd been saving. It hummed past the fiend's shoulder and hit nothing. "That missed. Fuck."
+Gyrgum swung wide so the bolt wouldn't catch any of us and hurled his javelin, the lightning one he'd been saving. It hummed past the fiend's shoulder and hit nothing. "That missed. Fuck."
 
 Daz declined to spend anything precious on a thing immune to fire. Three darts of plain force, first level, unerring, while he held the rest of himself in reserve. He does not decorate a finished fight.
 
 Thorin finished it. One clean strike, and then a second that arrived as a killing thing, and the fiend stopped being a creature and became weight. It went down and stayed down.
 
-"Really?" Grygum said. "I expected this guy to be a lot tougher."
+"Really?" Gyrgum said. "I expected this guy to be a lot tougher."
 
 He hadn't seen it from close in. The fiend had come with exactly one plan: kill the boy, take the key, disengage, fly. One attack was all it needed, and it never got one. We took its entire turn away before it could spend it. That is not the fight being easy. That is the fight being over before the other side arrives at it.
 
-Grygum knelt over Tadric and closed him back up, the blood slowing and then stopping under his hands. The boy came around grabbing for the key before his eyes had finished focusing. Then he saw what was lying next to him and went still.
+Gyrgum knelt over Tadric and closed him back up, the blood slowing and then stopping under his hands. The boy came around grabbing for the key before his eyes had finished focusing. Then he saw what was lying next to him and went still.
 
 "Moziqodo," he said. "Sylvira Savikas's son." And then, quiet and cracked: "Is Kalan alive?"
 
@@ -15377,7 +15377,7 @@ A'lai Aivenmore had the key torn off Bookwyrm, and he was almost certainly sitti
 
 I looked down at the thing we'd stopped. If it had gotten its one swing in, Tadric would be dead and the key would be in the air. Disengage and fly: cut the thread, lift off, gone through the dark before any of us crossed the floor. That was its whole plan, and the plan was good. We didn't beat it because we were smarter. We beat it because we hit first, all four of us, and didn't stop until there was nothing left to hit. Not only did we keep him from fleeing, we saved Tadric. Held the position and kept the prize on the board. Giants would call that a full day's work.
 
-Tadric sat in the wreckage with the key in his fist and the color coming back into him where Grygum's healing had closed the gashes. He asked what had happened here, and the others looked at me to do the telling. Fine by me. "He seems like a bit player in this drama, so I figure we might as well tell him what's going on." The kid nearly died carrying a thing nobody named for him. He'd earned the naming. Radical transparency's cheaper than managing a man's ignorance anyway.
+Tadric sat in the wreckage with the key in his fist and the color coming back into him where Gyrgum's healing had closed the gashes. He asked what had happened here, and the others looked at me to do the telling. Fine by me. "He seems like a bit player in this drama, so I figure we might as well tell him what's going on." The kid nearly died carrying a thing nobody named for him. He'd earned the naming. Radical transparency's cheaper than managing a man's ignorance anyway.
 
 He took it about as well as you'd take it. Then: "Is Kalan alive?"
 
@@ -15385,13 +15385,13 @@ He took it about as well as you'd take it. Then: "Is Kalan alive?"
 
 And somewhere in there it came, the quiet knock inside the chest that means you've crossed some threshold you didn't notice crossing. Not a blow. Worth specifying, given the evening. Just the other kind of arrival, the one that settles into your arms and shoulders and says you're more than you were this morning. I gave Zalthir grief about leveling up without doing the work, which was a lie, since he'd done half the killing, and he knew I knew it, which is what made it funny. Nobody marked the moment beyond that. We don't.
 
-Then Grygum found the fun in the situation, the way he does once the bleeding stops.
+Then Gyrgum found the fun in the situation, the way he does once the bleeding stops.
 
 "What fun. We've got one real key and one fake key. Anybody who doesn't know we have a fake key, we can fake them out with it somehow."
 
 "And eventually, whoever has the real key is going to wonder how we're claiming to have two," Daz said.
 
-"I'm going to ferret him out," Grygum said. "Him, or her. Or they. Or it."
+"I'm going to ferret him out," Gyrgum said. "Him, or her. Or they. Or it."
 
 So I laid the ground out where I could see it. A'lai in the High Tower with one real key, expecting a dead demon to deliver the other. Us with the real second key, plus Kalan's decoy, which isn't the key but is one to anybody who can't tell the difference. He doesn't know his courier is dead. He doesn't know what we're holding. Every hour he waits, the terrain gets better for us, and he's the only one in the keep who doesn't know it.
 

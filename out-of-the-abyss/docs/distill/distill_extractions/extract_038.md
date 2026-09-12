@@ -17,13 +17,13 @@
 **Pelek**
 - Current state: Deceased; ghost now permanently at rest
 - Recent actions: Materialized before Glyphic Shroomlight in the catacombs; expressed relief and gratitude before fading away
-- Notes: Was killed by Buppido; bones were carried by Grygum; ghost had feared being lost and tormenting people for eternity; spirit faded after bones were properly interred
+- Notes: Was killed by Buppido; bones were carried by Gyrgum; ghost had feared being lost and tormenting people for eternity; spirit faded after bones were properly interred
 
 **Buppido**
 - Not present in this session
 - Referenced as the individual who killed Pelek
 
-**Grygum**
+**Gyrgum**
 - Current location: Blingdenstone (Trader's Grotto, after catacombs)
 - Current state: Active, party member
 - Recent actions: Carried Pelek's bones to the catacombs; performed a dragon-themed burial ritual, planting a gold coin as a symbolic foundation; channeled divine necrotic energy against gelatinous cubes in the Trader's Grotto
@@ -110,7 +110,7 @@
 - Chief Dorbo and Senni argued in Diggermattock Hall over the ooze infestation and its impact on mining and housing; Dorbo agreed to help the party only after the ooze threat is resolved.
 - The party located the Temple of the Ruby in the Rough and its priest, Glyphic Shroomlight, with the help of a guard.
 - Glyphic Shroomlight initially refused to inter Pelek's bones but reversed his decision when Pelek's ghost manifested in front of him.
-- Grygum interred Pelek's bones in the catacombs below the temple, performing a dragon-themed ritual and planting a gold coin.
+- Gyrgum interred Pelek's bones in the catacombs below the temple, performing a dragon-themed ritual and planting a gold coin.
 - Pelek's ghost expressed relief and gratitude, then faded away permanently.
 - The ghost of Borough Warden Jadgar appeared in the catacombs immediately after Pelek's departure.
 - Jadgar offered the party a deal: one answered question per ghost they put to rest.
@@ -121,7 +121,7 @@
 - A sergeant guided the party through the Trader's Grotto and explained the history of the petrified fungi.
 - Several non-sentient gelatinous cubes emerged from the rocks in the Trader's Grotto, causing a mass panic among merchants and gnomes.
 - Gnomes accused Glabbagool; he protested and advised the party on combat tactics against the cubes.
-- Zalthir, Thorin, Grygum, and Daz engaged the gelatinous cubes; Daz destroyed one cube entirely with fire and severely damaged the others.
+- Zalthir, Thorin, Gyrgum, and Daz engaged the gelatinous cubes; Daz destroyed one cube entirely with fire and severely damaged the others.
 - Zalthir activated his eldritch claw tattoo, growing tentacles; Glabbagool asked if he was an ooze; Zalthir said he was an aspiring ooze.
 - Zalthir delivered the killing blow to the final gelatinous cube; Thorin complained he wanted to do so.
 
@@ -143,7 +143,7 @@
 
 **Catacombs (below Temple of the Ruby in the Rough), Blingdenstone**
 - What it is: Underground burial catacombs beneath the temple
-- What happened: Grygum interred Pelek's bones; Pelek's ghost faded to rest; Jadgar's ghost appeared and made a deal with the party
+- What happened: Gyrgum interred Pelek's bones; Pelek's ghost faded to rest; Jadgar's ghost appeared and made a deal with the party
 
 **Trader's Grotto, Blingdenstone**
 - What it is: Blingdenstone's central market; a cavern where fungi were petrified by a medusa's spell centuries ago; merchants have set up stalls among the petrified fungi; caravans deliver goods to warehouses carved beneath the grotto

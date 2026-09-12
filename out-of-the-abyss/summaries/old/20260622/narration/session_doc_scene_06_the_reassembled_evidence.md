@@ -1,7 +1,7 @@
 ---
 scene: 06
 slug: the_reassembled_evidence
-narrator: Grygum
+narrator: Gyrgum
 scene_name: The Reassembled Evidence
 session: 20260622
 ---

@@ -9,7 +9,7 @@ Focus: Zalthir is the one who ends Asha when no one else will act decisively, st
 <!-- Declaring herself in charge after surviving the chaos -->
 Asha: "Excellent! Now that I am in charge!"
 
-<!-- After Grygum's Guiding Bolt misses her -->
+<!-- After Gyrgum's Guiding Bolt misses her -->
 Asha: "I am blessed by Lolth!"
 
 - Thorin moves to intercept Asha, successfully grappling her and covering her mouth to silence her commands.
@@ -38,12 +38,12 @@ Drow: "Of course. And that is precisely the problem."
 <!-- Defending himself -->
 Thorin: "I don't like killing people if I don't have to. I mean, you know..."
 
-- Grygum attempts to strike Asha with a guiding bolt but misses as she proclaims divine protection.
+- Gyrgum attempts to strike Asha with a guiding bolt but misses as she proclaims divine protection.
 <!-- Reacting to Asha's condescension -->
-Grygum: "I certainly don't like condescension, regardless of—oh."
+Gyrgum: "I certainly don't like condescension, regardless of—oh."
 
 <!-- Quietly, after Asha declares herself in charge -->
-Grygum: "Let's put a period after that 'now that I'm in charge' thing."
+Gyrgum: "Let's put a period after that 'now that I'm in charge' thing."
 
 - Zalthir decides to end the threat permanently, unleashing a flurry of strikes and tentacle attacks that kill Asha Vandree.
 

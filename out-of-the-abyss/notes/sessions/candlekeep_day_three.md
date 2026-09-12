@@ -112,7 +112,7 @@ Encourage the party to split or rotate.
   Broken Mirror** at the Sea Warden's Tower. Shared-silence
   beat at the Pont de Paramours. **Bone-King phrase available.**
   Most peaceful 10 minutes the party has had in months.
-- **Grygum / Vareth.** **Stations 5–8 of the Stroud Wake** at
+- **Gyrgum / Vareth.** **Stations 5–8 of the Stroud Wake** at
   Immortal Chambers (Pizwog at 1 mph). **Optional Drakonoikos
   detour for Station 9** — Alkrist works at Drakonoikos; Vareth
   notices him watching the party. *"Strange."*
@@ -265,7 +265,7 @@ pure crisis.
   DC 20** (18 with framing) available.
 - **Zalthir/Khell-Vire** — closing letter sealed in front of
   Zalthir.
-- **Grygum/Vareth** — Stations 9–10 + the unsigned sting.
+- **Gyrgum/Vareth** — Stations 9–10 + the unsigned sting.
 - **Thorin/Philemon** — prescription delivered; sealed letter
   banked if Path C.
 
@@ -325,7 +325,7 @@ mechanical effect.
 - **Daz:** Vaelissa T'sarran's face for half a second.
 - **Zalthir:** Jimjar's voice — *"I am sorry I had to leave you."*
 - **Thorin:** Brysis's hand on the back of his neck.
-- **Grygum:** ⭐ **Bahamut absent.** Negative space. Returns when the wave passes.
+- **Gyrgum:** ⭐ **Bahamut absent.** Negative space. Returns when the wave passes.
 - **Glabbagool:** *"Mother. Mother. Mother."*
 - **Sylvira (Path B):** *"It will get worse before it gets better. We are running."*
 
@@ -402,7 +402,7 @@ End Session 6.
 | Polly Pocket | Final disposition — Bell Tower cells (held under partial wards), in bag (with Glabbagool), or released as messenger. **Bell Tower cells are vulnerable to Manshoon's raiders.** |
 | The good-choice ledger | Tally before Session 7 starts. See arc file Session 7 Beat 0. |
 | Sealed letters | Yvenne's, Khell-Vire's, Philemon's (Path C only), Vareth's all in PC packs. |
-| Trophies claimed so far | Empty cutout scroll-tube (Daz); Daz's Calishite cloak; Dawnbringer's polished scabbard; Grygum's hagiography; Zalthir's brass shadow-puppet hand; Daggerford rubbing of the six-pointed star (Joe); Janussi's lead locket (probably Joe); Bookwyrm's First Reader pendant (probably Joe); Kalan's Gatewarden pin; possibly Iron Bands fragment / A'lai vestment / Moziqodo hex-rune scar. |
+| Trophies claimed so far | Empty cutout scroll-tube (Daz); Daz's Calishite cloak; Dawnbringer's polished scabbard; Gyrgum's hagiography; Zalthir's brass shadow-puppet hand; Daggerford rubbing of the six-pointed star (Joe); Janussi's lead locket (probably Joe); Bookwyrm's First Reader pendant (probably Joe); Kalan's Gatewarden pin; possibly Iron Bands fragment / A'lai vestment / Moziqodo hex-rune scar. |
 
 **Note:** Day 4 (`candlekeep_day_four.md`) opens with the
 party in the Investigators' Office at dawn, allies arriving for

@@ -15,7 +15,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 
 ## History with the Party
 - Met the party as a fellow prisoner at Velkynvelve.
-- Approached Grygum hoping to find a cleric of Gruumsh who could grant him absolution, but was disappointed to learn Grygum serves Bahamut instead.
+- Approached Gyrgum hoping to find a cleric of Gruumsh who could grant him absolution, but was disappointed to learn Gyrgum serves Bahamut instead.
 - Was mocked by Eldeth for the orcish defeat at Gauntlygrym.
 - Buppido suggested using Runc as a sacrificial distraction during an escape attempt.
 
@@ -25,7 +25,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Hidden information:** None noted beyond what the party has observed.
 
 ## Relationships
-- **Grygum:** Sought him out for spiritual guidance but was let down by the mismatch in faith (Bahamut vs. Gruumsh).
+- **Gyrgum:** Sought him out for spiritual guidance but was let down by the mismatch in faith (Bahamut vs. Gruumsh).
 - **Eldeth:** Hostile dynamic; she taunted him over the orcish loss at Gauntlygrym.
 - **Buppido:** Views Runc as disposable — proposed using him as a sacrificial distraction.
 

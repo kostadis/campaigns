@@ -21,7 +21,7 @@ Review periodically and promote into NPC dossiers / world notes / mempalace as a
 - **Overbright** / **Overbrite** — Underdark slang for the surface world; both spellings canonical (extends the 2026-05-02 entry above) — 2026-05-04
 - **Kraken under the keep** — Field Ward street-preacher's chant; surface-madness tell, plant for Candlekeep arc (Travelogue Episode 5) — 2026-05-04
 - **Whistlerites / Miloites / Protanthians** — fan-factions arguing in Rishaal's bookshop over Whistler's redemption arc and Volume-2 timing inconsistencies — 2026-05-04
-- **Dragon Apocalypse** — Ben/Grygum's coined phrase for the War of the Dragons — 2026-05-04
+- **Dragon Apocalypse** — Ben/Gyrgum's coined phrase for the War of the Dragons — 2026-05-04
 
 ### First-Faction NPCs and titles (canonical, no dossier yet)
 - **Whistler** — kenku of the First Faction; flying, black hoodie, mute; aliases Ardragon (Black Network), Shadow Werebear (lycanthrope myth) — 2026-05-04
@@ -42,7 +42,7 @@ Review periodically and promote into NPC dossiers / world notes / mempalace as a
 - **Concordant Order** — metallic-dragon-aligned chivalric order arising from the Council of Waterdeep — 2026-05-04
 - **Order of the Gauntlet** — canonical FR faction; Milo is a lay-saint here; Sea Ward chapter house — 2026-05-04
 - **Lord's Alliance** — canonical FR faction; couriers carry rebuild-permits — 2026-05-04
-- **Stroudite** — half-orc Bahamut converts; small clerical tradition emerging in Stroud's wake; Grygum is one of four documented — 2026-05-04
+- **Stroudite** — half-orc Bahamut converts; small clerical tradition emerging in Stroud's wake; Gyrgum is one of four documented — 2026-05-04
 - **Pageturner** — Rishaal's bookshop (Castle Ward, Waterdeep) — 2026-05-04
 - **Black Network** — Zhentarim alias used in Whistler/Ardragon legends — 2026-05-04
 - **Bahamutian** — adjectival form for the Bahamut-school philosophical position; "the Bahamutian hypothesis" — 2026-05-04
@@ -99,7 +99,7 @@ Daggerford  — FR town between Waterdeep and Candlekeep; mentioned re: paladin 
 - **Black Hood** — Field Ward kraken-chant: "The chorus repeats as Black Hood, and after she's done." — Candlekeep/Beregost surface-madness chant — 2026-05-16 (chapter 51)
 - **Dodd Breeder** — NPC; "Dodd Breeder doesn't like the dark" — 2026-05-16 (chapter 51)
 - **Horizon** — Candlekeep location: "He is summoned in Horizon, the Arcanium, and declares, The bell tower has cells!" — 2026-05-16 (chapter 51)
-2026-05-18  Grygumite School  — new in-fiction philosophical school (parallel to Stroudite/Bahamutian); named for PC Grygum; introduced in Candlekeep arc 20260518
+2026-05-18  Gyrgumite School  — new in-fiction philosophical school (parallel to Stroudite/Bahamutian); named for PC Gyrgum; introduced in Candlekeep arc 20260518
 
 - **Daral Yashenti** — NPC; full name (Candlekeep murder-mystery arc): "Oh, that'll be Daral Yashenti. Those two have been at each other's throats…" — 2026-06-01
 - **Queenie** — NPC, speaks (Candlekeep murder-mystery arc): "Queenie says, There have been too little… Tickles and too many questions." — 2026-06-01

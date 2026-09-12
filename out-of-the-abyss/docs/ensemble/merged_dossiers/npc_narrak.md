@@ -12,7 +12,7 @@ chapters: 23-26
 **Allegiance/faction:** High priest and cult leader of Demogorgon; leader of the Derro cult  
 **Current possessions / notable items, spells, feats, wounds:**  
 - Last known to be reading *The Rituals of the Two-Headed Beast*  
-- Used a white feather to cast *fear* on Thorin, Grygum, and Zalthir  
+- Used a white feather to cast *fear* on Thorin, Gyrgum, and Zalthir  
 - Subject to *Maximilian’s Earthen Grasp* at time of death (restrained)  
 - No other items or spells currently active  
 

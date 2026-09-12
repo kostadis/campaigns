@@ -29,12 +29,12 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 - **Secondary concern**: `world_state.md` places Tadric "hand-holding the failing ward lattice" — i.e. at his post, not in the High Tower. The recap placing his token on the High Tower battle map is not contradicted by canon, but is worth confirming.
 - **Suggested fix**: Leave the title. Optionally note where Tadric is stationed, since the ward-lattice duty and the High Tower map placement may need reconciling.
 
-## 4. Key custody — "Thorin" vs. "Grygum" is correctly self-corrected, but the second-key holder is stated inconsistently
+## 4. Key custody — "Thorin" vs. "Gyrgum" is correctly self-corrected, but the second-key holder is stated inconsistently
 
-- **Location**: Scene summary bullet 1 ("quietly passed to Zalthir"); Verbatim (GM: "Thorin quietly slipped the key of Zalthir…" then "No, no, that was a typo. Grygum quietly slipped the key to Zalthir").
+- **Location**: Scene summary bullet 1 ("quietly passed to Zalthir"); Verbatim (GM: "Thorin quietly slipped the key of Zalthir…" then "No, no, that was a typo. Gyrgum quietly slipped the key to Zalthir").
 - **Issue**: The transcript's self-correction is accurately captured, and the recap correctly follows the corrected version. However, the summary bullet omits **who** passed it, which loses the correction. Also, "passed to Zalthir and then tucked away inside Glabbagool" is consistent with canon only because Glabbagool is bonded to Zalthir's forearm — worth making explicit so a future reader doesn't read "Zalthir holds a key" as a standing inventory fact.
 - **Evidence**: `campaign_state.md` "Key resources & assets held": "**Glabbagool: A'lai's second real High Tower key**, hidden inside him." `world_state.md` and `party.md` agree the key is inside Glabbagool, not carried by Zalthir. `world_state.md`: Glabbagool is "**Bonded to Zalthir's left forearm**."
-- **Suggested fix**: Rewrite bullet 1 as: "Grygum quietly passed A'lai's High Tower key to Zalthir, who stored it inside Glabbagool (bonded to his forearm) for safekeeping."
+- **Suggested fix**: Rewrite bullet 1 as: "Gyrgum quietly passed A'lai's High Tower key to Zalthir, who stored it inside Glabbagool (bonded to his forearm) for safekeeping."
 
 ## 5. "the gelatinous cube standing just a little bit taller" — Glabbagool is no longer a gelatinous cube
 
@@ -45,9 +45,9 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 
 ## 6. "Not worth the price of the bullet" — anachronism, correctly caught at the table
 
-- **Location**: Scene summary bullet 10; Verbatim (Grygum).
+- **Location**: Scene summary bullet 10; Verbatim (Gyrgum).
 - **Issue**: No error — the recap already records the in-table correction to "not worth the spell slot." Flagged only so a future extraction pass does not promote the bullet line into canon phrasing.
-- **Evidence**: Verbatim transcript shows Grygum immediately supplying "spell slot" and the GM confirming.
+- **Evidence**: Verbatim transcript shows Gyrgum immediately supplying "spell slot" and the GM confirming.
 - **Suggested fix**: None required. Consider dropping the bullet's first clause and keeping only the corrected line.
 
 ## 7. "He sent a courier 11 years" — the eleven years is canon; the courier detail is partially garbled
@@ -104,7 +104,7 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 ## Clean — no issues found
 
 - **A'lai Aivenmore** — spelling matches canon (`entity_registry.yaml`: `A'lai Aivenmore`, aliases `A'lai`, `Aivenmore`). Status as captured/bound and despairing matches `campaign_state.md`.
-- **Zalthir, Grygum, Thorin, Daz** — all PC names correct per canon.
+- **Zalthir, Gyrgum, Thorin, Daz** — all PC names correct per canon.
 - **Glabbagool** — spelling correct.
 - **Manshoon** — spelling correct.
 - **Wall of force / shattered door** — matches `world_state.md` ("shattering the magical door that the two High Tower keys were meant to protect") and `campaign_state.md` ("shattered the security-control-room door with a `wall of force`").
@@ -122,12 +122,12 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 - **Evidence**: `world_state.md` §4 Locations: "**Candlekeep Prison** — nullifies all spellcasting; A'lai is desperate to be put in it." `campaign_state.md` similarly says "magic-nullifying cell." The AUTHORITATIVE CANON registry has no "prism" entity; it lists no null-magic location at all. `20260810_race_to_the_vile_door.md` uses "the null cell" / "null cells" throughout. "Prism" appears to be a VTT mishearing of "prison" that has been preserved verbatim (correctly) but then propagated into paraphrase.
 - **Suggested fix**: Keep "prism" inside verbatim quotes, but add a bracketed note — *(VTT: "prism"; canonical term is Candlekeep's magic-nullifying prison / null cells)* — and use "null magic prison" consistently in all non-verbatim prose. Consider adding `prism → prison` to `vtt_transcription_corrections.md`.
 
-## 2. Scene summary — Grygum credited with Tadric's persuasion
+## 2. Scene summary — Gyrgum credited with Tadric's persuasion
 
 - **Location**: Scene summary, bullet 6 ("Thorin appeals to Tadric, invoking the party's deputization by Kalan Strongbranch...").
-- **Issue**: The bullet attributes the appeal to **Thorin**, but the quoted speech that follows is **Grygum's**, and the verbatim block confirms it. The Bargain Struck recap correctly says "Grygum persuades Tadric."
-- **Evidence**: Verbatim block: **Grygum** — *to Tadric* — "Alright, Tadric, this is how this has gotta be. We need to defeat Manshoon, or the entire tower is at risk." And **Grygum**: "That this, we're in a hurry here, and we've got to make compromises..." Thorin's only contributions in that stretch are "Or we could just hand them over" and "he's not in the position to negotiate."
-- **Suggested fix**: Change to "**Grygum** appeals to Tadric, invoking the party's deputization by Kalan Strongbranch..." (Thorin's "not in a position to negotiate" line is already correctly attributed in bullet 5.)
+- **Issue**: The bullet attributes the appeal to **Thorin**, but the quoted speech that follows is **Gyrgum's**, and the verbatim block confirms it. The Bargain Struck recap correctly says "Gyrgum persuades Tadric."
+- **Evidence**: Verbatim block: **Gyrgum** — *to Tadric* — "Alright, Tadric, this is how this has gotta be. We need to defeat Manshoon, or the entire tower is at risk." And **Gyrgum**: "That this, we're in a hurry here, and we've got to make compromises..." Thorin's only contributions in that stretch are "Or we could just hand them over" and "he's not in the position to negotiate."
+- **Suggested fix**: Change to "**Gyrgum** appeals to Tadric, invoking the party's deputization by Kalan Strongbranch..." (Thorin's "not in a position to negotiate" line is already correctly attributed in bullet 5.)
 
 ## 3. Scene summary — "successive keepers of Tomes"
 
@@ -161,7 +161,7 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 
 - **Location**: Scene summary bullets 8–10 omit the clue numbers, which the transcript supplies and which matter for cross-referencing prep.
 - **Issue**: Not an error, but an ambiguity that will cost a future session. The transcript is explicit: Fustilugs is **number 3**, Bow is **number 6**.
-- **Evidence**: GM: "So, he has the answer to number 3"; and for Bow, "No, this is for **number 6**." This matches the canonical clue table exactly (`candlekeep_murders_arc.md` Session 7 Beat 2 and `candlekeep_day_four.md` Beat 2): #3 = Fustilugs (Philosopher's Court), #6 = Bow (School of Drama / Batbayar). Note the party also hears clue #2 named aloud — Grygum's "the Eastern Light of Mystra's Mantle" — which the GM corrects to "No, this is for number 6."
+- **Evidence**: GM: "So, he has the answer to number 3"; and for Bow, "No, this is for **number 6**." This matches the canonical clue table exactly (`candlekeep_murders_arc.md` Session 7 Beat 2 and `candlekeep_day_four.md` Beat 2): #3 = Fustilugs (Philosopher's Court), #6 = Bow (School of Drama / Batbayar). Note the party also hears clue #2 named aloud — Gyrgum's "the Eastern Light of Mystra's Mantle" — which the GM corrects to "No, this is for number 6."
 - **Suggested fix**: Add the clue numbers explicitly: "clue **#3** — Fustilugs" and "clue **#6** — Bow." Also record that clue **#2** ("The Eastern Light of Mystra's Mantle") was spoken at the table but not answered.
 
 ## 8. Scene summary — "Batbayar" spelling
@@ -223,8 +223,8 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 ## 16. Scene summary — "the entire tower is at risk"
 
 - **Location**: Scene summary bullet 6, quoted.
-- **Issue**: Grygum's stakes-claim is quoted without context. At this point Manshoon is loose in **the keep**, headed for the **Vault beneath the House of Alaundo** — not "the tower." A reader may take "tower" to mean the High Tower (already breached and behind them) rather than Candlekeep generally.
-- **Evidence**: `campaign_state.md`: "Manshoon's simulacrum is inside Candlekeep... working toward the **Book of Vile Darkness** in the Vault beneath the House of Alaundo." The High Tower fight is complete (Ch62–63). Grygum is speaking loosely.
+- **Issue**: Gyrgum's stakes-claim is quoted without context. At this point Manshoon is loose in **the keep**, headed for the **Vault beneath the House of Alaundo** — not "the tower." A reader may take "tower" to mean the High Tower (already breached and behind them) rather than Candlekeep generally.
+- **Evidence**: `campaign_state.md`: "Manshoon's simulacrum is inside Candlekeep... working toward the **Book of Vile Darkness** in the Vault beneath the House of Alaundo." The High Tower fight is complete (Ch62–63). Gyrgum is speaking loosely.
 - **Suggested fix**: Leave the quote intact; it is in-character imprecision. No summary-level claim should be built on "the tower."
 
 ## 17. Scene summary — the vault's contents described as settled
@@ -237,16 +237,16 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 ## 18. Bargain Struck recap — ordering of the laden-swallow joke
 
 - **Location**: "[The Bargain Struck]" bullet list, item 9.
-- **Issue**: The recap places "Grygum's laden-swallow joke" **after** "Tadric marches A'lai toward the prison" (item 8) and **before** "The party debates whether to race to the vault" (item 10). In the transcript, the swallow joke occurs *before* the vault-vs-Manshoon debate but also before A'lai actually gives the two answers — and Tadric's "I will take him to the prison" line comes earlier in the transcript than the joke, but A'lai is still present and talking afterward.
-- **Evidence**: Transcript order: (a) GM as Tadric — "I will take him to the prison" / "And so it marches them off"; (b) Grygum — "What did we learn?"; (c) the Vault of Secrets explanation; (d) the laden-swallow joke; (e) the vault-vs-Manshoon debate; (f) the two cryptogram answers; (g) Tadric — "Are we done, A'lai?"; (h) Grygum — "send him off to the jail then." A'lai is clearly still in the room for (d)–(g). Tadric's "marches them off" at (a) is narratively premature relative to the rest of the scene.
+- **Issue**: The recap places "Gyrgum's laden-swallow joke" **after** "Tadric marches A'lai toward the prison" (item 8) and **before** "The party debates whether to race to the vault" (item 10). In the transcript, the swallow joke occurs *before* the vault-vs-Manshoon debate but also before A'lai actually gives the two answers — and Tadric's "I will take him to the prison" line comes earlier in the transcript than the joke, but A'lai is still present and talking afterward.
+- **Evidence**: Transcript order: (a) GM as Tadric — "I will take him to the prison" / "And so it marches them off"; (b) Gyrgum — "What did we learn?"; (c) the Vault of Secrets explanation; (d) the laden-swallow joke; (e) the vault-vs-Manshoon debate; (f) the two cryptogram answers; (g) Tadric — "Are we done, A'lai?"; (h) Gyrgum — "send him off to the jail then." A'lai is clearly still in the room for (d)–(g). Tadric's "marches them off" at (a) is narratively premature relative to the rest of the scene.
 - **Suggested fix**: Note in the recap that the transcript contains **two** dispatch beats — a premature "marches them off" and a final "send him off to the jail" — and that A'lai remains present and speaking between them. As written, the recap implies a single clean exit.
 
-## 19. Scene summary — Grygum's closing line context
+## 19. Scene summary — Gyrgum's closing line context
 
-- **Location**: Scene summary, final bullet: "Grygum: 'He only has 2? Oh, well, send him off to the jail then. I'm done with it.'"
-- **Issue**: Placed under a bullet whose lead clause is "Tadric takes A'lai Aivenmore into custody and marches him off toward the null magic prison." The quote is Grygum reacting to learning A'lai has only two answers — which *causes* the dispatch. The bullet reverses cause and effect.
-- **Evidence**: Verbatim sequence: Grygum "He only has 2?" → GM "Yes." → Grygum "Oh, well, send him off to the jail then." The custody handoff follows the disappointment, not the other way around.
-- **Suggested fix**: Reorder: "Learning A'lai has answers to only two of the six questions, Grygum dismisses him — 'send him off to the jail then. I'm done with it' — and Tadric takes A'lai into custody toward the null magic prison."
+- **Location**: Scene summary, final bullet: "Gyrgum: 'He only has 2? Oh, well, send him off to the jail then. I'm done with it.'"
+- **Issue**: Placed under a bullet whose lead clause is "Tadric takes A'lai Aivenmore into custody and marches him off toward the null magic prison." The quote is Gyrgum reacting to learning A'lai has only two answers — which *causes* the dispatch. The bullet reverses cause and effect.
+- **Evidence**: Verbatim sequence: Gyrgum "He only has 2?" → GM "Yes." → Gyrgum "Oh, well, send him off to the jail then." The custody handoff follows the disappointment, not the other way around.
+- **Suggested fix**: Reorder: "Learning A'lai has answers to only two of the six questions, Gyrgum dismisses him — 'send him off to the jail then. I'm done with it' — and Tadric takes A'lai into custody toward the null magic prison."
 
 ---
 
@@ -256,7 +256,7 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 - **Manshoon** — correct spelling; his presence inside Candlekeep and the party's need to stop him are consistent with `campaign_state.md` and `world_state.md`.
 - **Kalan Strongbranch** — spelling matches canon (`aliases: Strongbranch, Kalan`).
 - **Tadric** — spelling matches canon; distinct from the many VTT garbles.
-- **Grygum / Thorin / Daz / Zalthir** — all PC names correct; speaker attributions in the verbatim block are internally consistent.
+- **Gyrgum / Thorin / Daz / Zalthir** — all PC names correct; speaker attributions in the verbatim block are internally consistent.
 - **Philosopher's Court** — matches canon registry (`- name: Philosopher's Court / type: location`).
 - **Vault of Secrets** — matches `vtt_known_additions.md` ("questions inside the secret room that guarded the Vault of Secrets," 20260817).
 - **Fustilugs** — matches `vtt_transcription_corrections.md` (`Fustelugs → Fustilugs`) and the module clue table.
@@ -358,15 +358,15 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 
 - **Location**: Scene summary, bullet on the GM's scholars'-reaction line
 - **Issue**: "how first a dwarf convinces Protanther, and now another dwarf solves a riddle" is presented without context. A future reader has no way to know which dwarf, or what convincing.
-- **Evidence**: AUTHORITATIVE CANON registers **`Protanther`** as an NPC and **`Protanthians`** as a faction ("third named position in the Question of the Age debate alongside Bahamutians/Stroudites"). The recap does not identify the dwarf; from party composition it is presumably **Thorin** (the only dwarf besides Grygum, who is an **orc**).
-- **Suggested fix**: Two issues here. First, clarify which dwarf convinced Protanther. Second — and more important — **Grygum is an orc, not a dwarf.** The GM's "another dwarf solves a riddle" appears to refer to Grygum solving in parallel, which would be a mis-attribution at the table. See finding 14.
+- **Evidence**: AUTHORITATIVE CANON registers **`Protanther`** as an NPC and **`Protanthians`** as a faction ("third named position in the Question of the Age debate alongside Bahamutians/Stroudites"). The recap does not identify the dwarf; from party composition it is presumably **Thorin** (the only dwarf besides Gyrgum, who is an **orc**).
+- **Suggested fix**: Two issues here. First, clarify which dwarf convinced Protanther. Second — and more important — **Gyrgum is an orc, not a dwarf.** The GM's "another dwarf solves a riddle" appears to refer to Gyrgum solving in parallel, which would be a mis-attribution at the table. See finding 14.
 
-## 14. Grygum described (by implication) as a dwarf
+## 14. Gyrgum described (by implication) as a dwarf
 
 - **Location**: Scene summary, GM scholars'-reaction bullet; verbatim GM lines
-- **Issue**: The GM's riffing ("the dwarven… the dwarf and the… I'm Grygum solving this… how first a dwarf convinces Protanther, and now another dwarf solves a riddle") implies **Grygum is a dwarf**. He is not.
-- **Evidence**: `party.md`: "**Grygum — Cleric 8 (Life Domain) · Orc (Sage) · Player: Ben Pfaff**." `world_state.md` §2: "Grygum — Cleric of Bahamut" (orc). The dwarf in the party is **Thorin** (`party.md`: "Thorin — Fighter 8 (Battle Master) · **Dwarf** (Giant Foundling)").
-- **Suggested fix**: The verbatim block should stay as spoken. But the recap's summary bullet should not launder the error into a claim about the scholars' debate. Rewrite as: "The GM riffs on the scholars' reaction — first a dwarf convinced Protanther, and now the party has cracked a riddle guarding an ancient artifact — folding it into 'the endless debate of the great question of our age.'" Drop "another dwarf." **Flag for the GM**: the table appears to have mis-raced Grygum in the moment.
+- **Issue**: The GM's riffing ("the dwarven… the dwarf and the… I'm Gyrgum solving this… how first a dwarf convinces Protanther, and now another dwarf solves a riddle") implies **Gyrgum is a dwarf**. He is not.
+- **Evidence**: `party.md`: "**Gyrgum — Cleric 8 (Life Domain) · Orc (Sage) · Player: Ben Pfaff**." `world_state.md` §2: "Gyrgum — Cleric of Bahamut" (orc). The dwarf in the party is **Thorin** (`party.md`: "Thorin — Fighter 8 (Battle Master) · **Dwarf** (Giant Foundling)").
+- **Suggested fix**: The verbatim block should stay as spoken. But the recap's summary bullet should not launder the error into a claim about the scholars' debate. Rewrite as: "The GM riffs on the scholars' reaction — first a dwarf convinced Protanther, and now the party has cracked a riddle guarding an ancient artifact — folding it into 'the endless debate of the great question of our age.'" Drop "another dwarf." **Flag for the GM**: the table appears to have mis-raced Gyrgum in the moment.
 
 ## 15. "The Beast of Candlekeep" — Moziqodo's status correctly handled
 
@@ -386,7 +386,7 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 
 - **Location**: Scene summary, bullet 4
 - **Issue**: Sylvira thanks Thorin "for saving Tadric," and Thorin's OOC aside is "I'm not ready to cop to what we did." This implies a rescue event. Campaign state does not record the party *saving* Tadric.
-- **Evidence**: `campaign_state.md`: "Tadric | Alive | Candlekeep — holding the ward lattice by hand | **Dealt straight**: surrendered the real key to Grygum voluntarily." No rescue is recorded. The GM prep (`candlekeep_arc_flowchart_v2.md`) does have a "race for Tadric" branch where the party can save him from Moziqodo — this session's line suggests **that branch fired** and the party won the race.
+- **Evidence**: `campaign_state.md`: "Tadric | Alive | Candlekeep — holding the ward lattice by hand | **Dealt straight**: surrendered the real key to Gyrgum voluntarily." No rescue is recorded. The GM prep (`candlekeep_arc_flowchart_v2.md`) does have a "race for Tadric" branch where the party can save him from Moziqodo — this session's line suggests **that branch fired** and the party won the race.
 - **Suggested fix**: Confirm with the GM whether Tadric was saved by the party. If so, add it to `campaign_state.md` (it materially changes the back-half key-state fork per the flowchart's "MASTER FORK"). Also note: Thorin's "I'm not ready to cop to what we did" reads as guilt about **killing Moziqodo**, not about Tadric — the recap should not conflate the two.
 
 ## 18. Miirym described as "a dragon that lives in the castle"
@@ -396,11 +396,11 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 - **Evidence**: AUTHORITATIVE CANON: **`Miirym, the Sentinel Wyrm`** — "**translucent ghost-dragon** guardian of Candlekeep (encountered 'Underneath Candlekeep')." `vtt_transcription_corrections.md` also carries the "sentinel worm → **Sentinel Wyrm**" homophone correction.
 - **Suggested fix**: No change to the verbatim quote. If the summary ever glosses Miirym, use "the ghost-dragon guardian who serves in spirit beneath Candlekeep" — which also explains why the riddle phrases it as "she who serves **in spirit**."
 
-## 19. Grygum's Performance modifier
+## 19. Gyrgum's Performance modifier
 
 - **Location**: `[The Riddles Fall]`, bullet on the performance check
-- **Issue**: The recap states "Grygum, at plus two, is elected to roll." Worth noting the check itself is muddled in the transcript — the GM asks for "an intelligence or performance check," then "roll a, intelligence check," then corrects to "Performance."
-- **Evidence**: Verbatim Grygum: "Performance plus 2, yeah." Verbatim Daz: "I only have a plus zero." `party.md` does not list skill modifiers for either character, so there is nothing to contradict. The +2 is player-asserted at the table.
+- **Issue**: The recap states "Gyrgum, at plus two, is elected to roll." Worth noting the check itself is muddled in the transcript — the GM asks for "an intelligence or performance check," then "roll a, intelligence check," then corrects to "Performance."
+- **Evidence**: Verbatim Gyrgum: "Performance plus 2, yeah." Verbatim Daz: "I only have a plus zero." `party.md` does not list skill modifiers for either character, so there is nothing to contradict. The +2 is player-asserted at the table.
 - **Suggested fix**: No change. Recap is accurate to the tape. Flagging only that the ability used shifted mid-call (Intelligence → Performance) and the recap does not note the ambiguity — a future session referencing "the check they made" may be confused.
 
 ## 20. "A'lai suggests the venue" — A'lai's custody status
@@ -425,7 +425,7 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 |---|---|---|
 | **High** | #2 — Photographic memory attributed to Kalan | Change to **A'lai** |
 | **High** | #3 — Kalan both present at start and arriving late | Remove from opening; keep late arrival only |
-| **High** | #14 — Grygum implied to be a dwarf | He is an **orc**; drop "another dwarf" from the summary |
+| **High** | #14 — Gyrgum implied to be a dwarf | He is an **orc**; drop "another dwarf" from the summary |
 | **High** | #20 — A'lai's custody status omitted | Add "bound, in the party's custody" |
 | Medium | #4 — Kalan's return contradicts "fled" state | Update `campaign_state.md` / `world_state.md` |
 | Medium | #6 — Sylvira mobile vs. "bedridden" | Update grounding docs |
@@ -436,7 +436,7 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 | Low | #12 — "Vault of Secrets" not in registry | Promote or normalize |
 | Low | #10, #16 — Glossary additions | "methane"→Mechanus, "Hugh"→Thorin as targeted-edit notes |
 
-**Names verified correct against AUTHORITATIVE CANON**: Sylvira Savikas, Kalan Strongbranch, A'lai, Moziqodo, Tadric, Miirym the Sentinel Wyrm, Alaundo the Seer, Mechanus, Astronomicon, Founders Court, Protanther, Thorin, Grygum, Daz, Zalthir, Glabbagool.
+**Names verified correct against AUTHORITATIVE CANON**: Sylvira Savikas, Kalan Strongbranch, A'lai, Moziqodo, Tadric, Miirym the Sentinel Wyrm, Alaundo the Seer, Mechanus, Astronomicon, Founders Court, Protanther, Thorin, Gyrgum, Daz, Zalthir, Glabbagool.
 ---
 
 ## Consistency Report — "The Statue of Alaundo"
@@ -445,7 +445,7 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 
 **Issue:** The recap's summary bullet renders Zalthir's line as *"We did take a sample of the poisoned ink, we could try that."* The verbatim block attributes the same line to Zalthir, but the preceding line — *"I mean, there… there was the whole thing with the ink on the book, and it killed the guy."* — is attributed to Daz. This is internally consistent, but the underlying fact is questionable: the murder weapon was **midnight tears poison dusted onto the page edges of *The Golden Ass***, not "poisoned ink."
 
-**Evidence:** `world_state.md` §4: *"Poisoned via a book laced with **Midnight Tears** (ingested by licking fingers to turn pages)."* `candlekeep_murders_arc.md` Session 4: Alkrist *"poisoned **The Golden Ass** by dusting page edges with **midnight tears**."* Nothing in the context documents attests a "sample of the poisoned ink" in party possession. Grygum's item list (`party.md`, `world_state.md` §2) does not include it, and it appears on no PC's asset line.
+**Evidence:** `world_state.md` §4: *"Poisoned via a book laced with **Midnight Tears** (ingested by licking fingers to turn pages)."* `candlekeep_murders_arc.md` Session 4: Alkrist *"poisoned **The Golden Ass** by dusting page edges with **midnight tears**."* Nothing in the context documents attests a "sample of the poisoned ink" in party possession. Gyrgum's item list (`party.md`, `world_state.md` §2) does not include it, and it appears on no PC's asset line.
 
 **Suggested fix:** Either flag the in-fiction claim as a player misremembering (the poison was on the pages, not in an inkwell), or verify against the transcript whether the party actually retained a physical sample. If they did not, add a note that the "sample of the poisoned ink" is an unverified player assertion, not an inventory item.
 
@@ -473,11 +473,11 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 
 ## Location: Scene summary — bullet 6 / final bullet list
 
-**Issue:** The recap states **"the part where Thorin solved the puzzle"** as if Thorin solved it. In the same scene the recap also has **Grygum** decide on ink and **Grygum** pour it in. The two statements sit adjacent without reconciliation.
+**Issue:** The recap states **"the part where Thorin solved the puzzle"** as if Thorin solved it. In the same scene the recap also has **Gyrgum** decide on ink and **Gyrgum** pour it in. The two statements sit adjacent without reconciliation.
 
-**Evidence:** The verbatim block supports both readings — Thorin proposed blood (wrong) and flagged the plot hole; Grygum chose ink and poured. The GM's line *"The part where Thorin solved the puzzle is what's causing everybody to be excited"* is the in-fiction **scholars'** (mis)attribution, immediately followed by Grygum making a speech *"so that at least some of it is likely to be written down correctly"* — i.e., the joke is that the record is wrong.
+**Evidence:** The verbatim block supports both readings — Thorin proposed blood (wrong) and flagged the plot hole; Gyrgum chose ink and poured. The GM's line *"The part where Thorin solved the puzzle is what's causing everybody to be excited"* is the in-fiction **scholars'** (mis)attribution, immediately followed by Gyrgum making a speech *"so that at least some of it is likely to be written down correctly"* — i.e., the joke is that the record is wrong.
 
-**Suggested fix:** Reword to make the irony explicit: *the assembled scholars credit **Thorin** with solving the puzzle (he did not — Grygum poured the ink), which is why Grygum makes a corrective speech.* As written, a future session could canonize a false attribution.
+**Suggested fix:** Reword to make the irony explicit: *the assembled scholars credit **Thorin** with solving the puzzle (he did not — Gyrgum poured the ink), which is why Gyrgum makes a corrective speech.* As written, a future session could canonize a false attribution.
 
 ---
 
@@ -537,9 +537,9 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 
 - **"Founders Court"** — matches canon registry (`Founders Court`, location). The `vtt_known_additions.md` note that Zoom rendered it "Founder's/Founders" is a spelling variance already resolved in canon's favor; the recap uses the canon form.
 - **"Alaundo"** spelling — matches canon (`Alaundo the Seer`, alias `Alaundo`). The transcript garbles (Aluando, Alando, etc.) do not appear.
-- **Speaker attributions Thorin / Zalthir / Grygum / Daz** — all four PCs are canon-registered and correctly spelled; no player real names survive into the output, per the scrub rule.
+- **Speaker attributions Thorin / Zalthir / Gyrgum / Daz** — all four PCs are canon-registered and correctly spelled; no player real names survive into the output, per the scrub rule.
 - **97 steps / Alaundo's age at death** — the recap correctly presents this as *unknown to the party*, which matches the canon puzzle structure (`candlekeep_murders_arc.md` Session 7 Beat 3: *"97 steps: Alaundo's age at death"*). The party not knowing it is the intended state.
-- **Party composition** — Daz, Thorin, Zalthir, Grygum all present; consistent with `party.md`.
+- **Party composition** — Daz, Thorin, Zalthir, Gyrgum all present; consistent with `party.md`.
 ---
 
 ## Consistency Report — "The Grave of Alaundo and the House of Mechanus"
@@ -558,8 +558,8 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 
 **2. Location — Scene summary, bullet 5 ("The party recruits a scholar who specializes in Candlekeep lore for the 'obsidian door' clause")**
 
-- **Issue**: The summary says the scholar "specializes in Candlekeep lore." The verbatim shows Grygum asking for **local history** experts and the GM confirming a scholar "familiar with **the area**." These are subtly different claims, and the riddle line is *"those well-versed in Candlekeep's lore may fearlessly pass the obsidian door"* — a future session could mistakenly treat this NPC as having already satisfied the riddle's requirement.
-- **Evidence**: Verbatim GM: *"you do manage to acquire one of the scholars who happens to be familiar with the area."* Grygum: *"there must be a specialty in local history."* The riddle text in `candlekeep_day_four.md` Beat 3 is *"But those well versed in Candlekeep's lore / May fearlessly pass the Obsidian Door."*
+- **Issue**: The summary says the scholar "specializes in Candlekeep lore." The verbatim shows Gyrgum asking for **local history** experts and the GM confirming a scholar "familiar with **the area**." These are subtly different claims, and the riddle line is *"those well-versed in Candlekeep's lore may fearlessly pass the obsidian door"* — a future session could mistakenly treat this NPC as having already satisfied the riddle's requirement.
+- **Evidence**: Verbatim GM: *"you do manage to acquire one of the scholars who happens to be familiar with the area."* Gyrgum: *"there must be a specialty in local history."* The riddle text in `candlekeep_day_four.md` Beat 3 is *"But those well versed in Candlekeep's lore / May fearlessly pass the Obsidian Door."*
 - **Suggested fix**: Reword to "a scholar familiar with local history/the area, recruited against the 'obsidian door' clause." Flag explicitly that it is **unresolved** whether this scholar's expertise actually satisfies the riddle.
 
 ---
@@ -590,7 +590,7 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 
 **6. Location — Scene summary, bullet 12 ("Spanner … the only known ways to obtain it are to kill a modron … or to use special tools his modrons have created")**
 
-- **Issue**: The summary presents two options as Spanner's complete framing, but the verbatim also has the **GM** (out of character, before Spanner speaks) offering a *third* possibility that the summary drops: that the party may not need the dust at all. Grygum raises this ("the description really makes it sound like it's a form of preventative maintenance"), and the GM confirms *"that's another option. You can try to see if you actually do need it."*
+- **Issue**: The summary presents two options as Spanner's complete framing, but the verbatim also has the **GM** (out of character, before Spanner speaks) offering a *third* possibility that the summary drops: that the party may not need the dust at all. Gyrgum raises this ("the description really makes it sound like it's a form of preventative maintenance"), and the GM confirms *"that's another option. You can try to see if you actually do need it."*
 - **Evidence**: Verbatim GM: *"That, that, that, that, so that's the… that's another option. You can try to see if you actually do need it."*
 - **Suggested fix**: Add a bullet recording the open question — the party has GM-sanctioned license to test whether the dust is required at all. This matters downstream: `candlekeep_day_four.md` Beat 3 lists Mechanus dust as a required riddle step.
 
@@ -600,7 +600,7 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 
 - **Issue**: The prep documents state Spanner **gives a bag of gear-dust freely** under siege, with no negotiation. What actually happened at the table is a collateral negotiation, a persuasion roll, and a loan of tools (not dust). Future sessions reading the prep will have the wrong state.
 - **Evidence**: `candlekeep_day_four.md` Beat 3: *"**Mechanus dust:** Spanner gives a bag freely under siege."* `candlekeep_murders_arc.md` S7 Beat 3: *"**Spanner the rock-gnome librarian** … has a basket of 'spent gear-dust' from his 13 modrons. **He gives it freely** under siege. No fight needed."* Neither is what the recap records.
-- **Suggested fix**: Not a recap error — flag it as a **prep-doc supersession**. Add a note to the recap (or a re-key line in the prep) that the "gives it freely" beat did not happen: the party borrowed **tools**, against a Zalthir/Glabbagool symmetry-interview as collateral, on Grygum's persuasion 14.
+- **Suggested fix**: Not a recap error — flag it as a **prep-doc supersession**. Add a note to the recap (or a re-key line in the prep) that the "gives it freely" beat did not happen: the party borrowed **tools**, against a Zalthir/Glabbagool symmetry-interview as collateral, on Gyrgum's persuasion 14.
 
 ---
 
@@ -612,11 +612,11 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 
 ---
 
-**9. Location — Scene summary, bullet 14 ("which the GM rewards with a persuasion roll (Grygum rolls 14)") and closing recap bullet ("Grygum's persuasion roll of 14 carries it")**
+**9. Location — Scene summary, bullet 14 ("which the GM rewards with a persuasion roll (Gyrgum rolls 14)") and closing recap bullet ("Gyrgum's persuasion roll of 14 carries it")**
 
-- **Issue**: The attribution of the *idea* vs. the *roll* is muddled, and Thorin's roll is dropped. Per the verbatim: **Thorin** made the argument ("We don't need to keep the tools"), the GM awarded the roll for *that* idea, Thorin declined on a −1 modifier, Grygum rolled 14 — and Thorin then said "I'll do mine. What do we got here?" with no result recorded.
-- **Evidence**: Verbatim — Thorin: *"We don't need to keep the tools, we just need the dust."* GM: *"Roll your persuasion, because that was a very good, Idea."* Thorin: *"My persuasion is negative 1."* Grygum: *"I'll do my, 14."* Thorin: *"I'll do mine. What do we got here?"* / *"I need to reload."* GM: *"He accepts the offer."*
-- **Suggested fix**: Reword to credit the argument to Thorin and the successful roll to Grygum, and note that Thorin's own roll was never resolved on tape: "Thorin's counter — 'we don't need to keep the tools, we just need the dust' — earns the roll; Thorin's persuasion is −1, so Grygum rolls it (14). Spanner accepts."
+- **Issue**: The attribution of the *idea* vs. the *roll* is muddled, and Thorin's roll is dropped. Per the verbatim: **Thorin** made the argument ("We don't need to keep the tools"), the GM awarded the roll for *that* idea, Thorin declined on a −1 modifier, Gyrgum rolled 14 — and Thorin then said "I'll do mine. What do we got here?" with no result recorded.
+- **Evidence**: Verbatim — Thorin: *"We don't need to keep the tools, we just need the dust."* GM: *"Roll your persuasion, because that was a very good, Idea."* Thorin: *"My persuasion is negative 1."* Gyrgum: *"I'll do my, 14."* Thorin: *"I'll do mine. What do we got here?"* / *"I need to reload."* GM: *"He accepts the offer."*
+- **Suggested fix**: Reword to credit the argument to Thorin and the successful roll to Gyrgum, and note that Thorin's own roll was never resolved on tape: "Thorin's counter — 'we don't need to keep the tools, we just need the dust' — earns the roll; Thorin's persuasion is −1, so Gyrgum rolls it (14). Spanner accepts."
 
 ---
 
@@ -652,9 +652,9 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 
 ---
 
-**14. Location — Scene summary, bullet 4 ("Grygum, knowing what scholars want, makes sure everyone knows who lent him the ink")**
+**14. Location — Scene summary, bullet 4 ("Gyrgum, knowing what scholars want, makes sure everyone knows who lent him the ink")**
 
-- **Issue**: Minor attribution smoothing. Grygum says *"I make sure that everyone knows who lent **me** the ink"*; the GM then adds *"He makes sure that everybody knows the correct spelling of **his** name."* The summary conflates the two into a single Grygum action. Reading is probably correct, but "who lent him the ink" is ambiguous about *whose* ink and *whose* name — the House of Alaundo inkpot is the riddle component, and no lender is identified anywhere on tape or in the prep docs.
+- **Issue**: Minor attribution smoothing. Gyrgum says *"I make sure that everyone knows who lent **me** the ink"*; the GM then adds *"He makes sure that everybody knows the correct spelling of **his** name."* The summary conflates the two into a single Gyrgum action. Reading is probably correct, but "who lent him the ink" is ambiguous about *whose* ink and *whose* name — the House of Alaundo inkpot is the riddle component, and no lender is identified anywhere on tape or in the prep docs.
 - **Evidence**: `candlekeep_day_four.md` Beat 5: *"Inda fills the inkpot."* Registry has `Inda` — *"House of Alaundo; half-orc, secretly worships Alaundo as a deity."* No ink-lender NPC is named.
 - **Suggested fix**: Leave the bullet but flag the **open question**: who lent the ink? If it's Inda, say so; if it's unresolved, note it so a future session doesn't invent an answer.
 
@@ -663,14 +663,14 @@ Adjudicated against `GMT20260818-005817_Recording.transcript.cleaned.vtt` by han
 **15. Location — Scene summary / closing recap, both ("discovering he died at the age of 97" / "learns he died at 97")**
 
 - **Issue**: Correct and consistent with prep, but the recap does not record the **outstanding riddle step** this unlocks, which matters for continuity.
-- **Evidence**: `candlekeep_day_four.md` Beat 3: *"**97 steps:** Alaundo's age at death. Inda the half-orc librarian knows it from devotion alone."* `world_state.md` §4 Locations: *"**The Vault** (beneath the House of Alaundo, via 97 steps and a lava chamber)."* Grygum reads the riddle line on tape.
+- **Evidence**: `candlekeep_day_four.md` Beat 3: *"**97 steps:** Alaundo's age at death. Inda the half-orc librarian knows it from devotion alone."* `world_state.md` §4 Locations: *"**The Vault** (beneath the House of Alaundo, via 97 steps and a lava chamber)."* Gyrgum reads the riddle line on tape.
 - **Suggested fix**: Optional — add a line noting the party has now satisfied the "tread as many steps as he lived in years" clause's *knowledge* requirement and holds the original prophecy text, leaving the Mechanus dust (or a test of whether it's needed) and the obsidian-door lore clause outstanding.
 
 ---
 
 ## Nothing wrong
 
-Correctly rendered and consistent with canon: **Spanner** (gnome, House of Mechanus librarian, directs the modrons), **thirteen modrons**, **Mechanus** as a plane (registry: `type: concept`, "lawful plane, modrons' home"), **Dust of Suleiman** as Grygum's (registry item; `world_state.md` §2 lists it among his abilities), **Glabbagool** bonded to **Zalthir** (matches `world_state.md` §3's explicit reconciliation note), **Immortal Chambers** / **Founders Court** / **House of Alaundo**, **Milo** (Goodbarrel), and the **Great Wheel** cosmology reference.
+Correctly rendered and consistent with canon: **Spanner** (gnome, House of Mechanus librarian, directs the modrons), **thirteen modrons**, **Mechanus** as a plane (registry: `type: concept`, "lawful plane, modrons' home"), **Dust of Suleiman** as Gyrgum's (registry item; `world_state.md` §2 lists it among his abilities), **Glabbagool** bonded to **Zalthir** (matches `world_state.md` §3's explicit reconciliation note), **Immortal Chambers** / **Founders Court** / **House of Alaundo**, **Milo** (Goodbarrel), and the **Great Wheel** cosmology reference.
 ---
 
 ## Consistency Report — "The Descent into the Vault"
@@ -689,12 +689,12 @@ Correctly rendered and consistent with canon: **Spanner** (gnome, House of Mecha
 - **Evidence**: `party.md` lists all four PCs at **level 8** (Monk 8 / Fighter 8 / Cleric 8 / Wizard 8) with the note "**Party levels to 9 before the next fight.**" So level 9 may well be correct now, but the recap should not attribute it to an undated/unsupported in-session GM confirmation, and the 2026-08-24 date is unsupported. Note also that Daz at Wizard 8 *does* have 4th-level slots at most per `party.md`'s stated level — Telekinesis is a 5th-level spell, so the level question is materially load-bearing and needs a real source.
 - **Suggested fix**: Drop the date and the "confirmed by the GM" framing. Either state plainly "(Telekinesis is 5th-level; per `party.md` the party levels to 9 before this fight)" or flag it as **open**: "⚠️ Daz casts Telekinesis — verify the party has reached level 9, as `party.md` still lists Wizard 8."
 
-## 3. Scene summary — "Grygum provides restorative healing"
+## 3. Scene summary — "Gyrgum provides restorative healing"
 
 - **Location**: Scene summary, healing bullet
-- **Issue**: "Restorative" is a loaded word in this campaign — *Lesser Restoration* is a tracked, characterful ability for Grygum. The transcript shows only generic hit-point healing ("Yeah, you got 44 of them back").
-- **Evidence**: `world_state.md` §2 on Grygum: "**Deliberately withholds Lesser Restoration** to let others choose mercy." Miscataloguing this as "restorative healing" risks a future reader concluding Grygum's withholding stance has changed.
-- **Suggested fix**: "Grygum heals Zalthir for 44 hit points" — drop "restorative."
+- **Issue**: "Restorative" is a loaded word in this campaign — *Lesser Restoration* is a tracked, characterful ability for Gyrgum. The transcript shows only generic hit-point healing ("Yeah, you got 44 of them back").
+- **Evidence**: `world_state.md` §2 on Gyrgum: "**Deliberately withholds Lesser Restoration** to let others choose mercy." Miscataloguing this as "restorative healing" risks a future reader concluding Gyrgum's withholding stance has changed.
+- **Suggested fix**: "Gyrgum heals Zalthir for 44 hit points" — drop "restorative."
 
 ## 4. Scene summary / Verbatim — Thorin's reroll bonus: "+8" vs. "+9"
 
@@ -713,7 +713,7 @@ Correctly rendered and consistent with canon: **Spanner** (gnome, House of Mecha
 ## 6. Scene summary — the hinge span: "between steps 93 and 102"
 
 - **Location**: Scene summary, collapse bullet ("anyone standing between steps 93 and 102 is caught in the hinge")
-- **Issue**: Minor, but the GM's verbatim is "That's… anybody standing between 101 and 90… no, **102 and 93**." The recap silently swallows the correction, which is fine — but the recap then says Grygum was on 97 and "makes it on a 16," while Zalthir was also on 97, and Daz was "sufficiently high." The recap does not state where Daz actually was, which matters: the GM offered "96, 95, 93, 92, 90" as options and Daz said only that he'd "stay a little high." Since 93 is *inside* the hinge span, "high" is not automatically "safe" — the recap should not present Daz's safety as a positional inevitability without recording his stated step.
+- **Issue**: Minor, but the GM's verbatim is "That's… anybody standing between 101 and 90… no, **102 and 93**." The recap silently swallows the correction, which is fine — but the recap then says Gyrgum was on 97 and "makes it on a 16," while Zalthir was also on 97, and Daz was "sufficiently high." The recap does not state where Daz actually was, which matters: the GM offered "96, 95, 93, 92, 90" as options and Daz said only that he'd "stay a little high." Since 93 is *inside* the hinge span, "high" is not automatically "safe" — the recap should not present Daz's safety as a positional inevitability without recording his stated step.
 - **Evidence**: Recap verbatim (GM's step list; Daz never names a number; GM later rules "All but Daz, who's standing up sufficiently high").
 - **Suggested fix**: Add "(Daz never named a specific step; the GM ruled him above the hinge)."
 
@@ -740,7 +740,7 @@ Correctly rendered and consistent with canon: **Spanner** (gnome, House of Mecha
 
 ## 10. Scene summary — the Modron tool vs. Mechanus dust
 
-- **Location**: Verbatim moments (Grygum: "Did we… did we make the dust already?" / GM: "No, you have the tool, which is an alternative."); "Positions on the Staircase"
+- **Location**: Verbatim moments (Gyrgum: "Did we… did we make the dust already?" / GM: "No, you have the tool, which is an alternative."); "Positions on the Staircase"
 - **Issue**: The recap calls it "**the Modron tool**" without qualification. The riddle canon requires "**dust of Mechanus** on dormant gears," sourced from **Spanner**'s spent gear-dust. A "Modron tool" as an *alternative* to the dust is a new, in-session substitution, and the recap should flag it as such rather than present it as a known item.
 - **Evidence**: `candlekeep_murders_arc.md` Beat 3: "**Mechanus dust:** **Spanner the rock-gnome librarian** at the House of Mechanus has a basket of 'spent gear-dust' from his 13 modrons. **He gives it freely** under siege." `candlekeep_day_four.md` Beat 3: "Mechanus dust: Spanner gives a bag freely under siege." `entity_registry.yaml` (AUTHORITATIVE CANON) registers **Spanner** as "House of Mechanus librarian; directs the 13 modrons" and **Mechanus** as a concept. No "Modron tool" is registered anywhere.
 - **Suggested fix**: "…the GM confirms the party did not make the Mechanus dust, but holds **a Modron tool** the GM rules is an acceptable alternative (new — not in prep; the riddle line calls for *dust of Mechanus*)." Flag for promotion to the entity registry / known-additions list.
@@ -752,23 +752,23 @@ Correctly rendered and consistent with canon: **Spanner** (gnome, House of Mecha
 - **Evidence**: `candlekeep_day_four.md` Beat 5: "Step hinges open. **`Feather fall` shaft, 1000 ft.**" `20260810_race_to_the_vile_door.md`: "At ~93 the first prophecy is spoken aloud, the step hinges open, and it's a 1,000-ft `feather fall` shaft." Note the recap's hinge span (93–102) matches the prep's "~93" trigger point exactly. Also worth flagging: **the first prophecy was not spoken** in this session, which prep treats as the trigger for the hinge.
 - **Suggested fix**: Add a note: "⚠️ The 'vast circular well' is almost certainly the prepped 1,000-ft `feather fall` shaft to the lava chamber (prep: hinge triggers at ~step 93). **However, the party never spoke Alaundo's first prophecy**, which prep lists as the required trigger — confirm whether the GM dropped that requirement or the trap fired early. Also confirm whether feather fall is in play, since the recap presents Thorin's fall as lethal-stakes."
 
-## 12. Prophecy thread — Grygum's interrupted "prophecy"
+## 12. Prophecy thread — Gyrgum's interrupted "prophecy"
 
-- **Location**: Verbatim moments (Grygum: "And I… I res…" / GM: "Hold on." / Grygum: "prophecy."); "Positions on the Staircase" ("Grygum commits to step 97 to recite the prophecy")
-- **Issue**: The scene-block summary asserts Grygum "commits to step 97 **to recite the prophecy**," but the scene *summary* at the top omits this entirely, and the transcript shows the GM cutting him off mid-declaration. Given item 11, whether the prophecy was actually recited is load-bearing for the trap trigger. The recap gives two different impressions in two places.
+- **Location**: Verbatim moments (Gyrgum: "And I… I res…" / GM: "Hold on." / Gyrgum: "prophecy."); "Positions on the Staircase" ("Gyrgum commits to step 97 to recite the prophecy")
+- **Issue**: The scene-block summary asserts Gyrgum "commits to step 97 **to recite the prophecy**," but the scene *summary* at the top omits this entirely, and the transcript shows the GM cutting him off mid-declaration. Given item 11, whether the prophecy was actually recited is load-bearing for the trap trigger. The recap gives two different impressions in two places.
 - **Evidence**: The recap's own verbatim ("Hold on" interrupts) vs. its scene-block gloss ("to recite the prophecy"). No verbatim line shows the prophecy actually being spoken.
-- **Suggested fix**: Harmonize both: "Grygum begins to declare that he will recite the prophecy on step 97 but is cut off by the GM; **the prophecy is never actually spoken on tape.**"
+- **Suggested fix**: Harmonize both: "Gyrgum begins to declare that he will recite the prophecy on step 97 but is cut off by the GM; **the prophecy is never actually spoken on tape.**"
 
 ## 13. Scene summary — Zalthir "ends up holding the others by strength"
 
 - **Location**: Scene summary, Zalthir bullet parenthetical; "The Stairs Give Way"
-- **Issue**: Presented as resolved. The GM's line is mid-sentence and self-correcting: "while… while Grygum is holding… while **Zalthir** is using his strength to hold you guys, the two… two of you, float." The GM starts to say Grygum, corrects to Zalthir, and the outcome ("float") is not clearly reconciled with Zalthir having no flight source other than an unconsumed potion. The recap's confident "(the question went unanswered at the table — he ends up holding the others by strength)" over-resolves a garbled ruling.
+- **Issue**: Presented as resolved. The GM's line is mid-sentence and self-correcting: "while… while Gyrgum is holding… while **Zalthir** is using his strength to hold you guys, the two… two of you, float." The GM starts to say Gyrgum, corrects to Zalthir, and the outcome ("float") is not clearly reconciled with Zalthir having no flight source other than an unconsumed potion. The recap's confident "(the question went unanswered at the table — he ends up holding the others by strength)" over-resolves a garbled ruling.
 - **Evidence**: Recap verbatim; and see item 1 — if Zalthir is hovering, the mechanism is the Potion of Flying, which nobody is shown drinking.
 - **Suggested fix**: "⚠️ The GM narrates Zalthir holding two others while they 'float,' but never establishes what keeps Zalthir aloft (his Potion of Flying is never drunk on tape). Flag for GM confirmation."
 
 ## 14. Terminology — "Modrons" / "Mechanus"
 
-- **Location**: Verbatim moments (Grygum's dust question); "Positions on the Staircase"
+- **Location**: Verbatim moments (Gyrgum's dust question); "Positions on the Staircase"
 - **Issue**: No error found, but worth noting for the cleanup pass: the VTT glossary records `Modrums → **Modrons**` and `Mechanis, Mechanists, Machinus, methanus → **Mechanus**`. The recap uses the correct forms.
 - **Evidence**: `vtt_transcription_corrections.md`; `entity_registry.yaml` registers **Mechanus** (concept) and **Primus** (modron ruler).
 - **Suggested fix**: None — flagged as verified-clean.
@@ -780,7 +780,7 @@ Correctly rendered and consistent with canon: **Spanner** (gnome, House of Mecha
 The following were checked against canon and are **correct**:
 
 - **Alaundo the Seer** — spelling matches `entity_registry.yaml` (alias "Alaundo"); glossary confirms `Aluando/Alando/Alwando/Alondo/Luando/Al Londo/Elando/Londo/Orlando → **Alaundo**`.
-- **Zalthir, Grygum, Thorin, Daz** — all four PC names spelled per canon and the VTT glossary.
+- **Zalthir, Gyrgum, Thorin, Daz** — all four PC names spelled per canon and the VTT glossary.
 - **Telekinesis** as Daz's spell — consistent with `party.md`, which lists **Telekinetic** among his abilities and Evoker as his subclass.
 - **97 steps** — matches `world_state.md` §4 and both prep files.
 - **The Vault beneath the House of Alaundo** — `entity_registry.yaml` registers both **The House of Alaundo** and **The Vault** as distinct locations, and marks **The House of Alaundo** / **The Echoes of Alaundo** as confirmed-distinct entities. The recap does not conflate them.

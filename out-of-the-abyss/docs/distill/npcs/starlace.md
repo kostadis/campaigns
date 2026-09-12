@@ -14,7 +14,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - A pragmatic businessperson willing to trade in conflict zones, suggesting either bravery or a keen eye for profit during wartime demand. Negotiations with the party were mutually satisfactory, indicating fair dealing.
 
 ## History with the Party
-- **Blingdenstone (pre-battle):** Arrived while the city prepared for the assault on the Pudding King. Sold the party **Zalthir spectacles** (glowing crystal lenses granting sight of invisible creatures and the ability to see through magical darkness). Enchanted **Grygum's mace and shield** with protective magic. Purchased excess armor from the party at a price both sides found fair.
+- **Blingdenstone (pre-battle):** Arrived while the city prepared for the assault on the Pudding King. Sold the party **Zalthir spectacles** (glowing crystal lenses granting sight of invisible creatures and the ability to see through magical darkness). Enchanted **Gyrgum's mace and shield** with protective magic. Purchased excess armor from the party at a price both sides found fair.
 
 ## Current Status
 - **Last known location:** Blingdenstone
@@ -22,5 +22,5 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - No hidden information indicated in the notes
 
 ## Relationships
-- **Grygum:** Direct customer — enchanted his mace and shield
+- **Gyrgum:** Direct customer — enchanted his mace and shield
 - **The Party:** Positive commercial relationship; fair trades on both sides

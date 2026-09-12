@@ -57,7 +57,7 @@ He shakes his head - “We are sitting on a volcano. We can trigger a slaughter 
 The group stares at him. “I have seen this before, everyone convinced that the leader is a victim of some outside influence, and a need to destroy the outside influence. No one wants to confront the reality that they want power, and they are too afraid of the leader to try and seize it from them. If we can get rid of the Deepking, or focus everyone’s hatred on him, then the Duergar would slaughter each other.” 
 
 
-Grygum gives him a look, and Daz smiles, “Being a Drow, you pick some stuff up.” 
+Gyrgum gives him a look, and Daz smiles, “Being a Drow, you pick some stuff up.” 
 ### Thorin 
 
 
@@ -95,7 +95,7 @@ The monks who taught Zalthir the importance of being discreet, of hiding in the 
 Zalthir's monastic teachers emphasized discretion, the value of hiding in shadows, and avoiding confrontation. He sees no upside to doing anything but running. 
 
 
-But Grygum insists that they must honor their commitments.
+But Gyrgum insists that they must honor their commitments.
 
 
 Zalthir sighed and followed the group to Overlake Hold to talk to Errde. 
@@ -143,10 +143,10 @@ But then she turns on Daz.
 Daz looks like a Drow explaining things to a child: “We did some searching and ran into trouble. The caves are not as safe as they once were. We ran into some trouble.” 
 
 
-Grygum then interjects, “We needed reinforcements.” 
+Gyrgum then interjects, “We needed reinforcements.” 
 
 
-Errde glares at Grygum, “I can’t send my Duergar troops into the Derro slums.” She thinks, Zalthir stares at her, and then says, “You have a crew. I can arm them.” 
+Errde glares at Gyrgum, “I can’t send my Duergar troops into the Derro slums.” She thinks, Zalthir stares at her, and then says, “You have a crew. I can arm them.” 
 
 
 Zalthir is about to leave, when she once again hisses, “When will I have what I need?” 
@@ -164,46 +164,46 @@ She claps in her hands, “A fantastic idea. You must talk to Clan Ironhead or C
 Zalthir looks at Daz, Errde, and then walks through the door. A thousand times the darkness of his spells than the plots and fogs of the plots of the Drow and the Duergar. 
 
 
-### Grygum
+### Gyrgum
 
 
-Grygum stands in front of the Tavern known as the Shattered Spire, where the merchant Werz insisted they meet. It is built on a broken stalagmite that juts out from the Darklake about forty feet from the shore. This stalagmite forms the foundation of a tavern built with fungi stalks in a manner similar to a log cabin. 
+Gyrgum stands in front of the Tavern known as the Shattered Spire, where the merchant Werz insisted they meet. It is built on a broken stalagmite that juts out from the Darklake about forty feet from the shore. This stalagmite forms the foundation of a tavern built with fungi stalks in a manner similar to a log cabin. 
 
 
-Grygum has to cross a bridge woven of rothé wool to get to it. 
+Gyrgum has to cross a bridge woven of rothé wool to get to it. 
 
 
 Once there, he sees Werz sitting by himself at a table. The Duergar smiles. 
 
 
-As they sit, he hands Grygum and each of his companions a gemstone worth 10 gold pieces.
+As they sit, he hands Gyrgum and each of his companions a gemstone worth 10 gold pieces.
 
 
-Grygum asks, “What about the Flumph? And our ghost?” 
+Gyrgum asks, “What about the Flumph? And our ghost?” 
 
 
 Werz is happy to be alive and gives the Flumph a gem. The Flumph turns light blue. Then , when it turns green, it picks the stone up and plays with it in its tentacles. After a while, it turns magenta, and the stone falls to the ground. 
 
 
-As for the ghost, Werz hands Grygum the gem. 
+As for the ghost, Werz hands Gyrgum the gem. 
 
 
-When no one is looking, Grygum picks up the Flumph’s gem and puts it in his bag. 
+When no one is looking, Gyrgum picks up the Flumph’s gem and puts it in his bag. 
 
 
 “My saviors, I want you to know that I have already spoken to the owner of the Gholbrorn’s Inn, and I will take care of everything.” 
 
 
-Grygum can tell that Daz knows something is up, but the Drow is silent. 
+Gyrgum can tell that Daz knows something is up, but the Drow is silent. 
 
 
 “Assassins! I thought they were a story told to frighten children.” 
 
 
-The unimpressed cleric explains that just because someone tried to kill him is not proof of an assassin’s guild. “Why, if I tried to kill you, that would not make me a member of the Assassin’s Guild, unless someone paid me.” Grygum pauses, “I guess that would get me into trouble with any actual Assassin’s Guild.’ 
+The unimpressed cleric explains that just because someone tried to kill him is not proof of an assassin’s guild. “Why, if I tried to kill you, that would not make me a member of the Assassin’s Guild, unless someone paid me.” Gyrgum pauses, “I guess that would get me into trouble with any actual Assassin’s Guild.’ 
 
 
-Grygum wants to know more. But Thorin is eager to talk, so Grygum is silent. 
+Gyrgum wants to know more. But Thorin is eager to talk, so Gyrgum is silent. 
 
 
 Thorin asks, “Why did they try to kill you?” 
@@ -212,16 +212,16 @@ Thorin asks, “Why did they try to kill you?”
 “Because somebody paid them.” 
 
 
-Grygum rolls his eyes. “Do you have any enemies other than assassins?” 
+Gyrgum rolls his eyes. “Do you have any enemies other than assassins?” 
 
 
 The Duergar merchant shrugs, “First, assassins are not your enemies. They are professionals. And before you ask, I did try to offer them a higher rate, but they are professionals.” 
 
 
-Once again, Grygum notices that Daz has seen something. 
+Once again, Gyrgum notices that Daz has seen something. 
 
 
-Grygum turns to Daz, and Daz, through Flumph, speaks directly into Grygum’s mind, “Maybe he ordered somebody to assassinate somebody, and now somebody else found out and they have ordered somebody to assassinate him. He played, he fucked around and now he’s in the find out phase.” 
+Gyrgum turns to Daz, and Daz, through Flumph, speaks directly into Gyrgum’s mind, “Maybe he ordered somebody to assassinate somebody, and now somebody else found out and they have ordered somebody to assassinate him. He played, he fucked around and now he’s in the find out phase.” 
 
 
 Thorin asks, “Did you go to the Stone Guards?” 
@@ -230,22 +230,22 @@ Thorin asks, “Did you go to the Stone Guards?”
 Werz looks uncomfortable. “They would never believe me. The assassins are a children’s fable.” 
 
 
-Grygum is enjoying watching Thorin’s bluntness, “So you want us to kill a bunch of professionally trained killers?” 
+Gyrgum is enjoying watching Thorin’s bluntness, “So you want us to kill a bunch of professionally trained killers?” 
 
 
 Daz twists the knife well, “Are you trying to create a new assassin's guild?” 
 
 
-Werz turns pale, “I don’t know why I am on the list.” Grygum smiles, “Then I guess we’ll leave.” 
+Werz turns pale, “I don’t know why I am on the list.” Gyrgum smiles, “Then I guess we’ll leave.” 
 
 
 Werz grabs his hand and urges him to sit, “I am a merchant. And it’s my job to make deals between people. The Deepking has forbidden any weapons deals with any clan other than his clan, Clan Steelshadow. As a merchant, I can't walk away when I see two sides of a deal that I can profit from. And perhaps, I helped some clans make deals they shouldn’t have.”
 
 
-Grygum looks at him, “I suppose we could use you as bait.” 
+Gyrgum looks at him, “I suppose we could use you as bait.” 
 
 
-Werz snarls and then looks at Grygum, “You are overbrighters. And you are looking to get to Blingdenstone. The gnomes have been trying to make deals with the clans for weapons. I can help facilitate such a deal. I can promise I will make that deal.” 
+Werz snarls and then looks at Gyrgum, “You are overbrighters. And you are looking to get to Blingdenstone. The gnomes have been trying to make deals with the clans for weapons. I can help facilitate such a deal. I can promise I will make that deal.” 
 
 
 Thorin coughs, “Let’s talk about our optional NDA.” 
@@ -254,7 +254,7 @@ Thorin coughs, “Let’s talk about our optional NDA.”
 Werz looks at him, “NDA?” 
 
 
-Grygum points to Daz, who explains the concept of a Non-Disclosure Agreement, a critical part of any Drow deal. Daz adds, “The NDAs of the Drow promised all kinds of horrible outcomes to the party that revealed anything. We can only promise the haunting of a ghost.” Werz stares at the phantasm and shudders. 
+Gyrgum points to Daz, who explains the concept of a Non-Disclosure Agreement, a critical part of any Drow deal. Daz adds, “The NDAs of the Drow promised all kinds of horrible outcomes to the party that revealed anything. We can only promise the haunting of a ghost.” Werz stares at the phantasm and shudders. 
 
 
 “How much will it cost?” 
@@ -269,13 +269,13 @@ Grygum points to Daz, who explains the concept of a Non-Disclosure Agreement, a 
 “Or we can choose not to be bound by secrecy.” 
 
 
-Grygum tries not to laugh when Thorin explains, “I don’t like NDAs because they don’t allow for radical transparency and honesty in relations. So I get why you wouldn’t want one. We should tell everyone about our deals with you.” 
+Gyrgum tries not to laugh when Thorin explains, “I don’t like NDAs because they don’t allow for radical transparency and honesty in relations. So I get why you wouldn’t want one. We should tell everyone about our deals with you.” 
 
 
 Werz coughs, “A thousand?”
 
 
-Grygum admires how Daz snarls, “I told you it was 1250.”
+Gyrgum admires how Daz snarls, “I told you it was 1250.”
 
 
 The merchant whimpers apologetically, “I am a merchant, I have to question every price.” 
@@ -290,13 +290,13 @@ The merchant whimpers apologetically, “I am a merchant, I have to question eve
 “1100,” snarls Daz. 
 
 
-Grygum is impressed with Daz's cold calculation and watches as Werz hands over the coins. 
+Gyrgum is impressed with Daz's cold calculation and watches as Werz hands over the coins. 
 
 
 As he hands over the money, Werz says, “Since we are business partners, let me tell you about some information you might find helpful. As a merchant, I know how the clans feel about the Deepking. Clan Ironshadow’s clan leader is willing to wait out the Deepking’s madness, but other clan members are unhappy. Clan Thrazgad has been complaining about raids by the Grey Ghosts. Although many clans are dissatisfied, some, like Clan Xundom, will support the Deepking if war breaks out.” 
 
 
-Grygum yawns. 
+Gyrgum yawns. 
 
 
 Werz then whispers to him, “There are rumors of the Stone Guards taking bribes.” 
@@ -308,10 +308,10 @@ Werz then whispers to him, “There are rumors of the Stone Guards taking bribes
 “They were until a few months ago when the madness of the Deepking took over.” 
 
 
-Grygum takes note of the timing and the blink of the Faerzress but keeps silent. 
+Gyrgum takes note of the timing and the blink of the Faerzress but keeps silent. 
 
 
-As they are about to leave, Werz warns him, “This city is ready to explode. Provide the wrong faction with the wrong information, and you will have all-out war. Remember, Werz doesn’t care about politics; he only cares about trade. And I only care about gEttin g rid of my assassin's problem.” Grygum gives him a funny look, “And I would like the problem not to be solved with my death.” 
+As they are about to leave, Werz warns him, “This city is ready to explode. Provide the wrong faction with the wrong information, and you will have all-out war. Remember, Werz doesn’t care about politics; he only cares about trade. And I only care about gEttin g rid of my assassin's problem.” Gyrgum gives him a funny look, “And I would like the problem not to be solved with my death.” 
 
 
 Werz prepares to leave. 
@@ -435,4 +435,4 @@ Zalthir tries to look confused, but she has already left.
 Daz smiles, “They all know that we are going into the Whorlstone tunnels, and they all hope the information we provide will help them. The question is, how do we get the information and profit most?” 
 
 
-Grygum coughs, “And free Themberchaud.”
+Gyrgum coughs, “And free Themberchaud.”

@@ -15,7 +15,7 @@
   - They maintained 20 feet of distance and separate food to avoid infection
 
 ### Glyph of Warding Trap on Bridge — Detonated Successfully
-- **Outcome:** Grygum inscribed a Glyph of Warding on the bridge to Jorlan's side, triggered by hostile creatures crossing. Grygum baited Jorlan by calling "Come get it, idiot." Jorlan charged across with spore servants. The glyph detonated for 21 force damage, destroying one spore servant outright, staggering others, and hitting Jorlan with full force.
+- **Outcome:** Gyrgum inscribed a Glyph of Warding on the bridge to Jorlan's side, triggered by hostile creatures crossing. Gyrgum baited Jorlan by calling "Come get it, idiot." Jorlan charged across with spore servants. The glyph detonated for 21 force damage, destroying one spore servant outright, staggering others, and hitting Jorlan with full force.
 
 ## NPC State Changes
 
@@ -37,14 +37,14 @@
 
 ## Party Accomplishments & Acquisitions
 
-- **Grygum lent his light crossbow to Thorin** for the Ilvara fight
-- **Tactical resources deployed:** Glyph of Warding (Grygum, 4th-level slot expended), Dust of Suleiman (committed against the Big Heart Fungus), Fireball at 4th level (Daz, 4th-level slot expended, sculpted around allies), Zalthir's flight and grapple attack on Ilvara
+- **Gyrgum lent his light crossbow to Thorin** for the Ilvara fight
+- **Tactical resources deployed:** Glyph of Warding (Gyrgum, 4th-level slot expended), Dust of Suleiman (committed against the Big Heart Fungus), Fireball at 4th level (Daz, 4th-level slot expended, sculpted around allies), Zalthir's flight and grapple attack on Ilvara
 - **Alliance secured with Asha Vandree** — she holds perimeter, party kills Ilvara, party receives Ilvara's magical items as payment
 
 ## Party Current Situation
 
 - **Current Location:** Ilvara's cavern/chamber — the Fungal Cavern, a separate Zuggtmoy-corrupted location several days' travel from Blingdenstone (*not* Velkynvelve), with the Big Heart Fungus and Zuggtmoy icon present
-- **Immediate Situation:** Mid-combat against Ilvara Mizzrym, the Big Heart Fungus, remaining spore servants, and Jorlan Duskryn. Ilvara escaped Zalthir's grapple and repositioned. The Big Heart Fungus is still standing and has deployed a 20-foot spore cloud that poisoned Zalthir. The Zuggtmoy icon took 12 fire damage but still stands. Zalthir is poisoned and out of actions, hovering above the spore cloud. Thorin is engaged with Jorlan. Grygum has used Dust of Suleiman on the fungus. Daz has expended his 4th-level Fireball. Asha is holding the perimeter outside. The fight is ongoing and unresolved.
+- **Immediate Situation:** Mid-combat against Ilvara Mizzrym, the Big Heart Fungus, remaining spore servants, and Jorlan Duskryn. Ilvara escaped Zalthir's grapple and repositioned. The Big Heart Fungus is still standing and has deployed a 20-foot spore cloud that poisoned Zalthir. The Zuggtmoy icon took 12 fire damage but still stands. Zalthir is poisoned and out of actions, hovering above the spore cloud. Thorin is engaged with Jorlan. Gyrgum has used Dust of Suleiman on the fungus. Daz has expended his 4th-level Fireball. Asha is holding the perimeter outside. The fight is ongoing and unresolved.
 
 ## Tracked Items
 

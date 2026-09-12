@@ -2,7 +2,7 @@
 
 ### Skiit the Derro - Pit Encounter (Whorlstone Tunnels area)
 - **Session:** Chapter 20
-- **Outcome:** Success. Grygum attempted to intimidate a Derro named Skiit who was disposing of body parts into a zombie pit. When intimidation failed and Skiit became hostile/suspicious, Grygum pushed him into the pit. Daz then killed Skiit using Maximilian's Earthen Grasp followed by Toll the Dead.
+- **Outcome:** Success. Gyrgum attempted to intimidate a Derro named Skiit who was disposing of body parts into a zombie pit. When intimidation failed and Skiit became hostile/suspicious, Gyrgum pushed him into the pit. Daz then killed Skiit using Maximilian's Earthen Grasp followed by Toll the Dead.
 - **Consequences:** Ulnara, the derro necromancer overseeing the zombie operation, was cowed into submission and believes the party ("the Ember Vanguard") works with the Demogorgon cult under Pliinki. She pledged cooperation.
 
 ### Ulnara's Zombie Pit - Necromancer Encounter
@@ -12,7 +12,7 @@
 
 ### Derro Patrol Ambush
 - **Session:** Chapter 20
-- **Outcome:** Success. A Derro patrol was initially being bypassed peacefully until Grygum declared his worship of Bahamut, provoking an attack. All Derro in the patrol were killed by the combined efforts of Thorin (longsword), Daz (magic missiles), and Zalthir (critical strike with darkness).
+- **Outcome:** Success. A Derro patrol was initially being bypassed peacefully until Gyrgum declared his worship of Bahamut, provoking an attack. All Derro in the patrol were killed by the combined efforts of Thorin (longsword), Daz (magic missiles), and Zalthir (critical strike with darkness).
 - **Consequences:** No surviving Derro from the patrol.
 
 ### Discovery of Narrak's Ritual Chamber
@@ -30,7 +30,7 @@
 ## NPC State Changes
 
 ### Skiit (Derro)
-- **Status:** Dead. Killed by Daz via Toll the Dead after being pushed into the zombie pit by Grygum.
+- **Status:** Dead. Killed by Daz via Toll the Dead after being pushed into the zombie pit by Gyrgum.
 
 ### Ulnara (Derro Necromancer, Council of Savants)
 - **Status:** Alive, cowed, and cooperative. Believes the party serves Pliinki and the Demogorgon cult. Operating a zombie creation pit in the Whorlstone Tunnels area.
@@ -50,7 +50,7 @@
 ## Party Current Situation
 
 - **Current Location:** Deep within the Whorlstone Tunnels beneath Gracklstugh, inside Narrak's ritual chamber.
-- **Immediate Situation:** The party (Grygum, Daz, Thorin, Zalthir) has infiltrated Narrak's ritual cavern undetected. Narrak and his Derro apprentices along with death dogs are present and have not yet noticed the party. Companions (Jimjar, Spiderbait, Sarith, Eldeth, Stool) are waiting outside the cave entrance.
+- **Immediate Situation:** The party (Gyrgum, Daz, Thorin, Zalthir) has infiltrated Narrak's ritual cavern undetected. Narrak and his Derro apprentices along with death dogs are present and have not yet noticed the party. Companions (Jimjar, Spiderbait, Sarith, Eldeth, Stool) are waiting outside the cave entrance.
 
 ## Tracked Items
 

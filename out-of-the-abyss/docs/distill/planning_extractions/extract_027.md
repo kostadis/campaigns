@@ -2,7 +2,7 @@
 
 **Gru Manga (Ettin)**
 - Appeared in combat in the cavern, roaring and attacking the party.
-- Targeted Grygum, convinced he was the source of pain.
+- Targeted Gyrgum, convinced he was the source of pain.
 - Was enveloped in magical darkness by Zalthir, grappled by Zalthir's Eldritch Maul tentacles, and ultimately killed by Zalthir's final blow.
 - Last status: **Dead**.
 
@@ -10,16 +10,16 @@
 - Actively leading or sustaining a ritual involving a two-headed stone giant statue during combat.
 - Shouted ritual/ideological proclamations during the fight: "Fools, your sacrifice is but a step toward glory!" (repeated with waning conviction).
 - Was restrained by Daz's Maximilian's Earthen Grasp and failed to break free.
-- Attacked Grygum and struck Thorin with a short spear while restrained.
+- Attacked Gyrgum and struck Thorin with a short spear while restrained.
 - Final words: "No, the ritual cannot be undone!" before being killed by Thorin's decisive blow.
 - Body looted: yielded gold, Keoghtom's Ointment, strange texts including *The Rituals of the Two-Headed Beast*.
 - Last status: **Dead**, killed by Thorin.
 
 **Derro (Multiple, unnamed)**
 - Chanting "die, die, die" throughout combat as part of the ritual.
-- One Derro struck Grygum with a hook sphere, knocking him prone and breaking his concentration.
-- One weaker Derro northeast of Grygum killed instantly by Daz's Magic Missile.
-- One Derro hit by Grygum's Tasha's Caustic Brew, afflicted with ongoing acid damage.
+- One Derro struck Gyrgum with a hook sphere, knocking him prone and breaking his concentration.
+- One weaker Derro northeast of Gyrgum killed instantly by Daz's Magic Missile.
+- One Derro hit by Gyrgum's Tasha's Caustic Brew, afflicted with ongoing acid damage.
 - One additional Derro killed efficiently by Zalthir during the battle.
 - One Derro noted as still present and unnoticed in the background after combat concluded; flagged by Daz for later consideration.
 - Last status: Most **Dead**; one possibly still at large in the cavern.
@@ -31,7 +31,7 @@
 
 **Stool**
 - Present after combat concluded.
-- Vocally pleading with Zalthir and Grygum to go save "Rump-a-dump" (likely a companion or ally).
+- Vocally pleading with Zalthir and Gyrgum to go save "Rump-a-dump" (likely a companion or ally).
 - Last known location: Present in the cavern with the party post-combat.
 
 **Thorin**

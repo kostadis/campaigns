@@ -3,7 +3,7 @@
 
 ---
 
-## Grygum — Looting the Drow Outpost
+## Gyrgum — Looting the Drow Outpost
 
 The keys were the first thing I noticed. A jailer's ring, iron and heavy, each key worn smooth from years of use. I turned them over in my hands and felt the particular weight of irony settle in my chest.
 

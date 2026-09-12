@@ -4,7 +4,7 @@ The Wyrmsmith of Gracklstugh, a young red dragon, appeared by dive-bombing the p
 
 Themberchaud declared the party his "agents, bound by my protection" and offered them an "express service" to bypass the checkpoints and patrols of the Keepers of the Flame. He commanded them to climb aboard, and when they did, he took off and flew them through the cavern, proudly proclaiming it "my town." He clearly believes he is in charge of Gracklstugh, though in reality he serves as a glorified lighter for the Duergar forges. His maturity has been adversely affected by this peculiar role.
 
-When the party requested to go to the docks, Themberchaud was unimpressed, declaring his agents had "more pressing matters than to loiter among the common rabble." He had no actual plan of his own and tried to save face by asking the party where they thought they should look for information. Zalthir offered a face-saving excuse — that there had been an attack on the docks with potential new intelligence — and Themberchaud agreed. During a sharp turn, his belly rolled instead of gliding, causing Grygum, Thorin, and Daz to fall off (they were rescued by Misty Step, Zalthir's wings, and Jimjar's rope).
+When the party requested to go to the docks, Themberchaud was unimpressed, declaring his agents had "more pressing matters than to loiter among the common rabble." He had no actual plan of his own and tried to save face by asking the party where they thought they should look for information. Zalthir offered a face-saving excuse — that there had been an attack on the docks with potential new intelligence — and Themberchaud agreed. During a sharp turn, his belly rolled instead of gliding, causing Gyrgum, Thorin, and Daz to fall off (they were rescued by Misty Step, Zalthir's wings, and Jimjar's rope).
 
 He also excitedly detoured to a forge, shouting "I am Themberchaud the Wyrmsmith, bringer of flame!" and breathed fire. The Duergar workers rolled their eyes, not taking him seriously. He then flew the party to the docks and deposited them there. The party's association with Themberchaud contributed to the Duergar's fear that they were the Ember Vanguard.
 
@@ -14,11 +14,11 @@ Referenced but did not directly appear. He had previously warned the party that 
 
 ## Eldeth
 
-Mentioned as someone who would demand to see what the party found if they passed through the Darklake District, and sharing those findings would trigger violence. At the end of the session, when Grygum suggested scuttling the boat and repairing it later with Mending, Eldeth commented that spellcasters who could cast Mending were in high demand by navies — in naval combat, the mender is the first person targeted because a ship can't be sunk until the mender is killed, making such spellcasters rare.
+Mentioned as someone who would demand to see what the party found if they passed through the Darklake District, and sharing those findings would trigger violence. At the end of the session, when Gyrgum suggested scuttling the boat and repairing it later with Mending, Eldeth commented that spellcasters who could cast Mending were in high demand by navies — in naval combat, the mender is the first person targeted because a ship can't be sunk until the mender is killed, making such spellcasters rare.
 
 ## Jimjar
 
-The ghoul Jimjar appeared during the dragon flight, shouting "Anyone want to make a bet that Grygum is going to survive?" when Grygum fell off Themberchaud. He then threw a rope and caught the falling orc, helping pull him back onto the dragon. Later, just as the party was about to set sail toward the Neverlight Grove, Jimjar made a bizarre bet: "I'll bet you an empty shell gem that this circle of joy will reveal itself to be a circle of unwilling vows before you leave it" — essentially predicting a wedding involving demons and mushrooms. Grygum took him up on the bet.
+The ghoul Jimjar appeared during the dragon flight, shouting "Anyone want to make a bet that Gyrgum is going to survive?" when Gyrgum fell off Themberchaud. He then threw a rope and caught the falling orc, helping pull him back onto the dragon. Later, just as the party was about to set sail toward the Neverlight Grove, Jimjar made a bizarre bet: "I'll bet you an empty shell gem that this circle of joy will reveal itself to be a circle of unwilling vows before you leave it" — essentially predicting a wedding involving demons and mushrooms. Gyrgum took him up on the bet.
 
 ## Rumpadump (Rump-a-dump)
 

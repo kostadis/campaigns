@@ -11,7 +11,7 @@
 - **Outcome:** Bloppblippodd was killed by her father Ploopploopeen in a fatal blow at the profane altar. Her death completed the ritual she had been conducting.
 
 ### Demogorgon's rise from the Darklake at Sloobludop — demon lord first appearance
-- **Outcome:** Occurred immediately after Bloppblippodd's death. The sacrificial ritual was completed, and Demogorgon — a thirty-foot-tall, two-headed demon lord — emerged from the Darklake. The party witnessed this event directly. Grygum identified the creature as Demogorgon, Prince of Demons.
+- **Outcome:** Occurred immediately after Bloppblippodd's death. The sacrificial ritual was completed, and Demogorgon — a thirty-foot-tall, two-headed demon lord — emerged from the Darklake. The party witnessed this event directly. Gyrgum identified the creature as Demogorgon, Prince of Demons.
 
 ### Kuo-toa day's catch — capture encounter near Sloobludop
 - **Outcome:** The party was brought to Sloobludop as offerings/sacrifices, fulfilling the arrangement Ploopploopeen made. They were herded toward a sacrificial depression near the altar before the kuo-toa civil war broke out.
@@ -33,7 +33,7 @@
 - Successfully killed his daughter. Still present in Sloobludop during the kuo-toa civil war as Demogorgon rises.
 
 ### Demogorgon — manifested in the Darklake at Sloobludop
-- Rose from the Darklake as a thirty-foot-tall, two-headed demon lord. Identified by Grygum as the Prince of Demons.
+- Rose from the Darklake as a thirty-foot-tall, two-headed demon lord. Identified by Gyrgum as the Prince of Demons.
 
 ### Hemath — duergar arms dealer, alive
 - Encountered as a fellow prisoner/sacrifice in Sloobludop. An arms dealer from Gracklstugh who was captured after promising weapons to the archpriest of the Deep Father. Told the party to find him in Gracklstugh if they survive. Current fate during the chaos is unclear.
@@ -62,10 +62,10 @@
 ## Party Accomplishments & Acquisitions
 
 ### Treasure looted from Ploopploopeen's hut
-- Grygum pillaged gold and magic items from Ploopploopeen's thatched hut during the chaos of the kuo-toa civil war. Specific items not detailed beyond "gold and magic."
+- Gyrgum pillaged gold and magic items from Ploopploopeen's thatched hut during the chaos of the kuo-toa civil war. Specific items not detailed beyond "gold and magic."
 
 ### Discovery of demon lords loose in the Underdark — party awareness moment
-- Grygum identified the entity rising from the Darklake as Demogorgon, Prince of Demons, based on his clerical training under his mentor Grog'Bahamut. This is the party's first direct awareness that a demon lord is present in the Underdark.
+- Gyrgum identified the entity rising from the Darklake as Demogorgon, Prince of Demons, based on his clerical training under his mentor Grog'Bahamut. This is the party's first direct awareness that a demon lord is present in the Underdark.
 
 ### Contact: Hemath the duergar arms dealer
 - Gained a potential contact in Gracklstugh — Hemath, a duergar arms dealer, who asked them to find him there if they survive.
@@ -73,7 +73,7 @@
 ## Party Current Situation
 
 - **Current location:** Sloobludop, at or near the docks on the Darklake
-- **Immediate situation:** Demogorgon has just risen from the Darklake. A kuo-toa civil war rages around them. Grygum has shouted for the party to run. They have identified a boat at the far eastern part of the cave guarded by a small group of isolated kuo-toa. Kuo-toa fishers in the water have been killed by something underwater. The party is preparing to flee by boat.
+- **Immediate situation:** Demogorgon has just risen from the Darklake. A kuo-toa civil war rages around them. Gyrgum has shouted for the party to run. They have identified a boat at the far eastern part of the cave guarded by a small group of isolated kuo-toa. Kuo-toa fishers in the water have been killed by something underwater. The party is preparing to flee by boat.
 
 ## Tracked Items Confirmed Present
 

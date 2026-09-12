@@ -18,13 +18,13 @@ The blue ink on *The Discoveries* had been laid down after the blue ink on anoth
 
 "The product placement notes," I said. A homage to some other adventure, a book you could go and buy if the mood took you.
 
-"Oh, the mystery," Grygum said. "You have to go buy the other adventure." He found this funnier than I did. Most things, he does.
+"Oh, the mystery," Gyrgum said. "You have to go buy the other adventure." He found this funnier than I did. Most things, he does.
 
 Then the second book complicated itself. *The Golden Ass* was a comedy. Janussi had been writing down jokes he found funny — the man had a sense of humor he'd evidently kept private. "No, wait," I said. "The blue ink captures both notes on obscure spells and jokes?" The same hand, the same fresh ink, two registers entirely. Jokes first. The ink on those had dried. Then he'd flopped over into the spell research. "So he was noting down jokes, and then flopped over to spell research." Yes. And somewhere in the seam between the two, the comedy book had walked out of the room.
 
 That was the absence. The notes proved the book had been here — you do not annotate a thing you do not hold. And now it was gone, and it was the only thing gone. A room tells you most by what it is missing. The Garden Shadow had a saying about that — or possibly Brother Tharusk did, the tall one who always smelled of incense; I wasn't listening to either of them closely. The point survived anyway: count what should be present before you count what is.
 
-Thorin had been turning the black residue over. "What color was, like, on his fingers and mouth, was it black or red?" Black. Definitively not the blue ink — Grygum had already settled that, cross-referenced and certain. So the black on the man's mouth came from somewhere the blue ink did not.
+Thorin had been turning the black residue over. "What color was, like, on his fingers and mouth, was it black or red?" Black. Definitively not the blue ink — Gyrgum had already settled that, cross-referenced and certain. So the black on the man's mouth came from somewhere the blue ink did not.
 
 A gift tag surfaced from the wastebasket as we were leaving — almost behind the desk, in a cramped, sour hand. "Wait, is that describing the type of writing?" Thorin asked. It was. "It's, like, grumpy?" I said. Grumpy. Cramped. The script of someone who resented the act of writing it. *To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival.* Thorin lit up. "Okay, so that supports my theory. Some sort of rival gave him a gift, but it was sort of like a bitter thing."
 

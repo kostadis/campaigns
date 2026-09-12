@@ -15,8 +15,8 @@ table.
 |---|---|
 | **A'lai** | **XMM Archmage chassis, AC 17, started at 99 — took 37 — ⭐ AT 62.** Cornered behind a bookshelf on the second-floor landing (15 ft up). **Every spell slot burned.** Reached for *wall of force* and found nothing. Down to **Multiattack: 4× Arcane Burst, +9, 27 (4d10+5) force, range 150 ft.** Was restrained, *misty step*ed out. |
 | **Zalthir** | **UNCONSCIOUS.** Glabbagool positioned to stabilise. *(Gabe absent; Kostadis ran him.)* |
-| **Daz** | Level 9 as of this session. Took **26** from *Arcane Burst*. Carrying **nothing** — palmed the sapphire to Grygum, Sleight of Hand 19, while making a show of fleeing with it. |
-| **Grygum** | ⭐ Holds **the real High Tower key #2 AND the sapphire.** Concentrating on *Tasha's Caustic Brew*. |
+| **Daz** | Level 9 as of this session. Took **26** from *Arcane Burst*. Carrying **nothing** — palmed the sapphire to Gyrgum, Sleight of Hand 19, while making a show of fleeing with it. |
+| **Gyrgum** | ⭐ Holds **the real High Tower key #2 AND the sapphire.** Concentrating on *Tasha's Caustic Brew*. |
 | **Thorin** | Engaged with the thugs. Used Menacing Attack (superiority die). |
 | **Thug 1** | **Dead** — 8 acid damage. |
 | **Thug 2** | **Alive**, acid-covered, 2 damage taken. **2d4 at the start of each of its turns.** |
@@ -71,10 +71,10 @@ his output — and the remaining three go wide, spread thin, or into cover. He h
 spent thirty-one years being exact about things; let him be exact about this.
 **Insight if anyone calls it** — against a man who is *more* fluent when lying.
 
-**The colder version.** He does nothing at all and lets Grygum's acid finish it
+**The colder version.** He does nothing at all and lets Gyrgum's acid finish it
 (2d4 at the start of its turn, 30 to go — slow, and he may not have the time).
 The tell is free to anyone paying attention: ⭐ **the wizard never once tried to
-save his own men.** Grygum notices exactly this kind of thing.
+save his own men.** Gyrgum notices exactly this kind of thing.
 
 > **⚠️ Failure state worth leaving open — if the party captures the thug or it
 > escapes**, A'lai's plan collapses and he has to improvise in front of them.
@@ -135,7 +135,7 @@ Captivity reframed as fieldcraft. His alibi and his re-hire in one breath.
 
 ### ⭐⭐ And he is wrong
 
-**A'lai does not know Grygum has it.** He watched Daz take the sapphire and
+**A'lai does not know Gyrgum has it.** He watched Daz take the sapphire and
 watched Daz run with it. He never saw the handoff — Sleight of Hand 19, while
 A'lai was busy being counterspelled and grappled.
 

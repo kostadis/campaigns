@@ -7,7 +7,7 @@
 ### Daz
 - **Items gained:** Share of loot from Narrak's body and chest. Acquired key intelligence documents and texts related to the ritual.
 
-### Grygum
+### Gyrgum
 - **Items gained:** Share of loot from Narrak's body and chest.
 - **Spell usage of note:** Used True Strike tactically in combination with mace attacks; relied on Tasha's Caustic Brew after losing concentration on an earlier acid spell.
 
@@ -15,8 +15,8 @@
 
 - **Zalthir** — Killed Gru Manga, a major threat, with a decisive final blow after grappling him with Eldritch Maul. Positive: demonstrated growing combat effectiveness and transformation from prisoner to formidable force.
 - **Daz** — Maintained Maximilian's Earthen Grasp on Narrak throughout the fight, keeping the cult leader restrained and preventing the ritual from completing. Positive: tactical dominance and intelligence-gathering instinct.
-- **Grygum** — Was knocked prone and lost concentration on his spell early in the fight, but recovered and re-engaged with Tasha's Caustic Brew and melee strikes. Mixed: setback followed by resilience. Framed his actions explicitly through devotion to Bahamut — positive for faith arc.
-- **Stool** — Emotionally pleaded with Zalthir and Grygum to go rescue Rumpadump. Positive: demonstrates loyalty and personal stakes.
+- **Gyrgum** — Was knocked prone and lost concentration on his spell early in the fight, but recovered and re-engaged with Tasha's Caustic Brew and melee strikes. Mixed: setback followed by resilience. Framed his actions explicitly through devotion to Bahamut — positive for faith arc.
+- **Stool** — Emotionally pleaded with Zalthir and Gyrgum to go rescue Rumpadump. Positive: demonstrates loyalty and personal stakes.
 
 ## Relationships & Decisions
 

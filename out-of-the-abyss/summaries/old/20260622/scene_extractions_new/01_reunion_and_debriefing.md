@@ -7,14 +7,14 @@ source: gmassist
 
 ## Scene summary (from gm-assist, verbatim)
 
-#### Grygum returns from a popular talk to reunite with the party and discuss the ongoing murder investigation.
-- Grygum returns to the group after his wildly successful presentation, which had taken the audience by storm and been "an extraordinarily popular event."
+#### Gyrgum returns from a popular talk to reunite with the party and discuss the ongoing murder investigation.
+- Gyrgum returns to the group after his wildly successful presentation, which had taken the audience by storm and been "an extraordinarily popular event."
 - Daral praises Thorin's investigative skills and Dawnbringer's charm in an over-the-top fashion, clearly laying it on thick, while pleading for a quick Lesser Restoration: "The clock is ticking."
 - The party explains Daral's condition: as Thorin put it, "he gives a gift, and then decides if the person doesn't appreciate it enough, he should take it back. And in doing so, he actually licked his finger, and then licked the book, and then licked his finger." They suspect he is poisoned and will die at midnight, and want to secure his cooperation before healing him.
-- Fembris Lancer arrives, excited and passionate — "Grygum, that was fantastic!" — pulling out notes and theories he wishes to share with Grygum, asking for recognition in his paper.
-- Grygum dismissively directs Fembris to leave his notes with Glabbagool, his 'secretary.'
+- Fembris Lancer arrives, excited and passionate — "Gyrgum, that was fantastic!" — pulling out notes and theories he wishes to share with Gyrgum, asking for recognition in his paper.
+- Gyrgum dismissively directs Fembris to leave his notes with Glabbagool, his 'secretary.'
 - Glabbagool examines Fembris's notes, declares them 'not nutritious,' and laments the absence of cheese before reluctantly accepting them.
-- Fembris proposes co-writing a monograph; Grygum corrects him: "I think you might misunderstand the term monograph. It's a work that has one author." They negotiate down to a "duograph," then an autograph with acknowledgment, settling on a spot "in the acknowledgement section."
+- Fembris proposes co-writing a monograph; Gyrgum corrects him: "I think you might misunderstand the term monograph. It's a work that has one author." They negotiate down to a "duograph," then an autograph with acknowledgment, settling on a spot "in the acknowledgement section."
 - The party reviews the murder timeline, establishing that at 2:30 PM on the day of the murder, A'lai visited Leuwin at the Oak Tree Apothecary asking for fresh fennel for indigestion; while Leuwin helped A'lai in the garden, the dragonborn (believed to be Alkrist) showed up, collected the poison, and made a mess. Nibbles the squirrel witnessed the "lizard-skinned person" that Leuwin missed.
 - The group debates whether the person who stole the sapphire and the person who stole the locket are the same individual, concluding they are likely different people, since the locket cannot be stolen from a living person who possesses it, and the sapphire can only recover the locket from someone else.
 - Zalthir clarifies that "the thief" in the notes refers to the person who made the mess in the apothecary (Alkrist), not the person who later removed the heart and looted the safe.
@@ -22,10 +22,10 @@ source: gmassist
 
 ## Verbatim moments
 
-**[GM]** — *Grygum returns from his wildly successful talk*
-> "All right, so, Grygum finally returns from the, the discussion, the talk, which apparently had taken everybody by storm. It had been an extraordinarily popular event."
+**[GM]** — *Gyrgum returns from his wildly successful talk*
+> "All right, so, Gyrgum finally returns from the, the discussion, the talk, which apparently had taken everybody by storm. It had been an extraordinarily popular event."
 
-**[Grygum]** — *asking what the party learned*
+**[Gyrgum]** — *asking what the party learned*
 > "Yeah, guys, what, what did you, what did you find out while I was out?"
 
 **[GM]** — *Daral lays praise on thick while pleading for restoration*
@@ -34,21 +34,21 @@ source: gmassist
 
 **[GM]** — *narrating Daral's desperation*
 > "If you were going to die in a few hours, you too would lay it on, as thick as necessary."
-> "But Grygum, I'm sincere here, I am told that you, too, could cast Lesser Restoration?"
+> "But Gyrgum, I'm sincere here, I am told that you, too, could cast Lesser Restoration?"
 
-**[Grygum]**
+**[Gyrgum]**
 > "This is true."
 
 **[GM]** — *Daral pleads*
 > "Well, I mean, I don't mean to be rude, but would somebody be willing to just restore me for a second, and just, you know, a quick, lesser restoration? The clock is ticking."
 
-**[Grygum]** — *confused about what he's healing*
+**[Gyrgum]** — *confused about what he's healing*
 > "What… sorry, what… what happened to… to… what… what is the problem?"
 
 **[GM]** — *Daral flatters about the quadrangle issue*
-> "Well, Mr. Grygum, I, you know, as a cleric of Bahamut, and might I say that your entire position on the quadrangle issue was, in fact, a brilliant insight that has dramatically transformed the."
+> "Well, Mr. Gyrgum, I, you know, as a cleric of Bahamut, and might I say that your entire position on the quadrangle issue was, in fact, a brilliant insight that has dramatically transformed the."
 
-**[Grygum]**
+**[Gyrgum]**
 > "No, no, I mean, what, what am I?"
 > "am I restoring?"
 
@@ -61,45 +61,45 @@ source: gmassist
 **[GM]** — *there is time to heal*
 > "Plenty of time. From your research, you know that there's plenty of time to heal him."
 
-**[Grygum]** — *delaying the restoration*
+**[Gyrgum]** — *delaying the restoration*
 > "In due time, my dear, in due time."
 
 **[Thorin]** — *on why they must secure cooperation first*
 > "And it's… and there's… patients that, like."
 > "He'll take off at the first chance, and, like, we'll know, like, have a hard time finding him, he'll avoid us, and won't be cooperative."
 
-**[Grygum]** — *recognizing Daral*
+**[Gyrgum]** — *recognizing Daral*
 > "Actually, didn't we have somebody like that with our party anyhow? Did we already send him away?"
 
 **[GM]**
 > "Oh, that's the same guy."
 
 **[scene tag — Fembris Lancer Arrives]**
-- Fembris Lancer arrives feeling passionate and excited, gushing over Grygum's talk.
+- Fembris Lancer arrives feeling passionate and excited, gushing over Gyrgum's talk.
 
 **[GM]** — *Fembris bursts in*
-> "Wait, so also Fembris Lancer arrives, and he's, like, he's, like, feels like he's, he's, like, passionate, and he's, he's just kind of goes, Grygum, that was fantastic!"
+> "Wait, so also Fembris Lancer arrives, and he's, like, he's, like, feels like he's, he's, like, passionate, and he's, he's just kind of goes, Gyrgum, that was fantastic!"
 
-**[Grygum]**
+**[Gyrgum]**
 > "Why, thank you. I do my best."
 
 **[GM]** — *Fembris offers his notes and theories*
 > "And he starts…"
 > "He goes, he pulls out a small set of notes. Now, I took some notes, and I have some of my own theories. I was wondering if you would be willing to."
 
-**[Grygum]** — *deflecting Fembris to Glabbagool*
+**[Gyrgum]** — *deflecting Fembris to Glabbagool*
 > "Oh, yes, please, deposit them, with my, with my secretary, and I, I, I indicate, Glabbagool."
 
 **[GM]** — *Glabbagool examines the notes*
 > "Glabbagool, he hands it over to Glabbagool. Does Glabbagool turn it into acid, or carefully put it into the bag of holding?"
 
-**[Grygum]**
+**[Gyrgum]**
 > "It, it, I'll leave it up to him."
 
 **[GM]** — *Glabbagool's verdict*
 > "Okay. Glabbagool looks at it and goes, this is not nutritious."
 
-**[Grygum]**
+**[Gyrgum]**
 > "It's never stopped him before, but I…"
 
 **[GM]** — *Glabbagool laments the cheese*
@@ -109,33 +109,33 @@ source: gmassist
 > "Fembris is kind of, like, crushed, the way that, you know, a person who shows up at that"
 > "shows up at that TV producer with a script, and then the TV producer says, leave it with my secretary, and the secretary puts it on the pile that goes directly into the trash compactor."
 
-**[Grygum]** — *on the secrecy of the pile*
+**[Gyrgum]** — *on the secrecy of the pile*
 > "I mean, that's supposed… that part of it is supposed to be, you know, Subarosa, but the fact that I'm, you know, adding it to the pile, that's evident."
 
 **[GM]** — *Fembris proposes a monograph*
-> "Well, I mean, thank you, thank you, Mr. Grygum. It's such a wonderful, such a wonderful… and if you ever… I would be delighted to write a monograph with you. Perhaps we could… we could write some notes together."
+> "Well, I mean, thank you, thank you, Mr. Gyrgum. It's such a wonderful, such a wonderful… and if you ever… I would be delighted to write a monograph with you. Perhaps we could… we could write some notes together."
 
-**[Grygum]** — *correcting the term*
+**[Gyrgum]** — *correcting the term*
 > "I think you might misunderstand the term monograph."
 > "It's… it's a work that has one author."
 
 **[GM]** — *Fembris negotiates down*
 > "A duograph, perhaps, then."
 
-**[Grygum]**
+**[Gyrgum]**
 > "That's possible, yes, a dual log."
 
 **[GM]**
 > "Oh, yeah, or perhaps an autograph where I'm acknowledged?"
 
-**[Grygum]**
+**[Gyrgum]**
 > "Perhaps, yeah."
 > "There's always room in the, acknowledgement section."
 
 **[GM]** — *Fembris promises a draft*
 > "Thank you, thank you, thank you, thank you. I'll produce a draft by tomorrow."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Excellent, excellent."
 
 **[GM]** — *the alpha at the door, Fembris asks about the others*
@@ -220,9 +220,9 @@ source: gmassist
 > "Yeah, they're in possession of it. You can't… you can steal it. So…"
 
 **[scene tag — The Unopened Safe]**
-- Grygum raises the still-locked Alkrist safe from the open threads.
+- Gyrgum raises the still-locked Alkrist safe from the open threads.
 
-**[Grygum]** — *raising the unopened safe*
+**[Gyrgum]** — *raising the unopened safe*
 > "I'm… I'm interested. We… we still have a… that… that locked safe, right?"
 > "Well, okay, the… at the end of this document, it says, open threads, Alkrist lock safe, unopened."
 
@@ -234,7 +234,7 @@ source: gmassist
 **[GM]** — *Glabbagool's eat-through-walls idea*
 > "Although Glabbagool, now that he says it, although I guess I could have asked… I could have eaten through the safe. It would have taken a while."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Well, this is a sort of,"
 > "Out-of-the-box thinking that we need sometimes."
 

@@ -8,13 +8,13 @@ Focus: Zalthir processes the city as an overwhelming grid of noise and movement,
 
 - They observe a larger-than-life bronze statue on Castle Road depicting the famous chess match between Stroud and Protanther, rendered in inlaid marble, with a small brass plaque reading: *This is the position. The move is yours.*
 
-- Grygum admires it, noting the game has been studied for years, and muses: "If only Protanther had moved his Rook, all could have gone another way" — immediately discovering that any expressed opinion draws a crowd of passionate strangers eager to debate the question of the age.
+- Gyrgum admires it, noting the game has been studied for years, and muses: "If only Protanther had moved his Rook, all could have gone another way" — immediately discovering that any expressed opinion draws a crowd of passionate strangers eager to debate the question of the age.
 
 - Thorin acquires mithril plate armor during the party's time in the city, bringing his armor class to 22.
 
-- Grygum expresses interest in a javelin of lightning and wants to visit a Bahamut shrine or temple, as well as something adjacent to Bahamut for recruiting purposes.
+- Gyrgum expresses interest in a javelin of lightning and wants to visit a Bahamut shrine or temple, as well as something adjacent to Bahamut for recruiting purposes.
 
-- The party is told that Waterdeep is effectively a place where they can buy almost anything, but it is expensive — compared by Grygum to New Jersey.
+- The party is told that Waterdeep is effectively a place where they can buy almost anything, but it is expensive — compared by Gyrgum to New Jersey.
 
 <!-- Move each quote below under the beat where it belongs. -->
 <!-- Remove OOC lines (damage calls, mechanic announcements) before narrating. -->
@@ -27,7 +27,7 @@ Focus: Zalthir processes the city as an overwhelming grid of noise and movement,
 GM: "Apparently, one downside is Glabbagool has to stay in the bag in the entire water jeep visit, because No oozes in Waterdeep."
 
 <!-- suggesting a workaround -->
-Grygum: "Could… could we disguise him? Could I use a spell for that?"
+Gyrgum: "Could… could we disguise him? Could I use a spell for that?"
 
 <!-- moral objection -->
 Thorin: "I mean, can we take a stand in solidarity?"
@@ -48,10 +48,10 @@ GM: "As you're walking around, I mean, Stroud is everywhere. Like, there are sta
 ### [GM]
 
 <!-- admiring the chess study angle -->
-Grygum: "I mean, of course, the game has been studied for years."
+Gyrgum: "I mean, of course, the game has been studied for years."
 
 <!-- musing on Protanther's move, immediately drawing debate -->
-Grygum: "If. If only Protanther had, had, had moved his, his, his Rook, all, all, all could have been, all could have, all could have gone another way."
+Gyrgum: "If. If only Protanther had, had, had moved his, his, his Rook, all, all, all could have been, all could have, all could have gone another way."
 
 <!-- consequence of expressing any opinion -->
 GM: "And everybody looks, of course, you immediately discover that it's once again. the only question of the age, and you've clearly been, you know, people start to wonder, where do you stand on the question of the age?"
@@ -64,18 +64,18 @@ Thorin: "I wasn't as creative as Gabe, and I just got some mithril plate. I'm su
 <!-- dry response -->
 GM: "That's what area of effect spells are for."
 
-### [Grygum's Purchases and Shrine Visit]
+### [Gyrgum's Purchases and Shrine Visit]
 
 <!-- figuring out what to buy -->
-Grygum: "I'm trying to figure out what I want. I feel like I want some sort of a… oh."
+Gyrgum: "I'm trying to figure out what I want. I feel like I want some sort of a… oh."
 
 <!-- later, announcing the javelin -->
-Grygum: "I want a… I want a Javelin of lightning. Here, I'm pasting a link to…"
+Gyrgum: "I want a… I want a Javelin of lightning. Here, I'm pasting a link to…"
 
 ### [GM]
 
 <!-- on visiting a shrine -->
-Grygum: "So, yeah, Grygum does want to visit, a Bahamut shrine or temple, but, you know, it would be good to, to visit something that's sort of adjacent to Bahamut, to, you know, recruit a little."
+Gyrgum: "So, yeah, Gyrgum does want to visit, a Bahamut shrine or temple, but, you know, it would be good to, to visit something that's sort of adjacent to Bahamut, to, you know, recruit a little."
 
 ### [Waterdeep as an Expensive Anything-Goes Market]
 
@@ -88,4 +88,4 @@ Zalthir: "I assume we buy lots of cool stuff."
 ### [GM]
 
 <!-- comparison to New Jersey -->
-Grygum: "It's like New Jersey."
+Gyrgum: "It's like New Jersey."

@@ -1,7 +1,7 @@
 # Chapter 18.2 
 ## 1st day of the 2nd Tenday of Myrtul 1493
 ### Daz
-Daz looks at Flumph, Jimjar, Sarith, Stool, Eldeth, and Spiderbait, armed with Errde’s weapons. “Perhaps they will help us” as they follow him, Zalthir, Grygum, and Thorin, into the Derro slums of Gracklstugh. 
+Daz looks at Flumph, Jimjar, Sarith, Stool, Eldeth, and Spiderbait, armed with Errde’s weapons. “Perhaps they will help us” as they follow him, Zalthir, Gyrgum, and Thorin, into the Derro slums of Gracklstugh. 
 
 
 As he walks he reflects on the image of the egg that Flumph shared. 
@@ -13,7 +13,7 @@ The lettering on the egg rings a bell.
 “It’s too late.” 
 
 
-Grygum stares at him, “What do you mean?” 
+Gyrgum stares at him, “What do you mean?” 
 
 
 “A demon has already possessed the egg. There is no dragon there.” 
@@ -95,7 +95,7 @@ Daz overhears Thorin telepathically asking if Flumph will join them. Flumph says
 Jimjar moves to follow Rust, but Rust turns to him, “Only these four will come, the rest of you,” pointing at Spiderbait, Jimjar, Sarith, Stool and Eldeth, “can wait here.” 
 
 
-And so Daz, Thorin, Zalthir, and Grygum enter the chambers of the assassins. Rust marches them into a cave that is 70 feet long and 70 feet wide at its widest point. Inside is a large garden. Standing in the garden is Duergar with an eye patch. 
+And so Daz, Thorin, Zalthir, and Gyrgum enter the chambers of the assassins. Rust marches them into a cave that is 70 feet long and 70 feet wide at its widest point. Inside is a large garden. Standing in the garden is Duergar with an eye patch. 
 
 
 Daz takes note of a desk to the north with papers. 
@@ -226,7 +226,7 @@ Thorin reads it,
 ***LINGRICK XARDELVAR MY MOST GASEOUS ALLY!!!!!!*****”**
 
 
-He turns to Daz, “I think we have what we need.” He reads it out loud to Daz, Thorin, and Grygum. He then adds, “There are dozens more with one or two words of description, most of which are petty insults: 'Commoner,' 'Ugly,' 'Poor,' 'Wretched,' and so on.” 
+He turns to Daz, “I think we have what we need.” He reads it out loud to Daz, Thorin, and Gyrgum. He then adds, “There are dozens more with one or two words of description, most of which are petty insults: 'Commoner,' 'Ugly,' 'Poor,' 'Wretched,' and so on.” 
 
 
 Daz asks him, “But who wrote it?” 
@@ -250,7 +250,7 @@ Thorin turns to Flumph, Jimjar, Sarith, Stool, Eldeth, and Spiderbait and comman
 He then overhears Zalthir’s sigh. The sound of Thorin tiptoeing could wake the dead. Zalthir proposes a new plan: “I will cover you in Darkness and you will just be quiet.” 
 
 
-### Grygum 
+### Gyrgum 
 
 
 Past the caves they sneaked through, is a much larger tunnel, some 80 feet wide and hundreds of feet long. To the west, the tunnel opens up into a massive cave, glowing with faerzress, bioluminescent fungi, and shafts of white light that fall. GEttin g closer, he sees naturally formed shelves along the walls as well as a rocky mesa at the center of the cavern. His eye is drawn to crudely formed ramps connecting the different levels of the mesa up to the height of its two topmost tiers, which are linked by a sturdy bridge. 

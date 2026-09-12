@@ -20,14 +20,14 @@
 ## Party / Species Errors
 
 - **Location**: Summary / NPCs / throughout
-  **Issue**: Daz is described as an "apostate" and "drow evoker" — mostly consistent — but note Grygum is called a "half-orc cleric" in the recap.
-  **Evidence**: party.md lists **Grygum as Orc** (Cleric 8, Life Domain), not half-orc. (campaign_state.md does say "half-orc," so sources conflict; party sheet is authoritative for class/species.)
-  **Suggested fix**: Reconcile — per party.md, Grygum is an Orc, Life Domain cleric.
+  **Issue**: Daz is described as an "apostate" and "drow evoker" — mostly consistent — but note Gyrgum is called a "half-orc cleric" in the recap.
+  **Evidence**: party.md lists **Gyrgum as Orc** (Cleric 8, Life Domain), not half-orc. (campaign_state.md does say "half-orc," so sources conflict; party sheet is authoritative for class/species.)
+  **Suggested fix**: Reconcile — per party.md, Gyrgum is an Orc, Life Domain cleric.
 
-- **Location**: Party context / recap (Grygum abilities)
-  **Issue**: The recap has Grygum casting **Word of Radiance**.
-  **Evidence**: party.md lists Grygum's abilities as Revivify, Mending, acid breath, Spirit Guardians (campaign_state also lists Revivify). Word of Radiance is plausible for a cleric but not on his listed sheet.
-  **Suggested fix**: Confirm Word of Radiance is a known spell for Grygum, or note it as newly used.
+- **Location**: Party context / recap (Gyrgum abilities)
+  **Issue**: The recap has Gyrgum casting **Word of Radiance**.
+  **Evidence**: party.md lists Gyrgum's abilities as Revivify, Mending, acid breath, Spirit Guardians (campaign_state also lists Revivify). Word of Radiance is plausible for a cleric but not on his listed sheet.
+  **Suggested fix**: Confirm Word of Radiance is a known spell for Gyrgum, or note it as newly used.
 
 - **Location**: Scenes (Ambush) / Zalthir
   **Issue**: Recap says "Zalthir drove his fists into the animated armor" and grappled horrors — fine — but note Zalthir is **Brass Dragonborn** per party.md, while the recap elsewhere doesn't specify. World canon says "Bronze/gold Dragonborn."
@@ -43,7 +43,7 @@
 
 - **Location**: Items (The Inert Key) / campaign_state
   **Issue**: The recap treats "the mysterious key" Daz carries as inert to detect magic and the target of the horrors, but the campaign context distinguishes **two High Tower Library keys** — Kalan's (held by Daz) and Janussi's (via the missing locket, untraced).
-  **Evidence**: campaign_state: "Both High Tower Library keys (Janussi's via missing locket — untraced; Kalan's — held by Daz, passed from Grygum before he left for the disputation, Ch. 56)." The "inert / undetectable" property is not previously noted for Kalan's key.
+  **Evidence**: campaign_state: "Both High Tower Library keys (Janussi's via missing locket — untraced; Kalan's — held by Daz, passed from Gyrgum before he left for the disputation, Ch. 56)." The "inert / undetectable" property is not previously noted for Kalan's key.
   **Suggested fix**: Clarify which key this is (presumably Kalan's, held by Daz) and note the new "inert to detection" property as a fresh reveal, not established lore.
 
 - **Location**: Items (Dawnbringer) / party.md
@@ -100,4 +100,4 @@
   **Suggested fix**: Fine as new detail; just note it's newly established.
 
 ---
-**Overall**: The most serious issues are the **invented Bookwyrm identity** (real name "Skoda Vanaster," green dragonborn, First Keeper title, aunt of Alkrist) contradicting canon (reptilian First Reader, no family tie), the **Grygum species inconsistency** (orc vs. half-orc), and the **Daral midnight-watch timeline** potentially being pre-empted by his cure. These should be reconciled before the next session.
+**Overall**: The most serious issues are the **invented Bookwyrm identity** (real name "Skoda Vanaster," green dragonborn, First Keeper title, aunt of Alkrist) contradicting canon (reptilian First Reader, no family tie), the **Gyrgum species inconsistency** (orc vs. half-orc), and the **Daral midnight-watch timeline** potentially being pre-empted by his cure. These should be reconciled before the next session.

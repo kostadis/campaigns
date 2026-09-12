@@ -16,7 +16,7 @@
 **Thorin (Joe)** — *Reacting to Zalthir's critical hit on Ilvara*
 > "Tell me fish... about Nazis, punch them, I mean, why not, right?"
 
-**Ben Pfaff (Grygum)** — *Responding to the Nazi joke, quoting Indiana Jones*
+**Ben Pfaff (Gyrgum)** — *Responding to the Nazi joke, quoting Indiana Jones*
 > "Nazis? I hate those guys."
 
 **Gabe as Zalthir** — *After rolling another critical hit during Flurry of Blows on Ilvara*
@@ -76,7 +76,7 @@
 **Kostadis (GM)** — *Describing the aftermath of Insect Plague on the fungal minions*
 > "The minions all die. They had 13 hit points, you know."
 
-**Ben Pfaff (Grygum)** — *Concerned about the sentient ooze companion*
+**Ben Pfaff (Gyrgum)** — *Concerned about the sentient ooze companion*
 > "Oh, how about Globagool?"
 
 **Kostadis (GM)** — *Describing Glabbagool's situation*
@@ -99,7 +99,7 @@
 **Kostadis (GM)** — *Revealing the fungus's weakness*
 > "It's resistant to the usual stuff that funguses are resistant to, but if you hit it hard enough, it should die."
 
-**Ben Pfaff (Grygum)** — *Helpfully noting*
+**Ben Pfaff (Gyrgum)** — *Helpfully noting*
 > "It's not resistant to swords."
 
 **Kostadis (GM)** — *Revealing the key vulnerability*
@@ -114,7 +114,7 @@
 **Kostadis (GM)** — *Lamenting the loss of his carefully prepared encounter*
 > "I spent so much time creating this icon."
 
-**Ben Pfaff (Grygum)** — *Consoling the DM*
+**Ben Pfaff (Gyrgum)** — *Consoling the DM*
 > "I know, it was beautiful."
 
 **Gabe as Zalthir** — *Also consoling*
@@ -123,7 +123,7 @@
 **Kostadis (GM)** — *Continuing to mourn*
 > "Actually, it took more time trying to convert it into a cutting... anyway."
 
-**Ben Pfaff (Grygum)** — *Kindly*
+**Ben Pfaff (Gyrgum)** — *Kindly*
 > "I liked it very much, Gustatus."
 
 ---
@@ -131,7 +131,7 @@
 **Kostadis (GM)** — *Explaining Asha Vandree's continued deception about Daz*
 > "Vandree is very much, you know, enemy of my enemy situation, and plus she believes that Daz is an insane mage who's converted to Lothheism."
 
-**Ben Pfaff (Grygum)** — *Dryly assessing the accuracy of Asha's belief*
+**Ben Pfaff (Gyrgum)** — *Dryly assessing the accuracy of Asha's belief*
 > "Accurate."
 
 **Kostadis (GM)** — *Philosophically musing on the deception*
@@ -139,26 +139,26 @@
 
 ---
 
-**Ben Pfaff (Grygum)** — *Offering to revive fallen minions*
+**Ben Pfaff (Gyrgum)** — *Offering to revive fallen minions*
 > "If anybody is too saddened by the loss of any of our minions, I do have a Revivify spell that I could use to bring one of them back."
 
-**Kostadis (GM)** — *Correcting Grygum*
+**Kostadis (GM)** — *Correcting Gyrgum*
 > "No, they're not your minions, they're her minions."
 
-**Ben Pfaff (Grygum)** — *Sheepishly, reflecting on the many NPCs who've traveled with them*
+**Ben Pfaff (Gyrgum)** — *Sheepishly, reflecting on the many NPCs who've traveled with them*
 > "We used to have so many people traveling with us, I forgot."
 
 ---
 
-**Ben Pfaff (Grygum)** — *Moving past Jorlan toward Ilvara, not wanting to interfere in the lovers' quarrel*
+**Ben Pfaff (Gyrgum)** — *Moving past Jorlan toward Ilvara, not wanting to interfere in the lovers' quarrel*
 > "I don't want to get in the middle of it, but I'll follow up if necessary."
 
-**Kostadis (GM)** — *Narrating Grygum's diplomatic positioning between Jorlan and Ilvara*
+**Kostadis (GM)** — *Narrating Gyrgum's diplomatic positioning between Jorlan and Ilvara*
 > "Your line, this is between you and... you're doing your Bahamut, you know, like, this is... you guys obviously have got some couples issues, and I don't want to be between them."
 
 ---
 
-**Ben Pfaff (Grygum)** — *Attempting a Guiding Bolt against Ilvara and missing*
+**Ben Pfaff (Gyrgum)** — *Attempting a Guiding Bolt against Ilvara and missing*
 > "Ilvara seems like she's still trouble, so I'm going to cast a guiding bolt in that direction."
 
 ---
@@ -180,19 +180,19 @@
 **Kostadis (GM)** — *Announcing the arrival of new combatants*
 > "Just when you thought everything was under control..."
 
-**Ben Pfaff (Grygum)** — *Spotting new enemies*
+**Ben Pfaff (Gyrgum)** — *Spotting new enemies*
 > "Are there 3 more unnamed creatures?"
 
 **Gabe as Zalthir** — *Identifying the new arrivals*
 > "5 Dark Elves, it looks like? 5 Drow? That's awesome."
 
-**Ben Pfaff (Grygum)** — *Comparing the escalating encounter to a holiday song*
+**Ben Pfaff (Gyrgum)** — *Comparing the escalating encounter to a holiday song*
 > "This is turning into the 12 days of Christmas."
 
 **Kostadis (GM)** — *Hopefully*
 > "I hope more pleasantly!"
 
-**Ben Pfaff (Grygum)** — *Singing out* (paraphrase)
+**Ben Pfaff (Gyrgum)** — *Singing out* (paraphrase)
 > "Dark Elves!"
 
 ---
@@ -211,12 +211,12 @@
 **Kostadis (GM)** — *Describing the Drow emerging from hiding into the insect plague area*
 > "They were hiding in the area, they've come out now, they're going to get hit by the poison. They're very irritated that they're about to get hit by the poison. They were kind of really hoping to not have to deal with this."
 
-**Ben Pfaff (Grygum)** — *Commenting on the Drow's misfortune*
+**Ben Pfaff (Gyrgum)** — *Commenting on the Drow's misfortune*
 > "It's tough being a minion."
 
 ---
 
-**Ben Pfaff (Grygum)** — *Reacting to the fungus jokes throughout the session*
+**Ben Pfaff (Gyrgum)** — *Reacting to the fungus jokes throughout the session*
 > "More fungus among us?"
 
 **Kostadis (GM)** — *Clarifying the new threat*
@@ -224,5 +224,5 @@
 
 ---
 
-**Ben Pfaff (Grygum)** — *After the heart fungus is destroyed, dropping concentration on his spell*
+**Ben Pfaff (Gyrgum)** — *After the heart fungus is destroyed, dropping concentration on his spell*
 > "Now that the fungus is gone, I'm gonna drop concentration, so that spell disappears."

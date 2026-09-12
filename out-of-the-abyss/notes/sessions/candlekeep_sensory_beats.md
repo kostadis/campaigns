@@ -70,7 +70,7 @@ follow-ups. Do not list features.
   Daz will want to live here. Thorin will hate it.
 - **Whispering Dome.** Sit alone long enough and the voices
   of dead heroes start whispering encouragement specifically
-  at *you*. Grygum scene; Bahamut question.
+  at *you*. Gyrgum scene; Bahamut question.
 - **Pavilion Naturalis.** A T. rex skeleton in a spiraling
   shell-shaped building. Illusory butterflies and birds drift
   through the air. The illusion glitches in one corner — has
@@ -146,7 +146,7 @@ Three layers map cleanly onto Wally's three lessons:
 - **Janussi's pipe smoke** ↔ Daz's patron mystery (a private
   conversation the spy in the bag of holding cannot smell
   through).
-- **Whispering Dome** ↔ Grygum's Bahamut question with Vareth.
+- **Whispering Dome** ↔ Gyrgum's Bahamut question with Vareth.
 - **Drakonoikos** ↔ Thorin / Dawnbringer counseling with
   Philemon.
 - **Astronomicon** ↔ Daz's research with Yvenne; Zalthir's

@@ -8,14 +8,14 @@ source: gmassist
 ## Scene summary (from gm-assist, verbatim)
 
 #### The party descends the hidden staircase beneath Alaundo's statue, but a section of the stairs suddenly collapses, sending Thorin plummeting into a vast circular well.
-- The party descends the hidden staircase, counting toward the ninety-seventh step to match the years Alaundo the Seer lived. Grygum: "I go down 97 steps." Zalthir joins him on 97, noting he can hover; the GM answers by naming his **Potion of Flying** (concealed inside Glabbagool) — no racial flight feature is established on tape or in `party.md`.
+- The party descends the hidden staircase, counting toward the ninety-seventh step to match the years Alaundo the Seer lived. Gyrgum: "I go down 97 steps." Zalthir joins him on 97, noting he can hover; the GM answers by naming his **Potion of Flying** (concealed inside Glabbagool) — no racial flight feature is established on tape or in `party.md`.
 - Thorin smells a trap: "I feel like there's a trick question... I'm suspicious." Daz: "I think anytime you ask questions like this, it's followed by a rule for—" Thorin: "It's gonna be like, okay, your positions are locked in, roll for initiative."
 - Daz takes a position higher up the stairs to maintain a clear line of sight for ranged attacks, while the others position themselves lower: "I'll take up the rear in case somebody attacks us from behind." Thorin takes the front: "I can frickin' tank it."
-- Grygum provides restorative healing to prepare the party for potential dangers ahead — Zalthir is short 27 hit points with no short rest taken, and Grygum heals 44 ("It's overkill, but it'll do").
+- Gyrgum provides restorative healing to prepare the party for potential dangers ahead — Zalthir is short 27 hit points with no short rest taken, and Gyrgum heals 44 ("It's overkill, but it'll do").
 - As the party reaches the designated area, a ten-foot section of the stone staircase suddenly hinges open and collapses into a vast circular well below — anyone standing between steps 93 and 102 is caught in the hinge. "All but Daz, who's standing up sufficiently high, begin to fall down a vast, circular well."
-- Grygum: "No, we're doing the Scooby-Doo thing again." Zalthir: "Can I grab the other two and open my wings?" *(the question went unanswered at the table — he ends up holding the others by strength; the Potion of Flying the GM referenced is never drunk on tape)*
-- Grygum, finding no suitable spell: "I wave goodbye as he plummets. We'll see you at the bottom."
-- Daz casts **Telekinesis** (a 5th-level slot — **the party is level 9**, confirmed by the GM 2026-08-24) to seize the collapsing stairs and halt the fall, but is unable to stop Thorin's descent. Dexterity saves determine who was caught in time: Grygum makes it on a 16.
+- Gyrgum: "No, we're doing the Scooby-Doo thing again." Zalthir: "Can I grab the other two and open my wings?" *(the question went unanswered at the table — he ends up holding the others by strength; the Potion of Flying the GM referenced is never drunk on tape)*
+- Gyrgum, finding no suitable spell: "I wave goodbye as he plummets. We'll see you at the bottom."
+- Daz casts **Telekinesis** (a 5th-level slot — **the party is level 9**, confirmed by the GM 2026-08-24) to seize the collapsing stairs and halt the fall, but is unable to stop Thorin's descent. Dexterity saves determine who was caught in time: Gyrgum makes it on a 16.
 - Thorin loses his footing and begins plummeting into the darkness of the well — rolling a 2, then a 5 on a luck reroll, then invoking a second reroll at +8 ("you must use the new roll"), the result of which is left unresolved as the GM calls the night.
 - Everyone except Thorin manages to hold onto the stairs and scramble clear.
 - Thorin continues to fall as the session ends on a cliffhanger.
@@ -28,7 +28,7 @@ source: gmassist
 **GM** — *asking for exact positions on the stairs*
 > "So you can now head down the stairs. Alright, so what step are you gonna…"
 
-**Grygum** — *checking the Mechanus errand actually got them dust*
+**Gyrgum** — *checking the Mechanus errand actually got them dust*
 > "Did we… did we make the dust already?"
 
 **GM**
@@ -46,19 +46,19 @@ source: gmassist
 **Thorin**
 > "I'm… I'm suspicious."
 
-**Grygum** — *committing to the ninety-seventh step, the years Alaundo lived*
+**Gyrgum** — *committing to the ninety-seventh step, the years Alaundo lived*
 > "I, I go down 97 steps, and"
 
 **Thorin**
 > "I keep my distance. Alright, so…"
 
-**Grygum**
+**Gyrgum**
 > "And I… I res…"
 
 **GM**
 > "Hold on."
 
-**Grygum** — *finishing his interrupted intent to recite*
+**Gyrgum** — *finishing his interrupted intent to recite*
 > "prophecy."
 
 **GM** — *turning to Zalthir for his position*
@@ -73,19 +73,19 @@ source: gmassist
 **GM**
 > "Alright. Are they… Daz?"
 
-**Grygum**
+**Gyrgum**
 > "Big… are they big steps?"
 
 **GM** — *ruling how many can share a step*
 > "No, I mean, like, you can be a 96 or a 95, but not a 97. I mean, you two of you can be on it, like, all four of you, if you squeeze in and, like, are nice and cuddly with each other."
 
-**Grygum**
+**Gyrgum**
 > "Yeah, I guess the question is above or below, huh?"
 
 **Zalthir** — *noting he need not stand on the stairs at all*
 > "I mean, I can also fly, like…"
 
-**Grygum**
+**Gyrgum**
 > "Oh, hover, very nice."
 
 **GM**
@@ -121,7 +121,7 @@ source: gmassist
 **GM** — *counting off possible steps*
 > "Step 96, 95, 93, 92, 90…"
 
-**Grygum**
+**Gyrgum**
 > "You're gonna, like, stay low?"
 
 **GM**
@@ -136,7 +136,7 @@ source: gmassist
 **Daz** — *reading the pattern of GM questions*
 > "I think anytime you ask questions like this, it's followed by a rule for."
 
-**Grygum**
+**Gyrgum**
 > "Yeah."
 
 **Thorin**
@@ -145,7 +145,7 @@ source: gmassist
 **Daz**
 > "It's hard to tell."
 
-**Grygum** — *(raw capture said "the damn is true". GM ruling 2026-08-24: the beat was the party saying "if the DM is asking, this must be a trap" and the GM answering "no, sometimes the DM is just asking" — exact wording not recalled. Attribution left as captured; the line may belong to the GM.)*
+**Gyrgum** — *(raw capture said "the damn is true". GM ruling 2026-08-24: the beat was the party saying "if the DM is asking, this must be a trap" and the GM answering "no, sometimes the DM is just asking" — exact wording not recalled. Attribution left as captured; the line may belong to the GM.)*
 > "Sometimes the DM is true."
 
 **Daz** — *settling on the rear*
@@ -184,13 +184,13 @@ source: gmassist
 **Zalthir**
 > "So, before we do this, can someone give me a quick heal?"
 
-**Grygum**
+**Gyrgum**
 > "Sure, yeah. How much, could you use?"
 
 **Zalthir**
 > "I'm short 27."
 
-**Grygum**
+**Gyrgum**
 > "Oh, yeah, let me find a good one then."
 
 **GM**
@@ -202,13 +202,13 @@ source: gmassist
 **GM**
 > "Alright, actually, no. Alright."
 
-**Grygum** — *the healing lands*
+**Gyrgum** — *the healing lands*
 > "Yeah, you got 44 of them back, so that's."
 
 **Zalthir**
 > "Thank you."
 
-**Grygum**
+**Gyrgum**
 > "It's overkill, but it'll do…"
 
 **GM** — *the trap springs*
@@ -232,17 +232,17 @@ source: gmassist
 **Daz**
 > "Hold on…"
 
-**Grygum** — *finding nothing in his spell list*
+**Gyrgum** — *finding nothing in his spell list*
 > "I'm looking for an appropriate spell, but I'm not finding one, so I, I wave goodbye as he plummets."
 
-**Grygum**
+**Gyrgum**
 > "We'll see you at the bottom."
 
 **Daz**
 > "Do I have any way to stop it from happening?"
 
 **GM** — *Zalthir holding the others by strength*
-> "While you guys are trying to figure out what spell to cast, while… while Grygum is holding… while Zalthir is using his strength to hold you guys, the two… two of you, float."
+> "While you guys are trying to figure out what spell to cast, while… while Gyrgum is holding… while Zalthir is using his strength to hold you guys, the two… two of you, float."
 
 **Daz** — *probing the mechanics of the collapse*
 > "Can you describe the details? So, like, did the stairs turn into a slide, and then they started to move?"
@@ -253,7 +253,7 @@ source: gmassist
 **Daz**
 > "Or, like, is there debris?"
 
-**Grygum**
+**Gyrgum**
 > "No, we're doing the Scooby-Doo thing again."
 
 **Daz**
@@ -271,19 +271,19 @@ source: gmassist
 **Daz**
 > "Okay."
 
-**Grygum**
+**Gyrgum**
 > "Am I okay on step 97?"
 
 **GM**
 > "No, that's literally… no, what happened?"
 
-**Grygum**
+**Gyrgum**
 > "Oh."
 
 **GM** — *defining the hinge's span*
 > "That's… anybody standing between 101 and 90… no, 102 and 93."
 
-**Grygum**
+**Gyrgum**
 > "Huh."
 
 **GM**
@@ -322,7 +322,7 @@ source: gmassist
 **Daz**
 > "So maybe no."
 
-**Grygum** — *his save*
+**Gyrgum** — *his save*
 > "16."
 
 **GM**
@@ -350,7 +350,7 @@ source: gmassist
 > "It's not, like…"
 
 **GM**
-> "Oh, Grygum had… Grygum made it."
+> "Oh, Gyrgum had… Gyrgum made it."
 
 **Thorin** — *his save comes up short*
 > "d20 minus 1, okay, so… I got a 3, what? I got a 2, but I can…"
@@ -388,7 +388,7 @@ source: gmassist
 **GM**
 > "Alright."
 
-**Grygum**
+**Gyrgum**
 > "Good luck!"
 
 **Thorin**
@@ -425,29 +425,29 @@ source: gmassist
 > "And with that, We won't… we will end."
 
 **[Positions on the Staircase]**
-- The GM sends the party down the hidden stairs and presses for exact step positions; Grygum asks whether they already have the dust, and the GM reminds him they have the Modron tool instead. *(New this session: the riddle calls for **dust of Mechanus**, which the party never obtained. Prep had Spanner giving a bag freely; play diverged to a borrowed tool the GM ruled an acceptable alternative. "Modron tool" is not in `entity_registry.yaml` — staged for `/entity-triage`.)*
+- The GM sends the party down the hidden stairs and presses for exact step positions; Gyrgum asks whether they already have the dust, and the GM reminds him they have the Modron tool instead. *(New this session: the riddle calls for **dust of Mechanus**, which the party never obtained. Prep had Spanner giving a bag freely; play diverged to a borrowed tool the GM ruled an acceptable alternative. "Modron tool" is not in `entity_registry.yaml` — staged for `/entity-triage`.)*
 - Thorin flags the repeated step-counting as a trick question and declares himself suspicious; the GM claims it's just his job to ask where everyone stands.
-- Grygum commits to step 97 to recite the prophecy; Zalthir joins him on 97 and notes he can hover; the GM mentions a potion of flying.
+- Gyrgum commits to step 97 to recite the prophecy; Zalthir joins him on 97 and notes he can hover; the GM mentions a potion of flying.
 - The GM rules the steps can hold a 96 or 95 but all four can squeeze onto one if cuddly.
 - Daz debates position, reasons the questions precede a rule, and settles on taking the rear from higher up for ranged line of sight; Thorin takes the front to tank.
 
 **[Pre-Descent Healing]**
 - Zalthir asks about a short rest; there was none, so he asks for a heal, being 27 short.
-- Grygum heals him for 44, calling it overkill; Zalthir thanks him.
+- Gyrgum heals him for 44, calling it overkill; Zalthir thanks him.
 
 **[The Stairs Give Way]**
 - The GM announces that all but Daz, standing sufficiently high, begin to fall down a vast circular well.
-- Zalthir asks to grab the other two and open his wings; Grygum finds no spell and waves goodbye as Thorin plummets.
+- Zalthir asks to grab the other two and open his wings; Gyrgum finds no spell and waves goodbye as Thorin plummets.
 - The GM narrates Zalthir using his strength to hold the others so they float; Daz asks for the mechanics of the collapse.
-- Grygum calls it the Scooby-Doo thing again; the GM clarifies a 10-foot section of stairs gives way and anyone between steps 102 and 93 is caught in the hinge.
+- Gyrgum calls it the Scooby-Doo thing again; the GM clarifies a 10-foot section of stairs gives way and anyone between steps 102 and 93 is caught in the hinge.
 - Daz confirms he can act immediately and casts Telekinesis to hold the stairs from falling further.
 
 **[Dexterity Saves and Thorin's Fall]**
-- The GM calls for dexterity saves to see whether Daz caught it in time; Grygum makes it on a 16.
+- The GM calls for dexterity saves to see whether Daz caught it in time; Gyrgum makes it on a 16.
 - Thorin rolls a 2 on a d20 minus 1, then spends a luck point and rolls a 5.
 - The GM rules Thorin starts to fall while the rest hold on and scramble to safety, and asks what they want to do about him.
 - Thorin invokes a second reroll, reading that it grants a bonus and the new roll must be used, and rolls a d20 plus 8.
-- Zalthir asks if he can just grab one; Grygum wishes Thorin luck.
+- Zalthir asks if he can just grab one; Gyrgum wishes Thorin luck.
 - The exchange dissolves into "Big time" and "Gross" without the reroll being resolved, and the table drifts into out-of-character talk.
 
 **[Session Ends on a Cliffhanger]**

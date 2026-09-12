@@ -11,7 +11,7 @@
 - **Location:** Candlekeep, accompanying the party
 - **State:** Eager, attached himself to the investigators like an acolyte
 - **Faction:** Candlekeep adjutant/librarian
-- **Recent actions:** Pushed for the party to report a summary to Bookwyrm; escorted Grygum to the Flora Theca; offered to fetch witnesses; relayed that Daral would not come and the party must go to the Hearth
+- **Recent actions:** Pushed for the party to report a summary to Bookwyrm; escorted Gyrgum to the Flora Theca; offered to fetch witnesses; relayed that Daral would not come and the party must go to the Hearth
 
 ### Kei Tigersteel
 - **Location:** Candlekeep; departed toward the Shrine of Oghma
@@ -29,7 +29,7 @@
 - **Location:** Candlekeep corridors; left for the Chamber of Lost Lore for research
 - **State:** Fearful for his life; officially removed from the case by Bookwyrm
 - **Faction:** Candlekeep; gate warden / gatekeeper, holder of one of the two High Tower keys
-- **Recent actions:** Stepped out of a hidden doorway and pressed a small brass key into Grygum's palm; warned that if killed, the key must not be found; demonstrated his own (empty) locket carry method; revealed his suspicions about a Great Reader being the murderer; proposed collaborating "unofficially" with the party; provided a timeline; reacted with surprise to news of Sylvira being impersonated
+- **Recent actions:** Stepped out of a hidden doorway and pressed a small brass key into Gyrgum's palm; warned that if killed, the key must not be found; demonstrated his own (empty) locket carry method; revealed his suspicions about a Great Reader being the murderer; proposed collaborating "unofficially" with the party; provided a timeline; reacted with surprise to news of Sylvira being impersonated
 - **Timeline given:** 8:00 meeting where he pressed Janussi for more watchers and was refused; 10:15 visited Sylvira Savikas over a cosmological question; returned to Chamber of Lost Lore for private research; morning of murder did inspection just after 8:00, established cordon, posted watcher, doubled guard at High Tower Library
 - **Abilities:** Can cast spells to question the dead; can detect lies / reveal hidden things if needed
 - **Secrets/Motivations:** Claims the party was hired to bungle the case. Was previously ordered off the investigation. Note: it is unverified whether the key he holds is genuinely his own or Janussi's — the party suspects he may be building a clean story.
@@ -64,7 +64,7 @@
 - **Faction:** Candlekeep
 - **Appearance:** Dowdy halfling of small stature
 - **Recent actions:** At the council, asked whether Janussi had named a successor
-- **Discussion:** Daral warns "don't be fooled by her stature, she has a steely nature." The party's own notes mysteriously had no name on her entry initially. Shares the party's investigative priorities, per Grygum. Daz assigned to interview her about when she was beaten up, whether she noticed anything missing, and whether she poisoned Janussi during a visit.
+- **Discussion:** Daral warns "don't be fooled by her stature, she has a steely nature." The party's own notes mysteriously had no name on her entry initially. Shares the party's investigative priorities, per Gyrgum. Daz assigned to interview her about when she was beaten up, whether she noticed anything missing, and whether she poisoned Janussi during a visit.
 - **Note:** Reportedly was beaten up before Janussi died (not yet dead at the time)
 
 ### Kazryn Nyantani
@@ -108,8 +108,8 @@
 - **Discussion:** Possibly taught Zalthir's silent-communication class; "always smelled of incense." Zalthir uncertain whether it was Heslin or "the quiet one with the ink-stained hands"
 
 ### Stroud
-- **Status:** Referenced/absent (Grygum's recollection)
-- **Discussion:** "Couldn't play chess either, and he still rolled the winning move" — invoked by Grygum about luck
+- **Status:** Referenced/absent (Gyrgum's recollection)
+- **Discussion:** "Couldn't play chess either, and he still rolled the winning move" — invoked by Gyrgum about luck
 
 ### Archibald Roots, Jr.
 - **Status:** Referenced; author of *Fey-mous Flowers & Fungi*
@@ -146,13 +146,13 @@
 - Bookwyrm granted Kei permission to take Janussi's corpse to the Shrine of Oghma for purification
 - Bookwyrm gave the party Deneir's Sanctum as their investigation office, assigned Vooshadi Moonriver to guard it, and required they be escorted at all times
 - Bookwyrm probed the party for suspects; they refused to disclose, naming only the harmless Ms. Hollypocket
-- The party decided to keep working together initially, splitting later: Daz to interview Fheminor, Grygum to library research, Thorin to Sylvira, Zalthir to Teles/Kalan
-- Kalan Strongbranch secretly pressed one of the two High Tower keys into Grygum's hand and warned the party his life was in danger
+- The party decided to keep working together initially, splitting later: Daz to interview Fheminor, Gyrgum to library research, Thorin to Sylvira, Zalthir to Teles/Kalan
+- Kalan Strongbranch secretly pressed one of the two High Tower keys into Gyrgum's hand and warned the party his life was in danger
 - Zalthir privately confronted Kalan, corrected Kalan's assumption that the murderer was the same person who rifled the safe, and revealed the Sylvira impersonation (new information to Kalan)
 - Kalan proposed an unofficial collaboration with the party
-- Grygum researched in the Flora Theca and identified the poison as "midnight tears" via *Fey-mous Flowers & Fungi*
-- Grygum identified the Sapphire spell as a summoning working
-- Daz, Thorin and Grygum interviewed Daral at the Hearth; Daral admitted punching Janussi and surrendered the gifted book into evidence
+- Gyrgum researched in the Flora Theca and identified the poison as "midnight tears" via *Fey-mous Flowers & Fungi*
+- Gyrgum identified the Sapphire spell as a summoning working
+- Daz, Thorin and Gyrgum interviewed Daral at the Hearth; Daral admitted punching Janussi and surrendered the gifted book into evidence
 - Glabbagool underwent his trial at the Whispering Dome, answered the koan, and became permanently bonded to Zalthir's arm
 
 ## Locations
@@ -170,7 +170,7 @@
 - A tavern in Candlekeep with a barman; where Daral drinks and where the interview took place
 
 ### Flora Theca
-- A subsection of the Pavilion Naturalis, inside the Great Library, dedicated to plants, herbs, and flora; where Grygum researched the poison; lacks a dedicated poison section but offers laboratory access
+- A subsection of the Pavilion Naturalis, inside the Great Library, dedicated to plants, herbs, and flora; where Gyrgum researched the poison; lacks a dedicated poison section but offers laboratory access
 
 ### Pavilion Naturalis
 - Section of the Great Library containing the Flora Theca
@@ -199,7 +199,7 @@
 - **Were the stolen sapphires worth killing for?** Expensive but not rare; tied to the Sapphire summoning spell
 - **The Sapphire summoning spell:** Calls a hidden item to the caster's hand; only works on carried (not merely worn) items; lets one hide the key "nowhere at all" and summon it when needed — but reveals who is holding the item
 - **Will Daral survive midnight?** If he dies, the party concludes he was the innocent poison victim, not the poisoner
-- **Why the rush?** The party is told they can only chase a handful of threads before things move on; Grygum warns "there'll be more murders"
+- **Why the rush?** The party is told they can only chase a handful of threads before things move on; Gyrgum warns "there'll be more murders"
 - **The meaning of Glabbagool's koan answer** — understood by the trained monks but not by Zalthir, who missed the silent-communication classes
 - **The drow in the bag of holding** still requires watching
 - **Kalan's safety:** At risk of being killed over the key; party warned him to beware shapeshifters

@@ -10,18 +10,18 @@
 **Thorin Giantfriend**
 - Current location: Myconid cave (returned to waking state)
 - Current state: Active; recently returned from a vision/dream state induced by Voosbur
-- Recent actions: Advocated for helping Stool rescue Rump-a-dump; took Voosbur's hand willingly; entered a shared vision/dreamscape; traversed two intermediate cavern environments (glowing mushroom cavern, vine-filled cavern) with Grygum; encountered Zuggtmoy directly in the dream; refused her offer; woke up uninfected
+- Recent actions: Advocated for helping Stool rescue Rump-a-dump; took Voosbur's hand willingly; entered a shared vision/dreamscape; traversed two intermediate cavern environments (glowing mushroom cavern, vine-filled cavern) with Gyrgum; encountered Zuggtmoy directly in the dream; refused her offer; woke up uninfected
 - Faction: Party; follower of Bahamut
 - Motivations: Sense of duty to help those in need; Bahamut commands him not to walk away from the situation; responsibilities on the outside world kept him from accepting Zuggtmoy's offer
 
 **Daz**
 - Current location: Myconid cave
 - Current state: Active; did not enter the vision
-- Recent actions: Explained that dangerous spores are only hazardous in melee range and that Myconids can only zombify creatures they have killed; clarified that Zuggtmoy's infection is magical/demonic and likely requires consent or exchange of bodily fluids rather than natural propagation; held onto Thorin and Grygum when they woke to prevent them following the departing dancers; expressed embarrassment at Thorin's question about cannibalism
+- Recent actions: Explained that dangerous spores are only hazardous in melee range and that Myconids can only zombify creatures they have killed; clarified that Zuggtmoy's infection is magical/demonic and likely requires consent or exchange of bodily fluids rather than natural propagation; held onto Thorin and Gyrgum when they woke to prevent them following the departing dancers; expressed embarrassment at Thorin's question about cannibalism
 - Faction: Party; Drow
 - Revealed: Described as demonstrating cold detachment characteristic of the Drow
 
-**Grygum**
+**Gyrgum**
 - Current location: Myconid cave (returned to waking state)
 - Current state: Active; recently returned from vision/dream state
 - Recent actions: Was confused by Thorin's Wandering Veil comparison; took Voosbur's hand and entered the dreamscape alongside Thorin; made too much noise in the vine cavern, causing the vines to animate and block the path; escaped the vine cavern with Thorin before being trapped; reminded Thorin that every deal with a demon is a curse that gives power and robs the recipient of restraint; woke up uninfected
@@ -54,16 +54,16 @@
 **Voosbur**
 - Current location: Myconid cave; departed with the other dancers at the end of the session
 - Current state: Infected/under Zuggtmoy's influence; departed into the moss at the cavern edge
-- Recent actions: Released strange spores in Neverlight Grove that changed the other Myconids and teleported them to the current cave; led the dancing Myconids; paused his dance to speak telepathically to the party, urging them to join "the Lady's dream"; extended his hand to invite the party into the dream vision; accepted Thorin and Grygum's participation; after they woke and declined, released glowing spores and led the dancers into the moss at the cavern's edge, disappearing
+- Recent actions: Released strange spores in Neverlight Grove that changed the other Myconids and teleported them to the current cave; led the dancing Myconids; paused his dance to speak telepathically to the party, urging them to join "the Lady's dream"; extended his hand to invite the party into the dream vision; accepted Thorin and Gyrgum's participation; after they woke and declined, released glowing spores and led the dancers into the moss at the cavern's edge, disappearing
 - Faction: Myconid; currently serving Zuggtmoy
 - Revealed: He is the source of the spore event that displaced the Myconids from Neverlight Grove
 
 **Zuggtmoy (the Dark Lady)**
 - Current location: Encountered only within the dreamscape vision; physical location unknown
 - Current state: Active; manifested in dream/vision form
-- Recent actions: Appeared to Thorin and Grygum in the dreamscape on a throne of fungal growths, twisted bones, and decaying wood; spoke to them in a haunting melodic voice about the dream of rot and decay; offered to entwine them with the endless mycelium forever; expressed disappointment when Thorin refused; did not force them
+- Recent actions: Appeared to Thorin and Gyrgum in the dreamscape on a throne of fungal growths, twisted bones, and decaying wood; spoke to them in a haunting melodic voice about the dream of rot and decay; offered to entwine them with the endless mycelium forever; expressed disappointment when Thorin refused; did not force them
 - Faction: Demon; Demon Queen of Fungi
-- Revealed motivations/secrets: Seeks to convert living creatures into mindless servants and decomposing hosts for fungi; her influence over Sarith and Voosbur is confirmed as demonic/magical; her "gift" is described in The Platinum Chronicle as a perversion of life; she offered Thorin and Grygum permanent union with the mycelium network
+- Revealed motivations/secrets: Seeks to convert living creatures into mindless servants and decomposing hosts for fungi; her influence over Sarith and Voosbur is confirmed as demonic/magical; her "gift" is described in The Platinum Chronicle as a perversion of life; she offered Thorin and Gyrgum permanent union with the mycelium network
 
 ---
 
@@ -84,7 +84,7 @@
 **The Party**
 - Current goals: Hand over the egg to Gartokkar; escape via the ports; exit the Underdark
 - Recent actions: Debated what to do with intelligence that could spark a civil war or genocidal massacre; agreed to proceed with the plan to deliver the egg and escape; investigated the Myconid situation at Stool's request; two members entered Zuggtmoy's dreamscape and returned uninfected
-- Key members: Zalthir, Thorin Giantfriend, Daz, Grygum, Sarith (compromised), Stool, Rump-a-dump (new addition)
+- Key members: Zalthir, Thorin Giantfriend, Daz, Gyrgum, Sarith (compromised), Stool, Rump-a-dump (new addition)
 
 ---
 
@@ -97,16 +97,16 @@
 - Zalthir noted the spore effects were active beyond 30 feet, contradicting Daz's earlier assessment.
 - Stool reunited with Rump-a-dump, who was present but uninfected.
 - Rump-a-dump explained that Voosbur released strange spores in Neverlight Grove, suddenly teleporting the group to the current cave; those who subsequently ate mushrooms became infected and began dancing.
-- Grygum identified that the mushrooms consumed were the same shrinking/growing mushrooms the party had previously encountered.
+- Gyrgum identified that the mushrooms consumed were the same shrinking/growing mushrooms the party had previously encountered.
 - Voosbur paused his dance and telepathically invited the party to join "the Lady's dream."
-- Thorin took Voosbur's hand willingly; Grygum followed.
-- Thorin and Grygum entered a shared dreamscape, traversing a glowing mushroom cavern and a vine-filled living cavern before reaching a throne room.
-- In the vine cavern, Grygum's noise caused the vines to animate and begin closing the path; Thorin and Grygum fled and escaped before being trapped.
-- Thorin and Grygum encountered Zuggtmoy on a throne of fungal growths, twisted bones, and decaying wood.
-- Zuggtmoy offered Thorin and Grygum permanent union with the mycelium network; Thorin refused; Grygum also did not accept.
-- Thorin and Grygum woke uninfected.
+- Thorin took Voosbur's hand willingly; Gyrgum followed.
+- Thorin and Gyrgum entered a shared dreamscape, traversing a glowing mushroom cavern and a vine-filled living cavern before reaching a throne room.
+- In the vine cavern, Gyrgum's noise caused the vines to animate and begin closing the path; Thorin and Gyrgum fled and escaped before being trapped.
+- Thorin and Gyrgum encountered Zuggtmoy on a throne of fungal growths, twisted bones, and decaying wood.
+- Zuggtmoy offered Thorin and Gyrgum permanent union with the mycelium network; Thorin refused; Gyrgum also did not accept.
+- Thorin and Gyrgum woke uninfected.
 - Voosbur released glowing spores; the infected dancers walked to the moss at the cavern edge and disappeared with Voosbur.
-- Daz held onto Thorin and Grygum when they woke to prevent them following the departing dancers; they did not follow.
+- Daz held onto Thorin and Gyrgum when they woke to prevent them following the departing dancers; they did not follow.
 
 ---
 
@@ -124,17 +124,17 @@
 
 **Zuggtmoy's Dreamscape — Glowing Mushroom Cavern**
 - What it is: First chamber of the dream vision entered via Voosbur's hand; a cavern with giant glowing mushrooms (violet, teal, amber) reaching the ceiling; soft pulsing ground; drifting shimmering spores; sweet musky air
-- What happened: Thorin and Grygum passed through; mushrooms pulsed in warning when touched; they moved on without incident
+- What happened: Thorin and Gyrgum passed through; mushrooms pulsed in warning when touched; they moved on without incident
 - Current state: Exists within the dreamscape only
 
 **Zuggtmoy's Dreamscape — Vine Cavern**
 - What it is: Second chamber of the dream vision; described as resembling a festering wound; thick twisting vines and fungal tendrils forming a living maze; walls appearing to breathe; slick translucent slime on tendrils; glowing spores; rhythmic heartbeat-like thumping; damp, warm, metallic-smelling air
-- What happened: Thorin and Grygum traversed it; Grygum made too much noise approximately 30 feet from the exit, causing the vines to animate and begin closing the path; both fled and escaped
+- What happened: Thorin and Gyrgum traversed it; Gyrgum made too much noise approximately 30 feet from the exit, causing the vines to animate and begin closing the path; both fled and escaped
 - Current state: Exists within the dreamscape only; vines sealed the path behind the party
 
 **Zuggtmoy's Dreamscape — Throne Room**
 - What it is: Third and final chamber of the dream vision; a blighted cavern with a throne of twisted fungal growths, bleached bones, and decaying wood; giant mold-mottled mushrooms; muted sickly colors
-- What happened: Zuggtmoy manifested here and spoke to Thorin and Grygum; offered permanent union with the mycelium; Thorin refused; both woke
+- What happened: Zuggtmoy manifested here and spoke to Thorin and Gyrgum; offered permanent union with the mycelium; Thorin refused; both woke
 - Current state: Exists within the dreamscape only
 
 ---

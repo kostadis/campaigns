@@ -15,7 +15,7 @@ Chief of Clan Diggermattock and de facto leader of Blingdenstone's mining coalit
 ## Personality & Motivations
 - Profit-driven and focused on protecting the mines and extracting mithral; his economic priorities often clash with his wife Senni's people-first concerns
 - His obsession with money has been noted as seemingly unhinged given the existential threats facing the settlement; Chipgrin suggested this greed is amplified by demonic corruption bleeding through the Pudding King's influence
-- Blunt and opinionated — he openly called Grygum's gnome army distraction plan "the dumbest he had ever heard"
+- Blunt and opinionated — he openly called Gyrgum's gnome army distraction plan "the dumbest he had ever heard"
 - Argumentative and territorial (seen bickering with Chipgrin over newly opened territory even as oozes threatened; annoyed when Thorin intruded into his private kitchen)
 - Stubborn in his stances, particularly regarding the Gold Whisker clan
 - Capable of being moved to genuine sentiment, as when he sewed a Diggermattock Miners patch onto Thorin's gear
@@ -38,7 +38,7 @@ Chief of Clan Diggermattock and de facto leader of Blingdenstone's mining coalit
 - **Known vs. Hidden:** The party understands his profit-driven motivations clearly. Hidden from the party: the extent to which demonic corruption may be influencing his judgment and amplifying his greed and aggression (per Chipgrin's theory)
 
 ## Relationships
-- **Senni (Quartermaster, wife):** Frequent collaborator and foil. They argue openly — she checks his worst impulses and prioritizes the common people where he prioritizes wealth. She confronts him about his failures and his refusal to work with the Gold Whisker clan. She silenced him during the planning session when he dismissed Grygum's plan.
+- **Senni (Quartermaster, wife):** Frequent collaborator and foil. They argue openly — she checks his worst impulses and prioritizes the common people where he prioritizes wealth. She confronts him about his failures and his refusal to work with the Gold Whisker clan. She silenced him during the planning session when he dismissed Gyrgum's plan.
 - **Chipgrin / Gold Whisker Wererats:** Hostile — considers them squatters and refuses cooperation; suspects them of being wererats. Argued with Chipgrin over territorial claims. Eventually accepted a wererat defense arrangement brokered by the party. Chipgrin views Dorbo's behavior as evidence of demonic corruption.
 - **Daz (Party Member):** Respects or at least defers to Daz's forcefulness. Publicly credited Daz as the leader who would bring victory against the Pudding King.
 - **Thorin (Party Member):** Minor friction after the kitchen intrusion, but genuinely moved by Thorin's efforts; awarded him an honorary Diggermattock Miners patch — a personal and rare gesture of respect.

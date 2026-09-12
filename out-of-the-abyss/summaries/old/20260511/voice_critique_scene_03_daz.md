@@ -8,10 +8,10 @@
 
 ### [1] Cliché simile — "the expression of a man who had asked for X and received Y"
 
-> Grygum received this with the expression of a man who had asked for tea and received warm water.
+> Gyrgum received this with the expression of a man who had asked for tea and received warm water.
 
-**Why:** Workshop construction; reads as a magazine essay's sardonic-observation register, not Daz's audit register. Daz catalogues *categories* and *deviations from baseline* (per spec) — when he describes another character's reaction he tends to name the move, not draw a simile around it. Compare *"Grygum was walking toward me with the expression he wears when he has had what he calls a divine inspiration and what I call a plan that will require me to improvise"* (from the example file): same shape, but grounded in their known dynamic, not in a stock figure.
-**Suggested rewrite:** *Grygum received this in the way he receives most things downgraded by translation: politely, and with the file already updated.*
+**Why:** Workshop construction; reads as a magazine essay's sardonic-observation register, not Daz's audit register. Daz catalogues *categories* and *deviations from baseline* (per spec) — when he describes another character's reaction he tends to name the move, not draw a simile around it. Compare *"Gyrgum was walking toward me with the expression he wears when he has had what he calls a divine inspiration and what I call a plan that will require me to improvise"* (from the example file): same shape, but grounded in their known dynamic, not in a stock figure.
+**Suggested rewrite:** *Gyrgum received this in the way he receives most things downgraded by translation: politely, and with the file already updated.*
 
 ### [2] Convergence with house style — "with the particular X of Y who Z" template (twice in this scene)
 

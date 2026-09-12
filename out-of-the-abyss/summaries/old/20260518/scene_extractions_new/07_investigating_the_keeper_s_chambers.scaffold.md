@@ -26,7 +26,7 @@ Focus: Thorin's radical transparency and hatred of hidden agendas make him a pot
 
 - The party rolls Medicine and Investigation to examine the body. Zalthir rolls a 17 and confirms: the Keeper's rib cage was smashed by what appears to be an axe or similar weapon, using several precise blows all very close to one another. Only the heart is missing — no other organs. The blood is surprisingly localized around the wound, far less than one would expect from such a violent injury — suggesting Janussi may already have been dead before the chest was opened.
 
-- Grygum immediately recognizes the implication: Raise Dead is impossible if the vital organs are not present. The heart was taken specifically to prevent resurrection.
+- Gyrgum immediately recognizes the implication: Raise Dead is impossible if the vital organs are not present. The heart was taken specifically to prevent resurrection.
 
 - Thorin asks whether they can still Speak with Dead without the heart — they only need the brain and a mouth. Tadric reveals that someone already tried — and the dead were not speaking. The party considers that the spell may have already been cast (which would block further attempts for ten days), or that some other effect is preventing it.
 
@@ -171,8 +171,8 @@ Thorin: "Is there any blue… blood splatter around? Is it directional? Can we t
 
 ### [The Heart Is Missing — Resurrection Implications]
 
-<!-- Grygum's clerical insight -->
-GM: "because Grygum is a cleric, he immediately realizes what's going on, was Zalthir is speculating about the deaths. He goes, oh! you can't raise the dead of somebody if the vital organs are not there."
+<!-- Gyrgum's clerical insight -->
+GM: "because Gyrgum is a cleric, he immediately realizes what's going on, was Zalthir is speculating about the deaths. He goes, oh! you can't raise the dead of somebody if the vital organs are not there."
 
 Zalthir: "I was gonna ask about that, okay."
 

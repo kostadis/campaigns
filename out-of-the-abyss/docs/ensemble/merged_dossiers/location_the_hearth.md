@@ -7,7 +7,7 @@ chapters: 58-58
 
 ### The Hearth
 
-The Hearth is a tavern located in an unspecified urban center, currently serving as an informal interrogation site. It is controlled and chosen by suspects — specifically Daral Yashenti — who uses its casual, alcohol-fueled atmosphere to assert dominance over the interrogation process. The venue is characterized by boisterous social behavior, performative camaraderie, and a deliberate contrast to formal proceedings. Daral was interrogated there by Daz and Grygum, where he appeared boisterous, flushed, and conspicuously delighted, using the setting to mask or reveal contradictions. The Hearth is also a known gathering place where inquiries about Sylvira Savikas’s absence have been raised, suggesting it is a hub for unofficial information exchange tied to the impersonation case.
+The Hearth is a tavern located in an unspecified urban center, currently serving as an informal interrogation site. It is controlled and chosen by suspects — specifically Daral Yashenti — who uses its casual, alcohol-fueled atmosphere to assert dominance over the interrogation process. The venue is characterized by boisterous social behavior, performative camaraderie, and a deliberate contrast to formal proceedings. Daral was interrogated there by Daz and Gyrgum, where he appeared boisterous, flushed, and conspicuously delighted, using the setting to mask or reveal contradictions. The Hearth is also a known gathering place where inquiries about Sylvira Savikas’s absence have been raised, suggesting it is a hub for unofficial information exchange tied to the impersonation case.
 
 ## Uncertainty
 - The exact location (city, district, or region) of The Hearth is not specified.

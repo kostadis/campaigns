@@ -25,7 +25,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 ## History with the Party
 - House T'sarran dispatched five drow warriors and a mage to the Fungal Cavern (several days from Blingdenstone), apparently under contract. The party destroyed most of this force, largely through Daz's Fireball and combined efforts.
 - The T'sarran mage warned before dying that the matron mother would hear about the defeat. The last surviving warrior withdrew calmly, delivering the same promise: "We will meet again. Enjoy your victory for the moment."
-- Grygum noted the credibility of the threat — delivered without heat — and resolved to learn who the matron mother is before she learns who the party is.
+- Gyrgum noted the credibility of the threat — delivered without heat — and resolved to learn who the matron mother is before she learns who the party is.
 - Following the Fungal Cavern defeat, the matron mother sent multiple agents ("a couple of us") to the surface to find where the party was surfacing. During interrogation of a captured T'sarran spy, the party learned that the matron mother's true objective is identifying whoever paid to have Daz protected, using him as bait to draw out this unknown patron.
 
 ## Current Status
@@ -37,7 +37,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 ## Relationships
 - **The Party:** Now aware of them through reports from the surviving warrior and surface agents. The party destroyed most of her deployed forces. She views them as secondary to her true objective.
 - **Daz:** Treats him as bait to identify his unknown patron; not interested in Daz himself
-- **Grygum:** Views her as a priority intelligence target — wants to identify her before she identifies the party.
+- **Gyrgum:** Views her as a priority intelligence target — wants to identify her before she identifies the party.
 - **House T'sarran forces:** Commands their loyalty; subordinates reference her authority with respect and certainty rather than fear. Her interest alone is sufficient motivation for agents' actions.
 - **Unknown contractor:** Someone hired House T'sarran for the Fungal Cavern (several days from Blingdenstone) operation, suggesting external alliances or mercenary dealings.
 - **Daz's unknown patron:** The matron mother's primary intelligence target; someone who paid to have Daz protected

@@ -11,7 +11,7 @@
 > It landed the way cold drafts land — not dramatically, not with any ceremony, just suddenly there, already inside the room before you noticed the door was open.
 
 **Why:** Thorin's spec is stone-weight, concrete: "things land, strike, hold or break." This is the opposite — a chain of negatives ("not dramatically, not with any ceremony") that gestures at a feeling rather than naming it. The cold-draft image is decorative; Thorin would say the prophecy hit and tell you what hit him about it.
-**Suggested rewrite:** "It landed. Winter's deepest cold. I looked at Daz. I looked at Grygum. Neither of them had reacted, so either they hadn't heard it or they'd done what I was already doing: kept it."
+**Suggested rewrite:** "It landed. Winter's deepest cold. I looked at Daz. I looked at Gyrgum. Neither of them had reacted, so either they hadn't heard it or they'd done what I was already doing: kept it."
 
 ### [2] Gesture-not-name (banned-words-adjacent)
 
@@ -38,9 +38,9 @@
 
 > Neither of them had visibly reacted, which meant either they hadn't heard it or they were filing it the same way I was filing it: not immediately actionable, worth keeping.
 
-**Why:** *Filing* is Grygum's and Daz's verb — Thorin's spec uses "I noted", "worth noting", "kept it." The next paragraph correctly closes on *"I kept it,"* which is the voice — the *filing* line a few sentences earlier breaks register.
+**Why:** *Filing* is Gyrgum's and Daz's verb — Thorin's spec uses "I noted", "worth noting", "kept it." The next paragraph correctly closes on *"I kept it,"* which is the voice — the *filing* line a few sentences earlier breaks register.
 **Suggested rewrite:** "Neither of them had visibly reacted. Either they hadn't heard it, or they'd already done what I was about to do. Kept it."
 
 ## Verdict
 
-The giant-aphorism beat ("a wall is just a rock in the right place. A prophecy that hasn't happened yet is just a warning waiting for its moment") is exactly right, and "Yep. Been there." lands. But the scene reaches for literary similes (cold drafts) and Daz/Grygum bookkeeping verbs (categorized, filed) every time it slows down to register a feeling — spot-edit those five and the scene is solid.
+The giant-aphorism beat ("a wall is just a rock in the right place. A prophecy that hasn't happened yet is just a warning waiting for its moment") is exactly right, and "Yep. Been there." lands. But the scene reaches for literary similes (cold drafts) and Daz/Gyrgum bookkeeping verbs (categorized, filed) every time it slows down to register a feeling — spot-edit those five and the scene is solid.

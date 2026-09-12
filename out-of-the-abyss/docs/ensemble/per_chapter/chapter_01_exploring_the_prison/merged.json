@@ -456,7 +456,7 @@
     "type": "event",
     "subject": "Guldor taking knife",
     "fact": "Guldor takes the knife from Gyrgum after noticing his attempt to steal it.",
-    "source_quote": "Guldor notices and Grygum explains that he is just trying to sharpen the knife. Guldor takes the knife and says a bunch of words whose intent is quite clear.",
+    "source_quote": "Guldor notices and Gyrgum explains that he is just trying to sharpen the knife. Guldor takes the knife and says a bunch of words whose intent is quite clear.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -500,7 +500,7 @@
     "type": "event",
     "subject": "Gyrgum",
     "fact": "Gyrgum realizes that Shuushar has left out many details in his translations.",
-    "source_quote": "Grygum again realizes that Shuushar has left out many details.",
+    "source_quote": "Gyrgum again realizes that Shuushar has left out many details.",
     "quote_verified": true,
     "passes": [
       "interiority"
@@ -511,7 +511,7 @@
     "type": "event",
     "subject": "Gyrgum",
     "fact": "Gyrgum tries to steal a knife and explains he is just trying to sharpen it.",
-    "source_quote": "Grygum notices a knife and tries to steal it. Guldor notices and Grygum explains that he is just trying to sharpen the knife.",
+    "source_quote": "Gyrgum notices a knife and tries to steal it. Guldor notices and Gyrgum explains that he is just trying to sharpen the knife.",
     "quote_verified": true,
     "passes": [
       "interiority"
@@ -544,7 +544,7 @@
     "type": "event",
     "subject": "Gyrgum entering cave",
     "fact": "Gyrgum enters a cave as the basket comes up.",
-    "source_quote": "As the basket comes up, he notices Grygum entering a cave.",
+    "source_quote": "As the basket comes up, he notices Gyrgum entering a cave.",
     "quote_verified": true,
     "passes": [
       "sweep"
@@ -555,7 +555,7 @@
     "type": "event",
     "subject": "Gyrgum feigns inferiority",
     "fact": "Gyrgum tells the Drow, \u201cYes, I am the inferior race.\u201d",
-    "source_quote": "Grygum smiles at the Drow, \u201cYes, I am the inferior race.\u201d",
+    "source_quote": "Gyrgum smiles at the Drow, \u201cYes, I am the inferior race.\u201d",
     "quote_verified": true,
     "passes": [
       "large"
@@ -906,8 +906,8 @@
   {
     "type": "event",
     "subject": "Zalthir",
-    "fact": "Zalthir notices Grygum entering a cave.",
-    "source_quote": "As the basket comes up, he notices Grygum entering a cave.",
+    "fact": "Zalthir notices Gyrgum entering a cave.",
+    "source_quote": "As the basket comes up, he notices Gyrgum entering a cave.",
     "quote_verified": true,
     "passes": [
       "interiority"
@@ -1259,7 +1259,7 @@
     "type": "location",
     "subject": "cave",
     "fact": "Gyrgum enters a cave as the basket rises.",
-    "source_quote": "As the basket comes up, he notices Grygum entering a cave.",
+    "source_quote": "As the basket comes up, he notices Gyrgum entering a cave.",
     "quote_verified": true,
     "passes": [
       "large"
@@ -2680,9 +2680,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a prisoner who cooks for the Drow and attempts to steal a knife.",
-    "source_quote": "As Grygum walks towards the mess hall... Gyrgum has a peculiar expression... As Gyrgum, with theatrical flair, tosses ingredients into the air... Gyrgum notices a knife and tries to steal it.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a prisoner who cooks for the Drow and attempts to steal a knife.",
+    "source_quote": "As Gyrgum walks towards the mess hall... Gyrgum has a peculiar expression... As Gyrgum, with theatrical flair, tosses ingredients into the air... Gyrgum notices a knife and tries to steal it.",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -2691,9 +2691,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is repeatedly referred to as the prisoner who cooks for the Drow, despite the spelling variation from Gyrgum.",
-    "source_quote": "As Grygum walks towards the mess hall... As the basket comes up, he notices Grygum entering a cave.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is repeatedly referred to as the prisoner who cooks for the Drow, despite the spelling variation from Gyrgum.",
+    "source_quote": "As Gyrgum walks towards the mess hall... As the basket comes up, he notices Gyrgum entering a cave.",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -2737,7 +2737,7 @@
     "type": "npc",
     "subject": "Guldor",
     "fact": "Guldor notices Gyrgum trying to steal a knife.",
-    "source_quote": "Guldor notices and Grygum explains that he is just trying to sharpen the knife.",
+    "source_quote": "Guldor notices and Gyrgum explains that he is just trying to sharpen the knife.",
     "quote_verified": true,
     "passes": [
       "large"
@@ -4283,7 +4283,7 @@
     "type": "object",
     "subject": "knife",
     "fact": "Gyrgum attempts to steal a knife from the kitchen, and Topsy and Turvy later steal several knives.",
-    "source_quote": "Grygum notices a knife and tries to steal it. ... Topsy and Turvy steal several knives.",
+    "source_quote": "Gyrgum notices a knife and tries to steal it. ... Topsy and Turvy steal several knives.",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -4294,7 +4294,7 @@
     "type": "object",
     "subject": "knife",
     "fact": "Gyrgum tries to steal a knife from the kitchen.",
-    "source_quote": "As the lunch progresses, Grygum notices a knife and tries to steal it.",
+    "source_quote": "As the lunch progresses, Gyrgum notices a knife and tries to steal it.",
     "quote_verified": true,
     "passes": [
       "large"

@@ -15,14 +15,14 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 
 ## History with the Party
 - At some point before the session described, Gerdig gave the party a **Ruby spell gem**.
-- The gem was later used by **Grygum**, who placed it into the great menhir at the center of an ancient temple to begin a **hallowing ritual** aimed at cleansing the site of **Ogremoch's Bane**.
+- The gem was later used by **Gyrgum**, who placed it into the great menhir at the center of an ancient temple to begin a **hallowing ritual** aimed at cleansing the site of **Ogremoch's Bane**.
 
 ## Current Status
 - Last known status and location are not specified in the notes.
 - No active plans or operations described.
 
 ## Relationships
-- **Grygum**: Recipient (directly or through the party) of the Ruby spell gem Gerdig provided.
+- **Gyrgum**: Recipient (directly or through the party) of the Ruby spell gem Gerdig provided.
 - No other relationships specified.
 
 ## Arc Score Events

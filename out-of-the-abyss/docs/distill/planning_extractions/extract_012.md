@@ -1,13 +1,13 @@
 ## NPC Activity
 
 **Archpriest Ploop (Archpriest of the Sea Mother)**
-Revealed his true allegiance to the escapees was genuine — he betrayed his own daughter Bloppblippodd rather than the party. Attacked Bloppblippodd and her followers alongside his allies during the ritual. Struck the final, fatal blow killing Bloppblippodd. His hut was subsequently looted by Grygum while the battle raged.
+Revealed his true allegiance to the escapees was genuine — he betrayed his own daughter Bloppblippodd rather than the party. Attacked Bloppblippodd and her followers alongside his allies during the ritual. Struck the final, fatal blow killing Bloppblippodd. His hut was subsequently looted by Gyrgum while the battle raged.
 
 **Bloppblippodd (Archpriest of the Deep Father, "Blopp")**
 Accepted Ploop's offering of the escapees in the name of the Deep Father. Called for the sacrifices to be brought forth and ordered the knife brought to the altar. Directed her second-in-command to block escape routes when the party fled. Was struck down by her father Ploop with a fatal blow. In her dying moment, cried out "Leemooggoogoon!" — completing the profane ritual. Now deceased; her death before the altar served as the ritual's culminating event.
 
 **Hemath (Duergar arms dealer)**
-Present among the prisoners/sacrifices in the altar depression. Identified as a duergar arms dealer who had promised weapons to the Archpriest of the Deep Father (Bloppblippodd), who then designated him as a sacrifice instead. Spitting blood, indicating injury. Entered a conditional alliance with Grygum — agreed to act when signaled in exchange for a chance at survival. Directed the party to find him in Gracklstugh if they escape alive.
+Present among the prisoners/sacrifices in the altar depression. Identified as a duergar arms dealer who had promised weapons to the Archpriest of the Deep Father (Bloppblippodd), who then designated him as a sacrifice instead. Spitting blood, indicating injury. Entered a conditional alliance with Gyrgum — agreed to act when signaled in exchange for a chance at survival. Directed the party to find him in Gracklstugh if they escape alive.
 
 **Bloppblippodd's Second-in-Command (unnamed Kuo-toa)**
 Advanced to block one of the escape routes when Bloppblippodd ordered the escapees stopped. Status unclear after the melee erupted into general chaos.
@@ -22,10 +22,10 @@ All present among the escapees. Fled with the group toward the docks during the 
 Referenced during Thorin's internal recollection — had previously told the party that kuo-toa can create gods through the power of collective faith, which contextualizes the summoning of Demogorgon/Leemooggoogoon.
 
 **Demogorgon (summoned as "Leemooggoogoon")**
-Emerged from the Darklake following Bloppblippodd's death and the completion of the sacrificial ritual. Manifested as a thirty-foot-tall demon prince with two baboon-like heads, curved tusks, red blazing eyes, thick oily tentacles, and a single torso. Threw back both heads and roared upon reaching full height. Currently present in the Darklake cavern. The kuo-toa apparently summoned and perceived this entity as their deity Leemooggoogoon, while Grygum recognized him as Demogorgon, Prince of Demons.
+Emerged from the Darklake following Bloppblippodd's death and the completion of the sacrificial ritual. Manifested as a thirty-foot-tall demon prince with two baboon-like heads, curved tusks, red blazing eyes, thick oily tentacles, and a single torso. Threw back both heads and roared upon reaching full height. Currently present in the Darklake cavern. The kuo-toa apparently summoned and perceived this entity as their deity Leemooggoogoon, while Gyrgum recognized him as Demogorgon, Prince of Demons.
 
-**Grog'Bahamut / Gorg'Bahamut (Grygum's mentor, absent)**
-Referenced in Grygum's memory — provided both the general warning about duergar (including the note about Whisperwind passing along warnings) and a specific theological teaching about Demogorgon's nature, describing him as the antithesis of Bahamut embodying chaos, destruction, and corruption. Not physically present.
+**Grog'Bahamut / Gorg'Bahamut (Gyrgum's mentor, absent)**
+Referenced in Gyrgum's memory — provided both the general warning about duergar (including the note about Whisperwind passing along warnings) and a specific theological teaching about Demogorgon's nature, describing him as the antithesis of Bahamut embodying chaos, destruction, and corruption. Not physically present.
 
 **Whisperwind (described as "a giant friend," absent)**
 Referenced as the source of Thorin's prior knowledge about duergar deep dwarves. Not present in the session.
@@ -70,6 +70,6 @@ The factional conflict between the Sea Mother and Deep Father kuo-toa reached op
 - **Demogorgon**: Present and active in the Darklake cavern, having just fully emerged from the lake. Thirty feet tall, roaring.
 - **Ploop**: Last seen in the melee at the altar area, having just killed Bloppblippodd.
 - **Bloppblippodd**: Deceased. Body at the altar.
-- **Hemath**: Last seen among the prisoners in the altar depression area; status during the chaos unclear but was alive at last contact with Grygum.
+- **Hemath**: Last seen among the prisoners in the altar depression area; status during the chaos unclear but was alive at last contact with Gyrgum.
 - **Jimjar, Eldeth, Buppido, Spiderbait, Shuushar, Serith, Topsy, Turvy**: Huddled with the party near the docks in the eastern part of the cave.
 - **Bloppblippodd's second-in-command**: Last seen advancing to block escape routes; current status unknown amid the general melee.

@@ -6,7 +6,7 @@
 - Shouted "Rations!" after the creature was killed, claiming its body for food.
 - Used the mind link (via Stool's rapport spores) to warn the group: "Ilvara has found us and, worse, has caught up with us."
 - Explained Underdark tunnel geography and pursuit tactics to the group, warning that tunnels twist and enemies can appear unexpectedly.
-- Spotted a path/tunnel through the cave but was upstaged by Grygum pointing it out first; reacted with annoyance but acknowledged Grygum's usefulness.
+- Spotted a path/tunnel through the cave but was upstaged by Gyrgum pointing it out first; reacted with annoyance but acknowledged Gyrgum's usefulness.
 - Directed the group to move fast and put distance between themselves and the drow; assigned Eldeth to cover their trail the following day.
 
 **Buppido**
@@ -15,21 +15,21 @@
 - Participated in killing the creature alongside Sarith.
 
 **Stool**
-- Was relieved to see Grygum alive.
-- Was told by Grygum to go help Shuushar.
+- Was relieved to see Gyrgum alive.
+- Was told by Gyrgum to go help Shuushar.
 - Was carried on Thorin's back during the escape due to slow movement speed.
 - Released rapport spores, establishing a group mind link.
 - Expressed childlike pride in his "good idea" repeatedly through the mind link.
 
 **Shuushar**
-- Was assisted by Grygum (via Stool's direction) during the cave-in aftermath.
+- Was assisted by Gyrgum (via Stool's direction) during the cave-in aftermath.
 - Ran through a Faerzress-filled cave and experienced unusual discomfort, describing the Faerzress as feeling like "a poison" rather than a mere light — a change from previous experience.
 
 **Nym** (Drow scout, from Velkynvelve)
 - Identified by Zalthir as one of the Drow soldiers from Velkynvelve based on his distinctive gait.
 - Led the pursuing drow scouts through the tunnels.
 - Arrived at the stalagmites where the party was hiding; investigated after hearing Zalthir fall.
-- Felt Grygum's fabricated tremor (Thaumaturgy) and, fearing a cave collapse and finding no evidence of prisoners, chose to withdraw.
+- Felt Gyrgum's fabricated tremor (Thaumaturgy) and, fearing a cave collapse and finding no evidence of prisoners, chose to withdraw.
 - Muttered "I told you it was the other tunnel" as the scouts left, suggesting internal disagreement among the scouts about the pursuit route.
 
 **Ilvara** (referenced, not present)
@@ -49,7 +49,7 @@
 - Named as someone who needed to be rescued during the creature fight (per Thorin's shout).
 - Assigned by Sarith at the end of the day to cover the group's trail the following day, indicating she has relevant Underdark tracking/concealment skills.
 
-**Grygum**
+**Gyrgum**
 - Was knocked unconscious by the giant centipede wrapping a tentacle around him.
 - Was revived by Zalthir.
 - Cast Thaumaturgy to create a false tremor, successfully deceiving the drow scouts into abandoning the search at the stalagmites.
@@ -62,7 +62,7 @@
 **Drow of Velkynvelve (Ilvara's pursuit force)**
 - Scouts (including Nym) are actively tracking the escaped prisoners through the Underdark tunnels.
 - Scouts nearly fell into a sudden drop in their haste during the pursuit.
-- Scouts reached the party's hiding spot but were deceived by Grygum's Thaumaturgy tremor and withdrew without discovering the prisoners.
+- Scouts reached the party's hiding spot but were deceived by Gyrgum's Thaumaturgy tremor and withdrew without discovering the prisoners.
 - Internal disagreement among scouts about which tunnel to follow (Nym: "I told you it was the other tunnel"), suggesting imperfect intelligence about the party's route.
 - Ilvara herself has reportedly caught up to the general area, representing an escalation from scouts to command-level pursuit.
 - The party successfully gained distance from pursuers by end of day, but remains without water — a resource vulnerability the drow may be able to exploit through attrition.
@@ -102,4 +102,4 @@
 - **Jimjar:** With the party; rescued during the creature fight.
 - **Eldeth:** With the party; assigned trail-covering duties for the next day.
 - **Topsy and Turvy:** With the party.
-- **Grygum:** With the party; revived after being knocked unconscious.
+- **Gyrgum:** With the party; revived after being knocked unconscious.

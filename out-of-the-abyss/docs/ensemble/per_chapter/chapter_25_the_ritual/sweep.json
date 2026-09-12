@@ -15,16 +15,16 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is struck by a Derro, vomits acid after incantation, casts a guiding bolt at the Ettin, and is affected by Narrak\u2019s fear spell before being freed by Zalthir\u2019s darkness.",
-    "source_quote": "One of the Derro rushes out of Zalthir\u2019s darkness, notices Grygum, and strikes him while chanting, \u201cYou shall die! You shall die!\u201d ... I look at him as he straightens and vomits forth a wave of acid. A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is struck by a Derro, vomits acid after incantation, casts a guiding bolt at the Ettin, and is affected by Narrak\u2019s fear spell before being freed by Zalthir\u2019s darkness.",
+    "source_quote": "One of the Derro rushes out of Zalthir\u2019s darkness, notices Gyrgum, and strikes him while chanting, \u201cYou shall die! You shall die!\u201d ... I look at him as he straightens and vomits forth a wave of acid. A guiding bolt from Gyrgum strikes the Ettin, and it groans and then smiles.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Narrak",
     "fact": "Narrak is the head cultist who leads the ritual chant, berates the Derro for lack of vigor, casts fear using a white feather, and is trapped in Zalthir\u2019s darkness after being targeted by Maximillian\u2019s Earthen Grasp.",
-    "source_quote": "Silence, you blithering half-wits! More vigor! This city's doom, a ritual! Dig it! ... I will use fear! He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified. ... You cannot stop the inevitable... the curse spreads!",
+    "source_quote": "Silence, you blithering half-wits! More vigor! This city's doom, a ritual! Dig it! ... I will use fear! He takes a white feather and points at Thorin, Gyrgum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified. ... You cannot stop the inevitable... the curse spreads!",
     "quote_verified": false
   },
   {
@@ -65,8 +65,8 @@
   {
     "type": "object",
     "subject": "white feather",
-    "fact": "The white feather is used by Narrak to cast a fear spell on Thorin, Grygum, and Zalthir.",
-    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "fact": "The white feather is used by Narrak to cast a fear spell on Thorin, Gyrgum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Gyrgum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
     "quote_verified": true
   },
   {
@@ -93,15 +93,15 @@
   {
     "type": "monster",
     "subject": "Ettin",
-    "fact": "The Ettin is a two-headed creature targeted by Daz, struck by Thorin and Grygum, and attacks the frightened Thorin with its morning star.",
-    "source_quote": "I say the Ettin. ... The Ettin raises his battle axe and strikes the frightened Thorin, and misses, but the morning star hits. ... A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "fact": "The Ettin is a two-headed creature targeted by Daz, struck by Thorin and Gyrgum, and attacks the frightened Thorin with its morning star.",
+    "source_quote": "I say the Ettin. ... The Ettin raises his battle axe and strikes the frightened Thorin, and misses, but the morning star hits. ... A guiding bolt from Gyrgum strikes the Ettin, and it groans and then smiles.",
     "quote_verified": false
   },
   {
     "type": "monster",
     "subject": "Derro",
-    "fact": "Derro are the chanting cultists who perform the ritual, are concealed by Zalthir\u2019s darkness, attack Grygum and Zalthir, and are berated by Narrak for lack of vigor.",
-    "source_quote": "Five Derro are chanting. ... One of the Derro raises a hand, and asks where, and the head cultist shouts, \u201cOVER THERE!!!\u201d ... Another Derro rushes out of Zalthir\u2019s darkness and attacks Grygum, missing.",
+    "fact": "Derro are the chanting cultists who perform the ritual, are concealed by Zalthir\u2019s darkness, attack Gyrgum and Zalthir, and are berated by Narrak for lack of vigor.",
+    "source_quote": "Five Derro are chanting. ... One of the Derro raises a hand, and asks where, and the head cultist shouts, \u201cOVER THERE!!!\u201d ... Another Derro rushes out of Zalthir\u2019s darkness and attacks Gyrgum, missing.",
     "quote_verified": false
   },
   {
@@ -121,14 +121,14 @@
   {
     "type": "event",
     "subject": "fear spell cast by Narrak",
-    "fact": "Narrak casts a fear spell using a white feather, affecting Thorin, Grygum, and Zalthir, until Zalthir moves the darkness over him, breaking the effect.",
-    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified. ... I move the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "fact": "Narrak casts a fear spell using a white feather, affecting Thorin, Gyrgum, and Zalthir, until Zalthir moves the darkness over him, breaking the effect.",
+    "source_quote": "He takes a white feather and points at Thorin, Gyrgum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified. ... I move the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "acid vomit from Grygum",
-    "fact": "Grygum vomits a wave of acid after an incantation, a side effect of his magic that is not a spell he wishes to cast.",
+    "subject": "acid vomit from Gyrgum",
+    "fact": "Gyrgum vomits a wave of acid after an incantation, a side effect of his magic that is not a spell he wishes to cast.",
     "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
     "quote_verified": true
   },
@@ -163,7 +163,7 @@
   {
     "type": "npc",
     "subject": "JimJar",
-    "fact": "JimJar bets Grygum that his knots on Pelek will not hold, and later loses the bet when Pelek remains tied up the next day.",
+    "fact": "JimJar bets Gyrgum that his knots on Pelek will not hold, and later loses the bet when Pelek remains tied up the next day.",
     "source_quote": "JimJar again offers one of his silly bets. He bets me that my knots won\u2019t hold. ... And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
     "quote_verified": false
   },
@@ -176,15 +176,15 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is the one who notices the need to stop the ritual, but his spells are almost finished, and he later receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
-    "source_quote": "Grygum turns to me, \u201cI know we want to stop this ritual, but my spells are almost finished.\u201d ... We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is the one who notices the need to stop the ritual, but his spells are almost finished, and he later receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
+    "source_quote": "Gyrgum turns to me, \u201cI know we want to stop this ritual, but my spells are almost finished.\u201d ... We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Hgraam",
-    "fact": "Hgraam is referenced as a divine entity who can reverse the ill effects on the Stone Giants, invoked by Grygum\u2019s divine insight.",
+    "fact": "Hgraam is referenced as a divine entity who can reverse the ill effects on the Stone Giants, invoked by Gyrgum\u2019s divine insight.",
     "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
     "quote_verified": true
   },
@@ -254,8 +254,8 @@
   {
     "type": "event",
     "subject": "Derro\u2019s missed attacks",
-    "fact": "Two Derro attack Grygum and Zalthir in the darkness but miss their targets, indicating poor combat coordination.",
-    "source_quote": "One of the Derro rushes out of Zalthir\u2019s darkness, notices Grygum, and strikes him while chanting, \u201cYou shall die! You shall die!\u201d ... Another creature attacks Zalthir in the darkness. It took shrieks something intelligible. I don\u2019t hear the sound of weapons making contact with flesh...",
+    "fact": "Two Derro attack Gyrgum and Zalthir in the darkness but miss their targets, indicating poor combat coordination.",
+    "source_quote": "One of the Derro rushes out of Zalthir\u2019s darkness, notices Gyrgum, and strikes him while chanting, \u201cYou shall die! You shall die!\u201d ... Another creature attacks Zalthir in the darkness. It took shrieks something intelligible. I don\u2019t hear the sound of weapons making contact with flesh...",
     "quote_verified": false
   },
   {
@@ -267,9 +267,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s guiding bolt",
-    "fact": "Grygum casts a guiding bolt at the Ettin, which groans and smiles, suggesting it is not as effective as intended.",
-    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles. I don\u2019t think the spell hurt him as badly as we need.",
+    "subject": "Gyrgum\u2019s guiding bolt",
+    "fact": "Gyrgum casts a guiding bolt at the Ettin, which groans and smiles, suggesting it is not as effective as intended.",
+    "source_quote": "A guiding bolt from Gyrgum strikes the Ettin, and it groans and then smiles. I don\u2019t think the spell hurt him as badly as we need.",
     "quote_verified": false
   },
   {
@@ -330,15 +330,15 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s acid vomit as magical side effect",
-    "fact": "Grygum\u2019s acid vomit is not a spell he casts, but an involuntary side effect of his incantation, which he finds repulsive.",
+    "subject": "Gyrgum\u2019s acid vomit as magical side effect",
+    "fact": "Gyrgum\u2019s acid vomit is not a spell he casts, but an involuntary side effect of his incantation, which he finds repulsive.",
     "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "JimJar\u2019s bet loss",
-    "fact": "JimJar bets Grygum his knots won\u2019t hold on Pelek, but loses when Pelek remains bound overnight.",
+    "fact": "JimJar bets Gyrgum his knots won\u2019t hold on Pelek, but loses when Pelek remains bound overnight.",
     "source_quote": "JimJar again offers one of his silly bets. He bets me that my knots won\u2019t hold. ... And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
     "quote_verified": false
   },
@@ -381,7 +381,7 @@
     "type": "event",
     "subject": "Derro\u2019s failed coordination",
     "fact": "The Derro repeatedly fail to coordinate their chant and attacks, leading to missed strikes and ritual failure.",
-    "source_quote": "But the Derro only do so half heartedly... ... Another Derro rushes out of Zalthir\u2019s darkness and attacks Grygum, missing.",
+    "source_quote": "But the Derro only do so half heartedly... ... Another Derro rushes out of Zalthir\u2019s darkness and attacks Gyrgum, missing.",
     "quote_verified": false
   },
   {
@@ -393,8 +393,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s divine insight",
-    "fact": "Grygum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants, guiding his decision-making.",
+    "subject": "Gyrgum\u2019s divine insight",
+    "fact": "Gyrgum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants, guiding his decision-making.",
     "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
     "quote_verified": true
   },
@@ -402,14 +402,14 @@
     "type": "event",
     "subject": "Narrak\u2019s fear spell cast",
     "fact": "Narrak casts fear using a white feather, affecting three members of the Ember Vanguard until the source is obscured.",
-    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "source_quote": "He takes a white feather and points at Thorin, Gyrgum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Ettin\u2019s survival despite damage",
     "fact": "The Ettin survives multiple attacks, including a guiding bolt and Thorin\u2019s strike, and smiles after being hit, suggesting resilience or corruption.",
-    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles. ... But Thorin has a better chance to strike the creature, and he does.",
+    "source_quote": "A guiding bolt from Gyrgum strikes the Ettin, and it groans and then smiles. ... But Thorin has a better chance to strike the creature, and he does.",
     "quote_verified": false
   },
   {
@@ -443,7 +443,7 @@
   {
     "type": "event",
     "subject": "Pelek\u2019s binding confirmed",
-    "fact": "Pelek remains bound overnight, confirming the effectiveness of Grygum\u2019s knots and the success of the group\u2019s precaution.",
+    "fact": "Pelek remains bound overnight, confirming the effectiveness of Gyrgum\u2019s knots and the success of the group\u2019s precaution.",
     "source_quote": "And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
     "quote_verified": true
   },
@@ -470,8 +470,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s acid vomit",
-    "fact": "Grygum vomits acid after casting a spell, an unintended and repulsive side effect.",
+    "subject": "Gyrgum\u2019s acid vomit",
+    "fact": "Gyrgum vomits acid after casting a spell, an unintended and repulsive side effect.",
     "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
     "quote_verified": true
   },
@@ -533,23 +533,23 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s divine insight",
-    "fact": "Grygum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
+    "subject": "Gyrgum\u2019s divine insight",
+    "fact": "Gyrgum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
     "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Narrak\u2019s fear spell",
-    "fact": "Narrak casts fear using a white feather, affecting Thorin, Grygum, and Zalthir.",
-    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "fact": "Narrak casts fear using a white feather, affecting Thorin, Gyrgum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Gyrgum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Ettin\u2019s resilience",
     "fact": "The Ettin survives multiple attacks and smiles after being hit, suggesting it is corrupted or unnaturally resilient.",
-    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "source_quote": "A guiding bolt from Gyrgum strikes the Ettin, and it groans and then smiles.",
     "quote_verified": false
   },
   {
@@ -583,7 +583,7 @@
   {
     "type": "event",
     "subject": "Pelek\u2019s binding confirmed",
-    "fact": "Pelek remains bound overnight, confirming the effectiveness of Grygum\u2019s knots.",
+    "fact": "Pelek remains bound overnight, confirming the effectiveness of Gyrgum\u2019s knots.",
     "source_quote": "And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
     "quote_verified": true
   },
@@ -610,8 +610,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s acid vomit",
-    "fact": "Grygum vomits acid after casting a spell, an unintended and repulsive side effect.",
+    "subject": "Gyrgum\u2019s acid vomit",
+    "fact": "Gyrgum vomits acid after casting a spell, an unintended and repulsive side effect.",
     "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
     "quote_verified": true
   },
@@ -673,23 +673,23 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s divine insight",
-    "fact": "Grygum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
+    "subject": "Gyrgum\u2019s divine insight",
+    "fact": "Gyrgum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
     "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Narrak\u2019s fear spell",
-    "fact": "Narrak casts fear using a white feather, affecting Thorin, Grygum, and Zalthir.",
-    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "fact": "Narrak casts fear using a white feather, affecting Thorin, Gyrgum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Gyrgum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Ettin\u2019s resilience",
     "fact": "The Ettin survives multiple attacks and smiles after being hit, suggesting it is corrupted or unnaturally resilient.",
-    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "source_quote": "A guiding bolt from Gyrgum strikes the Ettin, and it groans and then smiles.",
     "quote_verified": false
   },
   {
@@ -723,7 +723,7 @@
   {
     "type": "event",
     "subject": "Pelek\u2019s binding confirmed",
-    "fact": "Pelek remains bound overnight, confirming the effectiveness of Grygum\u2019s knots.",
+    "fact": "Pelek remains bound overnight, confirming the effectiveness of Gyrgum\u2019s knots.",
     "source_quote": "And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
     "quote_verified": true
   },
@@ -750,8 +750,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s acid vomit",
-    "fact": "Grygum vomits acid after casting a spell, an unintended and repulsive side effect.",
+    "subject": "Gyrgum\u2019s acid vomit",
+    "fact": "Gyrgum vomits acid after casting a spell, an unintended and repulsive side effect.",
     "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
     "quote_verified": true
   },
@@ -813,23 +813,23 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s divine insight",
-    "fact": "Grygum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
+    "subject": "Gyrgum\u2019s divine insight",
+    "fact": "Gyrgum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
     "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Narrak\u2019s fear spell",
-    "fact": "Narrak casts fear using a white feather, affecting Thorin, Grygum, and Zalthir.",
-    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "fact": "Narrak casts fear using a white feather, affecting Thorin, Gyrgum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Gyrgum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Ettin\u2019s resilience",
     "fact": "The Ettin survives multiple attacks and smiles after being hit, suggesting it is corrupted or unnaturally resilient.",
-    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "source_quote": "A guiding bolt from Gyrgum strikes the Ettin, and it groans and then smiles.",
     "quote_verified": false
   },
   {
@@ -863,7 +863,7 @@
   {
     "type": "event",
     "subject": "Pelek\u2019s binding confirmed",
-    "fact": "Pelek remains bound overnight, confirming the effectiveness of Grygum\u2019s knots.",
+    "fact": "Pelek remains bound overnight, confirming the effectiveness of Gyrgum\u2019s knots.",
     "source_quote": "And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
     "quote_verified": true
   },
@@ -890,8 +890,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s acid vomit",
-    "fact": "Grygum vomits acid after casting a spell, an unintended and repulsive side effect.",
+    "subject": "Gyrgum\u2019s acid vomit",
+    "fact": "Gyrgum vomits acid after casting a spell, an unintended and repulsive side effect.",
     "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
     "quote_verified": true
   },
@@ -953,23 +953,23 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s divine insight",
-    "fact": "Grygum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
+    "subject": "Gyrgum\u2019s divine insight",
+    "fact": "Gyrgum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
     "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Narrak\u2019s fear spell",
-    "fact": "Narrak casts fear using a white feather, affecting Thorin, Grygum, and Zalthir.",
-    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "fact": "Narrak casts fear using a white feather, affecting Thorin, Gyrgum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Gyrgum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Ettin\u2019s resilience",
     "fact": "The Ettin survives multiple attacks and smiles after being hit, suggesting it is corrupted or unnaturally resilient.",
-    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "source_quote": "A guiding bolt from Gyrgum strikes the Ettin, and it groans and then smiles.",
     "quote_verified": false
   },
   {
@@ -1003,7 +1003,7 @@
   {
     "type": "event",
     "subject": "Pelek\u2019s binding confirmed",
-    "fact": "Pelek remains bound overnight, confirming the effectiveness of Grygum\u2019s knots.",
+    "fact": "Pelek remains bound overnight, confirming the effectiveness of Gyrgum\u2019s knots.",
     "source_quote": "And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
     "quote_verified": true
   },
@@ -1030,8 +1030,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s acid vomit",
-    "fact": "Grygum vomits acid after casting a spell, an unintended and repulsive side effect.",
+    "subject": "Gyrgum\u2019s acid vomit",
+    "fact": "Gyrgum vomits acid after casting a spell, an unintended and repulsive side effect.",
     "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
     "quote_verified": true
   },
@@ -1093,23 +1093,23 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s divine insight",
-    "fact": "Grygum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
+    "subject": "Gyrgum\u2019s divine insight",
+    "fact": "Gyrgum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
     "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Narrak\u2019s fear spell",
-    "fact": "Narrak casts fear using a white feather, affecting Thorin, Grygum, and Zalthir.",
-    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "fact": "Narrak casts fear using a white feather, affecting Thorin, Gyrgum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Gyrgum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Ettin\u2019s resilience",
     "fact": "The Ettin survives multiple attacks and smiles after being hit, suggesting it is corrupted or unnaturally resilient.",
-    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "source_quote": "A guiding bolt from Gyrgum strikes the Ettin, and it groans and then smiles.",
     "quote_verified": false
   },
   {
@@ -1143,7 +1143,7 @@
   {
     "type": "event",
     "subject": "Pelek\u2019s binding confirmed",
-    "fact": "Pelek remains bound overnight, confirming the effectiveness of Grygum\u2019s knots.",
+    "fact": "Pelek remains bound overnight, confirming the effectiveness of Gyrgum\u2019s knots.",
     "source_quote": "And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
     "quote_verified": true
   },
@@ -1170,8 +1170,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s acid vomit",
-    "fact": "Grygum vomits acid after casting a spell, an unintended and repulsive side effect.",
+    "subject": "Gyrgum\u2019s acid vomit",
+    "fact": "Gyrgum vomits acid after casting a spell, an unintended and repulsive side effect.",
     "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
     "quote_verified": true
   },
@@ -1233,23 +1233,23 @@
   },
   {
     "type": "event",
-    "subject": "Grygum\u2019s divine insight",
-    "fact": "Grygum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
+    "subject": "Gyrgum\u2019s divine insight",
+    "fact": "Gyrgum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
     "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Narrak\u2019s fear spell",
-    "fact": "Narrak casts fear using a white feather, affecting Thorin, Grygum, and Zalthir.",
-    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "fact": "Narrak casts fear using a white feather, affecting Thorin, Gyrgum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Gyrgum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Ettin\u2019s resilience",
     "fact": "The Ettin survives multiple attacks and smiles after being hit, suggesting it is corrupted or unnaturally resilient.",
-    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "source_quote": "A guiding bolt from Gyrgum strikes the Ettin, and it groans and then smiles.",
     "quote_verified": false
   },
   {

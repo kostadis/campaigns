@@ -16,5 +16,5 @@ chapters: 26-26
 - The physical nature of "Stool" (e.g., building, landmark, terrain feature) is unspecified.  
 - Who is present at Stool currently is unknown.  
 - Whether "Stool" is a proper name, a codename, or a colloquial term is unclear.  
-- The identity of the speaker ("Hey, Zalthir? Grygum?...") is not established.  
+- The identity of the speaker ("Hey, Zalthir? Gyrgum?...") is not established.  
 - No information on whether the mission to rescue Rump-a-dump has been executed or is still pending.

@@ -5,7 +5,7 @@ Date: Apr 22nd, 2026
 ## Summary
 With the chaos of battle finally settled, the party turned their attention to the two Drow mercenaries who had fought alongside them — Nym and Kaelira Duskryn — as the pair made a quiet but deliberate move toward the exit. When pressed, the two professionals revealed that they had been hired in Menzoberranzan by an unknown benefactor to ensure Daz's survival, their contract specifically naming Ilvara of House Mizzrym and the forces of House T'sarran as the threats to neutralize. Daz attempted to negotiate continued protection, but Nym and Kaelira Duskryn made it abundantly clear that their services came at a price far beyond what the party could afford. They regarded Asha Vandree — the surviving Drow cleric — as beneath their concern, flatly stating that if Daz couldn't handle someone of her caliber on his own, then whoever had paid for his protection had wasted their coin.
 
-Asha Vandree, meanwhile, had emerged from the chaos utterly convinced that she had been divinely touched by Lolth. She had watched her entire crew descend into madness and ruin, and yet she had survived — a sign, she believed, of her singular blessing. Riding high on this delusion, she immediately began issuing commands to the party, treating the non-Drow members with open contempt and the Drow males with barely concealed disdain. Thorin had heard enough. He moved swiftly, closing the distance and seizing her in a powerful grapple, clamping a hand over her mouth before she could invoke another word of divine authority. Nym watched with visible exasperation, muttering that one does not simply grapple a cleric of Lolth — one takes a blade to their neck. Grygum attempted to strike her down with a bolt of holy light, but Asha's proclamations of divine protection seemed almost prophetic as the attack missed entirely. It was Zalthir who ended it, unleashing a brutal and relentless assault that left Asha Vandree dead on the floor of the outpost. The mercenaries offered a slow, sardonic applause.
+Asha Vandree, meanwhile, had emerged from the chaos utterly convinced that she had been divinely touched by Lolth. She had watched her entire crew descend into madness and ruin, and yet she had survived — a sign, she believed, of her singular blessing. Riding high on this delusion, she immediately began issuing commands to the party, treating the non-Drow members with open contempt and the Drow males with barely concealed disdain. Thorin had heard enough. He moved swiftly, closing the distance and seizing her in a powerful grapple, clamping a hand over her mouth before she could invoke another word of divine authority. Nym watched with visible exasperation, muttering that one does not simply grapple a cleric of Lolth — one takes a blade to their neck. Gyrgum attempted to strike her down with a bolt of holy light, but Asha's proclamations of divine protection seemed almost prophetic as the attack missed entirely. It was Zalthir who ended it, unleashing a brutal and relentless assault that left Asha Vandree dead on the floor of the outpost. The mercenaries offered a slow, sardonic applause.
 
 With their enemies defeated, the party turned to the grim but satisfying work of looting the outpost. Among the fallen guards and the payroll chest Ilvara had been hauling since the breakout from Velkynvelve, they recovered a substantial sum of gold and silver — the salary of soldiers who would never collect it. A chest of confiscated prisoner belongings yielded something far more personal for Thorin: his tooth, which Ilvara had apparently kept as a trophy throughout her long pursuit of the party. Also tucked inside were a water-damaged journal belonging to a presumed dead prisoner and a flask of Overbright brandy that had somehow survived the chaos completely intact.
 
@@ -13,7 +13,7 @@ Asha's body gave up a holy symbol of Lolth, Drow chain mail, obsidian prayer bea
 
 Ilvara's own belongings told a darker story. Her prayer book was filled with marginalia written in a different hand, tracking her slow corruption by Zuggtmoy in chilling detail. Sealed orders from House Mizzrym confirmed she had still been receiving instructions from her noble house right up until she vanished — the messages growing increasingly frantic as she stopped responding. A letter from Neverlight Grove, written by her agent before that unfortunate soul became fungus food, referenced something called "the bride" and a meeting that had never taken place. On the body of the Drow mage, the party found a signet ring bearing the seal of House T'sarran, which Daz immediately recognized as both proof of the house's involvement and a tool that could be used to forge orders in their name. Partially burnt documents confirmed what they had begun to suspect: there had been a contract to extract Daz alive and unharmed, and House T'sarran had been the ones behind it.
 
-Thorin investigated the heart of the corrupted fungal mass that had dominated the chamber, finding a dense, pearl-like node at its center radiating a faint but unmistakable necromantic energy — the kind of thing a discerning buyer would pay handsomely for. Grygum then turned his fire breath on the remaining spore corruption atop Ilvara's elevated stone platform, reducing it to ash. Beneath the smoldering remains, they uncovered a leather-wrapped bundle: incense cones, a small silver bowl, and a cloth stitched with the fused sigils of both Lolth and Zuggtmoy, one woven inside the other. It was the physical embodiment of Ilvara's madness — proof that something deeply wrong was spreading through the Underdark, something that could drive even a devoted cleric to abandon her goddess in favor of a demon queen of fungus.
+Thorin investigated the heart of the corrupted fungal mass that had dominated the chamber, finding a dense, pearl-like node at its center radiating a faint but unmistakable necromantic energy — the kind of thing a discerning buyer would pay handsomely for. Gyrgum then turned his fire breath on the remaining spore corruption atop Ilvara's elevated stone platform, reducing it to ash. Beneath the smoldering remains, they uncovered a leather-wrapped bundle: incense cones, a small silver bowl, and a cloth stitched with the fused sigils of both Lolth and Zuggtmoy, one woven inside the other. It was the physical embodiment of Ilvara's madness — proof that something deeply wrong was spreading through the Underdark, something that could drive even a devoted cleric to abandon her goddess in favor of a demon queen of fungus.
 
 When Nym and Kaelira Duskryn were shown the burnt extraction contract, they examined it with cool professionalism before confirming what it implied: someone had paid House T'sarran a great deal of money to bring Daz in alive. The mercenaries found the whole situation baffling, noting that Daz had no noble house, no known lineage, and no obvious reason to be worth such an investment. Kaelira Duskryn compared him to every orphan who had ever convinced themselves they were secretly important, though even she admitted that the price paid suggested something more than wishful thinking. Daz, for his part, was deeply unsettled — and deeply curious. He proposed to the party that they investigate together, splitting whatever they uncovered, and the group agreed that answers were worth pursuing.
 
@@ -52,7 +52,7 @@ After months of trudging through the darkness of the Underdark, the party finall
 - Asha Vandree, believing herself divinely blessed by Lolth after surviving the chaos, attempts to take command of the party and treats non-Drow members with open condescension.
 - Thorin moves to intercept Asha, successfully grappling her and covering her mouth to silence her commands.
 - Nym critiques the party's methods, suggesting that a blade is more efficient than a grapple when dealing with a cleric of Lolth.
-- Grygum attempts to strike Asha with a guiding bolt but misses as she proclaims divine protection.
+- Gyrgum attempts to strike Asha with a guiding bolt but misses as she proclaims divine protection.
 - Zalthir decides to end the threat permanently, unleashing a flurry of strikes and tentacle attacks that kill Asha Vandree.
 - The Drow mercenaries express a mix of amusement and begrudging respect for the party's sudden decisiveness.
 
@@ -73,7 +73,7 @@ After months of trudging through the darkness of the Underdark, the party finall
 - Daz identifies the signet ring as a tool for forgery and proof of House T'sarran's involvement in the attack.
 - Partially burnt orders are found on the mage confirming a contract to extract Daz alive and unharmed.
 - Thorin investigates the heart fungus, discovering a fist-sized, dense, pearl-like node radiating residual necromantic energy at its center.
-- Grygum uses fire breath to incinerate the remaining fungal corruption, including the spore remnant of Zuggtmoy.
+- Gyrgum uses fire breath to incinerate the remaining fungal corruption, including the spore remnant of Zuggtmoy.
 - A leather-wrapped bundle is uncovered beneath the burnt fungus, containing incense cones, a small silver bowl, and cloth marked with the fused sigils of Lolth and Zuggtmoy — physical evidence of Ilvara's madness.
 - Nym and Kaelira Duskryn examine the extraction contract, noting the high price paid for Daz's capture and expressing bewilderment at why a 'nobody' would be worth so much.
 
@@ -91,7 +91,7 @@ After months of trudging through the darkness of the Underdark, the party finall
 - Glabbagool experiences the surface world for the first time, peering out from a bag of holding with wide, googly eyes.
 - The party decides to travel to Candlekeep to conduct research on House T'sarran, Jimjar, and Daz's mysterious background.
 - Thorin considers finding a specialist — a 'sword whisperer' — to help Dawnbringer work through the trauma of being trapped in the dark.
-- Grygum plans to research the lore of Bahamut and pick up pamphlets at the Great Library.
+- Gyrgum plans to research the lore of Bahamut and pick up pamphlets at the Great Library.
 - The party discusses investing their newfound wealth into adventuring gear rather than business ventures.
 - A meta-discussion arises about the rarity and strategic value of high-level adventurers, and how the party's success has bolstered the career of Ezra, who originally discovered them.
 
@@ -162,10 +162,10 @@ A high-quality, specialized locking scabbard purchased for Dawnbringer, referenc
 
 ## Spells
 ### Guiding Bolt
-Cast by Grygum against Asha Vandree at the start of combat. The bolt of light failed to connect, with Asha proclaiming her divine protection from Lolth.
+Cast by Gyrgum against Asha Vandree at the start of combat. The bolt of light failed to connect, with Asha proclaiming her divine protection from Lolth.
 
 ### Fire Breath
-Used by Grygum to incinerate the corrupted heart fungus and the remaining spore remnant of Zuggtmoy on Ilvara's elevated platform, uncovering a hidden ceremonial bundle beneath the ash.
+Used by Gyrgum to incinerate the corrupted heart fungus and the remaining spore remnant of Zuggtmoy on Ilvara's elevated platform, uncovering a hidden ceremonial bundle beneath the ash.
 
 ## NPCs
 ### Nym Duskryn

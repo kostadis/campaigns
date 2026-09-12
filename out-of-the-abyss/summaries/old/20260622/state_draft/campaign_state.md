@@ -7,7 +7,7 @@
 ## campaign_state.md
 
 > Campaign: Out of the Abyss → Candlekeep murder mystery
-> The party: **Grygum** (half-orc cleric of Bahamut), **Daz** (drow evoker/apostate), **Thorin** (dwarf, wields Dawnbringer), **Zalthir** (dragonborn shadow monk). Companion: **Glabbagool** (sentient ooze, now Zalthir's Shadow Apprentice sidekick).
+> The party: **Gyrgum** (half-orc cleric of Bahamut), **Daz** (drow evoker/apostate), **Thorin** (dwarf, wields Dawnbringer), **Zalthir** (dragonborn shadow monk). Companion: **Glabbagool** (sentient ooze, now Zalthir's Shadow Apprentice sidekick).
 
 ---
 
@@ -59,9 +59,9 @@
 42. **Ilvara Mizzrym — final confrontation (Fungal Cavern)** — Ilvara (Zuggtmoy-corrupted), the Heart Fungus, and her spore servants destroyed. **Ilvara DEAD** (body burst into spores). Asha Vandree killed. House T'sarran extraction team defeated (one survivor escaped). Jorlan survived. The Duskryn mercenary sisters departed. Confiscated belongings recovered (incl. Thorin's tooth).
 43. **House T'sarran surface spy captured** — Shrunk and held in the bag of holding under Glabbagool's watch.
 44. **Reach Candlekeep** — Admission gained by donating five books. Scholar pairings established.
-45. **Candlekeep scholar arcs (in progress, milestones reached):** Zalthir passed the Shadow Monk trial (gained technique C); Glabbagool answered the Whispering Dome question and bonded to Zalthir as a Shadow Apprentice sidekick; Grygum founded the "Grygumite School" with Vareth; Daz uncovered the *Daz'issin* name lead with Yvenne.
+45. **Candlekeep scholar arcs (in progress, milestones reached):** Zalthir passed the Shadow Monk trial (gained technique C); Glabbagool answered the Whispering Dome question and bonded to Zalthir as a Shadow Apprentice sidekick; Gyrgum founded the "Gyrgumite School" with Vareth; Daz uncovered the *Daz'issin* name lead with Yvenne.
 46. **Janussi murder — forensic investigation** — Cause/method established: poisoned via *midnight tears* on a book's pages; heart removed post-mortem to block resurrection; nose broken (by Daral) before death. Murder weapon book secured into evidence.
-47. **Janussi murder — the confession (Ch. 57)** — Under a *zone of truth* cast by Kalan Strongbranch (concealed outside the room), **Alkrist confessed the conspiracy**: he and **A'lai Aivenmore** planned it after their reviews; Alkrist stole *midnight tears* from the Oak Tree Apothecary, coated Daral's gift book, and re-wrapped it (nearly caught by the staffer Irony). **A'lai was "the brains."** Alkrist told **Bookwyrm** post-midnight that "the problem was solved"; she was appalled and stormed out — and went **pale-genuine-shocked** when told the heart had been removed (he knew nothing of it). Grygum's *mending* on the discarded wrapping paper proved a deliberate re-wrap (premeditation). **The whodunit is largely answered; the reckoning is not.** See Active Threads #1.
+47. **Janussi murder — the confession (Ch. 57)** — Under a *zone of truth* cast by Kalan Strongbranch (concealed outside the room), **Alkrist confessed the conspiracy**: he and **A'lai Aivenmore** planned it after their reviews; Alkrist stole *midnight tears* from the Oak Tree Apothecary, coated Daral's gift book, and re-wrapped it (nearly caught by the staffer Irony). **A'lai was "the brains."** Alkrist told **Bookwyrm** post-midnight that "the problem was solved"; she was appalled and stormed out — and went **pale-genuine-shocked** when told the heart had been removed (he knew nothing of it). Gyrgum's *mending* on the discarded wrapping paper proved a deliberate re-wrap (premeditation). **The whodunit is largely answered; the reckoning is not.** See Active Threads #1.
 
 ---
 
@@ -106,7 +106,7 @@
 | Spiderbait | Alive | Candlekeep (seeking work) | Friendly |
 | Eldeth Feldrun | Alive | En route to Mithral Hall | Strong ally; sworn to Thorin |
 | Jimjar | Missing (vanished) | Blingdenstone (last) | Friendly; divine being |
-| Glabbagool | Alive (ooze form) | With party (Zalthir's sidekick); served as Grygum's ad-hoc "secretary" in Ch. 57 | Loyal companion |
+| Glabbagool | Alive (ooze form) | With party (Zalthir's sidekick); served as Gyrgum's ad-hoc "secretary" in Ch. 57 | Loyal companion |
 | Ploopploopeen | Unknown (presumed dead) | Sloobludop (destroyed) | N/A |
 | Bloppblippodd | Dead | Sloobludop | N/A |
 | Hemeth | Unknown | Gracklstugh (last) | Neutral contact |

@@ -2,7 +2,7 @@
 
 ### Arrival at Myconid Cave / Encounter with Voosbur's Infected Myconids
 - **Session/Time:** 3rd day of the 2nd Tenday of Myrtul
-- **Outcome:** Partial success — the party investigated the dancing myconids, identified the source of corruption as Zuggtmoy (the Demon Queen of Fungi / "The Dark Lady"), and resisted her influence. Thorin and Grygum entered the psychedelic vision/dream but refused Zuggtmoy's offer. The infected myconids departed with Voosbur afterward.
+- **Outcome:** Partial success — the party investigated the dancing myconids, identified the source of corruption as Zuggtmoy (the Demon Queen of Fungi / "The Dark Lady"), and resisted her influence. Thorin and Gyrgum entered the psychedelic vision/dream but refused Zuggtmoy's offer. The infected myconids departed with Voosbur afterward.
 - **Consequences:** The party now has direct knowledge that Zuggtmoy is actively corrupting myconids through spore infection. Sarith's demonic spore infection is worsening (drawn toward myconids). Rumpadump is recovered/reunited with Stool.
 
 ### Rumpadump — Reunited with Party
@@ -13,7 +13,7 @@
 ## Resolved Plot Threads
 
 ### Identity of "The Dark Lady" — Confirmed as Zuggtmoy
-- Grygum recalled from *The Platinum Chronicle: Discourses on the Abyssal Blight* that the "Dark Lady" is Zuggtmoy, Demon Queen of Fungi, Lady of Rot and Decay.
+- Gyrgum recalled from *The Platinum Chronicle: Discourses on the Abyssal Blight* that the "Dark Lady" is Zuggtmoy, Demon Queen of Fungi, Lady of Rot and Decay.
 - Her powers involve infecting the living with spores, transforming them into mindless servants, and consuming their minds in a "communal dream."
 - This is definitively established as demonic/magical corruption, not natural spore propagation (confirmed by Daz).
 
@@ -35,7 +35,7 @@
 - **Status:** Fully under Zuggtmoy's influence. Departed the area with his infected myconid group through magical spore transport.
 
 ### Zuggtmoy — Demon Queen of Fungi
-- **Status:** Confirmed present (at least in dream/psychic projection). Thorin saw her spectral form on a fungal throne during the shared vision. She attempted to recruit Thorin and Grygum but was refused. Her corruption is spreading through myconid populations originating from Neverlight Grove.
+- **Status:** Confirmed present (at least in dream/psychic projection). Thorin saw her spectral form on a fungal throne during the shared vision. She attempted to recruit Thorin and Gyrgum but was refused. Her corruption is spreading through myconid populations originating from Neverlight Grove.
 
 ## Party Accomplishments & Acquisitions
 

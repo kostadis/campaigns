@@ -12,13 +12,13 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 - The party rushes to Bookwyrm's office to find a gruesome scene — her throat torn apart, clearly the work of someone who knew what they were doing against an 18th-level magic user relaxed in the safety of her own tower.
 - Bookwyrm's heart, notably, was still present, "not beating" but otherwise intact — unlike Janussi, whose heart had been cut out.
 - A half-finished note is found on her desk reading 'He is using the beast to—'
-- Daz rolls an Arcana check, botches it with a natural 1, then with Grygum's help reaches a 26.
+- Daz rolls an Arcana check, botches it with a natural 1, then with Gyrgum's help reaches a 26.
 - Daz senses that the magical wards protecting Candlekeep feel somehow off, "as if the pressure of the wards that protect Candlekeep aren't quite right. Something seems broken" — which he frames as somebody having "hacked the firewall and opened another port."
 - Thorin argues the murder is out of scope: "Let's just be clear. We were hired to solve one murder. This is really not ours to solve," suggesting they renegotiate their fee — though it is unclear with whom, now that Bookwyrm is dead.
 - The party discusses the stark differences between Janussi's surgical murder (heart removed) and Bookwyrm's brutal death (throat torn by claws and teeth).
 - Daz recalls information about Sylvira's abyssal spawn son — a creature she keeps locked in a magical sanctuary — potentially linking him and the madness of the abyss to the 'beast' mentioned in the note.
 - Daral explains that the Great Shield ward preventing teleportation and suppressing fire is maintained within the room locked by the two high tower keys.
-- The ward is tested: Daral has Grygum try to light a fire (fire "doesn't work in Candlekeep"). Grygum casts Thaumaturgy onto a piece of paper; the flame erupts, then evaporates instantly — a "Burning Bush kind of situation" — confirming the ward is still active.
+- The ward is tested: Daral has Gyrgum try to light a fire (fire "doesn't work in Candlekeep"). Gyrgum casts Thaumaturgy onto a piece of paper; the flame erupts, then evaporates instantly — a "Burning Bush kind of situation" — confirming the ward is still active.
 - The party pieces together the timeline: Janussi was killed by Alkrist, and Bookwyrm went into Janussi's chambers to protect her nephew and secure the Hightower key. They realize Bookwyrm had one of the keys, and that whoever stole the sapphire is now hunting for the keys.
 
 ## Verbatim moments
@@ -32,7 +32,7 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **Thorin**
 > "What does that mean?"
 
-**Grygum**
+**Gyrgum**
 > "Anybody needs to change the battery?"
 
 **GM** — announcing the death
@@ -56,19 +56,19 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **Daz** — questioning
 > "How did it happen?"
 
-**Grygum**
+**Gyrgum**
 > "Who killed him?"
 
 **GM**
 > "Her, first of all. Oh, okay."
 
-**Grygum**
+**Gyrgum**
 > "Who killed her?"
 
 **GM** — the cause of death
 > "He says — well, her throat was torn. Torn apart."
 
-**Grygum** — checking the modus operandi
+**Gyrgum** — checking the modus operandi
 > "Does she still have her heart?"
 
 **GM** — the heart still present
@@ -77,7 +77,7 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **Thorin**
 > "Well, reality disagrees."
 
-**Grygum**
+**Gyrgum**
 > "I feel like we've done a poor job of serving and protecting here."
 
 **GM** — offering to investigate
@@ -96,25 +96,25 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **GM** — the scene
 > "Fembris Lancer and Daral Yashenti rush with you to her office. It's a pretty gruesome mess — and it's obvious whoever did this knew what they were doing, because she's an 18th-level magic user."
 
-**Grygum**
+**Gyrgum**
 > "Yeah, but not necessarily one who's very suspicious."
 
 **GM**
 > "Right — or confident, in the safety of her own tower."
 
-**Grygum**
+**Gyrgum**
 > "I mean, she's an academic — they don't usually, they're usually—"
 
 **GM** — riffing on her spell list
 > "Yeah, instead of Time Stop and Wish, she's probably got, like, Find Missing Citation as a 9th-level spell."
 
-**Grygum**
+**Gyrgum**
 > "Yeah, create citation."
 
 **GM**
 > "Yeah — Create Citation. Validate Citation. Identify False Citation. That's probably her whole spell list. Her throat is torn."
 
-**Grygum**
+**Gyrgum**
 > "That's a lot of blood."
 
 **[The Half-Finished Note]**
@@ -123,32 +123,32 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **GM** — the note
 > "Yes, you do see a half-finished note on her desk."
 
-**Grygum**
+**Gyrgum**
 > "Oh, like a handwritten note?"
 
 **GM**
 > "Yes."
 
-**Grygum**
+**Gyrgum**
 > "I definitely want to read it."
 
 **GM** — reading the note
 > "'He is using the beast to—' It just trails off."
 
-**Grygum**
+**Gyrgum**
 > "The Beast"
 
 **GM**
 > "Yes."
 
-**Grygum** — asking about the beast
+**Gyrgum** — asking about the beast
 > "I turn to Daral — or whoever's there — and ask if they know what 'the beast' is."
 
 **GM**
 > "Daral says, 'I have no idea what the beast is.' [Daral] Daz, roll an Arcana check."
 
 **[The Arcana Check — Natural 1]**
-- Daz rolls, botching it with a natural 1, then reaches 26 with Grygum's help.
+- Daz rolls, botching it with a natural 1, then reaches 26 with Gyrgum's help.
 
 **Daz**
 > "Okay, Arcana check, here it comes. I got... Are you fucking kidding me?"
@@ -156,7 +156,7 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **GM**
 > "Did you get a one? You got a one! Somebody want to help him?"
 
-**Grygum**
+**Gyrgum**
 > "I would be delighted to..."
 
 **GM**
@@ -165,7 +165,7 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **Daz**
 > "With some help, I got a 26."
 
-**Grygum**
+**Gyrgum**
 > "Much better."
 
 **GM** — the wards feel off
@@ -192,7 +192,7 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **GM**
 > "Who knows?"
 
-**Grygum**
+**Gyrgum**
 > "Feeling awfully sad here. People keep dying and we haven't been able to do anything about it."
 
 **[Debating Scope of the Investigation]**
@@ -207,13 +207,13 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **Daz**
 > "Hmm"
 
-**Grygum**
+**Gyrgum**
 > "You don't think solving this will lead us to the..."
 
 **Thorin** — renegotiate the fee
 > "They're probably related, to be clear. But I think now's the time to renegotiate our fee — not clear with who, though."
 
-**Grygum**
+**Gyrgum**
 > "You're saying it could be..."
 
 **GM**
@@ -231,7 +231,7 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **GM** — no key on the body
 > "It's getting a little awkward, honestly. So — what do you want to do next? You clearly don't have the right key. The only person who might know where it is is Kalan."
 
-**Grygum**
+**Gyrgum**
 > "Oh — was Bookwyrm wearing the key?"
 
 **GM**
@@ -285,19 +285,19 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **GM**
 > "Beast, Beast"
 
-**Grygum** — the two styles differ
+**Gyrgum** — the two styles differ
 > "So these attacks seem quite different — this is tearing out a throat, the other was more of a magical, surgical removal of a heart. Did I say something silly?"
 
 **GM**
 > "Sorry — what did you say?"
 
-**Grygum**
+**Gyrgum**
 > "So are the styles of these murders different?"
 
 **GM**
 > "Oh yes, very different."
 
-**Grygum**
+**Gyrgum**
 > "Okay."
 
 **[Sylvira's Abyssal Spawn]**
@@ -366,13 +366,13 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **[The Ward and the Tower Defenses]**
 - Daral explains Candlekeep's defenses and the ward within the two-key room.
 
-**Grygum**
+**Gyrgum**
 > "Now, do they have, like, guards on this tower or anything, or just a key?"
 
 **GM**
 > "That's a great question. Daral explains — 'Look, here's the deal. You have to understand: we have the finest defensive mechanisms in the Realms.'" [Daral]
 
-**Grygum**
+**Gyrgum**
 > "You rely on magical stuff, don't you? You don't have any actual guards."
 
 **GM**
@@ -381,7 +381,7 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **Daz**
 > "Oh"
 
-**Grygum**
+**Gyrgum**
 > "We've got, we've got"
 
 **Daz** — suspicion the ward is compromised
@@ -390,34 +390,34 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **GM**
 > "Um... do you have, like, a specific line of questioning?"
 
-**Grygum**
+**Gyrgum**
 > "Alarms? Like, if somebody had teleported in? I mean, you told me they can't, but if someone had, would you find out?"
 
 **GM**
 > "And that's inconceivable!"
 
-**Grygum** — infosec analogy
+**Gyrgum** — infosec analogy
 > "Many of us have worked in some form of information security, where 'inconceivable' things happen multiple times a day. So — could you check?"
 
 **GM**
 > "'Well, it's very easy — fire doesn't work in Candlekeep. You must have noticed this.'" [Daral]
 
-**Grygum**
+**Gyrgum**
 > "I haven't tried to light any fires."
 
 **GM**
 > "'Well, try to light one!'" [Daral]
 
 **[Testing the Ward — Burning Bush]**
-- Grygum casts Thaumaturgy on paper; the flame erupts, then evaporates instantly.
+- Gyrgum casts Thaumaturgy on paper; the flame erupts, then evaporates instantly.
 
-**Grygum**
+**Gyrgum**
 > "Okay, let me try one of my basic spells. Thaumaturgy — fireplay."
 
 **GM**
 > "Let me just see what happens in a second."
 
-**Grygum**
+**Gyrgum**
 > "I'm sorry, I didn't catch that."
 
 **GM** — the fire evaporates
@@ -429,13 +429,13 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **GM**
 > "'Burning Bush kind of situation, right?'" [Daral]
 
-**Grygum**
+**Gyrgum**
 > "Huh, I wasn't expecting that."
 
 **GM**
 > "Oh, okay."
 
-**Grygum**
+**Gyrgum**
 > "Okay, so, but what does that have to do with getting in or out of the tower?"
 
 **GM**
@@ -483,7 +483,7 @@ from: ../scene_extractions/04_the_death_of_bookwyrm.md
 **GM** — pointing to Kalan
 > "But — you do know somebody who must know where the second key is. Kalan Strongbranch had the original first key. Kalan had one of the two keys."
 
-**Grygum**
+**Gyrgum**
 > "And still should."
 
 **GM**

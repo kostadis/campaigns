@@ -71,7 +71,7 @@
 
 ---
 
-### Grygum
+### Gyrgum
 - Warm, slightly theatrical, prone to pausing mid-sentence when something surprises him — the "oh" that cuts off his own condescension complaint is perfectly characteristic
 - Finds the right register for any object or document; approaches everything with the expectation of finding something meaningful, even when what he finds is "post-craziness" theology
 - Understated humor; the joke lands because he delivers it sincerely
@@ -169,7 +169,7 @@
 *After looting Ilvara, the party briefly entertains a new future.*
 
 > **Thorin:** "So, are we gonna just become a frickin' sort of private equity firm that does some adventuring on the side?"
-> **Grygum:** "Well, when I say investments, in this case, I mean buy some stuff to help us in our adventures."
+> **Gyrgum:** "Well, when I say investments, in this case, I mean buy some stuff to help us in our adventures."
 > **Thorin:** "No, I think we should actually look to consolidate all of the merchants of some sort, and take control — can we do a private equity play while we're in town?"
 
 ---
@@ -177,7 +177,7 @@
 **The party realizes Ezra was never the one being exploited**
 
 > **Daz:** "There's that whole consultancy firm that Ezra started 100 years ago or so, that is doing pretty well, you know."
-> **Grygum:** "But the whole time, we thought we were exploiting him."
+> **Gyrgum:** "But the whole time, we thought we were exploiting him."
 
 ---
 
@@ -191,9 +191,9 @@
 
 - **Daz refuses to be a mystery without becoming one.** When Kaelira dismissed him as a nobody, he neither deflected with confidence nor folded. "I literally have no idea why there's all this focus on me" was the most honest thing anyone said all session — and, in a campaign where everyone is playing an angle, the most unsettling.
 
-- **Glabbagool encounters the concept of the surface.** The GM's image of Glabbagool in the bag of holding, googly eyes tracking a world he didn't know existed, was the session's warmest beat — Grygum's ward, wide-eyed and excited, pointed upward for the first time.
+- **Glabbagool encounters the concept of the surface.** The GM's image of Glabbagool in the bag of holding, googly eyes tracking a world he didn't know existed, was the session's warmest beat — Gyrgum's ward, wide-eyed and excited, pointed upward for the first time.
 
-- **Grygum preempts Asha's monologue.** After Asha declared herself in charge, Grygum murmured *"Let's put a period after that 'now that I'm in charge' thing."* He was already reaching for the Guiding Bolt. Theological disputes, abbreviated.
+- **Gyrgum preempts Asha's monologue.** After Asha declared herself in charge, Gyrgum murmured *"Let's put a period after that 'now that I'm in charge' thing."* He was already reaching for the Guiding Bolt. Theological disputes, abbreviated.
 
 ---
 
@@ -211,7 +211,7 @@
 - **Thorin** is quietly sentimental beneath the hardening exterior — the tooth, the therapy offer, the discomfort with killing. Future NPCs who notice this warmth will get further with him than those who address him as pure muscle.
 - **Daz** is genuinely unsettled by the mystery of his own importance. His instinct to "audit the books" is a displacement behavior — he prefers legible systems to unanswerable questions. NPCs with information about who contracted his protection hold significant leverage.
 - **Zalthir** has established a pattern of acting when others stall. NPCs who are indecisive or verbose will lose him quickly; those who are direct and competent earn his attention.
-- **Grygum** is the party's soft landing — he finds the human (or ooze) angle in every situation. Glabbagool remains his current ward; any threat to Glabbagool will be felt personally and immediately.
+- **Gyrgum** is the party's soft landing — he finds the human (or ooze) angle in every situation. Glabbagool remains his current ward; any threat to Glabbagool will be felt personally and immediately.
 
 **Promises, threats, and vows to carry forward:**
 - Dawnbringer's implied agreement to therapy remains conspicuously unfulfilled. She raised no objection; Thorin offered. This is a thread with comedic and character potential.

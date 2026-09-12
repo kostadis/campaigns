@@ -40,14 +40,14 @@
 
 - **Alchemy Jug** — Found on the Duergar keelboat. Can generate any liquid; first liquid generated was mayonnaise.
 - **Gold** — Recovered from Duergar keelboat cargo.
-- **Grygum purchased a new mace** — Bought from Dulgir at the Blade Bazaar.
+- **Gyrgum purchased a new mace** — Bought from Dulgir at the Blade Bazaar.
 - **Zalthir found a list of names** — Potentially useful contacts; not yet investigated.
-- **Discovery: Madness affecting Gracklstugh** — Grygum observed multiple Duergar merchants behaving erratically: changing prices, turning invisible mid-transaction, threatening customers then denying it, talking to nonexistent relatives. Grygum concluded the same madness that consumed the Kuo-toa may be affecting Gracklstugh.
+- **Discovery: Madness affecting Gracklstugh** — Gyrgum observed multiple Duergar merchants behaving erratically: changing prices, turning invisible mid-transaction, threatening customers then denying it, talking to nonexistent relatives. Gyrgum concluded the same madness that consumed the Kuo-toa may be affecting Gracklstugh.
 
 ## Party Current Situation
 
 - **Current Location:** Gracklstugh, Darklake District, Blade Bazaar area
-- **Immediate Situation:** A rampaging two-headed stone giant has burst through a gate into the plaza, killing a Duergar soldier and causing destruction. The party has engaged the giant in combat alongside a Duergar patrol. The battle is ongoing — the giant has been struck multiple times by all party members (magic missiles from Daz, flurry of blows from Zalthir, sword strikes from Thorin, necrotic damage from Grygum's holy symbol) but is not yet dead. Thorin noted that stone giants don't normally bellow or behave this way, confirming something is wrong with it.
+- **Immediate Situation:** A rampaging two-headed stone giant has burst through a gate into the plaza, killing a Duergar soldier and causing destruction. The party has engaged the giant in combat alongside a Duergar patrol. The battle is ongoing — the giant has been struck multiple times by all party members (magic missiles from Daz, flurry of blows from Zalthir, sword strikes from Thorin, necrotic damage from Gyrgum's holy symbol) but is not yet dead. Thorin noted that stone giants don't normally bellow or behave this way, confirming something is wrong with it.
 
 ## Tracked Items
 
@@ -58,7 +58,7 @@
 - **Stool — myconid sprout prisoner, first contact:** Still with the party; briefly captured and rescued during keelboat ambush.
 - **Eldeth Feldrun — shield dwarf prisoner, fate determined:** Still alive and with the party. Expressed intense hatred of the Duergar during the keelboat fight ("Demonic spawn of dwarven corruption"). Thorin confirmed relief that she was not among those captured.
 - **Sarith Kzekarit — drow prisoner, demonic spore infection revealed:** Still with the party. Offered to interrogate the Duergar prisoner, citing Lloth's guard training.
-- **Rampaging two-headed stone giant — Gracklstugh encounter:** Encountered. Combat is in progress. Thorin identified the giant's bellowing as abnormal behavior. Grygum suspects madness. Not yet resolved.
+- **Rampaging two-headed stone giant — Gracklstugh encounter:** Encountered. Combat is in progress. Thorin identified the giant's bellowing as abnormal behavior. Gyrgum suspects madness. Not yet resolved.
 - **Shuushar the Awakened — kuo-toa prisoner, first contact:** Referenced by Buppido as having taught him that his madness was wrong. Current status with party not explicitly stated in this chunk.
 - **Hemeth (Duergar):** Guided party to Gracklstugh; provided intelligence on the city's customs, restrictions, and dangers. Grumbled about being passed over for Brannum on the magic item procurement.
 - **Darklake — Underdark waterway:** Traversed to reach Gracklstugh.

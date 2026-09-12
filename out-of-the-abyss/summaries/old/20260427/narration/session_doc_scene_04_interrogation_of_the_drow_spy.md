@@ -6,7 +6,7 @@ scene_name: Interrogation of the Drow Spy
 session: 20260427
 ---
 
-The stun wore off and she was already calculating. I could see it in the set of her shoulders — that particular Drow recalibration, the moment when violence becomes negotiation and the question shifts from *survive the next five seconds* to *survive the next five minutes.* She was small — Grygum's *Reduce* spell had seen to that — but she held herself with the trained dignity of someone who understood that posture was its own kind of armor.
+The stun wore off and she was already calculating. I could see it in the set of her shoulders — that particular Drow recalibration, the moment when violence becomes negotiation and the question shifts from *survive the next five seconds* to *survive the next five minutes.* She was small — Gyrgum's *Reduce* spell had seen to that — but she held herself with the trained dignity of someone who understood that posture was its own kind of armor.
 
 Zalthir was first, the way he usually is in these moments: unhurried, precise.
 
@@ -32,7 +32,7 @@ He tried again. She laughed in his face.
 
 I found I didn't feel superior about this. Thorin's instincts have saved us too many times for me to feel superior. What he lacks in Drow politics he makes up for in a kind of irreducible physical honesty that people cannot quite dismiss, even when they're laughing at him. She was laughing, but she was also still talking to us, which is the more important variable.
 
-Grygum, meanwhile, had been watching her the way he watches things — not calculating exactly, more like listening for something the rest of us weren't hearing. There is a quality to his attention I've never fully resolved. He looked at her and I think he saw the whole picture at once: the surface posting, the miserable exposure to the overbright, the desperate bravado of someone who'd drawn a terrible assignment and was trying to make it look like a choice.
+Gyrgum, meanwhile, had been watching her the way he watches things — not calculating exactly, more like listening for something the rest of us weren't hearing. There is a quality to his attention I've never fully resolved. He looked at her and I think he saw the whole picture at once: the surface posting, the miserable exposure to the overbright, the desperate bravado of someone who'd drawn a terrible assignment and was trying to make it look like a choice.
 
 "Hey," he said, with the casual tone of someone considering a minor administrative matter, "are you looking for a new job? We could use another helper."
 
@@ -40,7 +40,7 @@ Something shifted in her face. A tiny, involuntary fracture in the composure. *W
 
 It is remarkable what that realization does to someone. She had walked into this interrogation with the set expression of a soldier prepared to die with her intelligence intact, and now she looked — for just a moment — like a person who had not yet decided how much she wanted to live. The Menzoberranzan training is very thorough about creating a certain relationship to death: make it seem like a preference, not a threat. But she was young enough, or tired enough, or perhaps just unhappy enough with her assignment, that the offer of survival caught her genuinely off guard.
 
-Then Grygum held out the prayer beads.
+Then Gyrgum held out the prayer beads.
 
 He didn't say anything particularly ominous. He just handed them to her and told her to put them on. No threat in his voice. No explanation of what they did.
 
@@ -48,7 +48,7 @@ She looked at a half-orc cleric holding out holy symbols of a deity she knew not
 
 She looked, in the GM's precise summary, defeated, frustrated, annoyed.
 
-Then Grygum rolled persuasion, and she talked.
+Then Gyrgum rolled persuasion, and she talked.
 
 "I was just assigned to track you, not to engage. My orders were to report your surface destination, your contact, who approaches you." A pause. Then: "My matron was waiting for you to surface. She sent a couple of us up to the overbright to find where you were. I got lucky, and I spotted you."
 
@@ -114,15 +114,15 @@ She proposed a deal — mutual information sharing, she tells us what she finds,
 
 He is not wrong. The deal has no enforcement mechanism. She has no incentive to honor it beyond her own interest, and the moment her interests and ours diverge — which is to say, the moment she has what she came for — the deal dissolves. Drow contracts without consequences attached aren't contracts. They're intentions.
 
-Then Grygum said: "There's only one solution. We need to kill Daz."
+Then Gyrgum said: "There's only one solution. We need to kill Daz."
 
 Zalthir, entirely deadpan: "It's on the list. The maybe list."
 
-"And then we'll find out who's protecting him," Grygum continued, with the calm of someone describing a routine experimental procedure.
+"And then we'll find out who's protecting him," Gyrgum continued, with the calm of someone describing a routine experimental procedure.
 
 Thorin: "Do it, but make sure we can bring them back."
 
-"Oh, I have a Revivify spell." Grygum, reassuring.
+"Oh, I have a Revivify spell." Gyrgum, reassuring.
 
 "So that's just a temporary death."
 
@@ -134,7 +134,7 @@ I am categorically on record as being the only person in this party who treats i
 
 She warned us, between our negotiations, that killing her wouldn't stop House T'sarran from sending more agents.
 
-Grygum held up the prayer beads. "I'm not relying on killing you. I'm relying on the prayer beads."
+Gyrgum held up the prayer beads. "I'm not relying on killing you. I'm relying on the prayer beads."
 
 She eventually proposed being escorted to Candlekeep and handed to the guards — and she said it with the confidence of someone who already knew the second half of that plan didn't involve staying in Candlekeep for very long.
 
@@ -144,12 +144,12 @@ Thorin: "She's so confident she can escape, I don't think we want to be taking h
 
 Accurate. We don't.
 
-Grygum and Thorin exchanged a look. Then, very loudly, making no apparent attempt to lower their voices:
+Gyrgum and Thorin exchanged a look. Then, very loudly, making no apparent attempt to lower their voices:
 
 "Those prayer beads are at full power, even though they're shrunken, right?"
 
-Grygum, with great ceremony: "Yes — in fact, I believe they may be more deadly."
+Gyrgum, with great ceremony: "Yes — in fact, I believe they may be more deadly."
 
 "More potent. Good to know."
 
-She looked at the beads. She looked at Grygum. She began, visibly, to reconsider the available options.
+She looked at the beads. She looked at Gyrgum. She began, visibly, to reconsider the available options.

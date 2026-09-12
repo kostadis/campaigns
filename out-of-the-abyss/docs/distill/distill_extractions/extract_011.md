@@ -5,7 +5,7 @@
 - Current state: Active; has brought the escapees to Sloobludop and is executing his plan
 - Recent actions: Escorted the escapees to Sloobludop; clarified his plan (presenting the escapees as sacrificial offerings to lure Bloppblippodd); fell asleep standing up and walked outside; admitted a kuo-toa monitor and declared his intent to accompany the party to see the archpriest of the Deep Father
 - Faction: Archpriest of the Sea Mother (Leemoogoogon's opposition faction)
-- Motivations/Secrets: Wants to use the escapees as a lure to draw out his daughter Bloppblippodd so his followers can attack and end her schismatic faction; relationship with daughter is strained; unclear whether he is aware of Grygum's doubts about Leemoogoogon's existence
+- Motivations/Secrets: Wants to use the escapees as a lure to draw out his daughter Bloppblippodd so his followers can attack and end her schismatic faction; relationship with daughter is strained; unclear whether he is aware of Gyrgum's doubts about Leemoogoogon's existence
 
 **Bloppblippodd**
 - Current location: Sloobludop (not directly seen; her altar area was observed)
@@ -33,7 +33,7 @@
 - Recent actions: Same as Topsy — identified the planned conflict as a theft opportunity
 - Faction: Escapee group
 
-**Grygum**
+**Gyrgum**
 - Current location: Sloobludop
 - Current state: Active
 - Recent actions: Questioned whether sacrifice must be willing; suggested a "white flag of parley" analogy; spat on the Sea Mother's altar (pleasing Ploopploopeen); recalled lore about the Deep Sea Mother being a scavenger goddess and that spitting/regurgitating is an appropriate offering; probed Ploopploopeen on the nature of the sacrifice ritual; noted doubts about whether Leemoogoogon is a real god
@@ -93,7 +93,7 @@
 - The escapee group agreed to participate in Ploopploopeen's scheme.
 - The party arrived at Sloobludop from the west via underground tunnels.
 - The party passed through the western netting wall, admitted by guards who snapped to attention at Ploopploopeen's arrival.
-- Grygum and Thorin spat on the Sea Mother altar, pleasing Ploopploopeen.
+- Gyrgum and Thorin spat on the Sea Mother altar, pleasing Ploopploopeen.
 - The group ate a meal of cooked fish hosted by Ploopploopeen.
 - Ploopploopeen fell asleep standing and walked outside, as is normal for kuo-toans.
 - The party observed kuo-toans sleeping while walking with eyes open and moving in schools.
@@ -114,7 +114,7 @@
 
 **Sea Mother Altar / Statue**
 - What it is: A nine-foot wooden statue of a humanoid female with a giant albino crayfish head and claws lashed on with gut; surrounded by offerings of shells, stones, mushrooms, and rotting fish
-- Current state: Actively maintained; four guards circling; worshippers chanting and bowing; Grygum and Thorin spat on it as an offering
+- Current state: Actively maintained; four guards circling; worshippers chanting and bowing; Gyrgum and Thorin spat on it as an offering
 
 **Deep Father Idol / Altar of Leemoogoogon**
 - What it is: A large manta ray hide stretched on poles with a dead manta ray pinned to its center and two dead painted octopuses arranged across the top; broad stone altar stained dark with blood below
@@ -132,7 +132,7 @@
 
 ## Threads & Mysteries
 
-- **Is Leemoogoogon a real god?** Grygum has doubts about whether the deity Leemoogoogon actually exists. This is unresolved.
+- **Is Leemoogoogon a real god?** Gyrgum has doubts about whether the deity Leemoogoogon actually exists. This is unresolved.
 - **Outcome of the planned ambush:** The confrontation between the Sea Mother and Deep Father factions — with the party as bait — has not yet occurred. Imminent as of the morning of Day 2.
 - **True extent of Bloppblippodd's support:** Gloog acknowledged that how many villagers support his sister is unknown, making the outcome of the conflict uncertain.
 - **The tied-up derro prisoner:** The party is still holding a bound derro. Gloog noted this as "honorable and odd." The derro's fate and significance are unresolved.

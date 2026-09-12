@@ -8,15 +8,15 @@ After carefully reviewing the session recap against the campaign context documen
 
 **Location**: Memorable Moments section  
 **Issue**: Half-orc species attribution error  
-**Evidence**: The context documents consistently identify Grygum as a "Half-orc cleric of Bahamut" (campaign_state.md, party.md), but the recap states: *"Grygum immediately understands the theological implication"* while describing him as founding the "Grygumite School" without noting his half-orc heritage in the critical theological context where it matters most. More critically, the recap shows him being introduced as *"the founder of the Grygumite School"* without the essential context that Brother Vareth in the campaign documents is specifically *"thrilled to meet Grygum as a living data point"* because he specializes in *"half-orc-Bahamut converts"*—this omission misses a key character motivation.  
-**Suggested fix**: When describing Grygum's theological introduction, include his half-orc identity as it's specifically relevant to Vareth's research specialty.
+**Evidence**: The context documents consistently identify Gyrgum as a "Half-orc cleric of Bahamut" (campaign_state.md, party.md), but the recap states: *"Gyrgum immediately understands the theological implication"* while describing him as founding the "Gyrgumite School" without noting his half-orc heritage in the critical theological context where it matters most. More critically, the recap shows him being introduced as *"the founder of the Gyrgumite School"* without the essential context that Brother Vareth in the campaign documents is specifically *"thrilled to meet Gyrgum as a living data point"* because he specializes in *"half-orc-Bahamut converts"*—this omission misses a key character motivation.  
+**Suggested fix**: When describing Gyrgum's theological introduction, include his half-orc identity as it's specifically relevant to Vareth's research specialty.
 
 ### Areas Requiring Verification
 
 **Location**: Summary section  
 **Issue**: Timeline precision for fixed points theory development  
-**Evidence**: The recap states Grygum proposed the fixed points theory during his meeting with Brother Vareth, but the campaign documents show this as Grygum's *second* major theological contribution—the first being "Stroud's Gambit" which Vareth already knew and reacted to with excitement. The recap suggests this is a new development rather than building on established theological work.  
-**Suggested fix**: Clarify whether this is Grygum's first meeting with Vareth or if prior theological discussions (particularly about Stroud's Gambit) have already occurred.
+**Evidence**: The recap states Gyrgum proposed the fixed points theory during his meeting with Brother Vareth, but the campaign documents show this as Gyrgum's *second* major theological contribution—the first being "Stroud's Gambit" which Vareth already knew and reacted to with excitement. The recap suggests this is a new development rather than building on established theological work.  
+**Suggested fix**: Clarify whether this is Gyrgum's first meeting with Vareth or if prior theological discussions (particularly about Stroud's Gambit) have already occurred.
 
 **Location**: Summary and Scenes sections  
 **Issue**: Council composition verification needed  

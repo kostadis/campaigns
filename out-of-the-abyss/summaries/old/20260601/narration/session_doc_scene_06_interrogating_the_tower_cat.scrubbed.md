@@ -7,7 +7,7 @@ session: 20260601
 ---
 The interview began the way most interviews do — with someone explaining why this couldn't possibly work, and me proving otherwise.
 
-Zalthir wanted a way to talk to the cat. Sound enough. The animal had been in the chamber; the dead don't volunteer alibis, but a five-year-old housecat with opinions might. Grygum admitted he couldn't afford a potion — clerics of Bahamut, it turns out, run on a tighter margin than their theatrics suggest. So I filed the obvious solution where it belonged: in my own column.
+Zalthir wanted a way to talk to the cat. Sound enough. The animal had been in the chamber; the dead don't volunteer alibis, but a five-year-old housecat with opinions might. Gyrgum admitted he couldn't afford a potion — clerics of Bahamut, it turns out, run on a tighter margin than their theatrics suggest. So I filed the obvious solution where it belonged: in my own column.
 
 "I think I can talk to the cat," I said.
 
@@ -15,7 +15,7 @@ Zalthir wanted a way to talk to the cat. Sound enough. The animal had been in th
 
 "Talking to beasts, yeah. It's part of what the stone speaker crystal grants me." A useful thing, the Stonespeaker. I had been carrying it as a curiosity. Now it was a witness chair.
 
-"Well, that saves me money on potions," said Grygum, relieved in the way of a man who has just had an expense removed from his account by someone else's labor. At least we have that.
+"Well, that saves me money on potions," said Gyrgum, relieved in the way of a man who has just had an expense removed from his account by someone else's labor. At least we have that.
 
 The cat introduced herself, after a fashion. Queenie — five years old, sleet-grey, and entirely uninterested in being disturbed. "I did not order any more ticklers!" she announced, stretching. "Any good ticklers are the only good… and good ticklers are… tickles are only the good reason for disturbing my beauty sleep."
 
@@ -55,7 +55,7 @@ Zalthir pushed her for more — blood, organs, a heart, anything from the wrong-
 
 I have been insulted by archpriests. This one landed cleaner.
 
-We'd nearly let the locket go unasked — the thing missing from Janussi's neck. Grygum caught it. "Daz, why don't you ask the cat anyway? It's gonna be a weird description from a cat, but…" It was. "The locket itself is intimate. He carried it all the time. He never took it off." What was it, I asked. "I don't know what it was." A cat will tell you a man's habits and not his secrets.
+We'd nearly let the locket go unasked — the thing missing from Janussi's neck. Gyrgum caught it. "Daz, why don't you ask the cat anyway? It's gonna be a weird description from a cat, but…" It was. "The locket itself is intimate. He carried it all the time. He never took it off." What was it, I asked. "I don't know what it was." A cat will tell you a man's habits and not his secrets.
 
 Then Fembris, *by golly*, supplied the column I was missing: Janussi held one of the two keys to the Hightower Library.
 

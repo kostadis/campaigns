@@ -22,7 +22,7 @@ The land told its own story without asking us to listen. The Silver Marches had 
 
 There was a refugee family on the road. Three generations, hand cart, one ox. No grandfather. I counted the generations and noted the gap without marking it further. They were heading south. So were we.
 
-Grygum slowed near the Tempus shrine. I watched him register the defilement, perform the small internal calculation of a cleric confronted with desecration that is not his god's desecration, and arrive at the reasonable middle position: a brief reverence, a muttered blessing, the genuflection of someone who doesn't like seeing sacred things mistreated regardless of which name they were sacred to. He was a practical man under the theology. I had noticed this repeatedly and not mentioned it once, because it was not my business and was not a threat.
+Gyrgum slowed near the Tempus shrine. I watched him register the defilement, perform the small internal calculation of a cleric confronted with desecration that is not his god's desecration, and arrive at the reasonable middle position: a brief reverence, a muttered blessing, the genuflection of someone who doesn't like seeing sacred things mistreated regardless of which name they were sacred to. He was a practical man under the theology. I had noticed this repeatedly and not mentioned it once, because it was not my business and was not a threat.
 
 Thorin did not respond to the shrine in any particular way. He was present. His grapple with whatever the months underground had done to him was ongoing and I was not going to name it for him.
 

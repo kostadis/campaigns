@@ -16,7 +16,7 @@
 
 **Daral Yashenti** — Status: prime framing target, not prime suspect. Party has largely cleared him personally. He is now cooperating fully with the party's investigation out of self-preservation.
 
-**Fembris Lancer** — Temporarily left his supervision post to attend Grygum's theological debate in the Oval Theatre, leaving the party unsupervised for approximately one hour.
+**Fembris Lancer** — Temporarily left his supervision post to attend Gyrgum's theological debate in the Oval Theatre, leaving the party unsupervised for approximately one hour.
 
 **Leuwin** — Confirmed: at approximately 3:00 PM on the day of the murder, A'lai Aivenmore brought him to his greenhouse below the Oak Tree Apothecary on the pretext of indigestion, leaving the upper premises unattended.
 
@@ -53,7 +53,7 @@
 - The heart was removed and hidden in the lead-lined chalice to prevent resurrection.
 - The likely motive (per Daral's analysis): clear the council of Janussi and frame Daral simultaneously, leaving A'lai's path to ascension unblocked.
 
-**Grygum's theological debate** — Grygum's "fourth corner" synthesis (built on Stroud's Gambit, the triangle of three options) was announced to the Avowed community by Brother Vareth, drawing the bulk of the Avowed to the Oval Theatre and providing the party with an unsupervised window for investigation.
+**Gyrgum's theological debate** — Gyrgum's "fourth corner" synthesis (built on Stroud's Gambit, the triangle of three options) was announced to the Avowed community by Brother Vareth, drawing the bulk of the Avowed to the Oval Theatre and providing the party with an unsupervised window for investigation.
 
 ---
 
@@ -63,7 +63,7 @@
 - **Thorin** completed kitchen/dining hall witness interviews (Irony, Sprig, Orrin Glass); recovered heart and cleaver from the Milil chalice.
 - **Daz** completed the Oak Tree Apothecary visit; interviewed Nibbles; identified the dragonborn/A'lai pairing at the scene of the toxin theft.
 - **Zalthir and Glabbagool** completed room searches of A'lai, Alkrist, and Bookwyrm's chambers.
-- **Grygum** was drawn into / hosting the academic disputation at the Oval Theatre.
+- **Gyrgum** was drawn into / hosting the academic disputation at the Oval Theatre.
 
 **Immediate unresolved situation:** The party has strong circumstantial evidence pointing to A'lai Aivenmore and an unknown dragonborn accomplice. Alkrist remains a secondary suspect (poison research, burned note, *1001 Tashalian Nights* bookmark). The figure impersonating Sylvira Savikas at 1:00 AM is unresolved. The locked safe in Alkrist's room has not been opened. Three carrier doves from A'lai's cage have been dispatched to unknown recipients. The party must now consolidate findings and move toward confrontation or further evidence-gathering before the murder investigation window closes.
 

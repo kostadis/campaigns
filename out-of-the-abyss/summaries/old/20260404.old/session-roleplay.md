@@ -20,7 +20,7 @@
 > "So, what happens if he kills her and we don't? Does that change anything? Does he get, like, first dibs on booty or something? And by booty, I mean, like... they used to be Lover's Booty, I mean, like... the goods."
 > "And I'm just sitting here watching trade blows like a tennis match."
 
-### Grygum (Ben Pfaff)
+### Gyrgum (Ben Pfaff)
 - Dry wit and gentle humor that never breaks his cleric's composure; delivers one-liners that land precisely because of their understated tone. References Indiana Jones and Christmas carols mid-combat.
 - Genuinely caring — his first instinct when Ilvara's Insect Plague hits is concern for Glabbagool. Offers Revivify for fallen minions before being reminded they're the enemy's minions.
 - Tactical pragmatism wrapped in pastoral warmth; navigates around the Jorlan-Ilvara lovers' quarrel with the delicacy of a marriage counselor who also has a Guiding Bolt prepared.
@@ -85,21 +85,21 @@
 > **GM:** "She's wounded! I could kill her now!"
 > **Thorin:** "So, what happens if he kills her and we don't? Does he get, like, first dibs on booty or something? And by booty, I mean, like... they used to be Lover's Booty, I mean, like... the goods."
 > **Thorin:** "Alright, so 8 says I do the sensible thing. Which I guess is let them go and let the girls fight."
-> **Grygum:** "I don't want to get in the middle of it, but I'll follow up if necessary."
+> **Gyrgum:** "I don't want to get in the middle of it, but I'll follow up if necessary."
 > **GM:** "You're doing your Bahamut, you know, like... you guys obviously have got some couples issues, and I don't want to be between them."
 
 ### The Heart Fungus Speedrun
 *Thorin asks about the heart fungus's resistances. The answer is devastating — for the fungus.*
 
 > **Thorin:** "Is there anything I need to... anything I know about the fungus in terms of, like, is it, like, resistant to stuff or whatever?"
-> **Grygum:** "It's not resistant to swords."
+> **Gyrgum:** "It's not resistant to swords."
 > **GM:** "It actually is doubly not resistant to radiant damage."
 > *(Thorin attacks with Dawnbringer. The fungus dies in one round.)*
 > **Thorin:** "I do what I can."
 > **GM:** "I spent so much time creating this icon."
-> **Grygum:** "I know, it was beautiful."
+> **Gyrgum:** "I know, it was beautiful."
 > **Zalthir:** "It was pretty."
-> **Grygum:** "I liked it very much, Gustatus."
+> **Gyrgum:** "I liked it very much, Gustatus."
 
 ### Drow Middle Management
 *The House T'sarran strike team realizes their assault is not going as planned.*
@@ -110,20 +110,20 @@
 > **T'sarran Elite Warrior:** "So I have to go through this. I don't know what else to tell you."
 > **T'sarran Elite Warrior:** "The matron mother of House T'sarran will hear about this."
 > **GM:** "They're trying to debate — should we go into the insect plague? Should we go out of the insect plague? They're like, what if she casts Fireball?"
-> **Grygum:** "It's tough being a minion."
+> **Gyrgum:** "It's tough being a minion."
 
 ### The Accuracy of Deception
 *The party reflects on Asha's belief that Daz is an insane Lolth-worshipping mage.*
 
 > **GM:** "Vandree is very much enemy of my enemy, plus she believes that Daz is an insane mage who's converted to Lothheism."
-> **Grygum:** "Accurate."
+> **Gyrgum:** "Accurate."
 > **GM:** "What's important? The fact that she thinks it, or that it's real? That she thinks it."
 
 ### Glabbagool Watch
 *Ilvara's Insect Plague sweeps the battlefield. The party's priorities are immediately clear.*
 
 > **GM:** "The minions all die. They had 13 hit points, you know."
-> **Grygum:** "Oh, how about Globagool?"
+> **Gyrgum:** "Oh, how about Globagool?"
 > **GM:** "He takes 26 points of damage as well."
 > **Zalthir:** "Is he alive?"
 > **GM:** "Yes, he's still alive. He was sitting out there, kind of chillaxing with his eyes, trying to look... He was trying to participate in the conversation."
@@ -138,7 +138,7 @@
 
 - **Thorin one-shots the heart fungus** — The Big Heart Fungus, which the GM spent considerable time preparing, is obliterated in a single round by Dawnbringer's radiant damage. Thorin's modest "I do what I can" perfectly captures his character: devastating when pointed at the right target, humble about it afterward.
 
-- **Grygum kills Ilvara with Guiding Bolt** — The party's mortal enemy since Session 1 is destroyed not by the monk's aerial assault or the wizard's fireball, but by the cleric's steady, patient radiant bolt from range. Ilvara explodes in poisonous spores, and Grygum's first reaction is practical concern: "How big is the cloud? I'm glad I was standing back." The pragmatic wisdom arc in its purest form.
+- **Gyrgum kills Ilvara with Guiding Bolt** — The party's mortal enemy since Session 1 is destroyed not by the monk's aerial assault or the wizard's fireball, but by the cleric's steady, patient radiant bolt from range. Ilvara explodes in poisonous spores, and Gyrgum's first reaction is practical concern: "How big is the cloud? I'm glad I was standing back." The pragmatic wisdom arc in its purest form.
 
 - **Daz smoothly covers for the Duskryn mercenaries** — When Asha sees the unknown drow and screams about traitors to Lolth, Daz improvises without hesitation: "No, these are friends of Lolth, and they're here to help." His deception mastery is so reflexive it's almost indistinguishable from honesty.
 
@@ -158,7 +158,7 @@
 - **Zalthir** was at his most vulnerable this session — the frightened condition forced him to sit out the climactic kill after executing the session's most impressive combat sequence. Future encounters should note that magical fear is the one thing that genuinely sidelines him, and he engages with it honestly rather than looking for loopholes.
 - **Daz** has crossed a threshold — he will not be extracted or protected. NPCs who try to sideline him for his own safety should expect fierce resistance. His cover with Asha is intact but increasingly strained by the presence of the Duskryn mercenaries.
 - **Thorin** spent much of this battle chasing the action across a sprawling map. He's most satisfied when he can engage directly and decisively. Give him targets he can reach.
-- **Grygum** continues to be the party's emotional and tactical anchor. His concern for Glabbagool was immediate and genuine. NPCs should recognize him as the steady presence — the one who follows up, who asks about collateral damage, who offers healing even to former enemies' minions.
+- **Gyrgum** continues to be the party's emotional and tactical anchor. His concern for Glabbagool was immediate and genuine. NPCs should recognize him as the steady presence — the one who follows up, who asks about collateral damage, who offers healing even to former enemies' minions.
 
 **Promises, Threats, and Vows to Reference:**
 - **House T'sarran's parting threat:** "We will meet again. Enjoy your victory for the moment." — This retreat should have consequences; the matron mother will indeed hear about the failed ambush.

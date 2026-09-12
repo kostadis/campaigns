@@ -72,7 +72,7 @@ No threat arc scores are bound to any NPC or faction in the provided source mate
 
 ### Tadric
 - **Current location/status:** Alive; Candlekeep, holding the failing ward lattice together on a manual reroute. Has not slept in over a day.
-- **What he did:** Held the **real Hightower key** and **surrendered it to Grygum voluntarily** when the party reached him. The straightest dealer in the arc.
+- **What he did:** Held the **real Hightower key** and **surrendered it to Gyrgum voluntarily** when the party reached him. The straightest dealer in the arc.
 - **Party knows vs. hidden:** Known — conscientious, exhausted, susceptible to psychological pressure. Hidden from *Sylvira* — he identified Moziqodo as her son and is the person most likely to tell her.
 - **Prep note:** Sending him to fetch Kalan both retrieves an ally and gets him out of the keep, holding the Sylvira fuse.
 - **Arc score:** None.
@@ -91,7 +91,7 @@ No threat arc scores are bound to any NPC or faction in the provided source mate
 
 ### Fembris Lancer
 - **Current location/status:** Alive; imprisoned in Deneir's Sanctum, serving as the group's food taster.
-- **Party knows vs. hidden:** Anticipated successor to Bookwyrm as head of the Avowed. The only witness to Grygum handing the Hightower Library key to Daz before the ambush — may hold unacknowledged knowledge of the ambush's origin.
+- **Party knows vs. hidden:** Anticipated successor to Bookwyrm as head of the Avowed. The only witness to Gyrgum handing the Hightower Library key to Daz before the ambush — may hold unacknowledged knowledge of the ambush's origin.
 - **Arc score:** None.
 
 ### Sylvira's related investigation figures (brief)
@@ -111,7 +111,7 @@ No threat arc scores are bound to any NPC or faction in the provided source mate
 ### Gartokkar Xundorn
 - **Current location/status:** Alive; Gracklstugh, near the Keepers of the Flame headquarters.
 - **Active plans/goals:** Secretly controls Themberchaud; seeks a Demogorgon statue as proof to justify genocide against the Derro. Holds the occult-marked dragon egg (since ch28).
-- **Party knows vs. hidden:** Warned party of the Deepking's shadow assassins from Menzoberranzan; consulted Grygum on the egg's markings. Fears the egg's occult markings — a rare vulnerability.
+- **Party knows vs. hidden:** Warned party of the Deepking's shadow assassins from Menzoberranzan; consulted Gyrgum on the egg's markings. Fears the egg's occult markings — a rare vulnerability.
 - **Arc score:** None.
 
 ### Errde Blackskull
@@ -134,7 +134,7 @@ No threat arc scores are bound to any NPC or faction in the provided source mate
 
 ### Stonespeaker Hgraam
 - **Current location/status:** Alive; Cairngorm Cavern. Closed his cavern to outsiders.
-- **Active plans/goals:** Reclusive oracle; believed by Grygum and Daz to possess divine magic capable of reversing the cult's grafting rituals on Stone Giants.
+- **Active plans/goals:** Reclusive oracle; believed by Gyrgum and Daz to possess divine magic capable of reversing the cult's grafting rituals on Stone Giants.
 - **Party knows vs. hidden:** Gifted the Stonespeaker Crystal (ch17); revealed the Deep King's corruption by Shal. Deeply attuned to the Underdark's corruption. His portents ("a cave with two faces") mark evil's presence.
 - **Arc score:** None.
 
@@ -155,9 +155,9 @@ No threat arc scores are bound to any NPC or faction in the provided source mate
 - **Arc score:** None.
 
 ### Glabbagool
-- **Current location/status:** Alive; fused to Zalthir's forearm (some accounts place it on Grygum's forearm) as a sentient, semi-autonomous extension.
+- **Current location/status:** Alive; fused to Zalthir's forearm (some accounts place it on Gyrgum's forearm) as a sentient, semi-autonomous extension.
 - **Active abilities/role:** Autonomously stole and retained the Potion of Flying; corrodes armor with acid; absorbs liquids and neutralizes poisons silently; teleports in darkness. Practices monk-like discipline under Zalthir.
-- **Open threads:** Origin of sentience unexplained; the miniaturized drow spy's status inside him (last confirmed ch56); nature of "I want out." Grygum flagged Glabbagool's identity/status as a key post-battle concern.
+- **Open threads:** Origin of sentience unexplained; the miniaturized drow spy's status inside him (last confirmed ch56); nature of "I want out." Gyrgum flagged Glabbagool's identity/status as a key post-battle concern.
 - **Arc score:** None.
 
 ### Dawnbringer
@@ -253,7 +253,7 @@ A'lai **withheld what is actually in the depository from Manshoon** and is holdi
 - **Trigger:** Whatever A'lai trades it for — and whether Manshoon learns he was lied to for eleven years.
 
 ### 3. The Keys, Resolved (Candlekeep) — mostly closed
-Kalan's key was a **fake**, given to use the party as a decoy. The real one was on **Tadric**, who handed it over. **Moziqodo murdered Bookwyrm** for the second and delivered it to A'lai before the party killed him; the party then stripped it from A'lai. The party now holds **both** — Grygum has one plus the fake and the sapphire; **Glabbagool holds A'lai's**, deliberately kept apart.
+Kalan's key was a **fake**, given to use the party as a decoy. The real one was on **Tadric**, who handed it over. **Moziqodo murdered Bookwyrm** for the second and delivered it to A'lai before the party killed him; the party then stripped it from A'lai. The party now holds **both** — Gyrgum has one plus the fake and the sapphire; **Glabbagool holds A'lai's**, deliberately kept apart.
 - **Residual:** the sapphire recalls a key to its holder's hand when smashed. Still unspent.
 
 ### 3. Identity of Janussi's True Killer & the Shapeshifter (Candlekeep)

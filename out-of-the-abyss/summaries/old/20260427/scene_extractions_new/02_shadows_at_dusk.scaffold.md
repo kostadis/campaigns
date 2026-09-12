@@ -8,7 +8,7 @@ Focus: Zalthir's monk-trained awareness of stillness and threat makes him the fi
 
 - On the third day at dusk, the DM calls for Insight and Investigation checks.
 
-- Grygum rolls a 9 and confidently concludes the presence is a deer; the DM confirms: "You conclude that what is following you is a deer." Grygum accepts this and prepares to nap.
+- Gyrgum rolls a 9 and confidently concludes the presence is a deer; the DM confirms: "You conclude that what is following you is a deer." Gyrgum accepts this and prepares to nap.
 
 - Thorin rolls a 20, Zalthir rolls a 16, and Daz rolls a 16. The three of them quickly realize someone has been following them for some time and is now very close — within 20 to 40 feet, coming from the northern area.
 
@@ -68,7 +68,7 @@ Ben Pfaff: "Well, I'll go with Insight, because I have a plus 8 on that."
 <!-- after rolling -->
 Ben Pfaff: "9?"
 
-<!-- confirming Grygum's result -->
+<!-- confirming Gyrgum's result -->
 GM: "No, that, that, you, you, you, you, conclude that what is following you is a deer."
 
 <!-- comparing rolls -->
@@ -91,7 +91,7 @@ GM: "Yes, yes."
 
 Ben Pfaff: "Okay, good."
 
-<!-- prompting Grygum -->
+<!-- prompting Gyrgum -->
 GM: "Right, and so you've concluded this is a deer, and, you know, everybody else being paranoid, do you, like, sort of put your head down and go back to sleep, because…"
 
 Ben Pfaff: "Well, good, good, I could use an app."

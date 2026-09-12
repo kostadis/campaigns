@@ -70,7 +70,7 @@ flowchart TD
     subgraph S1["SESSION 1 — Travelogue + Day One peacetime — DONE"]
         direction TD
         S1A["✅ Travelogue · Mirabar → Way of the Lion<br/>⭐ Daggerford silent child"]
-        S1A --> S1Qs["✅ ⭐ FIVE BOOKS · FIVE QUESTIONS<br/>Daz · Zalthir · Thorin (Path C locked) · Grygum · Glabbagool"]
+        S1A --> S1Qs["✅ ⭐ FIVE BOOKS · FIVE QUESTIONS<br/>Daz · Zalthir · Thorin (Path C locked) · Gyrgum · Glabbagool"]
         S1Qs --> S1C["✅ Refectory · ⭐ ONLY time party sees Janussi alive"]
         S1C --> S1D["✅ Parallel scholar lanes open"]
         S1D --> S1E["⛔ Sylvira / Infernal Fortress — NEVER MET<br/>⭐ ally-before-suspect lost · run as FIRST CONTACT (Monday)"]

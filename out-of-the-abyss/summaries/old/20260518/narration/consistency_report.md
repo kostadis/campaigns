@@ -1,4 +1,4 @@
-# Continuity Report — Chapter 53: "Candlekeep's Cold Case: The Grygumite Gambit"
+# Continuity Report — Chapter 53: "Candlekeep's Cold Case: The Gyrgumite Gambit"
 
 ---
 
@@ -10,7 +10,7 @@
 
 **Evidence:** Party document lists Zalthir as **Dragonborn (Brass)**, Monk 8 (Warrior of Shadow). He is not a drow. Daz is the party member with drow lineage.
 
-**Suggested Fix:** Replace "the drow" with "the dragonborn" in the Fembris scene. Fembris would see two dragonborn (Zalthir and Grygum... wait — Grygum is an orc). Correct listing: "the dragonborn, the drow, the dwarf, and the half-orc" — i.e., Zalthir (brass dragonborn), Daz (drow-lineage elf), Thorin (dwarf), and Grygum (orc).
+**Suggested Fix:** Replace "the drow" with "the dragonborn" in the Fembris scene. Fembris would see two dragonborn (Zalthir and Gyrgum... wait — Gyrgum is an orc). Correct listing: "the dragonborn, the drow, the dwarf, and the half-orc" — i.e., Zalthir (brass dragonborn), Daz (drow-lineage elf), Thorin (dwarf), and Gyrgum (orc).
 
 ---
 
@@ -42,11 +42,11 @@
 
 **Location:** Summary; Scenes ("Investigating the Keeper's Chambers"); Memorable Moments; Spells (Speak with Dead)
 
-**Issue:** The recap states that "without the vital organs present, Raise Dead was impossible" and attributes this to Grygum's theological knowledge. The recap then treats this as the settled explanation for why the heart was removed.
+**Issue:** The recap states that "without the vital organs present, Raise Dead was impossible" and attributes this to Gyrgum's theological knowledge. The recap then treats this as the settled explanation for why the heart was removed.
 
-**Evidence:** Per standard D&D 5e rules (which this campaign appears to use), *Raise Dead* requires the **body to be mostly intact** but does not specifically call out the heart as a required organ. The spell fails if "the creature is missing body parts or organs integral to its survival—its head, for instance." The heart could qualify, but this is a GM ruling, not established lore. More importantly, *True Resurrection* and *Wish* can restore a creature to life **regardless of the state of the body**. Grygum is a Cleric 8 — he would likely know these higher-level spells exist even if they are beyond his current ability.
+**Evidence:** Per standard D&D 5e rules (which this campaign appears to use), *Raise Dead* requires the **body to be mostly intact** but does not specifically call out the heart as a required organ. The spell fails if "the creature is missing body parts or organs integral to its survival—its head, for instance." The heart could qualify, but this is a GM ruling, not established lore. More importantly, *True Resurrection* and *Wish* can restore a creature to life **regardless of the state of the body**. Gyrgum is a Cleric 8 — he would likely know these higher-level spells exist even if they are beyond his current ability.
 
-**Suggested Fix:** Soften the absolute claim. Grygum should be noted as recognizing that the heart's removal **complicates or prevents lower-level resurrection magic** (Raise Dead, Revivify, Reincarnate) and makes revival extremely difficult — not that "no power in the world" can bring Janussi back. The Summary's phrase "no power in the world could ever bring Janussi back to speak of what he knew" overstates this. Revise to: the heart's removal was specifically intended to prevent *conventional* resurrection and make revival as difficult and expensive as possible — acknowledging that only the most powerful magic (True Resurrection, Wish) might still succeed.
+**Suggested Fix:** Soften the absolute claim. Gyrgum should be noted as recognizing that the heart's removal **complicates or prevents lower-level resurrection magic** (Raise Dead, Revivify, Reincarnate) and makes revival extremely difficult — not that "no power in the world" can bring Janussi back. The Summary's phrase "no power in the world could ever bring Janussi back to speak of what he knew" overstates this. Revise to: the heart's removal was specifically intended to prevent *conventional* resurrection and make revival as difficult and expensive as possible — acknowledging that only the most powerful magic (True Resurrection, Wish) might still succeed.
 
 ---
 
@@ -78,11 +78,11 @@
 
 **Location:** Summary; Scenes ("The Council of Twelve in Uproar")
 
-**Issue:** The Summary states "Thorin suggesting they receive carte blanche to go anywhere and read anything in the library." The Scenes section also attributes this to Thorin. However, in the Memorable Moments section, the exchange about remuneration is attributed primarily to both Grygum and Thorin — "Grygum's and Thorin's immediate response" — and the quoted lines are Thorin's. The recap is slightly inconsistent about whether Grygum also proposed the carte blanche or whether it was Thorin alone.
+**Issue:** The Summary states "Thorin suggesting they receive carte blanche to go anywhere and read anything in the library." The Scenes section also attributes this to Thorin. However, in the Memorable Moments section, the exchange about remuneration is attributed primarily to both Gyrgum and Thorin — "Gyrgum's and Thorin's immediate response" — and the quoted lines are Thorin's. The recap is slightly inconsistent about whether Gyrgum also proposed the carte blanche or whether it was Thorin alone.
 
 **Evidence:** This is an internal inconsistency within the recap itself rather than a contradiction with context documents.
 
-**Suggested Fix:** Minor. Clarify in the Scenes section whether Grygum also pushed for the carte blanche access or whether it was solely Thorin's demand. Given Grygum's Sage background and personal research interest at Candlekeep, his involvement in requesting research access would be plausible and worth confirming.
+**Suggested Fix:** Minor. Clarify in the Scenes section whether Gyrgum also pushed for the carte blanche access or whether it was solely Thorin's demand. Given Gyrgum's Sage background and personal research interest at Candlekeep, his involvement in requesting research access would be plausible and worth confirming.
 
 ---
 
@@ -98,17 +98,17 @@
 
 ---
 
-## ISSUE 9 — Grygum Described as "Half-Orc" in the Summary and Scene; Party Document Lists Him as Orc
+## ISSUE 9 — Gyrgum Described as "Half-Orc" in the Summary and Scene; Party Document Lists Him as Orc
 
 **Location:** Summary (first paragraph); Scenes (Brother Vareth's NPC entry — "the puzzle of why a half-orc would convert to Bahamut")
 
-**Issue:** The Summary and the NPCs section (Brother Vareth's entry) both refer to Grygum as a **half-orc**. The Memorable Moments section's Fembris line also implicitly groups him as "the half-orc."
+**Issue:** The Summary and the NPCs section (Brother Vareth's entry) both refer to Gyrgum as a **half-orc**. The Memorable Moments section's Fembris line also implicitly groups him as "the half-orc."
 
-**Evidence:** Party document lists Grygum's species as **Orc**, not half-orc.
+**Evidence:** Party document lists Gyrgum's species as **Orc**, not half-orc.
 
-**Clarification Note:** Brother Vareth's scholarly specialty is described as "the puzzle of why a half-orc would convert to Bahamut" — this may be intentional if Vareth is mistaken or if his research predates meeting Grygum and referred to Grygum in those terms. However, this should be flagged. If Vareth knows Grygum is a full orc, his framing should reflect that. If Vareth's research framed the question as about half-orcs and Grygum is actually a full orc, this is an interesting detail worth preserving *and* explicitly noting as a distinction, since it would affect the scholarship.
+**Clarification Note:** Brother Vareth's scholarly specialty is described as "the puzzle of why a half-orc would convert to Bahamut" — this may be intentional if Vareth is mistaken or if his research predates meeting Gyrgum and referred to Gyrgum in those terms. However, this should be flagged. If Vareth knows Gyrgum is a full orc, his framing should reflect that. If Vareth's research framed the question as about half-orcs and Gyrgum is actually a full orc, this is an interesting detail worth preserving *and* explicitly noting as a distinction, since it would affect the scholarship.
 
-**Suggested Fix:** Confirm Grygum's species as orc throughout. Update all "half-orc" references to "orc" unless the half-orc framing is a deliberate element of Vareth's pre-existing research question (in which case, note the discrepancy explicitly as a plot-relevant detail: Vareth's scholarship assumed half-orc conversion, but Grygum is a full orc — does this affect the thesis?).
+**Suggested Fix:** Confirm Gyrgum's species as orc throughout. Update all "half-orc" references to "orc" unless the half-orc framing is a deliberate element of Vareth's pre-existing research question (in which case, note the discrepancy explicitly as a plot-relevant detail: Vareth's scholarship assumed half-orc conversion, but Gyrgum is a full orc — does this affect the thesis?).
 
 ---
 
@@ -122,6 +122,6 @@
 | 4 | Summary / Scenes / Spells | Raise Dead claim overstated; True Resurrection / Wish not acknowledged | **Medium** |
 | 5 | Locations | Immortal Chambers attributed to A'lai Aivenmore without textual basis | **Medium** |
 | 6 | Scenes / NPCs | Drow spy in bag of holding not acknowledged when Glabbagool enters it | **Low–Medium** |
-| 7 | Summary / Scenes | Minor inconsistency in who proposed carte blanche (Thorin vs. Thorin+Grygum) | **Low** |
+| 7 | Summary / Scenes | Minor inconsistency in who proposed carte blanche (Thorin vs. Thorin+Gyrgum) | **Low** |
 | 8 | Scenes | Out-of-world Poirot/Colombo reference recorded as in-character dialogue | **Low** |
-| 9 | Summary / NPCs / Scenes | Grygum called "half-orc"; party document says "Orc" | **High** |
+| 9 | Summary / NPCs / Scenes | Gyrgum called "half-orc"; party document says "Orc" | **High** |

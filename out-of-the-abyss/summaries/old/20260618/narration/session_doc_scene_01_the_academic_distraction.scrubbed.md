@@ -1,7 +1,7 @@
 ---
 scene: 01
 slug: the_academic_distraction
-narrator: Grygum
+narrator: Gyrgum
 scene_name: The Academic Distraction
 session: 20260618
 ---

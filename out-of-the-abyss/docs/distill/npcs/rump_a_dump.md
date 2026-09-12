@@ -29,8 +29,8 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 3. **First meeting:** The party found Rump-a-dump among the dancing Myconids in the cave. He was visibly uncomfortable and worried. He explained the situation: Voosbur released strange spores that changed the other Myconids, who began dancing unnaturally. After Voosbur's spores transported them from Neverlight Grove, the others ate strange mushrooms (shrinking/growing kind) and became affected. Rump-a-dump refused to eat them and remains unaffected. He told the party that the dances and talk of "the Lady's dream" are not the way of Myconids — it is forced. He expressed fear that Voosbur's spores may have infected Neverlight Grove and hoped the Sovereign there might know a way out.
 4. **Traveling companion:** Rumpadump joined the party and traveled with them. He was seen chatting with Stool as the group left the Whorlestone Caves and passed through the Derro slums.
 5. **Warning about Neverlight Grove:** When Zalthir warned that a very dangerous and mighty demon was present at the Grove, Rumpadump refused to believe it, declaring that the sovereign would never allow such corruption. Zalthir considered correcting him but chose not to, recognizing that Rumpadump is just a child.
-6. **Arrival at Neverlight Grove:** Rumpadump ran into the Grove alongside Stool with delight, shouting "We're home!" Basidia assured the party that Rumpadump is happy among his kind. Grygum expressed concern about the sprouts' safety and asked if both could continue traveling with the party.
-7. **Departure:** Grygum convinced Rump-a-dump and Stool that Neverlight Grove was no longer safe. Before departing, delivered an extensive list (~50 items) of self-improvement suggestions to Zalthir, including advice on listening to Stool, humility, and eating more Zurkhwood. Said a sad goodbye to Daz before leaving with the other Myconids.
+6. **Arrival at Neverlight Grove:** Rumpadump ran into the Grove alongside Stool with delight, shouting "We're home!" Basidia assured the party that Rumpadump is happy among his kind. Gyrgum expressed concern about the sprouts' safety and asked if both could continue traveling with the party.
+7. **Departure:** Gyrgum convinced Rump-a-dump and Stool that Neverlight Grove was no longer safe. Before departing, delivered an extensive list (~50 items) of self-improvement suggestions to Zalthir, including advice on listening to Stool, humility, and eating more Zurkhwood. Said a sad goodbye to Daz before leaving with the other Myconids.
 
 ## Current Status
 - **Last known location:** Departed with the Myconid people, away from Neverlight Grove
@@ -45,7 +45,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Neverlight Grove Sovereign:** Rump-a-dump's hope for answers and a potential cure. Rumpadump holds absolute faith in the sovereign's ability to protect the Grove.
 - **Thorin:** Brief exchange — Thorin suggested eating mushrooms was cannibalism; Rump-a-dump rebutted sharply.
 - **Basidia:** Myconid leader at Neverlight Grove who vouched for Rumpadump's happiness.
-- **Grygum:** Expressed protective concern for Rumpadump's wellbeing. Trusted Grygum's warning about Neverlight Grove enough to leave.
+- **Gyrgum:** Expressed protective concern for Rumpadump's wellbeing. Trusted Gyrgum's warning about Neverlight Grove enough to leave.
 
 ## Arc Score Events
 - No arc score changes noted in the source material.

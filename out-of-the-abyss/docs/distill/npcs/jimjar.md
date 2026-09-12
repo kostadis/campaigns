@@ -26,10 +26,10 @@ Deep gnome (svirfneblin) NPC companion, fellow escapee from drow captivity who c
 - Seems to prioritize his own amusement and gambling, though loyalty to the group appears genuine
 
 ## History with the Party
-1. **Escape from Drow Captivity:** Was among prisoners herded toward a sacrificial depression. Offered a bet on how many escapees would survive before the battle broke out. After all survived the escape, noted "We all made it alive," prompting Grygum's suspicions about whether he'd cheat or let someone die over a bet. Fled with the group toward the docks.
+1. **Escape from Drow Captivity:** Was among prisoners herded toward a sacrificial depression. Offered a bet on how many escapees would survive before the battle broke out. After all survived the escape, noted "We all made it alive," prompting Gyrgum's suspicions about whether he'd cheat or let someone die over a bet. Fled with the group toward the docks.
 2. **Food-finding wager incident:** Complained that Zalthir's insistence on running ruined his planned wager on who would find food during the escape.
 3. **Faerzress Discussion:** When Shuushar expressed discomfort about the Faerzress, dismissed his concerns and called Kuo-Toans insane. Confidently claimed Faerzress has never affected a living thing and only prevents teleportation spells.
-4. **Knot-tying bet:** Wagered with Grygum that knots restraining Pelek/Derro wouldn't hold overnight. Lost the bet when knots held and paid Grygum his winnings the next morning.
+4. **Knot-tying bet:** Wagered with Gyrgum that knots restraining Pelek/Derro wouldn't hold overnight. Lost the bet when knots held and paid Gyrgum his winnings the next morning.
 5. **Post-Narrak battle:** After party defeated Narrak, recommended they keep collected evidence from various factions for future use and proposed a bet that it would prove helpful. Daz considered his counsel wise.
 6. **Final cavern entrance:** Was instructed by Daz to wait outside the brimstone-and-chemical-reeking cavern entrance with other companions, showing visible worry at being told to stay behind.
 
@@ -40,7 +40,7 @@ Deep gnome (svirfneblin) NPC companion, fellow escapee from drow captivity who c
 - **Candlekeep research:** At Candlekeep, Zalthir's assigned question concerning Jimjar dovetails with the research interests of an avowed named Khell-Vire.
 
 ## Relationships
-- **Grygum:** Regular betting partner who distrusts Jimjar and suspects he might prioritize bets over lives; Jimjar owes him from the lost knot wager
+- **Gyrgum:** Regular betting partner who distrusts Jimjar and suspects he might prioritize bets over lives; Jimjar owes him from the lost knot wager
 - **Daz:** Daz respects JimJar's judgment and finds his strategic advice wise; Jimjar defers to Daz's commands
 - **Zalthir:** Mild friction due to resentment over interrupted gambling plans; Zalthir speculated during a forest surveillance sequence that a mysterious follower might be Jimjar coming to drag them back underground (did not rule out the possibility)
 - **Shuushar:** Openly dismissive of Shuushar's concerns and Kuo-Toan beliefs in general

@@ -48,7 +48,7 @@ Emerald Door.
 | Daz (Mike) | **Sister Yvenne** | **Arcanium / Hall of Divination** + private alcove in **the Atheneum** | Lore + bloodline-pattern + Eilistraee-circle door |
 | Zalthir (Gabe) | **Brother Khell-Vire** + **Master Kenshi** | **Echoing Hall** (lineage office) + **Sea Warden's Tower** sparring rooms (Trial) + **the Grove** (shared-silence beat) | One Severed Path technique + Watcher's Stillness + Callarduran boon |
 | Thorin | **Master Archivist Philemon** | **Towers of Wonder** (study) + **Reading Salon** (Quiet Hour) | Path-scaled rituals + Dawnbringer's two-layer diagnosis |
-| Grygum (Ben) | **Brother Vareth** | **Immortal Chambers** (Stroud Wake) + **Drakonoikos** (Station 9) + optional **House of Alaundo** | Stroudite community + faith-test texture |
+| Gyrgum (Ben) | **Brother Vareth** | **Immortal Chambers** (Stroud Wake) + **Drakonoikos** (Station 9) + optional **House of Alaundo** | Stroudite community + faith-test texture |
 
 **Standing institutional NPCs** (canon, from the locations
 supplement) — see `notes/npcs/candlekeep_avowed.md`:
@@ -56,7 +56,7 @@ supplement) — see `notes/npcs/candlekeep_avowed.md`:
 - **Bookwyrm** — First Reader (dragonborn sage, also curator of Drakonoikos)
 - **Janussi** — Keeper of Tomes (offstage authority; permission-gates)
 - **Kalan Strongbranch** — Gatewarden (Sea Warden's Tower / Arcanium / mysterious Lost Lore consultations)
-- **Kei Tigersteel** — Lorekeeper (Oratory; available for a Grygum sermon beat on Day 2)
+- **Kei Tigersteel** — Lorekeeper (Oratory; available for a Gyrgum sermon beat on Day 2)
 - **Sylvira Savikas** — curator, **Infernal Fortress** (the demon-lord evidence handoff)
 - **Adeilina** — librarian, Arcanium (no-touch rule; spectral mage hands)
 - **Pizwog** — librarian, Immortal Chambers (helpful tortle, 1 mph)
@@ -103,7 +103,7 @@ land before moving to the next.
   grass.
 - **Thorin:** tilts his face into sunlight he hasn't seen in months.
   Dawnbringer warms audibly.
-- **Grygum:** Bahamut's air. Genuine relief. Quietly weeps if Ben
+- **Gyrgum:** Bahamut's air. Genuine relief. Quietly weeps if Ben
   chooses to play it.
 
 ### Drop-offs
@@ -171,8 +171,8 @@ the party converges on one Avowed.
 |---|---|---|---|---|---|
 | 1 | **Daz (Mike)** | *"Who is following me? Who paid the Duskryns to extract me alive?"* | Princess Ebonmire's spellbook | **Sister Yvenne** | T'sarran half (Vaelissa surfaces) + Protection half (Fourth-Seat erasure trail; bloodline-pattern) |
 | 2 | **Zalthir (Gabe)** | *"Who or what is Jimjar?"* | Plinki's journal *(or alternate; this is Khell-Vire's hook)* | **Brother Khell-Vire** + Master Kenshi | 7-tier reveal: Callarduran identification → Abyss quarrel → planar exit → why he vanished → bone die → three reads on this party → Blingdenstone connection. **Khell-Vire reciprocally researches Zalthir** (the Bone-King phrase). **Optional Gabe-recognition beat:** Khell-Vire's notebook of named shadow-bearers contains an entry — *"Whistler · the trade-routes · until the kenku speaks."* The kenku canonically *cannot* speak; the phrasing is deliberate. Surface only if it lands organically; banked otherwise. See `prior_campaign_first_faction.md` for context. |
-| 3 | **Thorin (Joe)** | ⭐ **Post-Waterdeep wording (Ch. 51 update):** *"Dawnbringer and I are partners now. We argued ooze rights with the Watch and we healed children together in Dock Ward. We're past the team question. So — what's the question after the team question?"* (Grygum at the gate: *"It's a process, not a product."*) **Original chapter-54 wording** — *"I want help with Dawnbringer. Therapy. Not a one-question kind of thing."* — still holds as the formal donation-line; Thorin's *current state* arriving at Philemon's study is the post-Waterdeep version. | Velkynvelve prisoner journal *(First Reader's pick — masterpiece of drow prison writing)* | **Master Archivist Philemon** | **Path C achieved at the table** (Waterdeep ooze-rights stand + orphan-healing run). Phase 2 path-choice is no longer live; treat C as the starting position. Phase 1 clinical pivot, scabbard friction, and Phase 3 captivity reveal still run substantially as written, with the partnership reframed as *already true.* See full Philemon section below for the post-Waterdeep rewrite. |
-| 4 | **Grygum (Ben)** | *"What does Bahamut want from me specifically? What does my conversion mean in the broader theological landscape?"* | Ilvara's prayer book with Zuggtmoy marginalia + Asha Vandree's Lolth/Zuggtmoy manuscript | **Brother Vareth** | The Stroud Wake — 7-station tour through the controversy that has subsumed Vareth's quiet specialty. Three schools (Stroud / Dragon / Bahamut) presented; **Ben picks a school between sessions.** Vareth is honest he does not know the answer. **Vareth's library also holds *Milo Goodbarrel's* Volumes 1–3** as the Order-of-the-Gauntlet *primary-source category* — distinct register from the Stroud Wake polemics. If Daz mentions Milo, Vareth lights up: *"You read him? Most don't anymore — Stroud has eaten the air. Milo's account is *better written* and *less argued-over.* The Order takes him at his word."* |
+| 3 | **Thorin (Joe)** | ⭐ **Post-Waterdeep wording (Ch. 51 update):** *"Dawnbringer and I are partners now. We argued ooze rights with the Watch and we healed children together in Dock Ward. We're past the team question. So — what's the question after the team question?"* (Gyrgum at the gate: *"It's a process, not a product."*) **Original chapter-54 wording** — *"I want help with Dawnbringer. Therapy. Not a one-question kind of thing."* — still holds as the formal donation-line; Thorin's *current state* arriving at Philemon's study is the post-Waterdeep version. | Velkynvelve prisoner journal *(First Reader's pick — masterpiece of drow prison writing)* | **Master Archivist Philemon** | **Path C achieved at the table** (Waterdeep ooze-rights stand + orphan-healing run). Phase 2 path-choice is no longer live; treat C as the starting position. Phase 1 clinical pivot, scabbard friction, and Phase 3 captivity reveal still run substantially as written, with the partnership reframed as *already true.* See full Philemon section below for the post-Waterdeep rewrite. |
+| 4 | **Gyrgum (Ben)** | *"What does Bahamut want from me specifically? What does my conversion mean in the broader theological landscape?"* | Ilvara's prayer book with Zuggtmoy marginalia + Asha Vandree's Lolth/Zuggtmoy manuscript | **Brother Vareth** | The Stroud Wake — 7-station tour through the controversy that has subsumed Vareth's quiet specialty. Three schools (Stroud / Dragon / Bahamut) presented; **Ben picks a school between sessions.** Vareth is honest he does not know the answer. **Vareth's library also holds *Milo Goodbarrel's* Volumes 1–3** as the Order-of-the-Gauntlet *primary-source category* — distinct register from the Stroud Wake polemics. If Daz mentions Milo, Vareth lights up: *"You read him? Most don't anymore — Stroud has eaten the air. Milo's account is *better written* and *less argued-over.* The Order takes him at his word."* |
 | 5 | **Glabbagool** (Zalthir-sponsored) | ⭐ **LOCKED:** *"How do I become a shadow monk?"* (Zalthir presents on his behalf — Glabbagool's actual want is *"can I be a thing that does what Zalthir does."*) | (party's fifth book — typically the redundant donation at the gate) | **Whispering Dome** (East Inner Ward, atop the Hall of Momentous Deeds) | **Outcome: Glabbagool becomes a Shadow Apprentice sidekick at level 8** — Tasha's Warrior chassis with Artificial Chakra (Ki Focus, 4 points). Headline features: ⭐ **Corrosive Embrace** (2 Ki, prerequisite *target grappled by Zalthir,* 4d6 acid + armor degradation, master takes no damage); **Corrosive Surge** (1 Ki, +2d6 acid + armor degradation on hit, 1/turn); Shadow Arts (Darkness/Darkvision/Pass without Trace/Silence at 2 Ki); Shadow Step 60 ft; Flurry of Blows (1 Ki). Blindsight 60 ft, telepathy 60 ft, no speech. **Glabbagool is Zalthir's sidekick** — Gabe controls in combat. See "Glabbagool's question" beat in Act 3 for the Whispering Dome scene; full stat block + Level 9–20 progression at `handouts/glabbagool_shadow_monk_sidekick.md`. |
 
 **GM ritual line for each scholar's first scene** — open by
@@ -191,7 +191,7 @@ quoting the question back. Examples:
   question. Your companion phrased it as 'process, not
   product.' I respect that. We will work in phases. The first
   phase is observation. May I begin?"*
-- *Vareth to Grygum:* *"You came to ask what Bahamut wants
+- *Vareth to Gyrgum:* *"You came to ask what Bahamut wants
   from you. I will tell you, with apologies, that I do not
   know. What I have is the dossier of the controversy that
   has eaten my career — and which has, I suspect, eaten
@@ -219,7 +219,7 @@ Allocates each PC to their Avowed:
 - **Zalthir → Brother Khell-Vire** (and the Order of the Enlightened
   Shadow / Master Kenshi for the Trial)
 - **Thorin → Master Archivist Philemon**
-- **Grygum → Brother Vareth** (interrupted by Vareth himself, who
+- **Gyrgum → Brother Vareth** (interrupted by Vareth himself, who
   has heard about the half-orc cleric and arrives at speed)
 
 Segue into Act 3.
@@ -729,7 +729,7 @@ the reveals across multiple sittings:
 - **Aderyn drifts to the upper gallery of the training hall** to
   watch a Trial passage. If Zalthir is in Watcher's Stillness, he
   hears her quiet exhale on a particular passage.
-- **Stroud-Khell-Vire-predecessor letter** surfaces if Grygum's
+- **Stroud-Khell-Vire-predecessor letter** surfaces if Gyrgum's
   research has run; Khell-Vire confirms Stroud once asked his
   predecessor about *the difference between watching and
   witnessing.*
@@ -985,13 +985,13 @@ Phase 1 — that's her time — but the pivot is yours."*
 
 - **Yvenne walks past Philemon's study during Phase 1.** Eyebrow at
   Philemon mid-tirade; continues without breaking stride.
-- **Stroud-Philemon-predecessor correspondence** if Grygum's research
+- **Stroud-Philemon-predecessor correspondence** if Gyrgum's research
   surfaces it: Stroud asked Philemon's predecessor about *naming a
   weapon that has lost its bearer.*
 - **Daz overhears.** Files Dawnbringer's *"high-quality sunblade
   that kills things"* line for later complaint.
 
-### Grygum with Brother Vareth
+### Gyrgum with Brother Vareth
 
 **Setting:**
 
@@ -1000,7 +1000,7 @@ Phase 1 — that's her time — but the pivot is yours."*
   rectangular roofs). Vareth's office is one of the side rooms.
   Stations 1–8 of the Stroud Wake run here. **Pizwog** the
   ancient tortle librarian shuffles past at 1 mph at one point
-  and offers Grygum a religious tract, which arrives so slowly
+  and offers Gyrgum a religious tract, which arrives so slowly
   it becomes a recurring sight gag.
 - **Drakonoikos** (North Inner Ward, dragon library inside the
   preserved corpse of red dragon **Fyrentennimar** — bones for
@@ -1011,13 +1011,13 @@ Phase 1 — that's her time — but the pivot is yours."*
   dragon scholar; Bookwyrm (First Reader / curator) may briefly
   appear. *Optional: the Dragon Breath Simulation Room* is on
   the way — taxidermied heads of five chromatic dragons that
-  illusion-breathe at you. Grygum can or can't.
+  illusion-breathe at you. Gyrgum can or can't.
 - **House of Alaundo** (West Inner Ward, Founders Court — central
   building under Alaundo's brass statue) — *optional detour* if
-  Grygum wants to consult prophecies relevant to **Ilvara's dying
+  Gyrgum wants to consult prophecies relevant to **Ilvara's dying
   prophecy** or **Jimjar's warnings.** Librarian **Inda** is a
   half-orc sage who *secretly worships Alaundo as a deity* —
-  inevitable Grygum interaction. Note: the *Echoes of Alaundo*
+  inevitable Gyrgum interaction. Note: the *Echoes of Alaundo*
   (the Seer's final, most dangerous prophecies, recorded in
   prismatic gemstones) live in the **Vault of Secrets** and are
   inaccessible.
@@ -1027,18 +1027,18 @@ Phase 1 — that's her time — but the pivot is yours."*
 **Vareth:** elderly half-elf Avowed. Decades-long quiet specialty
 in half-orc-Bahamut converts — **invaded three years ago** by the
 Stroud-Protanther flood. Frantically cataloging. *Thrilled* to meet
-Grygum as a living data point.
+Gyrgum as a living data point.
 
 ### The Stroud Wake — guided tour (5–7 stations selected)
 
-Vareth walks Grygum through **what Stroud accidentally built across
+Vareth walks Gyrgum through **what Stroud accidentally built across
 the Realms in three years.** Pick stations that fit your table.
 
-Station handouts in `handouts/grygum_stroud_dossier.md`.
+Station handouts in `handouts/gyrgum_stroud_dossier.md`.
 
 ⭐ **Open the Stroud Wake with Vareth's preface — *"this is the
 question of the age."*** Read aloud or hand Ben the dossier
-preface (top of Section II in `grygum_stroud_dossier.md`).
+preface (top of Section II in `gyrgum_stroud_dossier.md`).
 Vareth is explicit and fervent: this is **not** a theological
 spat or a partisan wake. It is a **philosophical challenge to
 the cosmic order itself,** which has crossed every chapter
@@ -1075,7 +1075,7 @@ are tenants of a story they did not write.*
 
 **Ben's school choice (between sessions) is therefore not a
 faction pick.** It is a vote on the metaphysics of the
-universe Grygum lives in. Vareth says so.
+universe Gyrgum lives in. Vareth says so.
 
 > *"You came to Candlekeep with a question about your
 > conversion. When you choose a school, you are not choosing a
@@ -1085,7 +1085,7 @@ universe Grygum lives in. Vareth says so.
 below is *evidence* about which school is right. Stations 1–3
 present the schools and witnesses. Stations 4–6 show how
 each school is being *used* in the world (taproom slang;
-heretical pretenders; the Stroudite lineage Grygum is
+heretical pretenders; the Stroudite lineage Gyrgum is
 unknowingly founding). Station 7 is the poignant beat — the
 disappointed pilgrim, the human-sized Stroud, the question
 *"is the story bigger than the man"* which is also a question
@@ -1119,12 +1119,12 @@ contenders.
 - **The Bahamut school (theological).** *Bahamut intervened.*
   The gods are continuously involved; this match was a moment of
   that involvement. **Protanther's own public speech aligned
-  with this reading** — strongest canonical text. **Grygum's
+  with this reading** — strongest canonical text. **Gyrgum's
   default.**
 
-One-page polemic from each available; **Ben can pick Grygum's
+One-page polemic from each available; **Ben can pick Gyrgum's
 school between sessions.** Picking is *meaningful* — these are
-three-year-old emerging traditions; Grygum is shaping a school,
+three-year-old emerging traditions; Gyrgum is shaping a school,
 not joining a settled one.
 
 **Station 3 — The witnesses.** ~5 min. The council dragons —
@@ -1140,7 +1140,7 @@ taproom slang. Waterdeep bard's spreading song. *The Stroud Gambit*
 temple. A Tiamat-cultist polemic that misappropriates Stroud as
 anti-metallic-dragon. Vareth tries to hum the song badly.
 
-**Station 5 — The Stroudite lineage.** ~5 min. Grygum is one of
+**Station 5 — The Stroudite lineage.** ~5 min. Gyrgum is one of
 **only four** documented half-orc converts via the Stroud story in
 the past 3 years. **First-generation founders without knowing it.**
 Vareth offers letters of introduction to all three others.
@@ -1249,7 +1249,7 @@ Suspect pool (Claude-proposed):
 - A messenger or Avowed (lower probability)
 
 Vareth shows it **last** as the destabilizing capstone. For
-Grygum specifically — a Bahamut-school cleric — the sting is a
+Gyrgum specifically — a Bahamut-school cleric — the sting is a
 *threat to his faith.*
 
 ### Vareth's honest non-answer
@@ -1261,7 +1261,7 @@ Grygum specifically — a Bahamut-school cleric — the sting is a
 
 ### Gorg'Bahamut breadcrumb (independent thread)
 
-Gorg'Bahamut was Grygum's mentor *post-conversion.* He had nothing
+Gorg'Bahamut was Gyrgum's mentor *post-conversion.* He had nothing
 to do with Stroud.
 
 - Thin folio on file at Candlekeep (theological queries unrelated
@@ -1271,14 +1271,14 @@ to do with Stroud.
   *(GM picks; recommend near Triboar.)*
 - **Last letter contains an unfinished sentence.** Mystery hook.
 
-### Grygum failure modes
+### Gyrgum failure modes
 
-- Tier 1 — Apologizes and resets (Vareth notices Grygum drift)
+- Tier 1 — Apologizes and resets (Vareth notices Gyrgum drift)
 - Tier 2 — Withdraws into completist mode (data dump; meta-table
   reward harder)
 - Tier 3 — Refuses (rare; cold reassignment)
 
-### Grygum cross-PC touches
+### Gyrgum cross-PC touches
 
 - **Stroud's correspondence with Khell-Vire's predecessor**
   surfaces in Stroud's broader file — *"the difference between
@@ -1497,7 +1497,7 @@ Approximate per-PC table time (rough; flex to player engagement):
 - **Daz** ~30 min — Yvenne sittings + disclosure trade
 - **Zalthir** ~30 min — Trial + Khell-Vire dual structure
 - **Thorin** ~30 min — Philemon three-phase + scabbard friction
-- **Grygum** ~30 min — Vareth's Stroud Wake (5–7 stations)
+- **Gyrgum** ~30 min — Vareth's Stroud Wake (5–7 stations)
 
 If a PC's player is checked out, **mention** their thread
 periodically in narration even when not spotlighted; keeps them in
@@ -1520,7 +1520,7 @@ Confirm each PC leaves with:
   name available for Ritual 2; Philemon's sealed letter (Path C
   only); the Vaultmaster Locking Scabbard *hand-on-lock* tension
   (Philemon's noticing-beat)
-- [ ] **Grygum:** letters of introduction to three other
+- [ ] **Gyrgum:** letters of introduction to three other
   Stroud-Inspired clerics; Tessarra's Lock chess diagram; **three**
   school polemics (Stroud / Dragon / Bahamut); boastful Stroud
   representative letter; the unsigned-sting copy (Dragon-school

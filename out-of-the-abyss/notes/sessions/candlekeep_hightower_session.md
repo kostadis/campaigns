@@ -113,7 +113,7 @@ alarm keyed to the dead Keeper.
 - **Mid-approach, the wards flex** (narrative, no mechanics): each PC gets a
   one-round vision (full per-PC text in the surface-madness thread / arc file
   Beat 2). Daz → Vaelissa's face; Zalthir → Jimjar's voice; Thorin → Brysis's
-  hand; Grygum → ⭐ **Bahamut absent** (negative space); Glabbagool → *"Mother."*
+  hand; Gyrgum → ⭐ **Bahamut absent** (negative space); Glabbagool → *"Mother."*
 
 ### Branch on the master fork
 - **LOST:** the library door is **already open** — A'lai used both keys. The

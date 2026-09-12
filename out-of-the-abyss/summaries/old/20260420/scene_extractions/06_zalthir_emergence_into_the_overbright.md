@@ -12,7 +12,7 @@ Focus: Zalthir carries the drow cloak of elvenkind that will disintegrate in thi
 
 - Thorin considers finding a specialist — a 'sword whisperer' — to help Dawnbringer work through the trauma of being trapped in the dark.
 
-- Grygum plans to research the lore of Bahamut and pick up pamphlets at the Great Library.
+- Gyrgum plans to research the lore of Bahamut and pick up pamphlets at the Great Library.
 
 - The party discusses investing their newfound wealth into adventuring gear rather than business ventures.
 

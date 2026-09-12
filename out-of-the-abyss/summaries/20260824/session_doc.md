@@ -15,7 +15,7 @@ Thorin was falling.
 
 The stairs had done exactly what Thorin suspected they would. A section the length of a cart hinged open under everyone standing between the ninety-third and the hundred-and-second step. Daz, safely above, threw Telekinesis at the problem and arrested the fall; the rest of us got a hand on stone and scrambled clear. Thorin didn't. He lost his footing entirely and went down into the well, and the dark took him whole.
 
-Grygum went through his prayers, looking for one that reached that far down.
+Gyrgum went through his prayers, looking for one that reached that far down.
 
 "Nothing."
 
@@ -23,7 +23,7 @@ I was already at the edge. The plan, such as it was, was to grab him. I have win
 
 I stepped off.
 
-Grygum's voice came after me: "Are… are you trying to say you can fall faster than him?"
+Gyrgum's voice came after me: "Are… are you trying to say you can fall faster than him?"
 
 A fair question.
 
@@ -49,11 +49,11 @@ Below us the well kept going. Another five hundred feet, at least.
 
 "I mean, I think the point was to go down, wasn't it?" I said. "How about we go gracefully down and just see what's there?"
 
-From far above, Grygum: "Hey, you guys okay down there?"
+From far above, Gyrgum: "Hey, you guys okay down there?"
 
 "So far."
 
-Thorin shouted up that he was still kicking. The scholar we'd dragged along called "Come back!" down the shaft, and Grygum shouted something the well ate half of.
+Thorin shouted up that he was still kicking. The scholar we'd dragged along called "Come back!" down the shaft, and Gyrgum shouted something the well ate half of.
 
 "We could at least go scout a bit," I said.
 
@@ -67,7 +67,7 @@ The well did not apologize.
 
 We shouted the news up, and then came the jumping.
 
-"Oh, God, that's gonna be hard for me," Grygum said.
+"Oh, God, that's gonna be hard for me," Gyrgum said.
 
 "Literally? Like, should someone push you, or…"
 
@@ -77,7 +77,7 @@ He jumped on faith. It has not failed him yet.
 
 Daz went next, reasoning it out loud on the way over the edge. "Yeah, I mean, I don't want to get split from the party. My whole, like, trying to hold the thing up and save us all didn't work, so…"
 
-"If all your friends jumped off the stairs, would you?" Grygum asked.
+"If all your friends jumped off the stairs, would you?" Gyrgum asked.
 
 "Yeah," Daz said.
 
@@ -101,7 +101,7 @@ The heat arrived before the cavern did. The passage exhaled it at us, thick and 
 
 Directly ahead, in the center of the chamber, stood a three-floor stone tower, similar in style to some of the older spires in the Great Library. It sat on a thin pedestal of glassy black obsidian that soared straight up out of the lava pool.
 
-Grygum considered it. "In the… lava? Yes."
+Gyrgum considered it. "In the… lava? Yes."
 
 A fair question. Whoever raised the pedestal had an answer; the answer was not posted anywhere I could see.
 
@@ -109,9 +109,9 @@ Edvaldo had an answer, though. Edvaldo has an answer for everything, and he deli
 
 The trip was not over. I chose not to point this out.
 
-Instead I said, mostly to Grygum, "I'm pretty sure there are some spells that allow you to, like, listen to what somebody's saying from across the room. They need to have spells that allow you to just mute people around you."
+Instead I said, mostly to Gyrgum, "I'm pretty sure there are some spells that allow you to, like, listen to what somebody's saying from across the room. They need to have spells that allow you to just mute people around you."
 
-Grygum said nothing, which from him is encouragement.
+Gyrgum said nothing, which from him is encouragement.
 
 "Or, like, zapping it, you know?" I sketched the gesture in the hot air. "Mixer board for everybody that's standing around you."
 
@@ -121,7 +121,7 @@ Edvaldo lectured on.
 
 The rest of the inventory, while he talked: a double door of the same glassy obsidian stood opposite us, across a gap too wide to jump, with no obvious way of getting there. A narrow walkway ringed the tower's base, and from the back of it a flat stone bridge ran to a second tunnel, opposite the one we had come down.
 
-"And we'd… we'd have to figure out how to get over to it somehow," Grygum said.
+"And we'd… we'd have to figure out how to get over to it somehow," Gyrgum said.
 
 The ledge we stood on extended barely two paces into the cavern, and embedded in its stone were cogs. Mechanical components, set flush into the rock.
 
@@ -129,13 +129,13 @@ The ledge we stood on extended barely two paces into the cavern, and embedded in
 
 We had come down here chasing mechanist dust, among other things, and we were carrying the mechanist tool out of the House of Mechanus. When the environment starts rhyming with your inventory, someone designed the environment.
 
-"So, I think it would be worthwhile looking at the mechanical components," Grygum said. "Any idea what they're for?"
+"So, I think it would be worthwhile looking at the mechanical components," Gyrgum said. "Any idea what they're for?"
 
 Everyone looked at me. Correctly.
 
 I got down on the stone and did the full audit. Gear train, pawl, ratchet. A toothed track that disappeared under the lip of the ledge and, by its gauge and bearing, ran out beneath the open air toward the tower. At the heart of the assembly, a socket: cut for no hand, no crowbar, and no spell. Cut for exactly the tool in our pack. The conclusion assembled itself: the whole mechanism existed to extend the bridge.
 
-"Oh, well, that would be more convenient than just trying to jump across the lava," Grygum said.
+"Oh, well, that would be more convenient than just trying to jump across the lava," Gyrgum said.
 
 "So if we use the tool, we can basically expand the bridge. Yes, yes. And we don't have to… okay."
 
@@ -147,7 +147,7 @@ It was while seating the tool that I found the plaque, one of those warnings thi
 
 So: no flying anyone across. No Misty Step, no Feather Fall as insurance, no levitating Edvaldo out over the lake and leaving him there. A span of open air in which everything I have spent my life learning is a rumor. Fortunate we brought the tool. The tool did not care what I thought about that.
 
-"Wasn't that supposed to be this whole, this whole central area?" Grygum asked. "But I guess we… what we found out was that it was disabled anyway."
+"Wasn't that supposed to be this whole, this whole central area?" Gyrgum asked. "But I guess we… what we found out was that it was disabled anyway."
 
 Different field. The one over Candlekeep was a force wall: it stopped teleportation passing in or out, and it stopped fire from being cast, and it was already down. This one was local and general. It did not discriminate by school. It simply refused.
 
@@ -171,7 +171,7 @@ We came into the chamber and the air did that thing where a room is holding its 
 
 "Nothing happens, right?"
 
-Nothing happened. Grygum announced the anticlimax out loud, like he was already writing the report, and honestly the report was accurate.
+Nothing happened. Gyrgum announced the anticlimax out loud, like he was already writing the report, and honestly the report was accurate.
 
 The room had one feature worth reading: a tiny iron statue of a winged owlbear sitting on top of a stone pedestal taller than a man, with a staircase running up behind it to the next floor. A statue parked in front of the only way up isn't decoration. That's a checkpoint.
 
@@ -181,7 +181,7 @@ Then the big iron eyelids opened. White, glowing eyes. The wings unfolded and th
 
 "Tip-top A-plus DnD right here," I said. I meant it as a compliment.
 
-"Is that right?" Grygum said.
+"Is that right?" Gyrgum said.
 
 "Questions three, you must answer."
 
@@ -197,7 +197,7 @@ The owlbear leaned all the way in. "Yes, three questions you must answer. Not tw
 
 "I know you told us about this at one point," I said, "but I don't remember." True then, true now.
 
-Daz got there. The hearth. The one place in this whole keep he hadn't been cold. Grygum arrived at the same answer by his own road, a beat behind. Good. That's two roads to the same rock.
+Daz got there. The hearth. The one place in this whole keep he hadn't been cold. Gyrgum arrived at the same answer by his own road, a beat behind. Good. That's two roads to the same rock.
 
 "Well done! Well done! Well done!"
 
@@ -205,11 +205,11 @@ Edvaldo said he'd known that one, then relocated himself: "If you're going to an
 
 "Which holy triumvirate patrons the great library?"
 
-"Oh, I'm good at that," Grygum said.
+"Oh, I'm good at that," Gyrgum said.
 
 I was not. Gods aren't my ground. "I got nothing to add," I said, and meant that too.
 
-Grygum had it cold: Oghma, Deneir, and Milil. "Of course I remember that." And then I watched him hold back the whole lecture on how the three of them founded the place. You could see what the holding cost him.
+Gyrgum had it cold: Oghma, Deneir, and Milil. "Of course I remember that." And then I watched him hold back the whole lecture on how the three of them founded the place. You could see what the holding cost him.
 
 The third question, the guardian announced, was the most difficult of all. Then: "Once upon a time… Every member… oh, sorry."
 
@@ -221,7 +221,7 @@ An answer key. I shut my mouth.
 
 "It's been a while, it's been a while, it's been a while — but don't you worry. If you fail, I will tear you to shreds and destroy you. I've been waiting a long time for this…" It gathered itself. "I've been waiting a long time to do this. This is something I have trained for in my head."
 
-"That would be no less than your duty," Grygum said, grave as a funeral.
+"That would be no less than your duty," Gyrgum said, grave as a funeral.
 
 "Exactly. I was built for this!"
 
@@ -235,7 +235,7 @@ An answer key. I shut my mouth.
 
 We all turned and stared at Edvaldo Sedanur. Apparently every member of the Avowed had once been expected to know this cold.
 
-"Evaldo, this seems like the sort of question that you would know the answer to," Grygum said.
+"Evaldo, this seems like the sort of question that you would know the answer to," Gyrgum said.
 
 "I'm sure they all have a slightly different answer, maybe," Daz said.
 
@@ -243,7 +243,7 @@ But memorizing dry details had fallen out of fashion around here. "So you guys d
 
 "But — but I do have, I do have… I do know something." Edvaldo squinted. "It's over 500 feet?"
 
-"It isn't some kind of trick — like the tower is actually below sea level, or something like that, right?" Grygum asked. Nobody could say why a tower's height counted as a question about nature, either. Zalthir shrugged. Nobody pushed it.
+"It isn't some kind of trick — like the tower is actually below sea level, or something like that, right?" Gyrgum asked. Nobody could say why a tower's height counted as a question about nature, either. Zalthir shrugged. Nobody pushed it.
 
 Over five hundred was enough of an anchor. Height is terrain, and I've spent my whole life standing at the bottom of big things knowing exactly how big. I got there. Daz got there too.
 
@@ -257,11 +257,11 @@ Over five hundred was enough of an anchor. Height is terrain, and I've spent my 
 
 "You know, what you got on him?"
 
-"You could… you could still just attack him if he failed," Grygum offered.
+"You could… you could still just attack him if he failed," Gyrgum offered.
 
 "But we don't know what's ahead. We don't want to, like… This is the — this is the problem with DnD. You're always like, should I use this spell, or should I save it for later? And you never know."
 
-"I mean, we can always… at this point, we can save doing something stupid for later," Grygum said.
+"I mean, we can always… at this point, we can save doing something stupid for later," Gyrgum said.
 
 "That's fair," Zalthir said. "Maybe he'll stay here. Worst case, get him on the way back."
 
@@ -269,7 +269,7 @@ The giants had a saying: a rock in the wrong place is just a rock, but a rock in
 
 So instead I made conversation. Asked it what was next, whether its duties were done down here. "When do you get off?"
 
-"Yeah, do you think these guys have shifts?" Grygum said.
+"Yeah, do you think these guys have shifts?" Gyrgum said.
 
 "Although this was all very entertaining," the guardian said, and didn't finish. Iron owlbears don't have to.
 
@@ -281,7 +281,7 @@ Took his spot. Our riddle-master was the replacement. *I was built for this,* it
 
 ---
 
-## Grygum — The Spectral Silver Dragon's Trial
+## Gyrgum — The Spectral Silver Dragon's Trial
 
 We were on our way to the stairs when somebody coughed.
 
@@ -503,13 +503,13 @@ She smiled. "Well chosen! Well chosen!"
 
 ## Daz — The Vault and Manshoon's Duel
 
-The stairs kept going up, and the ceiling stayed generous, which at Candlekeep passes for a warm welcome. Behind me Grygum asked the question I was already turning over: "And the anti-magic goes all the way up? Is that the idea?"
+The stairs kept going up, and the ceiling stayed generous, which at Candlekeep passes for a warm welcome. Behind me Gyrgum asked the question I was already turning over: "And the anti-magic goes all the way up? Is that the idea?"
 
 Nobody answered him. The top of the tower answered for us.
 
 Another plain circular room lit with continual light, its windows sealed shut. A single bookcase mounted against the eastern wall, desks and a chair in the middle. And on those shelves: a hundred tomes. Every dangerous, magical tome you could possibly imagine, collected in one chamber the way Menzoberranzan collects poisons: catalogued, contained, and one bad afternoon from general release. I tallied the room out of habit. A hundred tomes. One exit. One archwizard.
 
-"Oh, I'm very excited," Grygum said.
+"Oh, I'm very excited," Gyrgum said.
 
 A note on the desk, in archaic Common: "This vault was built to contain Candlekeep's most dangerous secrets. Consult here what can benefit civilization, but leave the tomes on these shelves. Whilst the most holy, unholy knowledge can be used for good should circumstances lead you, keeper of secrets, to believe that such dogma might be grasped by foul hands, you will find the means to destroy the contents of this vault in the chamber above."
 
@@ -517,7 +517,7 @@ And Manshoon, sitting there reading. He did not look up immediately. That is a M
 
 "By all means, browse," he said. "The trick is leaving with what you came for. Did you come for the book, or did you come for me?"
 
-"Indeed — we came for you; we did not know of the books," said Grygum.
+"Indeed — we came for you; we did not know of the books," said Gyrgum.
 
 "You've come for me and not for the books?"
 
@@ -529,17 +529,17 @@ An orc cleric answering an archwizard with the plain truth, in a room built to k
 
 "Oh, no," I said.
 
-We were all coiled. I was quickest to it; Grygum, honest to the last, was slowest. And a cold thought arrived while my hands were already moving: "And we're currently in the zone of no magic, or, magical stopping." I said it out loud, which tells you how much I liked the thought. But no. Magic worked in here. It had to. A vault of living spellbooks inside a dead field is a contradiction even Candlekeep wouldn't shelve. "Okay, good point, yeah," I conceded, mostly to myself.
+We were all coiled. I was quickest to it; Gyrgum, honest to the last, was slowest. And a cold thought arrived while my hands were already moving: "And we're currently in the zone of no magic, or, magical stopping." I said it out loud, which tells you how much I liked the thought. But no. Magic worked in here. It had to. A vault of living spellbooks inside a dead field is a contradiction even Candlekeep wouldn't shelve. "Okay, good point, yeah," I conceded, mostly to myself.
 
-"I thought maybe they were just paused," Grygum offered.
+"I thought maybe they were just paused," Gyrgum offered.
 
-I was first to act, and I was still choosing. What do you throw at Manshoon? He is not just a high-level wizard. He is a legend who has come back from the dead more times than anyone has bothered to count, and my heaviest working was already spent hours ago. While I weighed it, Grygum stepped into the pause with complete earnestness: "So, before we really get into the fighting, I want to propose to him that there are a lot of valuable books in this room. It would be a shame to damage any of them. What if we — what if we moved into the other rooms so they'd be safer?"
+I was first to act, and I was still choosing. What do you throw at Manshoon? He is not just a high-level wizard. He is a legend who has come back from the dead more times than anyone has bothered to count, and my heaviest working was already spent hours ago. While I weighed it, Gyrgum stepped into the pause with complete earnestness: "So, before we really get into the fighting, I want to propose to him that there are a lot of valuable books in this room. It would be a shame to damage any of them. What if we — what if we moved into the other rooms so they'd be safer?"
 
-"That's a good proposal," I said, and watched Manshoon to see how it landed. Then, quietly, for the record: "It deserves an inspiration point, in my opinion." It did. Grygum had just proposed a venue change to a duel already in progress, and he meant every word, and that is precisely why it worked.
+"That's a good proposal," I said, and watched Manshoon to see how it landed. Then, quietly, for the record: "It deserves an inspiration point, in my opinion." It did. Gyrgum had just proposed a venue change to a duel already in progress, and he meant every word, and that is precisely why it worked.
 
 "Yes, you're correct. We should not damage these books; they are of priceless origin."
 
-"Indeed, indeed," said Grygum.
+"Indeed, indeed," said Gyrgum.
 
 "And clearly, one of us will leave with the book they want."
 
@@ -553,7 +553,7 @@ I was first to act, and I was still choosing. What do you throw at Manshoon? He 
 
 "Well, why don't you go down ahead?"
 
-"Sure," said Grygum. "Good luck," said Zalthir, dry as slate, and Grygum added, "I'm more civilized this way."
+"Sure," said Gyrgum. "Good luck," said Zalthir, dry as slate, and Gyrgum added, "I'm more civilized this way."
 
 On the stairs, Thorin caught up to the plot. "Great, I missed that. We sent them all away?"
 
@@ -579,7 +579,7 @@ The duplicates were the tell. Darts and bolts would have to guess which body. So
 
 He paused. I watched him weigh unmaking it before it landed, and decline to spend that on me. Then he set himself against it. It was a hard save, and he made it by the width of nothing, on a legend's margin, and it still cost him: the fear got one hand on him before his discipline closed over it, and I saw the hurt register. But the nightmare guttered out, and my grip on him went with it.
 
-"I think we can use this anti-magic field to our advantage," Grygum called, "doing things like firing at him and then ducking out the door so he can't get back at us as effectively."
+"I think we can use this anti-magic field to our advantage," Gyrgum called, "doing things like firing at him and then ducking out the door so he can't get back at us as effectively."
 
 Exactly. "No, no, after I hit him, I want to start heading towards the bridge. I think the more we can, like, hit him a little and then suck him out into the bridge, then we can hit him with crossbows or something."
 

@@ -16,7 +16,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 
 ## History with the Party
 1. **Pre-Revolt:** Assigned cooking chores to prisoners, selecting Suushar, Topsy, Turvy, and Gyrgum for kitchen duty.
-2. **The Revolt:** Was playing the Drow game Sava with two other guards in the guard chamber when the prisoner revolt began. Thorin attempted to overpower him; Imbros was amused and tried to subdue rather than kill. Deftly dodged Zalthir's shove attempt. As the revolt escalated and prisoners armed themselves, he struck Thorin unconscious. Resisted Daz's Mind Sliver and Grygum's Toll the Dead, but was hit by crossbow bolts from multiple prisoners and two volleys of Daz's Magic Missiles. Despite being severely wounded, he killed **Prince Derendil** with poisoned strikes (Drow Poison). Ultimately slain by **Serith's** sword.
+2. **The Revolt:** Was playing the Drow game Sava with two other guards in the guard chamber when the prisoner revolt began. Thorin attempted to overpower him; Imbros was amused and tried to subdue rather than kill. Deftly dodged Zalthir's shove attempt. As the revolt escalated and prisoners armed themselves, he struck Thorin unconscious. Resisted Daz's Mind Sliver and Gyrgum's Toll the Dead, but was hit by crossbow bolts from multiple prisoners and two volleys of Daz's Magic Missiles. Despite being severely wounded, he killed **Prince Derendil** with poisoned strikes (Drow Poison). Ultimately slain by **Serith's** sword.
 
 ## Current Status
 - **Dead.** Killed by Serith during the prisoner revolt at Velkynvelve.

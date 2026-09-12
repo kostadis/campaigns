@@ -15,7 +15,7 @@ The recap is factually consistent with the established campaign context across a
 
 ### Character Sections
 - **Thorin**: Voice, background (raised by giants), relationship with Dawnbringer all consistent
-- **Grygum**: Half-orc cleric of Bahamut, medical examination skills, note-taking habits match established character
+- **Gyrgum**: Half-orc cleric of Bahamut, medical examination skills, note-taking habits match established character
 - **Daz**: Drow wizard, bat familiar, cataloguing behavior, sunlight sensitivity all accurate
 - **Zalthir**: Shadow monk, Eldritch Claw Tattoo, grappling focus, meditation habits consistent
 

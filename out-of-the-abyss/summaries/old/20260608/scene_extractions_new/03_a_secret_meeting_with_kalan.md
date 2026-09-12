@@ -8,7 +8,7 @@ source: gmassist
 ## Scene summary (from gm-assist, verbatim)
 
 #### The party encounters Kalan Strongbranch in the corridor, where he shares critical intelligence about the High Tower keys and his own investigation.
-- Multiple party members are present; Kalan presses the small brass key specifically into Grygum's hand.
+- Multiple party members are present; Kalan presses the small brass key specifically into Gyrgum's hand.
 - Kalan sweeps the corridor left and right before speaking: *"Whatever Bookwyrm is telling you, listen for what she isn't. The High Tower has two keys. Janussi wore one, I held the other. I have given it now to someone who is not me. If I and I do not see you tomorrow, do not look for me at my post."*
 - Zalthir alone pursues Kalan to ask him questions.
 - Asked whether he fears being killed for the key: *"It is best that if I am killed, the key not be found."*
@@ -27,13 +27,13 @@ source: gmassist
 
 ## Verbatim moments
 
-**[Kalan presses the key into Grygum's hand]**
-- As the party steps outside, Kalan Strongbranch steps out of a doorway in the corridor and presses a small brass key into Grygum's hand.
+**[Kalan presses the key into Gyrgum's hand]**
+- As the party steps outside, Kalan Strongbranch steps out of a doorway in the corridor and presses a small brass key into Gyrgum's hand.
 
 **[GM (Kalan)]** — *handing over the key, sweeping the corridor* *(VTT transcribed "Bookwyrm" as "Brookworm")*
 > "Whatever Brookworm is telling you, listen for what she isn't. The High Tower has two keys. Janussi wore one, I held the other. I have given it now to someone who is not me. If I and I do not see you tomorrow, do not look for me at my post."
 
-**[Grygum]**
+**[Gyrgum]**
 > "You're worried that you'll be killed for the key?"
 
 **[GM (Kalan)]** — *looking left and right*
@@ -64,7 +64,7 @@ source: gmassist
 **[GM]**
 > "No, no, no."
 
-**[Grygum]**
+**[Gyrgum]**
 > "There are people watching it, even though they don't have the key."
 
 **[GM]**
@@ -77,7 +77,7 @@ source: gmassist
 **[GM]**
 - And by the way, he hands it off to you, and then walks away.
 
-**[Grygum]** — *on why a second key matters*
+**[Gyrgum]** — *on why a second key matters*
 > "So, I... why... I ask him, you know, somebody's already stolen a key, why would they steal the second one?"
 
 **[Zalthir]**
@@ -89,7 +89,7 @@ source: gmassist
 **[Zalthir]**
 > "Power with two."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Oh, that's right, it's, one of those,"
 
 **[Thorin]**
@@ -123,7 +123,7 @@ source: gmassist
 **[GM]**
 > "Yes."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Unofficially, may we, may we rely on you?"
 
 **[GM (Kalan)]** — *appealing to his ego, the party flatters him*
@@ -136,7 +136,7 @@ source: gmassist
 > "The black stuff, yes, we saw that."
 
 **[GM (Kalan)]**
-> "Yes. The second thing is, I'm sure the, and he points to Grygum, the cleric, of Bahamut."
+> "Yes. The second thing is, I'm sure the, and he points to Gyrgum, the cleric, of Bahamut."
 > "Who has caused quite the stir, has, noticed that the heart was hacked out."
 > "But did you know it was hacked out after he was dead? Most likely to make it harder to resurrect the corpse?"
 

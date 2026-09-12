@@ -13,7 +13,7 @@ chapters: 49-49
 - **Trigger:** Hostile creature crossing the bridge.  
 - **Effect:** Detonates with force and light, dealing 21 damage in a sphere (confirmed active and functional once).  
 - **Current holder/location:** Fixed in place on the bridge; not carried or moved.  
-- **Creation:** Inscribed into the bridge stone by the party, following Grygum’s idea.  
+- **Creation:** Inscribed into the bridge stone by the party, following Gyrgum’s idea.  
 - **Purpose:** Tactical ambush weapon, designed to exploit chaotic battlefield conditions and overconfidence.  
 - **Recent action:** Activated once, destroying one spore servant and crippling Jorlan.  
 

@@ -19,7 +19,7 @@ chapters: 10-10
 - Blibdoolpoolp’s physical location is not stated.  
 - It is unclear whether Blibdoolpoolp is the one who spits/regurgitates, or merely oversees others doing so.  
 - No confirmation that Blibdoolpoolp personally maintains or tends the statue of the Sea Mother.  
-- The fact cites “Grygum recalls,” not Blibdoolpoolp’s own words — so the belief may be attributed to Grygum, not Blibdoolpoolp.  
+- The fact cites “Gyrgum recalls,” not Blibdoolpoolp’s own words — so the belief may be attributed to Gyrgum, not Blibdoolpoolp.  
 - No evidence confirms Blibdoolpoolp is the deity’s priest, avatar, or only devotee — role is inferred.
 
 ---

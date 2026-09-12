@@ -26,12 +26,12 @@ Here are the offers that have been made to the party:
 - **From Themberchaud (the Wyrmsmith of Gracklstugh):**
   - **Enlistment as Agents:** Themberchaud "enlisted" the party as his agents, not asking but commanding them to do whatever the Keepers of the Flame ask, but to report back to him first.
   - **Terms:** He promised his protection for them in this role. Gartokkar was instructed to provide them with gold badges.
-  - **Party's Action:** Thorin noted Themberchaud wasn't asking but telling. Thorin and Grygum later discussed an idea to "ride this Dragon out of here, laying waste to everything behind us".
+  - **Party's Action:** Thorin noted Themberchaud wasn't asking but telling. Thorin and Gyrgum later discussed an idea to "ride this Dragon out of here, laying waste to everything behind us".
 - **From Stonespeaker Hgraam (Stone Giant):**
   - **Request for Visit:** Dorhun, an apprentice to Hgraam, asked Thorin to visit Stonespeaker Hgraam in Cairngorm Cavern after Thorin's role in subduing the mad stone giant.
   - **Hgraam's Gift/Information:** Hgraam provided cryptic warnings about evil stirring in the Underdark. He also gifted Thorin a "stonespeaker crystal," which aids in casting *Speak with Animals*, *Speak with the Dead*, and *Speak with Plants*, and assists with divinations.
 - **From Werz Saltbaron (a duergar merchant):**
-  - **Reward for Rescue:** After the party saved him from assassins, Werz gave Grygum and each companion a gemstone worth 10 gold pieces and promised to take care of their tab at the Ghohlbrorn's Inn.
+  - **Reward for Rescue:** After the party saved him from assassins, Werz gave Gyrgum and each companion a gemstone worth 10 gold pieces and promised to take care of their tab at the Ghohlbrorn's Inn.
   - **Protection from Assassins & Weapon Deals:** Werz wanted the party to eliminate his "assassins' problem". In return, he offered to facilitate a deal for weapons with gnomes in Blingdenstone, especially if the Deepking were unseated.
     - **Party's Action:** Daz negotiated an additional fee for getting rid of the assassins, despite Werz's claims of being "broke," and Werz provided "empty spell gems".
   - **Non-Disclosure Agreement (NDA):** The party also negotiated an NDA for their discussions with Werz.

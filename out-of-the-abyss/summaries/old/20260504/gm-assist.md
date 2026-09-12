@@ -3,15 +3,15 @@
 Date: May 4th, 2026
 
 ## Summary
-The party emerged from the depths of the Underdark through Blingdenstone's surface exit into the Silver Marches on a mid-spring afternoon, blinking in the light of a world they had long been separated from. It was here that Eldeth said her goodbyes, parting ways with the group as they set their faces south. The land around them bore the unmistakable scars of war — burned hamlets, a broken standing stone, and a defaced Tempest Shrine that drew Grygum's quiet reverence. A refugee family trudged past them on the road, three generations sharing a single ox and a handcart, heading south with everything they had left. A local at a wayhouse noted an eerie stillness that went beyond the destruction — fewer bears, pixies no longer singing in the song lands — something that felt older and stranger than the war alone could explain.
+The party emerged from the depths of the Underdark through Blingdenstone's surface exit into the Silver Marches on a mid-spring afternoon, blinking in the light of a world they had long been separated from. It was here that Eldeth said her goodbyes, parting ways with the group as they set their faces south. The land around them bore the unmistakable scars of war — burned hamlets, a broken standing stone, and a defaced Tempest Shrine that drew Gyrgum's quiet reverence. A refugee family trudged past them on the road, three generations sharing a single ox and a handcart, heading south with everything they had left. A local at a wayhouse noted an eerie stillness that went beyond the destruction — fewer bears, pixies no longer singing in the song lands — something that felt older and stranger than the war alone could explain.
 
-The party made a detour to Mirabar, the great dwarven mining city whose forges painted the horizon red and filled the air with smoke for miles around. The city had held during the Uthgart raids, but the cost was visible everywhere — a massive refugee population slept in shifts at the Smith's Gate while the hammers rang through the night, half the orders being for militia armor. Thorin, a dwarf who had grown up far from his people's traditions, found the city overwhelming and unfamiliar, a fish out of water in the very place that should have felt like home. A traveling Stroud School polemicist spotted Grygum in the market and immediately attempted to recruit him to the cause of the "human agency hypothesis" — the argument that mortal will, not gods or dragons, had decided the great conflicts of the age. After a brief and fruitless exchange, the preacher pressed a well-formed pamphlet into Grygum's hands, titled Stroud and the Human Agency Hypothesis, which Grygum pocketed for later reading.
+The party made a detour to Mirabar, the great dwarven mining city whose forges painted the horizon red and filled the air with smoke for miles around. The city had held during the Uthgart raids, but the cost was visible everywhere — a massive refugee population slept in shifts at the Smith's Gate while the hammers rang through the night, half the orders being for militia armor. Thorin, a dwarf who had grown up far from his people's traditions, found the city overwhelming and unfamiliar, a fish out of water in the very place that should have felt like home. A traveling Stroud School polemicist spotted Gyrgum in the market and immediately attempted to recruit him to the cause of the "human agency hypothesis" — the argument that mortal will, not gods or dragons, had decided the great conflicts of the age. After a brief and fruitless exchange, the preacher pressed a well-formed pamphlet into Gyrgum's hands, titled Stroud and the Human Agency Hypothesis, which Gyrgum pocketed for later reading.
 
 Within Mirabar, the party also visited an Order of the Gauntlet shrine that housed a nearly full-height painting of Malfire, the Vindicator of Nature — a weathered figure in green at the forest's edge, longbow lowered, an enormous gray wolf at his side, stars rising over his shoulder. The painting had been made by Milo Goodbarrel, the famous chronicler of the War of the Dragons, and it carried a quiet power that lingered with those who looked upon it. Thorin began quietly considering whether the city's renowned smiths might be able to outfit him with something worthy of the road ahead.
 
 The party pressed on to Tribor, a caravan town that had been devastated by the barbarian raids, with one-third of it still in ruins. A memorial square at the town's heart bore a cairn of silver field stones naming 243 of the dead, freshly laid flagstones surrounding it like a wound still healing. The town buzzed with caravan drovers, traders, and pilgrims, and it was here that the party first heard whispered tales of a figure called the Ardegon — a Kenku hooded in black who hovered a foot off the ground, appearing at a distance along the caravan trails north of Yartar, mimicking a hawk, taking nothing, and vanishing before anyone could approach. Locals left coins on rocks for him, coins he never picked up. A half-orc named Kessler, who kept a small Bahamut shrine at the mountain mouth inn, approached the party with a worried look and asked them to carry a written note to a brother at a southern temple — a brother who had stopped writing five years ago, whose fire still burned without being tended, and whom Kessler had not seen in three years.
 
-That same evening, Thorin bought a drink for a local man sitting alone at the inn, speaking in two voices — his own, and a younger one that answered questions the first voice never asked. A neighbor explained quietly that the man had run courier routes during the war, come back from his last run two summers past, and returned as both of them. Grygum and Zalthir, listening carefully, noticed that the second voice bore an unsettling resemblance to Eldeth's — not quite right, but close enough to raise the hairs on the back of the neck. The madness was familiar. It was the same broken, fractured quality they had witnessed throughout the Underdark, and the realization settled over them like a cold fog: whatever had been festering below the surface was bleeding through into the world above. Glabbagool, mercifully unaware of the weight of the moment, was gifted an entire wheel of cheese by the curious innkeeper, which the intelligent grey ooze dissolved with evident delight, declaring it very good — his first encounter with dairy.
+That same evening, Thorin bought a drink for a local man sitting alone at the inn, speaking in two voices — his own, and a younger one that answered questions the first voice never asked. A neighbor explained quietly that the man had run courier routes during the war, come back from his last run two summers past, and returned as both of them. Gyrgum and Zalthir, listening carefully, noticed that the second voice bore an unsettling resemblance to Eldeth's — not quite right, but close enough to raise the hairs on the back of the neck. The madness was familiar. It was the same broken, fractured quality they had witnessed throughout the Underdark, and the realization settled over them like a cold fog: whatever had been festering below the surface was bleeding through into the world above. Glabbagool, mercifully unaware of the weight of the moment, was gifted an entire wheel of cheese by the curious innkeeper, which the intelligent grey ooze dissolved with evident delight, declaring it very good — his first encounter with dairy.
 
 Stroud spent part of his time in Tribor performing a ceremonial mass healing for the many injured refugees, drawing the attention of local believers of Bahamut, Stroudites, and Protantherians who were eager to know where he stood on what they called "the only question of the age." His pro-Bahamut comments won over the Bahamut believers, while the Stroudites and Protantherians stormed out upset. It was, by any measure, a successful evening.
 
@@ -23,7 +23,7 @@ Zalthir sought out shadow monk training during the party's time in the city and 
 
 In the Field Ward, the party encountered a ragged street preacher who chanted the same phrase over and over: The kraken under the keep, the kraken under the keep. The chant will break and the kraken will rise. When the preacher's eyes landed on Daz, he paused, then spoke directly to him — you came up, you will go again, you will go down again — before cycling back into his chant. Thorin got the distinct impression that the man was right about something he could not name, and noticed with a chill that the preacher's broken, looping speech carried the same fractured rhythm as the dual-voiced man back in Tribor. The pattern was becoming harder to ignore.
 
-The party's time in Waterdeep was not without its lighter moments. A city guard, suspicious of the bag Zalthir was carrying, insisted on inspecting it — and Thorin rose to the occasion with a passionate public defense of ooze rights, arguing that sentience deserved respect regardless of form. Dawnbringer, the party's sentient sword, chimed in with the observation that if they banned oozes today, they would ban sentient swords tomorrow. While the guard stood bewildered and the crowd around them split between nodding agreement and cautious skepticism, Zalthir quietly vanished with the bag, leaving Thorin mid-oration and the guard staring at the space where the bag had been. The guard eventually walked away, shaking his head, but the argument had been heard — seeds of a strange new idea planted in the cobblestones of the great city. Before leaving, Grygum and Zalthir spent time moving through the city's poorer quarters, using Dawnbringer's restorative power to heal orphans and the sick, a quiet act of mercy that drew no crowds and asked for nothing in return. The party then continued south, arriving at last in Daggerford, with the road to Candlekeep still ahead of them and the weight of unanswered questions — a burning temple, a kraken's chant, and a madness rising from below — riding alongside them every step of the way.
+The party's time in Waterdeep was not without its lighter moments. A city guard, suspicious of the bag Zalthir was carrying, insisted on inspecting it — and Thorin rose to the occasion with a passionate public defense of ooze rights, arguing that sentience deserved respect regardless of form. Dawnbringer, the party's sentient sword, chimed in with the observation that if they banned oozes today, they would ban sentient swords tomorrow. While the guard stood bewildered and the crowd around them split between nodding agreement and cautious skepticism, Zalthir quietly vanished with the bag, leaving Thorin mid-oration and the guard staring at the space where the bag had been. The guard eventually walked away, shaking his head, but the argument had been heard — seeds of a strange new idea planted in the cobblestones of the great city. Before leaving, Gyrgum and Zalthir spent time moving through the city's poorer quarters, using Dawnbringer's restorative power to heal orphans and the sick, a quiet act of mercy that drew no crowds and asked for nothing in return. The party then continued south, arriving at last in Daggerford, with the road to Candlekeep still ahead of them and the weight of unanswered questions — a burning temple, a kraken's chant, and a madness rising from below — riding alongside them every step of the way.
 
 ## Memorable Moments
 > "One day they're going to ban Oozes. The next day they'll ban sentient swords."
@@ -67,7 +67,7 @@ The party's time in Waterdeep was not without its lighter moments. A city guard,
 ### The Road Through the Silver Marches
 #### The party travels south from Blingdenstone's surface exit, witnessing the devastation left by the War of the Giants.
 - The party observes burned hamlets and a defaced Tempest Shrine along the road.
-- Grygum performs a basic reverence at the defiled shrine to show respect.
+- Gyrgum performs a basic reverence at the defiled shrine to show respect.
 - The party encounters a refugee family heading south with their meager belongings — three generations, one ox, no grandfather.
 - The party learns about the history of the War of the Giants and the restoration of the Ordening hierarchy among giants.
 - A local at a wayhouse notes an unusual quiet in the land — fewer bears, pixies not singing in the song lands — which is attributed to the aftermath of the war.
@@ -77,8 +77,8 @@ The party's time in Waterdeep was not without its lighter moments. A city guard,
 - Thorin explores the dwarven city, feeling like a fish out of water despite his heritage.
 - The party observes a large refugee population at the Smith's Gate and hears the constant ringing of hammers as half the orders are for armor for refugee militia.
 - The city held during the Uthgart raids, though the outer farmsteads did not.
-- Grygum encounters a traveling Stroud School polemicist who argues for the 'human agency hypothesis' regarding the War of the Dragons.
-- After a failed attempt at conversion, the polemicist gives Grygum a pamphlet titled 'Stroud and the Human Agency Hypothesis.'
+- Gyrgum encounters a traveling Stroud School polemicist who argues for the 'human agency hypothesis' regarding the War of the Dragons.
+- After a failed attempt at conversion, the polemicist gives Gyrgum a pamphlet titled 'Stroud and the Human Agency Hypothesis.'
 - The party visits an Order of the Gauntlet shrine featuring a large painting of Malfire, the Vindicator of Nature — a figure in weathered green with a longbow and a great gray wolf — painted by Milo Goodbarrel.
 - Thorin considers upgrading his equipment with dwarven-made mithril chain mail.
 
@@ -87,7 +87,7 @@ The party's time in Waterdeep was not without its lighter moments. A city guard,
 - The party observes memorial stones in the central square naming 243 dead from the raids, with one-third of the town still in ruins.
 - The party overhears caravan drovers and outriders speaking of 'The Ardegon,' a Kenku hooded in black who hovers a foot off the ground, appears at a distance, takes nothing, mimics a hawk, and rides thermals.
 - Thorin buys a drink for a local man who speaks in two voices — his own and a younger one — exhibiting signs of the same madness the party encountered in the Underdark.
-- Grygum and Zalthir notice that the second voice sounds like Eldeth's, but isn't quite right.
+- Gyrgum and Zalthir notice that the second voice sounds like Eldeth's, but isn't quite right.
 - Kessler, a half-orc keeping a small Bahamut shrine, asks the party to deliver a written note to a brother at a southern temple whose fire still burns untended after years of silence.
 - Glabbagool is gifted an entire wheel of cheese by the innkeeper as a curiosity, which the ooze promptly dissolves and declares very good.
 - Stroud performs a ceremonial mass healing for the injured refugees and engages in a theological debate with local believers of Bahamut, Stroudites, and Protantherians. When he makes pro-Bahamut comments, the Stroudites and Protantherians storm out upset.
@@ -123,7 +123,7 @@ The party's time in Waterdeep was not without its lighter moments. A city guard,
 - Zalthir uses magic to teleport away with the bag while the guard is distracted by Thorin's advocacy.
 - The bewildered guard, noticing the bag has vanished, eventually walks away from the situation.
 - The public debate draws a crowd of mixed reactions, planting seeds of the ooze rights argument in Waterdeep.
-- Grygum and Zalthir spend time performing acts of mercy, using Dawnbringer's restorative power to heal orphans and the needy in the city.
+- Gyrgum and Zalthir spend time performing acts of mercy, using Dawnbringer's restorative power to heal orphans and the needy in the city.
 
 ### Onward to Daggerford
 #### The party wraps up their time in Waterdeep and continues south toward Daggerford.
@@ -155,7 +155,7 @@ A settlement south of Waterdeep where the party arrives at the end of this leg o
 
 ## Items
 ### Stroud and the Human Agency Hypothesis Pamphlet
-A well-formed pamphlet divided into paragraphs, arguing against the influence of dragons and gods in favor of mortal agency in determining the outcome of historical conflicts. Given to Grygum by the Stroud School polemicist in Mirabar after a failed attempt at conversion. Grygum keeps it for later reading.
+A well-formed pamphlet divided into paragraphs, arguing against the influence of dragons and gods in favor of mortal agency in determining the outcome of historical conflicts. Given to Gyrgum by the Stroud School polemicist in Mirabar after a failed attempt at conversion. Gyrgum keeps it for later reading.
 
 ### Kessler's Note
 A written message from Kessler, a half-orc in Tribor, intended for a brother at a southern temple who has not been heard from in five years. The temple fire still burns untended, and Kessler has not seen the brother in three years. The party agrees to deliver it.
@@ -167,7 +167,7 @@ A large wheel of cheese gifted to Glabbagool by a curious innkeeper in Tribor. T
 The latest installment of a popular historical series detailing the War of the Dragons, purchased by Daz at Rishaal's Pageturners in Waterdeep. The book's print run was saved by a famous painting by Milo depicting Stroud, Milo, Malfire, and Whistler.
 
 ### Mithril Plate Armor
-A set of high-quality, lightweight heavy armor purchased by Grygum in Waterdeep, significantly bolstering his defenses.
+A set of high-quality, lightweight heavy armor purchased by Gyrgum in Waterdeep, significantly bolstering his defenses.
 
 ### Dawnbringer
 A sentient sword carried by the party. During the ooze rights confrontation in Waterdeep, Dawnbringer vocally supports Thorin's argument by noting that if oozes are banned, sentient swords will be next. Later used to channel restorative magic to heal orphans and the needy in Waterdeep.
@@ -177,7 +177,7 @@ A magical weapon that Zalthir expresses interest in acquiring as the party prepa
 
 ## Spells
 ### Mass Healing Word
-Employed by Grygum in Tribor to provide relief and healing to the many refugees and injured survivors of the barbarian raids, earning the gratitude of local Bahamutian clerics.
+Employed by Gyrgum in Tribor to provide relief and healing to the many refugees and injured survivors of the barbarian raids, earning the gratitude of local Bahamutian clerics.
 
 ### Mending
 Used by Daz to repair the leaky roof of a monastery in Waterdeep, serving as a substitute for the monetary donation the monks were attempting to extract from Zalthir in exchange for a letter of introduction to Khell-Vire.
@@ -186,14 +186,14 @@ Used by Daz to repair the leaky roof of a monastery in Waterdeep, serving as a s
 Used by Zalthir to whisk Glabbagool away in his bag to avoid a search by the Waterdeep city guard, disappearing while Thorin distracted the official with an impassioned argument for ooze rights.
 
 ### Lesser Restoration
-Channeled through Dawnbringer by Grygum and Zalthir to heal the ailments of orphans and the needy during their time in Waterdeep.
+Channeled through Dawnbringer by Gyrgum and Zalthir to heal the ailments of orphans and the needy during their time in Waterdeep.
 
 ## NPCs
 ### Eldeth
 A companion who had traveled with the party through the Underdark. She says her goodbyes at the Blingdenstone surface exit as the party continues their journey south.
 
 ### Stroud School Polemicist
-A traveling preacher encountered in Mirabar who promotes the 'human agency hypothesis' — the idea that mortal agency, not gods or dragons, determined the outcome of historical conflicts. He attempts to convert Grygum and ultimately hands him a pamphlet after failing to win him over.
+A traveling preacher encountered in Mirabar who promotes the 'human agency hypothesis' — the idea that mortal agency, not gods or dragons, determined the outcome of historical conflicts. He attempts to convert Gyrgum and ultimately hands him a pamphlet after failing to win him over.
 
 ### Malfire
 Known as the Vindicator of Nature, depicted in a large nearly full-height painting at an Order of the Gauntlet shrine in Mirabar. He is shown as a figure in weathered green at the edge of a forest, longbow lowered, with an enormous gray wolf at his side and stars rising over his shoulder. The painting was made by Milo Goodbarrel.
@@ -202,7 +202,7 @@ Known as the Vindicator of Nature, depicted in a large nearly full-height painti
 A half-orc encountered in Tribor who maintains a small shrine to Bahamut. He is concerned about a brother at a southern temple who stopped writing five years ago and whose fire still burns untended. He asks the party to deliver a written note to the brother on his behalf.
 
 ### The Dual-Voiced Local
-A man in a Tribor inn who speaks in two voices — his own and a younger one that answers questions the first voice doesn't ask. A local explains he ran courier routes during the war and returned changed. Grygum and Zalthir notice the second voice bears a resemblance to Eldeth's, and the madness mirrors what the party witnessed in the Underdark.
+A man in a Tribor inn who speaks in two voices — his own and a younger one that answers questions the first voice doesn't ask. A local explains he ran courier routes during the war and returned changed. Gyrgum and Zalthir notice the second voice bears a resemblance to Eldeth's, and the madness mirrors what the party witnessed in the Underdark.
 
 ### Glabbagool
 An intelligent grey ooze traveling with the party. In Tribor, he is gifted a wheel of cheese by a curious innkeeper and promptly dissolves it, declaring it very good. He is forced to remain hidden in a bag throughout the party's time in Waterdeep due to the city's intolerance of oozes. He has been pestering Zalthir about shadow monk training and periodically attempts to demonstrate walking.

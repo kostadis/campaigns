@@ -1,7 +1,7 @@
 ---
 scene: 02
 slug: forensic_investigation_of_the_keeper_s_chamber
-narrator: Grygum
+narrator: Gyrgum
 scene_name: Forensic Investigation of the Keeper's Chamber
 session: 20260601
 ---
@@ -24,7 +24,7 @@ I looked closer. This is the kind of thing I know — what a body does when the 
 
 "Okay, so his nose was broken, he was killed, smashed on the face."
 
-Zalthir caught the implication a half-step behind me. "Grygum, you rolled pretty good medicine, right? How does bruising work if he's dead? Like, I would assume you don't really."
+Zalthir caught the implication a half-step behind me. "Gyrgum, you rolled pretty good medicine, right? How does bruising work if he's dead? Like, I would assume you don't really."
 
 "You don't — you don't bruise after you're dead."
 

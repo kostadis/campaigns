@@ -7,7 +7,7 @@ confrontation.
 **Tone:** siege / escalating action. The wards are failing, the keep is being
 entered, and the confrontation happens inside a collapsing security perimeter.
 Everything is on a clock.
-**Party:** L9 ×4 (Zalthir, Thorin, Grygum, Daz) + Glabbagool as sidekick.
+**Party:** L9 ×4 (Zalthir, Thorin, Gyrgum, Daz) + Glabbagool as sidekick.
 **In-fiction:** the small hours after Deadwinter Day. The Naming is at dawn.
 
 **Re-cuts:** `notes/sessions/candlekeep_hightower_session.md` (which remains
@@ -134,7 +134,7 @@ argue about fees, or go tell Sylvira about her son first:
 1. **Take the exit before the man.** A'lai's escape is a *scroll* — a physical
    object in a pocket. Zalthir's Eldritch Claw Tattoo (15-ft reach), Glabbagool's
    acid, a grapple, a `counterspell` held for the read. Disarm beats damage.
-2. **Feed him the decoy.** Grygum already said it: *"Anybody who doesn't know we
+2. **Feed him the decoy.** Gyrgum already said it: *"Anybody who doesn't know we
    have a fake key, we can fake them out with it."* A'lai has never seen either
    key. Offering the fake to open the orb buys a full round of his attention and
    costs nothing.
@@ -163,7 +163,7 @@ not on him. That is not a dead end — it's a confirmation: *the handoff already
 happened, and A'lai is definitively in the tower with it.*
 
 **2. Tadric hands over the key — and asks to come.** He's nineteen, he's been
-opened up and closed again by Grygum's hands, and he has just been told the
+opened up and closed again by Gyrgum's hands, and he has just been told the
 whole story by Thorin. He will not stay behind.
 
 > **Tadric:** "I held it all night and I didn't know what it was. Now I know
@@ -172,7 +172,7 @@ whole story by Thorin. He will not stay behind.
 > **⭐ GM-only — ruled: he comes, and his death is genuinely available.** He's a
 > Watcher with `fly` and he is literally how bodies get up the tower. **The party
 > says yes, so the tab is theirs.** Do not protect him and do not soften it — if
-> the dice take him, take him. If Grygum reaches for Revivify, let him, and let
+> the dice take him, take him. If Gyrgum reaches for Revivify, let him, and let
 > it cost the slot.
 
 **3. The dome tells them something.** As they stand there, the acoustics deliver
@@ -185,7 +185,7 @@ earshot goes still.
 
 ### Branch — the party splits
 Encourage it. Siege sessions want two fronts. Daz + Zalthir up the tower,
-Thorin + Grygum to Sylvira, is a clean cut.
+Thorin + Gyrgum to Sylvira, is a clean cut.
 
 ---
 
@@ -242,7 +242,7 @@ Eleven years of A'lai, and a year of work on her sanctuary specifically.
 ### Branch — they don't go
 Don't punish it, and don't let her be absent. She assembles it herself — she is
 an archmage with a dead son and a lifetime of enemies — and arrives unannounced
-through a window mid-fight. Same ally, no scene. **But Grygum will notice that
+through a window mid-fight. Same ally, no scene. **But Gyrgum will notice that
 nobody went and told her,** and that is a real thing for him to write down.
 
 ---
@@ -323,7 +323,7 @@ off the Sea of Swords.
 One round, one vision each. Full per-PC text in the surface-madness thread /
 arc file Beat 2:
 - **Daz** → Vaelissa's face · **Zalthir** → Jimjar's voice · **Thorin** →
-  Brysis's hand · **Grygum** → ⭐ **Bahamut absent** (negative space, the worst
+  Brysis's hand · **Gyrgum** → ⭐ **Bahamut absent** (negative space, the worst
   one) · **Glabbagool** → *"Mother."*
 
 ---
@@ -555,7 +555,7 @@ stops fighting and **spends the only currency he has.**
 
 **This is the moral engine of the session.** Daz wants it more than he wants
 A'lai punished. Thorin will hate it in his bones — *"the only thing that doesn't
-lie is terrain,"* and a bought confession is not terrain. Grygum will write it
+lie is terrain,"* and a bought confession is not terrain. Gyrgum will write it
 down and let them choose (he withholds Lesser Restoration for the same reason).
 Zalthir will say nothing and watch which of them blinks.
 
@@ -576,7 +576,7 @@ refusing cost them the clue**; make it cost them the feeling of having chosen.
 ### Branch — they kill him
 Fine. The piece is not lost — Yvenne's fourth tick still delivers it, and
 Vizeran's Stage 4 is the failsafe. But **let the loss be visible**: Daz should
-watch the answer leave the room and know he chose it. Grygum, quietly:
+watch the answer leave the room and know he chose it. Gyrgum, quietly:
 *"I have done it for a mushroom."*
 
 ### NPC notes
@@ -650,7 +650,7 @@ of Tomes.
 
 > **Stage direction:** let him have it, and then let him be too tired to enjoy
 > it. Vindication that arrives exhausted lands harder than triumph. **Do not let
-> anyone crack a joke over this line** — Grygum will want to, and the beat is
+> anyone crack a joke over this line** — Gyrgum will want to, and the beat is
 > better if he visibly decides not to.
 
 **What it does not fix:** A'lai is gone or in a cell, Bookwyrm is dead before
@@ -694,7 +694,7 @@ it.
 > - **Daz** will never break it. He treats information as finite currency and he
 >   has just acquired the only one that summons an archmage to a place of his
 >   choosing. He will want to *keep* it, indefinitely, which is its own answer.
-> - **Grygum** will write down that they had the choice. He won't push. He will
+> - **Gyrgum** will write down that they had the choice. He won't push. He will
 >   note who pushed.
 > - **Zalthir** says nothing and watches which of them blinks. As ever.
 
@@ -740,7 +740,7 @@ hears the man name himself with his hands in the ward-core and cannot stop.
 | **Master fork** | **WON** — party holds real key #2, Manshoon back-doored, racing level |
 | ⭐ **The sapphire** | **In Daz's possession.** Never smashed — Daz lifted it with Telekinetic *mage hand*. **Manshoon was not signalled and does not arrive tonight.** The party holds a trigger they can pull at a time of their choosing |
 | ⭐ **The third pillar** | **Captured.** The sapphire is the stone missing from Janussi's safe; taken from A'lai's hand before four deputised Watchers. Kalan has been shown it. The Threefold Proof is complete — and there is no one left in authority to convict anyone |
-| **Keys** | Real #2 = party · Real #1 = A'lai (or recovered, if they took him) · decoy still in Grygum's pocket |
+| **Keys** | Real #2 = party · Real #1 = A'lai (or recovered, if they took him) · decoy still in Gyrgum's pocket |
 | **A'lai** | escaped to the lava chamber / captured / dead — **note which.** If captured: **terrified informant**, hands over the cryptogram head start + lava route + raider count |
 | **The Naming** | **Suspended.** All offices vacant — no First Reader, no Keeper. Nobody is in charge for the whole Vault session |
 | **The ransom** | Did Daz get the third erasure piece? If yes, the DC 20 synthesis is live at the Quiet Hour |
@@ -805,7 +805,7 @@ hears the man name himself with his hands in the ward-core and cannot stop.
 - **The ransom** — once A'lai names his price, **go quiet and let the party
   argue.** Do not adjudicate, do not hint, do not have an NPC weigh in. This is
   Mike's scene and Joe's scene and they should feel the table go still.
-- **If Tadric dies** — don't fill the silence. Grygum will reach for a
+- **If Tadric dies** — don't fill the silence. Gyrgum will reach for a
   Revivify and you should let him. Also let it cost a slot.
 - **Kalan's reroute succeeding** — let him say his line and then be too tired to
   enjoy it. Vindication that arrives exhausted lands harder than triumph.
@@ -839,7 +839,7 @@ All six resolved before play. Recorded here so the next doc inherits them.
 - **Does A'lai survive the arc?** Ruling 2 covers what he *is* if captured, not
   whether he lives to the end of it. A cooperative prisoner in a keep with no one
   in charge is an unstable object — and Manshoon knows where the cells are.
-- **If Tadric dies, does Grygum get him back?** Revivify is available and the
+- **If Tadric dies, does Gyrgum get him back?** Revivify is available and the
   slot is real. That's Ben's call in the moment; don't pre-empt it either way.
 - **Whether the party tells Sylvira before or after the tower.** Before costs a
   clock tick and gains an archmage for the fight. After is cheaper and colder.

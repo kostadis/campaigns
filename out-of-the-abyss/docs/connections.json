@@ -19,10 +19,10 @@
       "summary": "Bronze dragonborn Shadow Monk, the party's silent tactical architect and moral anchor, bonded to Glabbagool."
     },
     {
-      "id": "party_grygum",
-      "label": "Grygum",
+      "id": "party_gyrgum",
+      "label": "Gyrgum",
       "type": "party",
-      "summary": "Orc cleric of Bahamut, compulsive documentarian, healer, and founder of the Grygumite School."
+      "summary": "Orc cleric of Bahamut, compulsive documentarian, healer, and founder of the Gyrgumite School."
     },
     {
       "id": "faction_the_ember_vanguard",
@@ -628,7 +628,7 @@
       "id": "npc_pelek",
       "label": "Pelek",
       "type": "npc",
-      "summary": "A deep gnome ghost murdered by Buppido whose remains were carried to Blingdenstone by Grygum and interred at the Temple of the Ruby in the Rough."
+      "summary": "A deep gnome ghost murdered by Buppido whose remains were carried to Blingdenstone by Gyrgum and interred at the Temple of the Ruby in the Rough."
     },
     {
       "id": "npc_prince_livid",
@@ -676,7 +676,7 @@
       "id": "npc_vareth",
       "label": "Vareth",
       "type": "npc",
-      "summary": "Senior Candlekeep librarian and Grygum's handler who appropriated his theology into a published thesis."
+      "summary": "Senior Candlekeep librarian and Gyrgum's handler who appropriated his theology into a published thesis."
     },
     {
       "id": "npc_philemon",
@@ -694,7 +694,7 @@
       "id": "npc_gorg_bahamut",
       "label": "Gorg'Bahamut",
       "type": "npc",
-      "summary": "Grygum's mentor who trained him in the heterodox Bahamut sub-sect that believes dragons choose alignment freely."
+      "summary": "Gyrgum's mentor who trained him in the heterodox Bahamut sub-sect that believes dragons choose alignment freely."
     },
     {
       "id": "npc_shal",
@@ -880,7 +880,7 @@
       "id": "plot_candlekeep_research_period",
       "label": "Candlekeep Research Period",
       "type": "plot",
-      "summary": "The party's current recovery phase allocating five research questions among Candlekeep scholars across threads including patron identity, Jimjar, Dawnbringer therapy, and Grygum's theology."
+      "summary": "The party's current recovery phase allocating five research questions among Candlekeep scholars across threads including patron identity, Jimjar, Dawnbringer therapy, and Gyrgum's theology."
     },
     {
       "id": "plot_thorin_s_identity_crisis",
@@ -1228,7 +1228,7 @@
       "id": "faction_bahamut",
       "label": "Bahamut",
       "type": "faction",
-      "summary": "Platinum dragon deity whose faith Grygum follows, centered on choice over determinism."
+      "summary": "Platinum dragon deity whose faith Gyrgum follows, centered on choice over determinism."
     },
     {
       "id": "faction_araumycos",
@@ -1302,7 +1302,7 @@
       "label": "member of"
     },
     {
-      "source": "party_grygum",
+      "source": "party_gyrgum",
       "target": "faction_the_ember_vanguard",
       "label": "member of"
     },
@@ -1312,17 +1312,17 @@
       "label": "wields"
     },
     {
-      "source": "party_grygum",
+      "source": "party_gyrgum",
       "target": "npc_ilvara_mizzrym",
       "label": "killed"
     },
     {
-      "source": "party_grygum",
+      "source": "party_gyrgum",
       "target": "npc_glabbagool",
       "label": "guardian of"
     },
     {
-      "source": "party_grygum",
+      "source": "party_gyrgum",
       "target": "npc_stool",
       "label": "bonded with"
     },
@@ -1713,7 +1713,7 @@
     },
     {
       "source": "npc_glabbagool",
-      "target": "party_grygum",
+      "target": "party_gyrgum",
       "label": "companion of"
     },
     {
@@ -1977,7 +1977,7 @@
       "label": "killed Xinaya in"
     },
     {
-      "source": "party_grygum",
+      "source": "party_gyrgum",
       "target": "npc_basidia",
       "label": "rescued"
     },
@@ -1992,7 +1992,7 @@
       "label": "member of"
     },
     {
-      "source": "party_grygum",
+      "source": "party_gyrgum",
       "target": "faction_ember_vanguard",
       "label": "member of"
     },
@@ -2042,27 +2042,27 @@
       "label": "subject of"
     },
     {
-      "source": "party_grygum",
+      "source": "party_gyrgum",
       "target": "npc_gorg_bahamut",
       "label": "trained by"
     },
     {
-      "source": "party_grygum",
+      "source": "party_gyrgum",
       "target": "npc_basidia",
       "label": "ally of"
     },
     {
-      "source": "party_grygum",
+      "source": "party_gyrgum",
       "target": "npc_stool",
       "label": "guardian of"
     },
     {
-      "source": "party_grygum",
+      "source": "party_gyrgum",
       "target": "npc_rump_a_dump",
       "label": "guardian of"
     },
     {
-      "source": "party_grygum",
+      "source": "party_gyrgum",
       "target": "npc_vareth",
       "label": "interviewed by"
     },
@@ -2793,12 +2793,12 @@
     },
     {
       "source": "party_zalthir",
-      "target": "party_grygum",
+      "target": "party_gyrgum",
       "label": "ally of"
     },
     {
       "source": "party_thorin",
-      "target": "party_grygum",
+      "target": "party_gyrgum",
       "label": "ally of"
     },
     {
@@ -2807,7 +2807,7 @@
       "label": "ally of"
     },
     {
-      "source": "party_grygum",
+      "source": "party_gyrgum",
       "target": "party_daz",
       "label": "ally of"
     },
@@ -2827,7 +2827,7 @@
       "label": "bonded to"
     },
     {
-      "source": "party_grygum",
+      "source": "party_gyrgum",
       "target": "faction_bahamut",
       "label": "worships"
     },
@@ -2938,7 +2938,7 @@
     },
     {
       "source": "npc_vareth",
-      "target": "party_grygum",
+      "target": "party_gyrgum",
       "label": "handler of"
     },
     {

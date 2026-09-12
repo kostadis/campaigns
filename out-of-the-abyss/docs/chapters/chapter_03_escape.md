@@ -11,7 +11,7 @@ Zalthir shows no sentimentality and quickly scours the bodies for any weapons. T
 Sarith arms himself with studded leather armor, picks up a shield, and places one of the hand crossbows in a strap on the armor. Equipped with the Drow weapons, he looks every part of the warrior caste of the Cult of Lolth. 
 
 
-Grygum finds some poisoned hand crossbow bolts and a vial of what Sarith explains is Drow poison. He hooks them into a loop on his armor. 
+Gyrgum finds some poisoned hand crossbow bolts and a vial of what Sarith explains is Drow poison. He hooks them into a loop on his armor. 
 
 
 Daz stares mournfully at the armor and mutters, “I will not be wearing armor.” 
@@ -41,7 +41,7 @@ Zalthir stares, “How?”
 Thorin looks at his Drow weapons and decides that leaving everything behind is good. A good, fresh start. He shouts, “Nah, let’s take advantage of the distraction.”
 
 
-Grygum agrees. He remembers when some Giants’ prisoners tried to steal goods from them instead of escaping, and the prisoners made a good meal. 
+Gyrgum agrees. He remembers when some Giants’ prisoners tried to steal goods from them instead of escaping, and the prisoners made a good meal. 
 ![image]()
 Topsy and Turvy sigh and then transform into rats. 
 
@@ -61,10 +61,10 @@ With that, the prisoners decided that escaping now was the best option. So they 
 Although aware of a gray ooze, the creature is invisible until it strikes. And strikes it does, landing a pseudopod with a crushing blow on Thorin. 
 
 
-Above, the demons are fighting amongst themselves and the Drow. On the cavern floor, Grygum takes stock of the options. To the north is Menzoberranzan, a city full of Drow Cultists. Going south to Blingdenstone would require going through the pitched battle between Drow and Demons. He sees Topsy and Turvy transform back into gnomes and head down the passage that leads to the Darklake. 
+Above, the demons are fighting amongst themselves and the Drow. On the cavern floor, Gyrgum takes stock of the options. To the north is Menzoberranzan, a city full of Drow Cultists. Going south to Blingdenstone would require going through the pitched battle between Drow and Demons. He sees Topsy and Turvy transform back into gnomes and head down the passage that leads to the Darklake. 
 
 
-Grygum silently shares his thoughts with his friends and the other prisoners. They all agree, disengage from the ooze, and run towards the tunnel to the Darklake. 
+Gyrgum silently shares his thoughts with his friends and the other prisoners. They all agree, disengage from the ooze, and run towards the tunnel to the Darklake. 
 
 
 Even Thorin, tempted to smash the creature with his sword, decides it’s not worth it and rushes off. 
@@ -131,13 +131,13 @@ There is a moment of silence, and then they all agree.
 The group begins the long march through the darkness after the long rest. The tunnels alternate between pitch-pure darkness or lit with the surreal magic of the *Faerzress (*Fay-YERR-zess).
 
 
-As Grygum marched, he took note of his new friend. When he woke up, Stool, whom they had met as a fellow prisoner in Velkynvelve, was curled against him. When the orc tried to push him away, the myconid cried. 
+As Gyrgum marched, he took note of his new friend. When he woke up, Stool, whom they had met as a fellow prisoner in Velkynvelve, was curled against him. When the orc tried to push him away, the myconid cried. 
 
 
-Stool explained that he was lonely, scared, and terrified. He remembered Grygum's inspirational speech yesterday and knew Grygum would bring him home. He knew he wanted to be Grygum’s best friend. 
+Stool explained that he was lonely, scared, and terrified. He remembered Gyrgum's inspirational speech yesterday and knew Gyrgum would bring him home. He knew he wanted to be Gyrgum’s best friend. 
 
 
-Grygum stared at the creature. Although its behavior was different, he could tell when a child was looking for an adult figure to protect it. He sighed and told the creature that they could be friends. When stool extended his hand, Grygum took it. And so they marched. 
+Gyrgum stared at the creature. Although its behavior was different, he could tell when a child was looking for an adult figure to protect it. He sighed and told the creature that they could be friends. When stool extended his hand, Gyrgum took it. And so they marched. 
 
 
 But it wasn’t only altruism. Having a myconid would allow the group to surprise enemies using the telepathic powers Stool imbued his allies with. 
@@ -191,7 +191,7 @@ Buppido looks at him, funny.
 Once they have eaten, the group continues their journey into the dark. They arrive at a large cavern, and as they stretch their arms, a tremor can be felt. And then, before anyone can react, rocks fall. 
 
 
-Once the dust has settled, Zalthir looks around. Topsy, Buppido, Jimjar, Eldeth, Grygum, and Shuushar are trapped under the rocks. Grygum shouts that he’s fine, but Daz is silent.  
+Once the dust has settled, Zalthir looks around. Topsy, Buppido, Jimjar, Eldeth, Gyrgum, and Shuushar are trapped under the rocks. Gyrgum shouts that he’s fine, but Daz is silent.  
 
 
 Zalthir examines the mage and concludes that he’s unconscious. And will die if he doesn’t get him out in time.

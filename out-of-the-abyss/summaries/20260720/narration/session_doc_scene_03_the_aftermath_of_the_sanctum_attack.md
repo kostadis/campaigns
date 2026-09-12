@@ -12,23 +12,23 @@ Daral Yashenti was at the door, hammering, calling to be let out. He hadn't yet 
 
 "What do we do next, gentlemen?"
 
-I said nothing and watched him work it out. Grygum did the talking. Grygum usually does.
+I said nothing and watched him work it out. Gyrgum did the talking. Gyrgum usually does.
 
 "So we now suspect Fembris Lancer?"
 
-That was the name that mattered. Fembris Lancer saw the key pass from Grygum's hand to Daz's. He's the only witness. And a witness who watches the wrong thing at the wrong moment is either an accident or an asset, and I have stopped believing in accidents this deep underground.
+That was the name that mattered. Fembris Lancer saw the key pass from Gyrgum's hand to Daz's. He's the only witness. And a witness who watches the wrong thing at the wrong moment is either an accident or an asset, and I have stopped believing in accidents this deep underground.
 
-But it was the key itself that scratched at me. We'd checked it once. We'd looked for the magic on it and found nothing. Grygum was working the same thread out loud.
+But it was the key itself that scratched at me. We'd checked it once. We'd looked for the magic on it and found nothing. Gyrgum was working the same thread out loud.
 
 "You mean we tried to detect magic, and it didn't come out as magical? Makes me wonder if it's actually the right key."
 
 Then he remembered the phrasing. Kalan Strongbranch, when he handed it over — *I have given it now to someone who is not me.*
 
-"Someone who is not me. Yeah, that's a weird phrasing." Grygum turned it over. "And I guess it could be sort of a hot potato kind of thing. You know, bad things are coming to whoever is holding the key when something happens."
+"Someone who is not me. Yeah, that's a weird phrasing." Gyrgum turned it over. "And I guess it could be sort of a hot potato kind of thing. You know, bad things are coming to whoever is holding the key when something happens."
 
 A hot potato. He said it lightly. I did not find it light. A man who phrases a handoff like a riddle is a man building himself an alibi.
 
-Grygum held the key out to Daral. "Does this look like the right key? Does anything look odd about it? The key to the tower?"
+Gyrgum held the key out to Daral. "Does this look like the right key? Does anything look odd about it? The key to the tower?"
 
 Daral studied it, careful. "Well, I'm not a locksmith, so I couldn't tell you for sure."
 
@@ -38,7 +38,7 @@ Daral studied it, careful. "Well, I'm not a locksmith, so I couldn't tell you fo
 
 "But this key is not magical. Go ahead and examine it. Try to detect magic on it. We did not succeed."
 
-Daral had a scroll. Of course he had a scroll. A Candlekeep sage keeps one in a pocket the way I keep a spare cord coiled at my hip. He read it. The room lit up in the way that magic lights up when you finally look at it correctly: Dawnbringer flared, Grygum's armor blinked, and Daral himself glowed brighter than any of us, still soaked in the light Dawnbringer had poured into him.
+Daral had a scroll. Of course he had a scroll. A Candlekeep sage keeps one in a pocket the way I keep a spare cord coiled at my hip. He read it. The room lit up in the way that magic lights up when you finally look at it correctly: Dawnbringer flared, Gyrgum's armor blinked, and Daral himself glowed brighter than any of us, still soaked in the light Dawnbringer had poured into him.
 
 Everything in the room answered. Everything but the key.
 
@@ -54,9 +54,9 @@ Not the hour. A watcher's bell, tolling wrong: an alarm pattern, cold and instit
 
 "What does that mean?" Thorin asked.
 
-"Anybody needs to change the battery?" Grygum said.
+"Anybody needs to change the battery?" Gyrgum said.
 
-I said nothing. The Garden Shadow had a saying — or possibly Brother Quellin did — that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won. Somebody in this keep had already decided. The dead key in Grygum's hand and the bell going off in the same breath were not two events. Two things arriving together this deep down are never two things.
+I said nothing. The Garden Shadow had a saying — or possibly Brother Quellin did — that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won. Somebody in this keep had already decided. The dead key in Gyrgum's hand and the bell going off in the same breath were not two events. Two things arriving together this deep down are never two things.
 
 Someone rushed in through the ruined doorway.
 

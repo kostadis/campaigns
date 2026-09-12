@@ -2,9 +2,9 @@
 This segment covers the critical realization of the demonic threat within the Myconid Grove and the group's frantic, tactical flight toward Blingdenstone.
 ### **Key Events**
 - **Zuggtmoy's Wedding Rehearsal:** The party observes a rehearsal for a perverse wedding procession, realizing that **Zuggtmoy, the Demon Queen of Fungi**, intends to marry **Araumycos** (a massive sentient fungal growth).
-- **Decision to Flee:** Recognizing that they are not powerful enough to confront a demon lord, the party (led by Grygum/Ben) decides they must prioritize escape from the Underdark, focusing their efforts on reaching Blingdenstone to seek help from the surface world.
+- **Decision to Flee:** Recognizing that they are not powerful enough to confront a demon lord, the party (led by Gyrgum/Ben) decides they must prioritize escape from the Underdark, focusing their efforts on reaching Blingdenstone to seek help from the surface world.
 - **Demonic Visions and Madness:**
-  - Grygum (Ben) experiences a profound vision of Zuggtmoy's giant, fungal form being woven into a bridal gown.
+  - Gyrgum (Ben) experiences a profound vision of Zuggtmoy's giant, fungal form being woven into a bridal gown.
   - Daz (Mike) is momentarily afflicted by madness, screaming about impossible sights like Drow with dogs and Drow and Elves coexisting.
 - **Dawnbringer's Restoration:** After looting the fungal corpse of a Drow thrall, Zalthir (Gabe) exhibits a sudden, embarrassing compulsion to hoard the items. This temporary madness is cured when Dawnbringer, the sentient sword carried by Thorin (Joe), casts *lesser restoration*.
 - **Sovereign Rescue and Escape:**
@@ -24,7 +24,7 @@ This segment covers the critical realization of the demonic threat within the My
 - **Inner Circle of Sovereigns:** The location of the confrontation with the corrupted Sovereign Phylo and the dramatic escape.
 - **Darklake Tunnels (En Route to Blingdenstone):** The subterranean passages followed after leaving the Myconid Grove.
 ### **NPCs Met**
-- **Zuggtmoy (Demon Queen of Fungi):** Seen only in a divine vision experienced by Grygum (Ben).
+- **Zuggtmoy (Demon Queen of Fungi):** Seen only in a divine vision experienced by Gyrgum (Ben).
 - **Xinaya:** A Drow female agent sent by Ilvara (the former prison mistress) to capture the party. She was tragically corrupted by Zuggtmoy's spores in the Garden of Welcome, becoming a grotesque thrall before being mercy-killed.
 - **Basidia (Myconid Sovereign):** The uncorrupted co-Sovereign of Neverlight Grove who aids the party. They are rescued by Zalthir and provide aid and treasure before departing with their followers toward safety.
 - **Rusharoo (Myconid Explorer):** An uncorrupted Myconid who helps guide the party out of the Grove and offers half-distance navigation toward Blingdenstone.

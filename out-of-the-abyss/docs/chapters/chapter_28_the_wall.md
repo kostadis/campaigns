@@ -4,7 +4,7 @@
 
 Daz
 ![image]()
-Grygum and Thorin, after recovering their senses, to the extent that is possible for the dwarf, explained that they saw Zuggtmoy. And that she had made them an offer, an offer that Thorin refused. 
+Gyrgum and Thorin, after recovering their senses, to the extent that is possible for the dwarf, explained that they saw Zuggtmoy. And that she had made them an offer, an offer that Thorin refused. 
 
 
 “Good,” I said. Deals with demons are rarely pleasant. 
@@ -34,7 +34,7 @@ I notice behind him a poster that says, “The Ember Vanguard, wanted dead as lo
 A spelling mistake and a grammar mistake, so typical of the Duergar. 
 
 
-The picture of the Ember Vanguard, most certainly, doesn’t look like us. The drow wizard is an ancient Drow wizard. The golden dragonborne, Zalthir, is now red. As for Thorin, the likeness is flattering. And as for Grygum, they made him far more fierce than he really is.
+The picture of the Ember Vanguard, most certainly, doesn’t look like us. The drow wizard is an ancient Drow wizard. The golden dragonborne, Zalthir, is now red. As for Thorin, the likeness is flattering. And as for Gyrgum, they made him far more fierce than he really is.
 
 
 I look past the guard and stare at the wall. The walls are covered in a faint sheen of dust. On the walls, I can hear the sound of armor clanking and see the shadows of visible Duergar. 
@@ -43,10 +43,10 @@ I look past the guard and stare at the wall. The walls are covered in a faint sh
 This is no mere checkpoint. It’s a gauntlet where power, politics, and peril converge. One wrong step, and we will be trapped between a Duergar assault force, and the Derro looking to wage war on their oppressors. 
 
 
-The guard scrutinizes me, and the rest of our group, and declares, smugly, “You are a Drow.” Turning to Thorin, then Grygum he says, “You are a dwarf and you are an orc!” 
+The guard scrutinizes me, and the rest of our group, and declares, smugly, “You are a Drow.” Turning to Thorin, then Gyrgum he says, “You are a dwarf and you are an orc!” 
 
 
-Grygum turns to me and says, “He’s good at identifying species.” 
+Gyrgum turns to me and says, “He’s good at identifying species.” 
 
 
 And finally, he stops in front of Zalthir, “And you are not red.” 
@@ -68,7 +68,7 @@ The Duergar of this city seem to live under the misconception that the color of 
 I follow him into a passageway that is 10’ wide and 30’ long with 20’ side walls. At the far end of the passageway is a gate, and on the walls are more guards. I wonder how they could have assembled this so quickly, and remember that the Duergar are kin of the Dwarves, and magic can always help make the construction of walls go faster. 
 
 
-Grygum whispers to me, “There are at least five more invisible guards we can’t see in this hallway.” 
+Gyrgum whispers to me, “There are at least five more invisible guards we can’t see in this hallway.” 
 
 
 I nod. Grogluk’s defiant and proud demeanor is an act. He’s not alone. He just pretends to be.  
@@ -85,10 +85,10 @@ It’s a familiar token of the Underdark, a clenched fist that expresses loyalty
 The Duergar looks at him, “Yes, I do. And are you the Ember Vanguard or are you its prey?” 
 
 
-Grygum looks confused and says, “I don’t know who these guys are, and given how fearsome they look, we would like to get back into town as quickly as possible.” 
+Gyrgum looks confused and says, “I don’t know who these guys are, and given how fearsome they look, we would like to get back into town as quickly as possible.” 
 
 
-Grogluk lip curls and asks the rest of the group, who all follow Grygum’s lead, acting very confused. 
+Grogluk lip curls and asks the rest of the group, who all follow Gyrgum’s lead, acting very confused. 
 
 
 Disgusted, he looks at us and shouts, “Turn back. No one shall enter the city of the Deepking.” 
@@ -104,7 +104,7 @@ Daz whispers to me, “I have seen so many guards of despotic rulers living amon
 
 
 Before I can react, Grogluk smiles, his curled lips forming a sneer with the scar on his face that stretches across his body, “If you are innocent, lay down your weapons and magic items for inspection or speak the secret message of the stone guard.” 
-### Grygum
+### Gyrgum
 
 
 Remembering a simple salute is no challenge for a cleric of Bahamut. The seventeen steps of the night prayer to the Platinum God are more challenging than this simple ritual. 
@@ -211,7 +211,7 @@ When I knock on his door, he looks surprised.
 “You have the egg?” 
 
 
-Grygum steps forward and announces, “Yes, we have the egg and it is glorious!” 
+Gyrgum steps forward and announces, “Yes, we have the egg and it is glorious!” 
 
 
 Gartokkar's eyes light up, and I become worried about his expectations, “We’ll give you the egg as we found it, but we make no promises about the viability of the egg. We rescued it from a mysterious ritual.” 
@@ -220,10 +220,10 @@ Gartokkar's eyes light up, and I become worried about his expectations, “We’
 The Duergar takes the egg and notices the strange occult markings. He is worried. 
 
 
-Before I can reassure him further, he turns to Grygum and asks him as a cleric of Bahamut, “What do you think?”
+Before I can reassure him further, he turns to Gyrgum and asks him as a cleric of Bahamut, “What do you think?”
 
 
-Grygum finds the tiresome confusion among the masses that the evil of dragons is a function of scale pigmentation to be very annoying, but sometimes it can be handy. “I am a cleric of the Platinum Dragon. I know much about metallic dragons. But this is a chromatic dragon, and I know very little other than it will become evil.” 
+Gyrgum finds the tiresome confusion among the masses that the evil of dragons is a function of scale pigmentation to be very annoying, but sometimes it can be handy. “I am a cleric of the Platinum Dragon. I know much about metallic dragons. But this is a chromatic dragon, and I know very little other than it will become evil.” 
 
 
 Gartokkar is pleased. 

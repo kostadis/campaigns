@@ -36,17 +36,17 @@
 **GM (narrating)** — *On examining the sealed wax pouch found on Asha Vandree*
 > "It's basically a long theological exploration of why Zuggtmoy and Lolth — and claiming that Lolth and Zuggtmoy are the same thing. It's very tedious and boring."
 
-**Ben Pfaff (as Grygum)** — *Drily assessing whether the document predates Asha's madness*
+**Ben Pfaff (as Gyrgum)** — *Drily assessing whether the document predates Asha's madness*
 > "Is this pre-craziness or post-craziness, do you think?"
 
 **GM:** "Post-craziness."
 
-**Ben Pfaff (as Grygum):**
+**Ben Pfaff (as Gyrgum):**
 > "Because I've seen some non-crazy people who can write some pretty boring stuff, too."
 
 ---
 
-**Ben Pfaff (as Grygum)** — *On the Living Serpent Head Scourge found on Ilvara*
+**Ben Pfaff (as Gyrgum)** — *On the Living Serpent Head Scourge found on Ilvara*
 > "The Living Serpent Head Scourge sounds… it sounds like a great museum piece."
 
 **Mike Hall (as Thorin):**
@@ -110,7 +110,7 @@
 **Joe Beda (as Thorin)** — *On what to do with the party's newfound wealth, briefly entertaining the idea of becoming investors*
 > "So, are we gonna just become a frickin' sort of private equity firm that does some adventuring on the side?"
 
-**Ben Pfaff (as Grygum):**
+**Ben Pfaff (as Gyrgum):**
 > "Well, when I say investments, in this case, I mean buy some stuff to help us in our adventures."
 
 **Joe Beda (as Thorin):**
@@ -121,5 +121,5 @@
 **Mike Hall (as Daz)** — *On Ezra, the quest giver whose career has been made by the party's rapid rise*
 > "There's that whole consultancy firm that Ezra started 100 years ago or so, that is doing pretty well, you know."
 
-**Ben Pfaff (as Grygum)** — *Ruefully recognizing the reversal of who was exploiting whom*
+**Ben Pfaff (as Gyrgum)** — *Ruefully recognizing the reversal of who was exploiting whom*
 > "But the whole time, we thought we were exploiting him."

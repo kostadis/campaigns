@@ -5,7 +5,7 @@
 - Asha cycled through suspicion, reframing Daz's performance as a divine test she passed, and questioning whether the party was spore-infected — but ultimately accepted them as allies against Ilvara.
 - Asha agreed to an alliance: the party kills Ilvara and destroys the mushroom artifact (Heart Fungus), and in return receives everything Ilvara has accumulated.
 - Asha revealed critical intelligence: the Heart Fungus itself does not cause fungal disease (only poisoning/pain/breathing difficulties); the specific spore illness originates only from Ilvara's spores and her mushroom token. She qualified this with "I believe."
-- Asha confirmed that Thorin and Grygum specifically should not get near the Heart Fungus due to contamination picked up in the Whorlstone Tunnels (pocket dimension visit in Gracklstugh).
+- Asha confirmed that Thorin and Gyrgum specifically should not get near the Heart Fungus due to contamination picked up in the Whorlstone Tunnels (pocket dimension visit in Gracklstugh).
 - Asha confirmed only three people in her group were not captured by Ilvara's spores: herself (through faith to Lolth), Jorlan (through hatred of Ilvara), and herself again. The spore servants are former drow party members who embraced the spores.
 - Glabbagool was successfully passed off as Daz's "ooze familiar," which impressed Asha.
 - The party chose to ally with Asha over Jorlan.
@@ -15,11 +15,11 @@
   - Zalthir teleported to Ilvara's elevated platform, struck her for 31 damage with fists, but she melted into the fungus and reformed elsewhere in the cavern (she can phase through fungal matter).
   - Heart Fungus unleashed spore cloud hitting Zalthir, forcing him to climb 10 feet to escape.
   - Four spore servants (former Velkynvelve guards) emerged from the ground.
-  - Thorin taunted Jorlan onto the bridge, triggering Grygum's Glyph of Warding — 21 damage, destroying one spore servant, nearly destroying another, and damaging the Heart Fungus.
+  - Thorin taunted Jorlan onto the bridge, triggering Gyrgum's Glyph of Warding — 21 damage, destroying one spore servant, nearly destroying another, and damaging the Heart Fungus.
   - Thorin struck Jorlan with Dawnbringer for 14 damage with Sap (disadvantage applied), missed second attack. A spore walker hit Thorin for 5 damage.
-  - Grygum cast Dust of Suleiman on the Heart Fungus (20 force damage per turn, ongoing).
+  - Gyrgum cast Dust of Suleiman on the Heart Fungus (20 force damage per turn, ongoing).
   - Daz cast Fireball shaped to avoid allies, hitting Ilvara and her mushroom icon for 24 fire damage (she saved but still took damage). The mushroom icon is smoldering.
-  - Grygum used his one 4th-level slot on Dust of Suleiman (not Phantasmal Killer or Glyph of Warding — the Glyph was cast earlier during prep).
+  - Gyrgum used his one 4th-level slot on Dust of Suleiman (not Phantasmal Killer or Glyph of Warding — the Glyph was cast earlier during prep).
 
 ## NPC State Changes
 
@@ -41,8 +41,8 @@
 
 - Gained alliance with Asha Vandree against Ilvara at Neverlight Grove.
 - Obtained intelligence about Ilvara's fungal corruption mechanics: spore illness originates from Ilvara specifically and her mushroom token; the Heart Fungus causes only poisoning/pain, not the specific fungal disease.
-- Learned that Thorin and Grygum have residual contamination from the Whorlstone Tunnels pocket dimension that makes the Heart Fungus more dangerous to them specifically.
-- Grygum lent his light crossbow to Thorin for the battle.
+- Learned that Thorin and Gyrgum have residual contamination from the Whorlstone Tunnels pocket dimension that makes the Heart Fungus more dangerous to them specifically.
+- Gyrgum lent his light crossbow to Thorin for the battle.
 
 ## Party Current Situation
 
@@ -65,7 +65,7 @@
 
 - **Glabbagool — sentient gelatinous cube, first contact:** Glabbagool is present with the party at Neverlight Grove. He was passed off as Daz's familiar to Asha. He has difficulty being stealthy (talks when supposed to be silent, opens eyes when supposed to be still).
 
-- **Whorlstone Tunnels — beneath Gracklstugh:** Referenced — Thorin and Grygum visited a pocket dimension in the Whorlstone Tunnels, which left contamination on them making the Heart Fungus more dangerous to them specifically.
+- **Whorlstone Tunnels — beneath Gracklstugh:** Referenced — Thorin and Gyrgum visited a pocket dimension in the Whorlstone Tunnels, which left contamination on them making the Heart Fungus more dangerous to them specifically.
 
 - **Sovereign Phylo — myconid sovereign, corrupted by Zuggtmoy:** Not directly mentioned but the "bride heresy" and Zuggtmoy's corruption at Neverlight Grove is the broader context.
 

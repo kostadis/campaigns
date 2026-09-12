@@ -22,10 +22,10 @@
 
 ### [3] Convergence with house style — "the particular way he gets"
 
-> Grygum was quiet in the particular way he gets when something is settling into a larger pattern he's been building.
+> Gyrgum was quiet in the particular way he gets when something is settling into a larger pattern he's been building.
 
-**Why:** This is the doc's recurring "with the particular X of Y who Z" template — it shows up in three other scenes. Thorin doesn't usually narrate other characters' interior states with this much polish; per the spec, he writes about *moves people make*, not about their inner cataloguing. This is also Grygum's job to describe, not Thorin's.
-**Suggested rewrite:** *Grygum was quiet. Not the usual quiet. The kind where he's adding something to the list.*
+**Why:** This is the doc's recurring "with the particular X of Y who Z" template — it shows up in three other scenes. Thorin doesn't usually narrate other characters' interior states with this much polish; per the spec, he writes about *moves people make*, not about their inner cataloguing. This is also Gyrgum's job to describe, not Thorin's.
+**Suggested rewrite:** *Gyrgum was quiet. Not the usual quiet. The kind where he's adding something to the list.*
 
 ### [4] Convergence with Daz's sardonic-observer register
 

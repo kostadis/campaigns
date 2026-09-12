@@ -3,9 +3,9 @@
 Date: Jun 1st, 2026
 
 ## Summary
-The party gathered in the chamber of Janussi, the Keeper of the Tome, to investigate his murder. They found his body lying on its back, his rib cage smashed by what appeared to be an axe, and his heart grotesquely removed from his chest. The blood, however, was strangely localized around the wound — far too contained for a living man — leading the party to conclude that the heart had been torn out after death, almost certainly to prevent anyone from resurrecting him through magical means. As Grygum observed, whoever removed the heart was not in a rush and was not trying to kill anyone — they were methodically desecrating a corpse that was already still.
+The party gathered in the chamber of Janussi, the Keeper of the Tome, to investigate his murder. They found his body lying on its back, his rib cage smashed by what appeared to be an axe, and his heart grotesquely removed from his chest. The blood, however, was strangely localized around the wound — far too contained for a living man — leading the party to conclude that the heart had been torn out after death, almost certainly to prevent anyone from resurrecting him through magical means. As Gyrgum observed, whoever removed the heart was not in a rush and was not trying to kill anyone — they were methodically desecrating a corpse that was already still.
 
-Daz conducted a meticulous examination of the body, uncovering clotted blood beneath the victim's nose and smeared ink stains along the right sleeve of his tunic. More troubling still was a dark, blackened substance found on the tip of Janussi's left forefinger, his lower lip, and his tongue — a residue distinctly darker than the midnight blue ink he used for his scholarly notes. The party theorized he had been licking his finger to turn pages while reading, inadvertently ingesting whatever poison had been applied to the book. Grygum further noted that Janussi's nose had been fractured and bruised before his death — bruising cannot occur after the heart stops — placing a violent altercation somewhere in the hours between dinner and the actual killing. Glabbagool, the party's intelligent grey ooze companion, was called upon to apply his Underdark experience with strange substances to identify the black residue, but even with the party's encouragement he was unable to determine its nature with certainty.
+Daz conducted a meticulous examination of the body, uncovering clotted blood beneath the victim's nose and smeared ink stains along the right sleeve of his tunic. More troubling still was a dark, blackened substance found on the tip of Janussi's left forefinger, his lower lip, and his tongue — a residue distinctly darker than the midnight blue ink he used for his scholarly notes. The party theorized he had been licking his finger to turn pages while reading, inadvertently ingesting whatever poison had been applied to the book. Gyrgum further noted that Janussi's nose had been fractured and bruised before his death — bruising cannot occur after the heart stops — placing a violent altercation somewhere in the hours between dinner and the actual killing. Glabbagool, the party's intelligent grey ooze companion, was called upon to apply his Underdark experience with strange substances to identify the black residue, but even with the party's encouragement he was unable to determine its nature with certainty.
 
 The chamber itself yielded a wealth of additional clues. A chipped piece of tooth was found a few feet from the body, suggesting Janussi had fallen face-first upon death before being rolled over by whoever removed his heart. Three roughly circular impact wounds had torn through the back of an armchair, scattering its horsehair stuffing — the unmistakable signature of magic missiles fired in anger. A wall-mounted safe had been left open, its contents partially disturbed: one sapphire and one scrap of parchment were missing from among the spell component pouches, yet an enormous fortune in diamonds, platinum, gold, a raven figurine of wondrous power, a potion of supreme healing, and a potion of water breathing had been left completely untouched. Beneath the victim's neck lay broken lead-chain links, the remnants of a locket that had been forcibly torn away. The windows and doors of the chamber showed no signs of damage or forced entry.
 
@@ -40,13 +40,13 @@ With the interviews concluded, the shape of the mystery had grown clearer — an
 
 *The cat dismissing the party after their interrogation, having judged their hygiene standards wanting. She had earlier observed: "It's clear that you hardly ever lick yourselves at all. I've met cleaner dogs in my time."*
 
-**Grygum deduces that Janussi's nose was broken before he died — bruising cannot occur post-mortem — meaning someone assaulted him earlier in the evening before the actual murder. The party confirmed this was within the evening timeframe, as they had seen him earlier without a smashed nose.**
+**Gyrgum deduces that Janussi's nose was broken before he died — bruising cannot occur post-mortem — meaning someone assaulted him earlier in the evening before the actual murder. The party confirmed this was within the evening timeframe, as they had seen him earlier without a smashed nose.**
 
 *A sharp medicine check (rolling 18) turns a seemingly minor detail into a key piece of the timeline, narrowing the window of the attack to between dinner and midnight*
 
 **The party discovers that whoever entered the chamber left behind a fortune — including 5 large diamonds worth 5,000 GP each, a bag of 1,000 platinum pieces, a bag of 1,000 gold pieces, a raven figurine of wondrous power, a potion of supreme healing, and a potion of water breathing — but stole only a single sapphire, a parchment, and a locket.**
 
-*Opening the safe reveals the killer's true intent was something far more specific and arcane than simple theft. As Grygum observed: "That can eliminate some former adventurers."*
+*Opening the safe reveals the killer's true intent was something far more specific and arcane than simple theft. As Gyrgum observed: "That can eliminate some former adventurers."*
 
 **Thorin asks if he can shake the candle held by the fallen marble statue, causing Tadric to spend the rest of the scene nervously watching the statue. Thorin's justification — "I don't want it to wake up and attack us. I've had bad experiences" — only deepened Tadric's anxiety.**
 
@@ -63,9 +63,9 @@ With the interviews concluded, the shape of the mystery had grown clearer — an
 #### The party examines the remains of the Keeper of the Tome, Janussi, to uncover the circumstances of his death.
 - The DM opens the session by recapping the facts discovered so far, having prepared a detailed Murder Investigation Tracker document to help the party keep track of clues across sessions.
 - The party discovers the Keeper's heart was removed after death, likely to prevent resurrection via Raise Dead. As the DM explained, anyone knowledgeable about resurrection magic knows to steal the heart — it is not an obscure technique.
-- Grygum notes the victim's rib cage was smashed by an axe-like weapon, though the blood splatter is strangely localized, suggesting the heart was removed after death when there was no longer blood pressure to send spurts across the room.
+- Gyrgum notes the victim's rib cage was smashed by an axe-like weapon, though the blood splatter is strangely localized, suggesting the heart was removed after death when there was no longer blood pressure to send spurts across the room.
 - The DM notes that whoever removed the heart "was not in a rush" and "wasn't trying to kill somebody, but was dealing with a corpse."
-- Grygum observes the victim also has a fractured and bruised nose — an injury that stands out sharply because keepers in a library do not typically get into fights.
+- Gyrgum observes the victim also has a fractured and bruised nose — an injury that stands out sharply because keepers in a library do not typically get into fights.
 - The party rolls investigation checks. Ben rolls a 5, Gabe rolls a 2, but Daz rolls a 22, becoming the lead investigator for the body examination.
 - The DM awards Daz an Inspiration point for his in-character reference to Milo's Murder Mystery as research background.
 - Daz finds clotted blood under the victim's nose and smeared bloodstains on the right sleeve of his tunic, consistent with recent note-taking.
@@ -78,7 +78,7 @@ With the interviews concluded, the shape of the mystery had grown clearer — an
 ### Forensic Investigation of the Keeper's Chamber
 #### The party conducts a detailed forensic examination of the crime scene, uncovering clues about the victim's final moments and the nature of the attack.
 - The party discovers a blackened substance on the victim's tongue and a recently chipped front tooth; the chipped piece is found a few feet from his face using Locate Object, suggesting he fell forward upon death.
-- Grygum rolls an 18 on a medicine check and confirms the victim's nose was fractured and bruised prior to death — bruising does not occur post-mortem, which Gabe explicitly raises as the logical basis for this deduction.
+- Gyrgum rolls an 18 on a medicine check and confirms the victim's nose was fractured and bruised prior to death — bruising does not occur post-mortem, which Gabe explicitly raises as the logical basis for this deduction.
 - The party deduces that the victim fell face-first, chipping his tooth, and was then rolled over by whoever removed his heart: "He fell down from… died, landed on his face, chipped his tooth, and then someone came in and rolled him over and removed his heart."
 - The party establishes a time window: they had seen Janussi earlier in the evening without a smashed nose, so the assault and death happened between dinner and midnight.
 - Investigators find broken lead-chain links and an impression on the victim's neck, suggesting a locket or necklace was forcibly removed.
@@ -95,7 +95,7 @@ With the interviews concluded, the shape of the mystery had grown clearer — an
 - The party discovers Janussi was taking notes in blue ink on two texts: The Discoveries, a spellbook containing musings on unfamiliar spells, and The Golden Ass, a comedic book from which Janussi had been recording jokes he found funny.
 - The DM notes that The Discoveries contains literal in-world product placement linking to the module author's other adventures.
 - The notes on The Discoveries were written after the notes on The Golden Ass, making the spell research the last thing Janussi was working on before his death.
-- Grygum confirms that the black substance found on the victim's fingers and mouth is definitively not the blue ink used for his notes — a distinction the DM says is "definitively determined" by Grygum.
+- Gyrgum confirms that the black substance found on the victim's fingers and mouth is definitively not the blue ink used for his notes — a distinction the DM says is "definitively determined" by Gyrgum.
 - The party realizes The Golden Ass is missing from the room despite Janussi's notes confirming it was recently in his hands: "Something happened in the middle of that, and that book disappeared. And it all happened last night."
 - Joe theorizes that the book might be the key to a cipher or code, or that something was written inside it that was not part of the original text. The DM acknowledges everything is possible but signals the party needs more information.
 - A gift tag written in a cramped, sour hand is found in the wastebasket: "To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival."
@@ -103,7 +103,7 @@ With the interviews concluded, the shape of the mystery had grown clearer — an
 
 ### The Rivalry Revealed
 #### The party questions their assistant Fembris Lancer about Janussi's professional enemies and learns of a long-standing feud.
-- As the party prepares to leave the chamber, Fembris presses them eagerly for information. Grygum tells him their findings are a secret.
+- As the party prepares to leave the chamber, Fembris presses them eagerly for information. Gyrgum tells him their findings are a secret.
 - Fembris volunteers to help, noting he knows everything about Candlekeep.
 - The party asks about Janussi's rivals. Fembris immediately names Daral Yashenti: "Those two have been at each other's throats for years. He's the one who called you sell swords."
 - The party notes that Daral's prior dismissal of them as sell swords gives him an additional reason to dislike the investigation.
@@ -122,7 +122,7 @@ With the interviews concluded, the shape of the mystery had grown clearer — an
 - She describes the violent confrontation with Sylvira Savikas — "that devil woman! She gives me the heebie-jeebies!" — during which Sylvira screamed that Janussi was "a traitor" and the two seemed to act violently before Sylvira "nearly took the door off its hinges when she left."
 - The DM clarifies that "devil woman" is not an epithet but a professional description: Sylvira studies demons and devils.
 - Daral returned late at night, "drunk as a skunk," pounding on the door until admitted, then having another loud argument before "I'd never seen him run away so fast."
-- Hollypocket reports hearing a loud thud from above shortly after the midnight bells and concludes in response to Grygum's question that it was Janussi dying — she had been awake until 11pm as usual and heard him making normal noises until she went to sleep, then was woken by the thud.
+- Hollypocket reports hearing a loud thud from above shortly after the midnight bells and concludes in response to Gyrgum's question that it was Janussi dying — she had been awake until 11pm as usual and heard him making normal noises until she went to sleep, then was woken by the thud.
 - She did not investigate because Janussi "doesn't like to be disturbed after 11pm."
 - Thorin prompts her to clarify, and she tearfully confirms she believes the thud was Janussi falling. Several party members roll persuasion checks to calm her down; Thorin's roll is described as "very much on brand" for his character.
 - She reveals that around 2 or 3 in the morning, she saw what appeared to be Sylvira's face "glowing red in the candlelight" — there for an instant, then gone.

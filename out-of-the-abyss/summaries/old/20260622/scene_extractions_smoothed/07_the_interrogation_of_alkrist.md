@@ -10,7 +10,7 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 
 #### Kalan Strongbranch, hidden outside the room, Thorin and Zalthir alone interview Alkrist. Under the influence of a zone of truth cast by Kalan Strongbranch, Alkrist is compelled to reveal his full involvement in the plot against Janussi. Alkrist routinely struggles to lie. And shows increasing frustration as he tries to lie and then is forced to say the truth.
 
-*(Note: [Grygum]-tagged lines appear in the verbatim below despite Grygum not being physically present in the room — confirmed as questions/prompts relayed through Thorin and Zalthir rather than an in-fiction presence. Canon has only Thorin and Zalthir in the room with Alkrist.)*
+*(Note: [Gyrgum]-tagged lines appear in the verbatim below despite Gyrgum not being physically present in the room — confirmed as questions/prompts relayed through Thorin and Zalthir rather than an in-fiction presence. Canon has only Thorin and Zalthir in the room with Alkrist.)*
 - Alkrist greets the party with an elaborate performance of grief, claiming "I had a fantastic, superb relationship with the man" and thanking them for stepping in. He misses Thorin's snark about working "for the right remuneration" and takes it as sincere.
 - Kalan Strongbranch casts a zone of truth (which the party kept confusing with a "cone of silence," prompting a *Get Smart* tangent), and Alkrist fails his saving throw, rendering him unable to lie.
 - Alkrist reveals that on the day of the murder, he spoke first with Bookwyrm — his "beloved aunt" — who was distraught that Janussi planned to name A'lai as his successor rather than her.
@@ -32,7 +32,7 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 
 **[scene tag — Alkrist Arrives for Interrogation]**
 - Alkrist shows up in Janussi's chambers where Kalan Strongbranch has arrived; described as a 33-year-old male bronze Dragonborn, styled by the GM as a "Dragonborn TechBro."
-- The party debates his look — Grygum imagines "glasses with the lanyard," the GM and Grygum land on "jeans and black turtleneck" with "the very latest" device.
+- The party debates his look — Gyrgum imagines "glasses with the lanyard," the GM and Gyrgum land on "jeans and black turtleneck" with "the very latest" device.
 
 **[Alkrist]** — *greeting the party with performed grief*
 > Before I begin, let me just say a few things. I was a big fan of Janussi — his leadership quality, and, let's be clear, I had a fantastic, superb relationship with the man. I want you to know I will miss him deeply and profoundly. His passing was a loss and a tragedy, and I cannot begin to express my gratitude for your willingness to step into this difficult time to find the criminal element.
@@ -50,7 +50,7 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[GM]** — *Alkrist takes it at face value*
 > He misses the snark in that — thinks you're being serious. He's pleased.
 
-**[Grygum]**
+**[Gyrgum]**
 > "That's the intent, right?"
 
 **[Thorin]** — *laying out the lines of inquiry*
@@ -65,7 +65,7 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[Thorin]** — *opening the timeline*
 > But let's start with — I'd like to go over the timeline. Can you tell me what happened at the feast that night? What was your participation? When did you leave? Where did you go? Let's establish the who and the where, during the evening.
 
-**[Grygum]**
+**[Gyrgum]**
 > "Don't leave anything out."
 
 **[Thorin]**
@@ -77,13 +77,13 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[Thorin]**
 > "Is that, like, the tone of silence?"
 
-**[Grygum]**
+**[Gyrgum]**
 > "It's the cone of truth."
 
 **[Thorin]**
 > "The cone of truth? Why do they always call it the Cone of Silence? Is it like — from a point? Is it like this?"
 
-**[Grygum]** — *Get Smart reference*
+**[Gyrgum]** — *Get Smart reference*
 > "If you've ever watched Get Smart — I believe they actually had a cone in that, huh?"
 
 **[Thorin]**
@@ -136,7 +136,7 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[GM]**
 > "She was upset about this! She's the right person to be the head— she's the right person."
 
-**[Grygum]**
+**[Gyrgum]**
 > "And what's going to happen to the succession now that Janussi's dead?"
 
 **[GM]**
@@ -148,13 +148,13 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[GM]**
 > "No, she was distraught and upset. She felt that it was her turn, and that Janussi betrayed her— she's my beloved aunt!" *(You can see him scratching himself, trying to stop talking.)*
 
-**[Grygum]**
+**[Gyrgum]**
 > "And how do you think the vote's going to go?"
 
 **[GM]**
 > "Well— I think everyone will vote for A'lai."
 
-**[Grygum]**
+**[Gyrgum]**
 > "So— do you think Janussi's death won't actually change anything?"
 
 **[GM]**
@@ -163,19 +163,19 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[Thorin]**
 > "Very hap— wait, really?"
 
-**[Grygum]**
+**[Gyrgum]**
 > "You sounded upset a moment ago that it wasn't going to be Bookwyrm."
 
 **[GM]**
 > "Boy, she's my beloved aunt!"
 
-**[Grygum]**
+**[Gyrgum]**
 > "You don't think she's the best suited for the role?"
 
 **[GM]**
 > "Under normal circumstances, yes, but a lie is the better choice now."
 
-**[Grygum]**
+**[Gyrgum]**
 > "What changed?"
 
 **[GM]**
@@ -217,20 +217,20 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[Thorin]**
 > "That must be difficult to hear."
 
-**[Grygum]**
+**[Gyrgum]**
 > "That he was unhappy with your work?"
 
 **[GM]**
 > "Yes — he said my research into germ warfare was dangerous, and I should focus on other projects."
 
-**[Grygum]**
+**[Gyrgum]**
 > "And how has the peer review come out on your work?"
 > "Have you been getting into good conferences and journals?"
 
 **[GM]** — *Alkrist defending his research*
 > He very excitedly explains: his research is highly valued and respected in the field. It's game-changing. And he says: this is not about killing people — this is about understanding the process of using germs to cause death and destruction, so that we can heal people.
 
-**[Grygum]**
+**[Gyrgum]**
 > "I feel like I ought to pursue that, but there's no evidence that germs were involved here, so…"
 
 **[scene tag — The baths meeting with A'lai]**
@@ -315,7 +315,7 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[GM]** — *Alkrist panicking*
 > Alkrist: "Oh, yes, that's the part, [inaudible — possibly "that's it" or "that's the spot"; VTT: "that's support"]! Don't look, don't look, don't look!" *(And so he breaks down.)*
 
-**[Grygum]**
+**[Gyrgum]**
 > "Yeah, does it naturally fall open to a particular place?"
 
 **[Zalthir]**
@@ -327,7 +327,7 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[Zalthir]**
 > "Very good. So, how did you help in this plot, then? Talk us through the mechanics."
 
-**[Grygum]**
+**[Gyrgum]**
 > "I start my recording spell."
 
 **[scene tag — The poisoning, dramatized]**
@@ -335,7 +335,7 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[GM]** — *Alkrist describing the poisoning*
 > Alkrist: "Well— I'll lie—" *(catches himself)* "—I went to the Oak Tree Apothecary, and I stole a vial from a top shelf. In doing so, I spilled ground peppermint on the counter floor."
 
-**[Grygum]**
+**[Gyrgum]**
 > "This is the part of the movie where they show what really happened."
 
 **[GM]**
@@ -347,13 +347,13 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[GM]**
 > Alkrist: "I didn't actually kill him. I just put some poison on a book."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Accessory before the fact. I note this."
 
 **[GM]** — *Alkrist trying to escape the truth*
 > Alkrist: "Furthermore, this is all under duress. I believe I am being entrapped. Yes, I am being entrapped. None of this will stand. Bookwyrm will reject these accus— I will defend myself and say that this was all— you have no evidence, but my—"
 
-**[Grygum]**
+**[Gyrgum]**
 > "Entrapment is when someone tricks you into doing something. We're merely asking questions."
 
 **[GM]**
@@ -365,7 +365,7 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[GM]**
 > Alkrist: "Yes, I'm under mind control right now. All of these things I've said — they're so true, and yet so—"
 
-**[Grygum]**
+**[Gyrgum]**
 > "Well, if they're true, then that's no problem, is it?"
 
 **[scene tag — Bookwyrm's involvement extracted]**
@@ -376,7 +376,7 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[GM]**
 > Alkrist: "Oh, that little— my aunt. Oh, she was so annoying."
 
-**[Grygum]**
+**[Gyrgum]**
 > "What did you do?"
 
 **[GM]** — *the midnight visit*
@@ -388,7 +388,7 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[GM]**
 > Alkrist: "All of our problems were solved! What I said was that he was poisoned."
 
-**[Grygum]**
+**[Gyrgum]**
 > "You had poisoned him."
 
 **[Zalthir]**
@@ -417,7 +417,7 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 
 **[scene tag — The heart revelation]**
 
-**[Grygum]**
+**[Gyrgum]**
 > "Okay, and at what point did you go rip out Janussi's heart?"
 
 **[Zalthir]**
@@ -467,7 +467,7 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[GM]**
 > "Yeah, you're thinking: let me get this straight — you're the great keeper of this library, surrounded by all these very powerful lizards who have all sorts of extravagant ways to get rid of you."
 
-**[Grygum]**
+**[Gyrgum]**
 > "Well, it's clear he may have high intelligence, but not high wisdom."
 
 **[GM]**
@@ -482,5 +482,5 @@ from: ../scene_extractions_new/07_the_interrogation_of_alkrist.md
 **[Thorin]**
 > "Definitely helped put a bow on it. But we probably would have gotten there anyway — they all were looking pretty guilty."
 
-**[Grygum]**
+**[Gyrgum]**
 > "It turns out they were all guilty, yes."

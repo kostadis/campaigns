@@ -38,7 +38,7 @@ The monk looks around. The upper levels of the mesa are covered in blood and the
 He looks to where the egg should be. There is no egg. There are two dead derro. 
 
 
-Grygum shouts, “Where is the egg?” 
+Gyrgum shouts, “Where is the egg?” 
 
 
 Then Daz shouts back, “I have it.” 
@@ -50,7 +50,7 @@ Zalthir jumps off the mesa and heads to an alcove in the northeast corner. There
 “Leemooggoogoon, Demogorgon, two-headed baby dragons - …” he thinks to himself.
 
 
-While Daz and Pelek exchange pleasantries, and Grygum searches the bodies he heads to the northwest corner where there is a desk with some papers. 
+While Daz and Pelek exchange pleasantries, and Gyrgum searches the bodies he heads to the northwest corner where there is a desk with some papers. 
 
 
 He finds a journal by Plinki. 
@@ -66,7 +66,7 @@ The Obelisk. Such a magnificent, fractured thing! Hidden here by Diirinka himsel
 **Day 25 – The Prince's Gift Arrives**
 The Gray Ghosts delivered it! The Red Dragon Egg! What a marvel! The Keepers are in a panic over its loss, but they don't understand the true glory that awaits this "replacement". This is no mere insurance policy; it is the vessel for my greatest creation, a gift worthy of Demogorgon himself. The Deep King will be "delighted" when he sees it, though he knows nothing yet of its true destiny. My work begins at once. The notes are spread, the circles drawn.
 **Day 38 – Mutagenic Progress!**
-The experiments are progressing gloriously! The egg pulses with new life, and my notes confirm my suspicions: the mutations are taking hold. I've surrounded it with the finest reagents: hair, scales, fungi from the tunnels, and... other, more precious viscera. My goal is clear, a two-headed wyrmling, a perfect "Prince's gift" for Demogorgon, to serve as his mount. Grygum, the cleric of Bahamut, spoke of "freedom of choice" for dragons, but what he doesn't understand is that true choice lies in serving the Prince of Demons. The transformation will make it *perfect*.
+The experiments are progressing gloriously! The egg pulses with new life, and my notes confirm my suspicions: the mutations are taking hold. I've surrounded it with the finest reagents: hair, scales, fungi from the tunnels, and... other, more precious viscera. My goal is clear, a two-headed wyrmling, a perfect "Prince's gift" for Demogorgon, to serve as his mount. Gyrgum, the cleric of Bahamut, spoke of "freedom of choice" for dragons, but what he doesn't understand is that true choice lies in serving the Prince of Demons. The transformation will make it *perfect*.
 **Day 47 – The Obelisk Responds**
 I returned to the Obelisk today, feeling the madness and corruption of the city seep into my very being. The constant war between the Keepers and the Council, Gartokkar's paranoia, Errde's "conspiracy theories" – it's all part of the spiral. I pressed my hand to the Obelisk again, channeling the energy of the Whorlstone Tunnels into its fractures. It didn't just flash this time; the very air around it flared! It hungers for more power, more chaos! This monolith will be the instrument of our ascension, allowing us to conquer Gracklstugh and deliver it as a sacrificial gift to Demogorgon.
 **Day 54 – Anticipation and Destiny**
@@ -111,10 +111,10 @@ Zalthir knows he has enough to condemn the Derro and Duergar to a genocidal war 
 
 
 “But is that the right thing to do?” he wonders. 
-### Grygum 
+### Gyrgum 
 
 
-Grygum reads what Zalthir has found and is disturbed. And the egg disturbs him further. As he sits there, he remembers some text from the temple where he learned of the power of Bahamut - 
+Gyrgum reads what Zalthir has found and is disturbed. And the egg disturbs him further. As he sits there, he remembers some text from the temple where he learned of the power of Bahamut - 
 
 
 *"When the egg, crimson-hued, promises but a shadow's ride, does one mend the shell, or seek to free the spark within? The true wyrm's form is not etched by fate's first breath, nor by sorcerous hand. It is the choices that twist the spirit, or set it soaring. To break the chains of another's dark design, even when madness fuels the crafting, is to affirm the very freedom Bahamut cherishes.” *
@@ -138,7 +138,7 @@ Zalthir stares at him, confused, “What?”
 \*rattle\* 
 
 
-Grygum stands at attention and turns to the rattling sound.
+Gyrgum stands at attention and turns to the rattling sound.
 
 
 There is Thorin with a baby rattle. A giant baby rattle that looks like it would fit a dragon. 
@@ -147,7 +147,7 @@ There is Thorin with a baby rattle. A giant baby rattle that looks like it would
 Thorin shouts, “Look what I found.” 
 
 
-Grygum approaches him, “This is a baby dragon rattle. How curious.” 
+Gyrgum approaches him, “This is a baby dragon rattle. How curious.” 
 
 
 He examines it further, “It says made by clan Thrazgad.” 
@@ -159,13 +159,13 @@ He examines it further, “It says made by clan Thrazgad.”
 Thorin rattles it some more, “We should get a baby dragon. I would like to have a dragon. It would be so cool if we had a dragon.” 
 
 
-Grygum is appalled. Zalthir is a dragonborn. And Dragonborn are considered, by some, a draconic abomination. 
+Gyrgum is appalled. Zalthir is a dragonborn. And Dragonborn are considered, by some, a draconic abomination. 
 
 
-Grygum coughs. He watches as Thorin stares at him and realizes what he said, “I’m sorry. I didn’t mean that we don’t have a pure dragon, and that I wanted a pure dragon.” He pauses, “Okay, that sounded worse. I am going to stop now.” 
+Gyrgum coughs. He watches as Thorin stares at him and realizes what he said, “I’m sorry. I didn’t mean that we don’t have a pure dragon, and that I wanted a pure dragon.” He pauses, “Okay, that sounded worse. I am going to stop now.” 
 
 
-Grygum watches Zalthir clench and unclench.  
+Gyrgum watches Zalthir clench and unclench.  
 
 
 ### Thorin
@@ -183,7 +183,7 @@ Zalthir mutters, “I vote we get out of here as discreetly as possible, creatin
 Thorin sighs, “Yeah.” 
 
 
-Grygum pulls out a scrap of paper, “I’ve been taking notes on all of the deals we have made. And it seems to me that the best choice we have is to give the egg to Gartokkar and then use him to escape from Gracklstugh. We tell Gartokkar that the Derro didn’t steal the egg, but some other crazed group. We also explain that we need his help to escape because of the deal we made with the Stone guards and that if Errde were to imprison us, we might be compelled to change our story under torture.” 
+Gyrgum pulls out a scrap of paper, “I’ve been taking notes on all of the deals we have made. And it seems to me that the best choice we have is to give the egg to Gartokkar and then use him to escape from Gracklstugh. We tell Gartokkar that the Derro didn’t steal the egg, but some other crazed group. We also explain that we need his help to escape because of the deal we made with the Stone guards and that if Errde were to imprison us, we might be compelled to change our story under torture.” 
 
 
 Thorin stares at him. 
@@ -213,7 +213,7 @@ Everyone stares at him.
 There is a moment of silence. 
 
 
-Grygum mutters, “The Second Faction?” 
+Gyrgum mutters, “The Second Faction?” 
 
 
 Thorin looks at him and arches an eyebrow, but Daz says what he is thinking, “Too derivative.” 
@@ -222,7 +222,7 @@ Thorin looks at him and arches an eyebrow, but Daz says what he is thinking, “
 And then he smiles, “I have it - The Ember Vanguard.” 
 
 
-Thorin looks around and notices that Zalthir is nodding, Daz is smiling, and even Grygum seems pleased. 
+Thorin looks around and notices that Zalthir is nodding, Daz is smiling, and even Gyrgum seems pleased. 
 
 
 “The Ember Vanguard, Onwards!” 
@@ -296,25 +296,25 @@ Once past the doors, Thorin leads them west, instead of south, where the Empty S
 After walking in the enormous 20-foot-wide cavern for a few minutes, Thorin hears a yelp. 
 
 
-He turns around and sees Grygum enveloped by a creature that looks like a manta ray. 
+He turns around and sees Gyrgum enveloped by a creature that looks like a manta ray. 
 
 
-Grygum shouts in pain. 
+Gyrgum shouts in pain. 
 
 
 Daz ponders his spell list and has some intriguing ideas, but realizes that the old standby, Magic Missile, is probably the best bet. 
 
 
-He watches as Zalthir and Thorin attack the creature, trying to get it to release Grygum.
+He watches as Zalthir and Thorin attack the creature, trying to get it to release Gyrgum.
 
 
-Daz grits his teeth as he hears Grygum’s muffled sounds of pain and watches as the Orc can’t escape. 
+Daz grits his teeth as he hears Gyrgum’s muffled sounds of pain and watches as the Orc can’t escape. 
 
 
-So he casts silvery barbs to help Grygum escape, and then Daz follows up with the deadly chimes of the spell toll the dead. 
+So he casts silvery barbs to help Gyrgum escape, and then Daz follows up with the deadly chimes of the spell toll the dead. 
 
 
-Zalthir strikes the creature a few more times with his fist, and the beast dies before Grygum can take advantage of the spell. 
+Zalthir strikes the creature a few more times with his fist, and the beast dies before Gyrgum can take advantage of the spell. 
 
 
 But the Orc is grateful, but he looks unhappy as he is covered in the acid slime of the Trapper.

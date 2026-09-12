@@ -24,11 +24,11 @@ Jimjar picked up and carried Daz when the latter collapsed at the sight of Demog
 
 ## Topsy
 
-Topsy screamed and wailed at Demogorgon's appearance and had to be carried by Grygum to the boat.
+Topsy screamed and wailed at Demogorgon's appearance and had to be carried by Gyrgum to the boat.
 
 ## Turvy
 
-Turvy screamed and wailed at Demogorgon's appearance and had to be carried by Grygum to the boat.
+Turvy screamed and wailed at Demogorgon's appearance and had to be carried by Gyrgum to the boat.
 
 ## Sarith
 

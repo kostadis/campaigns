@@ -3,7 +3,7 @@
 - **Daz**: Demonstrated sculpted fire magic (controlled explosion avoiding allies and objectives). Successfully completed an ancient Galeb Duhr "handshake protocol" by arranging resonant geodes and humming the correct frequency. Enchanted/charmed a basilisk during combat.
 - **Zalthir**: Channeled Shadow Monk abilities to redirect a magical explosion through shadow space, safely breaking a time-snagged wall. Engaged a basilisk in melee while averting eyes from its petrifying gaze.
 - **Thorin**: Delivered devastating blows against the Shambling Mound. Deciphered giant runes on a summoning circle. Sacrificed a dart as the weapon offering to Entemoch's ritual.
-- **Grygum**: Sensed the Galeb Duhr were waiting for divine authority. Provided a blessing to aid Zalthir's shadow-space maneuver at the White Shell Mine.
+- **Gyrgum**: Sensed the Galeb Duhr were waiting for divine authority. Provided a blessing to aid Zalthir's shadow-space maneuver at the White Shell Mine.
 
 **Items Gained:**
 - Party gained two ruby gems worth 500 gp total (from Dasco Pickshine).
@@ -18,7 +18,7 @@
 - **Daz** (Positive): Solved the Galeb Duhr puzzle through intellect and perception, identifying their vibrations as a linguistic pattern and completing the ancient protocol.
 - **Zalthir** (Positive): Drew on his monk training to solve the time-snagged tunnel, channeling personal frustration into a perfect shadow-space maneuver—a moment of mastery and emotional catharsis.
 - **Thorin** (Positive): Took decisive action at the summoning circle, reading the giant runes and initiating Entemoch's ritual without hesitation.
-- **Grygum** (Positive): Provided spiritual insight about the Galeb Duhr and blessed Zalthir at a critical moment, serving as the party's divine anchor.
+- **Gyrgum** (Positive): Provided spiritual insight about the Galeb Duhr and blessed Zalthir at a critical moment, serving as the party's divine anchor.
 
 ## Relationships & Decisions
 

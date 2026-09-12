@@ -14,11 +14,11 @@ source: gmassist
 - The spy then rolls Stealth 18 to conceal herself; Daz rolls Investigation and gets a 26, easily spotting her in return.
 - The DM places the spy's token on the map and cautions the players: "Do not read the word assassin. That's just the profile of the character."
 - Daz signals the party with a prearranged bird call — impersonating a cardinal. As Zalthir notes, cardinals are not native to these trees, which is exactly the point.
-- Grygum and Glabbagool, still at camp, hear the call. Glabbagool does a very bad bird impression in response and is excited about the concept of a bird. Grygum tells him, "No, no, they're not oozy at all, they're feathered." Glabbagool is very confused.
+- Gyrgum and Glabbagool, still at camp, hear the call. Glabbagool does a very bad bird impression in response and is excited about the concept of a bird. Gyrgum tells him, "No, no, they're not oozy at all, they're feathered." Glabbagool is very confused.
 - Zalthir teleports directly to the spy, striking with advantage. First attack hits AC 24 and grapples her. Second attack hits AC 19 for a combined 25 damage. Zalthir then attempts a Stunning Strike, forcing a DC 13 Constitution save; the spy rolls a plus-2 and fails. She is stunned and grappled.
 - Thorin rushes toward the spy but cannot quite close the distance to attack; he starts yelling at her to demand answers. Since she is stunned, she just stares at him blankly.
 - Daz climbs down from the tree and ties the spy up, telling her "It's very rude to follow people without just coming up and talking to them, so we'll talk to you now."
-- Grygum and Glabbagool move in from camp to join the party.
+- Gyrgum and Glabbagool move in from camp to join the party.
 
 ## Verbatim moments
 
@@ -133,21 +133,21 @@ source: gmassist
 
 ---
 
-**[Grygum and Glabbagool React at Camp]**
+**[Gyrgum and Glabbagool React at Camp]**
 
-**GM** — *describing Grygum's perspective*
+**GM** — *describing Gyrgum's perspective*
 > "So, you know, you're a half-orc, and you know that drow on the surface really hate the sun, and they're very miserable, and, you know, this… whoever this person is, they're probably very low on the food chain, or, you know, they got stuck with this job, and, you know, they're putting on a brave face."
 > "So, everybody's kind of left, and like, you're kind of… you were getting ready to sleep, and everybody's gone, and…"
 > "I'm glad Magoo's still there and goes."
 > "I think they found someone! There was a creature that went, and he does a really bad bird imitation."
 
-**Grygum (Ben Pfaff)** — *to Glabbagool*
+**Gyrgum (Ben Pfaff)** — *to Glabbagool*
 > "Okay, well, come with Miklabogul, we'll go, we'll go check on it."
 
 **GM** — *Glabbagool's confusion about birds*
 > "Is it a kind of ooze?"
 
-**Grygum (Ben Pfaff)** — *explaining birds to Glabbagool*
+**Gyrgum (Ben Pfaff)** — *explaining birds to Glabbagool*
 > "No, no, they're… they're not oozy at all, they're feathered."
 
 **GM**
@@ -156,7 +156,7 @@ source: gmassist
 **Thorin (Joe)**
 > "but smaller. Oh, wait, you don't know what a dinosaur is."
 
-**Grygum (Ben Pfaff)**
+**Gyrgum (Ben Pfaff)**
 > "We'll introduce you. Yeah, yeah, I wander over there."
 
 ---

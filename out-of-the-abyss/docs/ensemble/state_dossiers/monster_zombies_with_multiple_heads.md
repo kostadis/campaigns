@@ -12,7 +12,7 @@ chapters: 24-24
 - **Allegiance/faction:** Under the control of Ulnara’s necromantic project
 - **Current possessions / notable items, spells, feats, wounds:** None specified; reanimated corpses with multiple heads (inferred from entity name and context)
 - **Current assignment / role:** Used as laborers or components in Ulnara’s necromantic project
-- **Defining recent actions:** Observed by Grygum in the pit; their presence is being exploited to manipulate Skiit’s fear and ambition
+- **Defining recent actions:** Observed by Gyrgum in the pit; their presence is being exploited to manipulate Skiit’s fear and ambition
 
 ## Uncertainty
 - The entity name “Zombies with Multiple Heads” is not explicitly confirmed in the quote or fact — it is inferred from the entity label. The fact only says “zombies,” without specifying multiple heads.

@@ -17,7 +17,7 @@ I said as much to the others.
 
 And then a hooded figure from the Avowed went past the dining hall at a half-run, something tucked against their ribs under the robe. They weren't trying to be obvious about it. They also weren't trying very hard not to be. In the Underdark that would have been something to move against — I would have already been on my feet, already measuring the gap between me and the exit. Here, I just watched them go and filed it.
 
-The prophecies had been going the whole time, floating down from the gallery above like water finding its level. Vareth had explained it to Grygum earlier in the day, and Grygum had explained it to the rest of us in that careful way he has, like he was building a theological argument out of practical facts: there was a man named Alaundo whose prophecies had come true with uncomfortable regularity, so Candlekeep had been reciting them ever since. Whenever one came true, it was removed. What remained was the unfulfilled inventory. Nobody knew what happened when the inventory ran out.
+The prophecies had been going the whole time, floating down from the gallery above like water finding its level. Vareth had explained it to Gyrgum earlier in the day, and Gyrgum had explained it to the rest of us in that careful way he has, like he was building a theological argument out of practical facts: there was a man named Alaundo whose prophecies had come true with uncomfortable regularity, so Candlekeep had been reciting them ever since. Whenever one came true, it was removed. What remained was the unfulfilled inventory. Nobody knew what happened when the inventory ran out.
 
 I thought about that for a moment. The giants used to say that a wall is just a rock in the right place. A prophecy that hasn't happened yet is just a warning waiting for its moment. I didn't say that out loud. It wasn't useful.
 
@@ -25,7 +25,7 @@ Most of the recited lines slid past me the way background noise does — present
 
 *On the longest night of winter's deepest cold, the keeper falls, the heart is sold.*
 
-It landed the way cold drafts land — not dramatically, not with any ceremony, just suddenly there, already inside the room before you noticed the door was open. I sat with it for a second. Winter's deepest cold. I looked at Daz. I looked at Grygum. Neither of them had visibly reacted, which meant either they hadn't heard it or they were filing it the same way I was filing it: not immediately actionable, worth keeping.
+It landed the way cold drafts land — not dramatically, not with any ceremony, just suddenly there, already inside the room before you noticed the door was open. I sat with it for a second. Winter's deepest cold. I looked at Daz. I looked at Gyrgum. Neither of them had visibly reacted, which meant either they hadn't heard it or they were filing it the same way I was filing it: not immediately actionable, worth keeping.
 
 I kept it.
 

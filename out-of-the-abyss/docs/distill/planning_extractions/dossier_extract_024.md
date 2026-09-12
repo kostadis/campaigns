@@ -24,7 +24,7 @@ Narrak is the cult leader of the Demogorgon worshippers. In a letter to Pliinki,
 
 ## Gartokkar
 
-Gartokkar is referenced as a figure associated with the Keepers of the Flame. Narrak's letter mentions Gartokkar's paranoia and his desire for a "genocidal war" against the Derro. The party decided to return the mutated dragon egg to Gartokkar and use him as their means of escape from Gracklstugh. Grygum's plan involves telling Gartokkar that the egg was stolen not by the Derro but by "some other crazed group," and leveraging his help to leave the city before Errde Blackskull could imprison them.
+Gartokkar is referenced as a figure associated with the Keepers of the Flame. Narrak's letter mentions Gartokkar's paranoia and his desire for a "genocidal war" against the Derro. The party decided to return the mutated dragon egg to Gartokkar and use him as their means of escape from Gracklstugh. Gyrgum's plan involves telling Gartokkar that the egg was stolen not by the Derro but by "some other crazed group," and leveraging his help to leave the city before Errde Blackskull could imprison them.
 
 ## Errde Blackskull
 
@@ -32,7 +32,7 @@ Errde Blackskull is the Captain of the Stone Guard. Aliinka's letter describes h
 
 ## Themberchaud
 
-Themberchaud (also spelled "Thermbechaude") is the red dragon of the Keepers of the Flame. The Keepers are guarding the secret of his egg's theft. Pliinki's journal describes the egg as originally intended as a "replacement" for Themberchaud, but the cult repurposed it for Demogorgon. Grygum declared the egg should be returned to Gartokkar, reasoning that when the mutated abomination hatches, Themberchaud will have his revenge on those who sought to control him. Thorin expressed interest in riding Themberchaud out of Gracklstugh, but the party ultimately abandoned that plan.
+Themberchaud (also spelled "Thermbechaude") is the red dragon of the Keepers of the Flame. The Keepers are guarding the secret of his egg's theft. Pliinki's journal describes the egg as originally intended as a "replacement" for Themberchaud, but the cult repurposed it for Demogorgon. Gyrgum declared the egg should be returned to Gartokkar, reasoning that when the mutated abomination hatches, Themberchaud will have his revenge on those who sought to control him. Thorin expressed interest in riding Themberchaud out of Gracklstugh, but the party ultimately abandoned that plan.
 
 ## Buppido
 

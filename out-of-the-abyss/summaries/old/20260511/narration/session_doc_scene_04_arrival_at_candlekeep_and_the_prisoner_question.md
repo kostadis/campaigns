@@ -12,15 +12,15 @@ Daz went quiet beside me somewhere around the second hour of walking. Not his us
 
 I noticed. I didn't say anything yet.
 
-Grygum noticed too, and asked whether it connected to the voices — the spreading madness we'd watched move through the Underdark like groundwater through stone. He couldn't pin it down, he said. Something wrong, something tenuous. I filed it. Whatever was happening to Daz had started below ground and apparently had not stopped at the surface. One more thing that needed answering. One more thing Candlekeep was presumably for.
+Gyrgum noticed too, and asked whether it connected to the voices — the spreading madness we'd watched move through the Underdark like groundwater through stone. He couldn't pin it down, he said. Something wrong, something tenuous. I filed it. Whatever was happening to Daz had started below ground and apparently had not stopped at the surface. One more thing that needed answering. One more thing Candlekeep was presumably for.
 
-We gave them the books at the gate. Bookwyrm — the First Reader, a dragonborn sage, and yes, I noticed the name — assigned us each to a handler without ceremony. She had clearly been doing this for a long time and had no interest in making it interesting. Daz to Sister Yvonne. Zalthir to Brother  Khell-Vire. Thorin to Master Archivist Philemon. Grygum to Varith. She said it the way you'd read a duty roster. I respected that.
+We gave them the books at the gate. Bookwyrm — the First Reader, a dragonborn sage, and yes, I noticed the name — assigned us each to a handler without ceremony. She had clearly been doing this for a long time and had no interest in making it interesting. Daz to Sister Yvonne. Zalthir to Brother  Khell-Vire. Thorin to Master Archivist Philemon. Gyrgum to Varith. She said it the way you'd read a duty roster. I respected that.
 
 Then she paused.
 
 She'd noticed the bag.
 
-Specifically, she'd noticed what was in the bag — because when we'd come through the gate, we'd had to open it to show the guards Glabbagool, and the miniaturized House T'sarran spy had been right there alongside him, which she apparently found unacceptable, and which Grygum summarized, with admirable brevity, as: *"We've been caught."*
+Specifically, she'd noticed what was in the bag — because when we'd come through the gate, we'd had to open it to show the guards Glabbagool, and the miniaturized House T'sarran spy had been right there alongside him, which she apparently found unacceptable, and which Gyrgum summarized, with admirable brevity, as: *"We've been caught."*
 
 They summoned someone called  Kalan Strongbranch. Gate Warden. He was efficient about it. He laid out Candlekeep's position without apology:
 

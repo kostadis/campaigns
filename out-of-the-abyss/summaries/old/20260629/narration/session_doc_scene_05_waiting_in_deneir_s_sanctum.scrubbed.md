@@ -1,7 +1,7 @@
 ---
 scene: 05
 slug: waiting_in_deneir_s_sanctum
-narrator: Grygum
+narrator: Gyrgum
 scene_name: Waiting in Deneir's Sanctum
 session: 20260629
 ---

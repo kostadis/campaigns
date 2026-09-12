@@ -8,7 +8,7 @@ From Tadric's testimony at the crime scene, Kalan had arrived at the Keeper's to
 
 Bookwyrm had disclosed that Janussi asked Kalan to resign the morning before his death due to concerns about his mental faculties and negligence. The nature of the negligence was not specified.
 
-Grygum identified Kalan as the first person he intended to question. The party flagged the combination of: having been asked to resign the day before the murder; returning alone to the crime scene; walking out looking determined; and using the Speak with Dead rite — which either yielded nothing or prevented subsequent attempts — as a cluster of significant facts.
+Gyrgum identified Kalan as the first person he intended to question. The party flagged the combination of: having been asked to resign the day before the murder; returning alone to the crime scene; walking out looking determined; and using the Speak with Dead rite — which either yielded nothing or prevented subsequent attempts — as a cluster of significant facts.
 
 Last known whereabouts: ordered by Bookwyrm to attend to the library's defenses, having been removed from direct involvement in the investigation.
 

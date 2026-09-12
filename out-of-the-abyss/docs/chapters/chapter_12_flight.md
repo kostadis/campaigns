@@ -29,13 +29,13 @@ But what about his friends and allies?
 Fortunately, the group figures it out. 
 
 
-Jimjar picks up Daz, Thorin grabs Eldeth, Topsy and Turvy are carried by Grygum, and Spiderbait carries Shuushar. 
+Jimjar picks up Daz, Thorin grabs Eldeth, Topsy and Turvy are carried by Gyrgum, and Spiderbait carries Shuushar. 
 
 
 The group arrives at a dock where several Kuotoan monitors stand, guarding. 
 
 
-Grygum advances boldly and tells them that the Archpriest of the Sea Mother commands them to help the rest of their community.
+Gyrgum advances boldly and tells them that the Archpriest of the Sea Mother commands them to help the rest of their community.
 
 
 The Monitors seem relieved to have a purpose and rush off.  
@@ -59,7 +59,7 @@ Thorin stares at her, “I am not sure what you think is or is not possible, but
 As the boat floats on the lake, the puzzle pieces all click in Thorin’s head. 
 
 
-But it’s Grygum who says it out loud - “The spectator warned us about demons. And we saw the demons in Velkynvelve. Demons have made it to the prime material plane in large numbers!” 
+But it’s Gyrgum who says it out loud - “The spectator warned us about demons. And we saw the demons in Velkynvelve. Demons have made it to the prime material plane in large numbers!” 
 
 
 Daz reflects on his knowledge of the arcane and his time in the Underdark, “Demons do not just appear in the Underdark. They must be summoned. And the spell to summon a demon lord is some mighty magic.” 
@@ -77,7 +77,7 @@ Sathir mutters, “Where to next?”
 Buppido, who is no longer gagged, says, “Gracklstugh! I know people.” 
 
 
-Thorin stares at him, undecided. Grygum, however, helps the group decide, “We need better equipment, and we now have the money to buy it.” 
+Thorin stares at him, undecided. Gyrgum, however, helps the group decide, “We need better equipment, and we now have the money to buy it.” 
 
 
 Buppido sighs, “Yes, and I know people who can help you.” 
@@ -120,13 +120,13 @@ He looks carefully for any sign of new rocks, then relaxes slightly.
 Thorin reaches up and touches the cave's ceiling, which is only three feet above the water. He wonders what will happen if it gets any lower. 
 
 
-He looks at Zalthir, Shuushar, Grygum, Daz, and Sarith, who are uncomfortable sitting down and lowering their heads to avoid banging them on the ceiling. 
+He looks at Zalthir, Shuushar, Gyrgum, Daz, and Sarith, who are uncomfortable sitting down and lowering their heads to avoid banging them on the ceiling. 
 
 
 “It’s good to be short,” Thorin notes as he sees how everyone else isn’t inconvenienced. 
 
 
-Unfortunately for Thorin, he thought too soon, and the boat jerked, and he fell in, along with Grygum and Daz. 
+Unfortunately for Thorin, he thought too soon, and the boat jerked, and he fell in, along with Gyrgum and Daz. 
 
 
 As he splutters, he notices that the Darklake isn’t empty. 
@@ -135,7 +135,7 @@ As he splutters, he notices that the Darklake isn’t empty.
 The same creatures that were feasting on the kuotoans are here. They look like manta rays, whose jaws, instead of being used to filter plankton, have powerful jaws for rending the flesh of their victims. 
 
 
-Fortunately for himself and his two companions, Daz and Grygum, there are only four. And unlike the Kuotoans, they are no match for them. 
+Fortunately for himself and his two companions, Daz and Gyrgum, there are only four. And unlike the Kuotoans, they are no match for them. 
 
 
 As he climbs out of the water, he thinks it’s probably not good that a demonic fish is floating around with the local flora and fauna… 
@@ -160,7 +160,7 @@ And the boat is a tight fit.
 Hemeth seems to be reading Zalthir’s mind when he suggests, “Maybe we take that boat from them? Like the last time I talked to Kuo-Toans, I almost got sacrificed. I was just trying to sell them weapons. I didn’t think they would think sacrificing me was a weapon. Crazy fish people.” 
 
 
-Before Zalthir can agree, Shuushar and Grygum have already decided that talking with more Kuotoans is the right answer. 
+Before Zalthir can agree, Shuushar and Gyrgum have already decided that talking with more Kuotoans is the right answer. 
 
 
 Zalthir  steps back and gets ready to attack, just in case. 
@@ -178,7 +178,7 @@ Before Zalthir can point out that Shuushar’s insight into the map of the Darkl
 Then Shuushar turns to his fellow escapees and thanks them for their help: “I have found my people, and we will build a better world!”
 
 
-Zalthir stands off as he watches the tearful goodbye of Thorin, who is giving him a hug, Grygum spitting into the lake, and Daz looking indifferent. 
+Zalthir stands off as he watches the tearful goodbye of Thorin, who is giving him a hug, Gyrgum spitting into the lake, and Daz looking indifferent. 
 
 
 As the other Kuo-Toan boat floats off, Shuushar says thank you! 

@@ -22,7 +22,7 @@ The party regrouped in the investigator's office, where Ally Avonmore — whose 
 The true name of Miriam, the sentinel worm and dragon guardian of Candlekeep, as the answer to the first riddle.
 The eastern light of Mystara's mantle, Limniz, as an obscure star recorded in the charts of the orrery of the Astronomicon — though she noted with unease that three unfamiliar figures had been seen inside the orrery when she passed it.
 
-Working together, the party decoded the substitution cipher of the cryptogram, with Thorin leading the effort (assisted by a cryptogram sight) and a lively argument over whether certain glyphs were an I or a J. Grygum, solving in Palaiar, supplied the one line Thorin had missed. The full text revealed:
+Working together, the party decoded the substitution cipher of the cryptogram, with Thorin leading the effort (assisted by a cryptogram sight) and a lively argument over whether certain glyphs were an I or a J. Gyrgum, solving in Palaiar, supplied the one line Thorin had missed. The full text revealed:
 
 Feed the quill of Aluanda the seer, tread as many steps as he lived in years, utter the original prophecy to unseen ears, sprinkle dust of Mechanus on dormant gears, one last guardian of knowledge remains to verify the chosen reader's claims, and those well-versed in Candlekeep's lore may fearlessly pass the obsidian door.
 
@@ -63,7 +63,7 @@ Question 1: "Where is the only refuge for flames in Candlekeep?"
 Answer: The hearth. (Daz recalled this from personal experience — it was the only warm place.)
 
 Question 2: "Which holy triumvirate patron the great library?"
-Answer: Oghma, Denir, and Milil. (Grygum answered with a roll of 26.)
+Answer: Oghma, Denir, and Milil. (Gyrgum answered with a roll of 26.)
 
 Question 3: "How many feet does the High Tower of Exaltation reach above the sea?"
 The Avowed scholar (Evaldo) noted this was a question every member of the Avowed was expected to know, but the practice of memorizing such details had long fallen out of fashion. He knew it was over 500 feet. Because the party brought the Avowed, the DC was reduced from 23 to 16 (nature check). Both Thorin and Daz rolled 20s and answered correctly.
@@ -89,7 +89,7 @@ Reveal what Manchun took (if he had already left with something).
 Confirm whether all party members are who they say they are (relevant to Daz's mystery).
 Fight beside the party — declined: "I was bound to be witness, not weapon. If I could have stopped him, I would have stopped him at dawn."
 
-She engaged Grygum (cleric of Bahamut) in a brief philosophical exchange about the age, and Grygum's response — describing a new school holding that there are certain fixed points among which one may make one's own paths (the Gargami School) — earned her approval: "Wisdom truly flows from Bahamut into you, cleric of Bahamut."
+She engaged Gyrgum (cleric of Bahamut) in a brief philosophical exchange about the age, and Gyrgum's response — describing a new school holding that there are certain fixed points among which one may make one's own paths (the Gargami School) — earned her approval: "Wisdom truly flows from Bahamut into you, cleric of Bahamut."
 
 The party chose: Hold the curtain — extend the anti-magic zone to 30 feet for 10 minutes, to be deployed when engaging Manchun (a powerful wizard). The dragon responded: "Well chosen."
 
@@ -107,7 +107,7 @@ Daz's opening move: Before rolling initiative, Daz proposed moving the fight dow
 
 The party repositioned near the bridge (anti-magic zone starts 10 feet from the bridge entrance).
 
-Initiative order: Daz (21), Thorin (19), Zaltir/Altair (17), Manchun (12), Grygum (3).
+Initiative order: Daz (21), Thorin (19), Zaltir/Altair (17), Manchun (12), Gyrgum (3).
 
 First round of combat:
 Daz cast Phantasmal Killer (4th level) on Manchun, requiring a Wisdom DC 17 save. Manchun rolled an 8 on the die but has +9 Wisdom, totaling exactly 17 — he made the save. He took 13 points of psychic damage (half of 26) but did not gain disadvantage on ability checks and attack rolls.
@@ -124,7 +124,7 @@ Kostadis — GM
 Daz (player character)
 Thorin / Thorne (player character)
 Zaltir / Altair (player character)
-Grygum / Gargam (player character, cleric of Bahamut, orc)
+Gyrgum / Gargam (player character, cleric of Bahamut, orc)
 Doran (player character)
 Glabagul / Glabagool (player character)
 

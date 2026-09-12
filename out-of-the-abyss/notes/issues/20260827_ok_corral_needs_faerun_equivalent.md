@@ -54,7 +54,7 @@ Candidates to consider (none chosen — this is the GM's call):
 - A duelling convention from Waterdeep or Baldur's Gate the party would know.
 - Something out of Candlekeep's own history — the Avowed have six centuries of
   scholarly grudges and at least one of them ended badly.
-- A dragon-court formality, given Grygum is a cleric of Bahamut and the wyrm who
+- A dragon-court formality, given Gyrgum is a cleric of Bahamut and the wyrm who
   granted the boon is watching the whole thing as a bound witness.
 
 Whatever is chosen, the *table's* line stays as spoken in the verbatim record —

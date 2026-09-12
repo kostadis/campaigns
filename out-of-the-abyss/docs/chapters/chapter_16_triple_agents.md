@@ -1,15 +1,15 @@
 # Chapter 17 Triple Agents
 ## 9th day of the 1st Tenday of Myrtul 1493
-### Grygum
+### Gyrgum
 
 
-Grygum watches as Errde Blackskull stands. She has an aura of paranoia fixated on her person, and seems disappointed. 
+Gyrgum watches as Errde Blackskull stands. She has an aura of paranoia fixated on her person, and seems disappointed. 
 
 
-Armed with the scrolls he found amongst her goods in the armory, Grygum prepares to leave when she says something very odd, “I would appreciate it if you were to look for the empty scabbard killers. My underlings have reported their presence after finding bodies with puzzling wounds.” 
+Armed with the scrolls he found amongst her goods in the armory, Gyrgum prepares to leave when she says something very odd, “I would appreciate it if you were to look for the empty scabbard killers. My underlings have reported their presence after finding bodies with puzzling wounds.” 
 
 
-Grygum is perplexed. 
+Gyrgum is perplexed. 
 
 
 Errde, almost as if she doesn’t want to draw too much attention, tries to act utterly nonchalantly, “Oh, just an old wives tale to frighten children. They kill people with their minds.” She pauses, “Of course, this is nonsense. They are just another figment of the people’s imagination. It’s more likely that they don’t exist, and instead, assassinations are being conducted by some agency in the government, and this is a cover.” 
@@ -30,7 +30,7 @@ That does the trick, and Errde brings one of her subordinates into the room, Gri
 Holl explains that the bodies were found with no exit wounds or entrance wounds. 
 
 
-Grygum further probes and learns that two victims were Errde Blackskull’s clan members. 
+Gyrgum further probes and learns that two victims were Errde Blackskull’s clan members. 
 
 
 Errde dismisses the idea that these are assassins, “My uncle could have died for any of many reasons: poison, old age, a bad heart. The clerics found no evidence of that on their bodies.” 
@@ -39,13 +39,13 @@ Errde dismisses the idea that these are assassins, “My uncle could have died f
 She then pauses, “Look, I am not foolish enough to believe they weren’t assassinated, but some children’s fable come back to life to kill them? Nonsense.”
 
 
-Grygum is perplexed: dead bodies with no entrance or exit wounds, no evidence of foul play, just dead bodies. 
+Gyrgum is perplexed: dead bodies with no entrance or exit wounds, no evidence of foul play, just dead bodies. 
 
 
 Daz, known for his fondness of novels, reads voraciously and has managed to get a copy of Milo Goodbarrel’s book detailing the events surrounding the war of the dragon. He notes: “Milo describes this kind of attack as a psychic blade attack. It leaves no trace. There is this one moment where the Kenku Whistler used the psychic blades to fake an attack by Milo on an enemy.” 
 
 
-Grygum stares at him. 
+Gyrgum stares at him. 
 
 
 “I liked the books. They were well written.” 
@@ -71,7 +71,7 @@ Buppido continues to be bound and seems resigned to his fate.
 Jimjar has made a few friends and asks - “When do you expect us to be able to leave?” 
 
 
-Daz explains that he wants to learn about the Keepers of the Flame, and Grygum wants to know about this Red Dragon that is kept in some kind of peculiar captivity by the Keepers of the Flame. 
+Daz explains that he wants to learn about the Keepers of the Flame, and Gyrgum wants to know about this Red Dragon that is kept in some kind of peculiar captivity by the Keepers of the Flame. 
 
 
 When Jimjar tries to explain that they came here for supplies, and judging from the equipment the group has, they have them and that, “Perhaps we should leave?” 
@@ -98,7 +98,7 @@ Daz thinks that and realizes he’s not just thinking that but watching that. Tw
 “Psychic weapons?” he wonders. 
 
 
-As Daz watches, Grygum rushes one of the assassins, trying to toss him into the water. He fails. 
+As Daz watches, Gyrgum rushes one of the assassins, trying to toss him into the water. He fails. 
 
 
 When Daz utters the mystical words, motes of light appear above his hand, and three fingers point at one of the assassins. A silent rush of air accompanies the flight of the magic missiles, and when they strike, a burst of light and a crackling sound fills the area. 
@@ -110,7 +110,7 @@ Daz watches as Zalthir covers the area with Darkness.
 “I can’t see. And this is why area of effect spells are useful,” he mutters.
 
 
-Grygum rushes into the fight, and so does Thorin. 
+Gyrgum rushes into the fight, and so does Thorin. 
 
 
 Daz can judge where the Drow is, even in the Darkness. He speaks the words for scorching rays and feels the rush of intense heat as the fiery energy is manifested. He points with his index finger, uses his thumb to sight, squints, and lets the rays loose. They travel quickly, leaving a streak of heat haze. Zalthir’s darkness hides the flash of bright light, but the smell of burning flesh is not. 
@@ -129,7 +129,7 @@ The Duergar merchant has no wound on his body.
 
 
 Zalthir scrutinizes him and concludes that Holl may not have been lying. 
-Before Zalthir can stop him, Grygum heals the Duergar. 
+Before Zalthir can stop him, Gyrgum heals the Duergar. 
 
 
 “Thank you! I have no idea why they attacked me,” says the heaving Duergar. “Did they target me? Are they assassins?” 
@@ -165,7 +165,7 @@ Zalthir chuckles, “I could create that illusion for you.”
 Thorin hoots. 
 
 
-Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. 
+Just then, Zalthir hears a body falling into the water. Gyrgum has pushed the first corpse into the water. 
 
 
 “We must get out of here before the guard shows up.” 
@@ -228,14 +228,14 @@ The dragon turns to Zalthir, “You are a gold dragonborn?”
 Zalthir stares at him and wonders how this fat, obviously out-of-shape red dragon ended up like that. And then, he wonders whether this red dragon could survive in the wild. It is so pampered that it probably has forgotten how to hunt. 
 
 
-He questions Thorin and Grygum and seems satisfied with the answers. 
+He questions Thorin and Gyrgum and seems satisfied with the answers. 
 When it’s Daz’s turn to be questioned, the dragon asks if Daz is from Menzoberranzan. Zalthir wonders as well. Daz says he is. But Zalthir isn’t convinced that is the truth. 
 
 
 The dragon laughs, “Excellent! You have no family associations and nobody that can be blackmailed.” 
 
 
-Grygum shouts, “We have people who will come looking for us!” 
+Gyrgum shouts, “We have people who will come looking for us!” 
 
 
 Zalthir nods, “Of course.” 
@@ -244,7 +244,7 @@ Zalthir nods, “Of course.”
 The dragon laughs, “Very well. I am Themberchaud, and I wish for you to be my agent. And as my agents, you will have my protection.” 
 
 
-Zalthir overhears Daz and asks Grygum, “Do you think this dragon also plays chess? According to Milo Goodbarrel’s memoirs, chess played a significant role in negotiating with the metallic dragons.” 
+Zalthir overhears Daz and asks Gyrgum, “Do you think this dragon also plays chess? According to Milo Goodbarrel’s memoirs, chess played a significant role in negotiating with the metallic dragons.” 
 
 
 “Deals with red dragons are never good deals,” thinks Zalthir. 
@@ -284,7 +284,7 @@ Thorin follows Gartokkar outside the cave and asks Daz, “Did we find ourselves
 Daz, who has experience with the twisted, machiavellian politics of the Drow, replies, “The faction thinks we are working for them. Whether we do is up to us.” 
 
 
-Grygum, standing next to Thorin,n mutters, “I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.”
+Gyrgum, standing next to Thorin,n mutters, “I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.”
 
 
 Thorin is exasperated and almost shouts, “I am sorry, I can’t deal with these factions. I can’t keep track of who we are working for and which faction we are double-crossing. I want to be my faction.” 
@@ -323,7 +323,7 @@ Gartokkar smiles conspiratorially, “Themberchaud thinks we work for him. What 
 Gartokkar looks appalled, “Of course not! Eventually, the Dragon moves on because he wants to see more of the world.”
 
 
-Grygum turns to Thorin, “It’s like when parents say that the pet puppy left even when it dies.” 
+Gyrgum turns to Thorin, “It’s like when parents say that the pet puppy left even when it dies.” 
 
 
 Gartokkar continues, ignoring the comment, “We have identified an agent of the Grey Ghosts. His name is Droki.”
@@ -377,7 +377,7 @@ Gartokkar looks at him, “Just find me the egg and the proof of the Gray Ghosts
 As they stand outside the building that houses Gartokkar’s office, Daz turns to Thorin while looking at his collection of badges, “So we flash the right one at the right time?” 
 
 
-Thorin nods. And then he has a peculiar glint in his eye. He turns to Grygum, “I have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?” 
+Thorin nods. And then he has a peculiar glint in his eye. He turns to Gyrgum, “I have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?” 
 
 
-Grygum smiles, “As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let’s do it.”
+Gyrgum smiles, “As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let’s do it.”

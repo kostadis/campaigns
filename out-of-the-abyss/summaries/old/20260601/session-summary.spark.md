@@ -5,7 +5,7 @@ Date: Jun 1st, 2026
 ## Summary
 The party gathered in the chamber of Janussi, the Keeper of the Tome, to investigate his murder. They found his body lying on its back, his rib cage smashed by what appeared to be an axe, and his heart grotesquely removed from his chest. The blood, however, was strangely localized around the wound — far too contained for a living man — leading the party to conclude that the heart had been torn out after death, almost certainly to prevent anyone from resurrecting him through magical means.
 
-Daz conducted a meticulous examination of the body, uncovering clotted blood beneath the victim's nose and smeared ink stains along the right sleeve of his tunic. More troubling still was a dark, blackened substance found on the tip of Janussi's left forefinger, his lower lip, and his tongue — a residue distinctly darker than the blue ink he used for his scholarly notes. The party theorized he had been licking his finger to turn pages while reading, inadvertently ingesting whatever poison had been applied to the book. Grygum further noted that Janussi's nose had been fractured and bruised before his death — bruising cannot occur after the heart stops — placing a violent altercation somewhere in the hours before the killing.
+Daz conducted a meticulous examination of the body, uncovering clotted blood beneath the victim's nose and smeared ink stains along the right sleeve of his tunic. More troubling still was a dark, blackened substance found on the tip of Janussi's left forefinger, his lower lip, and his tongue — a residue distinctly darker than the blue ink he used for his scholarly notes. The party theorized he had been licking his finger to turn pages while reading, inadvertently ingesting whatever poison had been applied to the book. Gyrgum further noted that Janussi's nose had been fractured and bruised before his death — bruising cannot occur after the heart stops — placing a violent altercation somewhere in the hours before the killing.
 
 The chamber itself yielded a wealth of additional clues. A chipped piece of tooth was found a few feet from the body, suggesting Janussi had fallen face-first upon death before being rolled over by whoever removed his heart. Three roughly circular impact wounds had torn through the back of an armchair, scattering its horsehair stuffing — the unmistakable signature of magic missiles fired in anger. A wall-mounted safe had been left open, its contents partially disturbed: one sapphire and one scrap of parchment were missing from among the spell component pouches, yet an enormous fortune in diamonds, platinum, and gold had been left completely untouched. Beneath the victim's neck lay broken lead-chain links, the remnants of a locket that had been forcibly torn away.
 
@@ -36,7 +36,7 @@ With the interviews concluded, the shape of the mystery had grown clearer — an
 
 *The cat dismissing the party after their interrogation, offended by the general hygiene standards of two-legged creatures*
 
-**Grygum deduces that Janussi's nose was broken before he died — bruising cannot occur post-mortem — meaning someone assaulted him earlier in the evening before the actual murder.**
+**Gyrgum deduces that Janussi's nose was broken before he died — bruising cannot occur post-mortem — meaning someone assaulted him earlier in the evening before the actual murder.**
 
 *A sharp medicine check turns a seemingly minor detail into a key piece of the timeline, narrowing the window of the attack*
 
@@ -77,14 +77,14 @@ With the interviews concluded, the shape of the mystery had grown clearer — an
 ### Investigation of the Keeper's Body
 #### The party examines the remains of the Keeper of the Tome, Janussi, to uncover the circumstances of his death.
 - The party discovers the Keeper's heart was removed after death, likely to prevent resurrection via Raise Dead.
-- Grygum notes the victim's rib cage was smashed by an axe-like weapon, though the blood splatter is strangely localized, suggesting the heart was removed after death when there was no longer blood pressure.
+- Gyrgum notes the victim's rib cage was smashed by an axe-like weapon, though the blood splatter is strangely localized, suggesting the heart was removed after death when there was no longer blood pressure.
 - Daz performs a thorough investigation, finding clotted blood under the victim's nose and smeared bloodstains on the right sleeve of his tunic.
 - The party identifies blotches of midnight blue ink on the Keeper's sleeve, consistent with recent note-taking.
 - Daz notices a mysterious black substance on the Keeper's left forefinger and lower lip, darker than the standard ink used for his notes.
 - The party theorizes the Keeper may have been poisoned while reading, as he appeared to be licking his finger to turn pages.
 - Glabbagool attempts to use his experience with Underdark substances to identify the black residue but is unable to determine its nature.
 - Daz also identifies a blackened tip on the Keeper’s tongue and a chipped front tooth — the latter confirmed by the party locating the fragment a few feet from the body.
-- Grygum’s medicine check confirms the nose fracture and bruising occurred before death, as post-mortem bruising is impossible.
+- Gyrgum’s medicine check confirms the nose fracture and bruising occurred before death, as post-mortem bruising is impossible.
 
 ### Forensic Investigation of the Keeper's Chamber
 #### The party conducts a detailed forensic examination of the crime scene, uncovering clues about the victim's final moments and the nature of the attack.
@@ -102,7 +102,7 @@ With the interviews concluded, the shape of the mystery had grown clearer — an
 ### Clues in the Ink and Parchment
 #### The party examines Janussi's desk and notes, uncovering a trail of obscure spells, jokes, and a mysterious black substance.
 - The party discovers Janussi was taking notes in blue ink on a spell book titled *The Discoveries* and a comedic book called *The Golden Ass*.
-- Grygum determines that the black substance found on the victim's fingers and mouth is definitively not the blue ink used for his notes.
+- Gyrgum determines that the black substance found on the victim's fingers and mouth is definitively not the blue ink used for his notes.
 - The party realizes *The Golden Ass* is missing from the room, despite Janussi having recently taken notes from it — the notes themselves confirm the book was present.
 - The notes on *The Discoveries* were written after the notes on *The Golden Ass*, making the spell research the last thing Janussi was working on.
 - Daz theorizes that the missing book might be a key to a cipher or code, possibly hiding arcane instructions within its jokes.

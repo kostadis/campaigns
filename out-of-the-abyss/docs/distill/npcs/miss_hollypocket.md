@@ -17,7 +17,7 @@ Devoted and diligent — she never sleeps before the eleventh bell in case the M
 ## History with the Party
 - The party sought her out as a witness in the investigation of Janussi's death.
 - Given permission to "gossip for the investigation," she delivered a detailed catalogue of the day's events (see Relationships and Current Status).
-- Grygum clarified for the party that the "devil woman" she feared is Sylvira Savikas, Curator of the Infernal Fortress.
+- Gyrgum clarified for the party that the "devil woman" she feared is Sylvira Savikas, Curator of the Infernal Fortress.
 - Later, Daz named her to Bookwyrm as "the one harmless witness the party had already spoken with" — offered deliberately as "a name that costs nothing" to test what Bookwyrm would do with a name, not as a genuine lead.
 
 ## Current Status

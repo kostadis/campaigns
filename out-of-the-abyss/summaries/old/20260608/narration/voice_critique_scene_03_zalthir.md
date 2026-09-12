@@ -12,7 +12,7 @@
 
 > "He chose the orc. I don't think it was chance. The man who carries the weight is the man someone has decided to trust."
 
-**Why:** Zalthir's inner voice is terse: "Filed it." "Not again." "I sense some racial animus." He observes and moves; he does not unpack the implication into a general aphorism. "The man who carries the weight is the man someone has decided to trust" reads as Grygum's philosophical-witness register, not Zalthir's declarative notation. The observation "He chose the orc. I don't think it was chance." already lands; the elaboration dilutes it.
+**Why:** Zalthir's inner voice is terse: "Filed it." "Not again." "I sense some racial animus." He observes and moves; he does not unpack the implication into a general aphorism. "The man who carries the weight is the man someone has decided to trust" reads as Gyrgum's philosophical-witness register, not Zalthir's declarative notation. The observation "He chose the orc. I don't think it was chance." already lands; the elaboration dilutes it.
 **Suggested rewrite:** "He chose the orc. I don't think it was chance. Filed."
 
 ### [2] Generic idiom
@@ -38,4 +38,4 @@
 
 ## Verdict
 
-The core Zalthir voice is solid throughout — "True enough. Filed under things that are also true," the decisive questioning of Kalan's two-people-in-the-apartment logic, and the close ("I'm just saying, and let him go to his research") are all in spec. The main drift is toward over-articulation: Zalthir elaborates where the spec says he'd just mark and move. Flag [1] is the strongest miss — it's Grygum's register, not Zalthir's.
+The core Zalthir voice is solid throughout — "True enough. Filed under things that are also true," the decisive questioning of Kalan's two-people-in-the-apartment logic, and the close ("I'm just saying, and let him go to his research") are all in spec. The main drift is toward over-articulation: Zalthir elaborates where the spec says he'd just mark and move. Flag [1] is the strongest miss — it's Gyrgum's register, not Zalthir's.

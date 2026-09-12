@@ -10,7 +10,7 @@
 
 ### Gnome Elemental Labor Dispute — Blingdenstone
 - **Outcome:** Success (party's position prevailed)
-- The party learned Blingdenstone intended to use newly available Earth Elementals as mining labor. Thorin argued this was morally wrong, Grygum invoked gnomish gods, Zalthir spoke of peace and harmony, and Daz drew a devastating parallel to Menzoberranzan's slave society. Senni Diggermattock seized control of the meeting, shouting "Gnome Labor, not Summoned Labor!" Leadership agreed Earth Elementals could be summoned for defense and warfare but NOT for building or mining labor, fundamentally disrupting the city's economic plans.
+- The party learned Blingdenstone intended to use newly available Earth Elementals as mining labor. Thorin argued this was morally wrong, Gyrgum invoked gnomish gods, Zalthir spoke of peace and harmony, and Daz drew a devastating parallel to Menzoberranzan's slave society. Senni Diggermattock seized control of the meeting, shouting "Gnome Labor, not Summoned Labor!" Leadership agreed Earth Elementals could be summoned for defense and warfare but NOT for building or mining labor, fundamentally disrupting the city's economic plans.
 
 ## NPC State Changes
 
@@ -24,7 +24,7 @@
 
 - **Entémoch's Boon gained:** Ability to summon Earth Elementals; protective blessing allowing skin to turn to stone once per day when struck in battle.
 - **Zalthir** acquired spectacles of glowing crystal granting ability to see invisible creatures and see through magical darkness.
-- **Grygum** had his mace and shield enchanted with protective magic, significantly improving defensive capabilities.
+- **Gyrgum** had his mace and shield enchanted with protective magic, significantly improving defensive capabilities.
 - **Dawnbringer** received a proper locking scabbard from Valimor Brightgem (prevents theft, keeps sword secure and presentable). Dawnbringer was pleased.
 - **Political reputation in Blingdenstone:** Earned gratitude and admiration of Blingdenstone's working gnomes for advocating against elemental labor exploitation.
 - Sold excess armor to Starlace.

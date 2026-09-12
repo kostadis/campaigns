@@ -1,6 +1,6 @@
 ## NPCs
 
-**Grygum**
+**Gyrgum**
 - Current location: Aboard a boat on the Darklake
 - Current state: Travelling with the group; tired, contemplative
 - Recent actions: Smiled silently when questioned about his faith; prepared to enter the water to push the boat off a sandbar before Daz intervened
@@ -10,9 +10,9 @@
 **Jimjar**
 - Current location: Aboard a boat on the Darklake
 - Current state: Travelling with the group
-- Recent actions: Asked Grygum why he follows Bahamut; attempted to fish out Grygum's theological position on divine will vs. free will
+- Recent actions: Asked Gyrgum why he follows Bahamut; attempted to fish out Gyrgum's theological position on divine will vs. free will
 - Faction: Unknown
-- Revealed motivations/secrets: Curious about Grygum's religious beliefs; implied familiarity with ongoing debates about Bahamut's role in the events at the Well of the Dragons
+- Revealed motivations/secrets: Curious about Gyrgum's religious beliefs; implied familiarity with ongoing debates about Bahamut's role in the events at the Well of the Dragons
 
 **Daz**
 - Current location: Aboard a boat on the Darklake
@@ -36,7 +36,7 @@
 **Thorin**
 - Current location: Aboard a boat on the Darklake
 - Current state: Travelling with the group
-- Recent actions: Prepared to enter the water alongside Grygum to push the boat off the sandbar before Daz intervened
+- Recent actions: Prepared to enter the water alongside Gyrgum to push the boat off the sandbar before Daz intervened
 - Faction: Unknown
 
 **Protanther** (referenced, not present)
@@ -59,7 +59,7 @@
 - Current goals: Not explicitly stated
 - Recent actions: A following has grown among non-dragon humanoids inspired by Bahamut's perceived intervention at the Well of the Dragons
 - Relationships to other factions: Opposed to Tiamat and her followers; historically, Dwarves and Dragons had an antagonistic relationship
-- Key members: Grygum (orc cleric)
+- Key members: Gyrgum (orc cleric)
 
 **Gold Dragons** (referenced faction)
 - Current goals: Not stated
@@ -71,10 +71,10 @@
 
 ## World Events
 
-- On the 9th day of the 3rd Tenday of Taraskh 1493, Jimjar questioned Grygum about his faith in Bahamut; Grygum declined to answer and smiled silently.
+- On the 9th day of the 3rd Tenday of Taraskh 1493, Jimjar questioned Gyrgum about his faith in Bahamut; Gyrgum declined to answer and smiled silently.
 - On the 10th day of the 3rd Tenday of Taraskh 1493, the party's boat struck a sandbar on the Darklake.
 - A swarm of demonic Manta Rays was observed in the water near the sandbar.
-- Grygum and Thorin prepared to enter the water to push the boat free.
+- Gyrgum and Thorin prepared to enter the water to push the boat free.
 - Daz cast Shape Water repeatedly, generating small waves over the sandbar sufficient to lift and free the boat.
 - The group applauded Daz upon the boat's successful release from the sandbar.
 - (Historical, referenced) The events of the Well of the Dragons occurred prior to the campaign's present day, involving a chess game between Stroud and Protanther and the subsequent opposition to Tiamat.
@@ -98,7 +98,7 @@
 
 ## Threads & Mysteries
 
-- **Grygum's true theological position**: Grygum deliberately avoided stating whether he believes Bahamut directly intervened at the Well of the Dragons or whether Stroud acted of his own free will. His personal conviction is unknown.
+- **Gyrgum's true theological position**: Gyrgum deliberately avoided stating whether he believes Bahamut directly intervened at the Well of the Dragons or whether Stroud acted of his own free will. His personal conviction is unknown.
 - **The demonic Manta Rays**: A swarm of demonic Manta Rays was spotted in the Darklake near the sandbar. Their nature, origin, and whether they pose an ongoing threat is unresolved.
 - **Protanther's true intent**: Whether Protanther deliberately lost the chess game, was divinely blinded by Bahamut, or genuinely failed to see the move remains an open in-world debate with no canonical resolution provided.
 - **Stroud's chess move**: Chess grandmasters found Stroud's explanation of his winning move incoherent, suggesting he did not understand how he made the move. Whether divine guidance, luck, or some other force was responsible is unresolved.

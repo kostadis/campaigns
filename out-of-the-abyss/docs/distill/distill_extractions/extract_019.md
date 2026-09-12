@@ -2,7 +2,7 @@
 
 **Thorin**
 - Current location: Whorlestone Caves / moving through cave complex
-- Current state: Active, recently healed by Grygum after battling centipedes
+- Current state: Active, recently healed by Gyrgum after battling centipedes
 - Recent actions: Killed centipedes; conversed with the Flumph; participated in negotiations with Gartokkar
 - Faction: Party
 - Notes: Self-described as not the type of barbarian who rages until everything dies
@@ -14,7 +14,7 @@
 - Faction: Party
 - Notes: Trained by monks to mask emotions; questions the scope of their mission, stating he came for magical equipment, not to defeat cults
 
-**Grygum**
+**Gyrgum**
 - Current location: Whorlestone Caves / Keeper of the Flame meeting location
 - Current state: Active
 - Recent actions: Healed Thorin after centipede battle; received trauma dump from Flumph; proposed plan to gather allies and weapons from Errde; led party to Gartokkar; instructed Flumph to trauma dump on Gartokkar; participated in negotiations
@@ -84,7 +84,7 @@
 - Current state: Deceased
 - Recent actions (postmortem): Body left in the Derro hovels area; death noted as unlikely to be discovered by factions in the caves
 - Faction: Formerly associated with the group; the Flumph mentions him as a friend who "went stark raving mad"
-- Notes: The Flumph knew Buppido personally; Grygum is silent when Buppido is mentioned
+- Notes: The Flumph knew Buppido personally; Gyrgum is silent when Buppido is mentioned
 
 **The Mind Flayer**
 - Current location: Down a hallway within or near the Whorlestone Caves
@@ -101,14 +101,14 @@
 **Werz**
 - Current location: Not present; referenced
 - Current state: Referenced as a target
-- Notes: A Duergar; the Flumph references that assassins with a magical light blade tried to kill him; the Flumph read this from Grygum's thoughts rather than from spoken words
+- Notes: A Duergar; the Flumph references that assassins with a magical light blade tried to kill him; the Flumph read this from Gyrgum's thoughts rather than from spoken words
 
 ---
 
 ## Factions
 
-**The Party (Thorin, Zalthir, Grygum, Daz)**
-- Current goals: Save the dragon egg (Grygum's priority); collect payment from Gartokkar and Errde; gather evidence against the Council of Savants and the Empty Scabbard Killers; track Droki; escape the Underdark (implied long-term)
+**The Party (Thorin, Zalthir, Gyrgum, Daz)**
+- Current goals: Save the dragon egg (Gyrgum's priority); collect payment from Gartokkar and Errde; gather evidence against the Council of Savants and the Empty Scabbard Killers; track Droki; escape the Underdark (implied long-term)
 - Recent actions: Defeated centipedes; encountered Flumph; gathered intelligence on the obelisk chamber, Plinki, the mind flayer, and the assassins; negotiated contract with Gartokkar for 2,000 gold plus 1,000 gold confidentiality rider with 30% upfront; plan to negotiate with Errde next
 - Relationships: Employed (loosely) by Gartokkar Xundorn and Errde; have previous dealings with Themberchaude; rest of the crew is holed up in a seedy bar
 
@@ -154,7 +154,7 @@
 ## World Events
 
 - The centipedes (referred to as "The Centipedes") were killed by Thorin and the party.
-- Grygum cast a healing prayer to Bahamut on Thorin, restoring him as if he had rested.
+- Gyrgum cast a healing prayer to Bahamut on Thorin, restoring him as if he had rested.
 - The party followed Droki's trail southwest into the Whorlestone Caves.
 - Zalthir discovered a natural cave containing dancing myconids (three five-foot-tall, several half-sized, one small sprout standing apart) and two quagoth spore servants behind them.
 - The party decided to leave the myconid cave for another time and continued following Droki's trail.
@@ -215,7 +215,7 @@
 ## Threads & Mysteries
 
 - **Droki's trail**: The party is actively tracking Droki through the Whorlestone Caves; he has not been caught or confronted in this chunk.
-- **The Dragon Egg**: Plinki intends to transform it into a dual-headed dragon mount for Demogorgon; Gartokkar wants it as insurance against Themberchaude; Grygum is religiously obligated by Bahamut to save it; its current physical location is the obelisk chamber.
+- **The Dragon Egg**: Plinki intends to transform it into a dual-headed dragon mount for Demogorgon; Gartokkar wants it as insurance against Themberchaude; Gyrgum is religiously obligated by Bahamut to save it; its current physical location is the obelisk chamber.
 - **The Obelisk / Pyramid**: Strange markings are on it; Plinki is attempting to make it "do something evil"; the written papers in the obelisk room were referenced but the Flumph could not provide their content — what do they say?
 - **The Unnamed Council of Savants / Gray Ghost Derro**: Identity unknown; located in the side passageway to the obelisk cave with four guards; significance of holding dual insignia unclear.
 - **The Mind Flayer**: Lives in a nearby hallway; its relationship to the other factions is unknown; the Flumph survives by remaining unknown to it.
@@ -226,6 +226,6 @@
 - **The Statue of Demogorgon**: Gartokkar has demanded this as physical proof of demonic worship; it has not yet been retrieved; its location within the obelisk chamber is implied but not confirmed.
 - **The Rest of the Crew**: The party's other companions are holed up in a seedy bar; their identities, number, and readiness to assist are not detailed in this chunk.
 - **Escape Plan via Themberchaude**: Thorin referenced an existing plan to escape on the back of Themberchaude; the feasibility and current status of this plan are unresolved.
-- **Buppido's Madness and Death**: Buppido was known to the Flumph as a friend who went stark raving mad; Grygum goes silent when Buppido is mentioned; the full circumstances of Buppido's death and whether anyone in-world knows are unresolved.
+- **Buppido's Madness and Death**: Buppido was known to the Flumph as a friend who went stark raving mad; Gyrgum goes silent when Buppido is mentioned; the full circumstances of Buppido's death and whether anyone in-world knows are unresolved.
 - **Prince Derendil**: Referenced by Zalthir as a past acquaintance (mad quagoth who was a polymorphed elf); current status and fate unknown.
 - **Milo Goodbarrel**: Referenced as an author whose work influenced Daz; his current whereabouts and role (if any) in the campaign are unknown.

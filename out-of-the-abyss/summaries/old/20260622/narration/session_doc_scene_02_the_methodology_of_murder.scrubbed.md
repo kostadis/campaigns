@@ -18,7 +18,7 @@ I looked at him. This was the second person at Candlekeep to angle for a monogra
 
 "I'm sorry — it would not be a monograph if we wrote it together."
 
-Grygum agreed immediately. Elian backed up and tried again. What he'd meant, he clarified, was that he'd write the monograph, and I might contribute a preface, saying what an excellent monograph it was.
+Gyrgum agreed immediately. Elian backed up and tried again. What he'd meant, he clarified, was that he'd write the monograph, and I might contribute a preface, saying what an excellent monograph it was.
 
 "I'll write the introduction," I said.
 
@@ -46,7 +46,7 @@ The question that had been sitting in the back of my skull moved forward.
 
 "Well, I'm interested — even if we were able to actually cast Speak with Dead, how do you know they're a reliable narrator? What are their motivations after they're dead? We don't know. Because they're dead."
 
-Grygum said we could sometimes bring them back, which was technically true and didn't touch what I was asking. Elian said the paper had a whole section on it: the *myth of the person.* The assumption that death is a transparency, that the dead have shed their performances and will now simply tell you what's true. They don't. They're still themselves. They forget, misattribute, have things they'd rather believe about what happened. They just have fewer consequences now for getting it wrong.
+Gyrgum said we could sometimes bring them back, which was technically true and didn't touch what I was asking. Elian said the paper had a whole section on it: the *myth of the person.* The assumption that death is a transparency, that the dead have shed their performances and will now simply tell you what's true. They don't. They're still themselves. They forget, misattribute, have things they'd rather believe about what happened. They just have fewer consequences now for getting it wrong.
 
 "Okay — oh, the myth of the person. I'll have to look at it."
 
@@ -60,13 +60,13 @@ In the Underdark, the one thing that didn't lie was terrain. You couldn't trust 
 
 "Exactly." The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid. "Oh wait, don't — please, I don't need another —" I started, because Elian had the look of a man reaching for a second document.
 
-Grygum stepped in: *"Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?"*
+Gyrgum stepped in: *"Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?"*
 
 "Yeah, there you go," I said.
 
 Elian lit up. Could he use it?
 
-"Yes," Grygum said, with tremendous dignity. "I made it up myself."
+"Yes," Gyrgum said, with tremendous dignity. "I made it up myself."
 
 He did not make it up himself. I've heard it before, somewhere, in something I read a long time ago. But it was his contribution to the afternoon and I wasn't going to complicate that.
 

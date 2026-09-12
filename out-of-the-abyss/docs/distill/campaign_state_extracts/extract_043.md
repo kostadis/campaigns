@@ -5,7 +5,7 @@
 - **Consequences:** The Medusa's lair was looted (five spider silk dresses of considerable value). Glabbagool consumed the Medusa's remains.
 
 ### Ogrémoch's Bane — Elemental entity banishment (IN PROGRESS — partially completed)
-- **Status:** The party is actively cleansing the ancient temple of Ogrémoch's Bane. Grygum placed the Ruby spell gem (provided by Gerdig Katfinger/Kazook Pickshine) into the great menhir. Three Earth Elementals have been defeated so far, each freeing a Galeb Duhr guardian from Ogrémoch's control. A fourth Galeb Duhr appeared after the third elemental's destruction, indicating more elementals remain. **Not yet fully resolved.**
+- **Status:** The party is actively cleansing the ancient temple of Ogrémoch's Bane. Gyrgum placed the Ruby spell gem (provided by Gerdig Katfinger/Kazook Pickshine) into the great menhir. Three Earth Elementals have been defeated so far, each freeing a Galeb Duhr guardian from Ogrémoch's control. A fourth Galeb Duhr appeared after the third elemental's destruction, indicating more elementals remain. **Not yet fully resolved.**
 
 ### Cleanse the Steadfast Stone — Rockblight (IN PROGRESS)
 - The Medusa guarding the area has been defeated. The temple cleansing ritual via the menhir is underway but not complete — multiple Earth Elementals must still be destroyed to free all Galeb Duhr guardians and fully banish Ogrémoch's Bane.

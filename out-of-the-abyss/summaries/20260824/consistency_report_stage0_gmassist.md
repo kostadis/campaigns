@@ -147,7 +147,7 @@
 - **Evidence**: `20260824_worth_two_faces.md`: *"**Two bodies. That is the twist and it is the title of this document.**"* Statblock deltas: A at HP 95 / AC 19 (robe + staff), B at HP 95 / AC 15, shared slot pool, 3 shared Legendary Resistances, 2 shared legendary actions.
 - **Suggested fix**: Verify against the transcript whether B was revealed, spotted, or is still concealed. If concealed, the recap is fine as written but should not imply the fight is a single-opponent encounter — next session's prep depends on knowing whether the party knows.
 
-## 22. "Grygum named the holy triumvirate that patroned the great library" — check the phrasing, not the facts
+## 22. "Gyrgum named the holy triumvirate that patroned the great library" — check the phrasing, not the facts
 
 - **Location**: Summary (¶7); Scenes → *Riddles of the Iron Guardian*; canon check
 - **Issue**: Not an error — **Oghma, Deneir, Milil** are all canon deities in the registry, and Candlekeep's traditional patrons. Flagging only that "patroned" and "holy triumvirate" are the recap's own phrasing, not attested canon terminology.

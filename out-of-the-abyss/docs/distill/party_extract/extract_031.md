@@ -1,6 +1,6 @@
 ## Character Progression
 
-### Grygum
+### Gyrgum
 - No level change noted.
 - Mending skills highlighted as valuable to the party.
 - **Items gained:** Faerzress quartz crystals (multiple collections across sessions).
@@ -34,13 +34,13 @@
 - **Daz (Negative):** Suffered severe necrotic life drain from two Spectre attacks, weakening his life force and leaving him in a vulnerable state.
 - **Zalthir (Positive):** Successfully destroyed two Spectres with unarmed strikes, demonstrating his monk discipline against incorporeal foes.
 - **Zalthir (Negative):** Made an irrational snap conclusion ("Proof here of a lower power") that he immediately recognized as dangerous self-deception — a moment of self-awareness about how easily the mind can be misled in hostile environments.
-- **Grygum (Positive):** Discovered the hidden passage beneath the northeast sarcophagus (stone rollers) and identified critical undead lore (wraiths create spectres from their victims).
+- **Gyrgum (Positive):** Discovered the hidden passage beneath the northeast sarcophagus (stone rollers) and identified critical undead lore (wraiths create spectres from their victims).
 
 ## Relationships & Decisions
 
 - **Daz:** Chose to invite Fuurm Coppernose (farmer searching for his sister) and Baedora (both human escapees from the Drow) to join the party. Showed compassion but also pragmatism.
 - **Daz:** Decided to smash the Faerzress crystal cavern to disguise evidence of the party's passage and crystal collection — a deliberate deception to throw off Drow pursuit.
-- **Grygum:** Made a bet with Jimjar that the collected crystals would prove useful — turning Jimjar's habitual gambling back on him.
+- **Gyrgum:** Made a bet with Jimjar that the collected crystals would prove useful — turning Jimjar's habitual gambling back on him.
 - **Zalthir:** Chose to cast magical darkness during the Spectre fight, knowingly preventing Daz from using Magic Missile within it — a calculated tactical trade-off that affected a party member.
 - **Party collectively:** Decided to enter the Lost Tomb of Khaem in response to the telepathic plea of a trapped feminine voice, which conveniently aligned with their intended route (confirmed by Serith).
 

@@ -1,8 +1,8 @@
 # Chapter 25 Leaving Gracklstugh, going to a wedding, and picking up a gift along the way, just in case. 
-### Grygum
+### Gyrgum
 
 
-Here I am, Grygum, half-orc cleric of Bahamut, and Gracklstugh is what makes an orc camp look pretty. 
+Here I am, Gyrgum, half-orc cleric of Bahamut, and Gracklstugh is what makes an orc camp look pretty. 
 
 
 Any escape will require some "clever and insane scheme" to get through the barred gates of Laduguer's Furrow. 
@@ -65,7 +65,7 @@ The creature groans as it flaps its wings, and then we are airborne. To fly on a
 The dragon shouts, “Where to?” 
 
 
-Grygum looks at me. Thorin mutters, “We should just tell him everything. Nah.” 
+Gyrgum looks at me. Thorin mutters, “We should just tell him everything. Nah.” 
 
 
 I am relieved. I do not want to have a dragon destroy a city while I am on its back. 
@@ -77,10 +77,10 @@ After conferring, we agree that the right place to go is the docks.
 Themberchaud is unimpressed - and roars -  “My agents have more pressing matters than to loiter among the common rabble and petty traitors of the Dark Lake.”
 
 
-Grygum tries to persuade him but fails. I begin to worry. 
+Gyrgum tries to persuade him but fails. I begin to worry. 
 
 
-Grygum asks the dragon, “Where do you think we should go, oh Great Themberchaud?” 
+Gyrgum asks the dragon, “Where do you think we should go, oh Great Themberchaud?” 
 
 
 As I guessed, he has no idea what to do. He pouts, “Well, I have many agents, and they have many places to look. You're my most recent agents, and you've been out and about for a few days. Where do you think we should be looking for information?
@@ -92,7 +92,7 @@ I again insist that we should go to the Darklake District, and again, he seems u
 “Are you suggesting I am missing something important?” 
 
 
-Grygum shouts, “You’re not one of the peons who understands the little things. But we are as little as you get, adn we can find the little things that are big for us.” 
+Gyrgum shouts, “You’re not one of the peons who understands the little things. But we are as little as you get, adn we can find the little things that are big for us.” 
 
 
 Zalthir, having seen abbots like this dragon, who just want a face-saving gesture, shouts, “There was an attack on the docks, so there might be new intelligence. Your agents didn’t miss it; they just haven’t been there recently.” 
@@ -104,13 +104,13 @@ The dragon agrees and tries to make a turn. But he’s fast, and his belly rolls
 Not for long, that’s what Misty Step is for. 
 
 
-And as I look down, I notice Grygum and Thorin falling. Zalthir has sprouted wings. He catches Thorin. 
+And as I look down, I notice Gyrgum and Thorin falling. Zalthir has sprouted wings. He catches Thorin. 
 
 
-The ghoul Jimjar shouts, “Anyone want to make a bet that Grygum is going to survive?” 
+The ghoul Jimjar shouts, “Anyone want to make a bet that Gyrgum is going to survive?” 
 
 
-Grygum seems to shout, “I’ll take the bet.” 
+Gyrgum seems to shout, “I’ll take the bet.” 
 
 
 And it would have been a good one for him to take. Jimjar throws a rope and catches the falling orc. And then the group pulls him onto the dragon, which is frantically trying to catch his agent. 
@@ -173,7 +173,7 @@ He clears his throat and tries to hide the quaver, “Halt in the name of the De
 That’s a surprise. The guard didn’t think we are the Ember Vanguard. Maybe we can get out of here without bloodshed.  
 
 
-Before I can react, Grygum says that they come in Themberchaud’s name. 
+Before I can react, Gyrgum says that they come in Themberchaud’s name. 
 
 
 The guard still refuses to let us pass. 
@@ -182,7 +182,7 @@ The guard still refuses to let us pass.
 “Shall I recall him?” asks the cleric. 
 
 
-I stand next to Grygum to make myself look as scary as possible. And we fail. The guard is unimpressed, but then he looks at a poster of the Ember Vanguard, and whispers, “I know you, you are the Ember Vanguard! I must warn Captain Errde at once!” 
+I stand next to Gyrgum to make myself look as scary as possible. And we fail. The guard is unimpressed, but then he looks at a poster of the Ember Vanguard, and whispers, “I know you, you are the Ember Vanguard! I must warn Captain Errde at once!” 
 
 
 We have to kill him. As I explain, “In the interest of avoiding mass bloodshed, I think we must.” 
@@ -191,13 +191,13 @@ We have to kill him. As I explain, “In the interest of avoiding mass bloodshed
 Thorin mutters an old giant saying, “To save the village, you must smash the village.” 
 
 
-Grygum walks up to the guard and whispers that we are impersonators trying to flush out the Ember Vanguard. “We are not them, but we are on a vital mission.” 
+Gyrgum walks up to the guard and whispers that we are impersonators trying to flush out the Ember Vanguard. “We are not them, but we are on a vital mission.” 
 
 
-Thorin turns to Grygum, “Deputize them!” 
+Thorin turns to Gyrgum, “Deputize them!” 
 
 
-Grygum nods and pulls out a caltrop, “This is a symbol of our mission. Guard it and keep it secret.” 
+Gyrgum nods and pulls out a caltrop, “This is a symbol of our mission. Guard it and keep it secret.” 
 
 
 The Duergar takes the caltrop and then runs off. 
@@ -245,7 +245,7 @@ Just as we are about to set sail, Jimjar says something bizarre - "I'll bet you 
 Great, a wedding involving demons and mushrooms. 
 
 
-I hope no one will take him up on his weird bet, but Grygum does. 
+I hope no one will take him up on his weird bet, but Gyrgum does. 
 
 
 ## 4th-6th day of the 2nd tenday of Myrtul 1493
@@ -281,7 +281,7 @@ Errde will have probably told the Drow that we came through her city, and they w
 Leaving the boat is like leaving a sign. But we might need it later. 
 
 
-Grygum shouts, “We could scuttle it.” 
+Gyrgum shouts, “We could scuttle it.” 
 
 
 I stare at him, perplexed. 

@@ -21,7 +21,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
   - **Primary (Common):** Identifies him as a paladin of Bahamut killed breaking a Cult of the Dragon recruitment operation; monument funded by the Metalworkers Guild two years after the war
   - **Secondary (Dwarven):** *The move is yours* — party identified this as Stroudite language; the village priest confirmed it was a gift whose original inscription was retained
   - **Tertiary (back, Common):** "Witnessed and recorded for the Gauntlet," signed by **Milo Goodbarrel**
-- Grygum purchased a pewter miniature reproduction of Tarvis's hand, sold by the village priest as charitable fundraising for the Order of the Gauntlet
+- Gyrgum purchased a pewter miniature reproduction of Tarvis's hand, sold by the village priest as charitable fundraising for the Order of the Gauntlet
 
 ## Current Status
 - **Dead.** Monument stands in Daggerford's market square.
@@ -34,7 +34,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Order of the Gauntlet:** Affiliated faction; the village priest fundraises in his name for the Order
 - **Metalworkers Guild (Daggerford):** Funded the monument two years after the war
 - **Stroudites:** Connected via the Dwarven inscription — origin and nature of this relationship unknown
-- **Grygum (party):** Purchased the pewter hand memorial; personal connection established
+- **Gyrgum (party):** Purchased the pewter hand memorial; personal connection established
 
 ## Arc Score Events
 - N/A — NPC is deceased and has not directly interacted with the party

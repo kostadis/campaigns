@@ -62,15 +62,15 @@
 
 ---
 
-### Issue 6 — Key holder changed from Grygum to Daz; campaign_state not updated
+### Issue 6 — Key holder changed from Gyrgum to Daz; campaign_state not updated
 
-**Location:** Summary ("Grygum had quietly slipped the key once worn around Kalan Strongbranch's neck into Daz's keeping"), Scene "The Academic Distraction" (Grygum hands key to Daz), Spells section (Daz uses Identify on the key)
+**Location:** Summary ("Gyrgum had quietly slipped the key once worn around Kalan Strongbranch's neck into Daz's keeping"), Scene "The Academic Distraction" (Gyrgum hands key to Daz), Spells section (Daz uses Identify on the key)
 
-**Issue:** The campaign_state.md and player\_murder\_investigation\_tracker (Part 3) both record the key as "held by Grygum." This session describes Grygum passing it to Daz before departing for the disputation. The transfer is internally consistent in the recap and plausible (GM prep 20260615 explicitly notes: "He's not walking into an academic auditorium holding Kalan's key. He passes it before he goes — to whoever is closest, without ceremony. **Note which PC takes it.** It opens the High Tower from outside in a later session and the handoff PC is load-bearing.")
+**Issue:** The campaign_state.md and player\_murder\_investigation\_tracker (Part 3) both record the key as "held by Gyrgum." This session describes Gyrgum passing it to Daz before departing for the disputation. The transfer is internally consistent in the recap and plausible (GM prep 20260615 explicitly notes: "He's not walking into an academic auditorium holding Kalan's key. He passes it before he goes — to whoever is closest, without ceremony. **Note which PC takes it.** It opens the High Tower from outside in a later session and the handoff PC is load-bearing.")
 
-**Evidence:** campaign\_state.md: "Kalan's — held by Grygum." candlekeep\_arc\_flowchart.md S5/S6: "second-key PC opens the door" — the holding character is load-bearing for Session 6's climax. The GM prep acknowledges a handoff must happen; the recap records it going to Daz.
+**Evidence:** campaign\_state.md: "Kalan's — held by Gyrgum." candlekeep\_arc\_flowchart.md S5/S6: "second-key PC opens the door" — the holding character is load-bearing for Session 6's climax. The GM prep acknowledges a handoff must happen; the recap records it going to Daz.
 
-**Suggested fix:** Update campaign\_state.md to "Kalan's — held by Daz" and add a note recording when the transfer occurred (Chapter 56). Flag for Session 6 prep that the door-opener is now Daz, not Grygum.
+**Suggested fix:** Update campaign\_state.md to "Kalan's — held by Daz" and add a note recording when the transfer occurred (Chapter 56). Flag for Session 6 prep that the door-opener is now Daz, not Gyrgum.
 
 ---
 

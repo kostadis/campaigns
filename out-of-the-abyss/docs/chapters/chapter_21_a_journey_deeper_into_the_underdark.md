@@ -16,7 +16,7 @@ Shifting his gaze to the adjacent topmost tier, another exclamation followed, th
 Near the base of this imposing obelisk stood a lone figure: a female derro. Her actions were curious; she stood close to the black metal, gently patting and stroking its cool surface with an almost reverent touch. Suddenly, the obelisk emitted a brief flash of light, a pulse that caused the ambient glow of the faerzress within the cavern to momentarily flare in response, intensifying the eerie illumination. The derro reacted with a sharp squeal of glee at this display. Immediately following the flash, she bent down and snatched an object from the ground near the obelisk. With the object now in hand, she produced a small notebook and began to diligently write something within its pages, her brow furrowed in concentration.
 
 
-Grygum coughs, “I am a cleric of Bahamut, and I am drawn to this egg.” 
+Gyrgum coughs, “I am a cleric of Bahamut, and I am drawn to this egg.” 
 
 
 He points to the egg. 
@@ -31,34 +31,34 @@ But something about his demeanor made her excited, “A cleric of Bahamut to see
 She shouts, “Come here!” 
 
 
-Grygum circles the mesa, finds a ramp in the back, and starts to climb. 
+Gyrgum circles the mesa, finds a ramp in the back, and starts to climb. 
 
 
-As he walks, he notices that Thorin, Daz, and Grygum follow him from a distance. 
+As he walks, he notices that Thorin, Daz, and Gyrgum follow him from a distance. 
 
 
 Plinki is ignoring their presence. Instead, she motions to several other Derro to come to the egg. 
 
 
-Grygum counts them, “six.” 
+Gyrgum counts them, “six.” 
 
 
-Once standing in front of the egg, Plinki points to Grygum’s friends and asks  , “Who are they?” 
+Once standing in front of the egg, Plinki points to Gyrgum’s friends and asks  , “Who are they?” 
 
 
-“They are my companions. They are not as enlightened as I.” Grygum looks at the egg, and can feel its evil. “Tell me about this egg?”  
+“They are my companions. They are not as enlightened as I.” Gyrgum looks at the egg, and can feel its evil. “Tell me about this egg?”  
 
 
 “The Grey Ghosts stole it from the Keepers of the Flame. And then I brought it here. I have been using this magical artifact to infuse it with the spirit of a demon in honor of Demogorgon.” 
 
 
-Grygum looks at Plinki and realizes that the poor Derro is confused about his sub-sect of the Cult of Bahamut. Unlike traditionalists who view the color of scales as the defining characteristic of Dragons, and that Dragons are fixed in their temperament, Grygum believes that Dragons have freedom of choice. And thus, for Grygum, there is no good or evil dragon because of its scales, but goodness and evil flow from the choices of dragons. 
+Gyrgum looks at Plinki and realizes that the poor Derro is confused about his sub-sect of the Cult of Bahamut. Unlike traditionalists who view the color of scales as the defining characteristic of Dragons, and that Dragons are fixed in their temperament, Gyrgum believes that Dragons have freedom of choice. And thus, for Gyrgum, there is no good or evil dragon because of its scales, but goodness and evil flow from the choices of dragons. 
 
 
-As Grygum reflects on this, he also notices that Plinki has gotten closer and that the other Derro have surrounded him. So when Plinki declares, “The beating heart of a cleric of Bahamut will seal the ritual!” He’s not surprised. 
+As Gyrgum reflects on this, he also notices that Plinki has gotten closer and that the other Derro have surrounded him. So when Plinki declares, “The beating heart of a cleric of Bahamut will seal the ritual!” He’s not surprised. 
 
 
-Grygum shouts, “The Drow hates dragons and will destroy the egg if you do not back down!” 
+Gyrgum shouts, “The Drow hates dragons and will destroy the egg if you do not back down!” 
 
 
 Plinki hesitates. 
@@ -67,4 +67,4 @@ Plinki hesitates.
 Thorin shouts, “What would a dragon omelet taste like? And would this one have two yolks?” 
 
 
-And then Grygum is enveloped in Darkness. Zalthir has enveloped the entire top tier in his magical darkness. Grygum hears the thuds of Zalthir’s fists on the crazed Derro. Plinki shouts, “Let me go!” Grygum smiles. Plinki has been grappled. And since he is grappled, Grygum will show him the true power of Bahamut. He utters words of cruel power, rakes his hand through the air before Plinki. Magic follows, forming a great claw that glimmers in the air for the blink of an eye. This necromancy seeks to rend armor, unstitch flesh, crush bone—to do whatever it must to destroy your enemy.
+And then Gyrgum is enveloped in Darkness. Zalthir has enveloped the entire top tier in his magical darkness. Gyrgum hears the thuds of Zalthir’s fists on the crazed Derro. Plinki shouts, “Let me go!” Gyrgum smiles. Plinki has been grappled. And since he is grappled, Gyrgum will show him the true power of Bahamut. He utters words of cruel power, rakes his hand through the air before Plinki. Magic follows, forming a great claw that glimmers in the air for the blink of an eye. This necromancy seeks to rend armor, unstitch flesh, crush bone—to do whatever it must to destroy your enemy.

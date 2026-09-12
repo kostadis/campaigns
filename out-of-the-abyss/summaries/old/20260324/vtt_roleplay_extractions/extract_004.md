@@ -2,10 +2,10 @@ Here are the significant roleplay moments extracted from this transcript portion
 
 ---
 
-**Joe Beda (as Thorin)** — *Borrowing a crossbow from Grygum before the battle*
+**Joe Beda (as Thorin)** — *Borrowing a crossbow from Gyrgum before the battle*
 > "I'm gonna borrow your, like, crossbow, Ben."
 
-**Ben Pfaff (as Grygum)** — *Lending the crossbow*
+**Ben Pfaff (as Gyrgum)** — *Lending the crossbow*
 > "Alright, it's yours."
 
 **Joe Beda (as Thorin)** — *Explaining why he needs it*
@@ -13,7 +13,7 @@ Here are the significant roleplay moments extracted from this transcript portion
 
 ---
 
-**Ben Pfaff (as Grygum)** — *Confirming the nature of the heart fungus before the fight*
+**Ben Pfaff (as Gyrgum)** — *Confirming the nature of the heart fungus before the fight*
 > "I'm going to guess that a big heart fungus is some sort of supernatural creature."
 
 **Kostadis Roussos (GM)** — *Confirming*
@@ -29,7 +29,7 @@ Here are the significant roleplay moments extracted from this transcript portion
 
 ---
 
-**Ben Pfaff (as Grygum)** — *Offering poisoned bolts*
+**Ben Pfaff (as Gyrgum)** — *Offering poisoned bolts*
 > "I do have a limited supply of poisoned crossbow bolts."
 
 **Joe Beda (as Thorin)** — *Declining for now*
@@ -45,11 +45,11 @@ Here are the significant roleplay moments extracted from this transcript portion
 **Gabe (as Zalthir)** — *Initiating the assault with characteristically blunt simplicity*
 > "So, I teleport here. I move up to her, and I punch her."
 
-**Ben Pfaff (as Grygum)** — *Reacting with amusement*
+**Ben Pfaff (as Gyrgum)** — *Reacting with amusement*
 > "Well, that's straightforward."
 > "Don't expect anything as simple as that."
 
-**Ben Pfaff (as Grygum)** — *Self-deprecating humor about his own combat prowess*
+**Ben Pfaff (as Gyrgum)** — *Self-deprecating humor about his own combat prowess*
 > "I hope you're better at punching than I am. The last time I did it, it did 0 points of damage."
 
 ---
@@ -86,7 +86,7 @@ Here are the significant roleplay moments extracted from this transcript portion
 **Kostadis Roussos (GM)** — *The heart fungus retaliates*
 > "She tells the heart fungus to lash out at you. She… and you're not sure whether she's controlling it, or the heart fungus is just doing its thing."
 
-**Ben Pfaff (as Grygum)** — *Terrible pun*
+**Ben Pfaff (as Gyrgum)** — *Terrible pun*
 > "I mean, that thing is all heart."
 
 ---
@@ -122,7 +122,7 @@ Here are the significant roleplay moments extracted from this transcript portion
 
 ---
 
-**Ben Pfaff (as Grygum/Thorin)** — *Taunting Jorlan into the glyph trap*
+**Ben Pfaff (as Gyrgum/Thorin)** — *Taunting Jorlan into the glyph trap*
 > "I try to attract him this way, you know, come get it, idiot."
 
 **Kostadis Roussos (GM)** — *Confirming the taunt works*
@@ -145,7 +145,7 @@ Here are the significant roleplay moments extracted from this transcript portion
 **Kostadis Roussos (GM)** — *Describing the glyph's devastating results on the heart fungus*
 > "He gets, you know, minus 4… He blows his saving throw."
 
-**Ben Pfaff (as Grygum)** — *Marveling at the trap's effectiveness*
+**Ben Pfaff (as Gyrgum)** — *Marveling at the trap's effectiveness*
 > "That worked better than I had any right to expect."
 
 ---
@@ -158,7 +158,7 @@ Here are the significant roleplay moments extracted from this transcript portion
 **Joe Beda (as Thorin)** — *Consulting the party before his turn*
 > "Alright, guys, should I attack one of the Shamblers, or Jorlan, or go for the Big Heart Fungus? What do you think is most effective here?"
 
-**Ben Pfaff (as Grygum)** — *Advising Thorin*
+**Ben Pfaff (as Gyrgum)** — *Advising Thorin*
 > "Gosh, I'm just not too worried about the shamblers... I'm more worried about Jorlan. Alright. I'd go after him."
 
 **Joe Beda (as Thorin)** — *Committing to engaging Jorlan, noting his blindsight advantage*

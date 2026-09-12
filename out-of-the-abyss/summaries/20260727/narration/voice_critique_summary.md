@@ -2,12 +2,12 @@
 
 **Narration critiqued:** 4 scenes, all re-run from `scene_extractions_smoothed/`
 (01 @ 17:45, 02 @ 17:48, 03 @ 17:52, 04 @ 22:41 — no `.scrubbed.md` variants exist, raw `.md` used)
-**Inputs available and used:** `voice/_genre.md`, `voice/grygum_voice.md`, `voice/daz_voice.md`, `voice/zalthir_voice.md`, `examples/grygum.md`, `examples/daz.md`, `examples/zalthir.md`, `docs/daz_backstory.md`, `narration/plan.md`
+**Inputs available and used:** `voice/_genre.md`, `voice/gyrgum_voice.md`, `voice/daz_voice.md`, `voice/zalthir_voice.md`, `examples/gyrgum.md`, `examples/daz.md`, `examples/zalthir.md`, `docs/daz_backstory.md`, `narration/plan.md`
 **Supersedes:** the 17:03–17:05 reports on the pre-smoothed drafts
 
 | Scene | Narrator | Flags | Was | Heaviest issue |
 |---|---|---|---|---|
-| 01 Silence of Candlekeep | Grygum | 5 | 4 | Dawnbringer referent still lost |
+| 01 Silence of Candlekeep | Gyrgum | 5 | 4 | Dawnbringer referent still lost |
 | 02 Path to the High Tower | Daz | 6 | 6 | Two bookkeeping nouns stacked in one sentence |
 | 03 Infiltration of the Lobby | Zalthir | 6 | 6 | Duplicated clause + `Whorlstone` fabrication |
 | 04 Confrontation at the Tower | Daz | 6 | 6 | Opens on scene 03's closing beats |
@@ -35,7 +35,7 @@ Scene 02 is the only regression.
 
 New this run, and it shows up in two different narrators:
 
-- **Scene 01** — `My old teacher had a habit of asking, at exactly the wrong moment, *what are you optimizing for?*` is `grygum_voice.md`'s illustration reproduced word for word, including "at exactly the wrong moment."
+- **Scene 01** — `My old teacher had a habit of asking, at exactly the wrong moment, *what are you optimizing for?*` is `gyrgum_voice.md`'s illustration reproduced word for word, including "at exactly the wrong moment."
 - **Scene 03** — `or possibly it was Brother Quellin` uses the exact name from `zalthir_voice.md`'s example, in defiance of that file's **IMPORTANT** instruction to invent a different monk every time. The previous draft got this right with Brother Tharusk.
 
 What makes it diagnosable rather than ambiguous: **scene 03 gets it right four lines later** — `Brother Aldas taught it — or possibly Brother Harren` — two fresh names, correct uncertainty. The device is understood; one instance just copied the manual.
@@ -48,13 +48,13 @@ These are not source problems. Re-running produces them again:
 
 1. **Scene 01 — the Dawnbringer referent.** The smoothed source preserves `"the four of you look at her"` byte-identical per your ruling. Both drafts render it as the four PCs looking at each other. Two runs, two source layers, same loss.
 2. **Scene 02 — `working the same geometry I was`.** Zalthir's lexicon on Daz, same scene, same beat, both drafts.
-3. **Scene 03 — `The Whorlstone entrance`.** Grygum said `"Yes. Entrance. Basically."` The model back-fills a Gracklstugh location name into the unfinished fragment. It reproduced from *two different input directories*, which rules out the source and confirms the fabrication.
+3. **Scene 03 — `The Whorlstone entrance`.** Gyrgum said `"Yes. Entrance. Basically."` The model back-fills a Gracklstugh location name into the unfinished fragment. It reproduced from *two different input directories*, which rules out the source and confirms the fabrication.
 
 All three are single-line hand-edits.
 
 ## Cross-narrator convergence worth one edit
 
-Scene 03 and scene 04 respond to the *same* Grygum line with the same idiom:
+Scene 03 and scene 04 respond to the *same* Gyrgum line with the same idiom:
 
 > **Right on both counts.** …powerful wizards are more obsessed with staying alive than with fighting to the death. *(Zalthir)*
 > **Correct on both counts.** …powerful wizards share one trait with Menzoberranzan matrons… *(Daz)*

@@ -1,6 +1,6 @@
 ## Jimjar
 
-Jimjar stares at Grygum and asks him, "Why are you a follower of Bahamut?" He was fishing to find out what Grygum believed about the nature of Bahamut's influence—whether it was divine intervention, individual agency, or fate—that led to the famous chess match between Protanther and Stroud. When Grygum smiles and says nothing, Jimjar simply stares back. He appears to be traveling with the party on the Darklake. Last seen on the boat on the 9th day of the 3rd Tenday of Taraskh 1493.
+Jimjar stares at Gyrgum and asks him, "Why are you a follower of Bahamut?" He was fishing to find out what Gyrgum believed about the nature of Bahamut's influence—whether it was divine intervention, individual agency, or fate—that led to the famous chess match between Protanther and Stroud. When Gyrgum smiles and says nothing, Jimjar simply stares back. He appears to be traveling with the party on the Darklake. Last seen on the boat on the 9th day of the 3rd Tenday of Taraskh 1493.
 
 ## Protanther
 

@@ -2,7 +2,7 @@
 
 - **Thorin**: No level change. No new items gained yet, but has been offered 175 gold pieces worth of equipment from the Stone Guard armory (not yet claimed). Has a pending offer of 175 more gold upon completing the Droki mission.
 - **Daz**: No level or item changes noted.
-- **Grygum**: No level or item changes noted.
+- **Gyrgum**: No level or item changes noted.
 - **Zalthir**: No level or item changes noted.
 
 ## Arc Score Events
@@ -13,7 +13,7 @@
 - **Daz** (Positive): Showed shrewd negotiation instincts—pushed back against Errde Blackskull's request, demanding remuneration, and leveraged the Blade Bazaar corruption observations as proof to secure a reward.
 - **Daz** (Positive): Asked probing, insightful questions about the red dragon Themberchaud's situation, demonstrating his curiosity and analytical nature.
 - **Zalthir** (Neutral): Caught the attention of Gartokkar Xundorn, who specifically identified Zalthir's "skill set" as valuable, suggesting his abilities are notable and recognized by powerful figures.
-- **Grygum** (Positive): Scouted the Darklake Brewery interior for the party, providing useful intelligence. Made a joke that landed well with the Duergar Gartokkar.
+- **Gyrgum** (Positive): Scouted the Darklake Brewery interior for the party, providing useful intelligence. Made a joke that landed well with the Duergar Gartokkar.
 
 ## Relationships & Decisions
 

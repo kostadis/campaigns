@@ -25,7 +25,7 @@
 - **Daz**: Executed two-phase deception using Dancing Lights and familiar dismissal to simulate Lolth visitation. Multiple deception rolls: 13 (flat), then with Advantage (result not stated clearly as success), then 5 (flat, failed), then used Inspiration to reroll (rolled another 5). Rolled Insight 18 — understood Asha is looking for allies, not convinced Daz is Lolth, but sees him as a potential useful delusional magic user. Rolled Religion 18 — recalled that drow clerics distrust magic users who claim to commune directly with Lolth without priestly intermediaries; correctly pivoted strategy away from claiming to be Lolth.
 - **Party**: Sidebared to discuss tactical options. Agreed on killing Ilvara and looting her items. Discussed: Glyph of Warding placement logistics (requires luring Ilvara), Dust of Sullymen on the heart fungus vs. Ilvara, Phantasmal Killer, and Fireball. Ben's character noted all powerful options are 4th-level and only one 4th-level slot available.
 - **Zalthir (Gabe)**: Raised questions about pool depth (3–4 feet, difficult terrain), range of vents on map, and the idea of grabbing Ilvara and dropping her in a pool. Noted he is melee-only and can go punch Ilvara directly or teleport to grab her.
-- **Grygum and Thorin (Joe/Ben)**: Identified by GM as the two party members who previously encountered Zuggtmoy; warned they should avoid touching the mushroom artifact near Ilvara.
+- **Gyrgum and Thorin (Joe/Ben)**: Identified by GM as the two party members who previously encountered Zuggtmoy; warned they should avoid touching the mushroom artifact near Ilvara.
 
 ## Out-of-Character Notes
 

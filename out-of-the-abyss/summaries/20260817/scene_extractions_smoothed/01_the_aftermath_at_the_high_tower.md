@@ -10,15 +10,15 @@ from: ../scene_extractions/01_the_aftermath_at_the_high_tower.md
 
 #### The party deals with the captured A'lai Aivenmore and witnesses the arrival of Manshoon's simulacrum, which shatters the protected door to the inner sanctum.
 - The party secures A'lai Aivenmore and strips him of his High Tower key, which is quietly passed to Zalthir and then tucked away inside Glabbagool for safekeeping — "the gelatinous cube standing just a little bit taller with pride at the responsibility."
-- Grygum, on the storage arrangement: "It's a little weird to store things inside our NPCs, but I'll allow it."
+- Gyrgum, on the storage arrangement: "It's a little weird to store things inside our NPCs, but I'll allow it."
 - The party takes care not to bring the two keys together; the GM clarifies a line suggesting otherwise was a typo.
 - *(Chapter 63 context, recapped by the GM at the top of this session — not a Chapter 64 event.)* Sensing that remaining in the room would be catastrophic, the party moves A'lai out of the High Tower lobby — "a decision that proved wise moments later, when Manshoon himself arrived." *(GM's recap wording; the figure was Manshoon's simulacrum, per the 2026-08-19 ruling.)*
 - *(Chapter 63 context.)* Manshoon's simulacrum arrives at Candlekeep, conjuring a wall of force and using overwhelming magical power to shatter the magical door that the two keys were meant to protect.
 - *(Chapter 63 context.)* The simulacrum enters the inner sanctum alone and visibly weakened, having expended enormous magical resources to reach Candlekeep.
 - The GM lays out a "sufficiently large" wall of force on the map and warns Zalthir that "all of Zalthir's mathematics will be proven to be insufficient" — Zalthir: "That sounds like a challenge."
-- The GM frames the stakes as a race across six boxes: Manshoon on box one, the party on box zero; "he gets to box six, he wins." There are multiple ways to stop him, "including killing him." Grygum: "Always a popular way."
+- The GM frames the stakes as a race across six boxes: Manshoon on box one, the party on box zero; "he gets to box six, he wins." There are multiple ways to stop him, "including killing him." Gyrgum: "Always a popular way."
 - A'lai Aivenmore realizes he was merely a pawn in Manshoon's long-term plans, expressing despair at his own insignificance — Manshoon did not even bother to come for him. "He's not looking for me! That's the part you don't understand! He sent a courier 11 years, and the courier wear a glove, and I never saw the face, and I told myself that was discretion. It was not discretion, it was that I wasn't worth a face!"
-- Grygum sums it up: "Not worth the price of the bullet" — corrected at the table to "not worth the spell slot."
+- Gyrgum sums it up: "Not worth the price of the bullet" — corrected at the table to "not worth the spell slot."
 - A'lai reveals that he never told Manshoon the truth about what lay inside the depository, meaning he still holds one card.
 - Tadric the Watcher is identified among those present during the chaos in the High Tower (the "babushka woman" token on the map, as it turned out).
 
@@ -27,13 +27,13 @@ from: ../scene_extractions/01_the_aftermath_at_the_high_tower.md
 **GM** — *recapping the end of last session*
 > "The party secured A'lai and stripped his High Tower key from him, taking care not to bring the two keys together. Well — Thorin quietly slipped the key to Zalthir…"
 
-**Grygum**
+**Gyrgum**
 > "What happens if you bring the two keys together?"
 
 **GM**
-> "No, no, that was a typo. Grygum quietly slipped the key to Zalthir, and it was ultimately tucked away inside Glabbagool for safekeeping — the gelatinous cube standing just a little bit taller with pride at the responsibility."
+> "No, no, that was a typo. Gyrgum quietly slipped the key to Zalthir, and it was ultimately tucked away inside Glabbagool for safekeeping — the gelatinous cube standing just a little bit taller with pride at the responsibility."
 
-**Grygum**
+**Gyrgum**
 > "It's a little weird to store things inside our NPCs, but I'll allow it."
 
 **GM**
@@ -76,15 +76,15 @@ from: ../scene_extractions/01_the_aftermath_at_the_high_tower.md
 > "I'd hover over some… so the assassin and thug are done."
 
 **Thorin**
-> "Who's out there — Thorin, Grygum… I don't see anything for Glabbagool or for Daz."
+> "Who's out there — Thorin, Gyrgum… I don't see anything for Glabbagool or for Daz."
 
-**Grygum**
+**Gyrgum**
 > "This is the map we were using."
 
 **Thorin**
 > "No, I'm just saying, when I hover, it's just like…"
 
-**Grygum**
+**Gyrgum**
 > "Yeah, I don't know who that is either."
 
 **Zalthir**
@@ -108,13 +108,13 @@ from: ../scene_extractions/01_the_aftermath_at_the_high_tower.md
 **GM**
 > "Is here?"
 
-**Grygum**
+**Gyrgum**
 > "They're all just so elaborate and carefully designed that… sometimes I can't tell which one we should be on."
 
 **GM**
 > "Are you making fun of my scrolls?"
 
-**Grygum**
+**Gyrgum**
 > "Hey, mine would be just as bad."
 
 **GM**
@@ -189,19 +189,19 @@ from: ../scene_extractions/01_the_aftermath_at_the_high_tower.md
 **GM**
 > "Just imagine… what?"
 
-**Grygum**
+**Gyrgum**
 > "How should I imagine these boxes? Are they…"
 
 **GM**
 > "No, no — they just suggest that there are things that can happen. So your goal is to figure out what he's up to, and stop him before he gets it."
 
-**Grygum**
+**Gyrgum**
 > "Okay."
 
 **GM**
 > "Right? And there are multiple ways to stop him, including killing him."
 
-**Grygum**
+**Gyrgum**
 > "Always a popular way."
 
 **GM**
@@ -222,7 +222,7 @@ from: ../scene_extractions/01_the_aftermath_at_the_high_tower.md
 **GM**
 > "Okay, so you're now sitting with A'lai."
 
-**Grygum**
+**Gyrgum**
 > "So… okay."
 
 **GM** — *as A'lai Aivenmore*
@@ -234,19 +234,19 @@ from: ../scene_extractions/01_the_aftermath_at_the_high_tower.md
 **GM**
 > "Basically, he's discovered that he's been a patsy this whole time. He thought he was an important person. He literally thought that Manshoon was gonna show up to kill him. He thought the assassin was coming for that, and now he's realized he's been a patsy. The whole time, he's been a patsy."
 
-**Grygum**
+**Gyrgum**
 > "…even worth killing."
 
 **GM**
 > "No, he's not even worth killing. Manshoon shows up and doesn't even waste the time to kill him."
 
-**Grygum**
+**Gyrgum**
 > "Not worth the price of the bullet."
 
 **GM**
 > "Right, exactly. So this is his ego, his entire…"
 
-**Grygum**
+**Gyrgum**
 > "…spell slot."
 
 **GM**
@@ -254,7 +254,7 @@ from: ../scene_extractions/01_the_aftermath_at_the_high_tower.md
 
 **[Recap and the Race Framed]**
 - The GM recaps the end of the prior session: A'lai secured, his High Tower key stripped, the two keys kept apart, and the key passed to Zalthir and stored inside Glabbagool.
-- Grygum questions what happens if the keys touch; the GM clarifies the line suggesting Thorin slipped the key was a typo — it was Grygum.
+- Gyrgum questions what happens if the keys touch; the GM clarifies the line suggesting Thorin slipped the key was a typo — it was Gyrgum.
 - The recap continues: the party moved A'lai out of the lobby just before Manshoon arrived, conjured a wall of force, and shattered the protected door, arriving alone and weakened.
 - A'lai's remaining card is recapped — he never told Manshoon the truth about the depository's contents.
 - The table sorts out the Roll20 map; the "babushka woman" token turns out to be Tadric.

@@ -10,7 +10,7 @@ The heat arrived before the cavern did. The passage exhaled it at us — thick, 
 
 Directly ahead, in the center of the chamber, stood a three-floor stone tower, similar in style to some of the older spires in the Great Library. It sat on a thin pedestal of glassy black obsidian that soared straight up out of the lava pool.
 
-Grygum considered it. "In the… lava? Yes."
+Gyrgum considered it. "In the… lava? Yes."
 
 A fair question. Whoever raised the pedestal had an answer; the answer was not posted anywhere I could see.
 
@@ -18,9 +18,9 @@ Edvaldo had an answer, though. Edvaldo has an answer for everything, and he deli
 
 The trip was not over. I chose not to point this out.
 
-Instead I said, mostly to Grygum, "I'm pretty sure there are some spells that allow you to, like, listen to what somebody's saying from across the room. They need to have spells that allow you to just mute people around you."
+Instead I said, mostly to Gyrgum, "I'm pretty sure there are some spells that allow you to, like, listen to what somebody's saying from across the room. They need to have spells that allow you to just mute people around you."
 
-Grygum said nothing, which from him is encouragement.
+Gyrgum said nothing, which from him is encouragement.
 
 "Or, like, zapping it, you know?" I sketched the gesture in the hot air. "Mixer board for everybody that's standing around you."
 
@@ -30,7 +30,7 @@ Edvaldo lectured on.
 
 The rest of the geometry, while he talked: a double door of the same glassy obsidian stood opposite us, thirty feet away, with no obvious way of getting there. A narrow walkway ringed the tower's base, and from the back of it a flat stone bridge ran to a second tunnel, opposite the one we had come down.
 
-"And we'd… we'd have to figure out how to get over to it somehow," Grygum said.
+"And we'd… we'd have to figure out how to get over to it somehow," Gyrgum said.
 
 The ledge we stood on extended just five feet into the cavern — and embedded in its stone were cogs. Mechanical components, set flush into the rock.
 
@@ -38,13 +38,13 @@ The ledge we stood on extended just five feet into the cavern — and embedded i
 
 We had come down here chasing mechanist dust, among other things, and we were carrying the mechanist tool out of the House of Mechanus. When the environment starts rhyming with your inventory, someone designed the environment.
 
-"So, I think it would be worthwhile looking at the mechanical components," Grygum said. "Any idea what they're for?"
+"So, I think it would be worthwhile looking at the mechanical components," Gyrgum said. "Any idea what they're for?"
 
 Everyone looked at me. Correctly.
 
 I got down on the stone and did the full audit. Gear train, pawl, ratchet. A toothed track that disappeared under the lip of the ledge and, by its gauge and bearing, ran out beneath the open air toward the tower. At the heart of the assembly, a socket — cut for no hand, no crowbar, and no spell. Cut for exactly the tool in our pack. The conclusion assembled itself: the whole mechanism existed to extend the bridge.
 
-"Oh, well, that would be more convenient than just trying to jump across the lava," Grygum said.
+"Oh, well, that would be more convenient than just trying to jump across the lava," Gyrgum said.
 
 "So if we use the tool, we can basically expand the bridge. Yes, yes. And we don't have to… okay."
 
@@ -56,7 +56,7 @@ It was while seating the tool that I found the plaque — one of those warnings 
 
 So: no flying anyone across. No Misty Step, no Feather Fall as insurance, no levitating Edvaldo out over the lake and leaving him there. Thirty feet of air in which everything I have spent my life learning is a rumor. Fortunate we brought the tool. The tool did not care what I thought about that.
 
-"Wasn't that supposed to be this whole, this whole central area?" Grygum asked. "But I guess we… what we found out was that it was disabled anyway."
+"Wasn't that supposed to be this whole, this whole central area?" Gyrgum asked. "But I guess we… what we found out was that it was disabled anyway."
 
 Different field. The one over Candlekeep was a force wall — it stopped teleportation passing in or out, and it stopped fire from being cast, and it was already down. This one was local and general. It did not discriminate by school. It simply refused.
 

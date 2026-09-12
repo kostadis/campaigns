@@ -9,7 +9,7 @@ source_extracts: [58, 59, 60, 61, 63]
 # Sylvira Savikas
 
 ## Identity
-- Tiefling (technically abyssal spawn); Curator of the Infernal Fortress. Grygum re-filed Hollypocket's "devil woman" epithet as her actual job function.
+- Tiefling (technically abyssal spawn); Curator of the Infernal Fortress. Gyrgum re-filed Hollypocket's "devil woman" epithet as her actual job function.
 - Never appears in person during the early investigation; emerges as the prime suspect in Janussi's murder through multiple witness accounts. First interviewed directly by Daz in her quarters.
 - Physical: copper-red skin, blue-black hair, magnetic golden eyes.
 

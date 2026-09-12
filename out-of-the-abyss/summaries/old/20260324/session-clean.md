@@ -16,7 +16,7 @@ The party engaged in a climactic confrontation with Ilvara at her drow outpost, 
 - Big Heart Fungus attacked Zalthir with poison spore cloud, inflicting poisoned condition
 - Ilvara summoned four drow spore servants from the environment
 - Glyph of Warding detonated when Jorlan was lured into it, destroying one spore servant and damaging others
-- Thorin engaged Jorlan in melee while Grygum cast Dust of Suleiman on the Big Heart Fungus
+- Thorin engaged Jorlan in melee while Gyrgum cast Dust of Suleiman on the Big Heart Fungus
 - Daz hit both Ilvara and the Zuggtmoy icon with a shaped Fireball
 - Session ended mid-combat with multiple combatants active
 

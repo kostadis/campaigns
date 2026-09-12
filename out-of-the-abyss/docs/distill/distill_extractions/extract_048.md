@@ -78,7 +78,7 @@
 - **Current Goals:** Escape the Underdark; achieved primary objective of securing a way out
 - **Recent Actions:** Breached the throne room using an Earth Elemental; killed the Pudding King, Prince Livid, and Princess Ebonmire; recovered a spellbook; leveled up; discussed Glabbagool's future travel arrangements
 - **Relationships to Other Factions:** Opposed the Pudding King's court and Juiblex's influence; now contending with Zuggtmoy's expanding presence
-- **Key Members:** Zalthir, Thorin, Daz, Grygum, Glabbagool (allied)
+- **Key Members:** Zalthir, Thorin, Daz, Gyrgum, Glabbagool (allied)
 
 ---
 
@@ -92,9 +92,9 @@
 - Prince Livid attacked Zalthir with a psychic blast; Zalthir halved the damage with a successful Intelligence saving throw.
 - Thorin dashed forward, navigating around green slime ceiling hazards.
 - Princess Ebonmire threw a blob at Thorin; it missed.
-- Grygum cast Guiding Bolt at the Pudding King; it missed.
-- The Pudding King unleashed a slime wave; Zalthir, Thorin, Daz, and Grygum were forced to make Dexterity saving throws; Daz and Grygum failed and were knocked prone.
-- The Pudding King used a lair action to drop green slime on Grygum; Grygum made his saving throw and avoided damage.
+- Gyrgum cast Guiding Bolt at the Pudding King; it missed.
+- The Pudding King unleashed a slime wave; Zalthir, Thorin, Daz, and Gyrgum were forced to make Dexterity saving throws; Daz and Gyrgum failed and were knocked prone.
+- The Pudding King used a lair action to drop green slime on Gyrgum; Gyrgum made his saving throw and avoided damage.
 - Zalthir used Steps of the Wind to dash while maintaining his grapple and dragged the Pudding King out of his throne room, removing his access to lair actions.
 - Zalthir dragged the Pudding King through Glabbagool's body; Glabbagool remarked "this tickles"; Zalthir took acid damage, partially resisted by Stone Skin.
 - Zalthir attempted a Stunning Strike on the Pudding King but missed.
@@ -105,8 +105,8 @@
 - The Pudding King attempted to move under the slime; Thorin hit him with an opportunity attack, reducing his speed to zero.
 - Daz cast a third-level Magic Missile at the Pudding King, dealing twenty points of damage.
 - Prince Livid and Princess Ebonmire charged toward the party.
-- Grygum cast Inflict Wounds on the Pudding King, dealing twenty-three points of necrotic damage.
-- The Pudding King unleashed a second slime wave; Thorin saved for reduced damage; Daz and Grygum used Stone Skin to resist; Daz was covered in green slime.
+- Gyrgum cast Inflict Wounds on the Pudding King, dealing twenty-three points of necrotic damage.
+- The Pudding King unleashed a second slime wave; Thorin saved for reduced damage; Daz and Gyrgum used Stone Skin to resist; Daz was covered in green slime.
 - Zalthir used Shadow Step to teleport near the Pudding King and attacked with advantage.
 - Zalthir landed a Stunning Strike; the Pudding King failed his saving throw, halving his speed and granting advantage on the next melee attack against him.
 - Zalthir continued attacking with punches and Eldritch Claw tentacle strikes, dealing a total of thirty-seven points of damage.
@@ -116,7 +116,7 @@
 - Daz cast Fireball, dealing twenty-nine points of damage to both Prince Livid and Princess Ebonmire; Prince Livid's fire resistance halved his damage to fourteen points, leaving him at eight hit points.
 - Prince Livid used a psychic attack on Daz, dealing five points of damage.
 - Princess Ebonmire charged at Thorin.
-- Grygum stood up from prone and cast Inflict Wounds on Princess Ebonmire, dealing eighteen points of necrotic damage.
+- Gyrgum stood up from prone and cast Inflict Wounds on Princess Ebonmire, dealing eighteen points of necrotic damage.
 - Zalthir used Shadow Step to teleport to Princess Ebonmire, grappled her, and dealt damage.
 - Thorin killed Princess Ebonmire.
 - Daz cast Magic Missile at Prince Livid, killing him.

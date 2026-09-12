@@ -4,11 +4,11 @@ Focus: Zalthir's silence sharpens into something dangerous when the party must d
 
 - The party travels along the Way of the Lion, along the cliffs above the Sea of Swords; Candlekeep is visible from miles out.
 
-- As they approach, Daz's pressure headache intensifies noticeably — a trend Grygum confirms feels tenuous but real in its connection to whatever is spreading from the Underdark.
+- As they approach, Daz's pressure headache intensifies noticeably — a trend Gyrgum confirms feels tenuous but real in its connection to whatever is spreading from the Underdark.
 
 - Inside, the party is received by Bookwyrm, the First Reader — a dragonborn sage. The DM notes she has "heard them all" regarding her name and is entirely unbothered.
 
-- Bookwyrm assigns the party: Daz to Sister Yvonne, Zalthir to Brother Kel (Khell-Vire), Thorin to Master Archivist Philemon, and Grygum to Varith.
+- Bookwyrm assigns the party: Daz to Sister Yvonne, Zalthir to Brother Kel (Khell-Vire), Thorin to Master Archivist Philemon, and Gyrgum to Varith.
 
 - Before the party disperses, the matter of the shrunken House T'sarran spy in the bag of holding must be addressed — she was discovered when the party had to open the bag at the gate to show Glabbagool.
 
@@ -57,19 +57,19 @@ Daz: "Maybe once we get to Candlekeep, I'll…"
 
 GM: "Yeah, ask, ask someone."
 
-### [Grygum Links Daz's Headache to the Spreading Madness]
+### [Gyrgum Links Daz's Headache to the Spreading Madness]
 
 <!-- asking about the connection -->
-Grygum: "Does it seem related at all to how the other person was hearing voices?"
+Gyrgum: "Does it seem related at all to how the other person was hearing voices?"
 
 GM: "Role in investigation. Or, medicine. Medicine…"
 
 <!-- after rolling a 23 -->
-Grygum: "23."
+Gyrgum: "23."
 
 GM: "Alright, no, it isn't. And it is, in some curious way. Like, there's something, obviously. It's something you don't know anything about, but you do sense something is wrong. Right? So you can't pinpoint it, you don't have enough experience or knowledge about it, but it does feel that there is something…"
 
-Grygum: "There's some kind of tenuous connection there?"
+Gyrgum: "There's some kind of tenuous connection there?"
 
 GM: "Yes, there's some kind of tenuous connection there."
 
@@ -78,18 +78,18 @@ GM: "Yes, there's some kind of tenuous connection there."
 <!-- announcing arrival -->
 GM: "All right, and so finally, you arrive inside of Candlekeep. Yay! So we're inside of Candlekeep, and back to Day 1. Alright. So, you've just, you've just arrived. And you've given up your books, yes?"
 
-Grygum: "Yes?"
+Gyrgum: "Yes?"
 
 GM: "Yes, right."
 
-Grygum: "Oh, I forgot about the books."
+Gyrgum: "Oh, I forgot about the books."
 
 GM: "Yes, yes, you get, you know?"
 
 ### [Meeting the First Reader — Bookwyrm]
 
 <!-- introducing Bookwyrm and assigning handlers -->
-GM: "Alright, the first reader, her name is Bookwyrm. He's a dragonborn sage. Yep, Bookwyrm. She's heard them all, she knows, and she assigns Daz to Sister Yvonne, Zalthir to Brother Kel, Thorin to Master Archivist Philemon, and Grygum to either Varith."
+GM: "Alright, the first reader, her name is Bookwyrm. He's a dragonborn sage. Yep, Bookwyrm. She's heard them all, she knows, and she assigns Daz to Sister Yvonne, Zalthir to Brother Kel, Thorin to Master Archivist Philemon, and Gyrgum to either Varith."
 
 ### [The Prisoner Question Raised — The Shrunken Spy]
 
@@ -97,7 +97,7 @@ GM: "Alright, the first reader, her name is Bookwyrm. He's a dragonborn sage. Ye
 GM: "Okay, so as you, as you may have recalled, but before she goes. She, she notices that she wants to discuss the reduced housed siren spy in the bag of holding."
 
 <!-- reacting -->
-Grygum: "We've been caught."
+Gyrgum: "We've been caught."
 
 ### [Gate Warden Callan Strongbench Addresses the Party]
 
@@ -109,7 +109,7 @@ GM: "The bell tower has cells! Comfortable, localized anti-magic. They are very 
 <!-- confused about the offer -->
 Thorin: "Wait, I'm confused."
 
-Grygum: "This is all about Glabbagool?"
+Gyrgum: "This is all about Glabbagool?"
 
 GM: "No, this is about the little spy, remember the littlest spy in all of Faerûn? You guys shrunk a drought into a…"
 

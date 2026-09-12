@@ -11,7 +11,7 @@ chapters: 29-29
 - **Current location:** In the possession of the Duergar Stone Guard at Gracklstugh  
 - **Current condition:** Intact, treated as a sacred relic  
 - **Significance:** A symbolic token of a deceptive mission, transformed from a mundane object into a relic of secrecy; entrusted to bind the guard to silence  
-- **Key relationship:** Given by Grygum to the Duergar Stone Guard as a ritualized gesture to enforce confidentiality  
+- **Key relationship:** Given by Gyrgum to the Duergar Stone Guard as a ritualized gesture to enforce confidentiality  
 
 ## Uncertainty
 None.

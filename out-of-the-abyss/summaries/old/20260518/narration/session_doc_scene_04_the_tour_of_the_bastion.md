@@ -26,13 +26,13 @@ Then the Drakonoikos.
 
 I noticed it before he named it. The structure was built from scales — actual scales, enormous, overlapping — and bones worked into the walls where another building would have used stone. Fyrentennimar, Fembris finally produced the name after a pause and a visible effort, dragon of some age and significance, reduced now to architecture. In the early light the scales caught the sun and held it.
 
-"Those scales really gleam in the sunrise," Grygum said. "That's amazing."
+"Those scales really gleam in the sunrise," Gyrgum said. "That's amazing."
 
 He wasn't wrong. I had been thinking the same thing and had not said it. There was a monastic logic to the building: the thing that was dangerous becomes the thing that contains the knowledge of how dangerous it was. I wasn't sure the monks at the Garden Shadow would have approved of the metaphor, but Brother Heslin — or possibly Brother Arrath, I was never certain which of them ran the theory sessions on repurposed threat — had said something along those lines once. I had been watching the window.
 
 Fembris warned us about the Dragon Breath Simulation Chamber inside. One of the Avowed had died in it, he said, which was why the Keeper's permission was now required. His tone suggested we should find this discouraging.
 
-"That sounds like a great game to play," Grygum said. "Later."
+"That sounds like a great game to play," Gyrgum said. "Later."
 
 "I've got another level or two on me," he added, more quietly.
 

@@ -1,6 +1,6 @@
 ## Character Progression
 
-- **Grygum**: No level or item changes. Demonstrated knowledge of Zuggtmoy from *The Platinum Chronicle: Discourses on the Abyssal Blight*, identifying "the Dark Lady" as the Demon Queen of Fungi. Participated in Voosbur's psychedelic vision alongside Thorin, serving as a voice of caution ("every deal with a demon is a curse").
+- **Gyrgum**: No level or item changes. Demonstrated knowledge of Zuggtmoy from *The Platinum Chronicle: Discourses on the Abyssal Blight*, identifying "the Dark Lady" as the Demon Queen of Fungi. Participated in Voosbur's psychedelic vision alongside Thorin, serving as a voice of caution ("every deal with a demon is a curse").
 
 - **Thorin**: No level or item changes. Participated in Voosbur's spore-induced vision, traveling through three psychic caverns and coming face-to-face with Zuggtmoy's spectral avatar. Refused her offer of demonic communion.
 
@@ -12,9 +12,9 @@
 
 - **Thorin (Positive)**: Resisted Zuggtmoy's direct temptation in the spore vision, refusing her offer to "bloom beyond the bounds of flesh and time," citing his responsibilities. A significant act of willpower and moral resolve.
 - **Thorin (Negative/Risky)**: Recklessly grabbed Voosbur's hand and entered the spore vision despite warnings, showing his "fuck-it-all" attitude.
-- **Grygum (Positive)**: Entered the spore vision to watch over Thorin ("make sure it isn't a bad trip"), demonstrating loyalty. Counseled Thorin against accepting Zuggtmoy's deal inside the vision.
+- **Gyrgum (Positive)**: Entered the spore vision to watch over Thorin ("make sure it isn't a bad trip"), demonstrating loyalty. Counseled Thorin against accepting Zuggtmoy's deal inside the vision.
 - **Zalthir (Positive)**: Physically restrained Sarith when he was being mentally compelled toward the myconids. Maintained strategic distance from the spore-infected myconids throughout. Continued to advocate for the group's original plan (deliver egg to Gartokkar, escape via ports).
-- **Daz (Neutral/Positive)**: Declined to participate in the spore vision, showing restraint. Held onto Thorin and Grygum after they woke to ensure they didn't follow the departing myconids.
+- **Daz (Neutral/Positive)**: Declined to participate in the spore vision, showing restraint. Held onto Thorin and Gyrgum after they woke to ensure they didn't follow the departing myconids.
 
 ## Relationships & Decisions
 

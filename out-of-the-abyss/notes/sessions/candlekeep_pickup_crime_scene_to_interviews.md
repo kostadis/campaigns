@@ -33,7 +33,7 @@ From the Chapter 53 summary, banked:
 
 - **Body forensics, opening layer.** Rib cage caved by several precise
   axe/cleaver blows; **heart gone, no other organs**; blood
-  **surprisingly localized** → Grygum already landed *"he was dead before
+  **surprisingly localized** → Gyrgum already landed *"he was dead before
   the chest was opened."* They already reason the heart was taken to
   block `raise dead`.
 - **Time of death.** Candles burned to stubs + Hollypocket-would-never →
@@ -167,7 +167,7 @@ They already know "dead before the chest opened." Push the *how*:
   the lips, residue on the **fingertips and at the mouth**: an **ingested**
   poison, not a blow. The vector is the scholar's reflex — Janussi **licked
   his thumb to turn the pages**, swallowing what had been dusted on them.
-  Identify it as ⭐ **midnight tears** (poisoner's kit, Grygum's healer's
+  Identify it as ⭐ **midnight tears** (poisoner's kit, Gyrgum's healer's
   read, or — most on-theme — looking it up in the library; see Open
   Decisions #1).
 - ⭐ **It kills at the stroke of midnight.** Midnight tears does nothing
@@ -382,7 +382,7 @@ remove him. She was at the Cursed Tower last night. **Abyssal Plague.**
 - ⭐ **This is also the ally interview.** She believed the party about the
   demon lords yesterday. *The party is interrogating their own ally.* Let
   that tension sit.
-- **Optional Grygum beat:** DC 18 Medicine or `lesser restoration` to
+- **Optional Gyrgum beat:** DC 18 Medicine or `lesser restoration` to
   diagnose/treat the plague. Treating her = she survives to be the
   Session-6 battlefield ally. *"You are not what I expected of a half-orc
   cleric."*
@@ -455,8 +455,8 @@ updates are fine if the table is tired; full scenes if there's appetite.
   is still open, this is the scene to close it.
 - **Khell-Vire + Vareth** work offstage today. If a player wants a beat,
   give the next-tier reveal as narration, no full scene. (Vareth is
-  electrified about the Grygumite "fourth school" from last session and
-  will ambush Grygum with fresh Stroudite materials if given the chance.)
+  electrified about the Gyrgumite "fourth school" from last session and
+  will ambush Gyrgum with fresh Stroudite materials if given the chance.)
 
 ---
 
@@ -523,7 +523,7 @@ a sketch, let him — it's a recurring table ritual.)
    Con / 9d6), delivered by the licked-thumb page-turn; the midnight delay
    is now load-bearing for the time-of-death, the prophecy, and Daral's
    clock. **Identification method (settled — both available):** the party can
-   name it from an in-scene read (poisoner's kit / Grygum's healer's eye)
+   name it from an in-scene read (poisoner's kit / Gyrgum's healer's eye)
    *or* by the **module's route — a library lookup** in *Fey-mous Flowers
    and Fungi* (Archibald Roots Junior). Let the table pick; whichever they
    reach for, the answer is the same. Both are listed inline in Scene 1B.

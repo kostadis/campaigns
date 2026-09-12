@@ -83,7 +83,7 @@ ally narration, one combat round saved, or one trophy plant.
 **Allies available at the planning meeting based on tally:**
 - Sylvira (Path B) — knows Vydykyq + Limniz; two clues cut.
 - Yvenne (4+ ticks) — planar-residue trace to lava chamber.
-- Vareth (Grygum trust) — Stars at Dawn opens F, ends F-A-D-E.
+- Vareth (Gyrgum trust) — Stars at Dawn opens F, ends F-A-D-E.
 - Daral (saved S3) — Fustilugs etymology.
 - Khell-Vire (Severed Path earned) — one free skirmish skip.
 - Glabbagool — Whispering Dome boon banked, available later.
@@ -308,7 +308,7 @@ stone pedestal. Touching as non-evil = 8d6 necrotic.
 🟣 **If Manshoon didn't take it:**
 1. Take it (Manshoon-pursuit thread).
 2. Leave it (Avowed reseal).
-3. Destroy it (Grygum arc — `dispel evil and good` → `holy aura` → holy fire).
+3. Destroy it (Gyrgum arc — `dispel evil and good` → `holy aura` → holy fire).
 
 **Don't push.** Player choice.
 
@@ -381,13 +381,13 @@ dwarf courier — not Eldeth herself.**
 | A'lai | dead in Vault / dead in lava chamber / escaped |
 | Iron Bands of Bilarro | with Sylvira / with party / abandoned in Vault |
 | Polly Pocket | kept in bag / Bell Tower cells (released after raid) / released as messenger to Vaelissa |
-| Trophies claimed | Iron Owlbear beak; Manshoon focus / metal-fingered glove (if dropped); Bookwyrm pendant; Janussi locket; A'lai vestment; Iron Bands fragment; Kalan Gatewarden pin; Alaundo gemstones; Triboar carpenter journal (left at Candlekeep, recoverable later); Daggerford 6-pointed star rubbing; Daz Calishite cloak; Zalthir brass shadow-puppet hand; Grygum *Hagiography of the Dragon-Born Faithful Vol III*; ⭐ **Daz's *Milo Goodbarrel's account* Volumes 1–3** (Rishaal the Pageturner edition); **Order of the Gauntlet pewter Tarvis-hand medallion** (Joe) |
-| **Order of the Gauntlet thread** | Daggerford pewter medallion + Sea Ward chapter house's polite notice of Grygum + Milo's institutional iconography. **Banked for Gauntlgrym** as a potential institutional ally. The name resonance (Gauntlet ↔ Gauntlgrym) is suggestive; surface only if the table goes there. |
+| Trophies claimed | Iron Owlbear beak; Manshoon focus / metal-fingered glove (if dropped); Bookwyrm pendant; Janussi locket; A'lai vestment; Iron Bands fragment; Kalan Gatewarden pin; Alaundo gemstones; Triboar carpenter journal (left at Candlekeep, recoverable later); Daggerford 6-pointed star rubbing; Daz Calishite cloak; Zalthir brass shadow-puppet hand; Gyrgum *Hagiography of the Dragon-Born Faithful Vol III*; ⭐ **Daz's *Milo Goodbarrel's account* Volumes 1–3** (Rishaal the Pageturner edition); **Order of the Gauntlet pewter Tarvis-hand medallion** (Joe) |
+| **Order of the Gauntlet thread** | Daggerford pewter medallion + Sea Ward chapter house's polite notice of Gyrgum + Milo's institutional iconography. **Banked for Gauntlgrym** as a potential institutional ally. The name resonance (Gauntlet ↔ Gauntlgrym) is suggestive; surface only if the table goes there. |
 | **Milo Goodbarrel reading thread** | Daz reads from Volumes 1–3 throughout the OOTA back half. Mike's character beat. **Daz citing Malfire is canonical table-acknowledged** (chapter 54). |
 | **Joe-recognition: Malfire / Emerald Enclave** | Malfire iconography seen at Mirabar shrine + Waterdeep First-Faction painting + Sea Ward bronze. **The Emerald Enclave is reachable in the OOTA endgame because of Malfire's diplomatic legacy.** Banked as an institutional ally for Gauntlgrym / post-OOTA. |
 | **Gabe-recognition: Whistler / the flying kenku** | Triboar trade-route whispers + Waterdeep Glazhael memorial plaque + Sleeping Snake Ardragon whisper + Beregost *"The Kenku Could Not Fly"* bardic song + First-Faction painting + (optional) Khell-Vire's notebook entry. **Three competing legends, all true at once.** Whistler is canonically gone; do not surface him in person. His legend is the asset. |
 | **First Faction as institutional touchstone** | Stroud + Milo + Malfire + Whistler. Useful invocation when the party needs door-opening at Gauntlgrym, with the Emerald Enclave, with the Order of the Gauntlet, or with Lord Neverember's establishment. **Mention the names; doors open.** |
-| OOTA scholar handouts confirmed | Drow Material Culture (Daz); Watcher's Stillness + Severed Path (Zalthir); therapy ritual handout (Thorin — ⭐ Path C locked from Waterdeep, prescription delivered post-orphan-run); Stroud-Wake school choice + 3 introduction letters (Grygum); ⭐ **Glabbagool Way-of-Shadow monk sidekick stat block at L8** (`handouts/glabbagool_shadow_monk_sidekick.md`) |
+| OOTA scholar handouts confirmed | Drow Material Culture (Daz); Watcher's Stillness + Severed Path (Zalthir); therapy ritual handout (Thorin — ⭐ Path C locked from Waterdeep, prescription delivered post-orphan-run); Stroud-Wake school choice + 3 introduction letters (Gyrgum); ⭐ **Glabbagool Way-of-Shadow monk sidekick stat block at L8** (`handouts/glabbagool_shadow_monk_sidekick.md`) |
 | ⭐ **Glabbagool — Shadow Apprentice sidekick (Tasha's Warrior chassis), L8, Zalthir's sidekick** | Locked at the Whispering Dome on Day One. Gabe controls in combat. Headline: **Corrosive Embrace** (signature synergy — only fires when Zalthir is grappling/restraining; master takes no acid damage); **Corrosive Surge** (per-hit acid rider); Shadow Arts (Darkness/Darkvision/Pass without Trace/Silence); Shadow Step 60 ft; Flurry of Blows. Blindsight 60 ft, telepathy 60 ft, no speech. **Permanent party composition change going forward.** Full Level 9–20 progression in the handout. |
 | Sealed letters banked | Yvenne's Eilistraee circle; Khell-Vire's lineage correspondence; Philemon's sealed letter (Path C only); Vareth's three Stroudite-cleric letters; Sylvira's standing offer of Infernal Fortress consultation; **Fheminor's signed acknowledgment of debt as Keeper of Tomes** |
 | Echoes heard | 1 (surface contamination); 2 (wedding); 3 (Gauntlgrym call); 4 (Jimjar/Callarduran); GM-picked others |

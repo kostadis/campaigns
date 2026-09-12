@@ -22,7 +22,7 @@
 > "I mean, I pointed at Dad. Like, look at him! He's already infected. I don't want to be infected."
 > "I'm out of actions and bonus actions, so I guess I'll just kind of look on and be confused."
 
-### Grygum (Ben Pfaff)
+### Gyrgum (Ben Pfaff)
 - Enthusiastic spellcaster who gets genuinely excited about deploying new abilities; balances earnest tactical thinking with self-deprecating humor and the occasional terrible pun. Willing to sympathize with anyone, even drow relationship drama.
 > "Oh, man, these relationships are so complicated."
 > "I mean, that thing is all heart."
@@ -71,22 +71,22 @@
 > **Zalthir:** "That was on the list, sure."
 > **Asha:** "You worry about these things a lot."
 > **Zalthir:** "Yes."
-> **Grygum:** "We do, yeah."
+> **Gyrgum:** "We do, yeah."
 > **Zalthir:** "I mean, I pointed at Dad. Like, look at him! He's already infected. I don't want to be infected."
 
 **Asha's Relationship Rant** — Asha vents about being stuck between Ilvara and Jorlan's toxic breakup.
 > **Asha:** "They used to have an affair, it used to be this whole thing, and then she broke up with him, and then he was bitter… and now I've had to be in the middle of these two for the last few months. Do you have any idea how aggravating that is?"
-> **Grygum:** "Oh, man, these relationships are so complicated."
+> **Gyrgum:** "Oh, man, these relationships are so complicated."
 > **Asha:** "I agree! You would think that in the midst of the abyss with the demons on the breasts, everyone could get over their relationship issues, but no, no, no, no, no…"
 
-**Taunting Jorlan into the Glyph** — Grygum baits Jorlan with schoolyard simplicity, and it works.
-> **Grygum:** "Come get it, idiot."
+**Taunting Jorlan into the Glyph** — Gyrgum baits Jorlan with schoolyard simplicity, and it works.
+> **Gyrgum:** "Come get it, idiot."
 > **GM:** "He runs towards the trap."
-> **Grygum:** "Kaboom! I didn't expect it to work."
+> **Gyrgum:** "Kaboom! I didn't expect it to work."
 
 ## Standout Moments
 
-- **Daz's masterful cover for the party's tactical questions:** When Grygum naively suggests "blowing everything up" and Asha sneers at the party's intelligence, Daz rescues the moment with a perfectly drow-logical explanation about needing local expertise on spore side effects. Asha, caught off guard by his reasoning, pivots to: *"Well put, well put. This was just a test. Don't touch me."*
+- **Daz's masterful cover for the party's tactical questions:** When Gyrgum naively suggests "blowing everything up" and Asha sneers at the party's intelligence, Daz rescues the moment with a perfectly drow-logical explanation about needing local expertise on spore side effects. Asha, caught off guard by his reasoning, pivots to: *"Well put, well put. This was just a test. Don't touch me."*
 
 - **The double-cross pitch:** The GM reminds Daz that in drow culture, nothing builds trust like a well-executed double-cross — betray Asha to Ilvara to get close, then kill Ilvara anyway. Daz's instant response: *"Okay, I like that plan."* A perfect character moment for a drow who's internalized his culture's values even while working against its agents.
 
@@ -96,7 +96,7 @@
 
 - **Recognition of the spore walkers:** The GM's description of reanimated drow prison guards — former captors now reduced to fungal automatons — lands with genuine pathos. Gabe's quiet *"Those poor guards, they've been through quite a lot"* followed by the GM's grim reminder: *"That was Valen's fate."*
 
-- **Grygum's Dust of Suleiman and Fireball combo:** After the combined assault deals massive damage to the heart fungus and Ilvara, Grygum's honest assessment: *"That worked better than I had any right to expect."*
+- **Gyrgum's Dust of Suleiman and Fireball combo:** After the combined assault deals massive damage to the heart fungus and Ilvara, Gyrgum's honest assessment: *"That worked better than I had any right to expect."*
 
 ## Voice Keeper Notes
 
@@ -108,9 +108,9 @@
 
 - **Zalthir's spore anxiety:** Genuinely concerned about fungal infection; this fear should be referenced and potentially exploited by NPCs. He has already pointed at Daz as evidence of what spores can do to a person.
 
-- **Grygum's sympathy:** Surprisingly empathetic toward everyone, including drow complaining about relationship drama. This openness could be leveraged by manipulative NPCs.
+- **Gyrgum's sympathy:** Surprisingly empathetic toward everyone, including drow complaining about relationship drama. This openness could be leveraged by manipulative NPCs.
 
-- **Thorin's range limitation:** Actively frustrated by his lack of ranged options; borrowing Grygum's crossbow as a stopgap. Future encounters should note he fights with Dawnbringer (has Sap property, imposes disadvantage on target's next attack).
+- **Thorin's range limitation:** Actively frustrated by his lack of ranged options; borrowing Gyrgum's crossbow as a stopgap. Future encounters should note he fights with Dawnbringer (has Sap property, imposes disadvantage on target's next attack).
 
 - **Valen's fate:** Confirmed as having become a spore servant. This should carry emotional weight if any remaining spore walkers are encountered — the party recognized their former guards.
 

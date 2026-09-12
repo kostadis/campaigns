@@ -12,7 +12,7 @@ We found him exactly that. Boisterous, flushed, conspicuously delighted with his
 
 "Oh, look, it's Faerûn's most famous detectives! Bookwyrm's brownnosers, I'm going to call you, because you like to—"
 
-"That's not our," Grygum said, "that's not our chosen name."
+"That's not our," Gyrgum said, "that's not our chosen name."
 
 Daral was already laughing at his own joke. "Light it up, guys, we seem to have gotten off on the wrong foot. Barman, a brown of spice brandies for our beloved brownnosers. My treat."
 

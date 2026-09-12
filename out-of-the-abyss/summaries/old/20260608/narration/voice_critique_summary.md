@@ -6,8 +6,8 @@
 |---|---|---|---|
 | 01 — Reporting to Bookwyrm | Daz | 4 | Maritime "rudder" metaphor — wrong geographic frame |
 | 02 — Investigation Strategy | Thorin | 3 + meta | Card-game idiom; frontmatter `narrator: Throin` typo |
-| 03 — Secret Meeting with Kalan | Zalthir | 4 + meta | Over-elaborated aphorism sounds like Grygum; `Brookworm` typo |
-| 04 — Research in the Flora Theca | Grygum | 3 + meta | Inverted Stroud reference; `teleportat` typo |
+| 03 — Secret Meeting with Kalan | Zalthir | 4 + meta | Over-elaborated aphorism sounds like Gyrgum; `Brookworm` typo |
+| 04 — Research in the Flora Theca | Gyrgum | 3 + meta | Inverted Stroud reference; `teleportat` typo |
 | 05 — Interrogating Daral at the Hearth | Daz | 3 | `grammar` wrong vocab register for bookkeeping-frame character |
 | 06 — Glabbagool's Trial | Zalthir | 3 | `column` bleeds Daz's vocabulary into Zalthir's narration |
 
@@ -19,13 +19,13 @@
 - sc05 Daz uses `grammar` — linguistic/structural term outside his bookkeeping vocabulary set
 - sc06 Zalthir uses `a clean column for` — directly from Daz's ledger vocabulary, used three times in sc01/sc05
 
-The model appears to be reaching for "analytical-sounding" language without distinguishing which character's specific analytical vocabulary is being invoked. Daz's frame is financial/bookkeeping; Thorin's is terrain/stone; Zalthir's is tactical-categorical with monastery callbacks; Grygum's is paratactic witness-notation. Crossing these registers is the most consistent failure mode.
+The model appears to be reaching for "analytical-sounding" language without distinguishing which character's specific analytical vocabulary is being invoked. Daz's frame is financial/bookkeeping; Thorin's is terrain/stone; Zalthir's is tactical-categorical with monastery callbacks; Gyrgum's is paratactic witness-notation. Crossing these registers is the most consistent failure mode.
 
 ## Second theme
 
 **Generic similes in opening character descriptions.** Four of six scenes have a stock simile in the first or second paragraph describing another character or entering a room:
 
-- sc01: "like a loose tooth" (Grygum worrying at a word)
+- sc01: "like a loose tooth" (Gyrgum worrying at a word)
 - sc03: "the way a man looks at someone explaining how he came to run the gate of Candlekeep" (elaborate Kalan look)
 - sc04: "like the books are sleeping and might wake" (Fembris walking)
 - sc06: "the way the surface of deep water is still, the way a thing is still when nothing inside it is wasted" (Glabbagool's stillness)
@@ -50,7 +50,7 @@ These are consistency errors that should be applied to the `.scrubbed.md` files 
 
 **Zalthir (sc03, sc06):** 7 flags across two scenes. Strongest systemic issue: over-articulation in sc03 (philosophical elaborations that Zalthir would compress), and "column" bleed from Daz in sc06. The monastery callbacks and declarative-full-stop rhythm are right when the model doesn't interrupt them.
 
-**Grygum (sc04):** 3 flags, cleanest narration in the set. The priestly training thought source, the chess reference (wrong spin but correct story), and "I had pages of it now. It's what I do." are all in character. Flags are genuine spot-edits.
+**Gyrgum (sc04):** 3 flags, cleanest narration in the set. The priestly training thought source, the chess reference (wrong spin but correct story), and "I had pages of it now. It's what I do." are all in character. Flags are genuine spot-edits.
 
 ## Recommendation
 

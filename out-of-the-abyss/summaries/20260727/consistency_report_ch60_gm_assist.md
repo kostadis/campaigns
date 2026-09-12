@@ -30,11 +30,11 @@
 
 **Location:** Summary (paragraph 2); Scenes → "Confrontation at the High Tower" (bullet 1)
 
-**Issue:** The Summary says Grygum's "bolt of radiant energy" was deflected by "A'lai Avainmore's magical defenses." The Scenes section specifies that "Grygum's mage armor deflects the attack." Mage Armor is an AC buff — it does not deflect attacks, it raises the attack roll threshold needed to hit. More importantly, **Mage Armor is a wizard spell that A'lai would cast on himself**, not a defense that "deflects" a radiant bolt. The description implies a magical shield/ward, which is not what Mage Armor does mechanically.
+**Issue:** The Summary says Gyrgum's "bolt of radiant energy" was deflected by "A'lai Avainmore's magical defenses." The Scenes section specifies that "Gyrgum's mage armor deflects the attack." Mage Armor is an AC buff — it does not deflect attacks, it raises the attack roll threshold needed to hit. More importantly, **Mage Armor is a wizard spell that A'lai would cast on himself**, not a defense that "deflects" a radiant bolt. The description implies a magical shield/ward, which is not what Mage Armor does mechanically.
 
-**Evidence:** Daz is the party's wizard (Evoker). Grygum is a Cleric of Bahamut (Life Domain). Neither has Mage Armor on their sheet. A'lai Aivenmore is a drow wizard, and Mage Armor on himself is plausible — but the framing "deflects" misrepresents the mechanic. The more likely ruling at the table was a missed attack roll against high AC.
+**Evidence:** Daz is the party's wizard (Evoker). Gyrgum is a Cleric of Bahamut (Life Domain). Neither has Mage Armor on their sheet. A'lai Aivenmore is a drow wizard, and Mage Armor on himself is plausible — but the framing "deflects" misrepresents the mechanic. The more likely ruling at the table was a missed attack roll against high AC.
 
-**Suggested fix:** Change "Grygum's mage armor deflects the attack" to "A'lai Aivenmore's high AC (likely from Mage Armor) caused the attack to miss." In the Summary, replace "magical defenses deflected it entirely" with "the bolt missed" or "A'lai's defenses held."
+**Suggested fix:** Change "Gyrgum's mage armor deflects the attack" to "A'lai Aivenmore's high AC (likely from Mage Armor) caused the attack to miss." In the Summary, replace "magical defenses deflected it entirely" with "the bolt missed" or "A'lai's defenses held."
 
 ---
 
@@ -101,15 +101,15 @@ The recap's "Avainmore" is a previously-documented transcription variant (close 
 
 ---
 
-## 9. Item Custody: "Grygum now held both the real High Tower key and the artifact"
+## 9. Item Custody: "Gyrgum now held both the real High Tower key and the artifact"
 
 **Location:** Summary (paragraph 3); Scenes → "Confrontation at the High Tower" (bullet 14)
 
-**Issue:** The recap says Daz passed the sapphire to Grygum "so that Grygum now holds both the real High Tower key and the sapphire." The campaign context documents establish that the **real High Tower key #2** was recovered from Tadric, not that Grygum specifically held it at this moment. The prep doc resume states: "**Daz** is carrying **nothing** — palmed the sapphire to Grygum." The current board at the cut shows "**Grygum** ⭐ Holds **the real High Tower key #2 AND the sapphire**." This is consistent with the recap. However, the **decoy key** — originally passed Kalan → Grygum → Daz — is described in the resume as still in "Grygum's pocket" per the carry-forward table ("decoy still in Grygum's pocket"). The recap does not distinguish between the decoy and the real key, which could cause confusion. Additionally, the grounding-docs staleness report notes that "Grygum" holds the decoy, not Daz, as a correction.
+**Issue:** The recap says Daz passed the sapphire to Gyrgum "so that Gyrgum now holds both the real High Tower key and the sapphire." The campaign context documents establish that the **real High Tower key #2** was recovered from Tadric, not that Gyrgum specifically held it at this moment. The prep doc resume states: "**Daz** is carrying **nothing** — palmed the sapphire to Gyrgum." The current board at the cut shows "**Gyrgum** ⭐ Holds **the real High Tower key #2 AND the sapphire**." This is consistent with the recap. However, the **decoy key** — originally passed Kalan → Gyrgum → Daz — is described in the resume as still in "Gyrgum's pocket" per the carry-forward table ("decoy still in Gyrgum's pocket"). The recap does not distinguish between the decoy and the real key, which could cause confusion. Additionally, the grounding-docs staleness report notes that "Gyrgum" holds the decoy, not Daz, as a correction.
 
-**Evidence:** Resume doc carry-forward: "Keys — Real #2 = party · Real #1 = A'lai (or recovered) · **decoy still in Grygum's pocket**." The item section says "It is now held by Grygum" for the real key — which matches the resume board state.
+**Evidence:** Resume doc carry-forward: "Keys — Real #2 = party · Real #1 = A'lai (or recovered) · **decoy still in Gyrgum's pocket**." The item section says "It is now held by Gyrgum" for the real key — which matches the resume board state.
 
-**Suggested fix:** Clarify in the recap which key is which. Grygum holds the real key #2 (from Tadric) AND the sapphire AND the decoy. This should be disambiguated to prevent future session confusion.
+**Suggested fix:** Clarify in the recap which key is which. Gyrgum holds the real key #2 (from Tadric) AND the sapphire AND the decoy. This should be disambiguated to prevent future session confusion.
 
 ---
 
@@ -135,7 +135,7 @@ The recap's "Avainmore" is a previously-documented transcription variant (close 
 
 **Issue:** The grounding-docs staleness report (`20260727_grounding_docs_stale_ch62.md`) explicitly flags that all four grounding docs list the party as **level 8**, when they milestoned to **level 9** at the end of Chapter 62. The recap is labeled Chapter 60 (the session of 2026-07-27). If the recap accurately reflects the session and the milestone happened at Ch.62's end, this recap (Chapter 60 by its own label) predates that milestone. However, the Chapter numbering is inconsistent — the grounding docs are labeled "Chapter 62" but reflect Chapter 61 events. The staleness report says the milestone was at the end of "Ch.62" as the report uses it (i.e., the session described by `chapter_62_the_key_is_secured.md`).
 
-**Evidence:** Staleness report: "⭐ The party milestoned to 9 at the end of Ch.62." The recap is labeled "Chapter 60." Scenes reference specific spell uses (Grygum's Tasha's Caustic Brew, Daz's Telekinesis, Maximilian's Earthen Grasp) consistent with level 8 or 9.
+**Evidence:** Staleness report: "⭐ The party milestoned to 9 at the end of Ch.62." The recap is labeled "Chapter 60." Scenes reference specific spell uses (Gyrgum's Tasha's Caustic Brew, Daz's Telekinesis, Maximilian's Earthen Grasp) consistent with level 8 or 9.
 
 **Issue is ambiguous:** The recap doesn't state character levels, so no direct error is present in the recap text itself. However, if this recap is being used as a reference for future sessions, the chapter numbering ("Chapter 60") needs to be confirmed against the canonical chapter-file numbering (which has a known BOM off-by-one offset). **Flag for GM verification: confirm whether this session is chapter 60 by the campaign's canonical counter, or whether it is the session that ends in the level-9 milestone.**
 

@@ -11,23 +11,23 @@ Daral Yashenti was at the door, hammering, calling to be let out. He hadn't yet 
 
 "What do we do next, gentlemen?"
 
-I said nothing and watched him work it out. Grygum did the talking. Grygum usually does.
+I said nothing and watched him work it out. Gyrgum did the talking. Gyrgum usually does.
 
 "So we now suspect Fembris Lancer?"
 
-That was the name that mattered. Fembris Lancer saw the key pass from Grygum's hand to Daz's. He's the only witness. And a witness who watches the wrong thing at the wrong moment is either an accident or an asset, and I have stopped believing in accidents this deep underground.
+That was the name that mattered. Fembris Lancer saw the key pass from Gyrgum's hand to Daz's. He's the only witness. And a witness who watches the wrong thing at the wrong moment is either an accident or an asset, and I have stopped believing in accidents this deep underground.
 
-But it was the key itself that scratched at me. We'd checked it once. We'd looked for the magic on it and found nothing. Grygum was working the same thread out loud.
+But it was the key itself that scratched at me. We'd checked it once. We'd looked for the magic on it and found nothing. Gyrgum was working the same thread out loud.
 
 "You mean we tried to detect magic, and it didn't come out as magical? Makes me wonder if it's actually the right key."
 
 Then he remembered the phrasing. Kalan Strongbranch, when he handed it over — *I have given it now to someone who is not me.*
 
-"Someone who is not me. Yeah, that's a weird phrasing." Grygum turned it over. "And I guess it could be sort of a hot potato kind of thing. You know, bad things are coming to whoever is holding the key when something happens."
+"Someone who is not me. Yeah, that's a weird phrasing." Gyrgum turned it over. "And I guess it could be sort of a hot potato kind of thing. You know, bad things are coming to whoever is holding the key when something happens."
 
 A hot potato. He said it lightly. I did not find it light. A man who phrases a handoff like a riddle is a man building himself an alibi.
 
-Grygum held the key out to Daral. "Does this look like the right key? Does anything look odd about it? The key to the tower?"
+Gyrgum held the key out to Daral. "Does this look like the right key? Does anything look odd about it? The key to the tower?"
 
 Daral studied it, careful. "Well, I'm not a locksmith, so I couldn't tell you for sure."
 
@@ -37,7 +37,7 @@ Daral studied it, careful. "Well, I'm not a locksmith, so I couldn't tell you fo
 
 "But this key is not magical. Go ahead and examine it. Try to detect magic on it. We did not succeed."
 
-Daral had a scroll. Of course he had a scroll. A Candlekeep sage keeps one in a pocket the way I keep a spare cord coiled at my hip. He read it. The room lit up in the way that magic lights up when you finally look at it correctly: Dawnbringer flared, Grygum's armor blinked, and Daral himself glowed brighter than any of us, still soaked in the light Dawnbringer had poured into him.
+Daral had a scroll. Of course he had a scroll. A Candlekeep sage keeps one in a pocket the way I keep a spare cord coiled at my hip. He read it. The room lit up in the way that magic lights up when you finally look at it correctly: Dawnbringer flared, Gyrgum's armor blinked, and Daral himself glowed brighter than any of us, still soaked in the light Dawnbringer had poured into him.
 
 Everything in the room answered. Everything but the key.
 
@@ -53,7 +53,7 @@ Not the hour. A watcher's bell, tolling wrong: an alarm pattern, cold and instit
 
 "What does that mean?" Thorin asked.
 
-I said nothing. The Garden Shadow had a saying — or possibly Brother Quellin did — that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won. Somebody in this keep had already decided. The dead key in Grygum's hand and the bell going off in the same breath were not two events. Two things arriving together this deep down are never two things.
+I said nothing. The Garden Shadow had a saying — or possibly Brother Quellin did — that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won. Somebody in this keep had already decided. The dead key in Gyrgum's hand and the bell going off in the same breath were not two events. Two things arriving together this deep down are never two things.
 
 Someone rushed in through the ruined doorway.
 
@@ -73,17 +73,17 @@ The bell hadn't finished ringing before an Avowed was shouting it down the corri
 
 "How did it happen?" I asked.
 
-"Who killed her?" said Grygum, correcting the Avowed's pronoun and his own in the same breath.
+"Who killed her?" said Gyrgum, correcting the Avowed's pronoun and his own in the same breath.
 
-Her throat had been torn apart. That was the answer that came back: torn, not cut. And when Grygum asked whether she still had her heart, the answer was yes, present, intact. Not beating, but there. I noted the discrepancy immediately. It was the whole story in one line. Janussi's heart had been carved out with intent. Bookwyrm's had been left where it was. Whatever did this hadn't come for organs.
+Her throat had been torn apart. That was the answer that came back: torn, not cut. And when Gyrgum asked whether she still had her heart, the answer was yes, present, intact. Not beating, but there. I noted the discrepancy immediately. It was the whole story in one line. Janussi's heart had been carved out with intent. Bookwyrm's had been left where it was. Whatever did this hadn't come for organs.
 
 We went up. Fembris Lancer and Daral Yashenti brought us to her office and it was a mess, and the mess itself was information. She was an eighteenth-level magic user relaxed in the safety of her own tower: no Time Stop cast, no ward raised, an academic who spent her days validating citations and identifying false ones and never once expected to need Wish at her own desk. Whoever did this knew exactly how confident she'd be. That is not luck. That is planning.
 
-On the desk was a half-finished note in her own hand. *He is using the beast to—* and then nothing. Grygum read it aloud and asked Daral Yashenti what the beast was. Daral Yashenti had no idea what the beast was.
+On the desk was a half-finished note in her own hand. *He is using the beast to—* and then nothing. Gyrgum read it aloud and asked Daral Yashenti what the beast was. Daral Yashenti had no idea what the beast was.
 
 I reached for it, the way I always reach, ritually, off the top of my mind. And the reach came back empty. Worse than empty. My own head was the problem; the pressure behind my eyes that's been getting worse fogged the whole thing over, and for a bad moment I had nothing. *Are you fucking kidding me.*
 
-Grygum offered to help. I took it. On the second pass, with his hand steadying the work, it came clean. Cleaner than clean, everything snapping into place at once. And what came was this: the wards over Candlekeep were wrong. The pressure of them, the same pressure that's been sitting in my skull, didn't sit right. Something was broken.
+Gyrgum offered to help. I took it. On the second pass, with his hand steadying the work, it came clean. Cleaner than clean, everything snapping into place at once. And what came was this: the wards over Candlekeep were wrong. The pressure of them, the same pressure that's been sitting in my skull, didn't sit right. Something was broken.
 
 "Oh," I said. "Like somebody hacked the firewall and opened another port."
 
@@ -101,9 +101,9 @@ Sylvira Savikas has a son. Abyss-born. Abyssal spawn. She's a tiefling, she was 
 
 "Interesting," I said, which is what I say when something has just cost me more than I want to show.
 
-Daral Yashenti explained the defenses then: the shield that stops anyone teleporting in or out. I said what I already knew. "Are we sure the teleport protection is working? Something feels off to me." Grygum, who has done as much information-security work as I have, put it more plainly: inconceivable things happen several times a day, so could he please *check*.
+Daral Yashenti explained the defenses then: the shield that stops anyone teleporting in or out. I said what I already knew. "Are we sure the teleport protection is working? Something feels off to me." Gyrgum, who has done as much information-security work as I have, put it more plainly: inconceivable things happen several times a day, so could he please *check*.
 
-The check was a candle. You can't light a fire in Candlekeep. Grygum threw Thaumaturgy at a scrap of paper and the flame leapt and then evaporated the instant it touched: a burning bush that refused to burn. Same ward. Same effect. Held in the one room locked by the two high tower keys.
+The check was a candle. You can't light a fire in Candlekeep. Gyrgum threw Thaumaturgy at a scrap of paper and the flame leapt and then evaporated the instant it touched: a burning bush that refused to burn. Same ward. Same effect. Held in the one room locked by the two high tower keys.
 
 The room protected by the keys held the ward that protected everything else. Bookwyrm had one of those keys: she'd gone into Janussi's chamber, taken the heart, secured the key. Someone had torn her throat out to get it. Consistent with the attempt on me. Consistent with the port left open in the firewall.
 
@@ -115,7 +115,7 @@ Go interview him. Or protect him. Or find out he's already dead.
 
 ---
 
-## Grygum — Racing to the Sea Warden's Tower
+## Gyrgum — Racing to the Sea Warden's Tower
 
 We needed the key, and the key was somewhere Kalan Strongbranch knew, and Kalan Strongbranch was not where Kalan Strongbranch was supposed to be.
 
@@ -145,7 +145,7 @@ Then we ran.
 
 The library stretched out in front of us like something the map itself was struggling to hold: the walls smearing, the floor pulling long. We ran through it anyway, at a speed no honest set of legs earns, all the way to the Sea Warden's Tower.
 
-Kalan was buckling on his armor when we found him. He was rushing toward us as we rushed toward him, belting himself in, hearing the same bell we'd all heard. "Grygum, Daz, I heard the bell. Is everything okay?"
+Kalan was buckling on his armor when we found him. He was rushing toward us as we rushed toward him, belting himself in, hearing the same bell we'd all heard. "Gyrgum, Daz, I heard the bell. Is everything okay?"
 
 "Uh, no, Bookwyrm is dead."
 
@@ -201,7 +201,7 @@ And there it was. The whole thing, laid out in three words, and every one of the
 
 "And the other one wasn't?" I said.
 
-Grygum lost it. Somewhere off my shoulder the orc just cracked open. "Ha ha ha ha ha ha ha ha!" I'll give myself this much: it was a good line. I meant it and it was true and it was funny, which is the best kind. But the terrain doesn't wait for a laugh. Tadric was up ahead getting torn apart by something we couldn't see yet, and standing in a hall arguing about a man's honor wasn't going to close the distance.
+Gyrgum lost it. Somewhere off my shoulder the orc just cracked open. "Ha ha ha ha ha ha ha ha!" I'll give myself this much: it was a good line. I meant it and it was true and it was funny, which is the best kind. But the terrain doesn't wait for a laugh. Tadric was up ahead getting torn apart by something we couldn't see yet, and standing in a hall arguing about a man's honor wasn't going to close the distance.
 
 "Okay, wait, never mind, never mind," I said. "Let's go. We run. Okay, we can argue about this later."
 
@@ -245,7 +245,7 @@ The rotunda opened above us into a dome, and the thing was already on Tadric. It
 
 "Alright, so we gotta save Tadric," Thorin said. 
 
-Grygum said it plainly, the way he says the hard things. "So if we have to prioritize the man or Tadric, we're going to have to make a choice."
+Gyrgum said it plainly, the way he says the hard things. "So if we have to prioritize the man or Tadric, we're going to have to make a choice."
 
 "Yeah," Thorin said.
 
@@ -267,7 +267,7 @@ I crossed the floor before the demon registered me, the whole point of me is tha
 
 It was. Frightened is a demon that won't come at you. Stunned is a demon that can't do anything at all: a stationary thing waiting to be dismantled. I spent another measured breath and hit it twice more while it stood there helpless, unable to guard, unable to answer, and those two landed clean and heavy and the thing was carved down to almost nothing. There is no clean word for what that felt like. The monastery combat drills finally paid for themselves. I stepped back and let it stand there, ruined and upright, and told the others it was theirs.
 
-Grygum moved wide so his lightning wouldn't catch any of us, then threw a javelin that arced and hummed and missed. "So, uh, that, uh, missed." He paused, "Fuck."
+Gyrgum moved wide so his lightning wouldn't catch any of us, then threw a javelin that arced and hummed and missed. "So, uh, that, uh, missed." He paused, "Fuck."
 
 Daz declined to waste anything clever on a thing immune to fire, no fireball, no flame, and put a plain old cold burst of force into it instead, three small bright darts, because it wasn't doing great and he wanted to hold the rest in reserve.
 
@@ -275,13 +275,13 @@ Thorin finished it. He was owed that. A solid strike, and then the next one came
 
 "You killed him," the world said. "You killed him."
 
-"Really?" Grygum said. "I expected this guy to be a lot tougher."
+"Really?" Gyrgum said. "I expected this guy to be a lot tougher."
 
 He hadn't seen what I'd seen. The demon had had one attack in it — one — and one was all it needed to open Tadric's throat and disengage into the air and vanish with the key clutched to its chest. That was the whole plan it had come with. Kill the man, take the artifact, be gone before we crossed the floor. It never got the attack. We took its whole turn away from it before it could spend a single beat of it.
 
 I didn't feel triumphant. I felt the way you feel when you were the one standing in the correct spot, and it held.
 
-Grygum knelt over Tadric and closed the wounds, and the blood stopped. Tadric came back into himself all at once, shaking, grabbing for the key even before his eyes focused, staring at the ruin of the thing that had been on him. Sylvira Savikas's son. He looked at the corpse and then at us, and the only thing he could get out was a question, quiet and cracked.
+Gyrgum knelt over Tadric and closed the wounds, and the blood stopped. Tadric came back into himself all at once, shaking, grabbing for the key even before his eyes focused, staring at the ruin of the thing that had been on him. Sylvira Savikas's son. He looked at the corpse and then at us, and the only thing he could get out was a question, quiet and cracked.
 
 "Is Kalan Strongbranch alive?"
 
@@ -311,9 +311,9 @@ Of course it was. Cut the last thread and lift off, key and all, gone before any
 
 "I mean, like, not only did we keep them from fleeing," I said, "we saved Tadric." Two things at once. Held the position, kept the prize on the board. Giants would call that a good day.
 
-"Yes, you saved Tadric." Then, to Grygum: "Are you going to heal him or are you going to let him bleed out to death?"
+"Yes, you saved Tadric." Then, to Gyrgum: "Are you going to heal him or are you going to let him bleed out to death?"
 
-Grygum knelt and put his hand on Tadric and said the words, and the blood stopped and the gashes pulled themselves shut. Tadric came back into himself, grabbed for the key, then looked at the dead thing on the floor, and something in his face fell in.
+Gyrgum knelt and put his hand on Tadric and said the words, and the blood stopped and the gashes pulled themselves shut. Tadric came back into himself, grabbed for the key, then looked at the dead thing on the floor, and something in his face fell in.
 
 "Moziqodo," he said. "Sylvira Savikas' son. What has happened here?"
 
@@ -325,13 +325,13 @@ He sat down hard when he heard it. "Is Kalan Strongbranch alive?"
 
 And then it came. That quiet knock inside the chest that means you've crossed some threshold you didn't notice crossing. Not a hit. Given the last while, worth specifying. Just the other kind of thing, the one that settles into your arms and legs and says *you're more than you were an hour ago.* I kept it to myself.
 
-"Evil geniuses have more than one plan," someone said, and Grygum lit up.
+"Evil geniuses have more than one plan," someone said, and Gyrgum lit up.
 
 "What fun. So we have one real key and one fake key, and anybody who doesn't know that we have a fake key, we can fake them out with it somehow. And eventually, the person that has the real key will be like, how are these guys saying they have two keys?"
 
 "Yeah, that's a good idea," Daz said. "Interesting."
 
-"I'm going to ferret him out," Grygum said. "Him or her. Or they. Or it."
+"I'm going to ferret him out," Gyrgum said. "Him or her. Or they. Or it."
 
 So there it was, all of it on the ground where I could see it. A'lai up in the tower with the other key, waiting for a dead man's report. Us with a real key and Kalan's decoy.
 

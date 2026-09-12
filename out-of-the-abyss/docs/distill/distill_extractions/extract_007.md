@@ -14,7 +14,7 @@
 - Faction: Escaped prisoners
 - Notes: Particularly annoyed by Giant Spiders' non-standard web-building tactics
 
-**Grygum**
+**Gyrgum**
 - Current location: The Silken Paths / exiting into Underdark tunnels
 - Current state: Active
 - Recent actions: Produced written notes of Fargas's treasure information; asked the Spectator about its warnings; fired a handheld crossbow at the Spectator; noted aloud he needs better ranged spells
@@ -37,15 +37,15 @@
 **Fargas Rumblefoot**
 - Current location: The Silken Paths / exiting into Underdark tunnels
 - Current state: Active; traveling with the group
-- Recent actions: Initially tempted to deny his earlier promise about treasure information; gave up the information after pressure from Zalthir and Grygum's written notes; removed spiderweb from his hair and equipment; revealed information about Brysis of Khaem's tomb
+- Recent actions: Initially tempted to deny his earlier promise about treasure information; gave up the information after pressure from Zalthir and Gyrgum's written notes; removed spiderweb from his hair and equipment; revealed information about Brysis of Khaem's tomb
 - Faction: Halfling adventurer; escaped prisoner
-- Motivations: Appears motivated by self-preservation; made claims about the tomb's location out of desperation or bravado (Zalthir's assessment), though Grygum determined he was not lying at either point
+- Motivations: Appears motivated by self-preservation; made claims about the tomb's location out of desperation or bravado (Zalthir's assessment), though Gyrgum determined he was not lying at either point
 - Revealed information: Knows the location of the false tomb vs. the real burial chamber; real treasure accessed via secret passageway from the servants' tomb; tomb is on the eastern edge of the Darklake
 
 **Jimjar**
 - Current location: The Silken Paths / exiting into Underdark tunnels
 - Current state: Active; traveling with the group
-- Recent actions: Attempted (and failed) to convince the Spectator the group were not demons; bet Grygum he could succeed; promised Yukyuk and Spiderbait payment "the minute I get it"
+- Recent actions: Attempted (and failed) to convince the Spectator the group were not demons; bet Gyrgum he could succeed; promised Yukyuk and Spiderbait payment "the minute I get it"
 - Faction: Escaped prisoners
 - Notes: Habitually makes bets; does not currently have the gold to pay the goblin guides
 
@@ -89,7 +89,7 @@
 **Escaped Prisoners**
 - Current goals: Reach Sloobludop (three days away), then proceed to Gracklstugh; investigate Brysis of Khaem's tomb on the way
 - Recent actions: Escaped Giant Spiders in the Silken Paths; defeated a Spectator; extracted tomb intelligence from Fargas Rumblefoot; exited the Silken Paths
-- Key members: Zalthir, Thorin, Grygum, Daz, Sethir/Serith, Fargas Rumblefoot, Jimjar, Buppido, Yukyuk, Spiderbait
+- Key members: Zalthir, Thorin, Gyrgum, Daz, Sethir/Serith, Fargas Rumblefoot, Jimjar, Buppido, Yukyuk, Spiderbait
 
 **Drow Pursuers**
 - Current goals: Presumably pursuing the escaped prisoners
@@ -109,11 +109,11 @@
 - The group fled through the Silken Paths, cutting strands to force Spiders to keep spinning rather than attacking; the tactic bought enough time to escape.
 - The group exited the Giant Spiders' territorial domain, causing pursuit to cease.
 - Zalthir confronted Fargas Rumblefoot about his earlier promise regarding treasure information.
-- Grygum produced written notes of Fargas's earlier statements, preventing Fargas from denying them.
+- Gyrgum produced written notes of Fargas's earlier statements, preventing Fargas from denying them.
 - Fargas revealed the history and location details of Brysis of Khaem's floating tomb.
 - Sethir identified the probable precise location of the tomb based on Fargas's description and drew a rough map using Ormu.
 - A Spectator (mad, formerly imprisoned by a long-dead drow wizard) floated up to the group on a web strand and claimed to bring warnings of demons.
-- Jimjar bet Grygum he could convince the Spectator of the group's benign intent; Jimjar failed the bet.
+- Jimjar bet Gyrgum he could convince the Spectator of the group's benign intent; Jimjar failed the bet.
 - The Spectator attacked the group, using a confusion ray on Thorin, a paralysis ray on Zalthir, and an unspecified blue ray on Thorin (which had no effect).
 - Zalthir attempted to attack the Spectator while hanging beneath the web strand; he missed.
 - Thorin used a "hill strike" battle technique against the Spectator; the creature was not knocked prone.

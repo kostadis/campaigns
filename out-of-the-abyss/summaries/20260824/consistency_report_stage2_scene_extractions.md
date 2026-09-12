@@ -71,7 +71,7 @@ quote from the tape, which stages 0 and 1 never do.
   on "a thousand feet is roughly a hundred seconds" of feather fall.
 - **Ruling**: discuss → **GM note: "It was 1000 feet. We agreed on the table."**
 - **Applied**: 1,000 ft in seven places across three files; the arithmetic now
-  closes (500 + 500). Grygum's two spoken "1500 feet" lines left as spoken —
+  closes (500 + 500). Gyrgum's two spoken "1500 feet" lines left as spoken —
   they are player dialogue, not narration.
 
 ## 5. Moderate: the broken owlbear is filed a scene early
@@ -115,7 +115,7 @@ quote from the tape, which stages 0 and 1 never do.
 - **Location**: `04_…dragon_s_trial.md:15, 23, 25`; `session_summary.md:77, 85, 87, 141`
 - **Issue**: "what did he take", "are we who we say we are", Manshoon "is still
   inside" — none contiguous anywhere in the transcript.
-- **Evidence**: Actual lines — Grygum "tell us **what he took** is interesting,
+- **Evidence**: Actual lines — Gyrgum "tell us **what he took** is interesting,
   too"; GM "You can ask if everyone is **who they say they are**"; GM "He goes,
   **he's still inside**."
 - **Ruling**: approve.

@@ -12,9 +12,9 @@ chapters: 14-14
 **Allegiance/faction:** Independent Duergar merchant (apparently under magical influence)  
 **Current possessions / notable items:** Unknown (no specific items listed)  
 **Spells, feats, wounds:** None noted  
-**Current assignment / role:** Merchant in the Blade Bazaar; engages in transactions with customers including Grygum  
-**Key relationships:** Visibly interacts with an unnamed brother during transactions, though he denies the brother’s existence; has direct interaction with Grygum  
-**Defining recent actions:** Shifts speech mid-transaction from cursing Grygum to adopting the stilted diction of a Baldurian patriar; denies the existence of his brother despite the brother being visibly present during the exchange.  
+**Current assignment / role:** Merchant in the Blade Bazaar; engages in transactions with customers including Gyrgum  
+**Key relationships:** Visibly interacts with an unnamed brother during transactions, though he denies the brother’s existence; has direct interaction with Gyrgum  
+**Defining recent actions:** Shifts speech mid-transaction from cursing Gyrgum to adopting the stilted diction of a Baldurian patriar; denies the existence of his brother despite the brother being visibly present during the exchange.  
 
 ## Uncertainty
 - Contradiction in name spelling: One fact spells the name "Dulgir," another spells it "Dulgiar" — unclear if this is a typo or refers to two entities.  

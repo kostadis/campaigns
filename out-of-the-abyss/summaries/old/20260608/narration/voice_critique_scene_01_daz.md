@@ -8,10 +8,10 @@
 
 ### [1] Cliché simile
 
-> "Behind me, Grygum was worrying at the word like a loose tooth."
+> "Behind me, Gyrgum was worrying at the word like a loose tooth."
 
 **Why:** Daz doesn't observe companions through body-sensation similes; his observations are categorical (who owes what, who has what leverage, what column do I put this in). "Like a loose tooth" is stock — it could appear in any narrator's prose.
-**Suggested rewrite:** "Behind me, Grygum was running the word back and forth. Checking it against what we'd actually been told."
+**Suggested rewrite:** "Behind me, Gyrgum was running the word back and forth. Checking it against what we'd actually been told."
 
 ### [2] Generic ornate metaphor
 

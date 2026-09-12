@@ -26,11 +26,11 @@ Goblin guide of the Silken Paths, paired with his partner Yukyuk. Color motif: p
 1. **Silken Paths** — Hired as a guide after devising the solution to Jimjar's unpaid bet: he and Yukyuk would stay with the group until the debt was settled. Enthusiastically high-fived Yukyuk. Took mental notes on Eldeth's rope-tying safety innovation. Warned the group about the lethal danger of burning webs.
 2. **Spider Fight** — Critiqued the party's use of magic, advocating for skill-based solutions. Explained the Drow pursuit would depend on guide quality and that he and Yukyuk knew the best routes.
 3. **Yukyuk's Murder (1st day, 3rd Tenday of Taraskh 1493)** — Discovered Yukyuk's body and screamed, waking the group. Raged at Jimjar demanding money and threatening to leave. Calmed down by Jimjar. When questioned by Daz, described Yukyuk as "the kindest, gentlest goblin you could imagine." Accused Shuushar of being the killer, claiming Kuo-toans go mad and kill people. Was tempted to leave but stayed, reportedly impressed by Zalthir.
-4. **Kuo-toa Civil War** — Fled with the other escapees toward Grygum.
+4. **Kuo-toa Civil War** — Fled with the other escapees toward Gyrgum.
 5. **Keelboat Ambush** — Captured by duergar; a duergar dragged him away, but Zalthir killed the creature holding him. Afterward, was "seething with rage" and wanted to kill Buppido on the spot.
 6. **Gracklstugh / Underlake Hold** — Armed by Errde alongside Jimjar, Sarith, and Eldeth. Ordered to wait outside the assassin's chambers by Rust. Traveled with the group past the Derro caves. Skiit (a derro?) specifically pointed at Spiderbait and asked "Can I kill that one over there?"
 7. **Blingdenstone** — Volunteered alongside Glabbagool, Eldeth, and Jimjar to tackle the ghost problem.
-8. **Overbright / Tunnel Mouth** — Left the Underdark with the party. Upon reaching the surface, announced this was his first time ever on the surface. Initially expressed optimism that goblins are fully integrated into surface society, but was corrected by Thorin, Daz, and Grygum about the hostile reality. Quickly recalibrated and asked to stay with the group for protection, noting they are "four big, powerful people" and he is a small goblin. Expressed interest in finding work at Candlekeep doing something innocuous; Grygum endorsed this plan.
+8. **Overbright / Tunnel Mouth** — Left the Underdark with the party. Upon reaching the surface, announced this was his first time ever on the surface. Initially expressed optimism that goblins are fully integrated into surface society, but was corrected by Thorin, Daz, and Gyrgum about the hostile reality. Quickly recalibrated and asked to stay with the group for protection, noting they are "four big, powerful people" and he is a small goblin. Expressed interest in finding work at Candlekeep doing something innocuous; Gyrgum endorsed this plan.
 
 ## Current Status
 - **Location:** Traveling with the party toward Candlekeep
@@ -47,7 +47,7 @@ Goblin guide of the Silken Paths, paired with his partner Yukyuk. Color motif: p
 - **Daz** — Questioned by Daz about the murder; cooperated with the investigation. Daz later carefully explained the reality of surface prejudice against goblins.
 - **Skiit** — Skiit singled him out as a target ("Can I kill that one over there?").
 - **Thorin** — Thorin bluntly informed him that goblins are not accepted in surface society.
-- **Grygum** — Grygum explained the rough state of goblin equality and inclusion on the surface, then endorsed Spiderbait's plan to seek work at Candlekeep.
+- **Gyrgum** — Gyrgum explained the rough state of goblin equality and inclusion on the surface, then endorsed Spiderbait's plan to seek work at Candlekeep.
 
 ## Arc Score Events
 - **Yukyuk's murder** — Major emotional blow; triggered rage and near-departure (relationship with group strained, decrease).

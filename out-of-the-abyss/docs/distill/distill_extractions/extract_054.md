@@ -22,7 +22,7 @@
 - Faction: None confirmed
 - Revealed motivations/secrets: Reluctant to kill if avoidable; has a relationship with Dawnbringer that involves repeated negotiation; considering finding a "sword whisperer" specialist for Dawnbringer's care after months in darkness
 
-**Grygum**
+**Gyrgum**
 - Current location: Surface world (just emerged from the Underdark)
 - Current state: Alive
 - Recent actions: Attempted to hit Asha Vandree with a divine light attack (missed); used acid breath to destroy the fungal growth on Ilvara's platform; looted Asha Vandree's body; examined and summarised Asha's sealed wax pouch document; examined Ilvara's prayer book and identified the Zuggtmoy marginalia corruption timeline; read aloud the sealed orders from House Mizzrym; catalogued all items recovered from the outpost; plans to visit Candlekeep to research Bahamut lore and collect pamphlets
@@ -46,15 +46,15 @@
 **Asha Vandree**
 - Current location: Dead in the outpost chamber
 - Current state: Deceased — killed by Zalthir using the Eldritch Claw Tattoo
-- Recent actions (immediately before death): Declared herself in charge of the party; invoked Lolth's blessing when Grygum's attack missed; was grappled by Thorin; killed before she could speak further
+- Recent actions (immediately before death): Declared herself in charge of the party; invoked Lolth's blessing when Gyrgum's attack missed; was grappled by Thorin; killed before she could speak further
 - Faction: Lolth cult (also secretly aligned with Zuggtmoy, based on the theological document found on her body)
 - Items recovered from body: Holy symbol of Lolth, chain mail, prayer beads, sealed wax pouch (theological document), Drow spider-silk cloak (taken by Zalthir)
 - Revealed motivations/secrets: Genuinely devout to Lolth; was apparently also a Zuggtmoy cultist or was being drawn toward Zuggtmoy theology; the wax pouch document argues Lolth and Zuggtmoy are the same entity
 
 **Ilvara**
 - Current location: Dead in the outpost chamber (body present and looted)
-- Current state: Deceased (killed prior to this session, by Grygum's earlier account)
-- Recent actions (postmortem): Body looted; found to be carrying: the confiscated prisoner belongings chest, her prayer book, the Living Serpent Head Scourge; had built an elevated platform with fungal growth that Grygum destroyed
+- Current state: Deceased (killed prior to this session, by Gyrgum's earlier account)
+- Recent actions (postmortem): Body looted; found to be carrying: the confiscated prisoner belongings chest, her prayer book, the Living Serpent Head Scourge; had built an elevated platform with fungal growth that Gyrgum destroyed
 - Faction: House Mizzrym; High Priestess of Lolth; corrupted by Zuggtmoy
 - Revealed motivations/secrets: Prayer book marginalia in a different (or altered) hand documents the timeline of her corruption by Zuggtmoy; was a normally functioning, politically dangerous High Priestess before corruption began; had been carrying Thorin's tooth as a trophy; had a missed meeting documented in the letter from Neverlight Grove; House Mizzrym's sealed orders show they were unaware of her whereabouts
 
@@ -97,8 +97,8 @@
 - Motivation/relevance: His words resonated with Daz's experience of the revelation about his unknown patron
 
 **Gorg'Bahamut** (referenced, not present)
-- Does not appear in this chapter; referenced by Grygum as his mentor
-- Would have wanted Grygum to say something pious about the dignity of the dead; Grygum chose not to follow this instinct when looting Asha's body
+- Does not appear in this chapter; referenced by Gyrgum as his mentor
+- Would have wanted Gyrgum to say something pious about the dignity of the dead; Gyrgum chose not to follow this instinct when looting Asha's body
 
 **Jimjar** (referenced, not present)
 - Does not appear in this chapter; referenced in the context of Candlekeep research goals
@@ -113,11 +113,11 @@
 - Taught a class on "decisive action under moral uncertainty — the ethics of necessary violence"; never sat down; the class went on for a long time
 
 **Protanther** (referenced, not present)
-- Does not appear in this chapter; referenced by Grygum in a passing comparison
+- Does not appear in this chapter; referenced by Gyrgum in a passing comparison
 - Was approached by someone named Stroud; the reference implies Protanther had a blind spot despite four hundred years of preparation
 
 **Stroud** (referenced, not present)
-- Does not appear in this chapter; referenced by Grygum in a passing comparison
+- Does not appear in this chapter; referenced by Gyrgum in a passing comparison
 - Sat down across from Protanther; had four hundred years of preparation; still had a blind spot
 
 **The Unknown Patron** (unnamed, not present)
@@ -174,31 +174,31 @@
 - Nym and Kaelira Duskryn revealed they had been contracted through anonymous cutouts to protect Daz specifically from House Mizzrym and House T'sarran
 - The Duskryn sisters confirmed the contracting party's identity is unknown to them; the financial outlay was described as "a lot" with multiple interruptions to the sisters' schedule
 - Asha Vandree declared herself in charge of the party
-- Grygum attempted a divine light attack on Asha Vandree; it missed; Asha attributed the miss to Lolth's blessing
+- Gyrgum attempted a divine light attack on Asha Vandree; it missed; Asha attributed the miss to Lolth's blessing
 - Thorin grappled Asha Vandree and covered her mouth to prevent her from praying
 - Zalthir killed Asha Vandree using the Eldritch Claw Tattoo in rapid precise strikes
 - Kaelira Duskryn applauded Zalthir's killing of Asha with slow, deliberate clapping
 - Thorin threatened Dawnbringer with the Vaultmaster Locking Scabbard; Dawnbringer agreed to participate in a purification ritual
-- Grygum used acid breath to destroy fungal growth on Ilvara's platform
+- Gyrgum used acid breath to destroy fungal growth on Ilvara's platform
 - Thorin extracted a necromantic pearl from the core of the fungal mass; noted it felt finished and weighted wrong for something grown
 - Thorin looted the dead House Mizzrym guards (gold, short swords, long sword, steel whistle)
 - Thorin looted the T'sarran mage's body (House T'sarran signet ring, obsidian wand with amber-captive spider, partially burned documents)
-- Grygum looted Asha Vandree's body (holy symbol of Lolth, chain mail, prayer beads, sealed wax pouch); Zalthir took her Drow spider-silk cloak
-- Grygum opened and read the sealed wax pouch: a theological document arguing Lolth and Zuggtmoy are the same entity; identified as "tedious and boring" but acknowledged as evidence of Asha's dual allegiance
-- Grygum examined Ilvara's prayer book; identified marginalia in what appeared to be a different or altered hand documenting the timeline of her Zuggtmoy corruption
-- Grygum read House Mizzrym's sealed orders to Ilvara aloud; confirmed they were increasingly frantic attempts to locate her
+- Gyrgum looted Asha Vandree's body (holy symbol of Lolth, chain mail, prayer beads, sealed wax pouch); Zalthir took her Drow spider-silk cloak
+- Gyrgum opened and read the sealed wax pouch: a theological document arguing Lolth and Zuggtmoy are the same entity; identified as "tedious and boring" but acknowledged as evidence of Asha's dual allegiance
+- Gyrgum examined Ilvara's prayer book; identified marginalia in what appeared to be a different or altered hand documenting the timeline of her Zuggtmoy corruption
+- Gyrgum read House Mizzrym's sealed orders to Ilvara aloud; confirmed they were increasingly frantic attempts to locate her
 - A letter from Neverlight Grove was found among Ilvara's effects, documenting a missed meeting
-- Grygum found a ritual bundle under Ilvara's platform: incense cones, a small silver bowl, and a cloth stitched with both Lolth's and Zuggtmoy's sigils woven together
-- Grygum recovered a jailer's key ring from the outpost
+- Gyrgum found a ritual bundle under Ilvara's platform: incense cones, a small silver bowl, and a cloth stitched with both Lolth's and Zuggtmoy's sigils woven together
+- Gyrgum recovered a jailer's key ring from the outpost
 - A payroll chest (gold and silver) was recovered from the outpost
 - A chest of confiscated prisoner belongings was recovered; Thorin retrieved his tooth from it
 - A water-damaged journal from an unknown prisoner was recovered
-- A flask of Overbright brandy was recovered (taken by Grygum)
-- The Living Serpent Head Scourge was recovered from Ilvara's body; described by Grygum as "a great museum piece"
+- A flask of Overbright brandy was recovered (taken by Gyrgum)
+- The Living Serpent Head Scourge was recovered from Ilvara's body; described by Gyrgum as "a great museum piece"
 - Nym and Kaelira Duskryn departed after the contract was declared fulfilled; Thorin attempted to retain them but was told the fee was beyond the party's means
 - The party emerged from the Underdark onto the surface
 - Zalthir removed and stored his Drow spider-silk cloak immediately upon emergence to prevent sunlight destruction
-- Grygum opened the bag of holding enough for Glabbagool to observe the surface world for the first time; Glabbagool reacted with evident curiosity and wonder
+- Gyrgum opened the bag of holding enough for Glabbagool to observe the surface world for the first time; Glabbagool reacted with evident curiosity and wonder
 - The party agreed to travel to Candlekeep to research House T'sarran, Jimjar's disappearance, and Daz's unknown patron
 - The party agreed to spend recovered gold on adventuring gear rather than business ventures
 - Thorin expressed intent to find a "sword whisperer" specialist for Dawnbringer
@@ -209,7 +209,7 @@
 
 **The Drow Outpost (unnamed chamber)**
 - What it is: A Lolth/Zuggtmoy-corrupted outpost; site of Ilvara's operation; previously a House Mizzrym installation
-- What happened here: Final confrontation with Ilvara (prior session); confrontation with T'sarran mage and mercenaries; killing of Asha Vandree; full looting of the chamber; destruction of fungal growth by Grygum
+- What happened here: Final confrontation with Ilvara (prior session); confrontation with T'sarran mage and mercenaries; killing of Asha Vandree; full looting of the chamber; destruction of fungal growth by Gyrgum
 - Current state: Cleared; fungal growth destroyed; all notable occupants dead; valuables removed
 
 **Velkynvelve**
@@ -240,7 +240,7 @@
 **Candlekeep**
 - What it is: A great library
 - What happened here: Nothing yet; referenced as the party's next destination
-- Current state: Unvisited; planned destination for research into House T'sarran, Jimjar's disappearance, and Daz's unknown patron; Grygum anticipates collecting pamphlets and researching Bahamut lore
+- Current state: Unvisited; planned destination for research into House T'sarran, Jimjar's disappearance, and Daz's unknown patron; Gyrgum anticipates collecting pamphlets and researching Bahamut lore
 
 ---
 
@@ -259,4 +259,4 @@
 - **Dawnbringer and the sword whisperer**: Thorin intends to find a specialist for Dawnbringer after months in the Underdark. Whether such a specialist exists, where they are, and what they might reveal about the blade is unresolved.
 - **Glabbagool's nature and future**: The ooze has survived the journey and emerged onto the surface. No plan for Glabbagool's long-term situation is discussed.
 - **The ritual bundle (Lolth/Zuggtmoy combined sigils)**: Found beneath Ilvara's platform. The purpose of a ritual object combining both deities' sigils, and what rituals Ilvara was performing with it, is unresolved.
-- **Protanther and Stroud**: Referenced obliquely by Grygum in comparison to Ilvara's blind spot. The nature of Stroud's encounter with Protanther and its relevance to current events is not explained in this session.
+- **Protanther and Stroud**: Referenced obliquely by Gyrgum in comparison to Ilvara's blind spot. The nature of Stroud's encounter with Protanther and its relevance to current events is not explained in this session.

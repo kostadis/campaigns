@@ -20,7 +20,7 @@ source_extracts: [58, 59, 60]
 
 ## History with the Party
 - **Council over Janussi's body:** At the shouting council, Fheminor asked whether Janussi had named a successor.
-- **Party notes flag:** Grygum noted the party's notes flagged Fheminor as "somebody who seems to have the same priorities that we do" — a potential ally to interview for tips. Oddly, the notes entry had "no name on it," only her name.
+- **Party notes flag:** Gyrgum noted the party's notes flagged Fheminor as "somebody who seems to have the same priorities that we do" — a potential ally to interview for tips. Oddly, the notes entry had "no name on it," only her name.
 - **Interview decision:** Daz chose to interview Fheminor, reasoning that witnesses with the least time often hold the most insight.
 - **Zalthir's briefing to Daz** — specific questions to put to her:
   1. Establish *when* Fheminor was beaten up — beaten at eight tells a different story than beaten when Janussi died ("he was beat up before he was dead").
@@ -38,7 +38,7 @@ source_extracts: [58, 59, 60]
 ## Relationships
 - **Janussi:** rival for the head job; subject of the death investigation Fheminor is a suspect in.
 - **Daral:** knows Fheminor well enough to warn the party of her "steely nature"; both listed among those who wanted the top job. Fheminor arrived at the scene before Daral.
-- **The Party:** flagged by their own notes as a like-minded potential ally; targeted for interview by **Daz**; questions supplied by **Zalthir**; noted by **Grygum**.
+- **The Party:** flagged by their own notes as a like-minded potential ally; targeted for interview by **Daz**; questions supplied by **Zalthir**; noted by **Gyrgum**.
 - **Nibbles (apothecary):** served her cold medicine; regards her as consistently unpleasant.
 - **Queenie:** witness who placed Fheminor at the scene.
 - **Teles / Alkrist / Irony:** invoked her name dismissively in reference to Alkrist's doomed project.

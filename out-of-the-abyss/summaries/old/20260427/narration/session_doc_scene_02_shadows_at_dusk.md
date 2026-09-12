@@ -30,9 +30,9 @@ What I know now, without having been taught it properly, is that the trees north
 
 Close. Uncomfortably close.
 
-Grygum rolled his dice with the confidence of a man who already knows the answer. I watched him from the corner of my eye. He came up satisfied. "You conclude," came the word, "that what is following you is a deer."
+Gyrgum rolled his dice with the confidence of a man who already knows the answer. I watched him from the corner of my eye. He came up satisfied. "You conclude," came the word, "that what is following you is a deer."
 
-I didn't say anything. Grygum nodded with serene certainty and indicated he could use a nap. Reasonable enough. If you're certain it's a deer, sleep makes sense.
+I didn't say anything. Gyrgum nodded with serene certainty and indicated he could use a nap. Reasonable enough. If you're certain it's a deer, sleep makes sense.
 
 Thorin's number was clean. Mine was solid. Daz, a step to my left, had come to the same place I had. The three of us looked at each other in the way that the Ember Vanguard has developed as a private language: no words, just a shared acknowledgment that the thing in the trees is not a deer.
 
@@ -46,7 +46,7 @@ A beat.
 
 "Oh, no. It's not a deer. It's not a deer."
 
-"Oh, dear," said Grygum, somewhere behind me, apparently now awake.
+"Oh, dear," said Gyrgum, somewhere behind me, apparently now awake.
 
 Twenty to forty feet, Thorin's read suggested. I adjusted my estimate of the gap. Closer to twenty. Whatever was in those trees had been moving with us, shifting position laterally to stay in the blind spots, using the terrain the way someone uses it when they know what they're doing. Not panicked. Not rushing. Patient. The kind of following that isn't trailing — it's pacing.
 

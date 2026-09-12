@@ -11,7 +11,7 @@
 > In the early light the scales caught the sun and held it.
 
 **Why:** Stock fantasy-sunlight sentence — the kind of line that could close any scene by any narrator. Zalthir's spec is "terse, observational, slightly removed from emotion"; when he registers visual beauty he marks *what he chose to mark* and stops. The verbatim chapter-1 example shows the register: *"The air changed first. It thinned in a way that had nothing to do with depth; it simply became something else. Something with weather in it. Then the light hit."* Notice the line that *isn't* a flourish.
-**Suggested rewrite:** "The early light hit the scales. They held it." (Or cut entirely — Grygum's *"those scales really gleam in the sunrise"* is the line that's already doing the awe-work in dialogue.)
+**Suggested rewrite:** "The early light hit the scales. They held it." (Or cut entirely — Gyrgum's *"those scales really gleam in the sunrise"* is the line that's already doing the awe-work in dialogue.)
 
 ### [2] Slight literary lift — "reduced now to architecture"
 

@@ -48,8 +48,8 @@ domed rotunda, and saved Tadric** — and they are standing in the rotunda now.
 | "A'lai holds the first High Tower key … **awaiting Moziqodo, who brings the second**" | **Moziqodo is dead** — killed by the party in the rotunda. He was the pit fiend, not a courier on the way. |
 | "**Kalan Strongbranch's fate:** Last seen running, breathless. Alive or not — unknown." | **Alive.** Found at the Sea Warden's Tower. He **deputised all four as Watchers of Candlekeep.** |
 | NPC table: "Bookwyrm \| **Alive** (status post-key-seizure unconfirmed)" | **Dead.** Throat torn, heart intact and in place. |
-| NPC table: "Tadric \| Alive \| Crime-scene guard; rattled" | He was **carrying the real key #2**, was nearly killed for it, and was healed by Grygum. |
-| "Daz: **inert High Tower key** (helmed-horror beacon)" | It was **Kalan's decoy from the first hour**, and **Grygum** is holding it now, not Daz. |
+| NPC table: "Tadric \| Alive \| Crime-scene guard; rattled" | He was **carrying the real key #2**, was nearly killed for it, and was healed by Gyrgum. |
+| "Daz: **inert High Tower key** (helmed-horror beacon)" | It was **Kalan's decoy from the first hour**, and **Gyrgum** is holding it now, not Daz. |
 | No Moziqodo row in the NPC table at all | He is the session's antagonist and is now dead. |
 | Not recorded anywhere | Party deputised as Watchers; real key #2 recovered; milestone to **level 9**. |
 
@@ -71,7 +71,7 @@ domed rotunda, and saved Tadric** — and they are standing in the rotunda now.
 | Moziqodo dossier: "**Alive**; last location unknown (ch62)… Expected by A'lai to arrive with the second key" | **Dead**, in the rotunda, identified by Tadric. |
 | Bookwyrm dossier: "**Alive**; Candlekeep, top floor chambers. Acting Head of Candlekeep" | **Dead.** Her office is a ruin and her dying note (*"He is using the beast to—"*) is on the desk. |
 | Kalan dossier: "Alive; overseeing the Alkrist safe and Deneir's Sanctum" + "survival and current whereabouts are **uncertain**" | At the **Sea Warden's Tower**; deputised the party; handed over the Watcher's Stair shortcut. |
-| Active Plots #1: "The second key was transferred from Kalan → Grygum → Daz" | Correct as far as it goes, but **omits that this key was a decoy** and the real one was on Tadric — the central reveal of the chapter. |
+| Active Plots #1: "The second key was transferred from Kalan → Gyrgum → Daz" | Correct as far as it goes, but **omits that this key was a decoy** and the real one was on Tadric — the central reveal of the chapter. |
 | Active Plots #2: titled "**Kalan's Fate & the Domed Rotunda**" | Both halves of that title were resolved in Ch.62 and the entry records neither. |
 | Fembris dossier | Omits his Ch.62 confession that **A'lai was in the room** when the key was reported to Bookwyrm — the second pillar of the Threefold Proof. |
 
@@ -80,10 +80,10 @@ domed rotunda, and saved Tadric** — and they are standing in the rotunda now.
 | Says | Actual (Ch.62) |
 |---|---|
 | "**Current location:** Candlekeep — confined in **Deneir's Sanctum**" | The domed rotunda, North Galleries. |
-| "The **inert key Daz carries** is a helmed-horror beacon" | The decoy, and **Grygum** holds it. Daz holds the **sapphire** (taken from A'lai in the session that follows). |
+| "The **inert key Daz carries** is a helmed-horror beacon" | The decoy, and **Gyrgum** holds it. Daz holds the **sapphire** (taken from A'lai in the session that follows). |
 | "A'lai … awaits **Moziqodo**, who is bringing the second" | Dead. |
 | "**Kalan Strongbranch's fate:** … survival unknown" | Resolved. |
-| ⭐ "Zalthir — **Monk 8**" · "Thorin — **Fighter 8**" · "Grygum — **Cleric 8**" · "Daz — **Wizard 8**" | ⭐ **The party milestoned to 9** at the end of Ch.62 (Thorin's POV: *"the quiet knock inside the chest…"*; he ribs Zalthir for levelling). **All four class lines are one level low** — this is the entry most likely to cause a live mechanical error at the table. |
+| ⭐ "Zalthir — **Monk 8**" · "Thorin — **Fighter 8**" · "Gyrgum — **Cleric 8**" · "Daz — **Wizard 8**" | ⭐ **The party milestoned to 9** at the end of Ch.62 (Thorin's POV: *"the quiet knock inside the chest…"*; he ribs Zalthir for levelling). **All four class lines are one level low** — this is the entry most likely to cause a live mechanical error at the table. |
 | Collective assets | Omits the **real key #2**, recovered from Tadric. |
 
 ---

@@ -1,7 +1,7 @@
 ---
 scene: 05
 slug: the_council_of_twelve_in_uproar
-narrator: Grygum
+narrator: Gyrgum
 scene_name: The Council of Twelve in Uproar
 session: 20260518
 ---
@@ -28,7 +28,7 @@ Daral's eyes found me. The whole table found me, actually. A group of academics 
 
 Daral opened his mouth to ask the obvious question, which is who we were and why we were in this room, and I heard something in that question I recognized. The implication underneath was sharper — *who gave you access, and should I object to them.*
 
-"Oh, merely, merely guests," I said. And then I added: "I am the head of the Grygumite School." A beat. "Founder, in fact."
+"Oh, merely, merely guests," I said. And then I added: "I am the head of the Gyrgumite School." A beat. "Founder, in fact."
 
 I will say this for academics: they are helplessly interested in new schools of thought. The murder — the murder of their colleague, the chaos and the unanswered questions — all of it receded slightly in the face of *an unfamiliar framework*. Several of them leaned in. One pulled out something to write on. It was exactly as reliable as I expected.
 

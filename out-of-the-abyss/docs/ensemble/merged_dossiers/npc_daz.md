@@ -38,7 +38,7 @@ chapters: 1-61
 - **De Facto Tactical Leader** — Guides the group’s strategy with analytical precision, often framing decisions as group consensus while steering them toward his conclusions.  
 - **Key Relationships:**  
   - **Zalthir** — Trusted tactical partner; shares awareness of environmental anomalies.  
-  - **Grygum** — Lieutenant and ally; respects Daz’s judgment, confirmed his status as “the feared mage of the Ember Vanguard.”  
+  - **Gyrgum** — Lieutenant and ally; respects Daz’s judgment, confirmed his status as “the feared mage of the Ember Vanguard.”  
   - **Thorin** — Relies on Daz’s strategic insight; shares history with Dawnbringer.  
   - **Asha Vandree** — Believes Daz is a vessel of Lolth; his fabricated identity remains load-bearing.  
   - **House T’sarran** — Actively hunting him; believes he is bait for a hidden patron.  

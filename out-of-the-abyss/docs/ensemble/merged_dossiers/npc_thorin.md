@@ -31,7 +31,7 @@ chapters: 1-61
 - **De facto leader** of the Ember Vanguard — orchestrates strategy, demands clarity, and pushes for tangible outcomes  
 - **Primary wielder and companion of Dawnbringer** — treats the blade as a sentient friend, not a weapon; seeks to restore her connection to light; considers her gender “she”  
 - **Trusted by group** — despite his blunt, chaotic style, he is relied upon for physical strength, tactical aggression, and moral grounding  
-- **Last seen with:** Zalthir, Grygum, Daz, Glabbagool, Eldeth (last interaction: Eldeth promised clan embrace, but Thorin accepted her departure)  
+- **Last seen with:** Zalthir, Gyrgum, Daz, Glabbagool, Eldeth (last interaction: Eldeth promised clan embrace, but Thorin accepted her departure)  
 - **Key relationship:** With **Kalan** — he chose to hand over the Candlekeep case to him to preserve his dignity after being fired; sees this as terrain-based justice  
 - **Relationship with Dawnbringer:** Central to his identity; they have developed a ritual of negotiation (“Do I need to show you the scabbard again?”); he believes she needs to remember daylight and grieve  
 
@@ -56,7 +56,7 @@ chapters: 1-61
 
 ## Uncertainty  
 - **Dawnbringer’s gender:** Thorin says “she” in ch61, but in ch55 he says, “I don’t know what to call her... I don’t know what to call them.” The final attribution is inconsistent — later chapter says “she,” but the uncertainty lingers in the narrative voice.  
-- **Current companions:** Last seen with Zalthir, Grygum, Daz, Glabbagool — but their current status as traveling with him is not confirmed after ch61.  
+- **Current companions:** Last seen with Zalthir, Gyrgum, Daz, Glabbagool — but their current status as traveling with him is not confirmed after ch61.  
 - **Exact location:** Last scene is in Deneir’s Sanctum preparing to use the reward to get a book — but whether he has left Candlekeep, and where he is now, is unspecified.  
 - **Fate of the necromantic pearl and tooth:** Their current location (pocket?) is assumed, but no later confirmation of possession exists.  
 - **Status of the Ember Vanguard:** The group is named and active, but whether it still functions as a unit after ch61 is unconfirmed.  

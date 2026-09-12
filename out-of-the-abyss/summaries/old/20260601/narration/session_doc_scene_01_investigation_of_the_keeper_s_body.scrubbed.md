@@ -7,7 +7,7 @@ session: 20260601
 ---
 There is a particular comfort in a corpse. It does not lie. It does not run a counter-play. Everything it knows is written on it, and all I have to do is read.
 
-Janussi, Keeper of the Tome, was laid out before us, and the early findings were already on the table. The heart was gone — torn out, not for any wound it would cause, but as a guard against any working that calls the dead back to answer. Whoever had done this had not wanted Janussi answering questions on the other side of the veil. The ribcage was smashed, something axe-like, and Grygum was the one who pressed on whether the cut was jagged or clean. *Is the wound jagged? Does it seem like it was cut out, or is it magical.* A fair question. The answer was the interesting part.
+Janussi, Keeper of the Tome, was laid out before us, and the early findings were already on the table. The heart was gone — torn out, not for any wound it would cause, but as a guard against any working that calls the dead back to answer. Whoever had done this had not wanted Janussi answering questions on the other side of the veil. The ribcage was smashed, something axe-like, and Gyrgum was the one who pressed on whether the cut was jagged or clean. *Is the wound jagged? Does it seem like it was cut out, or is it magical.* A fair question. The answer was the interesting part.
 
 The blows had been precise. Too precise, too close together, for a man fighting back. No spray across the room — no blood pressure left to throw it. Janussi had been dead before his chest was opened. Whoever did this had not been in a rush. He had not been trying to kill. He had been desecrating a corpse at his leisure, with the unhurried hands of someone who had nowhere to be. I filed that. *The first thing to read is the tempo of the killer.* This one had time.
 
@@ -15,7 +15,7 @@ And then the nose. A whack to the nose, off-center, the kind of thing that happe
 
 "Anyone want to take a closer look at the body?"
 
-Grygum went first and announced his findings the way you announce bad weather. "I can barely tell which end is which." Thorin muttered something about having the second-worst eye for detail in the room. A low bar, apparently, and they were both under it.
+Gyrgum went first and announced his findings the way you announce bad weather. "I can barely tell which end is which." Thorin muttered something about having the second-worst eye for detail in the room. A low bar, apparently, and they were both under it.
 
 So I stepped up. "Let me look."
 
@@ -53,9 +53,9 @@ Thorin worked it like a problem. "So either that was related to him being murder
 
 Zalthir asked if anyone could use a working to find the chip. We didn't need magic. It was right there — a few feet from his face, sitting on the floor where it had landed when the man went down. He had fallen forward. Face-first. Chipped the tooth on the way down. And then someone had come in, after, and rolled him onto his back to take the heart.
 
-"And also broke his nose," Grygum said.
+"And also broke his nose," Gyrgum said.
 
-That was the loose thread, and Grygum pulled it. His read of the wound came clean — sharp work this time — and the nose had broken *before* death. Bruising doesn't form on a corpse; there's no living tissue to swell. Zalthir worked the same logic from the other end, confirming it with Grygum twice over: *you don't bruise after you're dead.* So the broken nose belonged to the living man, not the desecrated one. Within the evening — Janussi had eaten dinner with his face intact and his teeth whole. Whatever happened, happened in the narrow window between that meal and his death.
+That was the loose thread, and Gyrgum pulled it. His read of the wound came clean — sharp work this time — and the nose had broken *before* death. Bruising doesn't form on a corpse; there's no living tissue to swell. Zalthir worked the same logic from the other end, confirming it with Gyrgum twice over: *you don't bruise after you're dead.* So the broken nose belonged to the living man, not the desecrated one. Within the evening — Janussi had eaten dinner with his face intact and his teeth whole. Whatever happened, happened in the narrow window between that meal and his death.
 
 I sat with the shape of it. A man at his books, wetting his finger to turn a poisoned page. The black climbing through him while he read on, suspecting nothing. A fall, forward, hard — a broken nose, a chipped tooth on the stone. And then the patient hands arriving after, in no hurry at all, rolling the body and opening the chest to make certain he stayed gone.
 

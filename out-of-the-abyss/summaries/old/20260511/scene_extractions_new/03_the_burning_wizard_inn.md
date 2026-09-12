@@ -11,8 +11,8 @@ source: gmassist
 - The party arrives at the Burning Wizard Inn in Beregost — described as the last meaningful waystop before Candlekeep — named after a wizard burned alive during a much earlier dragon cult uprising.
 - The innkeeper, an old gnome named Festroon, recounts the story of the wizard's death to anyone who buys a second pint, always pointing to a permanent soot mark on the south wall: "That is where he fell. We scrub the floor every season. We do not paint over the wall. My grandfather said the wall remembers."
 - A traveling bard performs her usual set, with her closing number this season being a four-verse drumming drinking song, with the whole inn singing the chorus of "Black Hood": "Oh, the Kenku could not fly, but he flew in his black hood, in his black hood, in his black hood. The raven thief who learned to steal no more, save what was needed, said the small, wise man at his side."
-- Grygum notes drily that the song's reference to stealing "what was needed" maps rather well onto Whistler — who, when given the opportunity to steal Tiamat's entire horde, took only what was needed for "legitimate expenses, operating goals, day-to-day funds, per diems."
-- After the song, the bard asks for requests. Grygum offers a silver piece and asks for a song about Stroud; the bard asks whether Grygum is a Bahamutian or a Stroudite, and when Grygum explains he is Bahamutian but has sentimentality for Stroud, she sings a love song about the famous chess game — which Grygum observes involves "the usual claptrap about love and emotions and flowers" wound into a drinking song.
+- Gyrgum notes drily that the song's reference to stealing "what was needed" maps rather well onto Whistler — who, when given the opportunity to steal Tiamat's entire horde, took only what was needed for "legitimate expenses, operating goals, day-to-day funds, per diems."
+- After the song, the bard asks for requests. Gyrgum offers a silver piece and asks for a song about Stroud; the bard asks whether Gyrgum is a Bahamutian or a Stroudite, and when Gyrgum explains he is Bahamutian but has sentimentality for Stroud, she sings a love song about the famous chess game — which Gyrgum observes involves "the usual claptrap about love and emotions and flowers" wound into a drinking song.
 - Meanwhile, Daz notices a young human scholar reciting a chant whose breathing and cadence is almost right but wrong by a hair. He rolls investigation (23 after switching from the failed insight check) and recognizes the pattern from the man's breathing: the same syncopated wrongness he observed in Eldred, who went insane earlier in the adventure, and in the Field Ward Preacher.
 - Daz quietly records the chant, planning to investigate at Candlekeep. The DM suggests he could note the specific pattern and ask whether any known groups chant in that manner.
 - That evening, Thorin sits near the sea — his first real exposure to it after months underground and in the mountains — contemplating with Dawnbringer (who lights up everything around them, making it impossible to see anything in the dark, as Dawnbringer does not like the dark). Thorin reflects simply: "Life takes you in weird directions and weird places. You just gotta go with it."
@@ -56,25 +56,25 @@ source: gmassist
 
 ---
 
-**[Grygum Requests a Stroud Song]**
+**[Gyrgum Requests a Stroud Song]**
 
-**Grygum** — *asking the bard for a request after her set*
+**Gyrgum** — *asking the bard for a request after her set*
 > "You know, we've heard a lot about, a lot about Stroud, maybe a, maybe a song of, of, of his,"
 > "his feet."
 
-**GM** — *as the bard, noticing Grygum's holy symbol*
+**GM** — *as the bard, noticing Gyrgum's holy symbol*
 > "Well, that's all… those… those… she… she looks at you and goes, so where do you… where are you? Are you a Bahamutian? A Stroudite?"
 
-**Grygum** — *explaining his sentimentality*
+**Gyrgum** — *explaining his sentimentality*
 > "I, I am a Bahamutian, but for sentimentality, all I, all I can like is Stroud."
 
-**Grygum** — *offering payment*
+**Gyrgum** — *offering payment*
 > "And I, and I, I, I give her a silver piece."
 
 **GM** — *describing what the bard sings*
 > "With that generosity, she proceeds to sing a song at puzzling the question of what exactly happened during the game of chess. And what does that mean? And it goes to the usual claptrap about love and emotions and, you know, flowers, and, you know, she turns it into a love song involving drinking."
 
-**Grygum** — *drily observing the song's content*
+**Gyrgum** — *drily observing the song's content*
 > "The only love I remember during the previous campaign involved giants, and it wasn't Stroud's, so…"
 > "You know, these things have to be done with a grain of salt."
 
@@ -82,7 +82,7 @@ source: gmassist
 
 **[Daz Notices the Scholar's Wrong Chant]**
 - The GM directs Daz's attention to a young human scholar.
-- Daz fails an insight check (rolling 7 even with Grygum's help) but succeeds on an investigation check (23).
+- Daz fails an insight check (rolling 7 even with Gyrgum's help) but succeeds on an investigation check (23).
 - The GM connects the scholar's breathing pattern to Eldred and the Field Ward Preacher.
 
 **GM** — *flagging the scholar for Daz*
@@ -92,7 +92,7 @@ source: gmassist
 > "A human scholar, or a young human scholar? Because those seem like those might be different things. I could be wrong."
 
 **[scene tag — Failed Insight, Successful Investigation]**
-- Daz rolls insight: 1, then 7 with Grygum's help — not enough.
+- Daz rolls insight: 1, then 7 with Gyrgum's help — not enough.
 - Daz asks to switch to investigation and rolls 23.
 - The GM unlocks the observation.
 

@@ -17,7 +17,7 @@
 > "All I know is this map sucks, because I feel like I'm running around trying to get to things."
 > "I do what I can."
 
-### Grygum (Ben Pfaff)
+### Gyrgum (Ben Pfaff)
 - Dry, warm, and perpetually the adult in the room. Offers healing, consolation (to the GM), and tactical observation in equal measure. His humor is gentle and self-deprecating. Checks on everyone's status before committing to offense.
 - Treats escalating chaos with the patience of someone who has seen too many Underdark surprises.
 > "Death to some mushrooms, anyway."
@@ -93,7 +93,7 @@ The rival faction's careful ambush falls apart as Ilvara's own Insect Plague blo
 > **T'sarran Elite Warrior:** And you don't have a Dispel Magic.
 > **T'sarran Mage:** No, I don't have a Dispel—
 > **T'sarran Elite Warrior:** So I have to go through this. I don't know what else to tell you.
-> **Grygum:** It's tough being a minion.
+> **Gyrgum:** It's tough being a minion.
 
 ---
 
@@ -102,9 +102,9 @@ The rival faction's careful ambush falls apart as Ilvara's own Insect Plague blo
 After Thorin's Dawnbringer obliterates the Big Heart Fungus in a single round:
 
 > **GM:** I spent so much time creating this icon.
-> **Grygum:** I know, it was beautiful.
+> **Gyrgum:** I know, it was beautiful.
 > **Zalthir:** It was pretty.
-> **Grygum:** I liked it very much, Costadis.
+> **Gyrgum:** I liked it very much, Costadis.
 > **GM:** Thank you, I appreciate it.
 
 ---
@@ -122,7 +122,7 @@ After Thorin's Dawnbringer obliterates the Big Heart Fungus in a single round:
 
 - **Thorin destroys the Big Heart Fungus with Dawnbringer:** After learning the fungus was doubly vulnerable to radiant damage, Thorin carved through it in a single turn with the sentient sunblade. His understated "I do what I can" perfectly captured his straightforward approach to problem-solving.
 
-- **Grygum's Guiding Bolt kills Ilvara:** The party's moral anchor delivers the killing blow on their longest-standing nemesis — and his first reaction to her exploding in poisonous spores is the deeply practical "Not ideal. How big is the cloud?"
+- **Gyrgum's Guiding Bolt kills Ilvara:** The party's moral anchor delivers the killing blow on their longest-standing nemesis — and his first reaction to her exploding in poisonous spores is the deeply practical "Not ideal. How big is the cloud?"
 
 - **Daz's defiant stand against Nym Duskryn:** Refusing to be treated as cargo by his own rescuers, Daz asserts his identity as a combatant and leader rather than a protected asset. His speech — "I don't give a damn if you get paid" — represents the fullest expression of his Leadership arc, choosing solidarity with the Ember Vanguard over self-preservation.
 
@@ -144,7 +144,7 @@ After Thorin's Dawnbringer obliterates the Big Heart Fungus in a single round:
 - **Daz** has firmly established himself as someone who will not be sidelined or protected — NPCs who try to shelter him will get pushback. Nym and Kaelira now know this about him. His Lolth-convert deception is active with Asha.
 - **Thorin** is increasingly the odd man out in drow political maneuvering — his tennis-match metaphor reflects genuine alienation from the intrigue around him. NPCs should acknowledge his physical dominance (destroyed the Big Heart Fungus) while noting his political bewilderment.
 - **Zalthir** was frightened by Ilvara's magic — a rare moment of vulnerability for the most combat-dominant PC. Future encounters could reference this (taunts about fear, or Zalthir's own determination never to be frightened again).
-- **Grygum** is steady and dependable but increasingly concerned about party resources and healing — his "Does anybody need any serious healing?" check should be mirrored by NPCs who recognize him as the group's caretaker.
+- **Gyrgum** is steady and dependable but increasingly concerned about party resources and healing — his "Does anybody need any serious healing?" check should be mirrored by NPCs who recognize him as the group's caretaker.
 
 **Promises, Threats, and Vows to Reference:**
 - **House T'sarran's retreat threat:** "We will meet again. Enjoy your victory for the moment." — This faction will return, and the party knows they are incompetent but backed by a matron mother.

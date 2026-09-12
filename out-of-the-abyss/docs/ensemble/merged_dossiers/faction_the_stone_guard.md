@@ -30,7 +30,7 @@ chapters: 15-28
 - Unclear if Errde Blackskull still commands them — no later chapter confirms his status after ch15.  
 - Ambiguous whether “Stone Guards” and “Stone Guard” (singular) refer to the same entity throughout; ch28 uses singular form, possibly indicating reorganization or linguistic shift.  
 - Unclear if the Stone Guards still have any operational ties to Stone Giants, or if that alliance was dissolved under Duergar consolidation.  
-- Grygum’s claim in ch16 (“We have people who will come looking for us!”) implies external connections — but whether these are to the Stone Guards or another faction is unconfirmed.
+- Gyrgum’s claim in ch16 (“We have people who will come looking for us!”) implies external connections — but whether these are to the Stone Guards or another faction is unconfirmed.
 
 ---
 

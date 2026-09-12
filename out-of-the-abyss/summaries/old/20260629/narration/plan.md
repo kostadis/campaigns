@@ -5,10 +5,10 @@ scene: The Murder Mystery Sidebar
 focus: Thorin's blunt push to hand Kalan the credit and his sympathetic shrug at Dawnbringer's therapy lament make this his moment.
 
 ## Scene 2
-narrator: Grygum
+narrator: Gyrgum
 chunks: 1
 scene: The Academic's Dilemma
-focus: Grygum's scholarly, patient temperament lets him weigh Kalan's thrice-fold proof and the cynical politics of the naming ceremony from a thoughtful outsider's view.
+focus: Gyrgum's scholarly, patient temperament lets him weigh Kalan's thrice-fold proof and the cynical politics of the naming ceremony from a thoughtful outsider's view.
 
 ## Scene 3
 narrator: Zalthir
@@ -23,10 +23,10 @@ scene: The Opening of Alkrist's Safe
 focus: Zalthir's grifter's eye and sleight-of-hand theft of the potion of flying make the safe scene uniquely his.
 
 ## Scene 5
-narrator: Grygum
+narrator: Gyrgum
 chunks: 3
 scene: Waiting in Deneir's Sanctum
-focus: Grygum's healing of Daral and his delight-adjacent view of the semiotic monologue frame the quiet before the storm through the party's compassionate cleric.
+focus: Gyrgum's healing of Daral and his delight-adjacent view of the semiotic monologue frame the quiet before the storm through the party's compassionate cleric.
 
 ## Scene 6
 narrator: Thorin

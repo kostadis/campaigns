@@ -8,7 +8,7 @@ She continued fighting from the cavern floor, casting divine fire on Daz and Nym
 
 Jorlan Duskryn charged her through the insect swarm, screaming her name, driven by their broken romantic history. They traded blows on the cavern floor.
 
-Ilvara was ultimately killed by Grygum's Guiding Bolt. Upon death, she did not simply fall — her body erupted in a massive cloud of poisonous spores that billowed through the cavern, catching Zalthir and Thorin in the blast. Her death was the culmination of her demonic corruption; nothing remained but spores. She was still muttering prophecy about Zuggtmoy and the bride when she died. She never begged.
+Ilvara was ultimately killed by Gyrgum's Guiding Bolt. Upon death, she did not simply fall — her body erupted in a massive cloud of poisonous spores that billowed through the cavern, catching Zalthir and Thorin in the blast. Her death was the culmination of her demonic corruption; nothing remained but spores. She was still muttering prophecy about Zuggtmoy and the bride when she died. She never begged.
 
 ## Jorlan Duskryn
 
@@ -24,11 +24,11 @@ Jorlan was later struck by a lightning bolt from Nym Duskryn, staggering across 
 
 Asha Vandree, a Lolth-devoted drow, was present during the battle. When she saw Kaelira and Nym Duskryn, she immediately suspected betrayal, reaching for her weapon and shouting: "Who are you? You must be traitors! Traitors to Lolth!" Daz defused the situation by smoothly lying that the Duskryn sisters were "friends of Lolth" who were there to help — a fiction that worked because Daz has been maintaining a Lolth-follower cover identity with Asha for some time, giving her a ready-made slot in her worldview for Lolth-aligned drow allies.
 
-After Ilvara's death, Asha dropped to her knees and began murmuring prayers to Lolth, her voice the only sound left in the settling cavern, already reshaping what she had witnessed into something her goddess could use. Grygum noted this as something to watch — "whatever theology she was building out of this moment, I filed it under *watch this space.*"
+After Ilvara's death, Asha dropped to her knees and began murmuring prayers to Lolth, her voice the only sound left in the settling cavern, already reshaping what she had witnessed into something her goddess could use. Gyrgum noted this as something to watch — "whatever theology she was building out of this moment, I filed it under *watch this space.*"
 
 ## Glabbagool
 
-Glabbagool, the party's sentient gelatinous cube companion, was caught in Ilvara's Insect Plague and took twenty-six points of damage. He had been hovering at the edge of the battle attempting to participate, with eyes extended toward the party, earnestly trying to follow the conversation and contribute. He survived the damage but was described as "churning and trembling" in the swarm. Grygum's first concern during the insect plague was for Glabbagool, and checking on him was Grygum's first priority once the battle ended. He was also identified by Daz as someone to protect when sculpting his Fireball, carefully excluding the ooze from the blast radius.
+Glabbagool, the party's sentient gelatinous cube companion, was caught in Ilvara's Insect Plague and took twenty-six points of damage. He had been hovering at the edge of the battle attempting to participate, with eyes extended toward the party, earnestly trying to follow the conversation and contribute. He survived the damage but was described as "churning and trembling" in the swarm. Gyrgum's first concern during the insect plague was for Glabbagool, and checking on him was Gyrgum's first priority once the battle ended. He was also identified by Daz as someone to protect when sculpting his Fireball, carefully excluding the ooze from the blast radius.
 
 ## Kaelira (Duskryn)
 
@@ -42,7 +42,7 @@ Frustrated by Daz's refusal, Nym redirected her irritation and asked Kaelira, wi
 
 ## The Matron Mother of House T'sarran
 
-The matron mother of House T'sarran is referenced but does not appear directly. The T'sarran mage, after being battered by Daz's fireball, warned: "The matron mother of House T'sarran will hear about this." The last surviving T'sarran warrior echoed this threat as he withdrew: "We will meet again. Enjoy your victory for the moment." Grygum noted that a threat delivered without heat is more credible than one made in anger, and resolved to find out who the matron mother is before she finds out who the party is. House T'sarran sent five drow warriors and a mage to the cavern, suggesting significant resources and a vested interest in the outcome of this fight.
+The matron mother of House T'sarran is referenced but does not appear directly. The T'sarran mage, after being battered by Daz's fireball, warned: "The matron mother of House T'sarran will hear about this." The last surviving T'sarran warrior echoed this threat as he withdrew: "We will meet again. Enjoy your victory for the moment." Gyrgum noted that a threat delivered without heat is more credible than one made in anger, and resolved to find out who the matron mother is before she finds out who the party is. House T'sarran sent five drow warriors and a mage to the cavern, suggesting significant resources and a vested interest in the outcome of this fight.
 
 ## Zuggtmoy
 

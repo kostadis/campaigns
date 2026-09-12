@@ -54,11 +54,11 @@
 
 **Location:** The Death of Bookwyrm scene
 
-**Issue:** The recap states Daz "botches it with a natural 1, then with Grygum's help reaches a 26." In 5e, the Help action grants advantage — a reroll from scratch, not an addition to the 1. Guidance (1d4) added to a natural 1 can produce at most ~12. Neither mechanism produces 26 from a 1. The description implies the 1 was retained and transformed, which is mechanically impossible through standard means.
+**Issue:** The recap states Daz "botches it with a natural 1, then with Gyrgum's help reaches a 26." In 5e, the Help action grants advantage — a reroll from scratch, not an addition to the 1. Guidance (1d4) added to a natural 1 can produce at most ~12. Neither mechanism produces 26 from a 1. The description implies the 1 was retained and transformed, which is mechanically impossible through standard means.
 
-**Evidence:** D&D 5e PHB: Help action grants advantage (new roll); Guidance adds 1d4 to one roll; neither converts a 1 into a 26. No ability on Grygum's sheet or Daz's sheet in party.md enables this.
+**Evidence:** D&D 5e PHB: Help action grants advantage (new roll); Guidance adds 1d4 to one roll; neither converts a 1 into a 26. No ability on Gyrgum's sheet or Daz's sheet in party.md enables this.
 
-**Suggested Fix:** Revise the description to reflect the actual mechanic: *"Daz botches an initial attempt (natural 1), but Grygum's Help action lets him reroll — his second attempt comes up strong, totaling 26."* The result (26) is likely correct; the framing is not.
+**Suggested Fix:** Revise the description to reflect the actual mechanic: *"Daz botches an initial attempt (natural 1), but Gyrgum's Help action lets him reroll — his second attempt comes up strong, totaling 26."* The result (26) is likely correct; the framing is not.
 
 ---
 
@@ -66,23 +66,23 @@
 
 **Location:** The Death of Bookwyrm scene (Scenes) and Spells section
 
-**Issue:** The Scenes section reads "Grygum casts Thaumaturgy onto a piece of paper; the flame erupts." Thaumaturgy is a cleric cantrip that produces minor sensory/environmental effects (sounds, visual effects, tremors, odors, etc.) — it cannot produce fire. The Spells section hedges with "Thaumaturgy / Firebolt," but Fire Bolt is a wizard/sorcerer cantrip, not a cleric one. Grygum (Life Domain Cleric 8) does not have Fire Bolt in his accessible spell list.
+**Issue:** The Scenes section reads "Gyrgum casts Thaumaturgy onto a piece of paper; the flame erupts." Thaumaturgy is a cleric cantrip that produces minor sensory/environmental effects (sounds, visual effects, tremors, odors, etc.) — it cannot produce fire. The Spells section hedges with "Thaumaturgy / Firebolt," but Fire Bolt is a wizard/sorcerer cantrip, not a cleric one. Gyrgum (Life Domain Cleric 8) does not have Fire Bolt in his accessible spell list.
 
-**Evidence:** Party.md: *"Grygum — Cleric 8 (Life Domain)."* PHB Thaumaturgy description: minor effects, no fire production. Fire Bolt is not on the Cleric spell list.
+**Evidence:** Party.md: *"Gyrgum — Cleric 8 (Life Domain)."* PHB Thaumaturgy description: minor effects, no fire production. Fire Bolt is not on the Cleric spell list.
 
-**Suggested Fix:** Replace "Thaumaturgy" with a spell Grygum can access. Sacred Flame (radiant, not fire) won't test the ward. A more likely candidate is a fire-capable item Grygum carries, or the narration should credit a different character (Daz) with testing fire. Alternatively, if the DM ruled Thaumaturgy could produce a small flame for testing purposes, note it as a ruling rather than stating it as the spell's standard function.
+**Suggested Fix:** Replace "Thaumaturgy" with a spell Gyrgum can access. Sacred Flame (radiant, not fire) won't test the ward. A more likely candidate is a fire-capable item Gyrgum carries, or the narration should credit a different character (Daz) with testing fire. Alternatively, if the DM ruled Thaumaturgy could produce a small flame for testing purposes, note it as a ruling rather than stating it as the spell's standard function.
 
 ---
 
-## Issue 7 — Grygum "Radiating Holy Light That Seared Two Horrors" (Domain Mismatch)
+## Issue 7 — Gyrgum "Radiating Holy Light That Seared Two Horrors" (Domain Mismatch)
 
 **Location:** Chaos in Deneir's Sanctum scene
 
-**Issue:** The Scenes section states "Grygum radiated holy light that seared two horrors." This reads as an AoE radiant-damage effect against multiple constructs. Life Domain's Channel Divinity is Preserve Life (healing, not damage). Radiance of the Dawn (AoE radiant damage via Channel Divinity) is a **Light Domain** feature, not Life Domain. Turn Undead affects undead only; helmed horrors are constructs and are immune to it.
+**Issue:** The Scenes section states "Gyrgum radiated holy light that seared two horrors." This reads as an AoE radiant-damage effect against multiple constructs. Life Domain's Channel Divinity is Preserve Life (healing, not damage). Radiance of the Dawn (AoE radiant damage via Channel Divinity) is a **Light Domain** feature, not Life Domain. Turn Undead affects undead only; helmed horrors are constructs and are immune to it.
 
-**Evidence:** Party.md: *"Grygum — Cleric 8 (Life Domain)."* PHB Life Domain: Channel Divinity is Preserve Life; no AoE damage feature listed. Radiance of the Dawn is exclusive to Light Domain.
+**Evidence:** Party.md: *"Gyrgum — Cleric 8 (Life Domain)."* PHB Life Domain: Channel Divinity is Preserve Life; no AoE damage feature listed. Radiance of the Dawn is exclusive to Light Domain.
 
-**Suggested Fix:** Clarify what Grygum actually used. If he cast Sacred Flame twice (one per round), the description should say so. If the DM improvised a domain feature, note it as a table ruling. Revise to avoid implying a Life Domain cleric has AoE radiant Channel Divinity.
+**Suggested Fix:** Clarify what Gyrgum actually used. If he cast Sacred Flame twice (one per round), the description should say so. If the DM improvised a domain feature, note it as a table ruling. Revise to avoid implying a Life Domain cleric has AoE radiant Channel Divinity.
 
 ---
 

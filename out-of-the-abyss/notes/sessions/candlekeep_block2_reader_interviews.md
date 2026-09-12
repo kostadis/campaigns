@@ -13,7 +13,7 @@ Daz and Thorin. **Run this doc from here.**
   midnight is on them.
 - **Daral is tagged to the party.** Alive, no symptoms yet (Midnight Tears is
   silent until midnight). Terrified. Volunteering nothing, just staying close.
-- **Grygum holds the High Tower key** (Kalan's handoff done).
+- **Gyrgum holds the High Tower key** (Kalan's handoff done).
 - **Conclusions lit:** #1 (poison vector ✅, name ✅), #3 (disguise ✅).
   **Pending this block: #2 (lead chalice), #4/#6 (Fheminor hinge), optional #3
   confirm (Teles).**
@@ -52,7 +52,7 @@ Party exits Block 2 with:
   is there. *A poisoner does not re-read his own pages.* — both his
   exoneration and his death clock, in one sentence. The party saves him by
   reasoning, not a Medicine roll.
-- **Treat Sylvira's plague.** Grygum: DC 18 Medicine or `lesser restoration`.
+- **Treat Sylvira's plague.** Gyrgum: DC 18 Medicine or `lesser restoration`.
   This is the only path to the S6 archmage ally since the demon-lord-evidence
   handoff from S1 never happened.
 - **Stay quiet in Teles's scene.** He's old and bitter and likes to feel
@@ -157,7 +157,7 @@ treating it herself with suppressive scrolls.
 
 Deliver that line flat and move on. Don't explain it.
 
-**The Grygum beat.** DC 18 Medicine to diagnose the plague, or just `lesser
+**The Gyrgum beat.** DC 18 Medicine to diagnose the plague, or just `lesser
 restoration` — she accepts if the offer seems genuine. *"You are not what I
 expected of a half-orc cleric."* Treating her = she survives to be the S6
 battlefield ally. Make the path clear but not easy.
@@ -293,7 +293,7 @@ the room.
 | Decision | Stakes |
 |---|---|
 | **Has Daral been saved?** | He licked pages in front of them. They have Midnight Tears identified. Do they connect it? Lesser restoration / protection from poison before midnight = live S5 witness. Inaction = midnight corpse, found at dawn with ink on his thumb. |
-| **Will Grygum treat Sylvira?** | Primary path to the S6 archmage ally. No prior rapport exists — it has to be earned cold. |
+| **Will Gyrgum treat Sylvira?** | Primary path to the S6 archmage ally. No prior rapport exists — it has to be earned cold. |
 | **Teles — push or let him keep it?** | If they don't reach him this block, he is a clean S4 opener. Don't force him if the table's tired; he keeps. |
 | **Fheminor's succession secret** — earned or not? | If the party doesn't earn it, she's still the hinge-line character. The succession secret is bonus; the "not surprised" is mandatory. |
 

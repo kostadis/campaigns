@@ -196,24 +196,24 @@
 - **Location**: NPCs → Glabbagool, Summary (¶1)
 - **Issue**: `world_state.md` describes Glabbagool as a "sentient **grey ooze** (formerly gelatinous cube)" bonded to Zalthir's forearm — not a free-standing cube.
 - **Evidence**: `world_state.md` §3: "**Glabbagool — sentient grey ooze (formerly gelatinous cube).** **Bonded to Zalthir's left forearm**, functioning as a semi-autonomous extension of his body." `campaign_state.md` NPC table: "Glabbagool | Alive | **Bonded to Zalthir's forearm**." The registry entry ("sentient ooze companion") is consistent with grey ooze. Note the recap's own quoted GM line — "standing just a little bit taller with pride" — is table flavor and doesn't establish an independent body.
-- **Suggested fix**: "Glabbagool — a sentient ooze bonded to Zalthir's left forearm." Flag also that `world_state.md` contains a self-noted reconciliation warning ("One dossier places Glabbagool on Grygum's arm; the authoritative bond is **with Zalthir**") — the recap correctly has Zalthir, so no error there.
+- **Suggested fix**: "Glabbagool — a sentient ooze bonded to Zalthir's left forearm." Flag also that `world_state.md` contains a self-noted reconciliation warning ("One dossier places Glabbagool on Gyrgum's arm; the authoritative bond is **with Zalthir**") — the recap correctly has Zalthir, so no error there.
 
 ---
 
-### 23. Grygum called "a cleric" implicitly; species not stated — minor
+### 23. Gyrgum called "a cleric" implicitly; species not stated — minor
 
-- **Location**: Throughout (Grygum has no NPC entry, being a PC)
-- **Issue**: No error. Noting only that the recap's "Grygum, on the storage arrangement: 'It's a little weird to store things inside our NPCs, but I'll allow it'" is a player-voice/OOC line attributed as if in-character. Future readers may mistake it for Grygum's in-world dialogue.
-- **Evidence**: `party.md`: Grygum — Cleric 8 (Life Domain), Orc, player Ben Pfaff. The quoted line is table-speak about NPC handling, not diegetic.
+- **Location**: Throughout (Gyrgum has no NPC entry, being a PC)
+- **Issue**: No error. Noting only that the recap's "Gyrgum, on the storage arrangement: 'It's a little weird to store things inside our NPCs, but I'll allow it'" is a player-voice/OOC line attributed as if in-character. Future readers may mistake it for Gyrgum's in-world dialogue.
+- **Evidence**: `party.md`: Gyrgum — Cleric 8 (Life Domain), Orc, player Ben Pfaff. The quoted line is table-speak about NPC handling, not diegetic.
 - **Suggested fix**: Mark OOC lines as such, as the recap already does elsewhere ("Thorin, out of character: 'I'm not ready to cop to what we did'").
 
 ---
 
-### 24. "Grygum pouring 44 points of healing into Zalthir" — check against sheet
+### 24. "Gyrgum pouring 44 points of healing into Zalthir" — check against sheet
 
 - **Location**: Summary (¶6), Scenes → "The Descent into the Vault"
-- **Issue**: 44 HP in a single act, with the text noting Zalthir was "short 27 hit points" and the healing was "overkill." No spell or resource is named. Worth verifying against Grygum's sheet that a 44-point heal is available at his level.
-- **Evidence**: `party.md`: Grygum — Cleric 8 (Life Domain). `world_state.md` lists his abilities: "Revivify, Divine Healing, Guiding Bolt, Spirit Guardians, Inflict Wounds, Glyph of Warding, Dust of Suleiman." Life Domain's Disciple of Life bonus plus a 4th-level Cure Wounds could plausibly reach 44, and he holds "fourth-level spell gems" per `party.md` — so this is likely fine, but the spell is unnamed in the recap.
+- **Issue**: 44 HP in a single act, with the text noting Zalthir was "short 27 hit points" and the healing was "overkill." No spell or resource is named. Worth verifying against Gyrgum's sheet that a 44-point heal is available at his level.
+- **Evidence**: `party.md`: Gyrgum — Cleric 8 (Life Domain). `world_state.md` lists his abilities: "Revivify, Divine Healing, Guiding Bolt, Spirit Guardians, Inflict Wounds, Glyph of Warding, Dust of Suleiman." Life Domain's Disciple of Life bonus plus a 4th-level Cure Wounds could plausibly reach 44, and he holds "fourth-level spell gems" per `party.md` — so this is likely fine, but the spell is unnamed in the recap.
 - **Suggested fix**: Name the spell/resource used, so a future session can track slot expenditure.
 
 ---
@@ -230,7 +230,7 @@
 ### 26. Trap trigger range — "between the 93rd and 102nd steps" vs. "positioned themselves on the 97th step"
 
 - **Location**: Summary (¶6), Scenes → "The Descent into the Vault", Locations → The Hidden Staircase, Memorable Moments
-- **Issue**: The Scenes bullets and Locations entry say the hinge caught "anyone standing between steps 93 and 102," and separately that Grygum went "down 97 steps" with Zalthir joining him. But the Memorable Moments entry says "The party had carefully positioned themselves **on the 97th step**" — singular, all of them. These describe different tactical pictures, and the recap also states Daz was "safely above" while Grygum was on 97 (i.e. within the trap range).
+- **Issue**: The Scenes bullets and Locations entry say the hinge caught "anyone standing between steps 93 and 102," and separately that Gyrgum went "down 97 steps" with Zalthir joining him. But the Memorable Moments entry says "The party had carefully positioned themselves **on the 97th step**" — singular, all of them. These describe different tactical pictures, and the recap also states Daz was "safely above" while Gyrgum was on 97 (i.e. within the trap range).
 - **Evidence**: Internal to the recap. `candlekeep_murders_arc.md` S7 Beat 5 has the trap at "step 93 (or wherever)," so the exact range is a table detail with no external authority.
 - **Suggested fix**: Reconcile to one description. Given the Dexterity saves and per-character outcomes described, "the party spread across steps 93–102, with Daz above the hinge" appears to be the accurate picture; correct the Memorable Moments framing.
 
@@ -266,7 +266,7 @@
 ### 30. "44 points of healing… to prepare **them**" — recipient ambiguity
 
 - **Location**: Summary (¶6)
-- **Issue**: "Grygum pouring 44 points of healing into Zalthir to prepare **them** for whatever lay ahead" — ambiguous whether "them" is Zalthir or the party. The Scenes bullet clarifies it was Zalthir alone (short 27 HP), so the Summary reads as if the whole party was healed.
+- **Issue**: "Gyrgum pouring 44 points of healing into Zalthir to prepare **them** for whatever lay ahead" — ambiguous whether "them" is Zalthir or the party. The Scenes bullet clarifies it was Zalthir alone (short 27 HP), so the Summary reads as if the whole party was healed.
 - **Evidence**: Internal to the recap; Scenes bullet is the more specific statement.
 - **Suggested fix**: "…pouring 44 points of healing into Zalthir, who was down 27 hit points with no short rest taken."
 
@@ -350,7 +350,7 @@
 - **Issue**: The recap's decoded riddle runs: feed the quill / tread as many steps / **sprinkle dust of Mechanus** / **utter the original prophecy** / obsidian door. Prep's canonical riddle runs: feed the quill / tread as many steps / **utter the original prophecy** / **sprinkle dust of Mechanus** / one last guardian / verify the chosen Reader's claims / obsidian door. Lines 3 and 4 are swapped, and two lines are missing entirely.
 - **Evidence**: `candlekeep_day_four.md` Beat 3 and `candlekeep_murders_arc.md` S7 Beat 3, verbatim:
   > *Feed the quill of Alaundo the Seer / Tread as many steps as he lived in years / **Utter the original prophecy to unseen ears** / **Sprinkle dust of Mechanus on dormant gears** / **One last guardian of knowledge remains** / **To verify the chosen Reader's claims** / But those well versed in Candlekeep's lore / May fearlessly pass the Obsidian Door*
-- **Suggested fix**: Two issues. (a) The ordering: the recap's own quoted table-line — Grygum supplying the missed line and Thorin saying *"Okay, that rhymes with years"* — indicates "unseen ears" belongs adjacent to "years," i.e. prep's order is right and the recap's summary reordered it. (b) The **two missing lines about the guardian who verifies the chosen Reader's claims** are load-bearing for the next session and should be restored. This matters: the party may believe they have the full text when they are two lines short.
+- **Suggested fix**: Two issues. (a) The ordering: the recap's own quoted table-line — Gyrgum supplying the missed line and Thorin saying *"Okay, that rhymes with years"* — indicates "unseen ears" belongs adjacent to "years," i.e. prep's order is right and the recap's summary reordered it. (b) The **two missing lines about the guardian who verifies the chosen Reader's claims** are load-bearing for the next session and should be restored. This matters: the party may believe they have the full text when they are two lines short.
 
 ---
 
@@ -381,11 +381,11 @@
 
 ---
 
-### 43. "Grygum: 'He only has 2? Oh, well, send him off to the jail then.'" — placement
+### 43. "Gyrgum: 'He only has 2? Oh, well, send him off to the jail then.'" — placement
 
 - **Location**: Scenes → "The Prisoner's Bargain", final bullet
 - **Issue**: This line is placed as the closing beat of Tadric taking A'lai into custody, but reads as a reaction to A'lai only knowing **two** riddle answers — i.e. it belongs earlier, at the reveal, not at the handover.
-- **Evidence**: Internal. The bullet immediately above it is A'lai's "I suppose" to Tadric; the two are sequenced as if Grygum's line follows the custody transfer.
+- **Evidence**: Internal. The bullet immediately above it is A'lai's "I suppose" to Tadric; the two are sequenced as if Gyrgum's line follows the custody transfer.
 - **Suggested fix**: Reorder so the "only has 2" reaction sits with the two-answers reveal.
 
 ---

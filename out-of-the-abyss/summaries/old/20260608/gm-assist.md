@@ -5,13 +5,13 @@ Date: Jun 8th, 2026
 ## Summary
 The party returned to the Great Chapter House to report their findings to Bookwyrm, the First Speaker of Candlekeep. They found her in conference with Kai Tigersteel, a slender, bald man with sharp black side whiskers and a goatee who served as the spiritual leader of the library. After the party shared only the broadest strokes of their investigation, Bookwyrm dismissed Kai Tigersteel with instructions to take Janussi's body to the Shrine of Oghma for purification. She then led the party to Deneir's Sanctum, a shrine dedicated to the art of writing, and offered it as their private office, assigning the eager acolyte Fembris Lancer to fetch suspects and the moon elf Vooshadi Moonriver to stand guard at the door.
 
-Before the party could fully settle into their new headquarters, Kalan Strongbranch appeared in the corridor and pressed a small brass key into Grygum's hand with quiet urgency. He explained that Janussi had worn the second High Tower key in a locket around his neck, and that locket was now missing from the crime scene. Kalan feared he was being targeted for the key he had held, and made it clear that if he were killed, it was better the key not be found on him. He also shared his belief that the murderer was a powerful magic user capable of bypassing both mundane and arcane locks, and that Janussi's heart had been hacked out after death, most likely to prevent anyone from resurrecting the corpse. When the party pointed out that the rifling of the safe and the theft of the locket may have been the work of two separate people, Kalan paused and admitted he had been too hasty in assuming a single culprit. He suspected that one of the Great Readers was behind the murder and that Bookwyrm may have been manipulated into removing him from the case to protect the killer. Before departing to conduct his own parallel investigation, he agreed to reconvene with the party later that evening to share findings, and warned them to be wary of those who could change their face.
+Before the party could fully settle into their new headquarters, Kalan Strongbranch appeared in the corridor and pressed a small brass key into Gyrgum's hand with quiet urgency. He explained that Janussi had worn the second High Tower key in a locket around his neck, and that locket was now missing from the crime scene. Kalan feared he was being targeted for the key he had held, and made it clear that if he were killed, it was better the key not be found on him. He also shared his belief that the murderer was a powerful magic user capable of bypassing both mundane and arcane locks, and that Janussi's heart had been hacked out after death, most likely to prevent anyone from resurrecting the corpse. When the party pointed out that the rifling of the safe and the theft of the locket may have been the work of two separate people, Kalan paused and admitted he had been too hasty in assuming a single culprit. He suspected that one of the Great Readers was behind the murder and that Bookwyrm may have been manipulated into removing him from the case to protect the killer. Before departing to conduct his own parallel investigation, he agreed to reconvene with the party later that evening to share findings, and warned them to be wary of those who could change their face.
 
-The party split their efforts to cover more ground. Grygum made his way to the Flora Theca, a botanical subsection of the Great Library, where he uncovered a tome called Fey-mous Flowers & Fungi by Archibald Roots, Jr. Within its pages, he identified the poison as midnight tears, a pale ochre dust harvested from the pollen of a plant native to the Feywild. Its most sinister property was that the victim suffered no ill effects whatsoever until the stroke of midnight, at which point death came swiftly, making it a near-perfect murder weapon. Grygum also researched the significance of the stolen sapphires and discovered they were prized components for a powerful spell capable of hiding an object away and later summoning it directly to the caster's hand, leading him to theorize that the gems may have been intended for use in concealing or retrieving the stolen High Tower key.
+The party split their efforts to cover more ground. Gyrgum made his way to the Flora Theca, a botanical subsection of the Great Library, where he uncovered a tome called Fey-mous Flowers & Fungi by Archibald Roots, Jr. Within its pages, he identified the poison as midnight tears, a pale ochre dust harvested from the pollen of a plant native to the Feywild. Its most sinister property was that the victim suffered no ill effects whatsoever until the stroke of midnight, at which point death came swiftly, making it a near-perfect murder weapon. Gyrgum also researched the significance of the stolen sapphires and discovered they were prized components for a powerful spell capable of hiding an object away and later summoning it directly to the caster's hand, leading him to theorize that the gems may have been intended for use in concealing or retrieving the stolen High Tower key.
 
 Meanwhile, the rest of the party tracked down Daral Yashenti at the Hearth, where they found him drunk, boisterous, and in remarkably good spirits for a man who had recently brawled with his now-deceased superior. He greeted them with a mocking toast, calling them "Bookwyrm's Brownnosers," and ordered them a round of spice brandies at his own expense. He admitted freely that he had met with Janussi at eleven in the morning, during which Janussi had rejected his proposal to preserve certain priceless works of poetry, intending instead to sell them to fund research materials for Sylvira, his tiefling companion. Furious, Daral Yashenti had returned to Janussi's chambers that night, found him reading the very book of poetry Daral Yashenti had gifted him, and taken it back. The confrontation had turned physical, and Daral Yashenti confessed that he may have caught Janussi "lightly on the nose" before storming off to the Hearth to calm his nerves.
 
-As Daral Yashenti spoke, the party noticed with growing alarm that he was casually flipping through the pages of that same book, licking his fingers as he turned each page. The theory that had been forming since Grygum's research suddenly snapped into sharp focus: the midnight tears poison had been applied to the pages of the book, and Janussi had unknowingly ingested it the same way. Daral Yashenti, now doing the exact same thing, had potentially sealed his own fate. When the party warned him, he dropped the book in a panic and demanded they do something. They secured the book as evidence and resolved to keep Daral Yashenti close, knowing that if the poison had taken hold, he had only until midnight before it would claim him.
+As Daral Yashenti spoke, the party noticed with growing alarm that he was casually flipping through the pages of that same book, licking his fingers as he turned each page. The theory that had been forming since Gyrgum's research suddenly snapped into sharp focus: the midnight tears poison had been applied to the pages of the book, and Janussi had unknowingly ingested it the same way. Daral Yashenti, now doing the exact same thing, had potentially sealed his own fate. When the party warned him, he dropped the book in a panic and demanded they do something. They secured the book as evidence and resolved to keep Daral Yashenti close, knowing that if the poison had taken hold, he had only until midnight before it would claim him.
 
 Daral Yashenti, rattled but still sharp-tongued, offered up his suspicions freely. He named Teles Ahvoste as someone who had long believed himself first in line for the Keeper's position, A'lai Aivenmore as a man openly hungry for power, and Fheminor Scrivenbark as someone whose small stature concealed a steely and dangerous nature. He did not spare Bookwyrm from his list either, remarking that there was no telling what went on in her cold, calculating mind. The party filed away each name, noting that A'lai Aivenmore had been the most vocal at the council meeting about restoring leadership to Candlekeep as quickly as possible.
 
@@ -28,7 +28,7 @@ While all of this unfolded, Glabbagool, the peculiar grey ooze who had attached 
 
 *Daral Yashenti's mocking greeting to the party upon their arrival at the Hearth, drunk and in high spirits after Janussi's death*
 
-**Kalan secretly presses a brass High Tower key into Grygum's hand in the corridor, warning that if he is killed, the key must not be found on him.**
+**Kalan secretly presses a brass High Tower key into Gyrgum's hand in the corridor, warning that if he is killed, the key must not be found on him.**
 
 *A tense, clandestine handoff suggesting Kalan genuinely fears for his life and trusts the party more than his own superiors*
 
@@ -72,8 +72,8 @@ While all of this unfolded, Glabbagool, the peculiar grey ooze who had attached 
 - The party identifies Sylvira, Daral Yashenti, Fheminor, and Kalan as priority interview targets.
 
 ### A Secret Meeting with Kalan
-#### Grygum encounters Kalan Strongbranch in a corridor, where he shares critical information about the High Tower keys and his own investigation.
-- Kalan Strongbranch approaches the party in a corridor and presses a small brass key into Grygum's hand, explaining it is one of two keys to the High Tower.
+#### Gyrgum encounters Kalan Strongbranch in a corridor, where he shares critical information about the High Tower keys and his own investigation.
+- Kalan Strongbranch approaches the party in a corridor and presses a small brass key into Gyrgum's hand, explaining it is one of two keys to the High Tower.
 - Kalan reveals that Janussi wore the other key in a locket, which is now missing from the crime scene.
 - Kalan expresses his fear that he is being targeted and warns the party that if he is killed, the key should not be found on him.
 - Kalan shares his theory that the murderer was a magic user capable of bypassing arcane and mundane locks, and that the victim's heart was removed post-mortem to prevent resurrection.
@@ -86,12 +86,12 @@ While all of this unfolded, Glabbagool, the peculiar grey ooze who had attached 
 - Kalan warns the party to be wary of shapeshifters before departing.
 
 ### Research in the Flora Theca
-#### Grygum visits the library's botanical section to identify the poison used on Janussi.
-- Fembris Lancer guides Grygum to the Flora Theca, a subsection of the Pavilion Naturalis dedicated to plants, herbs, and fungi.
-- Grygum discovers a tome titled 'Fey-mous Flowers & Fungi' by Archibald Roots, Jr.
+#### Gyrgum visits the library's botanical section to identify the poison used on Janussi.
+- Fembris Lancer guides Gyrgum to the Flora Theca, a subsection of the Pavilion Naturalis dedicated to plants, herbs, and fungi.
+- Gyrgum discovers a tome titled 'Fey-mous Flowers & Fungi' by Archibald Roots, Jr.
 - The research identifies the poison as 'midnight tears,' a highly toxic pale ochre dust made from Feywild pollen that only takes effect at the stroke of midnight.
 - The party deduces that the poison was likely applied to the pages of a book, as Janussi had a habit of licking his fingers to turn pages, which matches the black discoloration found on his fingers and lips.
-- Grygum also investigates the significance of sapphires in spellcasting, discovering they are linked to a powerful summoning or hiding spell used by certain magic users.
+- Gyrgum also investigates the significance of sapphires in spellcasting, discovering they are linked to a powerful summoning or hiding spell used by certain magic users.
 - The party theorizes that the stolen sapphires may have been intended for a spell to hide or summon objects like the High Tower keys.
 
 ### Interrogating Daral Yashenti at the Hearth
@@ -133,7 +133,7 @@ A restricted area within Candlekeep housing powerful magical artifacts, requirin
 A location within Candlekeep where Kalan Strongbranch conducts his private research and duties.
 
 ### Flora Theca
-A subsection of the Pavilion Naturalis within the Great Library, dedicated to the study of plants, herbs, and fungi. Grygum conducted his poison research here.
+A subsection of the Pavilion Naturalis within the Great Library, dedicated to the study of plants, herbs, and fungi. Gyrgum conducted his poison research here.
 
 ### The Hearth
 A social tavern within Candlekeep where Daral Yashenti was found drinking and reading the suspicious book. The party conducted their interrogation of him here.
@@ -143,7 +143,7 @@ A sacred space within Candlekeep where supplicants seek self-knowledge through s
 
 ## Items
 ### High Tower Key (Kalan's)
-A small brass key, one of two required to access the High Tower's vault of powerful magical artifacts. Kalan Strongbranch secretly pressed it into Grygum's hand for safekeeping, fearing he would be killed for possessing it.
+A small brass key, one of two required to access the High Tower's vault of powerful magical artifacts. Kalan Strongbranch secretly pressed it into Gyrgum's hand for safekeeping, fearing he would be killed for possessing it.
 
 ### Janussi's Locket
 A personal item stolen from the victim's body during the murder. It contained the second High Tower key and was taken by someone who knew exactly where to look.
@@ -152,7 +152,7 @@ A personal item stolen from the victim's body during the murder. It contained th
 A substance recovered from Janussi's fingers and lips, serving as a primary piece of physical evidence. The black discoloration was a key clue pointing toward the midnight tears poison.
 
 ### Fey-mous Flowers & Fungi
-A botanical tome authored by Archibald Roots, Jr., discovered by Grygum in the Flora Theca. It provided the critical identification of the midnight tears poison and its properties.
+A botanical tome authored by Archibald Roots, Jr., discovered by Gyrgum in the Flora Theca. It provided the critical identification of the midnight tears poison and its properties.
 
 ### Midnight Tears
 A highly toxic pale ochre dust made from the pollen of a plant usually only found in the Feywild. Its unique property is that the victim suffers no effect until the stroke of midnight, making it an ideal murder weapon. It can be delivered through food or liquid, and the party theorized it was applied to the pages of a book.
@@ -161,7 +161,7 @@ A highly toxic pale ochre dust made from the pollen of a plant usually only foun
 A book of poetry that Daral Yashenti gifted to Janussi and later forcibly reclaimed during their altercation. It is suspected to be the delivery mechanism for the midnight tears poison, as Janussi was found reading it and licking his fingers to turn the pages. Daral Yashenti was also seen handling it the same way at the Hearth.
 
 ### Sapphires
-Expensive gems stolen from Janussi's chambers. Grygum's research revealed they are used as components in a powerful spell capable of hiding an object and later summoning it to the caster's hand, leading the party to theorize they may have been intended for use with the stolen High Tower key.
+Expensive gems stolen from Janussi's chambers. Gyrgum's research revealed they are used as components in a powerful spell capable of hiding an object and later summoning it to the caster's hand, leading the party to theorize they may have been intended for use with the stolen High Tower key.
 
 ## Spells
 ### Speak with Dead
@@ -174,7 +174,7 @@ A spell of the highest order that Kalan theorized was used by the murderer to ci
 Mentioned as a potential remedy to save Daral Yashenti if he begins to show symptoms of the midnight tears poison, which would take effect at the stroke of midnight.
 
 ### Object Hiding and Summoning Spell
-A powerful spell requiring an expensive sapphire as a component, discovered during Grygum's library research. It allows an object to be hidden away and later summoned directly to the caster's hand. The party theorized this spell may have been the intended use for the stolen sapphires, possibly in connection with the High Tower keys.
+A powerful spell requiring an expensive sapphire as a component, discovered during Gyrgum's library research. It allows an object to be hidden away and later summoned directly to the caster's hand. The party theorized this spell may have been the intended use for the stolen sapphires, possibly in connection with the High Tower keys.
 
 ## NPCs
 ### Bookwyrm
@@ -190,7 +190,7 @@ An eager acolyte adjutant who assists the party by guiding them to locations wit
 A moon elf scribe assigned by Bookwyrm to stand guard outside the party's temporary office in Deneir's Sanctum.
 
 ### Kalan Strongbranch
-The Gate Warden of Candlekeep who has been officially dismissed from the murder investigation by Bookwyrm. He secretly handed Grygum one of the two High Tower keys for safekeeping, fearing for his life. He is philosophical and suspicious, believing one of the Great Readers is the murderer. He agreed to share findings with the party later that evening.
+The Gate Warden of Candlekeep who has been officially dismissed from the murder investigation by Bookwyrm. He secretly handed Gyrgum one of the two High Tower keys for safekeeping, fearing for his life. He is philosophical and suspicious, believing one of the Great Readers is the murderer. He agreed to share findings with the party later that evening.
 
 ### Janussi
 The deceased Keeper of Candlekeep whose murder is the central focus of the investigation. He wore one of the two High Tower keys in a locket around his neck, which was stolen. His heart was removed post-mortem, likely to prevent resurrection.

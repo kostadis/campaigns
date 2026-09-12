@@ -8,7 +8,7 @@ A female human found alongside Fuurm Coppernose in the Faerzress crystal cave. A
 
 ## Eldeth
 
-Actively hiding the party's tracks for at least two days as they traveled through dark passages. She successfully concealed their trail in the Faerzress crystal cave. She was worried that every time the party disturbed the environment (such as collecting crystals), it made them easier to track, though Grygum told her not to worry. By the 5th day of the 2nd tenday of Myrkhul, Zalthir credits her shrewdness with reducing the Drow pursuit to "a mere whisper behind us."
+Actively hiding the party's tracks for at least two days as they traveled through dark passages. She successfully concealed their trail in the Faerzress crystal cave. She was worried that every time the party disturbed the environment (such as collecting crystals), it made them easier to track, though Gyrgum told her not to worry. By the 5th day of the 2nd tenday of Myrkhul, Zalthir credits her shrewdness with reducing the Drow pursuit to "a mere whisper behind us."
 
 ## Serith
 
@@ -16,11 +16,11 @@ Insisted he knew where the party was going as they traveled through the dark pas
 
 ## Stool
 
-Grygum's myconid companion, described as curled up contentedly against Thorin's back, "probably still reliving his 'good idea' to ride on the dwarf" as they traveled through the fungal forest.
+Gyrgum's myconid companion, described as curled up contentedly against Thorin's back, "probably still reliving his 'good idea' to ride on the dwarf" as they traveled through the fungal forest.
 
 ## Jimjar
 
-Shouted "Want to make a bet?" when the party found another cave full of crystals. Grygum turned the tables on him by proposing the bet himself — that the crystals would be useful — which left Jimjar confused, as he wasn't used to other people initiating the wager. He smiled and accepted anyway. Later, Zalthir noted that Jimjar had already started a new round of bets, "probably on how many steps Thorin takes before tripping."
+Shouted "Want to make a bet?" when the party found another cave full of crystals. Gyrgum turned the tables on him by proposing the bet himself — that the crystals would be useful — which left Jimjar confused, as he wasn't used to other people initiating the wager. He smiled and accepted anyway. Later, Zalthir noted that Jimjar had already started a new round of bets, "probably on how many steps Thorin takes before tripping."
 
 ## Brysis of Khaem
 
@@ -28,7 +28,7 @@ A Netherese sorceress whose Lost Tomb the party entered. She is depicted in a st
 
 ## Pelek
 
-Mentioned only in passing — when Zalthir declared "I will punch the ghost!" while fighting the Spectres, Grygum noted he could "almost hear Pelek, our ghost, correcting him." Pelek is the party's ghost companion, not physically present in this scene but referenced by association.
+Mentioned only in passing — when Zalthir declared "I will punch the ghost!" while fighting the Spectres, Gyrgum noted he could "almost hear Pelek, our ghost, correcting him." Pelek is the party's ghost companion, not physically present in this scene but referenced by association.
 
 ## Fargus Rumblefoot
 

@@ -1,8 +1,8 @@
 ## Scene 1
-narrator: Grygum
+narrator: Gyrgum
 chunks: 1
 scene: Reunion and Debriefing
-focus: Returning triumphant from his colloquium, Grygum experiences the absurd comedy of Glabbagool crushing Fembris's dreams and the party catching him up on murder.
+focus: Returning triumphant from his colloquium, Gyrgum experiences the absurd comedy of Glabbagool crushing Fembris's dreams and the party catching him up on murder.
 
 ## Scene 2
 narrator: Thorin
@@ -17,7 +17,7 @@ scene: Splitting the Leads
 focus: The methodical monk values dividing the work and the "Dragonborn to Dragonborn" angle, observing each companion's chosen lead with quiet calculation.
 
 ## Scene 4
-narrator: Grygum
+narrator: Gyrgum
 chunks: 2
 scene: Investigations in Janussi's Chambers
 focus: Alone in the love nest, the scholar-cleric reads Janussi's academic cruelty toward Kalan and recognizes a destroyed man's motive in the insult.
@@ -29,7 +29,7 @@ scene: Interview with Sylvira
 focus: The drow exile navigates a feverish tiefling's suspicion, persuading her past Menzoberranzan trickery while mining her for the web of frame-ups and suspects.
 
 ## Scene 6
-narrator: Grygum
+narrator: Gyrgum
 chunks: 2
 scene: The Reassembled Evidence
 focus: With a mending cantrip, the patient scholar resurrects torn wrapping paper and sees in its precise cut the cold proof that the murder was premeditated.

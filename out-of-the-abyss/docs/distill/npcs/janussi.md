@@ -12,7 +12,7 @@ source_extracts: [58, 59, 60, 61, 62, 63]
 - Does not appear alive — the party knows him only as the murder victim whose corpse and chambers they investigate. Body found at dawn by Great Reader A'lai Aivenmore, laid out in his tower chamber; time of death roughly midnight.
 
 ## Personality & Motivations
-Described by Hollypocket as "a nice man, a little stiff." Grygum's read from the evidence: "high intelligence, but not high wisdom." He believed the Great Readers held a privileged responsibility to decide which branches of knowledge deserved furthering, and could be cuttingly contemptuous in that role. On his final day he delivered career-destroying verdicts in back-to-back meetings, often ending in shouting matches. Medicated his failing lungs with constant cherry-tobacco pipe smoke.
+Described by Hollypocket as "a nice man, a little stiff." Gyrgum's read from the evidence: "high intelligence, but not high wisdom." He believed the Great Readers held a privileged responsibility to decide which branches of knowledge deserved furthering, and could be cuttingly contemptuous in that role. On his final day he delivered career-destroying verdicts in back-to-back meetings, often ending in shouting matches. Medicated his failing lungs with constant cherry-tobacco pipe smoke.
 
 ## History with the Party
 - The party is called in as investigators after his death; A'lai discovered the body.
@@ -28,12 +28,12 @@ Described by Hollypocket as "a nice man, a little stiff." Grygum's read from the
 - Deceased and examined. Investigation into his murder is the party's active operation.
 - **Alkrist confessed to killing him**; the extracted confession concerned Janussi's death.
 - **Bookwyrm** was the first into Janussi's chamber and took both the heart and the key.
-- Known vs. hidden: the party established method (Midnight Tears on the gift book), post-mortem heart removal to prevent resurrection, and the theft of the locket-key. Contradictory threads remain — the gift book traces to Daral, the impersonator "Y" reportedly locked his mouth so his corpse couldn't be questioned, Bookwyrm physically took the heart/key, and Alkrist confessed. Thorin's working conviction: "the person that killed him is the one that took the heart." Grygum noted "the dead keep changing whose case they strengthen."
+- Known vs. hidden: the party established method (Midnight Tears on the gift book), post-mortem heart removal to prevent resurrection, and the theft of the locket-key. Contradictory threads remain — the gift book traces to Daral, the impersonator "Y" reportedly locked his mouth so his corpse couldn't be questioned, Bookwyrm physically took the heart/key, and Alkrist confessed. Thorin's working conviction: "the person that killed him is the one that took the heart." Gyrgum noted "the dead keep changing whose case they strengthen."
 
 ## Relationships
 - **Sylvira Savikas** — on-and-off lover (she was previously involved with Kazryn Nyantani). Their final meeting (11:30 PM) planned a joint library dedicated to the Great Wheel of Planes; it ended in an argument over a private matter — her last words with him.
 - **Daral Yashenti** — years-long rival who publicly called the party "sellswords." Clashed at the 11 o'clock meeting over selling poetry to fund a demonic-planes tome; gave Janussi the (poisoned) gift book; struck him on the nose that evening after Janussi "sat upon him." Later surmised the heart was stolen to block resurrection.
-- **Kalan Strongbranch** — Janussi refused his request for more watchers (8 o'clock meeting) and blocked his criminal-investigation methodology proposal as "solipsism"/vanity. Grygum found Janussi's contemptuous handwritten rejection note on the third floor. Kalan noted "the person who declined it is dead," now an opening to vindicate his work.
+- **Kalan Strongbranch** — Janussi refused his request for more watchers (8 o'clock meeting) and blocked his criminal-investigation methodology proposal as "solipsism"/vanity. Gyrgum found Janussi's contemptuous handwritten rejection note on the third floor. Kalan noted "the person who declined it is dead," now an opening to vindicate his work.
 - **Alkrist** — at the Deadwinter supper Janussi praised Alkrist's project as "knowledge that could benefit civilization," but on budget day told him his germ-warfare research was dangerous, should stop, and that he showed no leadership potential. Alkrist confessed to the murder.
 - **A'lai Aivenmore** — confronted by Janussi on his last day; discovered the body.
 - **Fheminor** — at council, asked whether Janussi had named a successor.

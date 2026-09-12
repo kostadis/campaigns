@@ -76,7 +76,7 @@ Zalthir agreed. It tracked.
 
 The pattern suggested he might have been dead before the chest was opened. Which meant two things happened: something killed him, and then someone opened him up afterward. The missing heart wasn't the cause of death. It was a message. Or a precaution.
 
-Grygum named the precaution out loud, and once he said it I couldn't believe I hadn't thought of it first: you can't Raise Dead someone if their vital organs aren't present. Whoever took the heart wasn't souvenir-collecting. They were preventing resurrection. They wanted Janussi to stay dead in every sense that mattered.
+Gyrgum named the precaution out loud, and once he said it I couldn't believe I hadn't thought of it first: you can't Raise Dead someone if their vital organs aren't present. Whoever took the heart wasn't souvenir-collecting. They were preventing resurrection. They wanted Janussi to stay dead in every sense that mattered.
 
 Which meant — I thought this through in order, because the Underdark taught me to think through implications in order — someone had tried to make him permanently inaccessible. But not necessarily inaccessible in every way.
 

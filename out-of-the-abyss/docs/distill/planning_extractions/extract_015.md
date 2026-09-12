@@ -11,7 +11,7 @@
 - Ambushed the party from the water near the abandoned keelboat, using invisibility
 - Were engaged in slave-taking operations, grappling and dragging overboard multiple members of the party's castaway group including Stool and Spiderbait
 - One was detected by shape water revealing its outline; killed in melee
-- Others killed by acid belch (Grygum), magic missiles (Daz), and unarmed strikes (Zalthir)
+- Others killed by acid belch (Gyrgum), magic missiles (Daz), and unarmed strikes (Zalthir)
 - Last survivor was taken prisoner for questioning
 
 **Jimjar (deep gnome castaway)**
@@ -56,9 +56,9 @@
 
 **Dulgir (Duergar merchant, Blade Bazaar)**
 - Operated a stall in the Blade Bazaar
-- Initially cursed Grygum aggressively when approached about selling; shifted to cooperative and refined speech when Grygum expressed interest in buying
-- Sold Grygum a new mace
-- Confirmed to Grygum that a cloth merchant's "brother" does not exist, indicating the merchant was experiencing a delusion
+- Initially cursed Gyrgum aggressively when approached about selling; shifted to cooperative and refined speech when Gyrgum expressed interest in buying
+- Sold Gyrgum a new mace
+- Confirmed to Gyrgum that a cloth merchant's "brother" does not exist, indicating the merchant was experiencing a delusion
 
 **Two-Headed Stone Giant (unnamed, mad)**
 - Burst through a gate into the Darklake District plaza, howling and lashing out randomly

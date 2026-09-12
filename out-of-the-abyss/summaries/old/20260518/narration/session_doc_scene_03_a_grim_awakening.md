@@ -14,13 +14,13 @@ The voice on the other side of the door was young, breathless, and badly in need
 
 I was already cataloguing before the sentence finished. The Keeper of Tomes was dead. The First Reader wanted us specifically, not the Avowed, not the city watch — us, through the emerald door, before the avowed awake. That clause was doing a great deal of work. *Before the avowed awake* meant she wanted this contained. It also meant she thought we were the right instrument for containing it. The question of why she thought that was, I noted, a question I would need answered.
 
-Grygum opened the door. I heard his voice land somewhere between inquiry and bracing for bad news: "The Keeper of Tomes?"
+Gyrgum opened the door. I heard his voice land somewhere between inquiry and bracing for bad news: "The Keeper of Tomes?"
 
 The messenger confirmed it. He was commoner-born, I could see that much — enthusiastic in the way of someone who has been trusted with important information for the first time and found the experience clarifying. Boyish. Very slightly delighted by his own urgency, which I didn't hold against him. He looked like someone who had sprinted across several corridors of very old stone and intended everyone to notice.
 
 I began dressing. The running account in the back of my head was already sorting columns: one entity dead, position of institutional significance, first reader bypassing standard channels, party summoned by name, timing engineered to precede institutional awareness. In Menzoberranzan, that combination resolved to one thing: someone wanted the scene read before it was managed. The surface world ran different politics, but the bones of information control looked the same everywhere. Whoever wanted us through that emerald door was working a timeline.
 
-Grygum, to his credit, was moving. He said something about not having thought through what orcs wear to bed, which struck me as honest and also not the logistical priority it probably felt like from the inside. I filed it in the column marked *Grygum is processing the morning* and kept dressing.
+Gyrgum, to his credit, was moving. He said something about not having thought through what orcs wear to bed, which struck me as honest and also not the logistical priority it probably felt like from the inside. I filed it in the column marked *Gyrgum is processing the morning* and kept dressing.
 
 We were all rested, at least. Properly, fully rested — the kind that had felt almost suspicious after the Underdark, where a full night's sleep was a negotiation with the geological hostility of your surroundings. Candlekeep's beds had done their work. Whatever was waiting through the emerald door, we weren't walking into it depleted.
 

@@ -32,7 +32,7 @@ source: gmassist
 **[Thorin]**
 > "And the other one wasn't?"
 
-**[Grygum ]**
+**[Gyrgum ]**
 > "Ha ha ha ha ha ha ha ha!"
 
 **[Thorin]**
@@ -83,7 +83,7 @@ source: gmassist
 **[GM]** — *the rotunda revealed*
 > "So this is what the rotunda looks like."
 
-**[Grygum ]** — *reacting to the rotunda idea*
+**[Gyrgum ]** — *reacting to the rotunda idea*
 > "I like the idea of having something special in a rotunda. That sounds like fun."
 
 **[scene tag — Arrival at the rotunda, Tadric under attack]**

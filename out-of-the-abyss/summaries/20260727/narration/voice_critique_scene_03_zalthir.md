@@ -20,7 +20,7 @@
 
 > Then, working it out: "Oh, okay, it's the… the… yes. **The Whorlstone entrance.** Basically."
 
-**Why:** The smoothed source reads `"Oh, okay, it's the… the… Yes. Entrance. Basically."` Grygum did not say *Whorlstone*. The previous draft produced the identical fabrication from a **different** input directory, so it has now reproduced deterministically across two runs from two sources — the model is back-filling a Gracklstugh location name into an unfinished fragment. Another re-run will produce it a third time.
+**Why:** The smoothed source reads `"Oh, okay, it's the… the… Yes. Entrance. Basically."` Gyrgum did not say *Whorlstone*. The previous draft produced the identical fabrication from a **different** input directory, so it has now reproduced deterministically across two runs from two sources — the model is back-filling a Gracklstugh location name into an unfinished fragment. Another re-run will produce it a third time.
 
 Unlike last time, no narrator beat is built on top of it, so the fix is a two-word deletion.
 
@@ -48,11 +48,11 @@ What makes it clearly a lapse rather than a preference: **four lines later the s
 
 ### [5] "geometry" again, for the same referent as scene 02
 
-> Grygum was working his **geometry**.
+> Gyrgum was working his **geometry**.
 
-**Why:** Defensible in isolation — *geometry* is Zalthir's lexicon. But scene 02 already used it (`working the same geometry I was`) for the identical beat: Grygum computing firing angles. Two sections, two narrators, one word, one referent. `_genre.md` treats a figure shared across narrators as convergence.
+**Why:** Defensible in isolation — *geometry* is Zalthir's lexicon. But scene 02 already used it (`working the same geometry I was`) for the identical beat: Gyrgum computing firing angles. Two sections, two narrators, one word, one referent. `_genre.md` treats a figure shared across narrators as convergence.
 
-**Suggested rewrite:** Since scene 02's use is the register-wrong one, fix that one and keep this. If you'd rather vary both: `Grygum was working the angles out loud.`
+**Suggested rewrite:** Since scene 02's use is the register-wrong one, fix that one and keep this. If you'd rather vary both: `Gyrgum was working the angles out loud.`
 
 ### [6] Em-dash — 6 narration-level, moderate
 

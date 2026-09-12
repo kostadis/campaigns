@@ -24,9 +24,9 @@ Focus: Thorin's giant-raised eyes drink in the first true surface town the party
 
 - The priest explains the monument was funded by the Metalworkers Guild, possibly with Stroud-school sponsorship — though he himself declares proudly "I am a pure Bahamutian" and does not believe in the heresy of the Stroudites.
 
-- When Grygum asks why the Dwarven Stroudite inscription was allowed to remain, the priest concedes it was a gift: "After all, wasn't Travis trying to save us all, regardless of what actually happened in that game of chess?"
+- When Gyrgum asks why the Dwarven Stroudite inscription was allowed to remain, the priest concedes it was a gift: "After all, wasn't Travis trying to save us all, regardless of what actually happened in that game of chess?"
 
-- Grygum donates a gold piece and receives a pewter medallion.
+- Gyrgum donates a gold piece and receives a pewter medallion.
 
 <!-- Move each quote below under the beat where it belongs. -->
 <!-- Remove OOC lines (damage calls, mechanic announcements) before narrating. -->
@@ -44,13 +44,13 @@ GM: "You should notice an inn called the River Shining Tavern. Where you stop fo
 GM: "you arrive in Daggerford. As you're going through Daggerford, you notice a brawn-cast severed forearm, and hand-mounted on a stone pillar in the village square."
 
 <!-- asking for clarification on the monument -->
-Grygum: "I didn't quite catch the description, even."
+Gyrgum: "I didn't quite catch the description, even."
 
 <!-- repeating the description -->
 GM: "The hand… you see a bronze-cast, severed forearm and hound mounted on a stone pillar in the village square."
 
 <!-- examining the monument -->
-Grygum: "A severed forearm, so it's specifically, like, reflecting an injured forearm?"
+Gyrgum: "A severed forearm, so it's specifically, like, reflecting an injured forearm?"
 
 GM: "Yes, yes, severed."
 
@@ -86,13 +86,13 @@ GM: "Yes, yes."
 <!-- noting Travis's allegiance -->
 GM: "What you do notice is, as you look at it carefully, as you look at the Travis Lyons description, you notice that he was a Paladin of Bahamut."
 
-Grygum: "Oh."
-Grygum: "Well, does this mean anything to me as, you know."
+Gyrgum: "Oh."
+Gyrgum: "Well, does this mean anything to me as, you know."
 
 <!-- contextualising the significance -->
 GM: "Well, it's interesting to you that there's a… you know, now that you've noticed that there seems to be some contention about the Stroud event, it's interesting to see a statue dedicated to a Paladin of Bahamut, with a mark… with a statement in Dwarvish, the move is yours."
 
-Grygum: "In Dwarvish. Hmm…"
+Gyrgum: "In Dwarvish. Hmm…"
 
 ### [The Order of the Gauntlet Inscription]
 
@@ -107,57 +107,57 @@ GM: "So, after that, you arrive at dinner. You arrive at the inn."
 GM: "Inside, the village priest walks in, and he's looking very pleased with himself, and carrying a small reproduction medallion of Traverse's hand in a caster… in a cast in a pewter. FOR DONATIONS INTO THE GAUTLET!"
 GM: "Anybody want to buy… to buy a, a, a… Travis Hand cast in Pewter."
 
-Grygum: "That's… are they full size?"
+Gyrgum: "That's… are they full size?"
 
 GM: "No, no, they're small miniature things."
 
-Grygum: "Oh, just, just little charm-like things."
-Grygum: "Sure, sure, I'll donate to… I don't know, what are they asking?"
+Gyrgum: "Oh, just, just little charm-like things."
+Gyrgum: "Sure, sure, I'll donate to… I don't know, what are they asking?"
 
-<!-- the priest noticing Grygum -->
+<!-- the priest noticing Gyrgum -->
 GM: "Well, whatever, whatever, whatever the great Drow- whatever the, whatever you would like, he notices that you're a cleric of a homet. Yes, another one of our fellow clerics!"
 
 <!-- donating -->
-Grygum: "I'll drop in a gold piece."
+Gyrgum: "I'll drop in a gold piece."
 
 <!-- the priest's delight, then his confusion at the party -->
 GM: "You drop it. Well then! Excellent! Excellent!"
 GM: "And he turns to the three of you. You, fair dwarf, and he looks at you. And stares at Daz for a moment. Very confused."
 GM: "Neither of the three of you, and the Dragonborn, so, like, you know, he's kind of, like, very confused. There's a half-orc cleric of Bahamut, a Dragonborn, a dwarf that… You know, and it drows, kind of like the opening scene in a joke."
 
-Grygum: "And they all walk into the inn."
+Gyrgum: "And they all walk into the inn."
 
 <!-- the priest pitching to the rest of the party -->
 GM: "Yeah, they all walk into the inn, so he's like, will any of you fair sirs be willing to buy one of these pewter, one of these, these, is, the, these, hand casts?"
 
-### [Grygum Questions the Priest — Stroudites and the Inscription]
+### [Gyrgum Questions the Priest — Stroudites and the Inscription]
 
 <!-- pressing for more information -->
-Grygum: "Well, I already bought one, but I'd like to hear more about it. What can you tell me?"
+Gyrgum: "Well, I already bought one, but I'd like to hear more about it. What can you tell me?"
 
 <!-- as the priest -->
 GM: "Well, what I can tell… oh, I'm really glad you could hear it. Well, you know, after the war ended, the Order of the Gauntlet set up this massive statue outside in honor of Travis, who sadly passed away in the great battles of the Cult of the Dragon. He was defeated by some corrupt members of our society that had been recruiting a daggerford."
 GM: "The casting was funded two years post-war by a Metal Workers Guild. We may have been Stroud School sponsored, we think, but I do not believe in that heresy of the Stroudites. I am a pure Bahamutian."
 
-Grygum: "Oh, as, as am I. But the inscription here, shares that with Stroud. Why is that?"
+Gyrgum: "Oh, as, as am I. But the inscription here, shares that with Stroud. Why is that?"
 
 <!-- the priest's explanation -->
 GM: "He looks to the left, he looks to the route. Well, I believe the dwar… the mining guild may have been Stroud… there may have been Stroudites. Straudites in the mining guild. Yes. Yes."
 GM: "But it was a gift! And since it was a gift, we decided that the inscription could remain. After all, wasn't Travis trying to save us all, regardless of what actually happened in that game of chess?"
 
-### [Grygum Examines the Statue Further]
+### [Gyrgum Examines the Statue Further]
 
-Grygum: "I… I want to look closer at this… at this statue. Is there anything unusual about it, other than, you know, it being a severed arm?"
+Gyrgum: "I… I want to look closer at this… at this statue. Is there anything unusual about it, other than, you know, it being a severed arm?"
 
 <!-- contextualising the War of the Dragon's reach -->
 GM: "No, it's just a fairly garden-variety statue. I mean, there's… it's, you know, the thing you're drawing is that the war… the War of the Dragon, pretty much affected every community in the North."
 GM: "That's, like, what you're drawing. It's like, every community in the North was hit in some way, shape, or form, right? It, like, either dragons blew them apart, they were attacked by raiding cults, they were burned to the ground, they were pillaged."
 
-Grygum: "I remember seeing parts of that."
+Gyrgum: "I remember seeing parts of that."
 
 <!-- distinguishing Daggerford's particular history -->
 GM: "Right, right. So every part… so every part of the north. So this is just one more example of that going on. What is different is that whereas the blue area on the map was affected by the giant, the post-giant war Uthgardt barbarian hordes, this is not. that they were… the dagger Ford was sufficiently south that the barbarians never made it to it."
 
-Grygum: "So, they were hit by the dragons, but not the barbarians."
+Gyrgum: "So, they were hit by the dragons, but not the barbarians."
 
 GM: "Right."

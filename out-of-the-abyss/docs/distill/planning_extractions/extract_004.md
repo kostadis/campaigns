@@ -35,10 +35,10 @@
 - Provided detailed description of the Darklake: a network stretching over a hundred miles, with duergar-engineered locks and passages, connecting to Gracklstugh, Blingdenstone, and other destinations
 
 **Stool (myconid sprout)**
-- Woke curled against Grygum, expressing fear, loneliness, and attachment
-- Cited Grygum's previous speech as the reason for his trust
-- Extended his hand to Grygum and was accepted as a companion
-- Marched hand-in-hand with Grygum through the Underdark tunnels
+- Woke curled against Gyrgum, expressing fear, loneliness, and attachment
+- Cited Gyrgum's previous speech as the reason for his trust
+- Extended his hand to Gyrgum and was accepted as a companion
+- Marched hand-in-hand with Gyrgum through the Underdark tunnels
 
 **Ront (orc)**
 - Remained behind to fight an injured vrock, motivated by a desire to redeem himself for prior cowardice
@@ -85,7 +85,7 @@
 - **Sloobludop** is approximately eight days' travel from the escape point via Darklake passages (revealed by Shuushar)
 - **Topsy and Turvy are shapeshifters**, capable of transforming into rats — a trait consistent with wererats
 - **The Tongue of Madness mushroom** compels truth-telling in those who consume it (confirmed by Shuushar after the fact)
-- **Stool possesses telepathic abilities** that can be extended to allies; Grygum is consciously cultivating this relationship for tactical advantage
+- **Stool possesses telepathic abilities** that can be extended to allies; Gyrgum is consciously cultivating this relationship for tactical advantage
 
 ---
 
@@ -99,7 +99,7 @@
 | Jimjar | Trapped under rocks in the same cavern |
 | Shuushar | Trapped under rocks in the same cavern |
 | Eldeth | Trapped under rocks in the same cavern |
-| Stool | Traveling with the group; last seen marching with Grygum |
+| Stool | Traveling with the group; last seen marching with Gyrgum |
 | Ront | Deceased; headless corpse on the floor of Velkenyvelve's cavern |
 | Prince Derendil | Deceased; corpse in Velkenyvelve tower, looted |
 | Ilvara | Presumably in her residence at Velkenyvelve; not directly observed |

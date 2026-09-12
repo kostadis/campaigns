@@ -26,7 +26,7 @@
 
 **White Shell Mine time-snagged tunnel**
 - Session: Chapter 39
-- Outcome: Success. A tunnel had become impassable due to magical pressure causing time to snag. Zalthir identified that a Shadow Monk technique was needed to redirect a controlled explosion through shadow space. With Grygum's blessing and gnome explosives, Zalthir executed the maneuver perfectly, shattering the wall without collapsing the tunnels.
+- Outcome: Success. A tunnel had become impassable due to magical pressure causing time to snag. Zalthir identified that a Shadow Monk technique was needed to redirect a controlled explosion through shadow space. With Gyrgum's blessing and gnome explosives, Zalthir executed the maneuver perfectly, shattering the wall without collapsing the tunnels.
 
 ## Resolved Plot Threads
 

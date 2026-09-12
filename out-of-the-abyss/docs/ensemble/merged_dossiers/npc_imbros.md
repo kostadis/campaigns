@@ -13,7 +13,7 @@ chapters: 1-2
 **Current possessions / notable items, spells, feats, wounds:**  
 - Carried Drow Poison (used to kill Prince Derendil)  
 - Trained in Menzoberranzan combat (elite fighter)  
-- Resisted Mind Sliver and necrotic influence from Grygum’s bell  
+- Resisted Mind Sliver and necrotic influence from Gyrgum’s bell  
 - Sustained multiple fatal wounds: struck three times by hand-held crossbows, hit by Shuushar’s crossbow bolt, struck by magic missiles, and ultimately cut down by Sarith’s sword  
 
 **Current assignment / role and key relationships:**  

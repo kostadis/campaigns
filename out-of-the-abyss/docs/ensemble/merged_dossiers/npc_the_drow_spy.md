@@ -15,7 +15,7 @@ chapters: 54-54
 **Key relationships:**  
 - Surveilled by Glabbagool (one eye watching continuously)  
 - Addressed as “Polly Pocket” by Thorin (deliberate humiliation)  
-- Subjected to misinformation regarding prayer beads and Grygum  
+- Subjected to misinformation regarding prayer beads and Gyrgum  
 **Defining recent actions:**  
 - Miniaturized to the size of a child’s toy by a mushroom  
 - Confined in a Bag of Holding with holes poked for air  

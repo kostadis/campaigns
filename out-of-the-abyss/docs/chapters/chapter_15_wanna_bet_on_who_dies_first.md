@@ -2,7 +2,7 @@
 
 
 ## 9th day of the 1st Tenday of Myrtul 1493
-### Grygum
+### Gyrgum
 
 
 The stone giant with the two heads burned and wavered but did not fall. Bahamut’s magic did not kill him. 
@@ -11,7 +11,7 @@ The stone giant with the two heads burned and wavered but did not fall. Bahamut�
 A flash of flame engulfs the giant from two duergars that have come to join the battle. 
 
 
-Startled, Grygum notices that the fire comes from a device they are holding. It is a tube that connects to a bottle on their back. At the front of the tube, a small flame sits outside the tube. He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever. 
+Startled, Gyrgum notices that the fire comes from a device they are holding. It is a tube that connects to a bottle on their back. At the front of the tube, a small flame sits outside the tube. He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever. 
 
 
 “Don’t kill him! There’s something wrong with this giant! Let’s try and subdue him,” shouts Thorin. 
@@ -20,10 +20,10 @@ Startled, Grygum notices that the fire comes from a device they are holding. It 
 A few bolts of magic streak from Daz’s hands. 
 
 
-Grygum looks at Daz, and then looks at the giant, and thinks, “Well, I guess Daz chose to weaken his spell purposely.” 
+Gyrgum looks at Daz, and then looks at the giant, and thinks, “Well, I guess Daz chose to weaken his spell purposely.” 
 
 
-Grygum hears from within the darkness the sound of Zalthir’’s fists hitting the giant and the blade of Thorin, but still, the giant stands. So Grygum rushes in to strike with his mace. 
+Gyrgum hears from within the darkness the sound of Zalthir’’s fists hitting the giant and the blade of Thorin, but still, the giant stands. So Gyrgum rushes in to strike with his mace. 
 
 
 But the Giant stands. 
@@ -32,13 +32,13 @@ But the Giant stands.
 The Duergar, unconvinced by Thorin’s entreaties, kill the giant. 
 
 
-Grygum watches as a distraught Thorin whispers prayers for the dead. 
+Gyrgum watches as a distraught Thorin whispers prayers for the dead. 
 
 
 \*pop\*
 
 
-Grygum looks up, and the enlarged Duergars have shrunk to their standard size. 
+Gyrgum looks up, and the enlarged Duergars have shrunk to their standard size. 
 
 
 ### Thorin
@@ -132,7 +132,7 @@ Zalthir hears Daz ask while holding down a snigger, “So he’s a lighter?”
 Gartokkar is a Duergar, and he is literal and misses the sarcasm, “Yes. The Keepers of the Flame tend to the dragon’s needs. And we are the most prized of the Deepking’s advisors. We need someone like you.” 
 
 
-Zalthir hears Grygum’s joke, “We do have some kindling here.” 
+Zalthir hears Gyrgum’s joke, “We do have some kindling here.” 
 
 
 Gartokkar laughs. “ A joke. I have not heard a good joke in so long.” 
@@ -165,13 +165,13 @@ His friends look at him, and he looks back.
 And so, from just outside the Blade Bazaar, Daz and his odd collection of travelers arrive at the Darklake Brewery.
 
 
-The Brewery is closed to non-Duergar, and Daz is disappointed until Grygum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers. 
+The Brewery is closed to non-Duergar, and Daz is disappointed until Gyrgum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers. 
 
 
-Just outside is a Drow and Halfing, and they are drinking beer. Daz and Grygum approach them. 
+Just outside is a Drow and Halfing, and they are drinking beer. Daz and Gyrgum approach them. 
 
 
-The halfling looks at Grygum, “You must be new.” 
+The halfling looks at Gyrgum, “You must be new.” 
 
 
 “I’m just glad you see an orc and don’t run off scared.’ 

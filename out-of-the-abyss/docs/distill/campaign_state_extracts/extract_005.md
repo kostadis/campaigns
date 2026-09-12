@@ -3,17 +3,17 @@
 ### Giant Centipede Encounter — Underground Cave
 - **Session/Timing:** During flight from Velkynvelve, approximately 5th-6th day of 2nd Tenday of Taraskh 1493
 - **Outcome:** Success — creature killed by Buppido and Sarith's crossbow bolts
-- **Consequences:** Grygum was knocked unconscious but revived; Daz was injured and unconscious from a rockfall but revived by Zalthir; the creature provided potential rations (Sarith shouted "Rations!")
+- **Consequences:** Gyrgum was knocked unconscious but revived; Daz was injured and unconscious from a rockfall but revived by Zalthir; the creature provided potential rations (Sarith shouted "Rations!")
 
 ### Drow Scout Encounter — Hiding Behind Stalagmites
 - **Session/Timing:** Same day, shortly after the centipede fight
 - **Outcome:** Success — party evaded detection
-- **Consequences:** Grygum used Thaumaturgy to create a tremor that convinced the drow scouts (led by Nym) the cave was unstable; the scouts left believing the prisoners had taken a different tunnel. Party avoided direct confrontation per Zalthir's insistence (based on the story of monk Korrh Erann).
+- **Consequences:** Gyrgum used Thaumaturgy to create a tremor that convinced the drow scouts (led by Nym) the cave was unstable; the scouts left believing the prisoners had taken a different tunnel. Party avoided direct confrontation per Zalthir's insistence (based on the story of monk Korrh Erann).
 
 ## NPC State Changes
 
 - **Daz** — knocked unconscious during rockfall, revived by Zalthir; continues with the party
-- **Grygum** — knocked unconscious by the centipede creature, later revived; demonstrated usefulness with Thaumaturgy to fool drow scouts
+- **Gyrgum** — knocked unconscious by the centipede creature, later revived; demonstrated usefulness with Thaumaturgy to fool drow scouts
 - **Sarith Kzekarit** — survived the rockfall (was not under the rocks); serving as guide and navigator; contributing in combat with crossbow; showing annoyance when others help with navigation but grudgingly accepting it
 - **Shuushar the Awakened** — noted discomfort passing through Faerzress; comments that the Faerzress feels different now, like a poison rather than just light
 - **Stool** — riding on Thorin's back due to slow movement speed; using rapport spores to create mind link for the group
@@ -30,7 +30,7 @@
 ## Tracked Items
 
 - **Escape from Velkynvelve — drow outpost:** Completed previously; this chunk covers the ongoing flight/pursuit phase after escape
-- **Drow pursuit level tracked — ongoing:** Active pursuit confirmed. Drow scouts from Velkynvelve (including Nym) have caught up to the party. Party successfully evaded detection this time through hiding and Grygum's Thaumaturgy. Sarith warns that Ilvara has found them and the tunnel system may provide shortcuts for the drow.
+- **Drow pursuit level tracked — ongoing:** Active pursuit confirmed. Drow scouts from Velkynvelve (including Nym) have caught up to the party. Party successfully evaded detection this time through hiding and Gyrgum's Thaumaturgy. Sarith warns that Ilvara has found them and the tunnel system may provide shortcuts for the drow.
 - **Ilvara Mizzrym — drow commander:** Confirmed still actively pursuing the party; Sarith states she has caught up with them
 - **Jorlan Duskryn — drow elite warrior, potential aid to escaping prisoners:** Not mentioned in this chunk
 - **Shoor Vandree — Ilvara's lieutenant:** Not mentioned in this chunk

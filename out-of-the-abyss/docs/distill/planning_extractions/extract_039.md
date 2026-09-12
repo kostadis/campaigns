@@ -6,7 +6,7 @@
 
 **The Pudding King** (gnome, identity not yet named beyond title): Located in a cave illuminated by phosphorescent lichen, seated on a slime-covered throne, holding mad court and speaking of "cleansing Blingdenstone." Confirmed as the source of the disembodied voice filling the ooze cavern, which proclaimed the coming of the Faceless Lord to "enhance" Blingdenstone. Controls hundreds of oozes. Surrounded by green slime covering the ceiling of his chamber, posing a hazard to any extraction attempt.
 
-**Chief Dorbo Diggermattock**: Questioned the party upon their return, expressed alarm upon learning the ooze source was a gnome controlling hundreds of oozes. Dismissed Grygum's battle plan as "the dumbest he had ever heard." Refused to include the Gold Whisker clan in any coordinated response. After Daz seized control of the discussion, agreed to the party's terms and cooperation.
+**Chief Dorbo Diggermattock**: Questioned the party upon their return, expressed alarm upon learning the ooze source was a gnome controlling hundreds of oozes. Dismissed Gyrgum's battle plan as "the dumbest he had ever heard." Refused to include the Gold Whisker clan in any coordinated response. After Daz seized control of the discussion, agreed to the party's terms and cooperation.
 
 **Senni Diggermattock**: Silenced Chief Dorbo when he criticized the party's plan and asked whether he had a better one. Advocated for including the Gold Whisker clan in the operation, citing their abilities as an asset against oozes. Tasked the party with bringing the Gold Whisker clan on board.
 
@@ -45,7 +45,7 @@
 
 - The Pudding King is a gnome who has aligned with Jubilex and controls hundreds of oozes from a slime-covered throne in a phosphorescent cave near the ooze-infested cavern.
 - The disembodied voice heard throughout the ooze territory belongs to the Pudding King.
-- A ghost previously mentioned Jubilex by the epithet "Faceless Lord," describing him as a demon who infuses power to create chaos — Grygum recalled this information during the encounter.
+- A ghost previously mentioned Jubilex by the epithet "Faceless Lord," describing him as a demon who infuses power to create chaos — Gyrgum recalled this information during the encounter.
 - The Pudding King's throne room has green slime covering the ceiling, making any extraction or escape attempt through that space extremely dangerous.
 - Incapacitating the Pudding King without a coordinated distraction would release his ooze army as an uncontrolled force against Blingdenstone.
 - Jubilex's influence appears capable of reaching Glabbagool, suggesting intelligent oozes may be particularly susceptible to demonic compulsion.

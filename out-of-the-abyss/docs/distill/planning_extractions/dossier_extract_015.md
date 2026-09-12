@@ -40,7 +40,7 @@ Suushar is mentioned by Buppido during his desperate plea for his life. Buppido 
 
 ## Dulgir
 
-Dulgir is a duergar merchant at a stall in the Blade Bazaar in Gracklstugh. When Grygum first approaches and tries to sell a mace, Dulgir curses him viciously. But when Grygum shifts to buying instead, Dulgir's demeanor completely changes, and he speaks "with the stilted tongue of a Baldurian patriar." Grygum purchases a new mace from him. When Grygum asks about another merchant who appears to be talking to an invisible brother, Dulgir matter-of-factly states "His brother doesn't exist" — an answer that disturbs Grygum and reinforces his suspicion that madness afflicts the city.
+Dulgir is a duergar merchant at a stall in the Blade Bazaar in Gracklstugh. When Gyrgum first approaches and tries to sell a mace, Dulgir curses him viciously. But when Gyrgum shifts to buying instead, Dulgir's demeanor completely changes, and he speaks "with the stilted tongue of a Baldurian patriar." Gyrgum purchases a new mace from him. When Gyrgum asks about another merchant who appears to be talking to an invisible brother, Dulgir matter-of-factly states "His brother doesn't exist" — an answer that disturbs Gyrgum and reinforces his suspicion that madness afflicts the city.
 
 ## King Hekaton
 

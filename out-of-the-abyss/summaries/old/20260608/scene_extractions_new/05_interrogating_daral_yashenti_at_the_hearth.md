@@ -38,7 +38,7 @@ source: gmassist
 **[GM / Daral]** — *Daral's greeting*
 > "Oh, look, it's Faerûn's most famous detectives! Bookwyrm's brown-nosers, I'm going to call you, because you like to…"
 
-**[Grygum]**
+**[Gyrgum]**
 > "That's not our… that's not our chosen name."
 
 **[GM / Daral]** — *Daral orders drinks*
@@ -100,7 +100,7 @@ source: gmassist
 > "So, a book that is purely enjoyable is not worthwhile, because that's not about knowledge, that's about entertainment."
 
 **[GM / Daral]**
-> "Not entertainment itself is knowledge. I didn't realize you were a scholar! Grygum."
+> "Not entertainment itself is knowledge. I didn't realize you were a scholar! Gyrgum."
 
 **[GM / Daral]** — *taking the book back and the altercation*
 > "Yes, well, I will tell you this, I felt I had no choice but to deprive him of the pleasure he wishes to deprive Candlekeep, and so I took back my book. He took exception to this and sat upon me like a common thug. In defending myself, I may have caught him lightly on the nose."
@@ -108,7 +108,7 @@ source: gmassist
 **[Thorin]**
 > "Where… where's the, this book now?"
 
-**[Grygum]**
+**[Gyrgum]**
 > "Did you, return it to your shelves?"
 
 **[GM / Daral]** — *produces the book*
@@ -120,7 +120,7 @@ source: gmassist
 **[GM / Daral]** — *flips through the pages*
 > "He goes, no, he goes, I'll have you not. He goes, I'll have you not. I was reading it! And then he takes his finger and starts flicking through the pages."
 
-**[Grygum]**
+**[Gyrgum]**
 > "do we notice any change?"
 
 **[Zalthir]**
@@ -132,7 +132,7 @@ source: gmassist
 
 
 **[Thorin]**
-> "Grygum had a way to detect magic. But we split the party, never split the party." 
+> "Gyrgum had a way to detect magic. But we split the party, never split the party." 
 > "We can figure out whether the book actually is the poison or not."
 
 **[GM / Daral]** — *names the suspects, with insults*
@@ -221,7 +221,7 @@ source: gmassist
 > "You also have Dawnbringer standing right next to you, who can also cast Lesser Restoration and Cure Poison."
 
 **[Thorin]** — *wants to verify the poison*
-> "Keep close to us. Grygum went to do some research. Maybe there is a solution."
+> "Keep close to us. Gyrgum went to do some research. Maybe there is a solution."
 
 **[GM]**
 > "So you could just tell them to hang out with you guys."

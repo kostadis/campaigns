@@ -8,7 +8,7 @@
   {
     "type": "npc",
     "subject": "Errde",
-    "fact": "Errde is the head of the Stone Guard, consumed by paranoia and megalomania. She believes the Council of Savants is corrupting the Deepking and seeks to destroy the Derro to reclaim power. Her madness is fueled by selective interpretation of evidence and emotional manipulation. She is easily swayed by Daz\u2019s feigned ignorance and Grygum\u2019s tactical ambiguity, revealing her inability to distinguish truth from narrative. Her desire for control is absolute, and her refusal to send troops into Derro slums exposes her strategic cowardice masked as prudence.",
+    "fact": "Errde is the head of the Stone Guard, consumed by paranoia and megalomania. She believes the Council of Savants is corrupting the Deepking and seeks to destroy the Derro to reclaim power. Her madness is fueled by selective interpretation of evidence and emotional manipulation. She is easily swayed by Daz\u2019s feigned ignorance and Gyrgum\u2019s tactical ambiguity, revealing her inability to distinguish truth from narrative. Her desire for control is absolute, and her refusal to send troops into Derro slums exposes her strategic cowardice masked as prudence.",
     "quote_verified": false
   },
   {
@@ -25,8 +25,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a pragmatic enforcer bound by duty and honor, yet he is also a quiet operator who understands the value of deception when necessary. He is the one who notices subtle details \u2014 Daz\u2019s mind-voice, Werz\u2019s stolen gem, the timing of the Stone Guard\u2019s corruption. He uses blunt questions to expose lies, and he is willing to turn allies into bait. His moral flexibility is tempered by a sense of responsibility; he does not seek power, but he will manipulate the system to achieve his mission. He is the glue holding the group together through ambiguity.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a pragmatic enforcer bound by duty and honor, yet he is also a quiet operator who understands the value of deception when necessary. He is the one who notices subtle details \u2014 Daz\u2019s mind-voice, Werz\u2019s stolen gem, the timing of the Stone Guard\u2019s corruption. He uses blunt questions to expose lies, and he is willing to turn allies into bait. His moral flexibility is tempered by a sense of responsibility; he does not seek power, but he will manipulate the system to achieve his mission. He is the glue holding the group together through ambiguity.",
     "quote_verified": false
   },
   {
@@ -38,7 +38,7 @@
   {
     "type": "npc",
     "subject": "The Flumph",
-    "fact": "The Flumph is a sentient, emotionally volatile entity used as a tool for trauma-dumping and emotional manipulation. It responds to gemstones with color shifts and erratic behavior, making it an unreliable witness. Its \u2018trauma dumps\u2019 are performative, its insights ambiguous, and its loyalty questionable. Daz uses it as a prop to feed Errde\u2019s paranoia, and Grygum steals its gem \u2014 suggesting even the Flumph is not immune to exploitation. It is both victim and weapon in the game of power.",
+    "fact": "The Flumph is a sentient, emotionally volatile entity used as a tool for trauma-dumping and emotional manipulation. It responds to gemstones with color shifts and erratic behavior, making it an unreliable witness. Its \u2018trauma dumps\u2019 are performative, its insights ambiguous, and its loyalty questionable. Daz uses it as a prop to feed Errde\u2019s paranoia, and Gyrgum steals its gem \u2014 suggesting even the Flumph is not immune to exploitation. It is both victim and weapon in the game of power.",
     "quote_verified": false
   },
   {
@@ -103,14 +103,14 @@
   },
   {
     "type": "event",
-    "subject": "Grygum Steals the Flumph\u2019s Gem",
-    "fact": "In a quiet act of subterfuge, Grygum steals the gemstone given to the Flumph. This act is symbolic: he is taking control of the emotional tool used to manipulate Errde. It suggests he is no longer just following Daz\u2019s plan \u2014 he is adapting it. The gem\u2019s color shifts (light blue \u2192 green \u2192 magenta) mirrored the Flumph\u2019s emotional volatility; by stealing it, Grygum seizes the narrative. He is becoming the architect of his own version of the game.",
+    "subject": "Gyrgum Steals the Flumph\u2019s Gem",
+    "fact": "In a quiet act of subterfuge, Gyrgum steals the gemstone given to the Flumph. This act is symbolic: he is taking control of the emotional tool used to manipulate Errde. It suggests he is no longer just following Daz\u2019s plan \u2014 he is adapting it. The gem\u2019s color shifts (light blue \u2192 green \u2192 magenta) mirrored the Flumph\u2019s emotional volatility; by stealing it, Gyrgum seizes the narrative. He is becoming the architect of his own version of the game.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Daz\u2019s Mind-Voice to Grygum",
-    "fact": "Daz communicates directly into Grygum\u2019s mind through the Flumph, revealing his understanding of Werz\u2019s situation: Werz likely ordered an assassination, and now someone else has targeted him. This moment is critical \u2014 it shows Daz is not just observing the chaos, he is diagnosing its root causes. His ability to read the psychological layers of betrayal suggests he has seen this pattern before \u2014 in the Feywild, in the Underdark, in Lolth\u2019s court. He is not surprised. He is disappointed.",
+    "subject": "Daz\u2019s Mind-Voice to Gyrgum",
+    "fact": "Daz communicates directly into Gyrgum\u2019s mind through the Flumph, revealing his understanding of Werz\u2019s situation: Werz likely ordered an assassination, and now someone else has targeted him. This moment is critical \u2014 it shows Daz is not just observing the chaos, he is diagnosing its root causes. His ability to read the psychological layers of betrayal suggests he has seen this pattern before \u2014 in the Feywild, in the Underdark, in Lolth\u2019s court. He is not surprised. He is disappointed.",
     "quote_verified": false
   },
   {
@@ -128,7 +128,7 @@
   {
     "type": "thread",
     "subject": "The Ghost\u2019s Identity",
-    "fact": "The ghost is never named, never explained. Werz is given a gem for it. Grygum takes it. Daz treats it as a tool. Zalthir fears it. Thorin ignores it. The ghost is the silent witness \u2014 perhaps the spirit of a past victim, or a Drow enchantment, or a manifestation of collective guilt. Its true identity is irrelevant. What matters is that it is the only thing that terrifies Werz more than death. The ghost is the embodiment of the cost of betrayal \u2014 and it is always watching.",
+    "fact": "The ghost is never named, never explained. Werz is given a gem for it. Gyrgum takes it. Daz treats it as a tool. Zalthir fears it. Thorin ignores it. The ghost is the silent witness \u2014 perhaps the spirit of a past victim, or a Drow enchantment, or a manifestation of collective guilt. Its true identity is irrelevant. What matters is that it is the only thing that terrifies Werz more than death. The ghost is the embodiment of the cost of betrayal \u2014 and it is always watching.",
     "quote_verified": false
   },
   {
@@ -152,7 +152,7 @@
   {
     "type": "object",
     "subject": "Gemstones",
-    "fact": "Gemstones are the currency of emotion and control in this narrative. They trigger the Flumph\u2019s transformations, serve as bribes, and are stolen as symbols of power. Each gem is a microcosm of the larger game: they appear to be gifts, but are always transactions. The colors \u2014 blue, green, magenta \u2014 reflect shifting loyalties. The fact that Grygum steals one reveals his evolution from follower to manipulator. The gemstones are not valuable for their gold \u2014 they are valuable for what they make people do.",
+    "fact": "Gemstones are the currency of emotion and control in this narrative. They trigger the Flumph\u2019s transformations, serve as bribes, and are stolen as symbols of power. Each gem is a microcosm of the larger game: they appear to be gifts, but are always transactions. The colors \u2014 blue, green, magenta \u2014 reflect shifting loyalties. The fact that Gyrgum steals one reveals his evolution from follower to manipulator. The gemstones are not valuable for their gold \u2014 they are valuable for what they make people do.",
     "quote_verified": false
   },
   {

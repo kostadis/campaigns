@@ -8,11 +8,11 @@ session: 20260608
 
 Fembris Lancer practically vibrated. The adjutant had attached himself to us the way an acolyte attaches to anyone who might be doing something more interesting than copying manuscripts, and he was not going to let us forget the assignment. "I think it's important that we need to go," he said, "we need to go back to the great — the chapter house, and talk to a Bookwyrm, to give her a summary of what happens. After all, don't forget, that is exactly what she asked us to do, to provide a summary of the events."
 
-A summary. Behind me, Grygum was worrying at the word like a loose tooth. "True? I thought we were asked to find out what — well, I guess summarizing the events is pretty much the same as finding out who did it from one."
+A summary. Behind me, Gyrgum was worrying at the word like a loose tooth. "True? I thought we were asked to find out what — well, I guess summarizing the events is pretty much the same as finding out who did it from one."
 
 "I thought, yeah, we had to find out who," I offered, which contributed nothing and was meant to.
 
-"I would make a bad detective," Grygum decided, "because I don't have a perfect memory. All the fictional detectives have perfect memories."
+"I would make a bad detective," Gyrgum decided, "because I don't have a perfect memory. All the fictional detectives have perfect memories."
 
 "I don't know if they do," Thorin said. "I think real detectives just write everything down."
 
@@ -22,7 +22,7 @@ A summary. Behind me, Grygum was worrying at the word like a loose tooth. "True?
 
 I let them have it. I was running a different question, the one Thorin eventually asked aloud as we walked. "Who are we working for, exactly?"
 
-"Justice," said Grygum.
+"Justice," said Gyrgum.
 
 The first rule of any House: know who holds the debt before you decide whether to collect it. Thorin, in his blunt giant-raised way, got to the same place from the other direction. "I guess, who has the power to fire us and tell us to go away?"
 
@@ -36,7 +36,7 @@ The moon elf scribes moved to halt us at the threshold. Bookwyrm waved them off 
 
 "Have you concluded your investigation of the crime scene?" Very serious now.
 
-We had. Grygum confirmed it plainly. Thorin pressed her to keep the room sealed, and she agreed three times over — *of course, of course, of course* — which is two more agreements than a thing requires.
+We had. Gyrgum confirmed it plainly. Thorin pressed her to keep the room sealed, and she agreed three times over — *of course, of course, of course* — which is two more agreements than a thing requires.
 
 Then she took us to a nearby room, Deneir's Sanctum, a little shrine and library given over to the art of writing, and offered it up as our office. Fembris would fetch any witness we named. Vooshadi Moonriver would stand the door — *we wouldn't want anyone the investigators don't want to come in, to come in.* And one more thing, lightly placed: we shouldn't move through Candlekeep without one of them. The library is very easy to get lost in.
 
@@ -44,7 +44,7 @@ I have an alternative reading of generosity, which is that it is rarely free.
 
 "Do we think the room is, like, bugged," I asked the others once we had a moment, "or has, like, secret — like, the stuff we do in there is actually going to be private to us, or do we need —" I kept going, because the offer was too clean. "It's nice and all to offer up that we can use the office, and that they'll go fetch people, and all of those sorts of things, but it's also a little suspect. Like, maybe they're involved, and somehow…"
 
-"It doesn't seem just friendly," Grygum said.
+"It doesn't seem just friendly," Gyrgum said.
 
 I asked him to say it again.
 
@@ -68,11 +68,11 @@ She wanted to know what we'd told her. So did I — it pays to know exactly how 
 
 That is not an idle question. That is a question that wants a name back so it can measure where we're pointed. Thorin deflected — *not quite sure who we're gonna talk to next, but you shouldn't read into that* — and I gave her one harmless witness to chew on, Ms. Hollypocket, whom we'd already seen anyway. A name that costs nothing tells you what the asker does with a name.
 
-What she did was want Sylvira Savikas. She never said it. She didn't have to; the want came off her like heat off the smelters. Someone had impersonated Sylvira — Grygum thought it made perfect sense, and tactically it did, the impersonated woman might know who would wear her face. It also meant the most powerful person in this building had a strong, unstated preference about where we aimed first.
+What she did was want Sylvira Savikas. She never said it. She didn't have to; the want came off her like heat off the smelters. Someone had impersonated Sylvira — Gyrgum thought it made perfect sense, and tactically it did, the impersonated woman might know who would wear her face. It also meant the most powerful person in this building had a strong, unstated preference about where we aimed first.
 
 I sorted it: *Bookwyrm steers toward Sylvira.* I had no idea yet whether that was the helpful instinct of someone who wants the thing solved, or a hand on the rudder of an investigation she'd rather not have pointed at herself. Both ledgers stayed open on that one too.
 
-Then the practical question — together or apart. Thorin liked us as a wall. "It's more imposing to have all, like, you know, four, five, seven, eight, ten of us show up in a room." Grygum wanted to start together and branch later. The arithmetic was simple enough: split, and we cover the poison and Sylvira at once, but each of us walks into his own conversation alone, no second pair of hands to steady the work.
+Then the practical question — together or apart. Thorin liked us as a wall. "It's more imposing to have all, like, you know, four, five, seven, eight, ten of us show up in a room." Gyrgum wanted to start together and branch later. The arithmetic was simple enough: split, and we cover the poison and Sylvira at once, but each of us walks into his own conversation alone, no second pair of hands to steady the work.
 
 "Since we're separated, if we roll, we got what we got," Thorin said.
 

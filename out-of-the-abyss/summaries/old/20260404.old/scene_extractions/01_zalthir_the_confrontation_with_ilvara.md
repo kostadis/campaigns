@@ -23,7 +23,7 @@ The battlefield shrank below as Zalthir committed fully — if this failed, the 
 **The First Critical Strike**
 Zalthir: "Crit."
 Thorin (Joe): "Tell me fish... about Nazis, punch them, I mean, why not, right?"
-Ben Pfaff (Grygum): "Nazis? I hate those guys."
+Ben Pfaff (Gyrgum): "Nazis? I hate those guys."
 Holding Ilvara aloft with one hand, Zalthir drove a devastating blow into her with the other — a perfect, crushing strike that connected with the full force of his momentum. The hit rang through the air above the cavern.
 A moment of savage triumph suspended forty feet above the ground, allies cheering from below.
 

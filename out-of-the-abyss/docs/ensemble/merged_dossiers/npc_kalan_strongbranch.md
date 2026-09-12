@@ -11,7 +11,7 @@ chapters: 55-61
 **Current Location:** Candlekeep, overseeing the Alkrist safe and Deneir’s Sanctum  
 **Allegiance/Faction:** Head of the Avowed, reinstated by Bookwyrm; formally aligned with Candlekeep’s institutional authority  
 **Current Possessions / Notable Items:**  
-- No longer possesses the second key to the Hightower Library (transferred to Grygum prior to his disappearance; key’s current location unknown)  
+- No longer possesses the second key to the Hightower Library (transferred to Gyrgum prior to his disappearance; key’s current location unknown)  
 - Holds procedural authority over the investigation into Janussi’s murder  
 - In possession of the full, unfiltered confession of Alkrist  
 - Has access to the Threefold Proof methodology (his own rejected framework, now institutionalized as the investigation’s foundation)  
@@ -30,7 +30,7 @@ chapters: 55-61
 - Was rejected and humiliated by Sylvira Savikas and Bookwyrm; now uses their own deception against them  
 
 **Defining Recent Actions:**  
-- Transferred the Hightower key to Grygum to prevent its retrieval via summoning magic after death  
+- Transferred the Hightower key to Gyrgum to prevent its retrieval via summoning magic after death  
 - Was fired by Janussi for mental decline and negligence, but later reinstated after the murder investigation concluded  
 - Used the adventurers’ evidence to construct a case against Bookwyrm, framing it as validation of his own rejected Threefold Proof methodology  
 - Refused to use stealth or coercion against Bookwyrm, insisting on a public, procedural confrontation to preserve institutional legitimacy  
@@ -46,6 +46,6 @@ chapters: 55-61
 ## Uncertainty  
 - Contradiction: Was Kalan fired *before* or *after* Janussi’s death? Ch56 says he was asked to resign the morning of the murder; Ch60 and Ch61 imply he was fired and later reinstated after the murder investigation. The later reinstatement (Ch61) overrides, but the exact timing of the firing relative to the murder is ambiguous.  
 - Ambiguous Attribution: Ch61 says Bookwyrm asked Kalan to “take your position once more,” implying she reinstated him — but Ch60 and Ch61 also suggest the adventurers orchestrated his reinstatement. Who initiated the reinstatement?  
-- Unclear Current Status of Key: The second Hightower key was given to Grygum (Ch58), but Grygum’s current status is unknown. Is the key still with Grygum? Is it lost? The dossier cannot confirm.  
+- Unclear Current Status of Key: The second Hightower key was given to Gyrgum (Ch58), but Gyrgum’s current status is unknown. Is the key still with Gyrgum? Is it lost? The dossier cannot confirm.  
 - Unclear: Was Kalan ever truly removed from the Hightower key’s custody before transferring it? Ch57 implies he held it until Janussi’s death; Ch58 says he transferred it. No contradiction, but the exact moment of transfer is not pinned to a timeline.  
 - Ambiguous Motivation: Is Kalan’s refusal to sneak a Zone of Truth truly principled, or is it a calculated move to appear above reproach while still setting Bookwyrm up for failure? The text implies both, but the true driver is unconfirmed.

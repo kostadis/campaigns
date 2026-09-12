@@ -10,37 +10,37 @@ from: ../scene_extractions/04_confrontation_at_the_high_tower.md
 
 *The party engages in a high-stakes battle against A'lai Aivenmore and his Zhentarim thugs, punctuated by a dramatic villain monologue and a daring theft of the sapphire.*
 
-- Grygum attempts to surprise A'lai Aivenmore with a Guiding Bolt (Stealth 16, but the DM declares A'lai's Passive Perception is also 16 — he does not notice). The attack roll is a 13 plus modifier, but A'lai's mage armor deflects it.
-- Initiative order: Daz (20), A'lai's minions (19), Thorin (15), Grygum (13), A'lai (unknown), Zalthir.
+- Gyrgum attempts to surprise A'lai Aivenmore with a Guiding Bolt (Stealth 16, but the DM declares A'lai's Passive Perception is also 16 — he does not notice). The attack roll is a 13 plus modifier, but A'lai's mage armor deflects it.
+- Initiative order: Daz (20), A'lai's minions (19), Thorin (15), Gyrgum (13), A'lai (unknown), Zalthir.
 - Daz casts Maximilian's Earthen Grasp (2nd level) on A'lai; A'lai uses his reaction to Counterspell it. Daz is surprised: "He can counterspell?"
 - Daz recasts the same spell next turn, forcing A'lai to either burn another 3rd-level counterslot or take the hit. The DM: "Now he has to think. Oh, but you see, there's another advantage of that. If he casts the spell, he can't cast another spell this turn. You can only cast a cantrip." A'lai fails his save and takes 15 points of bludgeoning damage, becoming restrained.
 - A'lai uses Misty Step — which works despite restraint because "Misty Step allows you to… I think you can" — to teleport across the room and escape. The DM confirms: "But you did force him to burn one of his spells, so he can't cast a fireball, for example, or a lightning bolt."
 - A'lai retaliates with Arcane Burst (a cantrip rework of the 5th Edition archmage template). He hits Daz for 26 points of damage with two bursts, then turns on Zalthir, missing once but landing a third burst for 29 points of damage.
-- A'lai pauses the violence. "You've been so thorough. I want that on the record before anything else happens, because I don't expect either of us will have time for compliments." Grygum: "I mean, I also accept constructive criticism."
-- A'lai's monologue: "Janussi gave me 10 days! Do you understand what he was offering me? Mercy! Genuinely, he thought 10 days was kind!" He describes having "a chair" as his only possession and the threat of losing it driving him to extremes. Grygum: "I understand now, you didn't… you were going to lose your, you know, your academic honor and privilege." A'lai: "Right! Exactly! Thank you!"
-- Grygum, testing: "We should let this guy go. It's all justified." A'lai: "Thank you! Thank you!"
+- A'lai pauses the violence. "You've been so thorough. I want that on the record before anything else happens, because I don't expect either of us will have time for compliments." Gyrgum: "I mean, I also accept constructive criticism."
+- A'lai's monologue: "Janussi gave me 10 days! Do you understand what he was offering me? Mercy! Genuinely, he thought 10 days was kind!" He describes having "a chair" as his only possession and the threat of losing it driving him to extremes. Gyrgum: "I understand now, you didn't… you were going to lose your, you know, your academic honor and privilege." A'lai: "Right! Exactly! Thank you!"
+- Gyrgum, testing: "We should let this guy go. It's all justified." A'lai: "Thank you! Thank you!"
 - A'lai reveals he's been stealing books for 11 years for an unknown master — "a list arrives, I fill it" — and describes the courier's metal hand under a glove. "His name is Manshoon. You have not heard of it. That is not an accident. It is a career."
-- Grygum and Daz both roll History (22 and 21 respectively). The DM: "You pause and go, but that's not possible." They recognize Manshoon: the Zhentarim, Zhentil Keep, a wizard who has been dead more than once.
+- Gyrgum and Daz both roll History (22 and 21 respectively). The DM: "You pause and go, but that's not possible." They recognize Manshoon: the Zhentarim, Zhentil Keep, a wizard who has been dead more than once.
 - Daz: "Well, if he's been dead more than once, then maybe he's gonna be dead one more time."
 - A'lai produces the sapphire and threatens to smash it. Daz uses Telekinesis (5th level) to snatch it from his grasp — A'lai fails a strength save against DC 17. The DM: "Alright, so you managed to wrench the artifact out of his hands."
-- Daz uses Sleight of Hand (19) to secretly pass the sapphire to Grygum while feigning a retreat. The DM notes the irony: Grygum had given Daz a fake key earlier, and now Daz is hiding the real sapphire on Grygum.
+- Daz uses Sleight of Hand (19) to secretly pass the sapphire to Gyrgum while feigning a retreat. The DM notes the irony: Gyrgum had given Daz a fake key earlier, and now Daz is hiding the real sapphire on Gyrgum.
 - A'lai, enraged, unleashes a flurry of arcane bursts. Zalthir takes multiple hits and is knocked unconscious. Glabbagool stands over the fallen monk protectively.
 - Thorin engages the raiders. He strikes one with Dawnbringer (13 points of damage) and uses Menacing Attack (DC 16 Wisdom save — the thug resists). Second attack hits for 8 additional points.
-- Grygum charges forward and casts Tasha's Caustic Brew (Dexterity save DC 17 — both thugs fail). One raider takes 8 acid damage at the start of his turn and dies instantly; the other takes 2 damage and is still standing, coated in acid that will continue to burn.
+- Gyrgum charges forward and casts Tasha's Caustic Brew (Dexterity save DC 17 — both thugs fail). One raider takes 8 acid damage at the start of his turn and dies instantly; the other takes 2 damage and is still standing, coated in acid that will continue to burn.
 - The session ends with the remaining thug on his feet, soaked in acid, and A'lai Aivenmore still at large in the room.
 
 ## Verbatim moments
 
-**[Grygum]** — *preparing spells before the assault*
+**[Gyrgum]** — *preparing spells before the assault*
 > "I'll cast Bless on… the three of us who are here."
 
-**[Grygum]** — *deciding to target A'lai over the thugs*
+**[Gyrgum]** — *deciding to target A'lai over the thugs*
 > "I'm more worried about the wizard than about these raiders. We can… we're probably more than a match for them."
 
 **[GM]** — *warning about A'lai's power*
 > "Yes, just to put things in perspective, A'lai Aivenmore is a pretty powerful wizard. So keep that in mind. But, like all powerful wizards, he's also more obsessed with staying alive than he is fighting to the death."
 
-**[Grygum]** — *settling on the plan*
+**[Gyrgum]** — *settling on the plan*
 > "So, should I, should I try to cast a spell now? I was thinking Guiding Bolt, toward…"
 > "toward A'lai."
 
@@ -48,19 +48,19 @@ from: ../scene_extractions/04_confrontation_at_the_high_tower.md
 > "Yeah, and I'm… I'm happy to sort of distract and try and kite the thugs a little bit."
 
 **[The Surprise Guiding Bolt]**
-- Grygum tries to surprise A'lai with Guiding Bolt at 120-foot range.
-- Grygum rolls Stealth 16.
+- Gyrgum tries to surprise A'lai with Guiding Bolt at 120-foot range.
+- Gyrgum rolls Stealth 16.
 - The GM declares A'lai's passive perception is 16 — "No, he does not notice you."
-- Grygum rolls to hit and gets a 13; A'lai's mage armor deflects it.
+- Gyrgum rolls to hit and gets a 13; A'lai's mage armor deflects it.
 
-**[Grygum]** — *on his lousy roll*
+**[Gyrgum]** — *on his lousy roll*
 > "Okay, I sort of jumped the gun on that, so I got a… I got a 13, which is lousy, oops."
 
 **[GM]** — *mage armor saves A'lai*
 > "Yes, but he is a wizard. Not used to fighting. But he does have mage armor, so the spell does not affect him."
 
 **[Roll for Initiative]**
-- The party rolls for initiative; Daz rolls 20, Thorin 15, Grygum 13.
+- The party rolls for initiative; Daz rolls 20, Thorin 15, Gyrgum 13.
 - The GM struggles with technical difficulties in the initiative tracker.
 - A'lai's minion is set at 19.
 
@@ -145,11 +145,11 @@ from: ../scene_extractions/04_confrontation_at_the_high_tower.md
 > "And then, after he does that — he stops."
 > "You've been so thorough. I want that on the record before anything else happens, because I don't expect either of us will have time for compliments. In the moment."
 
-**[Grygum]** — *accepting the compliment*
+**[Gyrgum]** — *accepting the compliment*
 > "Oh, I always have time for compliments."
 > "I mean, I also accept constructive criticism."
 
-**[Grygum]** — *probing the villain*
+**[Gyrgum]** — *probing the villain*
 > "Oh, sorry, I'm just being a smartass, but why did you feel a need to kill everybody? What, is it just megalomania?"
 > "Are you just trying to improve your impact factor in the journals?"
 
@@ -161,7 +161,7 @@ from: ../scene_extractions/04_confrontation_at_the_high_tower.md
 > "He goes, ju— He goes, you too?"
 > "He pauses. He stands up, he goes — Janussi gave me 10 days! Do you understand what he was offering me? Mercy! Genuinely, he thought 10 days was kind!"
 
-**[Grygum]** — *asking for context*
+**[Gyrgum]** — *asking for context*
 > "10 days for what?"
 
 **[GM]** — *the chair*
@@ -173,13 +173,13 @@ from: ../scene_extractions/04_confrontation_at_the_high_tower.md
 **[GM]** — *A'lai's confession*
 > "Yes. I didn't set out to be a murderer. I didn't set out to be exiled."
 
-**[Grygum]** — *understanding*
+**[Gyrgum]** — *understanding*
 > "I understand now, you didn't… you were going to lose your academic honor and privilege."
 
 **[GM]** — *A'lai's gratitude*
 > "Right! Exactly!"
 
-**[Grygum]** — *testing the villain*
+**[Gyrgum]** — *testing the villain*
 > "We should let this guy go. It's all justified."
 
 **[GM]** — *A'lai eats it up*
@@ -192,7 +192,7 @@ from: ../scene_extractions/04_confrontation_at_the_high_tower.md
 > "He goes… You keep saying, I!"
 > "I have been removing books from this library for 11 years, and I have never once chosen which ones. A list arrives, I fill it. The courier who brings the list wears a glove on his right hand, and under the glove the hand is metal, and I have never in 11 years worked up the nerve to ask why."
 
-**[Grygum]** — *asking who's behind it*
+**[Gyrgum]** — *asking who's behind it*
 > "Who… who do you work for, then?"
 
 **[GM]** — *naming Manshoon*
@@ -204,7 +204,7 @@ from: ../scene_extractions/04_confrontation_at_the_high_tower.md
 
 **[The History Checks]**
 - The GM calls for a history check.
-- Grygum rolls 22, Daz rolls 21.
+- Gyrgum rolls 22, Daz rolls 21.
 - The GM: "You pause and go, but that's not possible."
 - They recognize Manshoon: the Zhentarim, the Moonsea, the man who owned Zhentil Keep, a wizard who has been dead more than once.
 
@@ -240,25 +240,25 @@ from: ../scene_extractions/04_confrontation_at_the_high_tower.md
 **[GM]** — *the theft succeeds*
 > "Alright, so I have to roll… okay, so you managed to wrench the artifact out of his hands."
 
-**[Grygum]** — *admiring the play*
+**[Gyrgum]** — *admiring the play*
 > "You, you have the useful spell. I wish I'd had something like that. Good job, though."
 
 **[The Sleight of Hand Handoff]**
-- Daz plans to feign a retreat down the hallway while secretly handing the sapphire to Grygum.
+- Daz plans to feign a retreat down the hallway while secretly handing the sapphire to Gyrgum.
 - Daz uses Misty Step (his only bonus-action spell) to reposition.
 - Daz rolls Sleight of Hand 19 so nobody notices the handoff.
 
 **[Daz]** — *the plan*
-> "So, I think what I'm gonna do is duck back into the hallway and make it look like I'm running away, but I'm actually gonna hand Grygum the… the thing — but I'm gonna do it with sleight of hand, so that somebody watching me doesn't know."
-> "I'm gonna accidentally run into Grygum, but instead of pickpocketing him, actually make sure that he knows that he has the gem, because he has the other key, and that way, if the key shows up there, he'll have both."
+> "So, I think what I'm gonna do is duck back into the hallway and make it look like I'm running away, but I'm actually gonna hand Gyrgum the… the thing — but I'm gonna do it with sleight of hand, so that somebody watching me doesn't know."
+> "I'm gonna accidentally run into Gyrgum, but instead of pickpocketing him, actually make sure that he knows that he has the gem, because he has the other key, and that way, if the key shows up there, he'll have both."
 
 **[Daz]** — *the roll*
 > "Yeah, nobody notices, because I rolled a 19 on my sleight of hand."
 
 **[GM]** — *the irony*
-> "Laughing at the fact that Grygum gave Daz the fake key earlier, and now Daz is faking the sapphire to Grygum."
+> "Laughing at the fact that Gyrgum gave Daz the fake key earlier, and now Daz is faking the sapphire to Gyrgum."
 
-**[Grygum]** — *tallying his inventory*
+**[Gyrgum]** — *tallying his inventory*
 > "I now have one key and one sapphire."
 
 **[A'lai's Enraged Flurry]**
@@ -306,22 +306,22 @@ from: ../scene_extractions/04_confrontation_at_the_high_tower.md
 > "He did."
 > "Well, he's the thug, he's a… He's a Zhentarim thug."
 
-**[Grygum's Caustic Brew]**
-- Grygum charges forward and casts Tasha's Caustic Brew, targeting both thugs.
+**[Gyrgum's Caustic Brew]**
+- Gyrgum charges forward and casts Tasha's Caustic Brew, targeting both thugs.
 - Both fail their Dexterity save (DC 17).
 - One thug takes 8 damage at the start of his turn and dies; the other takes 2 and survives, coated in acid.
 
-**[Grygum]** — *casting*
+**[Gyrgum]** — *casting*
 > "So, I am going to charge forward here, and then cast Tasha's Caustic Brew, attempting to get to both of the thugs."
 > "So, let's see… They need to get us a 17 dexterity save to avoid getting covered."
 
 **[GM]** — *both fail*
 > "They blow both of their saving throws."
 
-**[Grygum]** — *the ongoing acid*
+**[Gyrgum]** — *the ongoing acid*
 > "Scrape it off, they take 2 die 4 damage. Oh, this is a concentration spell, so I think I have to end the blessing."
 
-**[Grygum]** — *rolling the acid damage*
+**[Gyrgum]** — *rolling the acid damage*
 > "8 on one of them."
 > "And 2 on the other."
 
@@ -331,5 +331,5 @@ from: ../scene_extractions/04_confrontation_at_the_high_tower.md
 **[GM]** — *ending the session*
 > "Alright, and we will stop here."
 
-**[Grygum]** — *noting the survivor's state*
+**[Gyrgum]** — *noting the survivor's state*
 > "I will note that they're covered in acid."

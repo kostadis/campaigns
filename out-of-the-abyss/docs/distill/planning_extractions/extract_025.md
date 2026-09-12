@@ -1,7 +1,7 @@
 ## NPC Activity
 
 **Skiit**
-A lone Derro found tossing body parts into a pit. Wore an amulet of Demogorgon. Interacted with Grygum, initially fearful, then defiant when Grygum's intimidation failed. Declared loyalty to Demogorgon and accused the party of working for the Duergar or Mindflayers. Was pushed into the pit by Grygum, survived the fall, was then subjected to Maximillian's Earthen Grasp by Daz, escaped the crush, and was finally killed by Daz's Toll the Dead spell.
+A lone Derro found tossing body parts into a pit. Wore an amulet of Demogorgon. Interacted with Gyrgum, initially fearful, then defiant when Gyrgum's intimidation failed. Declared loyalty to Demogorgon and accused the party of working for the Duergar or Mindflayers. Was pushed into the pit by Gyrgum, survived the fall, was then subjected to Maximillian's Earthen Grasp by Daz, escaped the crush, and was finally killed by Daz's Toll the Dead spell.
 
 **Ulnara**
 A Derro necromancer identified as the leader of the zombie pit operation, serving the Council of Savants and described as working for "the great project of Ulnara." Emerged from a tunnel in the pit flanked by an Ogre Zombie. Confronted the party demanding identification. Upon witnessing Daz kill Skiit and recognizing Daz as Drow, her arrogant demeanor collapsed into fearful subservience. Offered to tell Pliinki that she assisted the Ember Vanguard. Last seen at the pit location, cooperative and deferential.

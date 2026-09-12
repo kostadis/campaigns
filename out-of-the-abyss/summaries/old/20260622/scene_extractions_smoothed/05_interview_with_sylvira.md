@@ -83,7 +83,7 @@ from: ../scene_extractions_new/05_interview_with_sylvira.md
 **[Daz]** — *probes for motive and unpublished research*
 > Yeah, what I'm trying to get at is — are you just somebody of convenience that someone thought they could frame? Or do you have some big research proposal, some big outcome about to come out, or have you uncovered anything recently you haven't published yet that somebody may know about?
 
-**[Grygum]** — *clarifying the question*
+**[Gyrgum]** — *clarifying the question*
 > "Is there a motive here?"
 
 **[Daz]** — *on time in the Overbright*
@@ -131,7 +131,7 @@ from: ../scene_extractions_new/05_interview_with_sylvira.md
 **[GM / Sylvira]** — *on the dead winter feast*
 > "It was the same drab affair, right down to the dishes as every year. At any rate, I didn't stay until the end as I started feeling the flu coming down."
 
-**[Grygum]** — *prompts about Alkrist burning something at the feast*
+**[Gyrgum]** — *prompts about Alkrist burning something at the feast*
 > "So there was something about Alkrist burning something at the feast — does she know anything about that? Somebody should ask."
 
 **[GM / Sylvira]** — *recalls the question about being seen, reveals visiting her son*
@@ -164,7 +164,7 @@ from: ../scene_extractions_new/05_interview_with_sylvira.md
 **[GM / Sylvira]** — *the abyssal plague from her son*
 > My son... was born in the abyss, is an abyssal spawn, and he infected me with an abyssal plague. If you must know the truth. And sadly, my flu has worsened — and if anyone claims to have seen me after that, there are members of the avowed, Great Readers included, who foster hatred against me. You should be looking at Teles Ahvoste, not at me.
 
-**[Grygum]** — *asks about motives*
+**[Gyrgum]** — *asks about motives*
 > "Why don't you ask what Kalan Strongbranch's motive is?"
 
 **[Daz]**

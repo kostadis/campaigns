@@ -2,7 +2,7 @@
 scene: The Long Descent
 source: voice-smoothed
 from: ../scene_extractions/01_the_long_descent.md
-divergence: "Grygum 'Just to be…' + Zalthir 'Clear, though…' merged into one Grygum block (GM ruling s01-q08, 2026-08-28). This layer has one fewer block than the verbatim."
+divergence: "Gyrgum 'Just to be…' + Zalthir 'Clear, though…' merged into one Gyrgum block (GM ruling s01-q08, 2026-08-28). This layer has one fewer block than the verbatim."
 ---
 
 # The Long Descent
@@ -20,8 +20,8 @@ divergence: "Grygum 'Just to be…' + Zalthir 'Clear, though…' merged into one
 - Zalthir successfully catches Thorin mid-air about 500 feet down: "he's, like, holding onto you, giving you a hug, and you're, like... and Glabbagool is, like, saying one should always be Zen."
 - Glabbagool offers philosophical commentary, wondering aloud if there is too much hugging. Thorin: "I mean, Glabbagool's all about the hugging, let's be clear."
 - Thorin checks his fate: "GM, am I dead?" The GM confirms he is not.
-- The rest of the party jumps down after Thorin and Zalthir shout up that there is a feather-fall zone further below. Grygum is nervous: "Oh, God, that's gonna be hard for me... I'll just say a quick prayer... And hope that the featherfall works for me, too."
-- Grygum invokes the peer-pressure trope: "If all your friends jumped off the stairs, would you?" Daz: "Yeah." Grygum: "Just to be..." The GM: "That... isn't that the whole point of adventure?"
+- The rest of the party jumps down after Thorin and Zalthir shout up that there is a feather-fall zone further below. Gyrgum is nervous: "Oh, God, that's gonna be hard for me... I'll just say a quick prayer... And hope that the featherfall works for me, too."
+- Gyrgum invokes the peer-pressure trope: "If all your friends jumped off the stairs, would you?" Daz: "Yeah." Gyrgum: "Just to be..." The GM: "That... isn't that the whole point of adventure?"
 - Daz's reasoning for jumping: "I mean, I don't want to get split from the party. My whole, like, trying to hold the thing up and save us all didn't work, so..."
 - Edvaldo the scholar jumps too, declaring: "I intend to write a very long monograph." The GM: "I'm beginning to sense that monographs are the thing that everybody likes to write here."
 - The fall drops another 500 feet before hitting a featherfall zone — Zalthir: "So there was no danger here." The GM: "Nope."
@@ -56,18 +56,18 @@ divergence: "Grygum 'Just to be…' + Zalthir 'Clear, though…' merged into one
 > "Alright, okay — so you are falling."
 > "That is your problem."
 
-**Grygum** — *searching his spell list for a rescue*
+**Gyrgum** — *searching his spell list for a rescue*
 > "And I think I had already checked to see if I have anything I can do about that. Let me…"
 > "Let me look one more time, though."
 > "It's not on my regular spell list."
 
-**Grygum** — *considering options*
+**Gyrgum** — *considering options*
 > "This gust of wind wouldn't help."
 
-**Grygum** — *conceding*
+**Gyrgum** — *conceding*
 > "Nothing."
 
-**GM** — *closing the door on Grygum's options*
+**GM** — *closing the door on Gyrgum's options*
 > "You have nothing."
 
 **GM** — *misnaming the faller*
@@ -172,7 +172,7 @@ divergence: "Grygum 'Just to be…' + Zalthir 'Clear, though…' merged into one
 > "Well, this is where I have to look up the rules."
 > "How fast does a character fall in 5th edition?"
 
-**Grygum** — *needling Zalthir*
+**Gyrgum** — *needling Zalthir*
 > "Are… are you trying to say you can fall faster than him?"
 
 **Zalthir** — *arguing movement math*
@@ -216,14 +216,14 @@ divergence: "Grygum 'Just to be…' + Zalthir 'Clear, though…' merged into one
 **GM** — *settling the geometry*
 > "Right, right, right. So that's what I'm saying: you can't catch up with him as he's falling, but you can definitely catch up with him — because it turns out there's a… you've just fallen 500 feet, and you're still falling."
 
-**Grygum** — *taking stock*
+**Gyrgum** — *taking stock*
 > "That's really far."
 > "I… I think… Are any of us not falling?"
 
 **GM** — *confirming the rest are safe*
 > "Yes, the rest of you managed to scramble — Daz is still using telekinesis to keep everything in place."
 
-**Grygum** — *observing from above*
+**Gyrgum** — *observing from above*
 > "Watching. Wow, guys."
 
 **Zalthir** — *asking for help mid-air*
@@ -280,7 +280,7 @@ divergence: "Grygum 'Just to be…' + Zalthir 'Clear, though…' merged into one
 **Zalthir** — *proposing*
 > "How about we go gracefully down and just see what's there?"
 
-**Grygum** — *calling down the shaft*
+**Gyrgum** — *calling down the shaft*
 > "Hey, you guys okay down there?"
 
 **Zalthir** — *calling back*
@@ -295,7 +295,7 @@ divergence: "Grygum 'Just to be…' + Zalthir 'Clear, though…' merged into one
 **GM** — *the avowed scholar's reaction*
 > "The Avowed — the Avowed guy that you've dragged around — raises an eyebrow. [as Edvaldo] Come back!"
 
-**Grygum** — *shouting (truncated)*
+**Gyrgum** — *shouting (truncated)*
 > "…up for us!"
 
 **Zalthir** — *rationalizing*
@@ -318,23 +318,23 @@ divergence: "Grygum 'Just to be…' + Zalthir 'Clear, though…' merged into one
 **GM** — *shrugging*
 > "Nope, I just, you know…"
 
-**Grygum** — *relieved*
+**Gyrgum** — *relieved*
 > "Phew."
 
 **GM** — *prompting*
 > "So I guess you shout to everybody."
 
-**Grygum** — *dreading the jump*
+**Gyrgum** — *dreading the jump*
 > "Oh, God, that's gonna be hard for me."
 
 **Zalthir** — *offering*
 > "Literally? Like, should someone push you, or…"
 
-**Grygum** — *steeling himself*
+**Gyrgum** — *steeling himself*
 > "Yeah, I might… oh, you know—"
 > "I'll just say a quick prayer, and I don't know… Take it from me."
 
-**Grygum** — *jumping on faith*
+**Gyrgum** — *jumping on faith*
 > "And… and hope that the featherfall works for me, too."
 
 **GM** — *turning to Daz*
@@ -344,7 +344,7 @@ divergence: "Grygum 'Just to be…' + Zalthir 'Clear, though…' merged into one
 > "Yeah, I mean, I don't want to get split from the party."
 > "My whole, like, trying to hold the thing up and save us all didn't work, so…"
 
-**Grygum** — *invoking the parental classic*
+**Gyrgum** — *invoking the parental classic*
 > "If all your friends jumped off the stairs, would you?"
 
 **Daz** — *answering*
@@ -356,13 +356,13 @@ divergence: "Grygum 'Just to be…' + Zalthir 'Clear, though…' merged into one
 **GM** — *reframing*
 > "I mean… isn't that the whole point of adventure?"
 
-**Grygum** — *checking on the crowd above*
+**Gyrgum** — *checking on the crowd above*
 > "Just to be clear, though — do the 50 scholars behind us jump too, or do they hang out up there?"
 
 **GM** — *clarifying*
 > "No, no — only one of the scholars is with you."
 
-**Grygum** — *confirming*
+**Gyrgum** — *confirming*
 > "Yeah, I think only one came before."
 
 **GM** — *voicing the scholar, then catching himself*

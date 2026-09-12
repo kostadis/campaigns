@@ -8,7 +8,7 @@
   - No blood spray — Janussi was already dead before chest was opened
   - Killer worked at leisure, with no rush (tempo of the killer established: had time)
   - No defensive wounds
-- Black substance on left forefinger, center of lower lip, and tip of tongue — poison ingested, confirmed twice over (finger and tongue blackened); darker than any ink; definitively NOT the blue ink (Grygum checked twice)
+- Black substance on left forefinger, center of lower lip, and tip of tongue — poison ingested, confirmed twice over (finger and tongue blackened); darker than any ink; definitively NOT the blue ink (Gyrgum checked twice)
 - Glabbagool attempted to identify the black poison substance — failed even after a second pass; could not name it, but confirmed something dangerous about it
 - Blue ink stains on right (writing-hand) sleeve and cuff — Janussi had been taking notes when killed
 - Chipped front tooth (fresh, jagged) and broken nose — both occurred via face-first fall and assault BEFORE death (bruising proves nose broke while alive)

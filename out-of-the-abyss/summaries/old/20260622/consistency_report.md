@@ -30,7 +30,7 @@
 
 **Location:** NPCs (Glabbagool entry); implicitly in Memorable Moments and Summary
 
-**Issue:** The NPCs section calls Glabbagool "An intelligent gelatinous cube serving as Grygum's 'secretary.'" Glabbagool is no longer a gelatinous cube.
+**Issue:** The NPCs section calls Glabbagool "An intelligent gelatinous cube serving as Gyrgum's 'secretary.'" Glabbagool is no longer a gelatinous cube.
 
 **Evidence:** `campaign_state.md` completed encounter 38: *"Glabbagool body-swapped into an ooze form."* Current NPC status: *"Alive (ooze form)."* `world_state.md` allies table: *"Active; now a grey ooze, permanently bonded to Zalthir's forearm."* The transformation is permanent and canon.
 
@@ -38,27 +38,27 @@
 
 ---
 
-## ISSUE 4 — Glabbagool described as Grygum's companion/secretary; he is canonically Zalthir's Shadow Apprentice
+## ISSUE 4 — Glabbagool described as Gyrgum's companion/secretary; he is canonically Zalthir's Shadow Apprentice
 
 **Location:** Summary, Memorable Moments, Scenes (Reunion and Debriefing), NPCs (Glabbagool entry)
 
-**Issue:** The recap frames Glabbagool as acting in Grygum's service and calls him Grygum's "secretary" without qualification. The NPCs section perpetuates this in the character description. For a continuity document this creates a false association.
+**Issue:** The recap frames Glabbagool as acting in Gyrgum's service and calls him Gyrgum's "secretary" without qualification. The NPCs section perpetuates this in the character description. For a continuity document this creates a false association.
 
-**Evidence:** `campaign_state.md`: *"Glabbagool | Active (ooze form) | With party (Zalthir's sidekick) | Loyal companion."* `world_state.md`: *"permanently bonded to Zalthir's forearm… Aspiring shadow monk."* `party.md`: *"Zalthir — Informal mentor/guardian relationship; proposed training the ooze in monk discipline; Glabbagool defers to Zalthir's guidance."* Grygum has no canonical bond with Glabbagool.
+**Evidence:** `campaign_state.md`: *"Glabbagool | Active (ooze form) | With party (Zalthir's sidekick) | Loyal companion."* `world_state.md`: *"permanently bonded to Zalthir's forearm… Aspiring shadow monk."* `party.md`: *"Zalthir — Informal mentor/guardian relationship; proposed training the ooze in monk discipline; Glabbagool defers to Zalthir's guidance."* Gyrgum has no canonical bond with Glabbagool.
 
-**Suggested fix:** In the NPCs entry, note Glabbagool's canonical bond: *"Zalthir's Shadow Apprentice, acting as Grygum's ad-hoc 'secretary' for this scene."* Rephrase Summary/Scenes references to make clear this is a temporary scene-level role, not a standing relationship.
+**Suggested fix:** In the NPCs entry, note Glabbagool's canonical bond: *"Zalthir's Shadow Apprentice, acting as Gyrgum's ad-hoc 'secretary' for this scene."* Rephrase Summary/Scenes references to make clear this is a temporary scene-level role, not a standing relationship.
 
 ---
 
-## ISSUE 5 — Mending spell attributed to Grygum in Summary/Scenes, but to Thorin in the Items section
+## ISSUE 5 — Mending spell attributed to Gyrgum in Summary/Scenes, but to Thorin in the Items section
 
-**Location:** Summary ("Grygum retrieved the discarded wrapping paper … using a mending cantrip"), Scenes — The Reassembled Evidence ("Grygum casts a mending spell"), Items — Wrapping Paper ("When Thorin reassembled it using a mending spell")
+**Location:** Summary ("Gyrgum retrieved the discarded wrapping paper … using a mending cantrip"), Scenes — The Reassembled Evidence ("Gyrgum casts a mending spell"), Items — Wrapping Paper ("When Thorin reassembled it using a mending spell")
 
 **Issue:** Internal contradiction within the recap itself. Two different characters are credited with casting Mending on the wrapping paper.
 
-**Evidence:** `party.md`: Grygum is a Cleric 8 (Life Domain) — Mending is a cleric cantrip. Thorin is a Fighter 8 (Battle Master) — Mending is not in a Battle Master's repertoire and Thorin has no listed source for it. The Summary and Scenes version (Grygum) is mechanically correct.
+**Evidence:** `party.md`: Gyrgum is a Cleric 8 (Life Domain) — Mending is a cleric cantrip. Thorin is a Fighter 8 (Battle Master) — Mending is not in a Battle Master's repertoire and Thorin has no listed source for it. The Summary and Scenes version (Gyrgum) is mechanically correct.
 
-**Suggested fix:** Remove "Thorin" from the Items — Wrapping Paper entry and replace with "Grygum."
+**Suggested fix:** Remove "Thorin" from the Items — Wrapping Paper entry and replace with "Gyrgum."
 
 ---
 
@@ -104,17 +104,17 @@
 
 **Issue:** The scene header states *"Kalan Strongbench, hidden outside the room, Thorin and Zalthir alone interview Alkrist."* The Summary says *"the party convened in Alkrist's chambers to conduct their interrogation."* These are mutually exclusive: either the full party attended or only Thorin and Zalthir were in the room.
 
-**Evidence:** No grounding doc resolves this; it is an internal recap inconsistency. The distinction matters for future sessions (e.g., who witnessed the confession directly, what Grygum and Daz heard vs. were told about).
+**Evidence:** No grounding doc resolves this; it is an internal recap inconsistency. The distinction matters for future sessions (e.g., who witnessed the confession directly, what Gyrgum and Daz heard vs. were told about).
 
 **Suggested fix:** Clarify which characters were physically inside the room versus listening from outside or waiting elsewhere, and update the scene header accordingly.
 
 ---
 
-## ISSUE 10 — Wrapping paper reassembly scene: Summary places Grygum at the dining hall; scene header places him in Janussi's office
+## ISSUE 10 — Wrapping paper reassembly scene: Summary places Gyrgum at the dining hall; scene header places him in Janussi's office
 
-**Location:** Summary ("Back in the dining hall, Grygum retrieved the discarded wrapping paper from the trash") vs. Scenes — The Reassembled Evidence header ("Grygum is alone in Janussi's office and uses magic to investigate the discarded wrapping paper found in the trash at the dining hall")
+**Location:** Summary ("Back in the dining hall, Gyrgum retrieved the discarded wrapping paper from the trash") vs. Scenes — The Reassembled Evidence header ("Gyrgum is alone in Janussi's office and uses magic to investigate the discarded wrapping paper found in the trash at the dining hall")
 
-**Issue:** The Summary is unambiguous that the retrieval and presumably the mending occurred at the dining hall. The scene header places Grygum in Janussi's office during the same action. It is unclear whether Grygum carried the paper to the office to reassemble it, or performed the mending at the dining hall.
+**Issue:** The Summary is unambiguous that the retrieval and presumably the mending occurred at the dining hall. The scene header places Gyrgum in Janussi's office during the same action. It is unclear whether Gyrgum carried the paper to the office to reassemble it, or performed the mending at the dining hall.
 
 **Evidence:** Internal inconsistency only; no grounding doc clarifies.
 

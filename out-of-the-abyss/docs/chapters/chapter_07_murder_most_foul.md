@@ -24,13 +24,13 @@ But it is Thorin who suddenly loses it abruptly. He starts screaming, laughing, 
 Shuushar the Awakened sees Thorin’s bout of madness and remarks that perhaps in Sloobludop, the archpriest Ploopploopeen can help. “Ploopploopeen is a follower of the Sea Mother, and she will be most welcoming of my awakening to the end of our people’s madness.” 
 
 
-Grygum hears the name of the archpriest and mutters, “That’s quite a bit of tongue twister.” 
+Gyrgum hears the name of the archpriest and mutters, “That’s quite a bit of tongue twister.” 
 
 
 Shuushar is confused - “It isn’t. It’s pretty simple to say. Ploopploopeen, Ploopploopeen, Ploopploopeen!” 
 
 
-Grygum raises an eyebrow and is about to speak, but the tunnels turn left, and he finds himself in a massive cavern with what appears to be a bottomless gorge. 
+Gyrgum raises an eyebrow and is about to speak, but the tunnels turn left, and he finds himself in a massive cavern with what appears to be a bottomless gorge. 
 
 
 Zalthir mutters, “If only I could fly, I could get across. But I don’t, and there is no way to climb across it.” 
@@ -45,7 +45,7 @@ Zalthir looks up and suddenly realizes he’s in a cave with a ceiling that allo
 Thorin volunteers. 
 
 
-As Thorin is about to start his climb, Grygum asks Jimjar - “Wanna make a bet?”
+As Thorin is about to start his climb, Gyrgum asks Jimjar - “Wanna make a bet?”
 
 
 Jimjar smiles, “That’s the spirit. He makes it, or doesn’t it?” 
@@ -141,7 +141,7 @@ A group of bandits arrive under the flag of truce, offering information about ho
 The bandit leader explains, “We were exploring a dungeon and made one too many wrong turns, ending up deeper into the ground than we wanted to.” 
 
 
-Grygum, Eldeth, and Zalthir realize that the story is a fabrication and that the details are not that important. 
+Gyrgum, Eldeth, and Zalthir realize that the story is a fabrication and that the details are not that important. 
 
 
 He offers the information for food. The deal is agreed upon, and he shares with him that the best chance of escape is through the town of Blingdenstone. 
@@ -155,7 +155,7 @@ Shuushar says he has no interest in traveling past Sloobludop but may be willing
 The debate continues, but eventually, everyone tires of it and falls asleep. 
 
 
-Grygum, enjoying the taste of toasted Ripplebark, asks Jimjar, “Wanna bet that we’ll find monsters in the tomb?” 
+Gyrgum, enjoying the taste of toasted Ripplebark, asks Jimjar, “Wanna bet that we’ll find monsters in the tomb?” 
 
 
 Jimjar mutters, “It’s a lost tomb; of course, we will; the better question is -what kind of monsters-.” 
@@ -188,4 +188,4 @@ The group wakes up to the sounds of screaming.
 Spiderbait is staring at the ground at his friend Yuk Yuk. The rest of the group examines the ground, and there is the corpse of Yuk Yuk, his throat cut with a blade. 
 
 
-Grygum examines the cut and notes, “It’s a shortsword. Any one of us could have done it.”
+Gyrgum examines the cut and notes, “It’s a shortsword. Any one of us could have done it.”

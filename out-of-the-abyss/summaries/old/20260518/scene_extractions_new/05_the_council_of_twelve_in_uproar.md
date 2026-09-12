@@ -11,8 +11,8 @@ source: gmassist
 - The party enters the Chapter House — Candlekeep's executive meeting room, beneath the western gables of its green slanted roof, featuring a distinctive rose window and a dodecagonal table with places for the Keeper of Tomes, the First Reader, the eight Great Readers, the Gate Warden, and the Lorekeeper, making a council of twelve.
 - A'lai Aivenmore (tall, handsome, smooth dark skin, braided beard) shouts: "We must have the vote and restore leadership to Candlekeep." A dowdy female halfling Great Reader with a pince-nez and mousy gray-streaked hair urges they first determine if Janussi named a successor. A slender female human with dark gray hair and heavy wrinkles cries that they must find the murderer first. A red-cheeked wizard with a receding mane of white hair watches with shrewd gray eyes. A formidably sized bronze dragonborn academic in tailored bejeweled robes demands the Gate Warden be dismissed with immediate effect. And Daral Yashenti — sour, thin-lipped, greasy slick-backed gray hair — asks why Sylvira Savikas is not present.
 - Bookwyrm — a green dragonborn, described as shaken and weary — attempts to calm the room.
-- Grygum introduces himself as founder of the Grygumite School of thought, immediately diverting the academic council's attention from the murder crisis. Several council members become intensely curious about this new school of thought.
-- One council member notes that Brother Khell-Vire said Zalthir possessed a unique skill, and asks about it. Zalthir is evasive. Grygum cuts in: "I thought we were here to learn about a death." Bookwyrm snaps: "FOCUS, PEOPLE!" and the council settles.
+- Gyrgum introduces himself as founder of the Gyrgumite School of thought, immediately diverting the academic council's attention from the murder crisis. Several council members become intensely curious about this new school of thought.
+- One council member notes that Brother Khell-Vire said Zalthir possessed a unique skill, and asks about it. Zalthir is evasive. Gyrgum cuts in: "I thought we were here to learn about a death." Bookwyrm snaps: "FOCUS, PEOPLE!" and the council settles.
 - Bookwyrm proposes delegating the murder investigation to the party, citing the need for impartiality given suspicious relationships within the council.
 - Daral dismisses the party contemptuously: "This is ridiculous, we don't know them from Alaundo. They look like a bunch of cell swords to me!"
 - The party defends their investigative credentials: Daz recounts their work investigating crimes committed against them in the Underdark, ridding multiple villages of a fungal scourge and beasts being summoned, requiring investigation across multiple groups. Dawnbringer speaks up to add that the party must be the greatest discoverers of all, having found her imprisoned tomb after two thousand years. Thorin quips that he and his wife have been watching a great deal of Poirot lately and plan to move on to Colombo next.
@@ -20,7 +20,7 @@ source: gmassist
 - The party rolls Insight on the council's reactions; results range from 11 to 21. It is clear the council is deeply uncomfortable with the idea of strangers poking around freely inside the library — circumstances they are entirely unaccustomed to.
 - A'lai Aivenmore says he sees no reason to object if Bookwyrm prefers this course, as the faster the matter is resolved, the sooner leadership can be restored and business resumed.
 - Bookwyrm, growing increasingly irritated, taps her fingers on the table and agrees: upon successful completion, the party will each receive a copy of any book in the library, made at the House of the Binder. Gabe confirms this is one book each. Bookwyrm requires the party to sign confidentiality papers before beginning.
-- Gatewarden Kalan Strongbranch walks in — neatly trimmed gray-white beard, piercing blue eyes — before he can speak, Bookwyrm cuts him off: "Thank you, Kalan, but given your own troubled relationship with the keeper of the tomes, and the need for an impartial investigation, this council has decided to relieve you from the case and appoint a body of independent investigators. Please focus on securing our defenses and ensuring no other creature enters or leaves Candlekeep." The party rolls Insight; Grygum gets a 21, Daz gets a 24. Kalan looks visibly pissed, recovers himself, bows curtly, and storms off.
+- Gatewarden Kalan Strongbranch walks in — neatly trimmed gray-white beard, piercing blue eyes — before he can speak, Bookwyrm cuts him off: "Thank you, Kalan, but given your own troubled relationship with the keeper of the tomes, and the need for an impartial investigation, this council has decided to relieve you from the case and appoint a body of independent investigators. Please focus on securing our defenses and ensuring no other creature enters or leaves Candlekeep." The party rolls Insight; Gyrgum gets a 21, Daz gets a 24. Kalan looks visibly pissed, recovers himself, bows curtly, and storms off.
 - Bookwyrm explains that Janussi had asked the Gate Warden to tender his resignation the very morning before the murder, concerned that Kalan was losing his mental faculties and becoming negligent in his work. She declines to elaborate further, not wanting to prejudice the investigation.
 
 ## Verbatim moments
@@ -51,16 +51,16 @@ source: gmassist
 **GM** — *as Daral, sour thin-lipped man with greasy slick-backed gray hair*
 > "why isn't Sylvira Savikas here?"
 
-**Grygum** — *noting the obvious*
+**Gyrgum** — *noting the obvious*
 > "Well, probably because she's feeling sick, still."
 
 ---
 
-**[Grygum Introduces the Grygumite School]**
+**[Gyrgum Introduces the Gyrgumite School]**
 
-**Grygum** — *responding to Daral's challenge of who the party is*
+**Gyrgum** — *responding to Daral's challenge of who the party is*
 > "Oh, merely, merely guests."
-> "I, am the head of the Grygumite School."
+> "I, am the head of the Gyrgumite School."
 > "Founder, in fact."
 
 **GM** — *narrating the council's reaction*
@@ -80,7 +80,7 @@ source: gmassist
 **GM** — *as the council member*
 > "No, I was hoping we would learn more about your unique skill."
 
-**Grygum** — *cutting in*
+**Gyrgum** — *cutting in*
 > "I thought we were here to learn about a death."
 
 **GM** — *as Bookwyrm, snapping*
@@ -96,10 +96,10 @@ source: gmassist
 **GM** — *as Bookwyrm*
 > "I believe I'm not alone in seeing the arrival of these individuals on this tragic dead winter day, as fateful in some respects."
 
-**Grygum** — *interjecting*
+**Gyrgum** — *interjecting*
 > "It could be one of those fixed points."
 
-**GM** — *as Bookwyrm, trying to speak over Grygum*
+**GM** — *as Bookwyrm, trying to speak over Gyrgum*
 > "Given that we must consider the strong possibility that the murder of our beloved colleague walks amongst us, I believe the best course of action is to delegate the responsibility of the murder investigation"
 
 **GM** — *narrating*
@@ -124,7 +124,7 @@ source: gmassist
 > "We have,"
 > "We had to invest quite a few crimes, even crimes that were committed against us while we were in the Underdark, in order to find our way out and actually solve multiple problems that involved multiple different groups in multiple villages. And we rid them of a scourge of fungus and other beasts that were being summoned, and we had to do a lot of investigating. This is kind of our thing."
 
-**Grygum** — *dryly*
+**Gyrgum** — *dryly*
 > "I'm not used to being interviewed when somebody's asking me to do something."
 
 **GM** — *as Bookwyrm/Dawnbringer speaking up*
@@ -133,14 +133,14 @@ source: gmassist
 **Thorin** — *deflecting*
 > "Exactly, and I wasn't even around when that happened."
 
-**Grygum** — *adding*
+**Gyrgum** — *adding*
 > "And I have, have found a new philosophy of the universe."
 
 **Thorin** — *quipping*
 > "My qualifications… my wife and I have been watching a lot of Poirot lately, so, you know"
 > "I mean, we're gonna maybe watch some Colombo next, I'm just saying."
 
-**Grygum** — *playing along*
+**Gyrgum** — *playing along*
 > "Well, just one more thing."
 
 **Thorin** — *continuing the bit*
@@ -172,13 +172,13 @@ source: gmassist
 **GM** — *as Bookwyrm, diplomatically*
 > "I'm certain a suitable remuneration could be arranged if you were to bring this to a successful conclusion that would provide you with the level of dignity and support that would be expected from such an adventure."
 
-**Grygum** — *considering*
+**Gyrgum** — *considering*
 > "Vague, but… but maybe we should take it."
 
 **Thorin** — *pushing further*
 > "Well, I would assume that if we're only getting paid if we complete the job successfully, then the amount is commensurately increased because we're taking on some risk here."
 
-**Grygum** — *seeing an upside*
+**Gyrgum** — *seeing an upside*
 > "See, this gives us an excuse to poke our nose in everywhere."
 > "That's valuable."
 
@@ -198,7 +198,7 @@ source: gmassist
 **Thorin** — *reporting roll*
 > "I got an 11."
 
-**Grygum** — *reporting roll*
+**Gyrgum** — *reporting roll*
 > "16."
 
 **Zalthir** — *reporting roll*
@@ -210,7 +210,7 @@ source: gmassist
 **GM** — *relaying what the rolls reveal*
 > "You definitely get the impression that they're not really used to the idea of… Strangers just poking around inside of the… inside of the library. Right? That this is kind of a very weird sort of circumstances."
 
-**Grygum** — *responding*
+**Gyrgum** — *responding*
 > "We… yeah, we need an all-access library card."
 
 **Thorin** — *pointedly*
@@ -244,7 +244,7 @@ source: gmassist
 **GM** — *confirming*
 > "Sure, she says, copy of any book in the library."
 
-**Grygum** — *agreeing*
+**Gyrgum** — *agreeing*
 > "Let's do it."
 
 ---
@@ -260,10 +260,10 @@ source: gmassist
 > "Please focus on securing our defenses and ensuring no other creature enters or leaves Candlekeep."
 
 **[Insight Rolls on Kalan's Reaction]**
-- Grygum rolls a 21; Daz rolls a 24.
+- Gyrgum rolls a 21; Daz rolls a 24.
 - GM describes Kalan as looking visibly pissed, then recovering himself, bowing curtly, and storming off.
 
-**Grygum** — *OOC, after Kalan exits*
+**Gyrgum** — *OOC, after Kalan exits*
 > "He's going to be the first person we, question."
 
 ---

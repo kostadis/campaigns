@@ -86,10 +86,10 @@
 
 ---
 
-**Ben Pfaff (as Grygum)** — *Before casting Guiding Bolt, checking on the party*
+**Ben Pfaff (as Gyrgum)** — *Before casting Guiding Bolt, checking on the party*
 > "I'm amused by the Jorlan-Ilvara drama, but I think I'm still going to go ahead and attack them."
 
-**Ben Pfaff (as Grygum)** — *Checking party status before committing to offense*
+**Ben Pfaff (as Gyrgum)** — *Checking party status before committing to offense*
 > "Does anybody need any serious healing?"
 
 **Daz (Mike Hall)** — *Reporting his status*
@@ -97,13 +97,13 @@
 
 ---
 
-**GM (Kostadis)** — *Narrating Ilvara's death after Grygum's Guiding Bolt*
+**GM (Kostadis)** — *Narrating Ilvara's death after Gyrgum's Guiding Bolt*
 > "She is particularly vulnerable to radiant damage, so that actually causes her to die. She explodes in a puff of poisonous spores."
 
-**Ben Pfaff (as Grygum)** — *Reacting to Ilvara's explosive death*
+**Ben Pfaff (as Gyrgum)** — *Reacting to Ilvara's explosive death*
 > "Not ideal. How big is the cloud?"
 
-**Ben Pfaff (as Grygum)** — *Relieved at his positioning*
+**Ben Pfaff (as Gyrgum)** — *Relieved at his positioning*
 > "I'm glad I was standing back."
 
 ---

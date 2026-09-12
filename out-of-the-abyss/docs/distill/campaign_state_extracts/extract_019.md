@@ -5,7 +5,7 @@
 
 ### Centipede encounter in Whorlstone Tunnels area
 - **Session:** Current session, 10th day of 1st Tenday of Myrtul 1493
-- **Outcome:** Success. Thorin killed the centipedes. Party received healing from Grygum afterward.
+- **Outcome:** Success. Thorin killed the centipedes. Party received healing from Gyrgum afterward.
 
 ### Negotiation with Gartokkar Xundorn — Keeper of the Flame, quest giver
 - **Outcome:** Successful contract negotiation. Gartokkar wants: the stolen dragon egg returned, proof of demonic worship (statue of Demogorgon), and evidence of Council of Savants' involvement with corruption. Payment agreed: 2000 gold base + 1000 gold confidentiality rider (3000 total). 30% upfront payment secured (900 gold received). Gartokkar's ulterior motive identified by Daz: he intends to use the evidence to convince the Deepking to wage genocidal war against the Derro.
@@ -48,7 +48,7 @@
 
 - **Current location:** Gracklstugh, having just left the Whorlstone Tunnels caves and met with Gartokkar Xundorn at the Keepers of the Flame headquarters.
 - **Immediate situation:** The party has secured a contract with Gartokkar and plans to next negotiate with Errde Blackskull for additional support/payment. Their allies remain "holed up in a seedy bar." They need to return to the Whorlstone Tunnels to: retrieve the stolen dragon egg, obtain the statue of Demogorgon as proof, and potentially confront the Council of Savants member, the Cult of Demogorgon (Plinki), and possibly a mind flayer and the Empty Scabbard Killers.
-- **Outstanding objectives in the tunnels:** Save the dragon egg (Grygum's religious imperative), gather evidence for Errde and Gartokkar, deal with Droki (still being tracked).
+- **Outstanding objectives in the tunnels:** Save the dragon egg (Gyrgum's religious imperative), gather evidence for Errde and Gartokkar, deal with Droki (still being tracked).
 
 ## Tracked Items
 
@@ -56,7 +56,7 @@
 - Droki is still being pursued. His trail is easy to follow but the party diverted from the chase to explore other areas and negotiate with Gartokkar. Capture not yet completed.
 
 ### Gray Ghosts dragon egg — recovered or returned
-- **Not yet recovered.** The egg is in the obelisk chamber area, held by Plinki and the Cult of Demogorgon. Plinki intends to corrupt it into a two-headed dragon for Demogorgon. Gartokkar has contracted the party to retrieve it. Grygum considers it a religious duty to Bahamut.
+- **Not yet recovered.** The egg is in the obelisk chamber area, held by Plinki and the Cult of Demogorgon. Plinki intends to corrupt it into a two-headed dragon for Demogorgon. Gartokkar has contracted the party to retrieve it. Gyrgum considers it a religious duty to Bahamut.
 
 ### Black obelisk — Whorlstone Tunnels discovery
 - Located but not yet investigated in person. The Flumph described it telepathically: a chamber with a circular pathway and a pyramid containing the obelisk. Plinki (Cult of Demogorgon) has been trying to "make it do something evil."

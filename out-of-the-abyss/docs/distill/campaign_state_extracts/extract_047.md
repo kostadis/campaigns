@@ -54,7 +54,7 @@
 
 ## Party Accomplishments & Acquisitions
 
-- **Daz** formally recognized as general in charge of the Blingdenstone assault, with Grygum and Zalthir as lieutenants.
+- **Daz** formally recognized as general in charge of the Blingdenstone assault, with Gyrgum and Zalthir as lieutenants.
 - **Daz** received a Dasco Pickshine Mines branded patch sewn onto his clothes.
 - **Intelligence gathered:** The Pudding King allied with Juiblex, plans to convert Blingdenstone's biomass into ooze biomass. Green slime patches on the throne room ceiling pose hazards. Zuggtmoy and Juiblex are in conflict over territorial claims.
 

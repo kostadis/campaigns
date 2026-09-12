@@ -33,7 +33,7 @@
 ### Jimjar's True Nature Revealed
 - Zalthir used a special ability to inspect Jimjar and discovered he is immune to poison and psychic damage, cannot be charmed or frightened, is resistant to radiant damage and non-magical physical attacks — a profile matching an angel or deity, not an ordinary deep gnome.
 - Jimjar noticed the scrutiny, winked, and vanished entirely from existence, leaving only the sound of platinum coins.
-- He returned Grygum's ten platinum winnings before departing.
+- He returned Gyrgum's ten platinum winnings before departing.
 - The party concluded Jimjar is likely a celestial or divine being. His departure suggests the party will encounter him again.
 
 ### Blingdenstone's Future Secured
@@ -49,7 +49,7 @@
 ### Jimjar
 - **Revealed true identity:** Not an ordinary deep gnome. Possesses divine-level immunities (poison, psychic, charm, fear) and resistances (radiant, non-magical physical). Stat block resembles an angel or deity.
 - **Status:** Vanished entirely from existence after winking at the party. Returned to Blingdenstone direction before disappearing. Hinted party will meet again.
-- **Final act:** Returned Grygum's ten platinum pieces. Warned the party about Zuggtmoy's creeping fungal influence.
+- **Final act:** Returned Gyrgum's ten platinum pieces. Warned the party about Zuggtmoy's creeping fungal influence.
 
 ### Glabbagool
 - **Status change:** Briefly became a telepathic bridge connecting every ooze in the cavern, pacifying the entire horde. Returned to normal afterward. Still traveling with the party (carried in bag of holding).
@@ -67,7 +67,7 @@
 - **Status:** Ghost. Saluted the party with spectral banner upon departure. At peace with the living factions following the compromise on sacred ground mining.
 
 ### Earth Elemental
-- **Status:** Healed by Grygum. Departed back into the earth after leaving a glowing geode for the party. No longer present.
+- **Status:** Healed by Gyrgum. Departed back into the earth after leaving a glowing geode for the party. No longer present.
 
 ## Party Accomplishments & Acquisitions
 
@@ -88,7 +88,7 @@
 - **Entemoch (Prince of Good Elementals)** — Noted as feeling favorably toward the party after they assisted the Earth Elemental.
 
 ### Currency Spent
-- 10 platinum pieces paid by Grygum to Jimjar (later returned by Jimjar before departure). Net cost: zero.
+- 10 platinum pieces paid by Gyrgum to Jimjar (later returned by Jimjar before departure). Net cost: zero.
 
 ## Party Current Situation
 - **Current location:** Northern exit tunnels of Blingdenstone, preparing to exit the Underdark and return to the surface world.

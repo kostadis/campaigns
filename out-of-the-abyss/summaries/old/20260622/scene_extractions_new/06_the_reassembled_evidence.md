@@ -7,10 +7,10 @@ source: gmassist
 
 ## Scene summary (from gm-assist, verbatim)
 
-#### Grygum is alone in Janussi's chambers and uses magic to investigate the discarded wrapping paper retrieved from the dining-hall trash.
+#### Gyrgum is alone in Janussi's chambers and uses magic to investigate the discarded wrapping paper retrieved from the dining-hall trash.
 
-*(Note: Thorin-tagged lines appear in the verbatim below despite Grygum being confirmed alone in the chambers — table chatter/questions from the player, not an in-fiction presence.)*
-- Grygum casts a mending spell to reassemble the torn pieces of wrapping paper found in the dining hall trash bucket.
+*(Note: Thorin-tagged lines appear in the verbatim below despite Gyrgum being confirmed alone in the chambers — table chatter/questions from the player, not an in-fiction presence.)*
+- Gyrgum casts a mending spell to reassemble the torn pieces of wrapping paper found in the dining hall trash bucket.
 - The reassembled paper reveals a precise cut through the wrapping, separate from the natural tearing, confirming that the gift had been deliberately tampered with and re-wrapped around the poisoned book.
 - The party confirms the paper had been wrapped around the book — "the gift wrap for the deadly book."
 
@@ -31,7 +31,7 @@ source: gmassist
 > "We can't do, like, magic fingerprints or something like that."
 > "No, no, but what you can do is you can use mending, you can look at the paper, you can do lots of things to see if it was rewrapped, right?"
 
-**[Grygum]** — *deciding on the spell*
+**[Gyrgum]** — *deciding on the spell*
 > "Oh, mending is smart. Let me see, do I have that one? I do."
 
 **[GM]** — *resolving the mending spell*
@@ -42,10 +42,10 @@ source: gmassist
 > "Or, it's like."
 > "Some of my friends who are, like, way too crunchy granola, and they're like, let's reuse wrapping paper."
 
-**[Grygum]** — *asking what it was wrapped around*
+**[Gyrgum]** — *asking what it was wrapped around*
 > "Is there a sign of what it was wrapped around?"
 > "Yeah, it was wrapped around the book. It was a gift wrapped at the book."
 
-**[Grygum]** — *confirming the deadly book*
+**[Gyrgum]** — *confirming the deadly book*
 > "Oh, okay, the gift wrap for the deadly book."
 > "Yes."

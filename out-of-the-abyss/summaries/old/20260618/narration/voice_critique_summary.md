@@ -16,7 +16,7 @@ no narration files were modified. One report per scene:
 
 | Scene | Narrator | Flags | Em-dash | Other | Strongest issue |
 |---|---|---|---|---|---|
-| 01 | Grygum | ~8 | 6 | tell-not-show, lyrical drift | "He was glowing"; "footnotes of a vial" |
+| 01 | Gyrgum | ~8 | 6 | tell-not-show, lyrical drift | "He was glowing"; "footnotes of a vial" |
 | 02 | Daz | 5 | 3 | 2 cliché simile | "tip of a tongue" stock simile over an audit beat |
 | 03 | Thorin | 6 | 2 | cliché, register, convergence, tell | self-annotating tag "because I like to know the ground before I cross it" |
 | 04 | Zalthir | 7 | 3 | register "structure", 2 simile, 1 tell | "drawn the board… where every piece lands"; "last line of a poem he'd written" |
@@ -31,7 +31,7 @@ no narration files were modified. One report per scene:
 ## Verdict
 
 Voice fidelity is **high across all four narrators** — the in-voice cores
-(Grygum's late-arc precision, Daz's audit/column idiom, Thorin's terrain logic,
+(Gyrgum's late-arc precision, Daz's audit/column idiom, Thorin's terrain logic,
 Zalthir's cold mark-and-file) all land. The drift is concentrated in three
 recurring patterns, in priority order:
 

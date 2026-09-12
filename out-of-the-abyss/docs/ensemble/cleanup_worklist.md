@@ -31,7 +31,7 @@ the ones it **missed**.
 ### A2. Spelling / transcription variants (typos — same entity)
 | Variant | → Canonical | Note |
 |---|---|---|
-| `Gyrgum` [npc 15, ch1] | **Grygum** [npc 484] | early-chapter misspelling of the PC — **high value** |
+| `Gyrgum` [npc 15, ch1] | **Gyrgum** [npc 484] | early-chapter misspelling of the PC — **high value** |
 | `Dasco Pickshine` [npc 11] | **Dazco Pickshine** (in registry) | `s`/`z` variant; deep-gnome Pickshine-mines overseer |
 | `Borough Warden Jadger` [npc 3] + `Uth-Jadger` [npc 3] | **Jadgar** [npc 11] | "Borough"="Burrow" Warden ghost; `Jadger`/`Jadgar` spelling |
 
@@ -55,7 +55,7 @@ the ones it **missed**.
   alias, so probably — but `Senni` is also a Diggermattock, so don't blind-merge on surname.)
 - Role-titles that may be **Kalan**: `The First Reader` [npc 4], `Gate Warden` [npc 4]. Both are roles
   Kalan held — alias to Kalan, or keep as role labels? (Could instead be Part B.)
-- `Priest of Bahamut` [npc 4] / `Gorg'Bahamut` [npc 3] → **Grygum** (cleric of Bahamut)? Verify — may be
+- `Priest of Bahamut` [npc 4] / `Gorg'Bahamut` [npc 3] → **Gyrgum** (cleric of Bahamut)? Verify — may be
   role-label / narration fusion rather than an entity.
 
 ### A6. Do NOT merge (token-share false positives — genuinely distinct)

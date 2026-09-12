@@ -9,15 +9,15 @@
   {
     "type": "npc",
     "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch is the one who physically handed over the second key to Grygum, stated that he held the key to the High Tower, and confirmed that entry to the tower is always watched, regardless of key possession.",
+    "fact": "Kalan Strongbranch is the one who physically handed over the second key to Gyrgum, stated that he held the key to the High Tower, and confirmed that entry to the tower is always watched, regardless of key possession.",
     "source_quote": "Kalan stepped out of a doorway we hadn't clocked, swept the corridor left, then right, and pressed a small brass key specifically into the cleric's palm. ... I have given it now to someone who is not me. ... The tower is watched. Always. People stand at it whether the key is in someone's pocket or not.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum received the second key from Kalan, asked whether the stolen sapphires were worth killing for, and later recorded the poison and sapphires on his library list.",
-    "source_quote": "Grygum asked whether the stolen sapphires were worth killing for \u2014 expensive, not rare, was the answer \u2014 and tucked it into his library list alongside the poison.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum received the second key from Kalan, asked whether the stolen sapphires were worth killing for, and later recorded the poison and sapphires on his library list.",
+    "source_quote": "Gyrgum asked whether the stolen sapphires were worth killing for \u2014 expensive, not rare, was the answer \u2014 and tucked it into his library list alongside the poison.",
     "quote_verified": true
   },
   {
@@ -30,7 +30,7 @@
   {
     "type": "object",
     "subject": "brass key",
-    "fact": "The brass key is the second key to the High Tower, previously held by Kalan Strongbranch, and was physically transferred into Grygum's palm.",
+    "fact": "The brass key is the second key to the High Tower, previously held by Kalan Strongbranch, and was physically transferred into Gyrgum's palm.",
     "source_quote": "pressed a small brass key specifically into the cleric's palm.",
     "quote_verified": true
   },
@@ -58,7 +58,7 @@
   {
     "type": "location",
     "subject": "Flora Theca",
-    "fact": "The Flora Theca is a subsection of the Pavilion Naturalis within the Great Library, dedicated to plants, herbs, and flora, and was where Grygum discovered the properties of midnight tears.",
+    "fact": "The Flora Theca is a subsection of the Pavilion Naturalis within the Great Library, dedicated to plants, herbs, and flora, and was where Gyrgum discovered the properties of midnight tears.",
     "source_quote": "What there was, Fembris told me, was the Flora Theca, a subsection of the Pavilion Naturalis, inside the Great Library, dedicated to plants, herbs, and other flora.",
     "quote_verified": true
   },
@@ -100,7 +100,7 @@
   {
     "type": "npc",
     "subject": "Fembris",
-    "fact": "Fembris is the librarian who guided Grygum to the Flora Theca and confirmed access to laboratory facilities for poison analysis.",
+    "fact": "Fembris is the librarian who guided Gyrgum to the Flora Theca and confirmed access to laboratory facilities for poison analysis.",
     "source_quote": "The librarian who took me down was named Fembris, and he walked like someone who believed noise had consequences. ... 'If you need it later, yes, of course.'",
     "quote_verified": false
   },
@@ -113,22 +113,22 @@
   },
   {
     "type": "event",
-    "subject": "key transfer from Kalan to Grygum",
-    "fact": "Kalan Strongbranch transferred the second High Tower key to Grygum during a private meeting, after declaring he no longer held it and that entry to the tower is always observed.",
+    "subject": "key transfer from Kalan to Gyrgum",
+    "fact": "Kalan Strongbranch transferred the second High Tower key to Gyrgum during a private meeting, after declaring he no longer held it and that entry to the tower is always observed.",
     "source_quote": "Kalan stepped out of a doorway we hadn't clocked, swept the corridor left, then right, and pressed a small brass key specifically into the cleric's palm. ... I have given it now to someone who is not me.",
     "quote_verified": false
   },
   {
     "type": "event",
     "subject": "poison discovery in Flora Theca",
-    "fact": "Grygum discovered the properties of midnight tears in Archibald Roots, Jr.'s book *Fey-mous Flowers & Fungi*, confirming its Feywild origin, delayed lethality until midnight, and activation via saliva.",
+    "fact": "Gyrgum discovered the properties of midnight tears in Archibald Roots, Jr.'s book *Fey-mous Flowers & Fungi*, confirming its Feywild origin, delayed lethality until midnight, and activation via saliva.",
     "source_quote": "I opened it. ... Midnight tears. A highly toxic pale ochre dust, made from the pollen of a plant usually found only in the Feywild. ... The creature that ingests this poison suffers no effect until the stroke of midnight. ... What darkens it is saliva.",
     "quote_verified": false
   },
   {
     "type": "event",
     "subject": "summoning spell revelation",
-    "fact": "Grygum identified the sapphire summoning spell as a method to recall a hidden object to the caster\u2019s hand, clarifying that it does not work on worn items and thus enables the key to be hidden in plain sight by being stored elsewhere.",
+    "fact": "Gyrgum identified the sapphire summoning spell as a method to recall a hidden object to the caster\u2019s hand, clarifying that it does not work on worn items and thus enables the key to be hidden in plain sight by being stored elsewhere.",
     "source_quote": "It's an old summoning working \u2014 the kind that calls a single hidden thing back into your hand. ... It doesn't work if\u2014 although you'd find out who was holding it. ... You can put it someplace, you can throw it into a river or whatever. Nobody will find it, and then when you need it back, boom.",
     "quote_verified": false
   },
@@ -142,7 +142,7 @@
   {
     "type": "location",
     "subject": "the Hearth",
-    "fact": "The Hearth is the venue where Daz and Grygum interrogated Daral Yashenti, chosen by the suspect to maintain comfort and control.",
+    "fact": "The Hearth is the venue where Daz and Gyrgum interrogated Daral Yashenti, chosen by the suspect to maintain comfort and control.",
     "source_quote": "Daral was not coming to us. We were to go to the Hearth. ... We found him exactly that. Boisterous, flushed, conspicuously delighted with his own existence.",
     "quote_verified": false
   },
@@ -177,14 +177,14 @@
   {
     "type": "location",
     "subject": "Pavilion Naturalis",
-    "fact": "The Pavilion Naturalis is the larger section of the Great Library that contains the Flora Theca, where Grygum conducted his research into the poison.",
+    "fact": "The Pavilion Naturalis is the larger section of the Great Library that contains the Flora Theca, where Gyrgum conducted his research into the poison.",
     "source_quote": "the Flora Theca, a subsection of the Pavilion Naturalis, inside the Great Library, dedicated to plants, herbs, and other flora.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "collaboration proposal between Thorin and Kalan",
-    "fact": "Thorin proposed an offline sync-up of investigative streams with Kalan, Grygum, Zalthir, and Daz, resulting in Kalan agreeing to a private, five-stream merge of findings.",
+    "fact": "Thorin proposed an offline sync-up of investigative streams with Kalan, Gyrgum, Zalthir, and Daz, resulting in Kalan agreeing to a private, five-stream merge of findings.",
     "source_quote": "He proposed it in the most extraordinary terms \u2014 offline chat, private work streams, a meeting to examine everything one by one, the four of us and him, five streams, merge it all in a few hours. ... 'I hope you actually used the word sync up,' I said. 'That makes me happy.'",
     "quote_verified": false
   }

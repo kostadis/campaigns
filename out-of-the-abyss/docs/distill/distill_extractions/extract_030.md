@@ -1,6 +1,6 @@
 ## NPCs
 
-**Grygum**
+**Gyrgum**
 - Current location: Departing Gracklstugh via the Darklake, heading toward the Lost Tomb of Khaem
 - Current state: Active, travelling with the party
 - Recent actions: Rode Themberchaud; flattered the dragon to gain passage; attempted to persuade Themberchaud to fly to the docks; convinced the Stone Guard they were impersonators on a vital mission; gave the guard a caltrop as a false symbol of mission; agreed to Jimjar's bet about the Neverlight Grove
@@ -30,7 +30,7 @@
 **Jimjar**
 - Current location: Departing Gracklstugh via the Darklake
 - Current state: Active, described as a ghoul; travelling with the party
-- Recent actions: Shouted a bet during Grygum's fall; threw a rope to catch the falling Grygum; proposed a bet that the "circle of joy" at Neverlight Grove will prove to be a circle of unwilling vows
+- Recent actions: Shouted a bet during Gyrgum's fall; threw a rope to catch the falling Gyrgum; proposed a bet that the "circle of joy" at Neverlight Grove will prove to be a circle of unwilling vows
 - Revealed motivations/secrets: Compulsive gambler; his bet implies foreknowledge or strong suspicion about the nature of the Neverlight Grove ceremony
 
 **Serith**
@@ -79,7 +79,7 @@
 **The Stone Guard (unnamed)**
 - Current location: Gracklstugh docks
 - Current state: Alive; ran off with a caltrop
-- Recent actions: Stood his ground when the party landed; halted them in the name of the Deep King; recognised the party as the Ember Vanguard from a wanted poster; was convinced by Grygum that they were impersonators flushing out the Ember Vanguard; accepted a caltrop as a symbol of their mission and ran off
+- Recent actions: Stood his ground when the party landed; halted them in the name of the Deep King; recognised the party as the Ember Vanguard from a wanted poster; was convinced by Gyrgum that they were impersonators flushing out the Ember Vanguard; accepted a caltrop as a symbol of their mission and ran off
 - Faction: Duergar Stone Guard
 
 ---
@@ -131,18 +131,18 @@
 - The party mounted Themberchaud and flew through Gracklstugh's cavern
 - Themberchaud detoured to breathe fire on a Duergar forge, announcing himself as the Wyrmsmith bringer of flame
 - Duergar workers on the ground showed no fear of Themberchaud but panicked and began sending warnings upon seeing Daz, believing the party to be the Ember Vanguard
-- Themberchaud made an ungainly banking turn, causing Grygum, Thorin, and Daz to fall from his back
-- Daz used Misty Step to avoid falling; Zalthir sprouted wings and caught Thorin; Jimjar threw a rope and caught Grygum
+- Themberchaud made an ungainly banking turn, causing Gyrgum, Thorin, and Daz to fall from his back
+- Daz used Misty Step to avoid falling; Zalthir sprouted wings and caught Thorin; Jimjar threw a rope and caught Gyrgum
 - The party landed at the Darklake District docks; all Duergar fled except one Stone Guard
 - The Stone Guard identified the party as the Ember Vanguard from a wanted poster and announced his intention to warn Captain Errde
-- Grygum convinced the Stone Guard they were impersonators on a mission to flush out the Ember Vanguard; gave him a caltrop as a false mission symbol; the guard ran off
+- Gyrgum convinced the Stone Guard they were impersonators on a mission to flush out the Ember Vanguard; gave him a caltrop as a false mission symbol; the guard ran off
 - The party boarded a large boat and departed Gracklstugh via the Darklake
 - The party debated their next destination; agreed to go to the Lost Tomb of Khaem first, then the Neverlight Grove
-- Jimjar placed a bet that the Neverlight Grove's "circle of joy" would prove to be a circle of unwilling vows; Grygum accepted the bet
+- Jimjar placed a bet that the Neverlight Grove's "circle of joy" would prove to be a circle of unwilling vows; Gyrgum accepted the bet
 - Days 1–2 of travel on the Darklake were uneventful
 - On day 3, giant bloodsucking mosquitoes dropped from the cave roof and attacked the party; they were killed quickly
 - On day 4 (7th day of the 2nd tenday of Myrtul 1493), Serith directed the party to beach the boat and proceed on foot toward the Lost Tomb of Khaem
-- The party debated whether to scuttle the boat; Grygum offered to use Mending to repair it later; Eldeth explained the naval doctrine of targeting enemy menders and the rarity of spellcasters who learn the spell
+- The party debated whether to scuttle the boat; Gyrgum offered to use Mending to repair it later; Eldeth explained the naval doctrine of targeting enemy menders and the rarity of spellcasters who learn the spell
 
 ---
 
@@ -188,7 +188,7 @@
 - **The corrupted dragon egg**: Mentioned by Zalthir as one of the dangerous secrets the party is carrying away from Gracklstugh; its nature, location, and implications are unresolved
 - **The Deep King's plots**: Named as another dangerous secret the party carries; the specifics are not elaborated in this chunk
 - **The demonic presence in Gracklstugh**: Described as a "lurking demonic plot"; nature and identity of the demon unspecified
-- **Themberchaud's manipulation**: The Duergar use a red dragon as a forge-lighter rather than magic; the reasons for this choice and its long-term implications are unaddressed; Grygum finds it morally troubling
+- **Themberchaud's manipulation**: The Duergar use a red dragon as a forge-lighter rather than magic; the reasons for this choice and its long-term implications are unaddressed; Gyrgum finds it morally troubling
 - **Captain Errde informing the Drow**: Zalthir believes Errde will alert the Drow to the party's passage through Gracklstugh, resuming pursuit; this has not yet occurred on-screen
 - **The Stone Guard with the caltrop**: The guard ran off believing he was holding a symbol of a secret mission; what he does with this information is unresolved
 - **The Lost Tomb of Khaem**: What weapon does it contain? Who was Khaem? What dangers await?

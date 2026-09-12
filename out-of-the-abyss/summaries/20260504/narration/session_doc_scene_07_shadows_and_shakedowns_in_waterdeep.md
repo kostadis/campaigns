@@ -24,7 +24,7 @@ The persuasion went poorly. The monks had their position. Zalthir had his. The m
 
 So Zalthir pulled Daz over to argue.
 
-Grygum, watching this, observed that if it were Whistler, he'd steal the roof tiles. Which is funny, and also the kind of observation that tells you exactly where you are: in a city where the options are *pay the shakedown*, *argue the shakedown*, or *steal the roof and call it even*. There's a version of me who would have picked the third. I'm trying to work out whether that version of me is the smarter one.
+Gyrgum, watching this, observed that if it were Whistler, he'd steal the roof tiles. Which is funny, and also the kind of observation that tells you exactly where you are: in a city where the options are *pay the shakedown*, *argue the shakedown*, or *steal the roof and call it even*. There's a version of me who would have picked the third. I'm trying to work out whether that version of me is the smarter one.
 
 Daz, being Daz, found the fourth option.
 
@@ -54,7 +54,7 @@ The broken rhythm. The interrupted thought that cycles back without landing. I'd
 
 I didn't say anything. The pattern was there and I was watching it assemble itself from pieces that didn't yet fit, and I know better than to speak before I know what I'm saying. Giants hold things a long time before speaking. I'm trying to remember that.
 
-Grygum started working through it aloud — *keep, Candlekeep, are we above water, yes we are, well that makes the kraken more likely* — which is the kind of sentence that sounds absurd and might be exactly right. He is frequently exactly right while sounding absurd. He has a gift for it.
+Gyrgum started working through it aloud — *keep, Candlekeep, are we above water, yes we are, well that makes the kraken more likely* — which is the kind of sentence that sounds absurd and might be exactly right. He is frequently exactly right while sounding absurd. He has a gift for it.
 
 We're going to Candlekeep. The preacher said *keep* and meant something. A man in Triboar said a warning in two voices. Both of them spoke in the same broken loop.
 

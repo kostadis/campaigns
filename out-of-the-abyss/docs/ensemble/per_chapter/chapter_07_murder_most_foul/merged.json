@@ -169,7 +169,7 @@
     "type": "event",
     "subject": "bandits offer false truce",
     "fact": "A group of bandits arrives under a flag of truce offering information about escaping the Underdark, but their story is a fabrication.",
-    "source_quote": "A group of bandits arrive under the flag of truce, offering information about how to get out of the Underdark. ... Grygum, Eldeth, and Zalthir realize that the story is a fabrication and that the details are not that important.",
+    "source_quote": "A group of bandits arrive under the flag of truce, offering information about how to get out of the Underdark. ... Gyrgum, Eldeth, and Zalthir realize that the story is a fabrication and that the details are not that important.",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -223,8 +223,8 @@
   {
     "type": "event",
     "subject": "bet on Thorin's climb",
-    "fact": "Grygum bets with Jimjar that Thorin will make the climb, and Thorin overhears and shrugs before beginning his ascent.",
-    "source_quote": "Grygum asks Jimjar - \"Wanna make a bet?\" Jimjar smiles, \"That\u2019s the spirit. He makes it, or doesn\u2019t it?\" \"Makes it.\" Thorin overhears the bet and shrugs.",
+    "fact": "Gyrgum bets with Jimjar that Thorin will make the climb, and Thorin overhears and shrugs before beginning his ascent.",
+    "source_quote": "Gyrgum asks Jimjar - \"Wanna make a bet?\" Jimjar smiles, \"That\u2019s the spirit. He makes it, or doesn\u2019t it?\" \"Makes it.\" Thorin overhears the bet and shrugs.",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -234,7 +234,7 @@
   {
     "type": "event",
     "subject": "bet on tomb monsters",
-    "fact": "Grygum and Jimjar agree to a bet on the type of monsters found in the tomb, with skeletons and zombies as the chosen wager.",
+    "fact": "Gyrgum and Jimjar agree to a bet on the type of monsters found in the tomb, with skeletons and zombies as the chosen wager.",
     "source_quote": "\u2018Undead?\u2019 \u2018Boring.\u2019 \u2018Skeletons and Zombies?\u2019 \u2018I\u2019ll take that bet.\u2019",
     "quote_verified": false,
     "passes": [
@@ -245,8 +245,8 @@
   {
     "type": "event",
     "subject": "bet on tomb monsters",
-    "fact": "Grygum and Jimjar bet on whether the lost tomb contains undead, with Jimjar dismissing skeletons and zombies as boring and accepting the bet.",
-    "source_quote": "Grygum asks Jimjar, \"Wanna bet that we\u2019ll find monsters in the tomb?\" ... \"Undead?\" \"Boring.\" \"Skeletons and Zombies?\" \"I\u2019ll take that bet.\"",
+    "fact": "Gyrgum and Jimjar bet on whether the lost tomb contains undead, with Jimjar dismissing skeletons and zombies as boring and accepting the bet.",
+    "source_quote": "Gyrgum asks Jimjar, \"Wanna bet that we\u2019ll find monsters in the tomb?\" ... \"Undead?\" \"Boring.\" \"Skeletons and Zombies?\" \"I\u2019ll take that bet.\"",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -475,8 +475,8 @@
   },
   {
     "type": "event",
-    "subject": "group silences Grygum and Jimjar",
-    "fact": "The group tells Grygum and Jimjar to be quiet as they try to sleep.",
+    "subject": "group silences Gyrgum and Jimjar",
+    "fact": "The group tells Gyrgum and Jimjar to be quiet as they try to sleep.",
     "source_quote": "The two of them are told to be quiet by the rest of the group as it tries to sleep.",
     "quote_verified": true,
     "passes": [
@@ -497,9 +497,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum asks Jimjar if he wants to make a bet about whether Thorin will make the climb.",
-    "source_quote": "As Thorin is about to start his climb, Grygum asks Jimjar \u2014 'Wanna make a bet?'",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum asks Jimjar if he wants to make a bet about whether Thorin will make the climb.",
+    "source_quote": "As Thorin is about to start his climb, Gyrgum asks Jimjar \u2014 'Wanna make a bet?'",
     "quote_verified": false,
     "passes": [
       "interiority"
@@ -508,9 +508,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum asks Jimjar if they\u2019ll find monsters in the tomb and bets on skeletons and zombies.",
-    "source_quote": "Grygum, enjoying the taste of toasted Ripplebark, asks Jimjar, 'Wanna bet that we\u2019ll find monsters in the tomb?' ... 'Skeletons and Zombies?' ... 'I\u2019ll take that bet.'",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum asks Jimjar if they\u2019ll find monsters in the tomb and bets on skeletons and zombies.",
+    "source_quote": "Gyrgum, enjoying the taste of toasted Ripplebark, asks Jimjar, 'Wanna bet that we\u2019ll find monsters in the tomb?' ... 'Skeletons and Zombies?' ... 'I\u2019ll take that bet.'",
     "quote_verified": false,
     "passes": [
       "interiority"
@@ -519,9 +519,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum examines the cut on Yuk Yuk\u2019s throat and notes it was made by a shortsword.",
-    "source_quote": "Grygum examines the cut and notes, 'It\u2019s a shortsword. Any one of us could have done it.'",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum examines the cut on Yuk Yuk\u2019s throat and notes it was made by a shortsword.",
+    "source_quote": "Gyrgum examines the cut and notes, 'It\u2019s a shortsword. Any one of us could have done it.'",
     "quote_verified": false,
     "passes": [
       "interiority"
@@ -530,9 +530,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum and Jimjar make bet about tomb monsters",
-    "fact": "Grygum asks Jimjar to bet they\u2019ll find monsters in the tomb.",
-    "source_quote": "Grygum, enjoying the taste of toasted Ripplebark, asks Jimjar, 'Wanna bet that we\u2019ll find monsters in the tomb?'",
+    "subject": "Gyrgum and Jimjar make bet about tomb monsters",
+    "fact": "Gyrgum asks Jimjar to bet they\u2019ll find monsters in the tomb.",
+    "source_quote": "Gyrgum, enjoying the taste of toasted Ripplebark, asks Jimjar, 'Wanna bet that we\u2019ll find monsters in the tomb?'",
     "quote_verified": false,
     "passes": [
       "large"
@@ -541,8 +541,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum asks what they're betting",
-    "fact": "Grygum asks what they are betting on.",
+    "subject": "Gyrgum asks what they're betting",
+    "fact": "Gyrgum asks what they are betting on.",
     "source_quote": "\u2018What are we bEttin g?\u2019",
     "quote_verified": false,
     "passes": [
@@ -552,9 +552,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum examines Yuk-Yuk's wound",
-    "fact": "Grygum examines the cut and identifies it as from a shortsword.",
-    "source_quote": "Grygum examines the cut and notes, 'It\u2019s a shortsword.'",
+    "subject": "Gyrgum examines Yuk-Yuk's wound",
+    "fact": "Gyrgum examines the cut and identifies it as from a shortsword.",
+    "source_quote": "Gyrgum examines the cut and notes, 'It\u2019s a shortsword.'",
     "quote_verified": false,
     "passes": [
       "large"
@@ -563,8 +563,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum notes anyone could have done it",
-    "fact": "Grygum says any one of the group could have done the killing.",
+    "subject": "Gyrgum notes anyone could have done it",
+    "fact": "Gyrgum says any one of the group could have done the killing.",
     "source_quote": "Any one of us could have done it.",
     "quote_verified": true,
     "passes": [
@@ -574,9 +574,9 @@
   },
   {
     "type": "event",
-    "subject": "Grygum's skepticism",
-    "fact": "Grygum is skeptical of Shuushar\u2019s claim that 'Ploopploopeen' is a simple name to say.",
-    "source_quote": "Grygum raises an eyebrow and is about to speak, but the tunnels turn left, and he finds himself in a massive cavern with what appears to be a bottomless gorge.",
+    "subject": "Gyrgum's skepticism",
+    "fact": "Gyrgum is skeptical of Shuushar\u2019s claim that 'Ploopploopeen' is a simple name to say.",
+    "source_quote": "Gyrgum raises an eyebrow and is about to speak, but the tunnels turn left, and he finds himself in a massive cavern with what appears to be a bottomless gorge.",
     "quote_verified": true,
     "passes": [
       "temporal"
@@ -585,8 +585,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum suggests skeletons and zombies",
-    "fact": "Grygum suggests skeletons and zombies as the monsters.",
+    "subject": "Gyrgum suggests skeletons and zombies",
+    "fact": "Gyrgum suggests skeletons and zombies as the monsters.",
     "source_quote": "\u2018Skeletons and Zombies?\u2019",
     "quote_verified": false,
     "passes": [
@@ -596,8 +596,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum suggests undead",
-    "fact": "Grygum asks if the monsters will be undead.",
+    "subject": "Gyrgum suggests undead",
+    "fact": "Gyrgum asks if the monsters will be undead.",
     "source_quote": "\u2018Undead?\u2019",
     "quote_verified": false,
     "passes": [
@@ -618,9 +618,9 @@
   },
   {
     "type": "event",
-    "subject": "Jimjar and Grygum make bet",
-    "fact": "Grygum asks Jimjar to bet whether Thorin will make it across.",
-    "source_quote": "Grygum asks Jimjar - 'Wanna make a bet?'",
+    "subject": "Jimjar and Gyrgum make bet",
+    "fact": "Gyrgum asks Jimjar to bet whether Thorin will make it across.",
+    "source_quote": "Gyrgum asks Jimjar - 'Wanna make a bet?'",
     "quote_verified": false,
     "passes": [
       "large"
@@ -773,7 +773,7 @@
   {
     "type": "event",
     "subject": "Thorin overhears bet",
-    "fact": "Thorin overhears the bet between Grygum and Jimjar.",
+    "fact": "Thorin overhears the bet between Gyrgum and Jimjar.",
     "source_quote": "Thorin overhears the bet and shrugs.",
     "quote_verified": true,
     "passes": [
@@ -828,7 +828,7 @@
   {
     "type": "event",
     "subject": "Thorin\u2019s climb and bet",
-    "fact": "Grygum bet with Jimjar that Thorin would make the climb. Thorin overheard, tied a rope around his waist, and climbed to the cavern roof and across the gorge. He shouted that they no longer owed Jimjar money, unaware of the hidden attackers.",
+    "fact": "Gyrgum bet with Jimjar that Thorin would make the climb. Thorin overheard, tied a rope around his waist, and climbed to the cavern roof and across the gorge. He shouted that they no longer owed Jimjar money, unaware of the hidden attackers.",
     "source_quote": "Wanna make a bet? ... Makes it.",
     "quote_verified": false,
     "passes": [
@@ -938,8 +938,8 @@
   {
     "type": "event",
     "subject": "Yuk Yuk\u2019s murder",
-    "fact": "Yuk Yuk is found dead with his throat cut by a shortsword, and Grygum notes any member of the group could have done it.",
-    "source_quote": "There is the corpse of Yuk Yuk, his throat cut with a blade. Grygum examines the cut and notes, \"It\u2019s a shortsword. Any one of us could have done it.\"",
+    "fact": "Yuk Yuk is found dead with his throat cut by a shortsword, and Gyrgum notes any member of the group could have done it.",
+    "source_quote": "There is the corpse of Yuk Yuk, his throat cut with a blade. Gyrgum examines the cut and notes, \"It\u2019s a shortsword. Any one of us could have done it.\"",
     "quote_verified": false,
     "passes": [
       "sweep",
@@ -1382,7 +1382,7 @@
     "type": "monster",
     "subject": "shortsword wound",
     "fact": "A fatal wound inflicted by a shortsword, capable of being delivered by any member of the group.",
-    "source_quote": "Grygum examines the cut and notes, 'It\u2019s a shortsword. Any one of us could have done it.'",
+    "source_quote": "Gyrgum examines the cut and notes, 'It\u2019s a shortsword. Any one of us could have done it.'",
     "quote_verified": false,
     "passes": [
       "small"
@@ -1403,8 +1403,8 @@
   {
     "type": "monster",
     "subject": "undead",
-    "fact": "Grygum and Jimjar bet on whether the lost tomb contains undead, with Jimjar dismissing skeletons and zombies as boring.",
-    "source_quote": "Grygum asks Jimjar, \"Wanna bet that we\u2019ll find monsters in the tomb?\" ... \"Undead?\" \"Boring.\" \"Skeletons and Zombies?\" \"I\u2019ll take that bet.\"",
+    "fact": "Gyrgum and Jimjar bet on whether the lost tomb contains undead, with Jimjar dismissing skeletons and zombies as boring.",
+    "source_quote": "Gyrgum asks Jimjar, \"Wanna bet that we\u2019ll find monsters in the tomb?\" ... \"Undead?\" \"Boring.\" \"Skeletons and Zombies?\" \"I\u2019ll take that bet.\"",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -1545,8 +1545,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum dismissed the name 'Ploopploopeen' as a tongue twister, prompting Shuushar to correct him. When the group turned left into a massive cavern, Grygum was about to speak again but was interrupted by the environment.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum dismissed the name 'Ploopploopeen' as a tongue twister, prompting Shuushar to correct him. When the group turned left into a massive cavern, Gyrgum was about to speak again but was interrupted by the environment.",
     "source_quote": "That\u2019s quite a bit of tongue twister.",
     "quote_verified": true,
     "passes": [
@@ -1556,9 +1556,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum finds the name 'Ploopploopeen' to be a tongue twister.",
-    "source_quote": "Grygum hears the name of the archpriest and mutters, 'That\u2019s quite a bit of tongue twister.'",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum finds the name 'Ploopploopeen' to be a tongue twister.",
+    "source_quote": "Gyrgum hears the name of the archpriest and mutters, 'That\u2019s quite a bit of tongue twister.'",
     "quote_verified": false,
     "passes": [
       "interiority"
@@ -1567,9 +1567,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is analyzing the murder weapon and speculating on the suspect pool.",
-    "source_quote": "Grygum examines the cut and notes, 'It\u2019s a shortsword. Any one of us could have done it.'",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is analyzing the murder weapon and speculating on the suspect pool.",
+    "source_quote": "Gyrgum examines the cut and notes, 'It\u2019s a shortsword. Any one of us could have done it.'",
     "quote_verified": false,
     "passes": [
       "small"
@@ -1578,9 +1578,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is enjoying toasted Ripplebark and initiates a bet about monsters in the tomb.",
-    "source_quote": "Grygum, enjoying the taste of toasted Ripplebark, asks Jimjar, 'Wanna bet that we\u2019ll find monsters in the tomb?'",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is enjoying toasted Ripplebark and initiates a bet about monsters in the tomb.",
+    "source_quote": "Gyrgum, enjoying the taste of toasted Ripplebark, asks Jimjar, 'Wanna bet that we\u2019ll find monsters in the tomb?'",
     "quote_verified": false,
     "passes": [
       "small"
@@ -1589,9 +1589,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum mutters that 'Ploopploopeen' is a tongue twister.",
-    "source_quote": "Grygum hears the name of the archpriest and mutters, 'That\u2019s quite a bit of tongue twister.'",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum mutters that 'Ploopploopeen' is a tongue twister.",
+    "source_quote": "Gyrgum hears the name of the archpriest and mutters, 'That\u2019s quite a bit of tongue twister.'",
     "quote_verified": false,
     "passes": [
       "large"
@@ -1600,9 +1600,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum mutters that Ploopploopeen is a tongue twister and later asks Jimjar to bet on whether monsters will be found in the tomb.",
-    "source_quote": "Grygum mutters, \"That\u2019s quite a bit of tongue twister.\" ... Grygum, enjoying the taste of toasted Ripplebark, asks Jimjar, \"Wanna bet that we\u2019ll find monsters in the tomb?\"",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum mutters that Ploopploopeen is a tongue twister and later asks Jimjar to bet on whether monsters will be found in the tomb.",
+    "source_quote": "Gyrgum mutters, \"That\u2019s quite a bit of tongue twister.\" ... Gyrgum, enjoying the taste of toasted Ripplebark, asks Jimjar, \"Wanna bet that we\u2019ll find monsters in the tomb?\"",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -1611,9 +1611,9 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum, Eldeth, and Zalthir",
-    "fact": "Grygum, Eldeth, and Zalthir recognize the bandits\u2019 story as a fabrication.",
-    "source_quote": "Grygum, Eldeth, and Zalthir realize that the story is a fabrication and that the details are not that important.",
+    "subject": "Gyrgum, Eldeth, and Zalthir",
+    "fact": "Gyrgum, Eldeth, and Zalthir recognize the bandits\u2019 story as a fabrication.",
+    "source_quote": "Gyrgum, Eldeth, and Zalthir realize that the story is a fabrication and that the details are not that important.",
     "quote_verified": true,
     "passes": [
       "small"
@@ -1634,7 +1634,7 @@
   {
     "type": "npc",
     "subject": "Jimjar",
-    "fact": "Jimjar convinced Yuk-Yuk and Spiderbait to join the group with a promise of 20 gold. He made a bet with Grygum about Thorin\u2019s climb, celebrated the discovery of a tinderbox, and was the one the group owed money to \u2014 until Thorin declared they no longer did.",
+    "fact": "Jimjar convinced Yuk-Yuk and Spiderbait to join the group with a promise of 20 gold. He made a bet with Gyrgum about Thorin\u2019s climb, celebrated the discovery of a tinderbox, and was the one the group owed money to \u2014 until Thorin declared they no longer did.",
     "source_quote": "That\u2019s the spirit. He makes it, or doesn\u2019t it?",
     "quote_verified": true,
     "passes": [
@@ -1645,7 +1645,7 @@
   {
     "type": "npc",
     "subject": "Jimjar",
-    "fact": "Jimjar convinced the curious goblins Yuk-Yuk and Spiderbait to follow him into the dangerous tunnels and later made a bet with Grygum about Thorin's climb.",
+    "fact": "Jimjar convinced the curious goblins Yuk-Yuk and Spiderbait to follow him into the dangerous tunnels and later made a bet with Gyrgum about Thorin's climb.",
     "source_quote": "Jimjar convinced them to follow him into the dangerous tunnels. \"Wanna make a bet?\" \"That\u2019s the spirit. He makes it, or doesn\u2019t it?\"",
     "quote_verified": false,
     "passes": [
@@ -1777,7 +1777,7 @@
   {
     "type": "npc",
     "subject": "Shuushar the Awakened",
-    "fact": "Shuushar observed Thorin\u2019s madness and remarked that in Sloobludop, the archpriest Ploopploopeen \u2014 a follower of the Sea Mother \u2014 could help. Shuushar defended the simplicity of the name 'Ploopploopeen' and expressed confusion at Grygum\u2019s reaction.",
+    "fact": "Shuushar observed Thorin\u2019s madness and remarked that in Sloobludop, the archpriest Ploopploopeen \u2014 a follower of the Sea Mother \u2014 could help. Shuushar defended the simplicity of the name 'Ploopploopeen' and expressed confusion at Gyrgum\u2019s reaction.",
     "source_quote": "Ploopploopeen is a follower of the Sea Mother, and she will be most welcoming of my awakening to the end of our people\u2019s madness.",
     "quote_verified": true,
     "passes": [
@@ -2470,8 +2470,8 @@
   {
     "type": "thread",
     "subject": "bandit leader's story",
-    "fact": "Grygum, Eldeth, and Zalthir recognize the bandit leader's story as a fabrication.",
-    "source_quote": "Grygum, Eldeth, and Zalthir realize that the story is a fabrication",
+    "fact": "Gyrgum, Eldeth, and Zalthir recognize the bandit leader's story as a fabrication.",
+    "source_quote": "Gyrgum, Eldeth, and Zalthir realize that the story is a fabrication",
     "quote_verified": true,
     "passes": [
       "large"
@@ -2603,7 +2603,7 @@
     "type": "thread",
     "subject": "murder mystery",
     "fact": "The identity of Yuk Yuk\u2019s killer is unknown, and all group members are potential suspects.",
-    "source_quote": "Grygum examines the cut and notes, 'It\u2019s a shortsword. Any one of us could have done it.'",
+    "source_quote": "Gyrgum examines the cut and notes, 'It\u2019s a shortsword. Any one of us could have done it.'",
     "quote_verified": false,
     "passes": [
       "small"
@@ -2613,8 +2613,8 @@
   {
     "type": "thread",
     "subject": "Ploopploopeen\u2019s identity",
-    "fact": "Shuushar claims Ploopploopeen is a follower of the Sea Mother who welcomes awakenings to the end of their people\u2019s madness, while Grygum thinks the name is a tongue twister.",
-    "source_quote": "Shuushar the Awakened sees Thorin\u2019s bout of madness and remarks that perhaps in Sloobludop, the archpriest Ploopploopeen can help. \"Ploopploopeen is a follower of the Sea Mother, and she will be most welcoming of my awakening to the end of our people\u2019s madness.\" ... Grygum mutters, \"That\u2019s quite a bit of tongue twister.\"",
+    "fact": "Shuushar claims Ploopploopeen is a follower of the Sea Mother who welcomes awakenings to the end of their people\u2019s madness, while Gyrgum thinks the name is a tongue twister.",
+    "source_quote": "Shuushar the Awakened sees Thorin\u2019s bout of madness and remarks that perhaps in Sloobludop, the archpriest Ploopploopeen can help. \"Ploopploopeen is a follower of the Sea Mother, and she will be most welcoming of my awakening to the end of our people\u2019s madness.\" ... Gyrgum mutters, \"That\u2019s quite a bit of tongue twister.\"",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -2647,7 +2647,7 @@
     "type": "thread",
     "subject": "The origin of the bandits' truce",
     "fact": "The bandits\u2019 story of being lost in a dungeon is suspected to be a fabrication, but their true motive remains unverified.",
-    "source_quote": "Grygum, Eldeth, and Zalthir realize that the story is a fabrication and that the details are not that important.",
+    "source_quote": "Gyrgum, Eldeth, and Zalthir realize that the story is a fabrication and that the details are not that important.",
     "quote_verified": true,
     "passes": [
       "interiority"
@@ -2746,7 +2746,7 @@
     "type": "thread",
     "subject": "Yuk Yuk\u2019s murder",
     "fact": "The identity of Yuk Yuk\u2019s killer is unknown, and the shortsword could have been wielded by any member of the group.",
-    "source_quote": "Grygum examines the cut and notes, 'It\u2019s a shortsword. Any one of us could have done it.'",
+    "source_quote": "Gyrgum examines the cut and notes, 'It\u2019s a shortsword. Any one of us could have done it.'",
     "quote_verified": false,
     "passes": [
       "interiority"

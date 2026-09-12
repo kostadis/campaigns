@@ -32,14 +32,14 @@ This is the check that a summary-only pass cannot do, and it is why this stage e
 
 | Scene-01 line | Quote | Filed under | Tape says |
 |---|---|---|---|
-| L87 | "I assume his AC is higher than 9." | `[Thorin]` | **Grygum** `:923` |
+| L87 | "I assume his AC is higher than 9." | `[Thorin]` | **Gyrgum** `:923` |
 | L91 | "Because my first girlfriend in high school was named Dawn." | `[GM]` | **Thorin** `:943` |
 | L114 | "somebody is going to be upset later. I'm… I had a premonition to." | `[GM]` | **Daz** `:1265` |
-| L133 | "Do you think the fireball was a hint?" | `[GM]` | **Grygum** `:1391` |
-| L144 | "You take notes. Exactly." | `[GM]` | **Grygum** `:1441` (the GM then echoes it) |
+| L133 | "Do you think the fireball was a hint?" | `[GM]` | **Gyrgum** `:1391` |
+| L144 | "You take notes. Exactly." | `[GM]` | **Gyrgum** `:1441` (the GM then echoes it) |
 
 ⭐ **Two of these were already correct at stage 1** — `session-summary.md:62` credits the Dawn
-line to Thorin and `:255` credits the fireball line to Grygum. For these five the scene layer
+line to Thorin and `:255` credits the fireball line to Gyrgum. For these five the scene layer
 was the stale one, the reverse of everything else this run found. **Staleness does not live
 at a fixed depth; check both directions every time.**
 

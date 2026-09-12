@@ -57,7 +57,7 @@
 
 - **Current location:** Neverlight Grove, at the edge of the path leading toward Yggmorgus (Zuggtmoy's giant mushroom tower), having just cleared the Garden of Welcome.
 - **Immediate situation:** The party can see the path ahead to the giant mushroom. They can hear the wedding procession — a parade of corrupted creatures singing Zuggtmoy's discordant hymn about the wedding of Zuggtmoy and Araumycos. The wedding ceremony appears imminent. Party is deciding whether to proceed toward it.
-- **Party composition present:** Thorin (with Dawnbringer), Grygum, Daz, Zalthir, Jimjar, Eldeth, Spiderbait, Furuum, Aliza Argot. Sarith is dead.
+- **Party composition present:** Thorin (with Dawnbringer), Gyrgum, Daz, Zalthir, Jimjar, Eldeth, Spiderbait, Furuum, Aliza Argot. Sarith is dead.
 
 ## Tracked Items
 

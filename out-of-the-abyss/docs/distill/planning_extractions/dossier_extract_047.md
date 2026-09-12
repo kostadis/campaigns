@@ -16,7 +16,7 @@ Chipgrin led the wererat scouts and took offense at any suggestion his pack migh
 
 ## Jimjar
 
-Jimjar made a bet that Thorin couldn't clear the black pudding gap with his pack on, though Grygum realized Jimjar hadn't specified *how* Thorin should cross and the dwarf could simply walk across the completed bridge. Later, Jimjar joked that Daz's reflection in the gelatinous slime mirrors was better looking than the real Daz.
+Jimjar made a bet that Thorin couldn't clear the black pudding gap with his pack on, though Gyrgum realized Jimjar hadn't specified *how* Thorin should cross and the dwarf could simply walk across the completed bridge. Later, Jimjar joked that Daz's reflection in the gelatinous slime mirrors was better looking than the real Daz.
 
 ## Glabbagool
 

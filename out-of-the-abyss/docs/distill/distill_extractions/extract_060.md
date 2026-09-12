@@ -1,8 +1,8 @@
 ## NPCs
 
-- **Grygum** — Current location: Candlekeep. Current state: studying the poison treatise. Recent actions: worked out the Midnight Tears trigger is a place, not a clock. [cite: "the trigger wasn't a clock. It was a place"]
-- Grygum: gave an answer to the "Question of the Age" (the triangle) built partly from Stroud's Gambit. [cite: "the triangle, three options, the thing I'd half-built out of Stroud's Gambit"]
-- Grygum: held a key that once hung around Kalan Strongbranch's neck, then handed it to Daz. [cite: "It had hung around Kalan Strongbranch Kalan Strongbranch's neck once... I handed it to Daz"]
+- **Gyrgum** — Current location: Candlekeep. Current state: studying the poison treatise. Recent actions: worked out the Midnight Tears trigger is a place, not a clock. [cite: "the trigger wasn't a clock. It was a place"]
+- Gyrgum: gave an answer to the "Question of the Age" (the triangle) built partly from Stroud's Gambit. [cite: "the triangle, three options, the thing I'd half-built out of Stroud's Gambit"]
+- Gyrgum: held a key that once hung around Kalan Strongbranch's neck, then handed it to Daz. [cite: "It had hung around Kalan Strongbranch Kalan Strongbranch's neck once... I handed it to Daz"]
 - **Daz** — Current location: Candlekeep. Current state: investigating the murder. Faction: PC party. Recent actions: cast a divination on the key and found it clean. [cite: "The key was clean. Not linked to that spell"]
 - Daz: is drow; struggled to read the sapphire/key's meaning. [cite: "Daz was drow. Daz knew that world... and still the meaning slid off him"]
 - Daz: went to the Oak Tree Apothecary and can speak to beasts. [cite: "turned out he could talk to the beasts"]
@@ -12,8 +12,8 @@
 - **Zalthir** — Current location: Candlekeep. Current state: investigating; assigned to search suspects' rooms. Faction: PC party. Recent actions: searched the Readers' chambers with Glabbagool. [cite: "the two of us moved as one thing through the Readers' Tower"]
 - Zalthir: spent long in the Underdark and stands near exits by habit. [cite: "You learn the exits before you learn the people"]
 - Zalthir: references a monastery class and Brother Heslin. [cite: "maybe it was Brother Brother Heslin, the tall one who always smelled of incense"]
-- **Vareth** — Current location: Candlekeep. Recent actions: took Grygum's triangle answer, turned it into a "fourth corner," and told everyone. [cite: "he'd turned it into a thing. A fourth corner. And he had told everyone"]
-- Vareth: has scheduled a disputation in the Oval Theater on Grygum's new theology. [cite: "a disputation in the Oval Theater on his new theology"]
+- **Vareth** — Current location: Candlekeep. Recent actions: took Gyrgum's triangle answer, turned it into a "fourth corner," and told everyone. [cite: "he'd turned it into a thing. A fourth corner. And he had told everyone"]
+- Vareth: has scheduled a disputation in the Oval Theater on Gyrgum's new theology. [cite: "a disputation in the Oval Theater on his new theology"]
 - **Daral Yashenti** — Current location: Candlekeep (with the party). Current state: poisoned, terrified, believes only Daz and Thorin want him alive. [cite: "concluded those two were the only people in the building who didn't want him dead"]
 - Daral Yashenti: gave the poisoned book; dropped it under the evergreen tree ~11am on Deadwinter's Eve. [cite: "He'd dropped the book under the evergreen tree... around 11am on Deadwinter's Eve"]
 - Daral Yashenti: believes someone wants him framed for the murder. [cite: "He'd worked out someone wanted him to take the fall"]
@@ -33,7 +33,7 @@
 - **Nibbles** — Current location: Oak Tree Apothecary. Current state: squirrel witness, bribed with nuts. [cite: "maybe Nibbles knows something. The squirrel popped up"]
 - Nibbles: saw a gnome, a dark-skinned elf, and a dragonborn who broke a vial and took the toxin. [cite: "It was the dragonborn who broke the shelf and took the toxin"]
 - **Fembris Lancer** — Current location: departing to the Oval Theater debate. Current state: the party's Avowed minder who left his post. [cite: "our minder, the The Avowed assigned to ensure four armed strangers didn't help themselves"]
-- **Bookwyrm (First Reader)** — Current location: Candlekeep. Recent actions: politically unable to skip Grygum's debate; told The Avowed to take leftovers to their dorms. [cite: "Bookwyrm (First Reader) herself unable to politically afford to miss it"]
+- **Bookwyrm (First Reader)** — Current location: Candlekeep. Recent actions: politically unable to skip Gyrgum's debate; told The Avowed to take leftovers to their dorms. [cite: "Bookwyrm (First Reader) herself unable to politically afford to miss it"]
 - Bookwyrm: on the suspect list, eager to fire the old boss and seat a new one. [cite: "eager to fire the old boss and seat a new one"]
 - Bookwyrm: her chambers searched, found clean of poison. [cite: "A clean room"]
 - **A'lai Aivenmore** — Current location: Candlekeep; visited the apothecary. Current state: prime suspect, about to be dismissed, wants the keep. [cite: "The one who wanted the keep. The one about to be dismissed"]
@@ -73,15 +73,15 @@
 
 ## Factions
 
-- **The Avowed** — Current goals: eager to debate Grygum's new research immediately despite the murder. [cite: "The whole The Avowed community wanted, right then and there, to drop everything and debate it"]
+- **The Avowed** — Current goals: eager to debate Gyrgum's new research immediately despite the murder. [cite: "The whole The Avowed community wanted, right then and there, to drop everything and debate it"]
 - The Avowed: assign minders to armed visitors; Fembris Lancer was the party's. [cite: "the The Avowed assigned to ensure four armed strangers didn't help themselves"]
 - **Council of Savants** — Discussed as the body A'lai Aivenmore seeks to ascend through by removing Janussi and Daral. [cite: "No one left on Council of Savants able to prevent his ascension"]
 - **Followers of Kelemvor** — Referenced as clarifying that a dead man possesses nothing, an undead can. [cite: "The followers of Kelemvor have made that point very clear, repeatedly"]
 
 ## World Events
 
-- Grygum determined the Midnight Tears poison triggers at a location's midnight, not a clock time, and can be outrun by riding west. [cite: "if you did continue to ride west, you could essentially out"]
-- Vareth published Grygum's triangle answer as a "fourth corner," drawing The Avowed to a debate. [cite: "everyone was now headed toward the research area"]
+- Gyrgum determined the Midnight Tears poison triggers at a location's midnight, not a clock time, and can be outrun by riding west. [cite: "if you did continue to ride west, you could essentially out"]
+- Vareth published Gyrgum's triangle answer as a "fourth corner," drawing The Avowed to a debate. [cite: "everyone was now headed toward the research area"]
 - The debate emptied the keep, leaving rooms unwatched for roughly an hour. [cite: "his departure handed us an hour without supervision"]
 - Daz's divination confirmed the recovered key was clean and not the summoning-bound key. [cite: "The summoning had been worked on a different key"]
 - On Deadwinter's Eve ~11am, Daral Yashenti dropped the wrapped book under the evergreen tree before his keeper's Tower meeting. [cite: "before rushing up to the keeper's Tower for his end-of-year meeting"]
@@ -103,7 +103,7 @@
 - Oak Tree Apothecary: a dangerous-toxins vial was broken and hidden under a peppermint rag. [cite: "a peppermint-soaked rag and a broken vial"]
 - **The greenhouse** — Below the apothecary, where Leuwin grows herbs year-round with magic and took A'lai. [cite: "the greenhouse below, where he grows herbs year-round with magic"]
 - **Southern Dining Hall** — Where the Deadwinter supper was held; holds the Milil statue; searched for evidence. [cite: "The dining hall still smelled like breakfast"]
-- **Oval Theater** — Where Grygum's disputation/debate on his new theology was staged. [cite: "a disputation in the Oval Theater on his new theology"]
+- **Oval Theater** — Where Gyrgum's disputation/debate on his new theology was staged. [cite: "a disputation in the Oval Theater on his new theology"]
 - **Readers' Tower** — Contains the eight suspects' chambers, searched by Zalthir and Glabbagool. [cite: "moved as one thing through the Readers' Tower"]
 - **Janussi's office** — Where the poisoned gift's wrapping paper turned up. [cite: "The wrapping paper turned up in Janussi's office, not here"]
 - **Keeper's Tower** — Where Daral went for his end-of-year meeting on Deadwinter's Eve. [cite: "rushing up to the keeper's Tower for his end-of-year meeting"]
@@ -117,6 +117,6 @@
 - Whether Sylvira was truly present or someone wearing her face, since she used a lantern and couldn't speak. [cite: "That was actually her, somebody wearing her face, right?"]
 - Whether the heart can be reunited with Janussi's body to make the corpse speak. [cite: "can we reunite the heart with the body"]
 - The identity of the person who handled the lead-lined chalice late in the evening — a potential witness/culprit. [cite: "Somebody handling that cup late, after the meal... that's a witness and a window"]
-- Grygum's filed question about whether any physical property could slow the "one true sun's" light. [cite: "whether any physical property could slow that light down"]
+- Gyrgum's filed question about whether any physical property could slow the "one true sun's" light. [cite: "whether any physical property could slow that light down"]
 - Daz's inability to resolve the connection between the gem, the stolen key, and the murdered man. [cite: "The pattern was there. I simply could not make it resolve"]
 - Midnight Tears identified as the poison and named for later reference. [cite: "Midnight Tears. I kept the name where I would not lose it"]

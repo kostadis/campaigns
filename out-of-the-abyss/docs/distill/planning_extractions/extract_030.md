@@ -14,12 +14,12 @@
 - Stood alone at the docks after all others fled upon Themberchaud's landing.
 - Initially attempted to halt the party in the name of the Deep King.
 - Recognized the party (or some members) from an Ember Vanguard wanted poster and declared intent to warn Captain Errde Blackskull immediately.
-- Was persuaded by Grygum to believe the party were impersonators on a covert mission to flush out the real Ember Vanguard.
+- Was persuaded by Gyrgum to believe the party were impersonators on a covert mission to flush out the real Ember Vanguard.
 - Accepted a caltrop as a "symbol of the mission" and departed, buying the party time to escape.
 
 **Jimjar (Ghoul)**
 - Present throughout, accompanying the party on Themberchaud's back.
-- Threw a rope to catch Grygum when he fell from the dragon.
+- Threw a rope to catch Gyrgum when he fell from the dragon.
 - Made a wager — an empty shell gem — that the Neverlight Grove's "circle of joy" would reveal itself to be a "circle of unwilling vows" before the party leaves.
 - Described the situation as "a wedding involving demons and mushrooms."
 
@@ -59,7 +59,7 @@
 **Duergar of Gracklstugh (General / Stone Guard)**
 - Workers at the forge were unafraid of Themberchaud but reacted with panic upon seeing party members — specifically Daz — whom they believed to be the Ember Vanguard.
 - Multiple Duergar were observed rushing to send warnings following the flyby.
-- Stone Guard at the docks attempted to enforce Deep King authority and moved to alert Captain Errde before being misdirected by Grygum.
+- Stone Guard at the docks attempted to enforce Deep King authority and moved to alert Captain Errde before being misdirected by Gyrgum.
 
 **Ember Vanguard**
 - Not present, but their reputation is clearly active: the party was mistaken for them by the Stone Guard based on a wanted poster; Duergar workers panicked at the sight of party members associated with the group.

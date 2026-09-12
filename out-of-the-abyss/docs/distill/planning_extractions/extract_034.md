@@ -2,7 +2,7 @@
 
 **Zuggtmoy (Queen of Fungi)**
 - Absent physically but her influence pervades the Neverlight Grove. Her thralls are rehearsing a wedding procession for her planned union with Araumycos.
-- Grygum receives a vision of Zuggtmoy: a humanoid figure three times the height of her fungal bridesmaids, composed entirely of fungi and mold, floating inside a great tower (assumed to be Yggmorgus), being dressed in lichen veils and a mycelium bridal gown by attending Myconids.
+- Gyrgum receives a vision of Zuggtmoy: a humanoid figure three times the height of her fungal bridesmaids, composed entirely of fungi and mold, floating inside a great tower (assumed to be Yggmorgus), being dressed in lichen veils and a mycelium bridal gown by attending Myconids.
 - Her presence near Yggmorgus inflicts madness visions on Daz (disturbing images of drow living peacefully alongside elves and keeping dogs as pets).
 
 **Yestabrod**
@@ -30,7 +30,7 @@
 - Present with Rusharoo and the Circle of Explorers at the escape tunnel. No independent action recorded.
 
 **Stool**
-- Convinced by Grygum to leave the Neverlight Grove given their shared history and what Stool had witnessed.
+- Convinced by Gyrgum to leave the Neverlight Grove given their shared history and what Stool had witnessed.
 - Said a farewell to Daz before departing with the Myconids, with apparent sadness.
 
 **Rump-a-dump (Rumpadump)**
@@ -51,7 +51,7 @@
 - Absent but discussed. Daz explains she is still pursuing the party because she personally promised their delivery to Menzoberranzan, the outpost of Velkynvelve was destroyed on her watch, and failure would result in her transformation into a Drider. Assessed as relentless until either the party is captured or she is dead.
 
 **Pelek (ghost)**
-- Consulted when Zalthir behaved erratically after looting Xinaya's corpse. Confirmed Zalthir was not possessed by a ghost. Prompted Grygum to consider using a cleric's lesser restoration to cure the madness.
+- Consulted when Zalthir behaved erratically after looting Xinaya's corpse. Confirmed Zalthir was not possessed by a ghost. Prompted Gyrgum to consider using a cleric's lesser restoration to cure the madness.
 
 ---
 
@@ -73,7 +73,7 @@
 
 **Zuggtmoy's Ascension Arc**
 - The mock wedding rehearsal confirms active preparation for Zuggtmoy's union with Araumycos is underway, not merely planned.
-- Grygum receives a direct vision of Zuggtmoy being dressed in bridal regalia inside Yggmorgus — the ritual is progressing.
+- Gyrgum receives a direct vision of Zuggtmoy being dressed in bridal regalia inside Yggmorgus — the ritual is progressing.
 - Daz suffers madness in proximity to Yggmorgus, indicating the corrupting influence is expanding outward.
 - Yestabrod's corpse is being animated as a puppet priest to rehearse the ceremony, demonstrating Zuggtmoy's power extends into post-death control of key figures.
 

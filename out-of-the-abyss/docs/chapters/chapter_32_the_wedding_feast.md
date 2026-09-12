@@ -23,7 +23,7 @@ Basidia sighs and then points ahead to another Myconid, “They is Hepbobe, and 
 As we approach, Hepbobe starts talking to us once the Spores of Raport connect with our mind. “We are in charge of growing food for the colony.”
 
 
-Grygum awkwardly asks, “So wait, you are mushrooms, like the food, and you eat other mushrooms?” 
+Gyrgum awkwardly asks, “So wait, you are mushrooms, like the food, and you eat other mushrooms?” 
 
 
 I blush in shame. 
@@ -53,19 +53,19 @@ I am bored, and he notices that and mutters, “I could give you a detailed anal
 Basidia prods us to ask Hepbobe about Phylo. 
 
 
-Hepbobe must have overheard Basidia because he first stares at Grygum, then Basidia, and then Grygum, and then seems to sigh. “Basidia is concerned that Phylo is doing something that is going to irreparably harm Myconid life. I, on the other hand, believe that these organizational constructs, whether it's one or many, are things that only Sovereigns care about. Those of us who have a job to do to maintain the farming supply do not think that this is meaningful one way or another.” 
+Hepbobe must have overheard Basidia because he first stares at Gyrgum, then Basidia, and then Gyrgum, and then seems to sigh. “Basidia is concerned that Phylo is doing something that is going to irreparably harm Myconid life. I, on the other hand, believe that these organizational constructs, whether it's one or many, are things that only Sovereigns care about. Those of us who have a job to do to maintain the farming supply do not think that this is meaningful one way or another.” 
 
 
 The words they say are meaningless. They must be mad. 
 
 
-However, Grygum seems to be nodding. 
+However, Gyrgum seems to be nodding. 
 
 
 “Basidia believes that if we’re all together, everybody knows what’s going on, but does everybody need to? By focusing, we can deliver better mushrooms, higher quality mushrooms, and not get distracted by the concerns of the various groups. And frankly, there are some members of the group who will just talk endlessly about that topic that nobody cares about. For example, I care about this particular fungus, and other members of the circle of farmers care about it. But when we are in the circle, I start talking about it, and my circle cares, but everyone gets bored. And then I am told to be quiet. And I ask, Thorin, when are we supposed to have our internal conversations?” 
 
 
-Grygum and Zalthir nod. 
+Gyrgum and Zalthir nod. 
 
 
 And then Hepbobe becomes quite animated, “I think Basidia is exaggerating their concerns. And frankly, what is wrong with Phylo’s proposal, and that we’re going to head to a better day? Does it always have to be doom and gloom? What if there is a better day for Myconid Kind?”
@@ -75,7 +75,7 @@ I ponder that.
 ### 
 
 
-Grygum 
+Gyrgum 
 
 
 The organizational disputes of the Sovereign remind me of the preachings of the clerics of Bahamut. Much like we would spend days wondering which exact prayer would get Bahamut’s attention and please him most, they spend their days pondering how best to organize. 
@@ -249,7 +249,7 @@ And it’s a good thing I am carrying Dawnbringer, because the sunlight hurts th
 I see to my left Jimjar covered in spores, and then he stops moving.  
 
 
-Grygum approaches the creature to touch it. Is this thing the source of the harmful spores?
+Gyrgum approaches the creature to touch it. Is this thing the source of the harmful spores?
 
 
 The orc cleric of Bahamut approaches the creature gingerly, invokes the power of his god, and inflicts wounds on it. 
@@ -294,7 +294,7 @@ I think to myself that I dodged a bullet there with Z.
 Zalthir strikes the fungal abomination, killing it. 
 
 
-### Grygum 
+### Gyrgum 
 
 
 I look at Xinaya and notice that she is crying. So close to liberation and yet so far. And scream about how life sucks. She does a lot of that. 

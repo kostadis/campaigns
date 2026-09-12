@@ -1,6 +1,6 @@
 # The Ember Vanguard — Open Business
 
-*Kept by Grygum. I took notes. It's what I do.*
+*Kept by Gyrgum. I took notes. It's what I do.*
 
 *Current as of: the High Tower lobby, mid-fight, A'lai Aivenmore still
 standing. One raider dead, one soaked in acid. Zalthir is down. I am
@@ -211,7 +211,7 @@ stopped.
   arm by choice. What he is becoming, and what he meant when he said he
   wanted *out*, remain his own business and nobody has asked him properly.
 
-### Grygum — mine
+### Gyrgum — mine
 
 - **Kessler's note.** A half-orc at the Mountain's Mouth in Triboar, who
   keeps a small Bahamut shrine, asked us to carry a written note south to a
@@ -220,7 +220,7 @@ stopped.
   called it an omen and said I would certainly visit. ⭐ **I have not
   delivered it. We walked past it to get here.** The note is still on me.
 - I owe **Brother Vareth** a marked-up copy of the Stroudite papers he
-  pressed on me. He has since published the fourth corner — the *Grygumite
+  pressed on me. He has since published the fourth corner — the *Gyrgumite
   school*, the strong-weak hypothesis — with my name on the back of it. The
   entire keep emptied into the Oval Theater to argue about it, which is the
   only reason we got the hour that found the heart. I have not returned the

@@ -2,7 +2,7 @@
 
 - **Thorin**: Continues wielding Dawnbringer, which actively communicates with him. Dawnbringer's sunlight proves effective against the fungal creatures, damaging them as if it were true sunlight. Used Dawnbringer to deliver a mercy killing to Xinaya at her request (Dawnbringer agreed to the act).
 - **Zalthir**: Landed the killing blow on the fungal abomination. Collected treasure after the battle.
-- **Grygum**: Used Guiding Bolt and Inflict Wounds in combat, demonstrating continued clerical abilities devoted to Bahamut.
+- **Gyrgum**: Used Guiding Bolt and Inflict Wounds in combat, demonstrating continued clerical abilities devoted to Bahamut.
 - **Daz**: Cast Fireball ("fire mote") against the fungal creatures. Also used bolts to kill remaining Myconids.
 
 **Items/Resources:**
@@ -13,8 +13,8 @@
 
 - **Thorin** (positive): Recognized the melody of Zuggtmoy from his earlier dream, demonstrating growing awareness of the demonic threat. Showed mercy by killing Xinaya at her request, consulting Dawnbringer first — deepening his bond with the sentient weapon.
 - **Thorin** (negative): Heard Zuggtmoy's music again, reinforcing his personal connection/vulnerability to the Demon Queen of Fungi.
-- **Grygum** (positive): Drew a philosophical parallel between the Myconid organizational disputes and the clerics of Bahamut debating prayers — showing growing wisdom and perspective beyond his faith.
-- **Grygum** (negative): Reflected that Phylo's death cult mirrors Severin's cult, connecting his past trauma/mission to the present situation.
+- **Gyrgum** (positive): Drew a philosophical parallel between the Myconid organizational disputes and the clerics of Bahamut debating prayers — showing growing wisdom and perspective beyond his faith.
+- **Gyrgum** (negative): Reflected that Phylo's death cult mirrors Severin's cult, connecting his past trauma/mission to the present situation.
 - **Daz** (positive): Recognized the strategic implications — both Zuggtmoy and Demogorgon are confirmed present in the Prime Material Plane in the Underdark. Gathered critical intelligence (the Drow way).
 - **Zalthir** (mixed): Showed "true Drow instincts" by prioritizing interrogation over mercy killing of Xinaya. Expressed concern about spore infection of his own mind ("I will not become a zombie"). Noticed Jimjar's behavioral change.
 
@@ -23,7 +23,7 @@
 - **Thorin**: Chose to mercy-kill Xinaya after she begged for death, consulting Dawnbringer and receiving her consent. Joked about it being an "arranged marriage" with the sword.
 - **Zalthir**: Questioned whether Xinaya consented to being killed — shows moral concern despite his pragmatic instincts. Prioritized intelligence-gathering from Xinaya before any mercy was offered.
 - **Daz**: Received a direct charge from Xinaya — a female Drow of Lolth — to warn Menzoberranzan about Zuggtmoy's presence in the Underdark. This creates a potential obligation tied to his Drow heritage.
-- **Grygum**: Approached the fungal abomination directly to test whether it was the source of harmful spores — showed willingness to take personal risk for the party's understanding.
+- **Gyrgum**: Approached the fungal abomination directly to test whether it was the source of harmful spores — showed willingness to take personal risk for the party's understanding.
 - **Entire party**: Chose to press deeper toward the giant mushroom and the wedding ceremony rather than retreat after the battle.
 
 ## Party State Updates

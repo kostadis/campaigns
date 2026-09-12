@@ -22,7 +22,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 ## History with the Party
 1. **Flumph encounter:** The flumph read the party's minds and referenced Werz as a duergar whom assassins wielding "a magical light blade" had tried to kill.
 2. **Assassination Attempt:** The party discovered Werz unconscious on the piers, having been attacked by two assassins wielding glowing weapons (possibly psychic). He had no visible wounds. The assassins carried a charcoal drawing of him, confirming he was a deliberate target.
-3. **Rescue & Initial Departure:** Grygum healed him. Werz expressed surprise and gratitude, claimed ignorance about why he was targeted, then recognized the drawing as proof he was specifically marked. He invited the party to the Shattered Spire the next day to reward them, turned invisible, and departed.
+3. **Rescue & Initial Departure:** Gyrgum healed him. Werz expressed surprise and gratitude, claimed ignorance about why he was targeted, then recognized the drawing as proof he was specifically marked. He invited the party to the Shattered Spire the next day to reward them, turned invisible, and departed.
 4. **Shattered Spire meeting:** Werz met the party at the tavern built on a broken stalagmite jutting from the Darklake. Gave each party member (including the flumph) a gemstone worth 10 gp in gratitude for saving his life. Explained that assassins targeted him but that the Stone Guards would never believe him.
 5. **Revealed his trade:** Admitted he brokers forbidden weapons deals between duergar clans, violating the Deepking's decree that only Clan Steelshadow may handle weapons orders.
 6. **Offered a favor:** Proposed facilitating a weapons deal between the Deep Gnomes and the duergar clans, which would help the party reach Blingdenstone.
@@ -48,7 +48,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Eldgrim:** Handles the assassination contract; considers Werz insignificant ("small potatoes").
 - **The Party (general):** Transactional ally; grateful for saving his life, paying well for their services and silence.
 - **Daz:** Primary negotiating counterpart; struck the NDA and assassin-removal deal.
-- **Grygum:** Specifically healed Werz; direct personal debt.
+- **Gyrgum:** Specifically healed Werz; direct personal debt.
 - **Jimjar:** Identified Werz's gem payment as empty spell gems tied to Kazook Pickshine.
 - **Kazook Pickshine (Blingdenstone alchemist):** Indirect connection — the spell gems Werz paid with are valuable to Kazook.
 - **Clan Steelshadow:** Operates in violation of their monopoly on weapons orders.

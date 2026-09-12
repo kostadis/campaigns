@@ -4,7 +4,7 @@ Ulnara is identified as a member of the Council of Savants and a necromancer in 
 
 ## Skiit
 
-Skiit is a Derro working under Ulnara, tasked with tossing body parts into the zombie pit. He complained that "Pliinki promised Skiit a better job" and asked if he could kill Spiderbait. When Grygum attempted to intimidate him, Skiit puffed himself up and declared himself a follower of Demogorgon, proclaiming that Pliinki said anyone who follows Demogorgon is making the Derro "proud and powerful" and that they're "going to be great again." He accused the party of working for the Duergar or the Mindflayers. Grygum pushed him off the cliff into the pit. He survived the fall and began to wake up, but Daz first attempted to crush him with Maximilian's Earthen Grasp (Skiit escaped) and then killed him with Toll the Dead. Skiit is dead, and Ulnara planned to raise him as a zombie.
+Skiit is a Derro working under Ulnara, tasked with tossing body parts into the zombie pit. He complained that "Pliinki promised Skiit a better job" and asked if he could kill Spiderbait. When Gyrgum attempted to intimidate him, Skiit puffed himself up and declared himself a follower of Demogorgon, proclaiming that Pliinki said anyone who follows Demogorgon is making the Derro "proud and powerful" and that they're "going to be great again." He accused the party of working for the Duergar or the Mindflayers. Gyrgum pushed him off the cliff into the pit. He survived the fall and began to wake up, but Daz first attempted to crush him with Maximilian's Earthen Grasp (Skiit escaped) and then killed him with Toll the Dead. Skiit is dead, and Ulnara planned to raise him as a zombie.
 
 ## Pliinki
 

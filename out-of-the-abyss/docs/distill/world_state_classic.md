@@ -11,7 +11,7 @@ Self-adopted name (also appears on wanted posters in Gracklstugh, misspelled). C
 - **Daz** — Drow wizard (evoker), apostate, no house affiliation; from Menzoberranzan/Gracklstugh background [cite:125]. Suffering escalating mental fog/pressure building for days, tied to Underdark madness bleeding to the surface; it smothered a spell attempt at Candlekeep [cite:357]. Is being protected by an **unknown wealthy patron** paying "Menzoberranzan rates" through anonymous cutouts [cite:240][cite:204]. Can speak with beasts (Stonespeaker crystal) [cite:6]. Casts force darts, Fireball (Sculpt Spells), Scorching Ray, Shape Water. Took Fey Touched feat (free Misty Step).
 - **Zalthir** — Bronze/golden dragonborn shadow monk; monastery-trained (obscure/combat-optimized build). Uses Eldritch Claw Tattoo (tentacles), Shadow Step, magical Darkness, Stunning Strike. Has **Glabbagool fused permanently to his forearm** [cite:285]. Draconic heritage and birth circumstances are a sensitive point (used as taunts). Trained at a monastery under instructors including Brother Heslin, Brother Quellin, Brother Harren (memory hazy).
 - **Thorin** — Dwarf raised by hill giants; fighter (Zhentarim Tactics fighting style considered). Wields the sentient sunblade **Dawnbringer** [cite:9]. Habitually hoards consumables (undrunk Potion of Giant Strength). Eldeth Feldrun swore to have her clan embrace him after she briefs Mithral Hall and Gauntlgrym.
-- **Grygum** — Orc/half-orc cleric of Bahamut; mentor was **Gorg'Bahamut**. Obsessive note-taker/archivist [cite:110]. Founder of the **Grygumite school / "strong-weak hypothesis"** theology at Candlekeep [cite:13]. Has Lesser Restoration, Revivify, Mending, Guiding Bolt, Spirit Guardians, acid breath. A living half-orc Bahamut cleric — academically prized at Candlekeep.
+- **Gyrgum** — Orc/half-orc cleric of Bahamut; mentor was **Gorg'Bahamut**. Obsessive note-taker/archivist [cite:110]. Founder of the **Gyrgumite school / "strong-weak hypothesis"** theology at Candlekeep [cite:13]. Has Lesser Restoration, Revivify, Mending, Guiding Bolt, Spirit Guardians, acid breath. A living half-orc Bahamut cleric — academically prized at Candlekeep.
 
 ### Companions & Associated NPCs
 - **Dawnbringer** — Sentient sunblade (she/her), ~3,000–4,000 years in darkness before recovery; grieving a lost previous wielder [cite:279]. Deals radiant damage, casts Lesser Restoration (cured Daral Yashenti of poison/disease) [cite:277][cite:331]. In "therapy" with Master Archivist Philemon; now housed in a Vaultmaster locking scabbard (used as a negotiating lever against her).
@@ -44,7 +44,7 @@ The oldest, most heavily warded library in the world [cite:437]; run by the **Gr
 
 ### Current Standoff
 - **A'lai Aivenmore** now holds the key torn from Bookwyrm and sits waiting in **Candlekeep's High Tower** for Moziqodo to deliver the second key — unaware his courier is dead and the party holds the real key [cite:405][cite:406][cite:450].
-- **Tadric** (young Watcher, formerly guarded Janussi's door) holds the **real second key**; healed by Grygum after Moziqodo's attack [cite:387][cite:409]. The party carries a **decoy key** that reads as dead/inert under all detection [cite:341][cite:451].
+- **Tadric** (young Watcher, formerly guarded Janussi's door) holds the **real second key**; healed by Gyrgum after Moziqodo's attack [cite:387][cite:409]. The party carries a **decoy key** that reads as dead/inert under all detection [cite:341][cite:451].
 - Helmed horrors have twice ambushed the party, tracking the **key itself** through plate and pocket; whoever built them chose mute constructs so none could be interrogated [cite:342][cite:343].
 - Next move: the party intends to confront A'lai Aivenmore in the High Tower [cite:447].
 
@@ -55,7 +55,7 @@ Warden of Candlekeep; fired then **reinstated** [cite:328][cite:253]. Author of 
 - **Sylvira Savikas** — Tiefling Curator of the Infernal Fortress; studies the infernal/Abyssal domains. Was **framed** for Janussi's murder (a shapeshifter impersonated her walking the halls at night with a lantern — a tiefling needs no light) [cite:171][cite:55]. Bedridden with an **Abyssal plague passed by her son Moziqodo** [cite:172], whom she kept in a Mordenkainen's Mansion [cite:173]. Had an on-and-off relationship with Janussi. Alibi: visited her son, returned ~12:30am.
 - **Daral Yashenti** — Great Reader, poet, drunk; Janussi's long-time rival. Gave Janussi the gift book (which Alkrist poisoned) [cite:135]; later reclaimed it and **poisoned himself by licking it** [cite:216]. **Cured by Dawnbringer** [cite:306]. Named A'lai Aivenmore as the one framing him [cite:18]. Now plans to research sentient swords [cite:308]. Cleared as a suspect (too disorganized).
 - **Fembris Lancer** — Eager Avowed adjutant/minder; **predicted to be elected new head** [cite:302]. Under mild party suspicion: witnessed the key change hands, and A'lai Aivenmore was in the room when Fembris reported the key to Bookwyrm [cite:381][cite:382].
-- **Vareth** — Avowed scholar of half-orc Bahamut conversions; adopted and publicized Grygum's "fourth corner" theology, staging a disputation in the Oval Theater [cite:13][cite:14].
+- **Vareth** — Avowed scholar of half-orc Bahamut conversions; adopted and publicized Gyrgum's "fourth corner" theology, staging a disputation in the Oval Theater [cite:13][cite:14].
 - **Kei Tigersteel** — Lorekeeper of Candlekeep, priest of Oghma; took Janussi's body to the Shrine of Oghma.
 - **Great Readers (Council):** A'lai Aivenmore, Daral Yashenti, Kazryn Nyantani (chief cleric; Janussi's resentful ex-partner) [cite:179], Teles Ahvoste (~20-year grudge, passed over for Keeper) [cite:182][cite:183], Alkrist, Fheminor Scrivenbark, Sylvira Savikas (absent member), Janussi (deceased), Bookwyrm (deceased).
 - **Philemon (Master Archivist)** — Specialist in sentient-artifact psychology; counseling Thorin & Dawnbringer.
@@ -90,10 +90,10 @@ Warden of Candlekeep; fired then **reinstated** [cite:328][cite:253]. Author of 
 - **"He is using the beast to—"** Bookwyrm's dying note. "The beast" = Moziqodo; **who is "He"?** Presumed A'lai Aivenmore, but unconfirmed [cite:449].
 - **The two High Tower keys** — A'lai Aivenmore holds one; Tadric holds the real second; party holds a decoy. Confrontation in the High Tower imminent [cite:447].
 - **Who impersonated Sylvira Savikas** the night of Janussi's murder? A shapeshifter; the real Sylvira may know who could wear her face.
-- **The Grygumite "strong-weak hypothesis"** — accidental theology now driving a full Candlekeep disputation and three schools' rivalry (Stroudites, Bahamutians, Draconic) [cite:14].
+- **The Gyrgumite "strong-weak hypothesis"** — accidental theology now driving a full Candlekeep disputation and three schools' rivalry (Stroudites, Bahamutians, Draconic) [cite:14].
 - **Stroud & Protanther / "The move is yours"** — The chess-victory legend (Stroud beat the ancient gold dragon Protanther, who then opposed Tiamat) recurs on monuments (Waterdeep's Castle Ward, Daggerford's Tarvis Ulain memorial) via the Stroudites; a possible coordinated inscription pattern.
 - **Jimjar's celestial nature & purpose** — vanished; connection to a Candlekeep scholar's interest (Khell-Vire, "until the Bone King sings").
-- **The Lolth/Zuggtmoy equivalence documents** — Asha Vandree's theological argument + Ilvara Mizzrym's corruption-timeline marginalia (both donated to Candlekeep); part of a pattern Grygum is tracking.
+- **The Lolth/Zuggtmoy equivalence documents** — Asha Vandree's theological argument + Ilvara Mizzrym's corruption-timeline marginalia (both donated to Candlekeep); part of a pattern Gyrgum is tracking.
 - **The necromantic pearl** recovered from Velkynvelve's fungal core — origin and purpose unknown.
 - **Alkrist's sealed safe** — still unopened (no safecracker; Glabbagool offered to eat through it) [cite:235].
 - **A'lai Aivenmore's message-doves** — cage built for five, only two birds remain: three recent messages sent somewhere [cite:101].
@@ -105,7 +105,7 @@ Warden of Candlekeep; fired then **reinstated** [cite:328][cite:253]. Author of 
 ## Canon Events Timeline (chronological reference)
 
 1. War of the Dragons ends (1490 DR); War of the Giants ends (1491 DR), restoring the Ordning.
-2. The party (Grygum, Daz, Thorin, Zalthir) is captured and imprisoned at **Velkynvelve**; escapes during a demonic incursion (four chasme, two vrock); Prince Derendil and Ront die.
+2. The party (Gyrgum, Daz, Thorin, Zalthir) is captured and imprisoned at **Velkynvelve**; escapes during a demonic incursion (four chasme, two vrock); Prince Derendil and Ront die.
 3. Journey through the Underdark: the Silken Paths (rescue Fargas Rumblefoot, kill a Spectator, learn of Brysis of Khaem's tomb); Buppido murders Yuk-Yuk and is bound.
 4. **Sloobludop:** the Sea Mother / Deep Father kuo-toa civil war; Bloppblippodd's death summons **Demogorgon**, who destroys the town. The party flees by boat; Shuushar departs.
 5. **Gracklstugh:** entangled with the Keepers of the Flame (Gartokkar Xundorn, Themberchaud), the Stone Guard (Errde Blackskull), Empty Scabbard Killers, and the Demogorgon cult in the **Whorlstone Tunnels**. Buppido killed; Pelek's ghost bound; Plinki and Narrak's cult (mutating the stolen red dragon egg via the black Obelisk) destroyed. Party adopts the name **"the Ember Vanguard."** Corrupted egg returned to Gartokkar Xundorn; escape on Themberchaud.

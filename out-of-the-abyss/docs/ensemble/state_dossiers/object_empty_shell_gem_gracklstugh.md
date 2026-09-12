@@ -10,8 +10,8 @@ chapters: 29-29
 - **Type:** Magical object (wagered artifact)  
 - **Current holder/location:** Held by Jimjar (last known possessor; no transfer recorded)  
 - **Current condition:** Wagered but not yet claimed — remains in Jimjar’s possession as an unfulfilled bet  
-- **Significance:** A token of a binding magical wager made with Grygum, tied to the outcome of the party’s journey to the Neverlight Grove. The gem is implied to carry latent, possibly cursed, ritual significance tied to “unwilling vows.”  
-- **Recent action:** Wagered by Jimjar on the party’s fate in the Neverlight Grove; accepted by Grygum.  
+- **Significance:** A token of a binding magical wager made with Gyrgum, tied to the outcome of the party’s journey to the Neverlight Grove. The gem is implied to carry latent, possibly cursed, ritual significance tied to “unwilling vows.”  
+- **Recent action:** Wagered by Jimjar on the party’s fate in the Neverlight Grove; accepted by Gyrgum.  
 
 ## Uncertainty
 - The physical properties or magical nature of the gem beyond its role as a wager are not described.  

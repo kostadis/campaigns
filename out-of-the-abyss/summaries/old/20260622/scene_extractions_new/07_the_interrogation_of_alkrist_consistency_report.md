@@ -62,15 +62,15 @@
 
 ---
 
-## ISSUE 6 — Grygum is absent from the interrogation room but is listed in the opening setup without clarification
+## ISSUE 6 — Gyrgum is absent from the interrogation room but is listed in the opening setup without clarification
 
 **Location:** Scene summary (opening paragraph): "Kalan Strongbranch, hidden outside the room, Thorin and Zalthir alone interview Alkrist."
 
-**Issue:** The recap correctly states only Thorin and Zalthir were in the room. However, Grygum is named in the Verbatim Moments as an active speaker ("Grygum" tags appear throughout the interrogation). This is consistent with Grygum being in the room — which contradicts the "Thorin and Zalthir alone" statement in the summary.
+**Issue:** The recap correctly states only Thorin and Zalthir were in the room. However, Gyrgum is named in the Verbatim Moments as an active speaker ("Gyrgum" tags appear throughout the interrogation). This is consistent with Gyrgum being in the room — which contradicts the "Thorin and Zalthir alone" statement in the summary.
 
-**Evidence:** Verbatim section contains multiple [Grygum] dialogue tags during the interrogation (e.g., *"Don't leave anything out,"* *"And what's going to happen to the succession now that Janussi's dead?"* *"What did you do?"* *"Accessory before the fact,"* *"Well, if they're true, then that's no problem, is it?"* etc.). Campaign_state §47 does not explicitly restrict who was in the room for the confession, saying only that "Thorin and Zalthir" conducted it — but the verbatim record clearly includes Grygum as an active participant.
+**Evidence:** Verbatim section contains multiple [Gyrgum] dialogue tags during the interrogation (e.g., *"Don't leave anything out,"* *"And what's going to happen to the succession now that Janussi's dead?"* *"What did you do?"* *"Accessory before the fact,"* *"Well, if they're true, then that's no problem, is it?"* etc.). Campaign_state §47 does not explicitly restrict who was in the room for the confession, saying only that "Thorin and Zalthir" conducted it — but the verbatim record clearly includes Gyrgum as an active participant.
 
-**Suggested fix:** The summary's "Thorin and Zalthir alone" is contradicted by the verbatim. Correct to: "Thorin, Zalthir, and Grygum interview Alkrist" — or, if the design intent was that Grygum was meant to be outside with Kalan, flag this as a discrepancy requiring GM resolution before it is canonized in the campaign_state.
+**Suggested fix:** The summary's "Thorin and Zalthir alone" is contradicted by the verbatim. Correct to: "Thorin, Zalthir, and Gyrgum interview Alkrist" — or, if the design intent was that Gyrgum was meant to be outside with Kalan, flag this as a discrepancy requiring GM resolution before it is canonized in the campaign_state.
 
 ---
 
@@ -88,11 +88,11 @@
 
 ## ISSUE 8 — "He misses Thorin's snark about working 'for the right remuneration'" — attribution of the tangent
 
-**Location:** Scene summary (first bullet) and Verbatim Moments [Grygum: "I mean, that's the intent, right?"]
+**Location:** Scene summary (first bullet) and Verbatim Moments [Gyrgum: "I mean, that's the intent, right?"]
 
-**Issue:** The summary says Alkrist takes the snark as sincere. The verbatim has Grygum saying *"I mean, that's the intent, right?"* — implying the sarcasm was indeed intentional in-character. This is consistent. However, the summary's framing that Alkrist "misses" the snark while the party intended it as a manipulation tactic is supported by the verbatim. No factual error, but worth noting that this was a deliberate play, not an accident, since the summary's phrasing ("He misses Thorin's snark") could read as an unintended miscommunication rather than a successful deception.
+**Issue:** The summary says Alkrist takes the snark as sincere. The verbatim has Gyrgum saying *"I mean, that's the intent, right?"* — implying the sarcasm was indeed intentional in-character. This is consistent. However, the summary's framing that Alkrist "misses" the snark while the party intended it as a manipulation tactic is supported by the verbatim. No factual error, but worth noting that this was a deliberate play, not an accident, since the summary's phrasing ("He misses Thorin's snark") could read as an unintended miscommunication rather than a successful deception.
 
-**Evidence:** Verbatim: Grygum confirms intent.
+**Evidence:** Verbatim: Gyrgum confirms intent.
 
 **Suggested fix:** Minor clarification in summary: "Alkrist takes it as sincere — which was the intent."
 
@@ -122,15 +122,15 @@
 
 ---
 
-## ISSUE 11 — No mention of Grygum's Mending of the wrapping paper in this scene recap
+## ISSUE 11 — No mention of Gyrgum's Mending of the wrapping paper in this scene recap
 
 **Location:** Scene summary (overall)
 
-**Issue:** Campaign_state §47 and party.md both list Grygum's *Mending* of the discarded wrapping paper as a key act of Ch. 57 confirming premeditation. This scene recap does not mention it at all. If this recap is treated as the sole record of Ch. 57, a critical piece of evidence establishing premeditation will be missing from the canon record of this session.
+**Issue:** Campaign_state §47 and party.md both list Gyrgum's *Mending* of the discarded wrapping paper as a key act of Ch. 57 confirming premeditation. This scene recap does not mention it at all. If this recap is treated as the sole record of Ch. 57, a critical piece of evidence establishing premeditation will be missing from the canon record of this session.
 
-**Evidence:** Campaign_state §47: "Grygum's *mending* on the wrapping paper proved a deliberate re-wrap (premeditation)." party.md Grygum Ch. 57 beats: "cast **Mending** to reassemble the wrapping paper (proving premeditation)."
+**Evidence:** Campaign_state §47: "Gyrgum's *mending* on the wrapping paper proved a deliberate re-wrap (premeditation)." party.md Gyrgum Ch. 57 beats: "cast **Mending** to reassemble the wrapping paper (proving premeditation)."
 
-**Suggested fix:** Add a brief note: "Earlier in Ch. 57 (prior to this interrogation), Grygum had cast *Mending* on the discarded wrapping from Daral's gift, revealing a deliberate cut — confirming the re-wrapping was premeditated. This established the physical evidence that corroborates Alkrist's confession."
+**Suggested fix:** Add a brief note: "Earlier in Ch. 57 (prior to this interrogation), Gyrgum had cast *Mending* on the discarded wrapping from Daral's gift, revealing a deliberate cut — confirming the re-wrapping was premeditated. This established the physical evidence that corroborates Alkrist's confession."
 
 ---
 

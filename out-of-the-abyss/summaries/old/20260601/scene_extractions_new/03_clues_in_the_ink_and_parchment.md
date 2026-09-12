@@ -9,7 +9,7 @@ source: gmassist
 
 #### The party re-examines Janussi's desk and notes, uncovering a trail of obscure spells, jokes, and a mysterious black substance.
 - The party discovers Janussi was taking notes in blue ink on a spell book titled *The Discoveries* and a comedic book called *The Golden Ass*.
-- Grygum determines that the black substance found on the victim's fingers and mouth is definitively not the blue ink used for his notes.
+- Gyrgum determines that the black substance found on the victim's fingers and mouth is definitively not the blue ink used for his notes.
 - The party realizes *The Golden Ass* is missing from the room, despite Janussi having recently taken notes from it — the notes themselves confirm the book was present.
 - The notes on *The Discoveries* were written after the notes on *The Golden Ass*, making the spell research the last thing Janussi was working on.
 - Daz theorizes that the missing book might be a key to a cipher or code, possibly hiding arcane instructions within its jokes.
@@ -52,7 +52,7 @@ source: gmassist
 **Zalthir**
 > "The product placement notes."
 
-**Grygum** — *on the mystery of the other book*
+**Gyrgum** — *on the mystery of the other book*
 > "Oh, the mystery, you have to go buy the other adventure."
 
 ---
@@ -96,8 +96,8 @@ source: gmassist
 **Thorin**
 > "Okay, so that was not the ink that was being used to annotate the golden ass."
 
-**GM** — *confirming Grygum's earlier finding*
-> "No, no, that is definitively determined by, by, what's his name? Grygum."
+**GM** — *confirming Gyrgum's earlier finding*
+> "No, no, that is definitively determined by, by, what's his name? Gyrgum."
 
 ---
 

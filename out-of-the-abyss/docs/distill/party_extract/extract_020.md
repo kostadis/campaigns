@@ -11,7 +11,7 @@
 - Acquired empty spell gems from Werz (to be appraised/sold to Kazook Pickshine in Blingdenstone).
 - Acquired a copy of Milo Goodbarrel's book (referenced during negotiation; appears to have had it already).
 
-**Grygum**
+**Gyrgum**
 - Received 10 gp gemstone from Werz (plus secretly pocketed the Flumph's dropped gemstone).
 - Received a gemstone on behalf of the ghost companion.
 
@@ -36,9 +36,9 @@
 
 **Zalthir** — *Negative*: Reluctantly dragged deeper into political intrigue despite his instinct to flee. Visibly uncomfortable with Daz's comfort in the "nest of scorpions."
 
-**Grygum** — *Negative (minor)*: Secretly pocketed the Flumph's dropped gemstone — a small act of selfishness/greed.
+**Gyrgum** — *Negative (minor)*: Secretly pocketed the Flumph's dropped gemstone — a small act of selfishness/greed.
 
-**Grygum** — *Positive*: Kept the party focused on their obligation to free Thermbachaude, reminding the group of their existing commitment amid all the political scheming.
+**Gyrgum** — *Positive*: Kept the party focused on their obligation to free Thermbachaude, reminding the group of their existing commitment amid all the political scheming.
 
 ---
 
@@ -58,7 +58,7 @@
 - Interrogated **Stool** about the dancing myconids, learning they are behaving abnormally. Stool identified **Rumpadump** as a friend from his circle.
 - Reluctantly agreed to the Rumpadump rescue mission, adding it to the party's obligations.
 
-**Grygum**
+**Gyrgum**
 - Maintained the party's obligation to **free Thermbachaude**, keeping it on the agenda.
 - Noted the timing of Stone Guard corruption coinciding with the Faerzress blink — kept this observation private.
 
@@ -75,7 +75,7 @@
   1. Return to the **Whorlstone Tunnels** to gather evidence for Errde Blackskull.
   2. Deal with the **assassins** targeting Werz.
   3. Rescue **Rumpadump** (Stool's friend, held near the dancing myconids).
-  4. Free **Thermbachaude** (ongoing commitment, per Grygum).
+  4. Free **Thermbachaude** (ongoing commitment, per Gyrgum).
   5. Eventually reach **Blingdenstone** to continue toward the surface.
 - **Resources**: +1,100 gold (NDA payment), +empty spell gems (valuable if brought to Kazook Pickshine in Blingdenstone), +10 gp gemstones each. Party crew armed by Errde.
 - **Reputation**: Known across multiple factions as operatives heading into the Whorlstone Tunnels. Every faction (Errde/Stone Guard, Keepers of the Flame, Clan Ironhead, Werz) expects the party to deliver information or outcomes favorable to them. The party's survival currently depends on being useful to all sides simultaneously.

@@ -41,7 +41,7 @@ Eight. The eight said: do the sensible thing. Which I interpreted as let Jorlan 
 
 I meant it. There's a satisfaction to a properly timed swing that you don't get from standing still and watching drow politics sort itself out like a very violent tennis match. But the eight said sensible, and I've been trying — genuinely trying — to be the kind of person who listens to what the eight says.
 
-The one comfort was Glabbagool. In the midst of Ilvara conjuring a sphere of biting insects at the cave entrance — *Insects plague, that doesn't sound good,* Daz observed, with the tone of a man reviewing unexpected weather — Grygum asked about the ooze. Zalthir wanted to know if he was alive. The GM confirmed that Glabbagool was not only alive but had been sitting out there trying to participate in the conversation, chillaxing with his eyes, doing his best. Glabbagool always does his best. It's one of his best qualities.
+The one comfort was Glabbagool. In the midst of Ilvara conjuring a sphere of biting insects at the cave entrance — *Insects plague, that doesn't sound good,* Daz observed, with the tone of a man reviewing unexpected weather — Gyrgum asked about the ooze. Zalthir wanted to know if he was alive. The GM confirmed that Glabbagool was not only alive but had been sitting out there trying to participate in the conversation, chillaxing with his eyes, doing his best. Glabbagool always does his best. It's one of his best qualities.
 
 I turned my attention to the heart fungus while Ilvara's insect cloud made its political statement at the entrance. The big one. The thing we'd come here to unmake.
 
@@ -49,7 +49,7 @@ I turned my attention to the heart fungus while Ilvara's insect cloud made its p
 
 The GM confirmed it was resistant to the usual things, the way fungus usually is, but that if I hit it hard enough it should die. And then: *It actually is doubly not resistant to radiant damage.*
 
-Grygum said, "Oh, that's good to know."
+Gyrgum said, "Oh, that's good to know."
 
 Dawnbringer had opinions about this information. She always has opinions. We'd worked out our arrangement — her light, my darkness preferences, the compromise that keeps both of us functional — and in that moment she didn't need to say anything because radiant damage against something doubly vulnerable to radiant damage is exactly the kind of problem she was built for.
 
@@ -57,17 +57,17 @@ I leaped down into the difficult terrain below the ledge. The ground underneath 
 
 The fungus wilted.
 
-That's how the GM said it. *It wilts.* One round. Grygum said, "Oh, the giant fungus?" like he needed confirmation, and the GM said yes, the giant fungus, the one that had dominated the cavern. Gone.
+That's how the GM said it. *It wilts.* One round. Gyrgum said, "Oh, the giant fungus?" like he needed confirmation, and the GM said yes, the giant fungus, the one that had dominated the cavern. Gone.
 
 "I do what I can," I said.
 
 The GM then made a sound I recognized from the outside of difficult news, which was: *I spent so much time creating this icon.*
 
-Grygum said it was beautiful. Zalthir said it was pretty. Grygum told the GM he'd liked it very much, using his name, with a kind of warmth that you only deploy for genuine sympathy. The GM accepted this graciously.
+Gyrgum said it was beautiful. Zalthir said it was pretty. Gyrgum told the GM he'd liked it very much, using his name, with a kind of warmth that you only deploy for genuine sympathy. The GM accepted this graciously.
 
 I didn't have much to add. There was a thing that was trying to corrupt the world, and now it wasn't anymore. That's the whole transaction. A rock in the wrong place is just a rock; a rock in the right place is a wall. Dawnbringer in the right place, against something doubly not resistant to her, is a conversation that ends in one round.
 
-Above, behind, across the chaos of the insect cloud, Daz had apparently convinced Asha Vandree that he was some kind of Lolth-converted true believer. The GM explained this. Grygum said "Accurate," in the flattest tone available. Daz asked who exactly believed that. The GM explained it was Asha, and that what mattered was what she thought rather than what was real.
+Above, behind, across the chaos of the insect cloud, Daz had apparently convinced Asha Vandree that he was some kind of Lolth-converted true believer. The GM explained this. Gyrgum said "Accurate," in the flattest tone available. Daz asked who exactly believed that. The GM explained it was Asha, and that what mattered was what she thought rather than what was real.
 
 I filed that away under: Drow things I am choosing not to think too hard about.
 

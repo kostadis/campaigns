@@ -10,17 +10,17 @@ The bell hadn't finished ringing before an Avowed was shouting it down the corri
 
 "How did it happen?" I asked.
 
-"Who killed her?" said Grygum, correcting the Avowed's pronoun and his own in the same breath.
+"Who killed her?" said Gyrgum, correcting the Avowed's pronoun and his own in the same breath.
 
-Her throat had been torn apart. That was the answer that came back: torn, not cut. And when Grygum asked whether she still had her heart, the answer was yes, present, intact. Not beating, but there. I noted the discrepancy immediately. It was the whole story in one line. Janussi's heart had been carved out with intent. Bookwyrm's had been left where it was. Whatever did this hadn't come for organs.
+Her throat had been torn apart. That was the answer that came back: torn, not cut. And when Gyrgum asked whether she still had her heart, the answer was yes, present, intact. Not beating, but there. I noted the discrepancy immediately. It was the whole story in one line. Janussi's heart had been carved out with intent. Bookwyrm's had been left where it was. Whatever did this hadn't come for organs.
 
 We went up. Fembris Lancer and Daral Yashenti brought us to her office and it was a mess, and the mess itself was information. She was an eighteenth-level magic user relaxed in the safety of her own tower: no Time Stop cast, no ward raised, an academic who spent her days validating citations and identifying false ones and never once expected to need Wish at her own desk. Whoever did this knew exactly how confident she'd be. That is not luck. That is planning.
 
-On the desk was a half-finished note in her own hand. *He is using the beast to—* and then nothing. Grygum read it aloud and asked Daral Yashenti what the beast was. Daral Yashenti had no idea what the beast was.
+On the desk was a half-finished note in her own hand. *He is using the beast to—* and then nothing. Gyrgum read it aloud and asked Daral Yashenti what the beast was. Daral Yashenti had no idea what the beast was.
 
 I reached for it, the way I always reach, ritually, off the top of my mind. And the reach came back empty. Worse than empty. My own head was the problem; the pressure behind my eyes that's been getting worse fogged the whole thing over, and for a bad moment I had nothing. *Are you fucking kidding me.*
 
-Grygum offered to help. I took it. On the second pass, with his hand steadying the work, it came clean. Cleaner than clean, everything snapping into place at once. And what came was this: the wards over Candlekeep were wrong. The pressure of them, the same pressure that's been sitting in my skull, didn't sit right. Something was broken.
+Gyrgum offered to help. I took it. On the second pass, with his hand steadying the work, it came clean. Cleaner than clean, everything snapping into place at once. And what came was this: the wards over Candlekeep were wrong. The pressure of them, the same pressure that's been sitting in my skull, didn't sit right. Something was broken.
 
 "Oh," I said. "Like somebody hacked the firewall and opened another port."
 
@@ -38,9 +38,9 @@ Sylvira Savikas has a son. Abyss-born. Abyssal spawn. She's a tiefling, she was 
 
 "Interesting," I said, which is what I say when something has just cost me more than I want to show.
 
-Daral Yashenti explained the defenses then: the shield that stops anyone teleporting in or out. I said what I already knew. "Are we sure the teleport protection is working? Something feels off to me." Grygum, who has done as much information-security work as I have, put it more plainly: inconceivable things happen several times a day, so could he please *check*.
+Daral Yashenti explained the defenses then: the shield that stops anyone teleporting in or out. I said what I already knew. "Are we sure the teleport protection is working? Something feels off to me." Gyrgum, who has done as much information-security work as I have, put it more plainly: inconceivable things happen several times a day, so could he please *check*.
 
-The check was a candle. You can't light a fire in Candlekeep. Grygum threw Thaumaturgy at a scrap of paper and the flame leapt and then evaporated the instant it touched: a burning bush that refused to burn. Same ward. Same effect. Held in the one room locked by the two high tower keys.
+The check was a candle. You can't light a fire in Candlekeep. Gyrgum threw Thaumaturgy at a scrap of paper and the flame leapt and then evaporated the instant it touched: a burning bush that refused to burn. Same ward. Same effect. Held in the one room locked by the two high tower keys.
 
 The room protected by the keys held the ward that protected everything else. Bookwyrm had one of those keys: she'd gone into Janussi's chamber, taken the heart, secured the key. Someone had torn her throat out to get it. Consistent with the attempt on me. Consistent with the port left open in the firewall.
 

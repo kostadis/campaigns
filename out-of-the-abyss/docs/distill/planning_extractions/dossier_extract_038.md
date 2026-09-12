@@ -8,7 +8,7 @@ Senni represents the non-mining population of Blingdenstone. She confronted Chie
 
 ## Pelek
 
-Pelek was a ghost who had been traveling with the party after being killed by Buppido. His bones had been carried by Grygum in hopes of finding a proper resting place. At the catacombs beneath the Temple of the Ruby in the Rough in Blingdenstone, Grygum interred his bones, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation. Pelek expressed profound relief and gratitude, having feared he would be lost forever tormenting people for eternity. After saying goodbye to the party, his spirit faded away peacefully, leaving a warm, comforting feeling. He materialized earlier before Glyphic Shroomlight to convince the reluctant priest to allow the interment. Pelek has now been laid to rest.
+Pelek was a ghost who had been traveling with the party after being killed by Buppido. His bones had been carried by Gyrgum in hopes of finding a proper resting place. At the catacombs beneath the Temple of the Ruby in the Rough in Blingdenstone, Gyrgum interred his bones, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation. Pelek expressed profound relief and gratitude, having feared he would be lost forever tormenting people for eternity. After saying goodbye to the party, his spirit faded away peacefully, leaving a warm, comforting feeling. He materialized earlier before Glyphic Shroomlight to convince the reluctant priest to allow the interment. Pelek has now been laid to rest.
 
 ## Glyphic Shroomlight
 

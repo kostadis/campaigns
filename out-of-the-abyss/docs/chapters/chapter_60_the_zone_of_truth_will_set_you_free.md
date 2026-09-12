@@ -2,7 +2,7 @@
 
 
 
-## Grygum — Reunion and Debriefing
+## Gyrgum — Reunion and Debriefing
 
 The talk had gone well. Extraordinarily popular, as I was informed by several people on my way out. Each one delivered the assessment in tones normally reserved for resurrection announcements. I took notes. Whether Bahamut reads them or not, the record now exists, and the record says: the quadrangle issue landed.
 
@@ -16,7 +16,7 @@ I have met Daral. He is not a man who distributes superlatives casually. What I 
 
 "Yeah, guys," I said, cutting across the praise before it could build momentum, "what did you find out while I was out?"
 
-The flattery tried a different opening line. "Well, Mr. Grygum — as a cleric of Bahamut, might I say that your entire position on the quadrangle issue was, in fact, a brilliant insight that has dramatically transformed the—"
+The flattery tried a different opening line. "Well, Mr. Gyrgum — as a cleric of Bahamut, might I say that your entire position on the quadrangle issue was, in fact, a brilliant insight that has dramatically transformed the—"
 
 "No, no," I said. "What am I restoring?"
 
@@ -40,7 +40,7 @@ And then Fembris Lancer arrived.
 
 He came in like a man who'd been rehearsing in the corridor. Trying not to make an entrance. Making one anyway. He had notes.
 
-"Grygum, that was fantastic!"
+"Gyrgum, that was fantastic!"
 
 "Why, thank you," I said. "I do my best."
 
@@ -124,7 +124,7 @@ I looked at him. This was the second person at Candlekeep to angle for a monogra
 
 "I'm sorry — it would not be a monograph if we wrote it together."
 
-Grygum agreed immediately. Elian backed up and tried again. What he'd meant, he clarified, was that he'd write the monograph, and I might contribute a preface, saying what an excellent monograph it was.
+Gyrgum agreed immediately. Elian backed up and tried again. What he'd meant, he clarified, was that he'd write the monograph, and I might contribute a preface, saying what an excellent monograph it was.
 
 "I'll write the introduction," I said.
 
@@ -152,7 +152,7 @@ The question that had been sitting in the back of my skull moved forward.
 
 "Well, I'm interested — even if we were able to actually cast Speak with Dead, how do you know they're a reliable narrator? What are their motivations after they're dead? We don't know. Because they're dead."
 
-Grygum said we could sometimes bring them back, which was technically true and didn't touch what I was asking. Elian said the paper had a whole section on it: the *myth of the person.* The assumption that death is a transparency, that the dead have shed their performances and will now simply tell you what's true. They don't. They're still themselves. They forget, misattribute, have things they'd rather believe about what happened. They just have fewer consequences now for getting it wrong.
+Gyrgum said we could sometimes bring them back, which was technically true and didn't touch what I was asking. Elian said the paper had a whole section on it: the *myth of the person.* The assumption that death is a transparency, that the dead have shed their performances and will now simply tell you what's true. They don't. They're still themselves. They forget, misattribute, have things they'd rather believe about what happened. They just have fewer consequences now for getting it wrong.
 
 "Okay — oh, the myth of the person. I'll have to look at it."
 
@@ -166,13 +166,13 @@ In the Underdark, the one thing that didn't lie was terrain. You couldn't trust 
 
 "Exactly." The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid. "Oh wait, don't — please, I don't need another —" I started, because Elian had the look of a man reaching for a second document.
 
-Grygum stepped in: *"Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?"*
+Gyrgum stepped in: *"Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?"*
 
 "Yeah, there you go," I said.
 
 Elian lit up. Could he use it?
 
-"Yes," Grygum said, with tremendous dignity. "I made it up myself."
+"Yes," Gyrgum said, with tremendous dignity. "I made it up myself."
 
 He did not make it up himself. I've heard it before, somewhere, in something I read a long time ago. But it was his contribution to the afternoon and I wasn't going to complicate that.
 
@@ -198,11 +198,11 @@ Fembris Lancer is not a man who idles. He had been filling the air with noise si
 
 I let him talk. He would arrive at the point eventually.
 
-We had three problems and roughly the same number of people willing to go chase them. The third-story apartment in Janussi's chambers was still unvisited. We knew the wrapping paper from the poisoned book had been taken there, and we hadn't gone back. There was something to find. Grygum saw it at the same moment I did.
+We had three problems and roughly the same number of people willing to go chase them. The third-story apartment in Janussi's chambers was still unvisited. We knew the wrapping paper from the poisoned book had been taken there, and we hadn't gone back. There was something to find. Gyrgum saw it at the same moment I did.
 
 "Somebody go talk to Alkrist," he said. "There's something listed as a third-story apartment with an open door we haven't gone into. I'm gonna go look into that."
 
-A clean split. I approved of it silently. The apartment was in Janussi's chambers. The wrapping paper trail led there, and there was still evidence about Kalan we hadn't turned over. The kind of thing that didn't need an interview to yield. "Yeah, I'll head up and check that out," Grygum said, and that was settled.
+A clean split. I approved of it silently. The apartment was in Janussi's chambers. The wrapping paper trail led there, and there was still evidence about Kalan we hadn't turned over. The kind of thing that didn't need an interview to yield. "Yeah, I'll head up and check that out," Gyrgum said, and that was settled.
 
 Which left Alkrist.
 
@@ -228,21 +228,21 @@ No elaboration. Sylvira was framed for the murder and dying slowly under the poi
 
 "Happy to talk to Sylvira in the meantime, or whoever can," I added, leaving the door open.
 
-Grygum was already moving for the stairs. He stopped, turned back. He'd remembered something.
+Gyrgum was already moving for the stairs. He stopped, turned back. He'd remembered something.
 
 "When you talk to Alkrist, there's something in the list about what Alkrist burned at the feast — you should ask about that."
 
-I hadn't flagged that one. I had been working through the zone-of-truth timing, the dragonborn opening, when Kalan would arrive. The feast detail had been sitting there, unflagged. Grygum had read it.
+I hadn't flagged that one. I had been working through the zone-of-truth timing, the dragonborn opening, when Kalan would arrive. The feast detail had been sitting there, unflagged. Gyrgum had read it.
 
 "He apparently burnt something at the feast," came the confirmation. "That's what it says." A good catch. Filed.
 
-Three lines of inquiry. Three investigators. The work divided cleanly, cleaner than most things we attempted. Grygum heading upstairs for the physical evidence. Daz taking Sylvira while she still could be taken. Kalan being hunted so the Alkrist interview could be done properly, with something binding in the room.
+Three lines of inquiry. Three investigators. The work divided cleanly, cleaner than most things we attempted. Gyrgum heading upstairs for the physical evidence. Daz taking Sylvira while she still could be taken. Kalan being hunted so the Alkrist interview could be done properly, with something binding in the room.
 
 I stood in the space between all of it. Waiting. Watching.
 
 ---
 
-## Grygum — Investigations in Janussi's Chambers
+## Gyrgum — Investigations in Janussi's Chambers
 
 The others had Alkrist. That was enough hands for one interrogation.
 
@@ -340,7 +340,7 @@ She broke down. Not performance; it came from somewhere real and arrived without
 
 I let her have a moment and steered toward motive. What I was trying to understand, I said, was whether she was a target of convenience, someone easy to point at, or whether there was something more specific. A research proposal with enemies. Something she'd found and hadn't published yet.
 
-It was the blunter version of the same question: the one Grygum would have asked outright, if he weren't three floors up going through a dead man's love nest instead of sitting across from a fevered witness with me. *Is there a motive here.* No dressing on it. I let the shape of it sit under mine and asked anyway.
+It was the blunter version of the same question: the one Gyrgum would have asked outright, if he weren't three floors up going through a dead man's love nest instead of sitting across from a fevered witness with me. *Is there a motive here.* No dressing on it. I let the shape of it sit under mine and asked anyway.
 
 Sylvira looked at me, and I supplied the context she was quietly asking for. I'd recently come up from the Underdark, I said. Born and raised in the Overbright, but absent from it for some time. Which was, I realized, the most straightforwardly true thing I'd said in the entire conversation.
 
@@ -360,7 +360,7 @@ The timeline she gave was orderly despite the fever. Kalan Strongbranch had come
 
 The end-of-year meeting had been at 11:30 PM, and they'd spent most of it planning a new library dedicated to the Great Wheel of Planes: a joint vision that had clearly mattered enormously to both of them. It ended in an argument about a personal, private matter, she said. But she had *never*, she insisted, called him a genus traitor. The word "never" had a specificity that suggested she'd anticipated being asked, which was itself worth noting.
 
-The feast she described as the same drab affair it always was, right down to the dishes, and she'd left early when the flu began coming on. I still had one question queued from before the party split. Grygum had wanted to know whether she knew anything about Alkrist burning something at the feast. So I put it to her directly. She received it with the diplomatic silence of someone choosing not to comment on something they either hadn't witnessed or had already assessed as irrelevant.
+The feast she described as the same drab affair it always was, right down to the dishes, and she'd left early when the flu began coming on. I still had one question queued from before the party split. Gyrgum had wanted to know whether she knew anything about Alkrist burning something at the feast. So I put it to her directly. She received it with the diplomatic silence of someone choosing not to comment on something they either hadn't witnessed or had already assessed as irrelevant.
 
 Then she stopped mid-thought and doubled back to the question I'd asked a minute earlier. "Did you ask me if anyone saw me, after? I did sneak out. To visit my son." She had a son, born in the Abyss, living in a Mordenkainen's Mansion she'd constructed specifically for his protection. She'd been trying to coax him back into it.
 
@@ -376,7 +376,7 @@ She'd returned to her chambers around 12:30, she thought. "And what happened aft
 
 After 12:30, she came to her room and saw no one. Her son, it emerged, had infected her with an abyssal plague, born in the Abyss, which has consequences, and if anyone claimed to have seen her after that, she said with pointed precision, it would be members of the avowed who had long nurtured hostility toward her. Great Readers included. She named Teles Ahvoste directly.
 
-It was the sort of question Grygum liked to press: motive, stated plainly, before anything else got in the way of it. So I pressed it myself. What would Kalan's motive be?
+It was the sort of question Gyrgum liked to press: motive, stated plainly, before anything else got in the way of it. So I pressed it myself. What would Kalan's motive be?
 
 Sylvira's answer was the clearest thing she'd said. Teles had remained hostile toward Janussi for nearly twenty years, passed over for Keeper of Tomes despite being older than Janussi and generally considered the more skilled practitioner. "Jealousy is a powerful motivator," she said. "For revenge. Murder." Exact, the way she delivered it. A researcher naming a mechanism.
 
@@ -394,7 +394,7 @@ It was enough to work with.
 
 ---
 
-## Grygum — The Reassembled Evidence
+## Gyrgum — The Reassembled Evidence
 
 The chambers were quiet. Not library-quiet. The quiet of a room that had stopped being someone's.
 
@@ -550,7 +550,7 @@ We had what we needed.
 
 The confession had gone into the account, and there was nothing left to dispute. Alkrist had given us the accounting of it: A'lai as the one who set it in motion, himself as the hand that carried it out, and at least two others swept into his orbit. Kalan had been standing just outside through all of it, which meant the man who'd been fired now held a rather complete account.
 
-The inventory I ran was brief. We had a confession, a poisoned book reclaimed from Daral, Grygum's carefully reassembled wrapping paper, a note in Janussi's own hand found on the third floor. We had the zone of truth as a mechanism, which had worked without waste and which I would not pretend was anything other than what it was: a shortcut, and an elegant one.
+The inventory I ran was brief. We had a confession, a poisoned book reclaimed from Daral, Gyrgum's carefully reassembled wrapping paper, a note in Janussi's own hand found on the third floor. We had the zone of truth as a mechanism, which had worked without waste and which I would not pretend was anything other than what it was: a shortcut, and an elegant one.
 
 "I think we go to the guy that was fired," Thorin said. "Give it to him, let him clean house."
 
@@ -562,7 +562,7 @@ I had no serious objection. Kalan was the party who had been wronged, Kalan had 
 
 "Definitely helped put a bow on it. But we probably would have gotten there anyway — they all were looking pretty guilty."
 
-"It turns out they were all guilty, yes," Grygum said.
+"It turns out they were all guilty, yes," Gyrgum said.
 
 The observation was complete. I said nothing.
 
@@ -576,7 +576,7 @@ Kalan asked it, and it was the right question, and it had been sitting with me s
 
 "You have to clean up the mess, whoever's in charge, and all that, right?"
 
-And then Grygum, in the tone of a man introducing an agenda item: "We could always decide to blackmail one or more of them."
+And then Gyrgum, in the tone of a man introducing an agenda item: "We could always decide to blackmail one or more of them."
 
 I had been waiting for someone else to say it.
 
@@ -586,7 +586,7 @@ Books are valuable. We had earned something here. But I was already running a di
 
 "Right, and just to be clear — information that's very hard to come by, blackmail may be a way to get it."
 
-"True," Grygum said.
+"True," Gyrgum said.
 
 "A'lai, moreover, is a drow. He might have information that Daz needs."
 
@@ -604,7 +604,7 @@ The group's attention turned to Janussi, and the mood shifted in the way it does
 
 "Right, and not only do you decide to fire them, but you decide to trash somebody's research, tell somebody he's getting fired, tell somebody he has to cancel his research, right? All in the same day."
 
-"Well, it's clear he may have high intelligence, but not high wisdom," Grygum said.
+"Well, it's clear he may have high intelligence, but not high wisdom," Gyrgum said.
 
 The distinction is real. Intelligence tells you what the options are. Wisdom tells you which ones you survive. In Menzoberranzan, you do not get to accumulate that many enemies before the city resolves the problem for you, which is one of the less subtle things the city got right.
 
@@ -612,11 +612,11 @@ The distinction is real. Intelligence tells you what the options are. Wisdom tel
 
 "That's an angle you haven't checked. Maybe there were some budgetary pressures on Candlekeep."
 
-"Some RIFs planned?" Grygum said.
+"Some RIFs planned?" Gyrgum said.
 
 I appreciated the framing. File the assassination under *workforce restructuring*. Enter it in the column marked *organizational efficiency*. This is, I noticed, exactly the narrative A'lai would have constructed for himself, and had probably already constructed, somewhere in the months between deciding Janussi needed to die and watching us pull the whole account apart in an afternoon. The man who treats blackmail as a kind of career knows how to make his own history sound administrative.
 
-"In these murder mysteries," Grygum said, "you often find somebody who treats blackmail as a kind of career."
+"In these murder mysteries," Gyrgum said, "you often find somebody who treats blackmail as a kind of career."
 
 A drow scholar with Underdark connections, sitting inside a conspiracy that had just been exposed. The intersection didn't need forcing.
 

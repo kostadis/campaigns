@@ -11,8 +11,8 @@ source: gmassist
 - Fresh snow has blanketed Candlekeep overnight. Fembris leads the party from the archway above the Emerald Door up a flight of stairs and around the northern side of the Exaltation bastion.
 - Fembris guides the party past the Astronomicon — a curious blue stack of globes — enthusing: "Everything we know about the stars can be found there."
 - The party sees the Whispering Dome, part of the Hall of Momentous Deeds, gleaming gold under the snow. Fembris explains that heroes' words from the past can be heard and one can be inspired there.
-- The group passes the Drakonoikos, a building constructed from the scales and bones of an ancient red dragon. Fembris scratches his head working out the name — "Fyren… Fyrentennimar, that's it" — and adds: "Anything you need to know about fire-breathing lizards, you'll find in there." Grygum admires how the scales gleam in the sunrise.
-- Fembris warns the party about the dragon breath simulation chamber inside the Drakonoikos, noting that one member of the Avowed died testing it and that the Keeper's permission is now required to use it. Grygum murmurs he has a level or two left in him.
+- The group passes the Drakonoikos, a building constructed from the scales and bones of an ancient red dragon. Fembris scratches his head working out the name — "Fyren… Fyrentennimar, that's it" — and adds: "Anything you need to know about fire-breathing lizards, you'll find in there." Gyrgum admires how the scales gleam in the sunrise.
+- Fembris warns the party about the dragon breath simulation chamber inside the Drakonoikos, noting that one member of the Avowed died testing it and that the Keeper's permission is now required to use it. Gyrgum murmurs he has a level or two left in him.
 - After traversing many high-ceilinged halls, tapestry-covered corridors, and staircases decorated with busts and oil paintings of stern long-dead sages, the party arrives at the Chapter House with aching legs — at least for Fembris.
 - A purple-robed watcher guards the entrance but lets the party pass without comment, having been told they were expected.
 
@@ -53,7 +53,7 @@ source: gmassist
 > "What's that building you say? Why, that's the Drakonoikos, made from the scales and bones of the ancient dragon…"
 > "He looks down, scratches his head, thinks to himself, I never get this right. Fire and Tednimar. Anything you need to know about fire and lightning, breathing lizards, you'll find in there."
 
-**Grygum** — *admiring the building*
+**Gyrgum** — *admiring the building*
 > "Boy, and those, those scales, they really gleam in the sunrise. That's amazing."
 
 ---
@@ -64,13 +64,13 @@ source: gmassist
 **GM** — *as Fembris, warning the party*
 > "Yeah, yeah, yeah, and you can test your mettle in the Dragon Breath Situation Chamber."
 
-**Grygum** — *intrigued but cautious*
+**Gyrgum** — *intrigued but cautious*
 > "That sounds like a great game to play. Later."
 
 **GM** — *as Fembris, elaborating on the danger*
 > "Yeah, but I wouldn't advise it. One member of the app vowed, died when they tried it. Now you need from the permission from the keeper to use it."
 
-**Grygum** — *dryly*
+**Gyrgum** — *dryly*
 > "I've got another level or two on me."
 
 ---

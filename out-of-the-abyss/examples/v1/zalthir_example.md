@@ -20,11 +20,11 @@ In the Silken Paths, I understood why Korrh Erann ran.
 
 The monk Korrh Erann spent seventeen days running through the Underdark with Drow scouts behind him. I had read his account at the monastery. The lesson was: do not fight what you cannot outrun, and do not outrun what you cannot outlast. The Drow do not tire. They have six hundred years to wait you out.
 
-We ran. Stool on Thorin's back. Daz keeping pace. Grygum, who should not move this fast but does. The scouts following us through the dark, exactly as I remembered from the story.
+We ran. Stool on Thorin's back. Daz keeping pace. Gyrgum, who should not move this fast but does. The scouts following us through the dark, exactly as I remembered from the story.
 
 I found the stalagmites. I sent the location through Stool's spore-link and heard the others change course.
 
-We hid. I had fallen from my ledge — a miscalculation I have noted for later — and lay still on the cave floor while Nym and his scouts swept the area. I could hear him six feet away. I could hear him decide. I heard the tremor that was Grygum's Thaumaturgy, and I heard Nym say to the other scout, *I told you it was the other tunnel.*
+We hid. I had fallen from my ledge — a miscalculation I have noted for later — and lay still on the cave floor while Nym and his scouts swept the area. I could hear him six feet away. I could hear him decide. I heard the tremor that was Gyrgum's Thaumaturgy, and I heard Nym say to the other scout, *I told you it was the other tunnel.*
 
 Then they were gone.
 

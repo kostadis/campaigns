@@ -1,6 +1,6 @@
 [Scene 8] The Ooze Rights Confrontation
-Narrator: Grygum
-Focus: Grygum's theology of agency and his parental protectiveness toward Glabbagool converge when someone challenges whether an ooze can have rights, and he answers with the full weight of a cleric who has thought about this longer than anyone else in the room.
+Narrator: Gyrgum
+Focus: Gyrgum's theology of agency and his parental protectiveness toward Glabbagool converge when someone challenges whether an ooze can have rights, and he answers with the full weight of a cleric who has thought about this longer than anyone else in the room.
 
 - Over the course of several days, Glabbagool remains largely unnoticed in his bag — but eventually a city guard insists on inspecting it.
 
@@ -10,7 +10,7 @@ Focus: Grygum's theology of agency and his parental protectiveness toward Glabba
 
 - Thorin and Dawnbringer affirm they are on the same page: "What, one day they're going to ban oozes, the next day they'll ban sentient swords!"
 
-- The guard, realizing he is dealing with what appears to be a group of very committed and possibly confused individuals, is bewildered. He asks whether Thorin needs to be taken to a cleric. Grygum notes he is a cleric. Dawnbringer offers to perform lesser restoration.
+- The guard, realizing he is dealing with what appears to be a group of very committed and possibly confused individuals, is bewildered. He asks whether Thorin needs to be taken to a cleric. Gyrgum notes he is a cleric. Dawnbringer offers to perform lesser restoration.
 
 - While Thorin has the guard's full attention, Zalthir teleports away with the bag. The guard notices the bag is gone and tells Thorin he thinks he may want to walk away.
 
@@ -18,7 +18,7 @@ Focus: Grygum's theology of agency and his parental protectiveness toward Glabba
 
 - The confrontation draws a crowd of mixed reactions — some nodding in agreement, some cautious — planting seeds of a new idea in the city.
 
-- Grygum and Zalthir — with Thorin's involvement — subsequently spend time in the city's poorer quarters using Dawnbringer's restorative power to heal orphans and the sick. This was Thorin's idea: he wanted to use the Lesser Restoration to find orphans and heal them, as a way for him and Dawnbringer to bond over helping others. Dawnbringer is described as very happy about this.
+- Gyrgum and Zalthir — with Thorin's involvement — subsequently spend time in the city's poorer quarters using Dawnbringer's restorative power to heal orphans and the sick. This was Thorin's idea: he wanted to use the Lesser Restoration to find orphans and heal them, as a way for him and Dawnbringer to bond over helping others. Dawnbringer is described as very happy about this.
 
 <!-- Move each quote below under the beat where it belongs. -->
 <!-- Remove OOC lines (damage calls, mechanic announcements) before narrating. -->
@@ -65,7 +65,7 @@ GM: "What? One day they're going to ban oozes, the next day they'll ban sentient
 
 Thorin: "That's a lot."
 
-Grygum: "Low blow."
+Gyrgum: "Low blow."
 
 <!-- affirming unity with Dawnbringer -->
 Thorin: "We're on the same page."
@@ -87,13 +87,13 @@ Zalthir: "Okay, I'll do that."
 <!-- as the guard, addressing Thorin -->
 GM: "Alright, the guard notices the bag's gone and goes, sir, sir, I think you may wanna, like, do we need to take you, like, do we need to take you to a cleric of some kind to heal you? Are you okay, sir?"
 
-<!-- as Grygum -->
-Grygum: "I'm a cleric."
+<!-- as Gyrgum -->
+Gyrgum: "I'm a cleric."
 
 <!-- as the guard -->
 GM: "Is he with you?"
 
-Grygum: "Some days he's a."
+Gyrgum: "Some days he's a."
 
 <!-- as Dawnbringer, offering help -->
 Thorin: "Dawnbringer's like, I can do lesser restoration. The operator's all confused, being like, I can heal them."
@@ -111,7 +111,7 @@ Thorin: "be like, I'll finish my coffee, and walk away."
 ### [Seeds Planted in Waterdeep]
 
 <!-- on the broader effect -->
-Grygum: "seed."
+Gyrgum: "seed."
 
 GM: "You know, planting the seed."
 

@@ -1,15 +1,15 @@
 [
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a cleric of Bahamut who believes dragons are defined by choice, not scale color, and thus rejects rigid notions of good or evil dragons. He is drawn to the red egg, senses its corruption, and later uses necromantic magic to attack Plinki after being grappled.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a cleric of Bahamut who believes dragons are defined by choice, not scale color, and thus rejects rigid notions of good or evil dragons. He is drawn to the red egg, senses its corruption, and later uses necromantic magic to attack Plinki after being grappled.",
     "source_quote": "I am a cleric of Bahamut, and I am drawn to this egg.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Plinki",
-    "fact": "Plinki is a derro who believes she has created a powerful ritual artifact by infusing a stolen egg with a demon\u2019s spirit in honor of Demogorgon. She is delusional about Grygum\u2019s faith, thinks a cleric\u2019s heart will seal the ritual, and reacts with glee to the obelisk\u2019s magic before being grappled and attacked.",
+    "fact": "Plinki is a derro who believes she has created a powerful ritual artifact by infusing a stolen egg with a demon\u2019s spirit in honor of Demogorgon. She is delusional about Gyrgum\u2019s faith, thinks a cleric\u2019s heart will seal the ritual, and reacts with glee to the obelisk\u2019s magic before being grappled and attacked.",
     "source_quote": "Come here! The beating heart of a cleric of Bahamut will seal the ritual!",
     "quote_verified": false
   },
@@ -17,28 +17,28 @@
     "type": "npc",
     "subject": "Zalthir",
     "fact": "Zalthir has enveloped the top tier of the mesa in magical darkness and is physically attacking the derro, including Plinki, whom he grapples. His actions suggest opposition to the ritual and the derro\u2019s madness.",
-    "source_quote": "Grygum hears the thuds of Zalthir\u2019s fists on the crazed Derro.",
+    "source_quote": "Gyrgum hears the thuds of Zalthir\u2019s fists on the crazed Derro.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin follows Grygum and makes a grotesque, humorous comment about the egg as a potential dragon omelet, showing disregard for the ritual\u2019s gravity and a flippant attitude toward the danger.",
+    "fact": "Thorin follows Gyrgum and makes a grotesque, humorous comment about the egg as a potential dragon omelet, showing disregard for the ritual\u2019s gravity and a flippant attitude toward the danger.",
     "source_quote": "What would a dragon omelet taste like? And would this one have two yolks?",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz follows Grygum from a distance alongside Thorin and Grygum, but takes no active role in the dialogue or conflict, serving as a passive observer.",
-    "source_quote": "As he walks, he notices that Thorin, Daz, and Grygum follow him from a distance.",
+    "fact": "Daz follows Gyrgum from a distance alongside Thorin and Gyrgum, but takes no active role in the dialogue or conflict, serving as a passive observer.",
+    "source_quote": "As he walks, he notices that Thorin, Daz, and Gyrgum follow him from a distance.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Derro (group)",
-    "fact": "Six derro surround Grygum at the egg, obeying Plinki\u2019s commands. They are part of her ritual circle, and their presence indicates organized, fanatical devotion to Demogorgon\u2019s influence through the egg.",
-    "source_quote": "Grygum counts them, 'six.'",
+    "fact": "Six derro surround Gyrgum at the egg, obeying Plinki\u2019s commands. They are part of her ritual circle, and their presence indicates organized, fanatical devotion to Demogorgon\u2019s influence through the egg.",
+    "source_quote": "Gyrgum counts them, 'six.'",
     "quote_verified": false
   },
   {
@@ -93,14 +93,14 @@
   {
     "type": "event",
     "subject": "Ritual activation attempt",
-    "fact": "Plinki attempts to complete a ritual to seal the demon-infused egg using the heart of a cleric of Bahamut. The ritual is interrupted by Zalthir\u2019s darkness and physical assault, Grygum\u2019s necromantic counterattack, and Thorin\u2019s mockery.",
+    "fact": "Plinki attempts to complete a ritual to seal the demon-infused egg using the heart of a cleric of Bahamut. The ritual is interrupted by Zalthir\u2019s darkness and physical assault, Gyrgum\u2019s necromantic counterattack, and Thorin\u2019s mockery.",
     "source_quote": "The beating heart of a cleric of Bahamut will seal the ritual!",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Necromantic attack by Grygum",
-    "fact": "After being grappled and surrounded by derro, Grygum utters words of cruel power and summons a spectral claw that seeks to rend armor, unstitch flesh, and crush bone \u2014 a necromantic strike aimed at destroying Plinki.",
+    "subject": "Necromantic attack by Gyrgum",
+    "fact": "After being grappled and surrounded by derro, Gyrgum utters words of cruel power and summons a spectral claw that seeks to rend armor, unstitch flesh, and crush bone \u2014 a necromantic strike aimed at destroying Plinki.",
     "source_quote": "He utters words of cruel power, rakes his hand through the air before Plinki. Magic follows, forming a great claw ... to destroy your enemy.",
     "quote_verified": false
   },
@@ -127,8 +127,8 @@
   },
   {
     "type": "thread",
-    "subject": "Grygum\u2019s misunderstood faith",
-    "fact": "Plinki\u2019s belief that Grygum is a traditional Bahamut cleric who worships lawful good dragons contradicts his actual belief in free-willed dragons beyond scale-based morality. This theological confusion may have consequences for future interactions.",
+    "subject": "Gyrgum\u2019s misunderstood faith",
+    "fact": "Plinki\u2019s belief that Gyrgum is a traditional Bahamut cleric who worships lawful good dragons contradicts his actual belief in free-willed dragons beyond scale-based morality. This theological confusion may have consequences for future interactions.",
     "source_quote": "Plinki has gotten closer ... she is confused about his sub-sect of the Cult of Bahamut.",
     "quote_verified": false
   },

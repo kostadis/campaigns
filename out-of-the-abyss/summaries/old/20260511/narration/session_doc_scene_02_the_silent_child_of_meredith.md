@@ -1,7 +1,7 @@
 ---
 scene: 02
 slug: the_silent_child_of_meredith
-narrator: Grygum
+narrator: Gyrgum
 scene_name: The Silent Child of Meredith
 session: 20260511
 ---

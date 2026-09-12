@@ -1,15 +1,15 @@
 ## NPC Activity
 
 **Erdde Blackskull**
-- Appeared in session continuing from previous meeting with Grygum; displayed visible paranoia and disappointment.
-- Requested Grygum investigate the "empty scabbard killers" — beings rumored to kill with psychic means, leaving no wounds on victims.
+- Appeared in session continuing from previous meeting with Gyrgum; displayed visible paranoia and disappointment.
+- Requested Gyrgum investigate the "empty scabbard killers" — beings rumored to kill with psychic means, leaving no wounds on victims.
 - Attempted to downplay the threat as folklore while simultaneously revealing two of her own clan members were among the victims, including her uncle.
-- Introduced subordinate Grimholl Forgebrand to provide details to Grygum.
+- Introduced subordinate Grimholl Forgebrand to provide details to Gyrgum.
 - Issued passes to the party allowing travel within restricted Duergar areas of Gracklstugh; these passes surprised city guards but were honored.
 - Threatened to turn the party over to the Stone Guards if they refused to cooperate with Gartokkar/Keepers of the Flame (indirectly — Gartokkar made this threat, but her passes and faction relationship underpin the leverage).
 
 **Grimholl Forgebrand ("Holl")**
-- Brought into Erdde's meeting by Erdde to brief Grygum on the assassinations.
+- Brought into Erdde's meeting by Erdde to brief Gyrgum on the assassinations.
 - Reported that victims were found with no entrance or exit wounds and no evidence of cause of death.
 - Confirmed two victims were members of Erdde Blackskull's clan.
 - Stated he is not friendly toward the party ("you are not my friends").
@@ -35,7 +35,7 @@
 
 **Werz Saltbaron**
 - Duergar merchant found on the piers near Ghohlbrorn's Lair, targeted by two psychic-weapon assassins.
-- Was near death when the party intervened; Grygum healed him before Zalthir could object.
+- Was near death when the party intervened; Gyrgum healed him before Zalthir could object.
 - Claimed ignorance of why he was targeted.
 - Confirmed he was the intended target upon seeing his charcoal portrait recovered from an assassin's body.
 - Invited the party to visit the **Shattered Spire** the following day for a reward.
@@ -44,7 +44,7 @@
 
 **The Assassins (two unnamed, deceased)**
 - Appeared on the piers near Ghohlbrorn's Lair, attacking Werz Saltbaron with glowing weapons consistent with psychic blades.
-- Both killed during combat; one killed in melee by Grygum/Thorin, one killed by Daz's scorching rays.
+- Both killed during combat; one killed in melee by Gyrgum/Thorin, one killed by Daz's scorching rays.
 - Carried: coins, bloodstained gloves, a box of scented candles, and a charcoal portrait of Werz Saltbaron confirming premeditated targeting.
 - No identifying faction markings noted.
 - Bodies disposed of by being pushed into the Darklake.
@@ -139,7 +139,7 @@
 
 | NPC / Faction Operative | Last Known Location / Status |
 |---|---|
-| Erdde Blackskull | Gracklstugh, her office/armory — not seen after Grygum's meeting on the 9th |
+| Erdde Blackskull | Gracklstugh, her office/armory — not seen after Gyrgum's meeting on the 9th |
 | Grimholl Forgebrand ("Holl") | Gracklstugh, last seen in Erdde's chambers |
 | Buppido | Ghohlbrorn's Lair, bound |
 | Jimjar | Ghohlbrorn's Lair |

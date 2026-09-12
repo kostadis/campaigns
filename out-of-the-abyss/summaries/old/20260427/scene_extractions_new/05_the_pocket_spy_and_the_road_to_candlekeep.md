@@ -16,7 +16,7 @@ source: gmassist
 - The DM notes the indignity is getting to her: she is "starting to wonder whether there are other fates" she might prefer.
 - The party discusses which books to donate at Candlekeep, considering the relationship between the books and the questions they want to answer: Princess Ebonir's spellbook for Daz's magical lineage, Ilvara's prayer book for questions about Jimjar, the Lolth-related theological argument for drow questions, the Prisoner Journal for Daz's own history, and Plinky's Journal for demonic lore.
 - Glabbagool does not understand why they wouldn't simply donate every book they have ever seen and ask questions for eternity.
-- Thorin proposes giving all five books so that Glabbagool gets one question of his own, wanting him to feel like a full member of the party. Everyone agrees; Grygum notes he is curious what Glabbagool will ask.
+- Thorin proposes giving all five books so that Glabbagool gets one question of his own, wanting him to feel like a full member of the party. Everyone agrees; Gyrgum notes he is curious what Glabbagool will ask.
 - Thorin, aware of the metagame: "I just want to know, Kostadis, playing the metagame — was that on your map of things I do?" Kostadis confirms it was not.
 
 ## Verbatim moments

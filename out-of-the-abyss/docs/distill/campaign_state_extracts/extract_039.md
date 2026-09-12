@@ -3,7 +3,7 @@
 ### Vadimir Coaxrock cube incursion — Blingdenstone traders grotto
 - **Session:** Chapter 34
 - **Outcome:** Success. The party defeated gelatinous cubes in the Trader's Grotto, saving merchants and citizens. Aftermath involved managing crowd concerns about collateral damage. A sergeant credited Chief Dorbo Diggermattock for hiring the adventurers.
-- **Consequences:** Party received a 10% discount coupon from the Chamber of Commerce. Grygum claimed a magical short sword found in the aftermath. Glabbagool expressed desire for friends and purpose.
+- **Consequences:** Party received a 10% discount coupon from the Chamber of Commerce. Gyrgum claimed a magical short sword found in the aftermath. Glabbagool expressed desire for friends and purpose.
 
 ### Scouting the Pudding King's lair
 - **Session:** Chapter 34
@@ -28,7 +28,7 @@
 
 ## Party Accomplishments & Acquisitions
 
-- **Magical short sword** — claimed by Grygum from the Trader's Grotto battle aftermath.
+- **Magical short sword** — claimed by Gyrgum from the Trader's Grotto battle aftermath.
 - **10% discount coupon** — from the Blingdenstone Chamber of Commerce.
 - **Tactical intelligence** — Full reconnaissance of the Pudding King's location, defenses (hundreds of oozes, green slime on ceiling), and the layout of his lair.
 - **Command of Blingdenstone's military operation** — Daz demanded and received authority to lead the assault on the ooze incursion. Chief Dorbo agreed to the party's terms.
@@ -52,5 +52,5 @@
 - **Chipgrin Goldwhisker — wererat leader, negotiation:** Not yet contacted; party tasked with bringing the Gold Whisker clan on board.
 - **Clan Goldwhisker truce negotiation — Blingdenstone:** Pending. Senni tasked the party with recruiting the wererat clan for the ooze fight. Dorbo opposed their inclusion but was overruled.
 - **Jimjar — deep gnome prisoner, first contact:** Present in Blingdenstone, placed a bet supporting the adventurers' success.
-- **Juiblex — Faceless Lord, Underdark presence:** The Pudding King proclaims the coming of the Faceless Lord to "enhance" Blingdenstone. A disembodied voice in the ooze cavern referenced him. Grygum recalled a ghost previously mentioning Jubilex.
+- **Juiblex — Faceless Lord, Underdark presence:** The Pudding King proclaims the coming of the Faceless Lord to "enhance" Blingdenstone. A disembodied voice in the ooze cavern referenced him. Gyrgum recalled a ghost previously mentioning Jubilex.
 - **Vadimir Coaxrock cube incursion — Blingdenstone traders grotto:** Completed. Gelatinous cubes defeated in the Trader's Grotto.

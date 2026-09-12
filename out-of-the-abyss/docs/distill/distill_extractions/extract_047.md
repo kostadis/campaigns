@@ -47,7 +47,7 @@
 **Thorin**
 - Current location: Tunnel approach, crossed the bridge
 - Current state: Active
-- Recent actions: Considered jumping the pit gap; persuaded by Grygum and Dawnbringer to walk across the completed bridge instead
+- Recent actions: Considered jumping the pit gap; persuaded by Gyrgum and Dawnbringer to walk across the completed bridge instead
 - Notable: Carries a sentient sword named Dawnbringer
 
 **Dawnbringer** (sentient sword)
@@ -98,7 +98,7 @@
 - Recent actions: Manifested tentacles; flew after being hurled by Earth Elemental; teleported sixty feet toward the Pudding King; walked remaining forty-five feet; struck the Pudding King; successfully grappled him with tentacles; maintained grapple through Pudding King's ooze transformation; dragged him fifteen feet south away from ooze allies
 - Faction: Party (lieutenant)
 
-**Grygum**
+**Gyrgum**
 - Current location: Tunnel approach / assault group
 - Current state: Active
 - Recent actions: Realized Jimjar's bet did not specify how Thorin must cross; persuaded Thorin to walk across the bridge
@@ -151,7 +151,7 @@
 - Dasco Pickshine sewed a branded patch onto Daz's clothes.
 - The first wererat scout reported a twenty-foot black pudding pit with an acid-dripping ceiling blocking the passage.
 - Dasco Pickshine's miners constructed a mithril-braced, salt-neutralized bridge over the black pudding pit in approximately twenty minutes; miners remained behind to maintain it.
-- Jimjar made a bet about Thorin crossing the gap; Grygum found a loophole allowing Thorin to simply walk the bridge.
+- Jimjar made a bet about Thorin crossing the gap; Gyrgum found a loophole allowing Thorin to simply walk the bridge.
 - The second wererat scout ventured ahead and failed to return after ten minutes.
 - Chipgrin investigated and found the second scout immobilized and terrified by a brain slime's psychic effect in a corridor of gelatinous mirror-like slime walls.
 - The party chose the loud option: Chipgrin's pack howled to neutralize the psychic effect, drawing all oozes onto the wererats and removing scouts and backup from the party's assets.

@@ -1,6 +1,6 @@
 ## Yuk-Yuk
 
-Yuk-Yuk was one of two goblin companions (along with Spiderbait) who joined the group after being promised 20 gold, convinced by Jimjar to follow into the dangerous tunnels. He traveled with the party through the Silken Tunnels and into the Underdark. On the 1st day of the 3rd Tenday of Taraskh 1493, Yuk-Yuk was found murdered—his throat cut with a shortsword while the group slept. Spiderbait discovered the body and was screaming. Grygum noted that any member of the group could have been the killer. Current status: dead, murdered in his sleep.
+Yuk-Yuk was one of two goblin companions (along with Spiderbait) who joined the group after being promised 20 gold, convinced by Jimjar to follow into the dangerous tunnels. He traveled with the party through the Silken Tunnels and into the Underdark. On the 1st day of the 3rd Tenday of Taraskh 1493, Yuk-Yuk was found murdered—his throat cut with a shortsword while the group slept. Spiderbait discovered the body and was screaming. Gyrgum noted that any member of the group could have been the killer. Current status: dead, murdered in his sleep.
 
 ## Spiderbait
 
@@ -8,7 +8,7 @@ Spiderbait was one of two goblin companions (along with Yuk-Yuk) who joined the 
 
 ## Jimjar
 
-Jimjar convinced the goblins Yuk-Yuk and Spiderbait to join the group by promising them 20 gold. He was excited about finding a tinderbox among the bandit loot, declaring "Toasted Ripplebark, the best thing in the Underdark." During the debate about disposing of corpses near the gorge, Jimjar (along with Topsy and Turvy) believed that leaving the bodies would attract monsters that would hinder their Drow pursuers. He found the name "Blingdenstone" mildly disinteresting as a destination. He took a bet with Grygum about whether Thorin would make it across the gorge, and later took another bet with Grygum about what kind of monsters they'd find in the lost tomb, wagering against skeletons and zombies. He was told to be quiet by the rest of the group while making bets at bedtime.
+Jimjar convinced the goblins Yuk-Yuk and Spiderbait to join the group by promising them 20 gold. He was excited about finding a tinderbox among the bandit loot, declaring "Toasted Ripplebark, the best thing in the Underdark." During the debate about disposing of corpses near the gorge, Jimjar (along with Topsy and Turvy) believed that leaving the bodies would attract monsters that would hinder their Drow pursuers. He found the name "Blingdenstone" mildly disinteresting as a destination. He took a bet with Gyrgum about whether Thorin would make it across the gorge, and later took another bet with Gyrgum about what kind of monsters they'd find in the lost tomb, wagering against skeletons and zombies. He was told to be quiet by the rest of the group while making bets at bedtime.
 
 ## Eldeth
 
@@ -16,7 +16,7 @@ Eldeth found waterorbs near a pool of water and explained their properties to th
 
 ## Suushar
 
-Suushar the Awakened witnessed Thorin's bout of madness and suggested that the archpriest Ploopploopeen in Sloopbludop could help, praising Ploopploopeen as a follower of the Sea Mother who would welcome his own spiritual awakening and the end of the kuo-toa's madness. When Grygum called the archpriest's name a tongue twister, Suushar was genuinely confused and demonstrated by repeating the name multiple times. During the corpse disposal debate, Suushar argued that trackers couldn't discern anything meaningful from natural scavenging activity. Regarding travel plans, Suushar stated he had no interest in traveling past Sloopbludop but might be willing to help with travel on the Darklake.
+Suushar the Awakened witnessed Thorin's bout of madness and suggested that the archpriest Ploopploopeen in Sloopbludop could help, praising Ploopploopeen as a follower of the Sea Mother who would welcome his own spiritual awakening and the end of the kuo-toa's madness. When Gyrgum called the archpriest's name a tongue twister, Suushar was genuinely confused and demonstrated by repeating the name multiple times. During the corpse disposal debate, Suushar argued that trackers couldn't discern anything meaningful from natural scavenging activity. Regarding travel plans, Suushar stated he had no interest in traveling past Sloopbludop but might be willing to help with travel on the Darklake.
 
 ## Ploopploopeen
 

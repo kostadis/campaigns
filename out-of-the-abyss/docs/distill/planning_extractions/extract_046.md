@@ -13,7 +13,7 @@ Attended the leadership meeting regarding elemental labor plans. Present during 
 Were party to the leadership meeting. Agreed with the party's arguments, concluding that enslaving summoned creatures violated their deepest religious beliefs. Supported the final policy decision.
 
 **Starlace**
-A traveling merchant who arrived in Blingdenstone during the city's preparations for battle against the Pudding King. Operated a shop of magical wares. Sold Zalthir crystal spectacles (see-invisibility/magical darkness). Enchanted Grygum's mace and shield with protective magic. Purchased excess armor from the party. Both parties were satisfied with the transactions.
+A traveling merchant who arrived in Blingdenstone during the city's preparations for battle against the Pudding King. Operated a shop of magical wares. Sold Zalthir crystal spectacles (see-invisibility/magical darkness). Enchanted Gyrgum's mace and shield with protective magic. Purchased excess armor from the party. Both parties were satisfied with the transactions.
 
 **Valimor Brightgem**
 Operates The Gilded Sheath in Blingdenstone. Met with the party to commission a scabbard for Dawnbringer. Offered two options: a gem-encrusted showpiece or a practical locking scabbard. Became excited by Thorin's casual marketing concepts (tiered models, replaceable components, "Vaultmaster 9000" branding). Offered the locking scabbard at a reduced price in response.

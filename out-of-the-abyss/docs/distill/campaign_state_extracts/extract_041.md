@@ -45,7 +45,7 @@
 ## Party Current Situation
 
 - **Current Location:** Rockblight caverns beneath Blingdenstone, at a shallow stream with crystalline formations near a stone ledge.
-- **Immediate Unresolved Situation:** A crazed earth elemental has just erupted from the ground mid-battle after the gargoyles were defeated. Battle is ongoing and unresolved. Grygum has taken significant wounds from the second gargoyle.
+- **Immediate Unresolved Situation:** A crazed earth elemental has just erupted from the ground mid-battle after the gargoyles were defeated. Battle is ongoing and unresolved. Gyrgum has taken significant wounds from the second gargoyle.
 
 ## Tracked Items
 

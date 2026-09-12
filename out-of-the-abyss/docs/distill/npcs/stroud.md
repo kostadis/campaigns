@@ -22,7 +22,7 @@ Dwarf, notable public figure following the events of the Well of the Dragons. Hi
 
 - The party has encountered references to Stroud and his chess game in multiple locations
 - In Daggerford's market square, the party observed a monument to Tarvis Ulain bearing a secondary inscription in Dwarven—*The move is yours*—which Daz identified as sharing language with the Castle Ward statue in Waterdeep previously connected to Stroud
-- At the Burning Wizard Inn in Daggerford, Grygum paid a resident bard a silver piece to perform a song about Stroud's famous chess game; the bard produced a love song using the chess game as a metaphor for romantic longing, stripping away the theological stakes
+- At the Burning Wizard Inn in Daggerford, Gyrgum paid a resident bard a silver piece to perform a song about Stroud's famous chess game; the bard produced a love song using the chess game as a metaphor for romantic longing, stripping away the theological stakes
 
 No direct interactions with Stroud himself recorded.
 

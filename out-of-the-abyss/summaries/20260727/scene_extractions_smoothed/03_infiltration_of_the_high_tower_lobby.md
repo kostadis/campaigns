@@ -14,11 +14,11 @@ from: ../scene_extractions/03_infiltration_of_the_high_tower_lobby.md
 - Two raiders are looting books according to a written manifest; their weapons are bloodied, and one carries a bow — the DM initially forgets the bow but corrects himself: "Yes, one of them does have a bow, sorry, oh my god."
 - On a second-floor landing (7-15 feet above), the party spots A'lai Aivenmore waiting near a sealed door, expecting Moziqodo to arrive with the key.
 - The DM clarifies that A'lai does NOT have access through the second door yet — he needs the key to get through, and the party has it.
-- Grygum: "I'm more worried about the wizard than about these raiders. We're probably more than a match for them."
+- Gyrgum: "I'm more worried about the wizard than about these raiders. We're probably more than a match for them."
 - The DM warns: "Just to put things in perspective, the A'lai Aivenmore is a pretty powerful wizard. But, like all powerful wizards, he's also more obsessed with staying alive than he is fighting to the death."
 - The party strategizes: take out the raiders first, then focus on the wizard.
 - The DM hints: "That's code for the GM warning you that there may be other people in the room you can't currently see."
-- Grygum decides to target A'lai with a surprise Guiding Bolt; Daz considers using spells that require Intelligence saves but realizes A'lai's Int modifier would make that difficult.
+- Gyrgum decides to target A'lai with a surprise Guiding Bolt; Daz considers using spells that require Intelligence saves but realizes A'lai's Int modifier would make that difficult.
 
 ## Verbatim moments
 
@@ -30,32 +30,32 @@ from: ../scene_extractions/03_infiltration_of_the_high_tower_lobby.md
 > "Okay, you arrive at the skyscraping lobby."
 > "And there are two raiders looting the lobby, bagging books from a written manifest."
 
-**Grygum** — clarifying the location
+**Gyrgum** — clarifying the location
 > "Skyscraping?"
 
 **GM**
 > "So that's the name of the lobby. So if we go back to here, right — you arrive at the lobby."
 > "This is the lobby. Lobby of High Tower."
 
-**Grygum** — recognizing the location
+**Gyrgum** — recognizing the location
 > "Oh, okay, it's the… the… Yes. Entrance. Basically."
 
 **GM**
 > "Yes."
 
-**Grygum** — assessing whether they've been noticed
+**Gyrgum** — assessing whether they've been noticed
 > "I suppose they haven't noticed us yet."
 
 **GM**
 > "No, they haven't noticed you yet."
 
-**Grygum** — asking about the raiders
+**Gyrgum** — asking about the raiders
 > "When you say Raiders… what do they… tell me a little about them."
 
 **GM** — describing the raiders and their bloodied weapons
 > "Well, there are guys in equipment. They've got swords, they definitely… you look at them and you realize some of their swords have blood, right?"
 
-**Grygum** — guessing about a bow
+**Gyrgum** — guessing about a bow
 > "Okay, and probably one of them has a bow."
 
 **GM** — initially denying the bow
@@ -68,7 +68,7 @@ from: ../scene_extractions/03_infiltration_of_the_high_tower_lobby.md
 **GM**
 > "Alright, as you look inside. So there's the guard here, there's a couple of guards, and then on the second floor of the landing is a wizard. Whom you recognize."
 
-**Grygum** — confirming line of sight
+**Gyrgum** — confirming line of sight
 > "Wait, this was a… this is somebody we can see from the lobby, or are we past?"
 
 **GM**
@@ -77,25 +77,25 @@ from: ../scene_extractions/03_infiltration_of_the_high_tower_lobby.md
 **GM** — placing A'lai on the landing
 > "And there are two people pulling books and trying to grab stuff from a sort of a list, and then standing on the second floor of the landing is a wizard whom you recognize as A'lai Aivenmore."
 
-**Grygum** — identifying the wizard
+**Gyrgum** — identifying the wizard
 > "Oh. This is the guy who has the key."
 
 **GM**
 > "Yes, this is the guy who has the key."
 
-**Grygum** — asking about the door
+**Gyrgum** — asking about the door
 > "Did he need to use the key to get into the lobby?"
 
 **GM** — clarifying A'lai lacks access through the second door
 > "No, he needed the key to get through the second door."
 
-**Grygum**
+**Gyrgum**
 > "He is through the second door?"
 
 **GM**
 > "No, no, he's not through the second door."
 
-**Grygum** — realizing the party holds the other key
+**Gyrgum** — realizing the party holds the other key
 > "Oh, okay, so we have the other key, and presumably his does."
 
 **GM**
@@ -110,7 +110,7 @@ from: ../scene_extractions/03_infiltration_of_the_high_tower_lobby.md
 **GM** — correcting himself about the bow
 > "Yes, yes, yes, I should have made… that was my mistake. Yes, one of them does have… yes, one of them does have a bow. Sorry, oh my god."
 
-**Grygum**
+**Gyrgum**
 > "Okay, well that clears up a mystery. Good."
 
 **[Assessing the Threat]**
@@ -120,14 +120,14 @@ from: ../scene_extractions/03_infiltration_of_the_high_tower_lobby.md
 **GM**
 > "Yes, yes. So, A'lai Aivenmore is sort of sitting over there, waiting. You guys see what's going on, but you haven't yet marched in, so I'm going to give you an opportunity to decide what you want to do."
 
-**Grygum** — sizing up the fight
+**Gyrgum** — sizing up the fight
 > "I'm more worried about the wizard than about these raiders. We can… we're probably more than a match for them."
 
 **GM** — warning about A'lai
 > "Yes, just to put things in perspective, A'lai Aivenmore is a pretty powerful wizard. So keep that in mind."
 > "But, like all powerful wizards, he's also more obsessed with staying alive than he is fighting to the death."
 
-**Grygum**
+**Gyrgum**
 > "Just like dragons."
 
 **Thorin** — asking to identify the wizard
@@ -148,7 +148,7 @@ from: ../scene_extractions/03_infiltration_of_the_high_tower_lobby.md
 **GM** — describing the token art
 > "It's a really awkward picture, because he's supposed to look like a drow wizard, but, you know…"
 
-**Grygum** — reacting to the art and proposing a plan
+**Gyrgum** — reacting to the art and proposing a plan
 > "He looks a little bit like a… Hindu Clown or something? I don't know. One thing we could do, guys, is try to eliminate the raiders so that we can focus on A'lai — so I could cast some kind of spell to… try to get them in one… one spell casting. Because I suspect that we just need to fight them and kill them."
 
 **[Daz Sizes Up the Wizard]**
@@ -157,7 +157,7 @@ from: ../scene_extractions/03_infiltration_of_the_high_tower_lobby.md
 **Daz**
 > "How tall is the wizard?"
 
-**Grygum**
+**Gyrgum**
 > "He wasn't expecting that question."
 
 **GM**
@@ -178,7 +178,7 @@ from: ../scene_extractions/03_infiltration_of_the_high_tower_lobby.md
 **Daz** — describing then shelving his plan
 > "I had a plan for maybe boxing — literally boxing the wizard in — while we took care of the other guys, just to make sure we were clear. But I think I'll wait on that. Maybe use it for something else. Yeah, I like the plan of just knocking down the… knock down the DPS towards us by getting the two weaker guys out of the way."
 
-**Grygum**
+**Gyrgum**
 > "Excellent."
 
 **[The DM Hints at Hidden Enemies]**
@@ -187,7 +187,7 @@ from: ../scene_extractions/03_infiltration_of_the_high_tower_lobby.md
 **GM** — warning about unseen enemies
 > "Just to be clear, from where you are, you can't see everything in the room, right? That's code for the GM warning you that there may be other people in the room you can't currently see."
 
-**Grygum**
+**Gyrgum**
 > "Oh."
 
 **GM** — noting A'lai's vantage and expectations
@@ -196,7 +196,7 @@ from: ../scene_extractions/03_infiltration_of_the_high_tower_lobby.md
 **GM** — A'lai's mistaken expectation
 > "A'lai Aivenmore is currently standing in front of the door, waiting, thinking that Moziqodo is gonna run in at any point in time."
 
-**Grygum**
+**Gyrgum**
 > "Well, he's going to be pretty surprised by us, then."
 
 **[Zalthir's Flying Question]**
@@ -205,58 +205,58 @@ from: ../scene_extractions/03_infiltration_of_the_high_tower_lobby.md
 **GM** — as Glabbagool
 > "Glabbagool says — is this where we use the flying spell?"
 
-**[Grygum Plans the Surprise Guiding Bolt]**
-- Grygum decides to target A'lai directly with Guiding Bolt while the others handle the thugs.
+**[Gyrgum Plans the Surprise Guiding Bolt]**
+- Gyrgum decides to target A'lai directly with Guiding Bolt while the others handle the thugs.
 
-**Grygum** — weighing his spell options
+**Gyrgum** — weighing his spell options
 > "So, with the spells that I've got, I could get both the thugs if… if I could get at the end of a line of them. Or I could target any one of the people in the room. They're not lined up for a good aim from the door, though. So, maybe I should… maybe I should aim for A'lai instead, and then the others… the rest of us can work on the thugs?"
 
 **GM**
 > "Sounds good."
 
-**Grygum**
+**Gyrgum**
 > "What do you think, guys?"
 
 **Thorin**
 > "So what was the plan again?"
 
-**Grygum**
+**Gyrgum**
 > "Target A'lai instead of the thugs."
 
 **Thorin**
 > "Who? Me? You?"
 
-**Grygum**
+**Gyrgum**
 > "Me with my spell. I'm assuming that I can get a spell off before everybody realizes that we're there."
 
 **Thorin** — offering to kite the thugs
 > "Yeah, and I'm… I'm happy to sort of distract and try and kite the thugs a little bit."
 
-**Grygum** — declaring Guiding Bolt
+**Gyrgum** — declaring Guiding Bolt
 > "So, should I, should I try to cast a spell now? I was thinking Guiding Bolt, toward… toward A'lai."
 
 **GM**
 > "Okay, you're gonna try Guiding Bolt towards A'lai?"
 
-**Grygum**
+**Gyrgum**
 > "Yes. It has a 120-foot range, I assume that I'm within good range."
 
 **GM** — setting up the surprise attack
 > "Alright, you gonna try to surprise him?"
 
-**Grygum**
+**Gyrgum**
 > "Yeah."
 
 **GM**
 > "Alright, you're gonna have… alright, your stealth?"
 
-**Grygum**
+**Gyrgum**
 > "Oh, stealth. 16."
 
 **GM** — resolving the surprise
 > "I'm going to declare that he is most definitely not expecting you to show up. So, he heard you running upstairs, so no particular thing — his passive perception… 16. No, he does not notice you. Alright, roll to hit."
 
-**Grygum** — the missed Guiding Bolt
+**Gyrgum** — the missed Guiding Bolt
 > "Okay, I sort of jumped the gun on that, so I got a… I got a 13, which is lousy, oops."
 
 **GM**

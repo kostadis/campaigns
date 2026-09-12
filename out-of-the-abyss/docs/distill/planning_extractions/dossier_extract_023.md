@@ -1,6 +1,6 @@
 ## Plinki
 
-Plinki was the derro leader who confronted the party. Her mind was consumed with thoughts of "Sacrifice! Power! For the Big Baboon Demon!" — indicating her devotion to a demon lord (likely Demogorgon, referred to as the "Big Baboon Demon"). She refused Grygum's attempts to reason with her about choice and dragon gods. Zalthir identified her as the lynchpin of the enemy force and targeted her specifically, killing her with a fire breath attack. Her death was described as sudden — "a bright, nasty, red shriek and then... nothing" — and it caused her followers' morale to shatter into panic. She is dead.
+Plinki was the derro leader who confronted the party. Her mind was consumed with thoughts of "Sacrifice! Power! For the Big Baboon Demon!" — indicating her devotion to a demon lord (likely Demogorgon, referred to as the "Big Baboon Demon"). She refused Gyrgum's attempts to reason with her about choice and dragon gods. Zalthir identified her as the lynchpin of the enemy force and targeted her specifically, killing her with a fire breath attack. Her death was described as sudden — "a bright, nasty, red shriek and then... nothing" — and it caused her followers' morale to shatter into panic. She is dead.
 
 ## Eldeth
 

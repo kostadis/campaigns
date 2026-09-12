@@ -209,7 +209,7 @@ Candlekeep. You saw a third you may not have understood yet."*
 
 ---
 
-## Grygum
+## Gyrgum
 
 **The Stroudite first-generation lineage.**
 
@@ -219,19 +219,19 @@ Candlekeep. You saw a third you may not have understood yet."*
   tradition. None have met. The letters open the door.
 - *(GM: pick names + locations + brief texture for each cleric
   before the session.)*
-- **Status:** sealed letters in Grygum's pack.
+- **Status:** sealed letters in Gyrgum's pack.
 
 **The three schools of thought** (organized by worldview).
 
 - **Stroud school** (humanoid-centric) / **Dragon school**
-  (draconic-centric) / **Bahamut school** (theological — Grygum's
+  (draconic-centric) / **Bahamut school** (theological — Gyrgum's
   default).
-- One-page polemic from each in Grygum's packet (Stroud's
+- One-page polemic from each in Gyrgum's packet (Stroud's
   boastful primary-source letter / Master Ulvian Crest's Dragon
   essay / Sister Halena Brassmark's Bahamut sermon).
-- **Ben can pick which school Grygum belongs to between
+- **Ben can pick which school Gyrgum belongs to between
   sessions.** Picking is *meaningful* — these are three-year-old
-  emerging traditions; Grygum is shaping a school, not joining a
+  emerging traditions; Gyrgum is shaping a school, not joining a
   settled one.
 - **Status:** Ben's call.
 
@@ -252,13 +252,13 @@ Candlekeep. You saw a third you may not have understood yet."*
   temple in the Western Heartlands (recommend near Triboar; GM
   picks).
 - **Last letter contains an unfinished sentence.** Mystery hook.
-- **Status:** Grygum's separate personal thread; pivot
+- **Status:** Gyrgum's separate personal thread; pivot
   destination available.
 
 **The chess problem on vellum.**
 
 - The actual move (GM picks the specific historical problem).
-  In Grygum's packet. Ben can play it out at the table.
+  In Gyrgum's packet. Ben can play it out at the table.
 
 **Vareth as standing correspondent.**
 
@@ -272,9 +272,9 @@ Philemon's predecessor).**
   difference between watching and witnessing"*) and to
   **Philemon's predecessor** (asked: *"how do you name a weapon
   that has lost its bearer?"*).
-- Grygum can carry these to Zalthir and Thorin. Seeds the
+- Gyrgum can carry these to Zalthir and Thorin. Seeds the
   thematic kinship across the table.
-- **Status:** available; surfaces only if Grygum's research ran.
+- **Status:** available; surfaces only if Gyrgum's research ran.
 
 ---
 

@@ -1,8 +1,8 @@
 [
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a half-orc cleric of Bahamut who has escaped multiple prisons.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a half-orc cleric of Bahamut who has escaped multiple prisons.",
     "source_quote": "Here I am, Gyrgum, half-orc cleric of Bahamut, and Gracklstugh is what makes an orc camp look pretty. ... I seem to keep having to escape from some prison, whether it\u2019s the prisons on the overbrite, or the prisons of the Drow, or the prisons of the Duergar.",
     "quote_verified": false
   },
@@ -142,7 +142,7 @@
   {
     "type": "npc",
     "subject": "Jimjar",
-    "fact": "Jimjar throws a rope to catch Grygum after he falls off Themberchaud.",
+    "fact": "Jimjar throws a rope to catch Gyrgum after he falls off Themberchaud.",
     "source_quote": "Jimjar throws a rope and catches the falling orc.",
     "quote_verified": true
   },
@@ -170,7 +170,7 @@
   {
     "type": "npc",
     "subject": "Eldeth",
-    "fact": "Eldeth expresses surprise that Grygum can cast Mending.",
+    "fact": "Eldeth expresses surprise that Gyrgum can cast Mending.",
     "source_quote": "Eldeth looks at him, \u201cReally?\u201d",
     "quote_verified": true
   },
@@ -275,8 +275,8 @@
   {
     "type": "object",
     "subject": "caltrop",
-    "fact": "Grygum gives a caltrop to the Duergar Stone Guard as a symbol of their mission.",
-    "source_quote": "Grygum pulls out a caltrop, \u201cThis is a symbol of our mission. Guard it and keep it secret.\u201d",
+    "fact": "Gyrgum gives a caltrop to the Duergar Stone Guard as a symbol of their mission.",
+    "source_quote": "Gyrgum pulls out a caltrop, \u201cThis is a symbol of our mission. Guard it and keep it secret.\u201d",
     "quote_verified": false
   },
   {
@@ -344,15 +344,15 @@
   },
   {
     "type": "event",
-    "subject": "Grygum falling off dragon",
-    "fact": "Grygum falls off Themberchaud when the dragon makes a sharp turn.",
-    "source_quote": "But he\u2019s fast, and his belly rolls instead of gliding, and then I am falling. ... I notice Grygum and Thorin falling.",
+    "subject": "Gyrgum falling off dragon",
+    "fact": "Gyrgum falls off Themberchaud when the dragon makes a sharp turn.",
+    "source_quote": "But he\u2019s fast, and his belly rolls instead of gliding, and then I am falling. ... I notice Gyrgum and Thorin falling.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Jimjar saving Grygum",
-    "fact": "Jimjar throws a rope to catch Grygum and pulls him back onto Themberchaud.",
+    "subject": "Jimjar saving Gyrgum",
+    "fact": "Jimjar throws a rope to catch Gyrgum and pulls him back onto Themberchaud.",
     "source_quote": "Jimjar throws a rope and catches the falling orc. And then the group pulls him onto the dragon",
     "quote_verified": true
   },
@@ -365,15 +365,15 @@
   },
   {
     "type": "event",
-    "subject": "Grygum accepting Jimjar\u2019s bet",
-    "fact": "Grygum accepts Jimjar\u2019s bet regarding the Neverlight Grove.",
-    "source_quote": "but Grygum does.",
+    "subject": "Gyrgum accepting Jimjar\u2019s bet",
+    "fact": "Gyrgum accepts Jimjar\u2019s bet regarding the Neverlight Grove.",
+    "source_quote": "but Gyrgum does.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "party scuttling boat",
-    "fact": "Grygum suggests scuttling the boat before leaving it on the beach.",
+    "fact": "Gyrgum suggests scuttling the boat before leaving it on the beach.",
     "source_quote": "Gyrgum shouts, \u201cWe could scuttle it.\u201d",
     "quote_verified": true
   },
@@ -387,7 +387,7 @@
   {
     "type": "event",
     "subject": "Duergar Stone Guard fleeing",
-    "fact": "The Duergar Stone Guard runs off after accepting the caltrop from Grygum.",
+    "fact": "The Duergar Stone Guard runs off after accepting the caltrop from Gyrgum.",
     "source_quote": "The Duergar takes the caltrop and then runs off.",
     "quote_verified": true
   },

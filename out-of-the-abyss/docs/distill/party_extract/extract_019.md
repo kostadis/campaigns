@@ -1,10 +1,10 @@
 ## Character Progression
 
-### Grygum
+### Gyrgum
 - **Items gained:** Share of 900 gold upfront payment (30% of 3,000 gold contract from Gartokkar Xundorn).
 
 ### Thorin
-- **Items gained:** Share of 900 gold upfront payment. Received magical healing from Grygum after the centipede battle, restoring him as if he had rested.
+- **Items gained:** Share of 900 gold upfront payment. Received magical healing from Gyrgum after the centipede battle, restoring him as if he had rested.
 
 ### Zalthir
 - No level or item changes noted.
@@ -16,7 +16,7 @@
 
 ## Arc Score Events
 
-### Grygum
+### Gyrgum
 - **Positive:** Declared a religious obligation to save the dragon egg from corruption, citing his faith in Bahamut and the principle that dragons have free will regardless of scale color. This deepens his commitment to his clerical oath.
 - **Positive:** Took a leadership role in formulating the plan to leverage the Flumph's intelligence, rally allies, and negotiate contracts—showing growth as a strategic thinker.
 
@@ -36,7 +36,7 @@
 
 ## Relationships & Decisions
 
-### Grygum
+### Gyrgum
 - **Oath/Obligation:** Committed to rescuing the dragon egg from Plinki and the Cult of Demogorgon as a sacred duty to Bahamut.
 - **Contract with Gartokkar Xundorn:** Accepted a job to retrieve the stolen egg, bring proof of demonic worship (a statue of Demogorgon), and deliver evidence of the Council of Savants' corruption. Payment: 3,000 gold total (2,000 base + 1,000 confidentiality rider), 900 gold paid upfront.
 - **Debt/Threat incurred:** Gartokkar explicitly threatened the entire party with relentless pursuit if they betray him.

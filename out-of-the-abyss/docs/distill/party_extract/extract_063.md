@@ -3,21 +3,21 @@
 - Thorin leveled up after the rotunda battle. [cite: "the one that settles into your arms and shoulders and says you're more than you were this morning"]
 - Zalthir leveled up after the fight, having done half the killing. [cite: "I gave Zalthir grief about leveling up without doing the work, which was a lie, since he'd done half the killing"]
 - Thorin received a Watcher's Stair key from Kalan Strongbranch, opening a shortcut to the North Gallery. [cite: "He pushed a key into my hand. A Watcher's Stair key, for the barred door that cuts straight through to the North Gallery."]
-- Grygum still holds the fake high tower key after the sanctum attack. [cite: "I still have the fake key, right?"]
+- Gyrgum still holds the fake high tower key after the sanctum attack. [cite: "I still have the fake key, right?"]
 
 ## Arc Score Events
 
 - Thorin closed distance first, planted himself between the pit fiend and the room, and struck with Dawnbringer — positive. [cite: "he closed the distance, planted himself between the fiend and the room, and Dawnbringer came down"]
-- Thorin frightened a pit fiend, something Grygum had said was impossible — positive. [cite: "Grygum had told him you can't frighten a pit fiend. Thorin had asked if he'd like to see him try."]
+- Thorin frightened a pit fiend, something Gyrgum had said was impossible — positive. [cite: "Gyrgum had told him you can't frighten a pit fiend. Thorin had asked if he'd like to see him try."]
 - Zalthir crossed forty-five feet and stunned the pit fiend with a placed strike before it could act — positive. [cite: "one strike, placed exactly, meant to seize the nervous system and hold it shut. The fiend locked. Rigid. Stunned."]
 - Thorin dealt the killing blows to the pit fiend — positive. [cite: "Thorin finished it. One clean strike, and then a second that arrived as a killing thing"]
-- Grygum healed Tadric, closing his wounds and stopping the bleeding — positive. [cite: "Grygum knelt over Tadric and closed him back up, the blood slowing and then stopping under his hands"]
+- Gyrgum healed Tadric, closing his wounds and stopping the bleeding — positive. [cite: "Gyrgum knelt over Tadric and closed him back up, the blood slowing and then stopping under his hands"]
 - Daz worked through the wards puzzle and deduced the keep's teleport protection had been breached — positive. [cite: "The wards over Candlekeep were wrong... Something was broken."]
 
 ## Relationships & Decisions
 
 - The party was deputized as Watchers of Candlekeep by Kalan Strongbranch. [cite: "I hereby deputize you as Watchers of Candlekeep."]
-- Grygum accepted the deputization badge. [cite: "Aye, aye," I said, because when a frightened man hands you a badge, you take the badge."]
+- Gyrgum accepted the deputization badge. [cite: "Aye, aye," I said, because when a frightened man hands you a badge, you take the badge."]
 - Thorin confronted Kalan Strongbranch over being handed a fake key, demanding to know if this one was genuine. [cite: "Is this key for real this time, or are you just fucking with us again?"]
 - Thorin chose radical transparency, deciding to tell Tadric the full situation. [cite: "I figure we might as well tell him what's going on"]
 - The party identified A'lai Aivenmore as the buyer behind both attacks and the key theft. [cite: "One man with knowledge nobody else had. Two attacks, two keys, one buyer."]

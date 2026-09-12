@@ -78,7 +78,7 @@
 
 ---
 
-**[GM as Asha Vandree]** — *After Grygum's player mentions "blowing her up" as a plan, Asha responds with withering drow judgment*
+**[GM as Asha Vandree]** — *After Gyrgum's player mentions "blowing her up" as a plan, Asha responds with withering drow judgment*
 > "I thought you had strong allies, who had a tactical awareness and understanding how to use their magic for destructive purposes."
 
 **[Mike as Daz]** — *Covering smoothly*

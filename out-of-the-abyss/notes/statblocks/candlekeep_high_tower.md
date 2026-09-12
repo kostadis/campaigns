@@ -24,7 +24,7 @@
 | 10 (+0) | 14 (+2) | 12 (+1) | **20 (+5)** | 15 (+2) | 16 (+3) |
 
 **Saving Throws** INT +9, WIS +6 · **Skills** Arcana +13, History +9, Perception +6
-**Damage Immunities** psychic · **Passive Perception 16** *(matched Grygum's Stealth 16 — hence no notice)*
+**Damage Immunities** psychic · **Passive Perception 16** *(matched Gyrgum's Stealth 16 — hence no notice)*
 
 ***Magic Resistance.*** Advantage on saves against spells and magical effects.
 
@@ -87,7 +87,7 @@ He has had a working exit in his pocket this entire fight. Free, no roll.
 Playable blocks for the session prepped in
 `notes/session_prep/20260727_candlekeep_the_man_with_the_metal_hand.md`.
 
-**Party:** 4× L9 (Zalthir monk / Thorin fighter / Grygum cleric / Daz wizard)
+**Party:** 4× L9 (Zalthir monk / Thorin fighter / Gyrgum cleric / Daz wizard)
 + Glabbagool as sidekick (~+0.5 PC).
 
 **Chassis source:** all blocks read directly from `5etools-src/data/bestiary/bestiary-mm.json`
@@ -206,7 +206,7 @@ both are up.*
 
 > **Note on *stoneskin*:** it grants resistance to **nonmagical** B/P/S. Against
 > this party it is nearly worthless — Dawnbringer deals radiant, Zalthir's
-> unarmed strikes are magical at L6+, Grygum has a *mace +1*. **Let it be
+> unarmed strikes are magical at L6+, Gyrgum has a *mace +1*. **Let it be
 > worthless.** A'lai prepared for the wrong enemy, and that is characterful:
 > he expected Watchers with swords.
 >
@@ -363,7 +363,7 @@ already seen them.
 
 | Face | The tell | Why it's good |
 |---|---|---|
-| **A wounded Watcher** being helped down past them in Scene 2 (Recommended) | It never bleeds where it was bandaged. Grygum, who closed Tadric an hour ago, will notice the wound is wrong. | Free, seeded naturally, and rewards the cleric for paying attention. |
+| **A wounded Watcher** being helped down past them in Scene 2 (Recommended) | It never bleeds where it was bandaged. Gyrgum, who closed Tadric an hour ago, will notice the wound is wrong. | Free, seeded naturally, and rewards the cleric for paying attention. |
 | **Fembris Lancer** | The real Fembris is a captive in Deneir's Sanctum and shouldn't be here at all. Nobody will question it, because nobody likes him enough to. | Bleak comedy — the party's own hostage walks in and they nearly let it. |
 | **Tadric** | If Tadric is off flying someone else up, two Tadrics is the tell. | Cruellest, and only works if the party splits. |
 

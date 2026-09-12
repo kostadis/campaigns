@@ -6,9 +6,9 @@ No level changes or new abilities noted. No items gained or lost during this ses
 
 ## Arc Score Events
 
-**Grygum** — Proposed an original fourth school of theological thought (the strong-weak hypothesis / fixed points theory) in conversation with Brother Vareth. Vareth immediately embraced it as a genuine intellectual contribution and named it the Grygumite School. Positive arc score event: original philosophical insight recognized as institutionally significant.
+**Gyrgum** — Proposed an original fourth school of theological thought (the strong-weak hypothesis / fixed points theory) in conversation with Brother Vareth. Vareth immediately embraced it as a genuine intellectual contribution and named it the Gyrgumite School. Positive arc score event: original philosophical insight recognized as institutionally significant.
 
-**Grygum** — Introduced himself as "head of the Grygumite School — Founder, in fact" to deflect the council's scrutiny and establish credibility. Effectively redirected academic attention during a crisis moment. Positive arc score event: demonstrated facility with institutional social dynamics.
+**Gyrgum** — Introduced himself as "head of the Gyrgumite School — Founder, in fact" to deflect the council's scrutiny and establish credibility. Effectively redirected academic attention during a crisis moment. Positive arc score event: demonstrated facility with institutional social dynamics.
 
 **Thorin** — Successfully negotiated investigation mandate and library access (all-access "library card") and one book each as remuneration from the Council of Twelve. Positive arc score event: secured material and institutional resources for the party through direct negotiation.
 
@@ -16,7 +16,7 @@ No level changes or new abilities noted. No items gained or lost during this ses
 
 ## Relationships & Decisions
 
-**Grygum**
+**Gyrgum**
 - Formed a productive intellectual relationship with Brother Vareth; agreed to provide a marked-up version of the Stroudite papers and to exchange research.
 - Accepted Pizwog's syncretic research paper and committed sincerely to reading it.
 - Decided to prioritize questioning Kalan Strongbranch (the Gate Warden) first among suspects.

@@ -1,12 +1,12 @@
 # Chapter 14 Journey Through the Darklake
 ## 9th day of the 3rd Tenday of Taraskh 1493
-### Grygum
+### Gyrgum
 
 
-Jimjar stares at Grygum and asks, “Why are you a follower of Bahamut?” 
+Jimjar stares at Gyrgum and asks, “Why are you a follower of Bahamut?” 
 
 
-And Grygum sighs. 
+And Gyrgum sighs. 
 
 
 He has always been a bit of a mystery to other folks—an orc cleric of a dragon god. 
@@ -36,10 +36,10 @@ But others believed that Bahamut moved Stroud’s hand and hid the move from Pro
 And so the dragon god, who was never one to seek faithful among those who were not dragons, has gained quite a following among those who saw in his actions a divine plan. 
 
 
-Jimjar was fishing to find out what Grygum believed, and Grygum was tired. And it was dark, and he didn’t want to get into another argument about free will, the will of the gods, and whether the scale color of a dragon defined the intrinsic goodness of a creature that lived for a millenia. 
+Jimjar was fishing to find out what Gyrgum believed, and Gyrgum was tired. And it was dark, and he didn’t want to get into another argument about free will, the will of the gods, and whether the scale color of a dragon defined the intrinsic goodness of a creature that lived for a millenia. 
 
 
-Grygum smiles and says nothing. 
+Gyrgum smiles and says nothing. 
 
 
 Jimjar stares back. 
@@ -64,7 +64,7 @@ Zalthir shouts, “Anyone got oars?”
 Sarith laughs, “It would have been useful a while ago…” 
 
 
-Daz watches as Grygum and Thorin prepare to get into the water to push. 
+Daz watches as Gyrgum and Thorin prepare to get into the water to push. 
 
 
 And then a flash of inspiration hits him, “Stop, I can do this.” 

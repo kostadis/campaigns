@@ -1,6 +1,6 @@
 [Scene 3] A Shadow in the Woods
-Narrator: Grygum
-Focus: Grygum's faith-sharpened instinct to read the moral weight of a presence — divine, demonic, or something stranger — gives him the most revealing angle on whatever stirs in the dark between the trees.
+Narrator: Gyrgum
+Focus: Gyrgum's faith-sharpened instinct to read the moral weight of a presence — divine, demonic, or something stranger — gives him the most revealing angle on whatever stirs in the dark between the trees.
 
 - The DM sets up a forest map and places the party near their intended campsite.
 
@@ -112,28 +112,28 @@ Focus: Grygum's faith-sharpened instinct to read the moral weight of a presence 
   <!-- on the bird call maneuver -->
   GM: "There's been a maneuver you've been working on for some time, which throws everybody off, right? Okay."
 
-- Grygum and Glabbagool, still at camp, hear the call. Glabbagool does a very bad bird impression in response and is excited about the concept of a bird. Grygum tells him, "No, no, they're not oozy at all, they're feathered." Glabbagool is very confused.
+- Gyrgum and Glabbagool, still at camp, hear the call. Glabbagool does a very bad bird impression in response and is excited about the concept of a bird. Gyrgum tells him, "No, no, they're not oozy at all, they're feathered." Glabbagool is very confused.
 
-  <!-- describing Grygum's perspective -->
+  <!-- describing Gyrgum's perspective -->
   GM: "So, you know, you're a half-orc, and you know that drow on the surface really hate the sun, and they're very miserable, and, you know, this… whoever this person is, they're probably very low on the food chain, or, you know, they got stuck with this job, and, you know, they're putting on a brave face."
   GM: "So, everybody's kind of left, and like, you're kind of… you were getting ready to sleep, and everybody's gone, and…"
   GM: "I'm glad Magoo's still there and goes."
   GM: "I think they found someone! There was a creature that went, and he does a really bad bird imitation."
 
   <!-- to Glabbagool -->
-  Grygum: "Okay, well, come with Glabbagool, we'll go, we'll go check on it."
+  Gyrgum: "Okay, well, come with Glabbagool, we'll go, we'll go check on it."
 
   <!-- Glabbagool's confusion about birds -->
   GM: "Is it a kind of ooze?"
 
   <!-- explaining birds to Glabbagool -->
-  Grygum: "No, no, they're… they're not oozy at all, they're feathered."
+  Gyrgum: "No, no, they're… they're not oozy at all, they're feathered."
 
   GM: "He's very confused."
 
   Thorin: "but smaller. Oh, wait, you don't know what a dinosaur is."
 
-  Grygum: "We'll introduce you. Yeah, yeah, I wander over there."
+  Gyrgum: "We'll introduce you. Yeah, yeah, I wander over there."
 
 - Zalthir teleports directly to the spy, striking with advantage. First attack hits AC 24 and grapples her. Second attack hits AC 19 for a combined 25 damage. Zalthir then attempts a Stunning Strike, forcing a DC 13 Constitution save; the spy rolls a plus-2 and fails. She is stunned and grappled.
 
@@ -194,5 +194,5 @@ Focus: Grygum's faith-sharpened instinct to read the moral weight of a presence 
   GM: "Yes, she can, she can."
   GM: "Very politely, very friendly, like, you know, nothing, nothing, nothing…"
 
-- Grygum and Glabbagool move in from camp to join the party.
+- Gyrgum and Glabbagool move in from camp to join the party.
 

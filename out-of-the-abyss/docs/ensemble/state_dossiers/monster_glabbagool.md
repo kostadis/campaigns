@@ -23,7 +23,7 @@ chapters: 34-61
 - Functions as a non-combative, absorptive tool of subterfuge for Zalthir  
 - Acts as an extension of Zalthir’s senses and capabilities, absorbing environmental knowledge and neutralizing hazards  
 - Autonomous: seeks magical abilities and is no longer merely a companion but an entity with its own goals  
-- Previously worked with Grygum, Eldev, Jimjar, and the party; now exclusively bound to Zalthir  
+- Previously worked with Gyrgum, Eldev, Jimjar, and the party; now exclusively bound to Zalthir  
 - Maintains persistent, hopeful nature — still attempts to assist, even when unasked  
 
 **Defining recent actions:**  
@@ -43,5 +43,5 @@ chapters: 34-61
 - Whether Glabbagool’s autonomy is fully independent or still partially influenced by Zalthir’s will is unclear.  
 - The origin of the bone die’s influence on Glabbagool remains unexplained; it may be tied to his sentience, but this is not confirmed.  
 - The exact mechanism by which Glabbagool absorbed the Potion of Flying (e.g., through skin, blood, or psychic resonance) is unspecified.  
-- Whether Glabbagool’s previous companions (Grygum, Jimjar, etc.) are still alive or aware of his current state is unknown — no recent contact is noted.  
+- Whether Glabbagool’s previous companions (Gyrgum, Jimjar, etc.) are still alive or aware of his current state is unknown — no recent contact is noted.  
 - The permanence of his fusion to Zalthir’s arm is uncertain — could he detach, or is this irreversible?

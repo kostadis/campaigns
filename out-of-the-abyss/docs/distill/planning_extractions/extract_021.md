@@ -46,7 +46,7 @@
 ## Threat Arc Events
 
 **Demonic Possession / Planar Distortion**
-- The large red dragon egg atop the Raucus Mesa has been confirmed by Daz as demon-possessed; the demon is already inside. This represents an escalation — the possession is complete, not pending. *(Triggering event: Daz identifies the lettering on the egg as confirming demonic possession, tells Grygum "It's too late. A demon has already possessed the egg.")*
+- The large red dragon egg atop the Raucus Mesa has been confirmed by Daz as demon-possessed; the demon is already inside. This represents an escalation — the possession is complete, not pending. *(Triggering event: Daz identifies the lettering on the egg as confirming demonic possession, tells Gyrgum "It's too late. A demon has already possessed the egg.")*
 - The obelisk at the Raucus Mesa flashed, causing the faerzress across the entire cavern to flare in response. A Derro harvested an object from the ground immediately after. *(Triggering event: obelisk activation causes cavern-wide faerzress surge; material object produced or dislodged.)*
 
 ---

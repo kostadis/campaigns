@@ -17,13 +17,13 @@ chapters: 27-27
 
 **Current assignment / role and key relationships:**  
 - Acts as a recruiter and catalyst for Zuggtmoy’s influence, offering final invitations to join the dream  
-- Last seen speaking with Thorin and Grygum, offering them one last chance to join the Dream  
+- Last seen speaking with Thorin and Gyrgum, offering them one last chance to join the Dream  
 - Primary agent responsible for the mass behavioral transformation of his myconid kin  
 
 **Defining recent actions:**  
 - Released anomalous spores that caused widespread hallucinations, ecstatic dancing, and loss of self among his kin  
 - Telepathically lured others with promises of peace, love, and communion with the Dark Lady  
-- Offered a final, urgent invitation to Thorin and Grygum to join the dream before dispersing spores to summon the dancers  
+- Offered a final, urgent invitation to Thorin and Gyrgum to join the dream before dispersing spores to summon the dancers  
 
 **Revealed motivations or secrets:**  
 - Corrupted by Zuggtmoy’s influence, no longer acting as a natural myconid but as a willing agent of the Demon Queen  

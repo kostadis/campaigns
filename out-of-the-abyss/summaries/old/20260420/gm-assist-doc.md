@@ -70,7 +70,7 @@ I will say this about Kaelira Duskryn: she had the manner of someone who had see
 
 I said what I actually believed, which is a thing I do less often than I probably should: "I literally have no idea why there's all this focus on me."
 
-The party fell into the kind of quiet that follows a statement that everyone believes. Thorin had that look he gets — the one where he's deciding whether to charge at the problem or stand very still and wait for it to explain itself. Grygum was probably filing away some theological observation about mysterious dispensations. Zalthir, characteristically, was simply watching.
+The party fell into the kind of quiet that follows a statement that everyone believes. Thorin had that look he gets — the one where he's deciding whether to charge at the problem or stand very still and wait for it to explain itself. Gyrgum was probably filing away some theological observation about mysterious dispensations. Zalthir, characteristically, was simply watching.
 
 The sisters departed. Professionally. Without ceremony. The contract was fulfilled; they were done.
 
@@ -82,7 +82,7 @@ Protecting me was one of those three things to someone powerful enough to fund i
 
 "You know what would help?" I said. "To audit their books."
 
-No one laughed. Grygum looked thoughtful, which is his equivalent.
+No one laughed. Gyrgum looked thoughtful, which is his equivalent.
 
 I sat with it privately, the thing I wasn't going to say aloud: *for all you know, the reason this all got started was because they all decided to be friends with the wrong drow.*
 
@@ -98,19 +98,19 @@ He was, annoyingly, not wrong.
 
 The moment Asha Vandree declared herself in charge, something in me went very still.
 
-She said it with the absolute confidence of someone who had just survived something she shouldn't have — chaos, screaming, close calls that she'd already reframed as divine favor — and that confidence was the problem. *Excellent! Now that I am in charge!* The words landed in the space between all of us like a stone dropped into still water, and I watched the ripples. Grygum's expression shifted: not offense exactly, more the particular look of someone who had decided, quietly, to do something about it. Daz's face was carefully neutral in the way that meant he was calculating very quickly. Thorin was already moving.
+She said it with the absolute confidence of someone who had just survived something she shouldn't have — chaos, screaming, close calls that she'd already reframed as divine favor — and that confidence was the problem. *Excellent! Now that I am in charge!* The words landed in the space between all of us like a stone dropped into still water, and I watched the ripples. Gyrgum's expression shifted: not offense exactly, more the particular look of someone who had decided, quietly, to do something about it. Daz's face was carefully neutral in the way that meant he was calculating very quickly. Thorin was already moving.
 
 I was watching Asha.
 
 I've read rooms like this before. The Garden Shadow had a saying — or possibly Brother Quellin did, the one with the dusty robes who taught something about pressure points of social authority, a class I attended for approximately four sessions before concluding I'd rather be running drills — that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won. Asha had already decided.
 
-Grygum tried. I'll give him that. He leveled something at her — a directed burst of divine light that should have taken her off her feet — and it missed, and she turned the miss into a declaration.
+Gyrgum tried. I'll give him that. He leveled something at her — a directed burst of divine light that should have taken her off her feet — and it missed, and she turned the miss into a declaration.
 
 "I am blessed by Lolth!"
 
 *Sure,* I thought. *Let's see.*
 
-"I certainly don't like condescension, regardless of—oh," Grygum said, the 'oh' arriving at the exact moment the bolt went wide. He recovered quickly: "Let's put a period after that 'now that I'm in charge' thing."
+"I certainly don't like condescension, regardless of—oh," Gyrgum said, the 'oh' arriving at the exact moment the bolt went wide. He recovered quickly: "Let's put a period after that 'now that I'm in charge' thing."
 
 Thorin put a period on it in a different way. He crossed the distance and got his hands on her — properly, a full grapple, one hand clamped over her mouth before she could invoke anything else. It was effective. It was also not a solution.
 
@@ -126,7 +126,7 @@ Nym looked at him for a long moment.
 
 She wasn't wrong. That was the irritating part. A Lolth cleric with her mouth uncovered is a Lolth cleric who can pray, command, curse — and a grapple, however competent, doesn't hold forever. We had Asha contained for exactly as long as Thorin's arms held out, which in practical terms meant we had a few seconds to decide what we were doing.
 
-I looked at Daz. He was still calculating. I looked at Grygum, who had the expression of someone who would prefer not to kill anyone and was trying very hard to think of an alternative. I looked at Asha, who even now, hand over her mouth, was watching us all with eyes that said she was already composing the prayer.
+I looked at Daz. He was still calculating. I looked at Gyrgum, who had the expression of someone who would prefer not to kill anyone and was trying very hard to think of an alternative. I looked at Asha, who even now, hand over her mouth, was watching us all with eyes that said she was already composing the prayer.
 
 There was a class for this. Decisive action under moral uncertainty — the ethics of necessary violence, or something like that. I think it was Brother Harren, the one who never sat down, who taught it. I don't remember what he said. I remember it went on for a long time.
 
@@ -148,7 +148,7 @@ Thorin, still holding what had been a problem until a moment ago, said: "I could
 
 "I don't like killing people if I don't have to," Thorin said. "I mean, you know..."
 
-He trailed off. I didn't fill the silence. He wasn't wrong either — that's the thing about both of them. Nym and Kaelira's calculation and Thorin's reluctance and Grygum's preference for alternatives and Daz's careful neutrality — all of it was reasonable. All of it was true.
+He trailed off. I didn't fill the silence. He wasn't wrong either — that's the thing about both of them. Nym and Kaelira's calculation and Thorin's reluctance and Gyrgum's preference for alternatives and Daz's careful neutrality — all of it was reasonable. All of it was true.
 
 I just happened to also be true.
 
@@ -158,7 +158,7 @@ I didn't look at the body.
 
 ---
 
-## Grygum — Looting the Drow Outpost
+## Gyrgum — Looting the Drow Outpost
 
 The keys were the first thing I noticed. A jailer's ring, iron and heavy, each key worn smooth from years of use. I turned them over in my hands and felt the particular weight of irony settle in my chest.
 
@@ -272,9 +272,9 @@ The fungal mass sat at the center of the chamber the way a problem sits at the c
 
 Smooth. Dense. Fist-sized. The weight of it was wrong for something grown — too even, too finished, like a stone that had been worked by a hand that knew what it was doing. And the sensation coming off it wasn't heat or cold exactly. More like standing next to a door that opens into a room you don't want to know about. Necromantic, I decided, the same way you decide the smell coming from the back of a giant's larder means something died in there a while ago. I didn't need a name for it. It was worth something to the right buyer, and I was not going to leave anything useful in this cavern, so I pocketed it.
 
-Behind me, Grygum was dealing with the platform.
+Behind me, Gyrgum was dealing with the platform.
 
-Ilvara had built herself something elevated, which made a certain kind of sense — High Priestesses don't stand at floor level, they stand at the level where everyone has to look up at them. But the fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach, slow and rhythmic like breathing, and Grygum was not the sort to leave corruption breathing. He opened his mouth, and the acid came out clean and decisive, and the fungal matter that had spent months becoming something wrong collapsed into ash in the time it takes to exhale. The smell that followed was scorched rot, which is not pleasant, but it was still better than the alternative. Better burned than spreading.
+Ilvara had built herself something elevated, which made a certain kind of sense — High Priestesses don't stand at floor level, they stand at the level where everyone has to look up at them. But the fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach, slow and rhythmic like breathing, and Gyrgum was not the sort to leave corruption breathing. He opened his mouth, and the acid came out clean and decisive, and the fungal matter that had spent months becoming something wrong collapsed into ash in the time it takes to exhale. The smell that followed was scorched rot, which is not pleasant, but it was still better than the alternative. Better burned than spreading.
 
 The bundle was underneath.
 
@@ -398,7 +398,7 @@ The light that came through the tunnel mouth was not like Dawnbringer's light, n
 
 My eyes managed it. Everything else took a moment.
 
-The others emerged around me. Thorin first, which was correct — he always led from the front, always had, it was as close to instinct as that dwarf ever got. Grygum next, blinking with something that looked less like discomfort and more like relief, the earnest half-orc having what appeared to be a genuine spiritual moment with direct sunlight. Daz came through last, the way Daz always came through last, already observing before he was fully present, already composing the analysis before his feet had cleared the threshold. The rest of our moltley crew followed, Eldeth, YukYuk, and the rest of the folks who had survived this journey. 
+The others emerged around me. Thorin first, which was correct — he always led from the front, always had, it was as close to instinct as that dwarf ever got. Gyrgum next, blinking with something that looked less like discomfort and more like relief, the earnest half-orc having what appeared to be a genuine spiritual moment with direct sunlight. Daz came through last, the way Daz always came through last, already observing before he was fully present, already composing the analysis before his feet had cleared the threshold. The rest of our moltley crew followed, Eldeth, YukYuk, and the rest of the folks who had survived this journey. 
 
 I stood and let the light happen to me. I put my cloak in a bag. I knew that Drow cloaks disintegrated in the sunlight.
 
@@ -406,15 +406,15 @@ There was a class for this. Some form of material impermanence — I think it wa
 
 It had not, in fact, worked itself out.
 
-Grygum had opened the bag of holding.
+Gyrgum had opened the bag of holding.
 
-I should clarify: Grygum had opened the bag of holding just enough, and Glabbagool — our companion, our gelatinous ward who was now a grey ooze, the most improbable relationship any of us had formed in the Underdark, which was saying something given the competition — had peered out. There is no other word for it. He peered. He had not been in sunlight before. None of us were entirely sure what Glabbagool's eyes were, from a structural standpoint, but they were wide and present and sweeping across the surface world with an attention that made my own response to the Overbright seem, by comparison, measured. He took it in the way a child takes in a first ocean, the way the sheer scale of a thing produces a silence that is not quite awe but is adjacent to it.
+I should clarify: Gyrgum had opened the bag of holding just enough, and Glabbagool — our companion, our gelatinous ward who was now a grey ooze, the most improbable relationship any of us had formed in the Underdark, which was saying something given the competition — had peered out. There is no other word for it. He peered. He had not been in sunlight before. None of us were entirely sure what Glabbagool's eyes were, from a structural standpoint, but they were wide and present and sweeping across the surface world with an attention that made my own response to the Overbright seem, by comparison, measured. He took it in the way a child takes in a first ocean, the way the sheer scale of a thing produces a silence that is not quite awe but is adjacent to it.
 
 I watched him watch the sky.
 
 Whatever he made of it, I did not have the vocabulary to ask. The Stonespeaker Crystal was Daz's. But I noted the response. Filed it. Glabbagool had survived Blingdenstone, the ooze crisis, the bag of holding, and however many months of Underdark travel, and his first reaction to the surface world was curiosity rather than retreat. I found that admirable in a way I was not going to say out loud.
 
-We stood in the Overbright for a while, longer than was probably necessary from a tactical standpoint, and nobody suggested moving immediately. That was unusual. We were a group that moved quickly, that had learned to move quickly, that treated stillness as the thing you did when stillness was the only remaining option. But nobody moved. Thorin stood with his face at an angle that suggested he was calculating the sun's position relative to the year. Grygum was doing something with his hands that was probably prayer and probably sincere. Daz was, I suspected, already drafting a journal entry.
+We stood in the Overbright for a while, longer than was probably necessary from a tactical standpoint, and nobody suggested moving immediately. That was unusual. We were a group that moved quickly, that had learned to move quickly, that treated stillness as the thing you did when stillness was the only remaining option. But nobody moved. Thorin stood with his face at an angle that suggested he was calculating the sun's position relative to the year. Gyrgum was doing something with his hands that was probably prayer and probably sincere. Daz was, I suspected, already drafting a journal entry.
 
 The weeks that followed blurred in the way that recovery blurs — not forgetting, exactly, but the edges going soft. We had months ahead of us before the next thing began, and the party spread toward its separate concerns the way a held breath spreads into air, each of us expanding slightly into the space the Underdark had compressed out of us.
 
@@ -422,7 +422,7 @@ The decision about what to do with the months was largely Daz's call, framed as 
 
 Thorin, characteristically, was thinking about Dawnbringer. Not what to do with it; he would never give it up, and the sword would never go quietly. But what it had been through. Months of darkness, months of the deep, a blade whose nature was radiance forced to endure the complete absence of the thing it was built to carry. He had mentioned something about a specialist — the phrase *sword whisperer* had come up, delivered with the particular dwarvish seriousness that Thorin applied to things he actually cared about, which meant he believed this person existed and should be found. I had no opinion on sword whisperers. I noted the category and moved on.
 
-Grygum had pamphlets on his mind. This was entirely consistent. Grygum was the only one among us who had accumulated a list of things he wanted to read, and Candlekeep was going to be, for him, something between research and pilgrimage. He would look up the lore of Bahamut. He would pick up pamphlets. He would be genuinely delighted by the availability of pamphlets. This was Grygum.
+Gyrgum had pamphlets on his mind. This was entirely consistent. Gyrgum was the only one among us who had accumulated a list of things he wanted to read, and Candlekeep was going to be, for him, something between research and pilgrimage. He would look up the lore of Bahamut. He would pick up pamphlets. He would be genuinely delighted by the availability of pamphlets. This was Gyrgum.
 
 Someone raised the question of the gold. We had more of it than we had started with — which was not saying much, given that we had started with nothing — and the debate that surfaced was the familiar one: invest it in something that might grow, or spend it on what would keep us alive. The logic for adventuring gear was simple enough that even I could lay it out without needing a meeting: we were people who went into danger. Gear reduced the consequences of danger. Business ventures required infrastructure we did not have, stability we had not earned, and a calendar that the demon lord situation was unlikely to respect.
 

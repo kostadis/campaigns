@@ -9,7 +9,7 @@ source: gmassist
 
 #### The party wraps up their time in Waterdeep and continues south toward Daggerford.
 - The party hears persistent rumors and legends about the Ardragon and Whistler as they continue south.
-- Grygum confirms his interest in purchasing a javelin of lightning, pasting a reference link for the DM. The DM confirms this is available.
+- Gyrgum confirms his interest in purchasing a javelin of lightning, pasting a reference link for the DM. The DM confirms this is available.
 - The party arrives at the settlement of Daggerford as they continue their journey south, with Candlekeep and its master Khell-Vire still ahead.
 - The DM indicates that events in Daggerford will be continued in the next session, noting there is more to come there — including at least one overheard story that was pulled back before being revealed.
 
@@ -17,7 +17,7 @@ source: gmassist
 
 **[Departing Waterdeep — Heading South]**
 - The party wraps up their time in Waterdeep and begins moving south.
-- Grygum raises a purchase he wants to make before the session moves on.
+- Gyrgum raises a purchase he wants to make before the session moves on.
 
 ---
 

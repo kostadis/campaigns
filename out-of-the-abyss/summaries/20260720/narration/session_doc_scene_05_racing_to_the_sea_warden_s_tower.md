@@ -1,7 +1,7 @@
 ---
 scene: 05
 slug: racing_to_the_sea_warden_s_tower
-narrator: Grygum
+narrator: Gyrgum
 scene_name: Racing to the Sea Warden's Tower
 session: 20260720
 ---
@@ -34,7 +34,7 @@ Then we ran.
 
 The library stretched out in front of us like something the map itself was struggling to hold: the walls smearing, the floor pulling long. We ran through it anyway, at a speed no honest set of legs earns, all the way to the Sea Warden's Tower.
 
-Kalan was buckling on his armor when we found him. He was rushing toward us as we rushed toward him, belting himself in, hearing the same bell we'd all heard. "Grygum, Daz, I heard the bell. Is everything okay?"
+Kalan was buckling on his armor when we found him. He was rushing toward us as we rushed toward him, belting himself in, hearing the same bell we'd all heard. "Gyrgum, Daz, I heard the bell. Is everything okay?"
 
 "Uh, no, Bookwyrm is dead."
 

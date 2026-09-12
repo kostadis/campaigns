@@ -21,7 +21,7 @@
 - Faction: Escaped prisoners (player group)
 - Revealed motivations/secrets: Can cast magical darkness and see through it; annoyed at being caught up in the Leemoogoogoon ritual and its consequences
 
-**Grygum**
+**Gyrgum**
 - Current location: On the boat, travelling the Darklake
 - Current state: Active
 - Recent actions: Carried Topsy and Turvy during the flight from Sloopbludop; deceived the Kuo-Toan monitors at the dock by claiming the Archpriest of the Sea Mother commanded them to help the community; fell into the Darklake on the 6th day; fought demonic manta ray creatures; chose to talk to the second Kuo-Toan boat rather than take it by force
@@ -33,7 +33,7 @@
 - Current state: Active
 - Recent actions: Carried Eldeth during the flight; fell into the Darklake on the 6th day; fought demonic manta ray creatures; told Shuushar to "follow your bliss"; gave Shuushar a tearful farewell hug
 - Faction: Escaped prisoners (player group)
-- Revealed motivations/secrets: Pieced together the demon incursion puzzle mentally before Grygum stated it aloud; challenged Eldeth's skepticism about what is possible
+- Revealed motivations/secrets: Pieced together the demon incursion puzzle mentally before Gyrgum stated it aloud; challenged Eldeth's skepticism about what is possible
 
 **Jimjar**
 - Current location: On the boat, travelling the Darklake
@@ -51,13 +51,13 @@
 **Topsy**
 - Current location: On the boat, travelling the Darklake
 - Current state: Recovered from Demogorgon-induced distress
-- Recent actions: Screaming and wailing at Demogorgon's appearance; carried by Grygum during the flight
+- Recent actions: Screaming and wailing at Demogorgon's appearance; carried by Gyrgum during the flight
 - Faction: Escaped prisoners (player group)
 
 **Turvy**
 - Current location: On the boat, travelling the Darklake
 - Current state: Recovered from Demogorgon-induced distress
-- Recent actions: Screaming and wailing at Demogorgon's appearance; carried by Grygum during the flight
+- Recent actions: Screaming and wailing at Demogorgon's appearance; carried by Gyrgum during the flight
 - Faction: Escaped prisoners (player group)
 
 **Spiderbait**
@@ -97,7 +97,7 @@
 **The Spectator** (referenced, not present)
 - Current location: Not present in this chunk
 - Current state: Unknown
-- Notes: Referenced by Grygum as having previously warned the group about demons; this warning is now confirmed as significant given Demogorgon's appearance
+- Notes: Referenced by Gyrgum as having previously warned the group about demons; this warning is now confirmed as significant given Demogorgon's appearance
 
 ---
 
@@ -107,7 +107,7 @@
 - Current goals: Escape the Underdark; reach Gracklstugh for better equipment; warn the surface world about the demon incursion
 - Recent actions: Fled Sloopbludop during Demogorgon's appearance; navigated the Darklake by boat; fought demonic manta ray creatures; said farewell to Shuushar; debated destination and accepted Buppido's suggestion of Gracklstugh
 - Relationships: Distrust of Buppido (he was gagged; Jimjar's quip); formerly allied with Shuushar (now departed); wary of Kuo-Toans generally (per Hemeth)
-- Key members: Daz, Zalthir, Grygum, Thorin, Jimjar, Eldeth, Topsy, Turvy, Spiderbait, Sarith, Hemeth, Buppido
+- Key members: Daz, Zalthir, Gyrgum, Thorin, Jimjar, Eldeth, Topsy, Turvy, Spiderbait, Sarith, Hemeth, Buppido
 
 **Followers of Leemoogoogoon**
 - Current goals: Unknown post-Demogorgon appearance; were cheering at the demon lord's roar
@@ -119,11 +119,11 @@
 - Current goals: Unknown; fractured — some terrified, some driven mad, some planning to fight Demogorgon
 - Recent actions: Reacted with terror, madness, or defiance to Demogorgon's appearance
 - Relationships: Opposed to followers of Leemoogoogoon
-- Key members: None named; Archpriest of the Sea Mother referenced (invoked by Grygum as a ruse)
+- Key members: None named; Archpriest of the Sea Mother referenced (invoked by Gyrgum as a ruse)
 
 **Kuo-Toan Monitors (Sloopbludop dock)**
 - Current goals: Sought purpose/direction
-- Recent actions: Were guarding the dock; were deceived by Grygum and sent to "help their community"; abandoned the dock, allowing the group to steal the boat
+- Recent actions: Were guarding the dock; were deceived by Gyrgum and sent to "help their community"; abandoned the dock, allowing the group to steal the boat
 - Relationships: Subject to authority of the Archpriest of the Sea Mother
 
 **Shuushar's Kuo-Toan Reformists**
@@ -138,20 +138,20 @@
 
 - Demogorgon roared and manifested at Sloopbludop, causing followers of the Deep Sea Mother to become terrified, go mad, or prepare to fight, while Leemoogoogoon's followers cheered in ecstasy.
 - Daz, Eldeth, Topsy, Turvy, and Shuushar collapsed screaming and wailing in response to Demogorgon's appearance.
-- Grygum deceived the Kuo-Toan monitors at the Sloopbludop dock by invoking the Archpriest of the Sea Mother's authority, causing them to abandon their posts.
+- Gyrgum deceived the Kuo-Toan monitors at the Sloopbludop dock by invoking the Archpriest of the Sea Mother's authority, causing them to abandon their posts.
 - The group boarded a boat at the Sloopbludop dock and paddled quietly away onto the Darklake.
 - Demogorgon destroyed the town of Sloopbludop; screams of the Kuotoans were heard from a distance as the group fled.
 - Shuushar reflected that Kuo-Toan collective imagination brought Leemoogoogoon/Demogorgon into existence.
-- Grygum stated aloud that demons have reached the prime material plane in large numbers, connecting prior warnings (the spectator's warning, demons at Velkynvelve) with Demogorgon's appearance.
+- Gyrgum stated aloud that demons have reached the prime material plane in large numbers, connecting prior warnings (the spectator's warning, demons at Velkynvelve) with Demogorgon's appearance.
 - Daz asserted that demons must be summoned and that summoning a demon lord requires powerful magic, implying deliberate action by an unknown party.
 - Eldeth declared the danger to all of Faerun undeniable and that the surface world must be warned.
 - The group decided to travel to Gracklstugh on Buppido's suggestion, partly motivated by the need for better equipment.
 - On the 4th day of the 3rd Tenday of Taraskh, Daz spotted and guided the boat through a dangerous field of submerged rocks in the Darklake.
-- On the 6th day of the 3rd Tenday of Taraskh, the low cave ceiling forced taller members to crouch; the boat jerked and Thorin, Grygum, and Daz fell into the Darklake.
-- Four demonic manta ray-like creatures (apparently corrupted local fauna) attacked Thorin, Grygum, and Daz in the water; the three defeated them.
+- On the 6th day of the 3rd Tenday of Taraskh, the low cave ceiling forced taller members to crouch; the boat jerked and Thorin, Gyrgum, and Daz fell into the Darklake.
+- Four demonic manta ray-like creatures (apparently corrupted local fauna) attacked Thorin, Gyrgum, and Daz in the water; the three defeated them.
 - Thorin noted that demonic creatures are now present among the Darklake's local flora and fauna.
 - On the 8th day of the 3rd Tenday of Taraskh, the watch spotted a second Kuo-Toan boat ahead on the Darklake.
-- Hemeth suggested taking the second boat by force; Shuushar and Grygum overruled this and chose to speak with the Kuo-Toans.
+- Hemeth suggested taking the second boat by force; Shuushar and Gyrgum overruled this and chose to speak with the Kuo-Toans.
 - Shuushar hailed the second boat; its occupants were Sloopbludop survivors receptive to his message of enlightenment.
 - Shuushar voluntarily left the group to join the Kuo-Toan survivors and pursue his reformist mission, bidding the group farewell.
 - Sarith revealed he has Shuushar's navigation instructions but is uncertain whether he can follow them correctly.
@@ -191,4 +191,4 @@
 - **Shuushar's reformist mission:** Shuushar has left the group to build a new Kuo-Toan society with survivors of Sloopbludop; the fate and success of this mission is unresolved.
 - **Demonic corruption of Darklake fauna:** Thorin noted that demonic manta ray creatures are now present in the Darklake among local wildlife; the extent of this corruption is unknown.
 - **The spectator's warning:** Previously warned the group about demons; now confirmed as accurate; the spectator's identity, location, and further knowledge remain potentially relevant.
-- **The Archpriest of the Sea Mother:** Invoked by Grygum as a ruse; their actual fate during Demogorgon's attack on Sloopbludop is unknown.
+- **The Archpriest of the Sea Mother:** Invoked by Gyrgum as a ruse; their actual fate during Demogorgon's attack on Sloopbludop is unknown.

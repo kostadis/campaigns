@@ -14,7 +14,7 @@ The sword hilt sits on top of the mummified corpse, held tight by its withered h
 “Please, help me.” 
 
 
-Grygum shouts, “Not a talking sword.” 
+Gyrgum shouts, “Not a talking sword.” 
 
 
 I groan. 
@@ -22,14 +22,14 @@ The sword hears that and exclaims, “I can help you! Please don’t let me go.�
 Then it must have figured out that I am a monk, and it can’t help me. 
 "You're a monk! Get the fighter over here!”
 
-Grygum mutters, “A talking mace would have been nice.” 
+Gyrgum mutters, “A talking mace would have been nice.” 
 
 
 I nod and think, “A silent glove would have been better.” 
 But enough of that, time to attack. And I focus my mind and strike the wraith with my hands. The creature is in shock. 
 
 
-And then I hear the belching sound that Grygum makes just before acid spews from his mouth, I move out of the way, and watch as the Wraith is covered in the slime.  
+And then I hear the belching sound that Gyrgum makes just before acid spews from his mouth, I move out of the way, and watch as the Wraith is covered in the slime.  
 Thorin, whose choices are always interesting, decides to drop his sword and pick up the magical hilt. The sword rejoices, and then, where there is no blade, a shimmering blade of light appears. 
 
 
@@ -50,7 +50,7 @@ Killed by barf. What an odd way to go.
 The sword introduces itself as Dawnbringer. A powerful sunblade that can read and write, and can cast lesser restoration. 
 
 
-Grygum is surprised it can read and write. The orc is confused that the creature can read without eyes. 
+Gyrgum is surprised it can read and write. The orc is confused that the creature can read without eyes. 
 
 
 I roll my eyes. He has never seen the eldritch horrors that exist here in the realms.
@@ -81,14 +81,14 @@ After millennia, the sword refused to extinguish its light. And Thorin, who is t
 As for our pursuers, Eldeth told us this morning that she believed we had lost them. They were no longer on our trail. 
 
 
-Grygum chortled, “I guess they didn't like the tomb.” 
+Gyrgum chortled, “I guess they didn't like the tomb.” 
 
 
 Today,d we arrive at Neverlight Grove. 
 
 
-As we enter the cave, the beauty overwhelms Grygum, who shouts, “Wow, this place is incredible.” 
-### Grygum
+As we enter the cave, the beauty overwhelms Gyrgum, who shouts, “Wow, this place is incredible.” 
+### Gyrgum
 ![image]()
 Wow, this place is incredible. My jaw hangs open, and I feel a shiver of awe run through me. We've been tramping through the Underdark for what feels like an eternity, and every twist and turn has brought more of the same—darkness, danger, and the constant, nagging feeling that something is about to jump out at us.
 But this is different. It's a vast cavern, but instead of being a dark, oppressive void, it's a living, breathing landscape of impossible color. The cave walls shimmer with a soft, bioluminescent light, casting a gentle glow on everything. The light is a beautiful mosaic of blues, greens, and purples, like a nebula trapped underground. Myconids, the mushroom folk we're traveling with, are everywhere, and they seem to be a part of this vibrant world, glowing with the same otherworldly light.
@@ -180,7 +180,7 @@ And so we leave,
 As we enter the forest, Basidia turns to us and says, “The grove is not safe. Another group of 'softers' arrived not too many cycles ago and accepted Phylo’s offer. They were taken to the Garden of Welcome. I haven’t seen them since, nor has Phylo made any further mention of them.” Basidia then whispers, even though we can only hear her in our heads, “the Circle of Masters is taking most of the carcasses the Circle of Hunters bring in, and are sending groups of myconids outside the grove without telling anybody.”
 
 
-Grygum, nervously, asks, “Are we seeing the Garden of Welcome today?” 
+Gyrgum, nervously, asks, “Are we seeing the Garden of Welcome today?” 
 
 
 Basidia laughs, “No. Today we shall the circles.” 
@@ -276,7 +276,7 @@ The walking mushroom looks at me and says, “We bring back the dead. We do not 
 I think to myself of the reanimated creatures I saw in the Whorlstone Caves and shudder. “Well I suppose it couldn’t hurt.” 
 
 
-Grygum looks uncomfortable, I turn to him and say - “What, you don't want a zombie grick joining our team? That sounds so fun.” 
+Gyrgum looks uncomfortable, I turn to him and say - “What, you don't want a zombie grick joining our team? That sounds so fun.” 
 
 
 A deadly game of K’tharr-li
@@ -304,7 +304,7 @@ They look at me funny, and I explain that when I was a child, there was a game w
 Much like K’tharr-li, we only have so much time. And unlike K’tharr-li, losing can be deadly. 
 
 
-### Grygum
+### Gyrgum
 Daz is using the kinds of tactics the Drow are famous for.  He is casting Shape Water, trying to freeze sections of the water and moss in a checkerboard pattern, playing a game he calls K’tharr-li to locate the monster. 
 
 
@@ -358,13 +358,13 @@ Focusing the force of my strike into its core, I execute a Stunning Strike. The 
 Daz proceeds, launching Scorching Ray attacks. He hits, but the creature is a swamp creature, and the fire is squelched. But still, I can see it is hurt. 
 
 
-Grygum casts Spirit Guardians. I note immediately that this spell creates a persistent zone of damage and that I can move creatures into this zone of damage. 
+Gyrgum casts Spirit Guardians. I note immediately that this spell creates a persistent zone of damage and that I can move creatures into this zone of damage. 
 
 
 The creature is stunned, and its speed is drastically reduced. Now, I must keep it anchored within the zone of damage created by the cleric. I think, "I have a reason to grapple.”
 
 
-I use my second strike to initiate a grapple. I am successful. The Shambling Mound is now trapped, immobilized within Grygum's radiating divine energy.
+I use my second strike to initiate a grapple. I am successful. The Shambling Mound is now trapped, immobilized within Gyrgum's radiating divine energy.
 
 
 Daz, despite the halved damage output, reinforces his attack with another Fireball.
@@ -388,10 +388,10 @@ The Sovereign, Basidia, accepts the Grick. We had stripped the Grik for its head
 Basidia then leads us toward the next segment of this bizarre cultural tour: the Circle of the Builders.
 
 
-As we are about to leave, Grygum asks if Rump-a-dump and Stool would like to join us. Basidia assures that they are pretty happy among their kind. Grygum persists, and he tells Basidia that he would be thrilled to have them come along. 
+As we are about to leave, Gyrgum asks if Rump-a-dump and Stool would like to join us. Basidia assures that they are pretty happy among their kind. Gyrgum persists, and he tells Basidia that he would be thrilled to have them come along. 
 
 
-I sense Grygum is worried. I don't know what. 
+I sense Gyrgum is worried. I don't know what. 
 
 
 We arrive at the Northern Terraces of the Neverlight Grove. The terraces lining the northern walls are suffused with faerzress, and I notice that this place is filled with vegetation. As I draw closer, I see water trickling from the walls of this vast cavern being channeled into a crude yet effective terraced irrigation system. A thick, sweet smell fills the air from the thousands of fungi of all colors and sizes, many glowing with a strange, inviting light.
@@ -401,19 +401,19 @@ As we arrive, a new Myconid, Gasbide, approaches us immediately. He is a 'Builde
 "You are new to this area!" he exclaims.
 
 
-Grygum, ever the one to leap at a conversational opening, replies simply, "Yes, we are".
+Gyrgum, ever the one to leap at a conversational opening, replies simply, "Yes, we are".
 
 
 Gasbide presses, "And... and are you from, from above?”.
 
 
-Grygum confirms with a touch of performative pomp: "Yes, we are from the Great Bright.
+Gyrgum confirms with a touch of performative pomp: "Yes, we are from the Great Bright.
 
 
 The builder is immediately obsessed, ignoring the potential dangers lurking outside the Grove. "I must learn about all of your... your... describe to me your buildings," he pleads.
 
 
-Grygum attempts to satisfy him with the most basic, unhelpful generalizations: "Well, we have some that are tall, and some that are big". This is precisely the type of generalized, imprecise data the Drow abhor.
+Gyrgum attempts to satisfy him with the most basic, unhelpful generalizations: "Well, we have some that are tall, and some that are big". This is precisely the type of generalized, imprecise data the Drow abhor.
 
 
 Gasbide quickly cuts through the fluff: "No, no, no, no, no, like, how are they built? I want you to... is it, like, what shape do they have? What materials do you use? How many windows? How many doors? I've heard the word 'windows'. What is a window?".
@@ -422,7 +422,7 @@ Gasbide quickly cuts through the fluff: "No, no, no, no, no, like, how are they 
 This creature is an engineer, captivated by the foreign concepts of surface architecture. Zalthir, seeing an opening to secure an advantage, focuses and conjures a small-scale structure using Minor Illusion. 
 
 
-"That’s impressive," Grygum notes, appreciative of the display.
+"That’s impressive," Gyrgum notes, appreciative of the display.
 
 
 Gasbide examines the illusion, calculating rapidly: "Is this to scale? But you don't fit in those buildings. Is it for small people?"

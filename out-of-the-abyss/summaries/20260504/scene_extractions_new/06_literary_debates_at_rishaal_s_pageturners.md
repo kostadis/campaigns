@@ -14,7 +14,7 @@ source: gmassist
 - The painting depicts Stroud, Milo, Malfire, and Whistler — the Kenku hooded in black, hovering a foot off the ground, beak half-shadowed under the hood, one hand raised in mimicry as if quoting a line of metallic dragon speech to the others.
 - Rishaal describes the "real-world fiction enthusiasts" as "exasperating, but they buy three copies of everything."
 - A group of those fans is audible at the back of the shop, arguing animatedly about a passage in Volume 2 — specifically whether Whistler could have flown from Triboar to a given location in two days, citing the Weber Report's account of wind conditions over ten days. Daz engages with the debate.
-- The fans are also split on Whistler's redemption arc: half believe Milo's account of his morally confused post-lycanthropy stage is too generous; the other half believe Malfire's "operational expenses, cost of living" framing is a philosophical breakthrough about the impossibility of pure heroism. Grygum observes that the book also has an unreliable narrator.
+- The fans are also split on Whistler's redemption arc: half believe Milo's account of his morally confused post-lycanthropy stage is too generous; the other half believe Malfire's "operational expenses, cost of living" framing is a philosophical breakthrough about the impossibility of pure heroism. Gyrgum observes that the book also has an unreliable narrator.
 - The party discovers a sign on the wall: *Whistler, Kenku of the First Faction, fallen at Glaziel's lair, the year of the Alliance, redeemed in life and death. May his silence speak.* Some factions have decided it is convenient to believe Whistler died at the end of the war. Daz absorbs this in silence.
 
 ## Verbatim moments
@@ -35,7 +35,7 @@ source: gmassist
 **GM** — *describing the fans at the back of the shop*
 > "There's also a bunch of real-world fiction fans at the back of the sharp arguing animatedly about a passage in Volume 2."
 
-**GM** — *Grygum's reaction to the fans*
+**GM** — *Gyrgum's reaction to the fans*
 
 **Ben Pfaff** — *choosing not to engage*
 > "I'm just looking around for things related to Bahamut, that this is, this is related."
@@ -55,7 +55,7 @@ source: gmassist
 **GM** — *describing the second controversy among the fans*
 > "Then there's… there's another, running argument about Whistler's redemption arc. The fans are split. Half think Myla's account of Whistler's morally confused post-lycanthropy stage is too generous. thinks, that Milo's operational expense, cost of living, and then the other think it's, no, Milo's operational expenses, cost of living framing is a philosophical breakthrough about the impossibility of pure good heroism. Apparently that's, like, what the fans are debating."
 
-**Ben Pfaff** — *observing as Grygum*
+**Ben Pfaff** — *observing as Gyrgum*
 > "Well, and the book has an unreliable narrator as well."
 
 **GM** — *stumbling, then clarifying the core fan question*

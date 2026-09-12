@@ -21,13 +21,13 @@
 **The Big Heart Fungus** (Zuggtmoy's icon / artifact, active threat)
 - Detonated a cloud of spores covering approximately 20 feet of cavern floor; cloud did not drift or disperse, behaving with atypical persistence
 - Cloud poisoned Zalthir, forcing him to disengage and ascend 10 feet out of the combat
-- Took damage from Grygum's Dust of Suleiman and 12 points from Daz's Fireball; still standing at end of described sequence
+- Took damage from Gyrgum's Dust of Suleiman and 12 points from Daz's Fireball; still standing at end of described sequence
 - Identified by Asha as the primary weapon of Ilvara's corruption and as originating from Neverlight Grove
 
 **Jorlan**
 - Positioned on the far side of the bridge from the party at the start of combat
-- Baited by Grygum's taunt ("Come get it, idiot") into crossing the bridge without checking the terrain
-- Triggered Grygum's Glyph of Warding, taking the full force of the detonation (21 damage in the blast radius)
+- Baited by Gyrgum's taunt ("Come get it, idiot") into crossing the bridge without checking the terrain
+- Triggered Gyrgum's Glyph of Warding, taking the full force of the detonation (21 damage in the blast radius)
 - Subsequently struck by Thorin for 14 damage (critical hit with Dawnbringer); left off-balance with disadvantage on next attack via Sap
 - Described as still active but heavily damaged and destabilized at end of the described sequence
 
@@ -59,7 +59,7 @@
 **The Ember Vanguard (party faction)**
 - Secured a provisional alliance with Asha Vandree; operational terms: party kills Ilvara and destroys the icon, Asha holds the perimeter and transfers Ilvara's magical items as payment
 - Successfully placed and detonated a Glyph of Warding on the bridge, destroying one fungal servant and destabilizing Jorlan
-- Expended significant resources: Grygum used Dust of Suleiman on the Big Heart Fungus; Daz expended a 4th-level slot on a sculpted Fireball hitting both Ilvara and the icon; Grygum's 4th-level slot status not confirmed expended
+- Expended significant resources: Gyrgum used Dust of Suleiman on the Big Heart Fungus; Daz expended a 4th-level slot on a sculpted Fireball hitting both Ilvara and the icon; Gyrgum's 4th-level slot status not confirmed expended
 
 ---
 

@@ -22,7 +22,7 @@ We were standing outside the caves when it happened. Thorin — that's me — ha
 
 Zalthir looked at me. He looks at me sometimes like I've just knocked over a shelf that he had carefully organized in his mind and the pieces are falling and he's watching them fall.
 
-"The Second Faction," said Grygum, which was wrong, and I said so.
+"The Second Faction," said Gyrgum, which was wrong, and I said so.
 
 Daz said, "The Ember Vanguard."
 
@@ -30,7 +30,7 @@ Nobody argued. Even Zalthir stopped looking pained.
 
 I raised my fist. "The Ember Vanguard. Onwards."
 
-Grygum groaned. Zalthir was already walking. Daz was smiling in that way he does when he's decided something has worked out according to a plan he had the whole time.
+Gyrgum groaned. Zalthir was already walking. Daz was smiling in that way he does when he's decided something has worked out according to a plan he had the whole time.
 
 It doesn't matter. We had a name. In the War of the Giants, you fight better when you know what to call the people beside you. You fight better when you're something instead of just a group that survived.
 

@@ -16,7 +16,7 @@
 
 ### Currently With Party (Candlekeep)
 
-**Glabbagool** — Sentient grey ooze, Zalthir's Shadow Apprentice. In Ch. 57 acted as Grygum's ad-hoc "secretary," receiving Fembris Lancer's research notes ("not nutritious," "I remember when there was cheese"). Still jailing the T'sarran spy. Needs the Stonespeaker Crystal (Daz) for speech.
+**Glabbagool** — Sentient grey ooze, Zalthir's Shadow Apprentice. In Ch. 57 acted as Gyrgum's ad-hoc "secretary," receiving Fembris Lancer's research notes ("not nutritious," "I remember when there was cheese"). Still jailing the T'sarran spy. Needs the Stonespeaker Crystal (Daz) for speech.
 
 **Dawnbringer** — Sentient sunblade (Thorin). In therapy with Philemon (Stage 1 → Stage 2 grief work).
 
@@ -44,7 +44,7 @@
 
 **Irony** — Staffer who arrived with a basin at the Dead Winter tree and nearly caught Alkrist.
 
-**Other handlers (carried over):** Yvenne (Daz; Daz'issin), Khell-Vire (Zalthir; the Bone King note), Philemon (Dawnbringer), Vareth (Grygum's theology).
+**Other handlers (carried over):** Yvenne (Daz; Daz'issin), Khell-Vire (Zalthir; the Bone King note), Philemon (Dawnbringer), Vareth (Gyrgum's theology).
 
 ### Active Threats (Off-Stage) — *Carried over*
 

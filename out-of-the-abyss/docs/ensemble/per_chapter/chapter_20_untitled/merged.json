@@ -453,7 +453,7 @@
   {
     "type": "event",
     "subject": "Entry into Assassin\u2019s Chamber",
-    "fact": "Daz, Thorin, Zalthir, and Grygum enter the assassin\u2019s lair while the rest of the party is ordered to wait; this marks the pivotal moment of direct confrontation with Eldgrim.",
+    "fact": "Daz, Thorin, Zalthir, and Gyrgum enter the assassin\u2019s lair while the rest of the party is ordered to wait; this marks the pivotal moment of direct confrontation with Eldgrim.",
     "source_quote": "Only these four will come, the rest of you... can wait here.",
     "quote_verified": false,
     "passes": [
@@ -529,8 +529,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum muttered, 'The egg.'",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum muttered, 'The egg.'",
     "source_quote": "\u201cThe egg,\u201d he mutters.",
     "quote_verified": true,
     "passes": [
@@ -540,8 +540,8 @@
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum noted, 'The obelix.'",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum noted, 'The obelix.'",
     "source_quote": "\u201cThe obelix,\u201d he notes when he looks atop the other tier.",
     "quote_verified": true,
     "passes": [
@@ -1003,8 +1003,8 @@
   {
     "type": "location",
     "subject": "Derro slums of Gracklstugh",
-    "fact": "Daz looks at Flumph, Jimjar, Sarith, Stool, Eldeth, and Spiderbait, armed with Errde\u2019s weapons. 'Perhaps they will help us' as they follow him, Zalthir, Grygum, and Thorin, into the Derro slums of Gracklstugh.",
-    "source_quote": "Daz looks at Flumph, Jimjar, Sarith, Stool, Eldeth, and Spiderbait, armed with Errde\u2019s weapons. 'Perhaps they will help us' as they follow him, Zalthir, Grygum, and Thorin, into the Derro slums of Gracklstugh.",
+    "fact": "Daz looks at Flumph, Jimjar, Sarith, Stool, Eldeth, and Spiderbait, armed with Errde\u2019s weapons. 'Perhaps they will help us' as they follow him, Zalthir, Gyrgum, and Thorin, into the Derro slums of Gracklstugh.",
+    "source_quote": "Daz looks at Flumph, Jimjar, Sarith, Stool, Eldeth, and Spiderbait, armed with Errde\u2019s weapons. 'Perhaps they will help us' as they follow him, Zalthir, Gyrgum, and Thorin, into the Derro slums of Gracklstugh.",
     "quote_verified": false,
     "passes": [
       "sweep"
@@ -1376,8 +1376,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum identifies a large red egg and a 50-foot-tall black metal obelisk atop a mesa in a glowing cavern, recognizing them as significant artifacts.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum identifies a large red egg and a 50-foot-tall black metal obelisk atop a mesa in a glowing cavern, recognizing them as significant artifacts.",
     "source_quote": "The egg... The obelix.",
     "quote_verified": false,
     "passes": [
@@ -1387,8 +1387,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a cleric of Bahamut who is saddened by the demonic possession of the egg and detects a resolve to harm the Derro magician, yet remains silent and observant.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a cleric of Bahamut who is saddened by the demonic possession of the egg and detects a resolve to harm the Derro magician, yet remains silent and observant.",
     "source_quote": "The cleric of Bahamut is saddened. Daz detects a resolve to hurt the Derro magician.",
     "quote_verified": true,
     "passes": [
@@ -1398,8 +1398,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is observant of arcane and symbolic structures; he identified the red egg and black obelisk atop the mesa as central artifacts of the Derro cult, and noted the female Derro\u2019s ritualistic interaction with the obelisk, which responds to her touch with faerzress flares.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is observant of arcane and symbolic structures; he identified the red egg and black obelisk atop the mesa as central artifacts of the Derro cult, and noted the female Derro\u2019s ritualistic interaction with the obelisk, which responds to her touch with faerzress flares.",
     "source_quote": "",
     "quote_verified": false,
     "passes": [
@@ -1409,8 +1409,8 @@
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum mutters, 'The egg.' Atop one of those tiers sits a large red egg. 'The obelix,' he notes when he looks atop the other tier. There stands a 50-foot-tall obelisk made of smooth black metal with a few noticeable imperfections, as though small parts of it were somehow chipped away.",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum mutters, 'The egg.' Atop one of those tiers sits a large red egg. 'The obelix,' he notes when he looks atop the other tier. There stands a 50-foot-tall obelisk made of smooth black metal with a few noticeable imperfections, as though small parts of it were somehow chipped away.",
     "source_quote": "The egg. Atop one of those tiers sits a large red egg. The obelix, he notes when he looks atop the other tier. There stands a 50-foot-tall obelisk made of smooth black metal with a few noticeable imperfections, as though small parts of it were somehow chipped away.",
     "quote_verified": false,
     "passes": [
@@ -1905,7 +1905,7 @@
   {
     "type": "object",
     "subject": "The Obelisk",
-    "fact": "A 50-foot-tall obelisk of smooth black metal with chipped imperfections stands atop the other tier of the mesa, noted by Grygum as 'The obelix.'",
+    "fact": "A 50-foot-tall obelisk of smooth black metal with chipped imperfections stands atop the other tier of the mesa, noted by Gyrgum as 'The obelix.'",
     "source_quote": "The obelix... there stands a 50-foot-tall obelisk made of smooth black metal with a few noticeable imperfections...",
     "quote_verified": false,
     "passes": [
@@ -1916,7 +1916,7 @@
   {
     "type": "object",
     "subject": "The Red Egg",
-    "fact": "A large red egg rests atop one tier of the central mesa in the glowing cavern, its significance implied by Grygum\u2019s mutter, 'The egg.'",
+    "fact": "A large red egg rests atop one tier of the central mesa in the glowing cavern, its significance implied by Gyrgum\u2019s mutter, 'The egg.'",
     "source_quote": "The egg... atop one of those tiers sits a large red egg.",
     "quote_verified": false,
     "passes": [

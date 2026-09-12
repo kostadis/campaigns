@@ -1,5 +1,5 @@
 **[Zalthir Teleports to Ilvara — The Assault Begins]**
-Zalthir teleported directly to Ilvara's position, striking her with a furious flurry of blows—landing the first hit for 16 damage with advantage, then grappling her and striking again for 15 more. He attempted to fly her bodily toward the Heart Fungus, intending to drop her into the area where Grygum's magic could ravage her.
+Zalthir teleported directly to Ilvara's position, striking her with a furious flurry of blows—landing the first hit for 16 damage with advantage, then grappling her and striking again for 15 more. He attempted to fly her bodily toward the Heart Fungus, intending to drop her into the area where Gyrgum's magic could ravage her.
 The opening salvo was devastating—31 damage in moments—and Thorin watched from across the cavern as their plan roared to life.
 
 ---
@@ -24,7 +24,7 @@ The cavern, already hostile, was suddenly teeming with enemies.
 
 **[Thorin Taunts Jorlan into the Trap]**
 Thorin: "Come get it, idiot!"
-Jorlan, the bitter, lovelorn drow warrior, charged forward—directly onto the bridge where Grygum had inscribed the Glyph of Warding. The explosion detonated perfectly, dealing 21 damage to Jorlan (who failed his save), destroying one spore servant outright, leaving another at 3 HP, and dealing 21 damage to the Heart Fungus itself.
+Jorlan, the bitter, lovelorn drow warrior, charged forward—directly onto the bridge where Gyrgum had inscribed the Glyph of Warding. The explosion detonated perfectly, dealing 21 damage to Jorlan (who failed his save), destroying one spore servant outright, leaving another at 3 HP, and dealing 21 damage to the Heart Fungus itself.
 Nobody expected the taunt to work so cleanly; the trap turned the opening round of combat decisively in the party's favor.
 
 ---
@@ -41,8 +41,8 @@ A glancing hit, but the spore walkers were closing in, and Thorin was now caught
 
 ---
 
-**[Grygum Drops the Dust of Suleiman on the Heart Fungus]**
-Grygum cast Dust of Suleiman centered on the massive Heart Fungus, and 20 points of force damage hammered into the creature with no save. The fungal monstrosity shuddered to its roots, and the sustained spell promised 20 more damage every turn it held.
+**[Gyrgum Drops the Dust of Suleiman on the Heart Fungus]**
+Gyrgum cast Dust of Suleiman centered on the massive Heart Fungus, and 20 points of force damage hammered into the creature with no save. The fungal monstrosity shuddered to its roots, and the sustained spell promised 20 more damage every turn it held.
 The Heart Fungus—Ilvara's weapon and anchor of control—was being ground down.
 
 ---
